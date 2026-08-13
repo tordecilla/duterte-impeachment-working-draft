@@ -6,6 +6,8 @@ reference for the Impeachment Trial of Vice President Sara Duterte.
 Created by **Jaemark Tordecilla**, journalist, technologist, and independent AI
 advisor.
 
+**Live site:** https://tordecilla.github.io/duterte-impeachment-working-draft/
+
 AI can make errors. Always verify quotations, names, rulings, and other
 consequential details against the official Senate video.
 
