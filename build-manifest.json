@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-08-13T17:04:46+08:00",
+  "complete_artifacts_only": true,
+  "sessions": [
+    {
+      "id": 14,
+      "youtube_id": "fq9R5ojvVko",
+      "revision": 2,
+      "segments": 417,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 13,
+      "youtube_id": "DHXtpcWqORo",
+      "revision": 3,
+      "segments": 1303,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 12,
+      "youtube_id": "qRMdgle9yR8",
+      "revision": 3,
+      "segments": 1247,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 9,
+      "youtube_id": "S_uQFF-0ciM",
+      "revision": 2,
+      "segments": 215,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    }
+  ]
+}

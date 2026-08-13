@@ -1,0 +1,503 @@
+{
+  "title": "Audio overview — July 7, 2026",
+  "description": "A source-linked English audio overview of the day's proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "id": "P001",
+      "kind": "intro",
+      "heading": "Introduction",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for July 7, 2026. This is a working reference, not an official Senate record.",
+      "citations": []
+    },
+    {
+      "id": "P002",
+      "kind": "overview",
+      "heading": "The big picture",
+      "text": "The July 7 session centered on the direct examination of the prosecution's first witness, National Bureau of Investigation Senior Agent John Mark Sta. Ana Calilung. He testified about collecting and authenticating recordings and online material connected to statements by Vice President Sara Duterte. The court played selected portions of recordings from November 23 and October 18, 2024. Calilung said he screen-recorded source videos, compared the recordings manually, and generated hash values for the recorded files. The defense challenged copies, unreadable or missing attachments, leading questions, and the loss of context from selected clips. The court allowed the presentation to continue in many instances, but left document admissibility for formal offer. Still open were a possible prosecution request to call Duterte, a tabled motion to strike part of a prosecution response, the defense's possible presentation of the complete November 23 recording, and Calilung's cross-examination on July 8.",
+      "citations": [
+        {
+          "segment_id": "S00095",
+          "start_seconds": 2116.91,
+          "clock": "00:35:16",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00101",
+          "start_seconds": 2203.4,
+          "clock": "00:36:43",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00336",
+          "start_seconds": 4177.34,
+          "clock": "01:09:37",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S00340",
+          "start_seconds": 4203.47,
+          "clock": "01:10:03",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S00526",
+          "start_seconds": 5971.53,
+          "clock": "01:39:31",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S00350",
+          "start_seconds": 4389.43,
+          "clock": "01:13:09",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00594",
+          "start_seconds": 7075.0,
+          "clock": "01:57:55",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00779",
+          "start_seconds": 8351.93,
+          "clock": "02:19:11",
+          "speaker_name": "Vice President Sara Zimmerman Duterte"
+        },
+        {
+          "segment_id": "S00861",
+          "start_seconds": 9372.34,
+          "clock": "02:36:12",
+          "speaker_name": "Vice President Sara Zimmerman Duterte"
+        },
+        {
+          "segment_id": "S01077",
+          "start_seconds": 11604.05,
+          "clock": "03:13:24",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01285C",
+          "start_seconds": 13311.723,
+          "clock": "03:41:51",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01476",
+          "start_seconds": 15272.43,
+          "clock": "04:14:32",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01536",
+          "start_seconds": 15857.9,
+          "clock": "04:24:17",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S01538",
+          "start_seconds": 15867.19,
+          "clock": "04:24:27",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00049",
+          "start_seconds": 1141.96,
+          "clock": "00:19:01",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00050",
+          "start_seconds": 1179.49,
+          "clock": "00:19:39",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "Before testimony began, Presiding Officer Francis “Chiz” Escudero confirmed that his prior statement requiring 16 affirmative votes for conviction was a ruling of the chair. He said the ruling stood because no senator-judge had objected or appealed. Senator Alan Peter Cayetano placed a continuing objection on record and said a written submission would follow.",
+      "citations": [
+        {
+          "segment_id": "S00026",
+          "start_seconds": 636.22,
+          "clock": "00:10:36",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00028",
+          "start_seconds": 703.09,
+          "clock": "00:11:43",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00029",
+          "start_seconds": 719.86,
+          "clock": "00:11:59",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "Prosecution counsel Lorna Kapunan described the Vice President as a prospective hostile witness and asked about her appearance. The chair answered that the rules did not require Duterte to attend while represented by counsel. It reserved action on any request to call her until that request was formally made.",
+      "citations": [
+        {
+          "segment_id": "S00049",
+          "start_seconds": 1141.96,
+          "clock": "00:19:01",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00050",
+          "start_seconds": 1179.49,
+          "clock": "00:19:39",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "Prosecutor Lorenz Defensor introduced Article Four as alleging threats and related constitutional offenses. The chair immediately instructed senator-judges that his introduction was not evidence. It then denied the defense motion to strike the remarks while repeating that they must not be treated as evidence.",
+      "citations": [
+        {
+          "segment_id": "S00078",
+          "start_seconds": 1699.88,
+          "clock": "00:28:19",
+          "speaker_name": "Lorenz R. Defensor"
+        },
+        {
+          "segment_id": "S00080",
+          "start_seconds": 1965.19,
+          "clock": "00:32:45",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00083",
+          "start_seconds": 2033.21,
+          "clock": "00:33:53",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The presiding officer treated the 16-vote threshold as a ruling of the chair that remained in force because it had not been objected to or appealed by a member of the court.",
+      "citations": [
+        {
+          "segment_id": "S00026",
+          "start_seconds": 636.22,
+          "clock": "00:10:36",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The chair ruled that the impeachment rules did not require the respondent to attend hearings while represented by counsel and said the court would decide any request to call or subpoena her only after a motion was filed.",
+      "citations": [
+        {
+          "segment_id": "S00050",
+          "start_seconds": 1179.49,
+          "clock": "00:19:39",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The court allowed Defensor five minutes for an Article Four introduction and promised the defense the same opportunity. It expressly directed that the introduction was not evidence. It denied the defense request to strike the remarks while preserving that instruction.",
+      "citations": [
+        {
+          "segment_id": "S00073",
+          "start_seconds": 1614.59,
+          "clock": "00:26:54",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00080",
+          "start_seconds": 1965.19,
+          "clock": "00:32:45",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00083",
+          "start_seconds": 2033.21,
+          "clock": "00:33:53",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "The prosecution characterized Article Four as alleging betrayal of public trust, culpable violation of the Constitution, and high crimes. It based that position on Duterte's publicly recorded statements about having someone kill the President, the First Lady, and the former House Speaker if she were killed.",
+      "citations": [
+        {
+          "segment_id": "S00078",
+          "start_seconds": 1699.88,
+          "clock": "00:28:19",
+          "speaker_name": "Lorenz R. Defensor"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "The prosecution offered Calilung's testimony to establish his digital-forensics background, his role in the investigation, and his collection, preservation, and authentication of the November 23 recording and related digital material.",
+      "citations": [
+        {
+          "segment_id": "S00101",
+          "start_seconds": 2203.4,
+          "clock": "00:36:43",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        }
+      ]
+    },
+    {
+      "id": "P011",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "On the selected-video dispute, prosecution counsel argued that Rule One Thirty-Two allowed it to present the portions it considered relevant and left the defense free to inquire into or present the remainder.",
+      "citations": [
+        {
+          "segment_id": "S00524",
+          "start_seconds": 5865.07,
+          "clock": "01:37:45",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        }
+      ]
+    },
+    {
+      "id": "P012",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense argued that Calilung and evidence not included with the originating complaints or articles should be excluded and linked that objection to its pending constitutional challenge to the prosecution's process.",
+      "citations": [
+        {
+          "segment_id": "S00125",
+          "start_seconds": 2615.2,
+          "clock": "00:43:35",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        }
+      ]
+    },
+    {
+      "id": "P013",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense maintained that photocopies bearing later certified-true-copy markings were not faithful reproductions of the electronic records or of the copies marked at pretrial. It reserved objections to authenticity and admissibility.",
+      "citations": [
+        {
+          "segment_id": "S00261",
+          "start_seconds": 3703.33,
+          "clock": "01:01:43",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S00270",
+          "start_seconds": 3733.04,
+          "clock": "01:02:13",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S00410",
+          "start_seconds": 5016.11,
+          "clock": "01:23:36",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00414",
+          "start_seconds": 5042.9400000000005,
+          "clock": "01:24:02",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        }
+      ]
+    },
+    {
+      "id": "P014",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense argued that playing selected minutes from the November 23 recording would omit context necessary to understand the statements. It stated that it intended to present the complete recording later in the proceeding.",
+      "citations": [
+        {
+          "segment_id": "S00519",
+          "start_seconds": 5816.25,
+          "clock": "01:36:56",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S00526",
+          "start_seconds": 5971.53,
+          "clock": "01:39:31",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        }
+      ]
+    },
+    {
+      "id": "P015",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Calilung identified himself as a 31-year-old NBI senior agent and testified that his training included computer and mobile forensics and photo-and-video authentication.",
+      "citations": [
+        {
+          "segment_id": "S00159",
+          "start_seconds": 2856.63,
+          "clock": "00:47:36",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S00168",
+          "start_seconds": 2975.0,
+          "clock": "00:49:35",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        }
+      ]
+    },
+    {
+      "id": "P016",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "He testified that the National Bureau of Investigation asked Meta to preserve the November 23 livestream and that he retained a screenshot of the preservation request. He said he screen-recorded the source with O-B-S software, manually compared the output with the source, and calculated a hash on the recorded output.",
+      "citations": [
+        {
+          "segment_id": "S00200",
+          "start_seconds": 3307.55,
+          "clock": "00:55:07",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S00207",
+          "start_seconds": 3359.3599999999997,
+          "clock": "00:55:59",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S00336",
+          "start_seconds": 4177.34,
+          "clock": "01:09:37",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S00340",
+          "start_seconds": 4203.47,
+          "clock": "01:10:03",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        }
+      ]
+    },
+    {
+      "id": "P017",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Under questioning by Senator Alan Peter Cayetano, Calilung said the source and screen-recorded video had different hashes and that he compared them manually. Under questioning by Senate President Sherwin Gatchalian, Calilung said he had no personal knowledge of an international accreditation body for the procedure he followed.",
+      "citations": [
+        {
+          "segment_id": "S00608",
+          "start_seconds": 7228.65,
+          "clock": "02:00:28",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S00610",
+          "start_seconds": 7234.77,
+          "clock": "02:00:34",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S01105",
+          "start_seconds": 11831.0,
+          "clock": "03:17:11",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S01121",
+          "start_seconds": 11942.94,
+          "clock": "03:19:02",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01122",
+          "start_seconds": 11950.24,
+          "clock": "03:19:10",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        }
+      ]
+    },
+    {
+      "id": "P018",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "Calilung's cross-examination had not begun when the session adjourned; it was scheduled for July 8 under the same subpoena.",
+      "citations": [
+        {
+          "segment_id": "S01538",
+          "start_seconds": 15867.19,
+          "clock": "04:24:27",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P019",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The admissibility of the challenged photocopies, authentication affidavits, flash drives, screenshots, and related documentary material remained for formal offer and later court rulings.",
+      "citations": [
+        {
+          "segment_id": "S00350",
+          "start_seconds": 4389.43,
+          "clock": "01:13:09",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00417",
+          "start_seconds": 5070.2,
+          "clock": "01:24:30",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P020",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The defense had not yet presented the complete November 23 recording that it said was necessary for context; the court preserved its right to do so during its own presentation.",
+      "citations": [
+        {
+          "segment_id": "S00526",
+          "start_seconds": 5971.53,
+          "clock": "01:39:31",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S00594",
+          "start_seconds": 7075.0,
+          "clock": "01:57:55",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P021",
+      "kind": "outro",
+      "heading": "How to use this overview",
+      "text": "The episode page links every substantive point to the timed transcript and the original Senate video. Verify consequential wording against those sources before publication.",
+      "citations": []
+    }
+  ]
+}
