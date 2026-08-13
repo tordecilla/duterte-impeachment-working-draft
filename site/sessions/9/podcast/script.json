@@ -1,0 +1,397 @@
+{
+  "title": "Audio overview — July 15, 2026",
+  "description": "A source-linked English audio overview of the July 15 proceedings in the Impeachment Trial of Vice President Sara Duterte.",
+  "language": "en",
+  "segments": [
+    {
+      "id": "P001",
+      "kind": "intro",
+      "heading": "Introduction",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for July 15, 2026. This is a working reference, not an official Senate record.",
+      "citations": []
+    },
+    {
+      "id": "P002",
+      "kind": "finding",
+      "heading": "The bottom line",
+      "text": "The day's central issue was whether the Impeachment Court should order the production of banking, Anti-Money Laundering Council, and tax records connected to Vice President Sara Duterte and her husband for Article Two. The prosecution and defense presented opposing legal arguments, but the senator-judges did not decide the two pending motions. After caucus, the presiding officer said the court would study them further and hear questions from both sides on July 20.",
+      "citations": [
+        {
+          "segment_id": "S00133",
+          "start_seconds": 2136.2,
+          "clock": "00:35:36",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00149",
+          "start_seconds": 2517.11,
+          "clock": "00:41:57",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00162",
+          "start_seconds": 3344.33,
+          "clock": "00:55:44",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00247",
+          "start_seconds": 10981.04,
+          "clock": "03:03:01",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00248",
+          "start_seconds": 11030.2,
+          "clock": "03:03:50",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "kind": "finding",
+      "heading": "What the court was considering",
+      "text": "There were two motions, not one blanket request. One concerned banking and Anti-Money Laundering Council records. The other concerned Bureau of Internal Revenue records. The presiding officer acknowledged that each motion contained narrower questions, including whose accounts and which kinds of records could properly be covered.",
+      "citations": [
+        {
+          "segment_id": "S00135",
+          "start_seconds": 2166.2799999999997,
+          "clock": "00:36:06",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00140",
+          "start_seconds": 2347.45,
+          "clock": "00:39:07",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "For the prosecution, Chel Diokno asked the court to subpoena bank records, tax records, and Anti-Money Laundering Council reports concerning Duterte and her husband, Manases Carpio. He said the material related to Article Two allegations of unexplained wealth, undeclared assets, and prohibited business participation while she was Vice President. He also argued that the Constitution gives the Impeachment Court broad authority to issue subpoenas, and that earlier financial activity could be relevant to the court's assessment of fitness for office. These were prosecution positions, not findings by the court.",
+      "citations": [
+        {
+          "segment_id": "S00149",
+          "start_seconds": 2517.11,
+          "clock": "00:41:57",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00151",
+          "start_seconds": 2641.42,
+          "clock": "00:44:01",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00152",
+          "start_seconds": 2740.55,
+          "clock": "00:45:40",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00153",
+          "start_seconds": 2835.8,
+          "clock": "00:47:15",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "For the defense, Michael Poa agreed that the court had subpoena power, but argued that any subpoena still had to be definite and relevant. He said the original House complaints contained no financial transaction record or statement of assets supporting the unexplained-wealth accusation. In the defense's view, asking for records reaching back to 2007 was overbroad, covered a period before Duterte held an impeachable office, and amounted to looking for proof after making the allegation.",
+      "citations": [
+        {
+          "segment_id": "S00162",
+          "start_seconds": 3344.33,
+          "clock": "00:55:44",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00185",
+          "start_seconds": 3468.9,
+          "clock": "00:57:48",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00186",
+          "start_seconds": 3592.11,
+          "clock": "00:59:52",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00208",
+          "start_seconds": 3629.76,
+          "clock": "01:00:29",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "The confidentiality dispute",
+      "text": "The parties also disagreed about confidentiality. Poa argued that the laws governing anti-money-laundering information and tax records did not contain an impeachment exception, and that the Bank Secrecy Law's impeachment exception did not automatically override due process or extend to the spouse's records. Diokno answered that issuing a subpoena would only obtain documents; the defense could still object if particular documents were later identified and offered as evidence. He also disputed the defense's reading of the confidentiality laws and cited a Supreme Court case involving subpoenas for bank records in an unexplained-wealth proceeding.",
+      "citations": [
+        {
+          "segment_id": "S00209",
+          "start_seconds": 3789.06,
+          "clock": "01:03:09",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00210",
+          "start_seconds": 3851.65,
+          "clock": "01:04:11",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00211",
+          "start_seconds": 3880.14,
+          "clock": "01:04:40",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00220",
+          "start_seconds": 4146.48,
+          "clock": "01:09:06",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00221",
+          "start_seconds": 4357.08,
+          "clock": "01:12:37",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
+      "heading": "What the court decided",
+      "text": "On the two Article Two motions, the court decided only to defer. The presiding officer said not all senator-judges had finished reading the parties' memoranda and that they wanted more time for the complicated issues. On July 20, senator-judges would be allowed up to 10 minutes each to question the parties, with no more than one hour allotted to each side.",
+      "citations": [
+        {
+          "segment_id": "S00247",
+          "start_seconds": 10981.04,
+          "clock": "03:03:01",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00248",
+          "start_seconds": 11030.2,
+          "clock": "03:03:50",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "finding",
+      "heading": "A separate subpoena ruling",
+      "text": "The court did grant a different set of subpoenas, and the distinction matters. Those orders concerned the prosecution's upcoming confidential-fund presentation, not the deferred Article Two financial-record motions. The court ordered Marivic Pareja, Violeta Constantino, and Nenita Camposano to appear, and ordered Lynette Ortiz of LandBank to appear and produce records, on July 21 and 22.",
+      "citations": [
+        {
+          "segment_id": "S00258",
+          "start_seconds": 11407.32,
+          "clock": "03:10:07",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00259",
+          "start_seconds": 11419.39,
+          "clock": "03:10:19",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00266",
+          "start_seconds": 11535.54,
+          "clock": "03:12:15",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "finding",
+      "heading": "The witness plan changed",
+      "text": "The prosecution withdrew five planned witnesses for Article Four and said National Bureau of Investigation Director Melvin Matibag would be its last witness on the threats article. It then identified the confidential-fund witnesses that it intended to call next. These were changes to the prosecution's presentation plan, not court findings about what the withdrawn witnesses would have proved.",
+      "citations": [
+        {
+          "segment_id": "S00249",
+          "start_seconds": 11057.55,
+          "clock": "03:04:17",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00250",
+          "start_seconds": 11126.61,
+          "clock": "03:05:26",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00252",
+          "start_seconds": 11184.05,
+          "clock": "03:06:24",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00253",
+          "start_seconds": 11306.91,
+          "clock": "03:08:26",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00256",
+          "start_seconds": 11344.04,
+          "clock": "03:09:04",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "finding",
+      "heading": "A limit on withdrawal statements",
+      "text": "Defense counsel Sheila Sison objected to lengthy explanations accompanying witness withdrawals, saying they contained factual and legal conclusions that only the court could determine. The presiding officer then directed both parties to limit future withdrawal statements to the fact of withdrawal, without argumentative explanations.",
+      "citations": [
+        {
+          "segment_id": "S00297",
+          "start_seconds": 11888.83,
+          "clock": "03:18:08",
+          "speaker_name": "Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00299",
+          "start_seconds": 11959.0,
+          "clock": "03:19:19",
+          "speaker_name": "Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00310",
+          "start_seconds": 12214.05,
+          "clock": "03:23:34",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00311",
+          "start_seconds": 12223.21,
+          "clock": "03:23:43",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P011",
+      "kind": "finding",
+      "heading": "The issue before oral arguments",
+      "text": "Before the main arguments, several senator-judges raised concerns about an announced National Bureau of Investigation inquiry into the 2019 Southeast Asian Games. At Pia Cayetano's request, the court played a clip of Matibag discussing the inquiry. Cayetano questioned whether the announcement was intended to pressure senator-judges and proposed returning to the issue when Matibag appeared. The record contains the concern and the played clip, but no contempt finding.",
+      "citations": [
+        {
+          "segment_id": "S00033",
+          "start_seconds": 422.2,
+          "clock": "00:07:02",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S00039",
+          "start_seconds": 676.11,
+          "clock": "00:11:16",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00069",
+          "start_seconds": 1642.99,
+          "clock": "00:27:22",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00073",
+          "start_seconds": 1761.08,
+          "clock": "00:29:21",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00110",
+          "start_seconds": 1862.24,
+          "clock": "00:31:02",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00117",
+          "start_seconds": 1933.94,
+          "clock": "00:32:13",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P012",
+      "kind": "finding",
+      "heading": "What remained open",
+      "text": "By adjournment, the court still had to decide the banking, anti-money-laundering, and tax-record motions, including questions about whose accounts, which records, confidentiality, relevance, and activity before the vice presidency. Matibag's testimony, the confidential-fund presentation, formal offers of evidence, final arguments, and decisions by article also remained ahead. The trial was adjourned until 2 P M on July 20.",
+      "citations": [
+        {
+          "segment_id": "S00135",
+          "start_seconds": 2166.2799999999997,
+          "clock": "00:36:06",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00232",
+          "start_seconds": 5096.12,
+          "clock": "01:24:56",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00238",
+          "start_seconds": 5230.81,
+          "clock": "01:27:10",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00247",
+          "start_seconds": 10981.04,
+          "clock": "03:03:01",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00253",
+          "start_seconds": 11306.91,
+          "clock": "03:08:26",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00279",
+          "start_seconds": 11708.12,
+          "clock": "03:15:08",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00280",
+          "start_seconds": 11727.71,
+          "clock": "03:15:27",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00409",
+          "start_seconds": 13091.25,
+          "clock": "03:38:11",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P013",
+      "kind": "outro",
+      "heading": "How to use this overview",
+      "text": "The episode page links every substantive point to the timed transcript and the original Senate video. Check consequential wording against those sources before publication. This narration is synthetic and does not imitate anyone in the proceeding.",
+      "citations": []
+    }
+  ]
+}

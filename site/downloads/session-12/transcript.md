@@ -1,0 +1,3747 @@
+# July 8, 2026
+
+Impeachment Trial of Vice President Sara Duterte
+
+Source: https://www.youtube.com/watch?v=qRMdgle9yR8
+Status: Reviewed working draft, revision 3
+
+**[00:03:31.980] Alfredo Sotto Corpuz**  
+Senate President, the Presiding Officer of the Impeachment Court, and the Senator-Judges.
+
+**[00:04:21.650] Sen. Sherwin T. Gatchalian**  
+Sergeant-at-Arms is directed to make a proclamation.
+
+**[00:04:28.850] Alfredo Sotto Corpuz**  
+All persons are commanded to keep silent under pain of penalty while the Impeachment Court is in session for the trial of Vice President Sara Zimmerman Duterte.
+
+**[00:04:40.900] Sen. Sherwin T. Gatchalian**  
+The impeachment trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator Pia Cayetano.
+
+**[00:05:00.150] Sen. Pia S. Cayetano**  
+Let us bow our heads. Heavenly Father, we come before you today with a deep sense of responsibility. We ask for your wisdom, Lord, the kind of wisdom that seeks only what is true and what is right. As Senator judges, may we listen carefully, reason clearly, and decide justly. May we never lose sight of the fact that our role here is not to serve any interest, but the interest of the Filipino people and the integrity of our institutions. We pray for fairness in every step of this process. May the truth be heard, may the evidence speak for itself, and may justice, whatever form it takes, be arrived at with honesty and with clear conscience. We also pray for our nation. We know that moments like this can divide us. May this process, difficult as it is, bring us closer to the kind of Philippines we all want to live in, one where no one is above the law and where every Filipino can trust that justice is real. In your word, Book of Timothy. 2, verses 1 to 2, Timothy urges the people to pray, petition, and intercede for their leaders. We are a prayerful nation, O Lord. Please hear our prayers. In Jesus' name, amen.
+
+**[00:06:01.930] Sen. Pia S. Cayetano**  
+Amen.
+
+**[00:06:09.640] Sen. Sherwin T. Gatchalian**  
+The Clerk of Court will now call the roll.
+
+**[00:06:12.800] Atty. Renato N. Bantug Jr.**  
+Roll call of members.
+
+**[00:06:15.500] Atty. Renato N. Bantug Jr.**  
+Senator-Judge Aquino. Senator-Judge Cayetano, Alan. Senator-Judge Cayetano, Pia. Senator-Judge Dela Rosa. Senator-Judge Ejercito. Senator-Judge Estrada. Senator-Judge Go. Senator-Judge Hontiveros. Senator-Judge Lacson. Senator-Judge Lapid. Senator-Judge Legarda. Senator-Judge Marcoleta. Senator-Judge Marcos. Senator-Judge Padilla. Senator-Judge Pangilinan. Senator-Judge Sotto III. Senator-Judge Tulfo, Erwin. Senator-Judge Tulfo, Raffy. Senator-Judge Villanueva. Senator-Judge Villar, Camille.
+
+**[00:06:57.150] Atty. Renato N. Bantug Jr.**  
+Senator-Judge Villar, Mark. Senator-Judge Zubiri. The Presiding Officer, Senator-Judge Escudero. Senate President Gatchalian.
+
+**[00:07:05.520] Sen. Sherwin T. Gatchalian**  
+With 20 Senators present, the Chair declares the presence of the quorum.
+
+**[00:07:14.520] Sen. Sherwin T. Gatchalian**  
+We recognize the Presiding Officer, Senator Chiz Escudero.
+
+**[00:07:18.400] Sen. Francis “Chiz” Escudero**  
+Thank you, Mr. Senate President.
+
+**[00:07:23.280] Sen. Francis “Chiz” Escudero**  
+The Presiding Officer dispenses with the reading of the journal, and if there are no—unless there are objections, considers the journal of July 7, 2026 as— Approved. The Clerk of Court will please call the case before the Impeachment Court.
+
+**[00:07:39.910] Atty. Renato N. Bantug Jr.**  
+Case No. 004-2026, in the matter of the impeachment trial of Vice President Sara Zimmerman Duterte.
+
+**[00:07:50.560] Sen. Francis “Chiz” Escudero**  
+Appearances of the parties.
+
+**[00:08:00.320] Sen. Francis “Chiz” Escudero**  
+Tech, kindly turn on the mic.
+
+**[00:08:09.100] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Good afternoon, Your Honors. Same appearance for the Prosecution.
+
+**[00:08:15.460] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We are ready, Your Honor.
+
+**[00:08:16.840] Sen. Francis “Chiz” Escudero**  
+Appearances for the Respondent.
+
+**[00:08:23.100] Sheila C. Sison**  
+Good afternoon, Your Honors. Same appearance for the Vice President.
+
+**[00:08:26.990] Sen. Francis “Chiz” Escudero**  
+The Clerk of Court is instructed to kindly bring the witness who was testifying yesterday, I believe Mr. Calilung.
+
+**[00:08:41.330] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the prosecution is ready for the continuation of the presentation of our first witness, NBI agent Calilung.
+
+**[00:08:51.770] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+And with that, Your Honor, we would like to request that Atty. Virgil Ligutan, Atty. Amado Ligutan, be recognized, Your Honor.
+
+**[00:09:10.030] Sen. Francis “Chiz” Escudero**  
+For the record, Atty. Ligutan will be representing the counsel for prosecutors and on the part of the respondent, it will be Atty. Narvasa.
+
+**[00:09:21.260] Sen. Francis “Chiz” Escudero**  
+That will be correct?
+
+**[00:09:28.820] Sen. Francis “Chiz” Escudero**  
+By the way, while we're waiting for the witness, Atty. Narvasa, if you recall yesterday, Atty. Ligutan, in response to a question by a senator-judge, gave a discussion, a peroration, if you will. But yesterday I said we will be giving counsel the same opportunity. I cleared it earlier with Senator Pia Cayetano, who wanted the statements deleted from the record. However, since this is a televised proceeding,
+
+**[00:10:10.450] Sen. Francis “Chiz” Escudero**  
+The fairest thing to do is to give you an opportunity as well. Atty. Ligutan spent five minutes and 18 seconds delivering his discussion. The Court will give you the same time after your cross-examination, with a warning—
+
+**[00:10:56.490] Sen. Francis “Chiz” Escudero**  
+I would
+
+**[00:10:58.800] Sen. Alan Peter Cayetano**  
+like to thank the Presiding Officer for
+
+**[00:11:05.010] Sen. Alan Peter Cayetano**  
+For prudence, for wisdom in trying to resolve this issue. And I do understand that we are 24 people, all elected by the people, all wanting justice, all wanting a fair trial. Having said that, prudence dictates that we stop ourselves from asking certain questions that can prejudice the whole trial, whether or not
+
+**[00:11:35.530] Sen. Alan Peter Cayetano**  
+Our intention is to do so. So the problem is well stated by the presiding officer that if we simply delete from the record,
+
+**[00:11:45.560] Sen. Alan Peter Cayetano**  
+eh
+
+**[00:11:46.180] Sen. Alan Peter Cayetano**  
+mapapanood nyo na rin naman sa YouTube yung magandang discussion ng prosecution. So on one sense, it is fair to give the defense a chance to answer. But on another sense, it's unfair. Why? Because whoever phrases the question, lamang na eh. Because the question is, why is this an impeachable offense? So for example, if I was the one who stood up yesterday and I asked the prosecution, why is this a political vendetta?
+
+**[00:12:19.580] Sen. Alan Peter Cayetano**  
+And why is the House not investigating the flood control instead of investigating the Vice President? That would be unfair. That would be unfair to the House. That would be unfair to everyone. So simply giving the prosecution the chance to answer that question I asked,
+
+**[00:12:37.220] Sen. Alan Peter Cayetano**  
+It would be unfair to everyone. So I do not know the solution. I accept the solution of the Presiding Officer. Now, let's not tolerate any more questions like that. I agree with Senator Pia. I don't like being called out. But that's the role of the Presiding Officer and the Senate President. So sana yun lang. One, when we ask the questions, we'll make sure it doesn't prejudice the whole trial. Whatever we say here, may ma-accuse na lawyering for the prosecution or defense, okay lang yun. Okay lang yun. Sa prayer nga kahapon, basta justice, bahala na magalit. Okay. But my last point, Mr. President, let's give the defense a little latitude in not only answering that question, but what you want to say. Because nga, the question is unfair. So if you're simply going to answer that question, then it won't solve the problem na nakapagsalita sila five minutes, kayo nakapagsalita. So we'll consider, personally, I'll consider the very eloquent answer yesterday as a sort of a closing. So same, same, personally, Mr. Presiding Officer, give the latitude to the defense na parang closing din na whatever. Because they have affirmative defenses. And they did not push us to hear that. They went straight to trial. So dun din sa mga nagsasabi na delay sa dami ng objection, that's unfair. Let's give everyone latitude here. The same thing, I think may konti sa internet na photocopies are not original and the counsel was simply citing a Supreme Court decision.
+
+**[00:14:13.920] Sen. Alan Peter Cayetano**  
+And the rules of court. And the rules of court.
+
+**[00:14:16.160] Sen. Alan Peter Cayetano**  
+So I'm just saying it's an emotional issue, so all of us will be [unclear], whatever, I think, witness. [unclear], but having said that, Mr. President, let's give each other leeway, but only to the point that the trial will not disintegrate into a political fiasco or circus. Thank you, Mr. President.
+
+**[00:14:45.760] Sen. Francis “Chiz” Escudero**  
+The remarks of Senator-Judge Alan Cayetano are noted. Senator-Judge Pia Cayetano.
+
+**[00:14:52.583] Sen. Pia S. Cayetano**  
+Thank you, Mr. President. This will be brief. First of all, I'd just like to confirm that I acknowledge what the presiding officer said, that I agreed. Basically, I'm withdrawing my motion in the interest of fairness because the delivery of justice is about fairness. So, if the prosecution can
+
+**[00:15:15.660] Sen. Pia S. Cayetano**  
+speak with their closing statement. I am amenable to that. But very, very, very briefly, Mr. President, I'd like to put on record, why are we being strict about the rules? Why do I have to bother standing up? Well, because nothing in this world will run well without the rules.
+
+**[00:15:44.380] Sen. Pia S. Cayetano**  
+The Senate is a basketball-loving Senate. Dami dito hilig mag-basketball. Kung ako volleyball player, colleagues ko basketball. I'll use basketball as an example. Will you have a decent basketball game if there's no rules? No, there's rules. That's why we stand up. And then sometimes there are also opportunities to question the rules. That's also fine. But that's why we have to stand up and call the attention of the presiding officer when we feel that the rules are being violated. And we will continue to do so. When we believe it is necessary in the interest of justice. Thank you, Mr. President. The
+
+**[00:16:17.230] Sen. Francis “Chiz” Escudero**  
+The remarks of the lady are noted. Since we are discussing housekeeping chores and matters, let the Presiding Officer continue with the same. The Presiding Officer will call for a break midway through in order to afford the parties 15 minutes to relax, go over their notes, and do their thing. In regard to senator-judges or counsel for the parties who are not on deck, you're free to answer the call of nature in the least disruptive manner possible and return afterwards outside of the 15 minutes that we will be doing halfway through the proceedings. And finally, a request has been brought to the Presiding Officer to request as well the senator-judges to lower the tone of conversational voices because I think where you're seated is an echo chamber. Naririnig sa iba't ibang sulok ng plenaryong ito yung mga sinasabi din ninyo at hindi din nakakapag-concentrate yung ilan sa ating mga kasama na nakaupo sa paligiran ninyo. Just a reminder, and one last reminder before I recognize counsel for the respondent: Mr. Calilung, you will be testifying once again and will be undergoing cross-examination under the same oath that you took yesterday. Do you understand that?
+
+**[00:17:46.840] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[00:17:48.020] Sen. Francis “Chiz” Escudero**  
+Thank you. Counsel for Respondent, Atty. Narvasa, if you are ready, you may proceed with your cross-examination.
+
+**[00:17:56.740] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, may I be allowed to approach a witness?
+
+**[00:18:03.960] Sen. Francis “Chiz” Escudero**  
+You may do so, counsel.
+
+**[00:18:08.650] Atty. Carlo Joaquin T. Narvasa**  
+Good
+
+**[00:18:09.090] Atty. Carlo Joaquin T. Narvasa**  
+afternoon, Mr. Calilung. Dr. Nelson. During your direct examination, you testified that you were trained on photo and video authentication.
+
+**[00:18:18.100] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:18:19.300] Atty. Carlo Joaquin T. Narvasa**  
+You said that you were trained for two weeks?
+
+**[00:18:22.500] John Mark Sta. Ana Calilung**  
+Specifically for photo and video, sir.
+
+**[00:18:24.600] Atty. Carlo Joaquin T. Narvasa**  
+Sir, my questions are answerable by yes or a no. Could you please constrain yourself to...
+
+**[00:18:34.530] Atty. Carlo Joaquin T. Narvasa**  
+Atty. Marcello
+
+**[00:18:37.950] Sen. Francis “Chiz” Escudero**  
+C.
+
+**[00:18:40.870] Sen. Francis “Chiz” Escudero**  
+Before counsel for respondent proceeds, counsel for the prosecutor, let the Presiding Officer recognize you first. You are so recognized, sir. What is your objection?
+
+**[00:18:57.470] Atty. Amando Virgil D. Ligutan**  
+Bacquel Unfortunately, Your Honor, please, that's not sanctioned in the rules. There's nothing in our rules that would allow a defense to constrain a witness even on cross-examination to answer the questions by a yes or no answer. It's not in the rules. So, Your Honor, please, we cannot constrain a witness to answering either a yes or a no. The witness should be able to qualify. The usual answer by the defense is that it could be handled by the prosecution on
+
+**[00:19:30.450] Atty. Amando Virgil D. Ligutan**  
+Redirect, but that is not the case. [unclear] the defense to constrain the witness to answer yes or no, the prosecution will vehemently object to that, Your Honor, please.
+
+**[00:19:44.730] Sen. Francis “Chiz” Escudero**  
+The Presiding Officer overrules the objection. The counsel for the prosecutors can make a [unclear].
+
+**[00:19:49.010] Sen. Francis “Chiz” Escudero**  
+'Arnaud, Atty.
+
+**[00:19:58.020] Sen. Francis “Chiz” Escudero**  
+According to his testimony yesterday, he has attended over, if I recall correctly, 30 hearings already. So he would know how to respond and to explain if the need would arise. And it's up for counsel for the respondent, if at all, to strike out whatever answers that are not responsive to his question. Counsel for the respondent may proceed. Thank you.
+
+**[00:20:17.140] Atty. Amando Virgil D. Ligutan**  
+We would abide, Your Honor. We would abide.
+
+**[00:20:18.600] Sen. Francis “Chiz” Escudero**  
+Thank you, counsel, for the prosecutors.
+
+**[00:20:20.600] Atty. Carlo Joaquin T. Narvasa**  
+And you testified that you got this training from Max Corps Interventures, correct?
+
+**[00:20:26.790] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:20:27.820] Atty. Carlo Joaquin T. Narvasa**  
+And you said that the training you got from MaxCore InterVentures was in digital forensics.
+
+**[00:20:33.550] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:20:34.650] Atty. Carlo Joaquin T. Narvasa**  
+I have with me an article of partnership of MaxCore InterVentures Co. You see that it states that it is the articles of partnership of MaxCore InterVentures Co.
+
+**[00:20:48.850] Atty. Amando Virgil D. Ligutan**  
+Your Honor, may we allow Atty. Stephen Magallon to also approach the
+
+**[00:20:57.370] Atty. Amando Virgil D. Ligutan**  
+Witnesses stand to peruse the document. And of course, at this juncture, Your Honor, please. I have to object. I have no question yet, Your Honor. I am objecting to the witness being shown an articles of incorporation, a partnership of a... Partnership, Your Honor, please. Anyway, since the question has not been asked, I will— Let us wait
+
+**[00:21:22.940] Sen. Francis “Chiz” Escudero**  
+for the question, counsel. In the meantime, the Presiding Officer allows counsel for the prosecutors to examine
+
+**[00:21:30.000] Atty. Carlo Joaquin T. Narvasa**  
+the document being presented
+
+**[00:21:30.960] Sen. Francis “Chiz” Escudero**  
+to
+
+**[00:21:31.200] Atty. Carlo Joaquin T. Narvasa**  
+the witness. And, Your Honor, for the reference of the senators, we are flashing these articles of partnership on the screens. Sir, please take a look at page two of these articles.
+
+**[00:21:54.510] Atty. Carlo Joaquin T. Narvasa**  
+Page two, sir. That's here.
+
+**[00:21:57.530] Atty. Carlo Joaquin T. Narvasa**  
+Page one,
+
+**[00:21:58.110] Atty. Carlo Joaquin T. Narvasa**  
+page two.
+
+**[00:22:00.980] Atty. Carlo Joaquin T. Narvasa**  
+Let's read it together, okay?
+
+**[00:22:04.540] Atty. Carlo Joaquin T. Narvasa**  
+Primary purpose, to engage in the business of trading both import and export of goods on wholesale retail basis. Do you see that, sir?
+
+**[00:22:15.620] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:22:17.900] Atty. Carlo Joaquin T. Narvasa**  
+Now on page, the same very, very same page two. The secondary purpose. Let's read it together again. Own, use, improve, develop, subdivide, sell, exchange, lease, All kinds including buildings, houses, apartments, and other structures. Do you see that, sir?
+
+**[00:22:39.140] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:22:42.230] Atty. Carlo Joaquin T. Narvasa**  
+After that, in the same page two, the second secondary purpose is to print, publish, distribute, buy, sell, acquire, acquire rights to and generally deal in all kinds of software packages, books, periodicals, newspapers, magazines, journals. and other publications dealing in or having to do with subjects of all kinds character and all acts of things as may time to time be deemed needful necessary or required you see that sir
+
+**[00:23:16.820] John Mark Sta. Ana Calilung**  
+yes sir
+
+**[00:23:17.690] Atty. Carlo Joaquin T. Narvasa**  
+thank
+
+**[00:23:22.320] Atty. Carlo Joaquin T. Narvasa**  
+you sir now i'm showing you a screenshot of the website of this max score interventions co it states under about us I am also flashing this on the screen, your honors, for the ease of the center judges.
+
+**[00:23:47.160] Atty. Amando Virgil D. Ligutan**  
+Your honor, at this juncture, the prosecution will now manifest that there was no question propounded as to the presentation of the articles of partnership. And the council is now moving forward to the presentation of an alleged website. Therefore, it seems that the defense council is the one Presenting the documents without propounding any question to this witness. Highly improper, Your Honor, please. Highly improper. The counsel should be asking question and not presenting document. You will have your turn when the defense team is allowed to present your evidence. Two documents, no question yet. Highly improper, Your Honor, please. Again, I don't want to put the lawyer on the spot. But that is highly improper. Ask questions. Your Honor, I did ask questions. No, there was no question. Can we
+
+**[00:24:46.860] Atty. Amando Virgil D. Ligutan**  
+ask
+
+**[00:24:47.080] Sen. Francis “Chiz” Escudero**  
+that the transcript be read back? Counsel, kindly proceed. Thank you. Counsel, for the prosecutors, with understanding that Mr. Calilung is not testifying as to the truth of whatever counsel asked him or what he read, because clearly he's not competent to testify as to the truth of what is contained in the articles of partnership. However, as to the fact that he read it and saw it, Up to that extent. And the senator judges are so advised as well. So ordered. You may proceed, sir. Thank you, sir. And I am on cross, Your Honor. Thank you.
+
+**[00:25:16.330] Atty. Carlo Joaquin T. Narvasa**  
+Sir, under the words about us, it says, MaxCorp InterVentures has been established as a one-stop source of different products and services intended for both government and private institutions. Its company tagline Innovation without boundaries stands true testament to provide customers with quality merchandise from the simplest to the most sophisticated ones at very affordable prices. The company places a long-term business relationship through customer satisfaction on top of its priority list with integrity and honesty as the foundation of the company. It envisions to evolve into excellence amidst the competitive pace of information technology. You see that, sir?
+
+**[00:26:03.750] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:26:04.490] Atty. Carlo Joaquin T. Narvasa**  
+Sir, now I'm showing you another screenshot of the website of this MaxCore Interventors Co. You confirmed that I'm also flashing this for the ease of the court.
+
+**[00:26:51.150] Atty. Amando Virgil D. Ligutan**  
+Sir? At this point, Your Honor, please allow. The prosecution is allowed.
+
+**[00:26:57.380] Sen. Francis “Chiz” Escudero**  
+Counsel for the prosecutor is recognized. Your Honor, not
+
+**[00:27:01.020] Atty. Amando Virgil D. Ligutan**  
+by way of an objection, but... A manifestation, Your Honor, please. Your
+
+**[00:27:07.290] Atty. Amando Virgil D. Ligutan**  
+Honor,
+
+**[00:27:07.550] Atty. Amando Virgil D. Ligutan**  
+this
+
+**[00:27:07.670] Atty. Carlo Joaquin T. Narvasa**  
+is— Wait,
+
+**[00:27:08.110] Atty. Carlo Joaquin T. Narvasa**  
+wait, wait.
+
+**[00:27:08.490] Atty. Carlo Joaquin T. Narvasa**  
+Before that, I would like to object to your manifestation. Your Honor, there's no objection. Why is the prosecutor allowed to manifest during my cross-examination?
+
+**[00:27:17.750] Sen. Francis “Chiz” Escudero**  
+Counselor,
+
+**[00:27:18.090] Sen. Francis “Chiz” Escudero**  
+correspondent, kindly wait for the Presiding Officer to recognize you. Thank you, Your Honor. What is the desire of the counsel of the prosecutors
+
+**[00:27:25.070] Sen. Francis “Chiz” Escudero**  
+to make
+
+**[00:27:25.670] Atty. Amando Virgil D. Ligutan**  
+I would like
+
+**[00:27:25.970] Atty. Amando Virgil D. Ligutan**  
+to put into record the simple fact, Your Honor, please, that basis has not yet been laid as to the presentation of this. He presented an article of partnership and screenshots of websites without saying who took these screenshots or from where did the defense get the articles of partnership. That is only by way of manifestation. No need for the court to rule on that, Your Honor, please.
+
+**[00:27:54.540] Sen. Francis “Chiz” Escudero**  
+Noted. Earlier ruling of the Presiding Officer stands. Counsel may proceed.
+
+**[00:27:58.940] Sen. Francis “Chiz” Escudero**  
+Your
+
+**[00:27:59.040] Atty. Carlo Joaquin T. Narvasa**  
+Honor, may I respond?
+
+**[00:28:00.640] Sen. Francis “Chiz” Escudero**  
+No need, Counsel. It was not an objection. Please proceed with your cross. Thank you, Your Honor.
+
+**[00:28:08.870] Atty. Carlo Joaquin T. Narvasa**  
+May I also state a manifestation, Your Honor?
+
+**[00:28:14.810] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, the basis of the defense was laid—
+
+**[00:28:19.050] Sen. Francis “Chiz” Escudero**  
+For the record, the Chair will allow it. Just this once, please.
+
+**[00:28:22.990] Atty. Carlo Joaquin T. Narvasa**  
+Thank you.
+
+**[00:28:23.350] Atty. Carlo Joaquin T. Narvasa**  
+The basis of the defense was laid when we asked him whether he testified that he
+
+**[00:28:31.470] Atty. Carlo Joaquin T. Narvasa**  
+got his training as an expert witness from Maxcor Inverventures.
+
+**[00:28:38.700] Sen. Francis “Chiz” Escudero**  
+Please proceed.
+
+**[00:28:40.750] Atty. Carlo Joaquin T. Narvasa**  
+Thank you, Your Honor. Sir, could you take a look at this? Under the words, our products, the products seen there are office supplies and equipment, ICT equipment software and hardware, investigative equipment hardware and software, emergency response software, and CCTVs. Do you see that?
+
+**[00:29:02.310] John Mark Sta. Ana Calilung**  
+Yes.
+
+**[00:29:02.840] Atty. Carlo Joaquin T. Narvasa**  
+Thank you.
+
+**[00:29:05.010] Atty. Carlo Joaquin T. Narvasa**  
+Mr. Calilung, are you a lawyer?
+
+**[00:29:08.200] John Mark Sta. Ana Calilung**  
+No, sir.
+
+**[00:29:09.800] Atty. Carlo Joaquin T. Narvasa**  
+Yesterday, you testified that you signed The affidavit of investigation dated February 10, 2025.
+
+**[00:29:18.320] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:29:20.860] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, may I request a copy from the prosecution? I think it is Exhibit P-4-3 in series.
+
+**[00:29:29.940] Atty. Carlo Joaquin T. Narvasa**  
+P -4-3
+
+**[00:29:32.340] Atty. Amando Virgil D. Ligutan**  
+series. Your Honor, please. Manifestation. The witness, number one, mentioned the affidavit of investigation, but that... That the witness did not identify the documents. So for the record, Your Honor, please, that document is not yet presented in courts as a documentary evidence, Your Honor, please. So highly improper for the defense. To elicit that document through this witness precisely because this witness did not yet identify the affidavit of investigation, Your Honor, please.
+
+**[00:30:12.220] Sen. Francis “Chiz” Escudero**  
+Which exhibit is this? I believe he did, Counsel,
+
+**[00:30:15.040] Atty. Carlo Joaquin T. Narvasa**  
+but which exhibit is this? Exhibit P-4-3 to Exhibit P-4-3BB, Your Honor.
+
+**[00:30:22.520] Atty. Amando Virgil D. Ligutan**  
+Your Honor, please, if I may, it was not yet identified, but it's pre-marked, Your Honor, please, to be presented by our next witness, Atty. Jeremy C. Lotoc. So highly improper, as much as we want to accommodate.
+
+**[00:31:02.000] Sen. Francis “Chiz” Escudero**  
+by any of the witnesses for the counsel for the prosecutors. You will get your chance, counsel for the respondent, when Atty. Lotoc testifies later, which I believe is the only exhibit that he will be testifying—
+
+**[00:31:15.920] Sen. Francis “Chiz” Escudero**  
+to.
+
+**[00:31:16.260] Atty. Carlo Joaquin T. Narvasa**  
+All right, Your Honor.
+
+**[00:31:17.100] Sen. Francis “Chiz” Escudero**  
+Kindly proceed, counsel.
+
+**[00:31:18.160] Atty. Carlo Joaquin T. Narvasa**  
+You mentioned an affidavit of investigation, correct?
+
+**[00:31:22.020] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:31:23.100] Atty. Carlo Joaquin T. Narvasa**  
+And this affidavit of investigation, you...
+
+**[00:31:29.650] Atty. Carlo Joaquin T. Narvasa**  
+Sent a copy to the House of Representatives Committee on Justice.
+
+**[00:31:34.300] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:31:35.480] Atty. Carlo Joaquin T. Narvasa**  
+You identified it during the House Committee hearings on April 29, 2025.
+
+**[00:31:44.590] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:31:45.750] Atty. Carlo Joaquin T. Narvasa**  
+I'm showing you now an affidavit of investigation.
+
+**[00:31:51.360] Atty. Carlo Joaquin T. Narvasa**  
+This is marked as Exhibit D-4-46 in series, Your Honor.
+
+**[00:32:00.840] Sen. Francis “Chiz” Escudero**  
+D-4-46 and series. Is there a counterpart marking from the Council for Prosecutors?
+
+**[00:32:07.560] Atty. Amando Virgil D. Ligutan**  
+Yes, Your Honor. This is P-1, P-4-3 to P-4-3BB.
+
+**[00:32:16.580] Atty. Carlo Joaquin T. Narvasa**  
+Thank you. For the record. This affidavit of investigation has appendages, correct? Annexes.
+
+**[00:32:25.080] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:32:25.780] Atty. Carlo Joaquin T. Narvasa**  
+And it forms a whole,
+
+**[00:32:27.340] Atty. Carlo Joaquin T. Narvasa**  
+correct?
+
+**[00:32:28.070] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:32:29.050] Atty. Carlo Joaquin T. Narvasa**  
+Okay.
+
+**[00:32:32.920] Atty. Carlo Joaquin T. Narvasa**  
+Do you confirm that you signed this?
+
+**[00:32:36.780] John Mark Sta. Ana Calilung**  
+I am one of the signatories, sir.
+
+**[00:32:39.110] Atty. Carlo Joaquin T. Narvasa**  
+Do you want me to have it in my identified signature?
+
+**[00:32:45.410] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, do you have— Here, sir.
+
+**[00:32:51.820] Atty. Carlo Joaquin T. Narvasa**  
+Just by chance, sir, the one you signed— I withdraw,
+
+**[00:32:58.860] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor. Apart from this affidavit of investigation, dated February 10, are you aware if there is— Another affidavit of investigation executed by the NBI represented by the Cybercrime Division in relation to this case.
+
+**[00:33:14.910] John Mark Sta. Ana Calilung**  
+This is the only one that is submitted, sir.
+
+**[00:33:17.090] Atty. Carlo Joaquin T. Narvasa**  
+No. Executed.
+
+**[00:33:18.510] John Mark Sta. Ana Calilung**  
+Signed. My question
+
+**[00:33:20.410] Atty. Carlo Joaquin T. Narvasa**  
+is executed.
+
+**[00:33:21.190] Atty. Amando Virgil D. Ligutan**  
+The defense cannot argue with the witness, Your Honor, please.
+
+**[00:33:23.910] Sen. Francis “Chiz” Escudero**  
+The witness would know how to respond, counsel. If he is not responsive to your question, do not argue with the witness. Yes, Your Honor. Can I have your phrase?
+
+**[00:33:34.480] Atty. Carlo Joaquin T. Narvasa**  
+Apart from this affidavit of investigation, Are you aware if there is any other affidavit of investigation signed by the NBI represented by the cyber crime? Okay,
+
+**[00:33:45.700] Atty. Amando Virgil D. Ligutan**  
+at that juncture, I have to object. Vague, Your Honor. Affidavit of investigation signed by the NBI. Related to this case, Your Honor. There could be thousands of documents.
+
+**[00:33:53.200] Sen. Francis “Chiz” Escudero**  
+Related
+
+**[00:33:53.680] Sen. Francis “Chiz” Escudero**  
+to this
+
+**[00:33:53.960] Sen. Francis “Chiz” Escudero**  
+case. If the witness knows, witness may answer. Is there any other affidavit of investigation executed by the NBI cyber crime in relation to this case, witness?
+
+**[00:34:11.950] John Mark Sta. Ana Calilung**  
+As far as I remember, sir, this is the final affidavit of investigation, sir.
+
+**[00:34:16.350] Atty. Carlo Joaquin T. Narvasa**  
+Final affidavit.
+
+**[00:34:17.890] Atty. Carlo Joaquin T. Narvasa**  
+Are you
+
+**[00:34:18.450] Atty. Carlo Joaquin T. Narvasa**  
+sure, agent? Let me remind you that you are under oath.
+
+**[00:34:21.050] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:34:22.400] Atty. Carlo Joaquin T. Narvasa**  
+I have with me a certification, a DOJ certification, executed by J. V. Lawrence B. Bandung,
+
+**[00:34:33.570] Atty. Carlo Joaquin T. Narvasa**  
+Senior Assistant State Prosecutor J. V. Bandung. For the record, Your Honor, this is Exhibit D-4-29 for the defense. Do you see this, sir?
+
+**[00:34:44.970] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:34:46.270] Atty. Carlo Joaquin T. Narvasa**  
+This certification dated February 5, 2025, states, and I quote, the referral, the complaint referral, does not contain all the necessary evidence to prove the essential elements of the crime. Therefore, it is recommended that the same be first referred for case buildup. Do you see that?
+
+**[00:35:10.790] John Mark Sta. Ana Calilung**  
+Yes,
+
+**[00:35:11.090] John Mark Sta. Ana Calilung**  
+sir.
+
+**[00:35:12.800] Atty. Carlo Joaquin T. Narvasa**  
+Now, below that, in
+
+**[00:35:16.660] Atty. Carlo Joaquin T. Narvasa**  
+the second page, below that, Under the word notes, number one, therefore, states, and I quote, that there is no... May I have this flashed on the screen, please? For the ease of the court, so the honorable court can follow.
+
+**[00:35:37.430] Atty. Carlo Joaquin T. Narvasa**  
+Under notes again, sir. For the record, Your Honor, we are flashing the certification on the screen.
+
+**[00:35:47.890] Atty. Carlo Joaquin T. Narvasa**  
+Under notes, sir, number
+
+**[00:35:52.450] Atty. Carlo Joaquin T. Narvasa**  
+one, therefore, states, and I quote, there is no affidavit of the persons who recorded the video. V.P. November 23, Presscon, Atbatasan Through open broadcast software , an intern stored it in a digital video disc. Do you see that, sir?
+
+**[00:36:10.810] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:36:12.700] Atty. Carlo Joaquin T. Narvasa**  
+Let's go to page 2.
+
+**[00:36:16.560] Atty. Carlo Joaquin T. Narvasa**  
+On paragraph 7, it states, and I quote, One of the elements of the crime of grave threats is that the offender threatens another with infliction upon the latter's person, honor, or property. Or upon that of the latter's family, of any wrong amounting to any crime. In the instant complaint, only the NBI executed an affidavit and there was no participation on the part of the offended parties, as it appears. NBI is not the offended party for the crime of great theft. Do you see that?
+
+**[00:36:50.600] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:36:52.050] Atty. Carlo Joaquin T. Narvasa**  
+Above this, in paragraph 6, it
+
+**[00:36:57.580] Atty. Carlo Joaquin T. Narvasa**  
+states that, and I quote, Only the minutes of the meeting with several personalities and representatives from various media outfits were submitted. And although the minutes were signed, there was no individual affidavit executed regarding the contents of said minutes. Do you see that, sir?
+
+**[00:37:16.630] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:37:17.790] Atty. Carlo Joaquin T. Narvasa**  
+On paragraph 5, it states that, and I quote, the affidavit of one Patria Morales mentioned that she stored these footages. Atty.
+
+**[00:37:40.210] Atty. Carlo Joaquin T. Narvasa**  
+who made such TSN. There was also no affidavit of the person who made the TSN. Do you see that?
+
+**[00:37:53.760] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:37:54.400] Atty. Carlo Joaquin T. Narvasa**  
+On paragraph 3, it states that, I quote, annexes I and K—
+
+**[00:38:00.810] Atty. Carlo Joaquin T. Narvasa**  
+DVDs with markings NBI-CNN-C-2412436-2 and NBI-CCN-C-2412436-2 were not accompanied by an affidavit of the record and TSN, also affidavit of the one who will execute the TSN.
+
+**[00:38:27.050] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:38:28.180] Atty. Carlo Joaquin T. Narvasa**  
+On paragraph 2, it states, and I quote, the press briefing conducted on October 18 was not recorded and or stored in a DVD, no video submitted, and there was no TSN of the said briefing and the necessary affidavit of the person taking the CSN.
+
+**[00:38:46.200] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:38:54.100] Atty. Carlo Joaquin T. Narvasa**  
+Now, you are aware.
+
+**[00:39:00.040] Atty. Carlo Joaquin T. Narvasa**  
+So, now, is your memory refreshed, sir? The DOJ sent back the original affidavit of investigation to the NBI.
+
+**[00:39:14.290] John Mark Sta. Ana Calilung**  
+Yes, sir. Thank
+
+**[00:39:16.030] Atty. Carlo Joaquin T. Narvasa**  
+you.
+
+**[00:39:17.870] Atty. Carlo Joaquin T. Narvasa**  
+Now, you are aware that on February 11, 2025, the NBI, through its then-director, retired Judge Jaime B. Santiago, wrote to the Office of the Prosecutor General submitting a revised affidavit
+
+**[00:39:35.350] Atty. Carlo Joaquin T. Narvasa**  
+of investigation.
+
+**[00:39:36.910] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:39:37.500] Atty. Carlo Joaquin T. Narvasa**  
+This is your affidavit of investigation dated February
+
+**[00:39:46.900] Atty. Carlo Joaquin T. Narvasa**  
+10, 2025.
+
+**[00:39:51.540] Atty. Amando Virgil D. Ligutan**  
+Wait, wait, wait. Objection, Your Honor. The defense said that this is your affidavit dated February 10 without showing any document. I'm asking, sir, how could the witness answer to a question that is not accompanied with a document? That should be the basis for the question. And
+
+**[00:40:21.140] Atty. Carlo Joaquin T. Narvasa**  
+this is your affidavit. I will reform your honor. Kindly reform, counsel. Thank you, your honor. This is your affidavit dated February 10, 2024, correct? Please check.
+
+**[00:40:52.930] Atty. Carlo Joaquin T. Narvasa**  
+Sorry, sir.
+
+**[00:41:38.020] Atty. Amando Virgil D. Ligutan**  
+Can I make a manifestation, Your Honor, please? Your Honor, can we object again
+
+**[00:41:41.960] Atty. Carlo Joaquin T. Narvasa**  
+to this manifestation?
+
+**[00:41:43.780] Atty. Amando Virgil D. Ligutan**  
+I will not even object. I'm being generous. Your Honor. Counsel,
+
+**[00:41:48.220] Sen. Francis “Chiz” Escudero**  
+let's wait for the witness to review it. It's a voluminous document. The signature is on the last page. You can make the corresponding objection to the style, manner, or cross-examination of the counsel for responding at the proper time.
+
+**[00:42:24.100] John Mark Sta. Ana Calilung**  
+This is a photocopy of the
+
+**[00:42:27.350] Atty. Carlo Joaquin T. Narvasa**  
+affidavit, sir. Yes, sir. This is the amended one.
+
+**[00:42:31.000] John Mark Sta. Ana Calilung**  
+Yes, sir. The photocopy, sir. Thank you. With
+
+**[00:42:33.780] Sen. Francis “Chiz” Escudero**  
+the permission of council, Mr. Calilung, what was the date of the first affidavit you submitted that was returned by the DOJ to the NBI?
+
+**[00:42:44.480] John Mark Sta. Ana Calilung**  
+As far as I remember, January 30, when the certification was issued. We complied with the requirements and submitted it on February 10. Have you identified
+
+**[00:42:58.220] Sen. Francis “Chiz” Escudero**  
+that affidavit of investigation dated January 30 in yesterday's proceedings? No. Yes or no? Sir? Have you identified the January 30?
+
+**[00:43:11.230] John Mark Sta. Ana Calilung**  
+The one that I identified, Your Honor, is the authentication, Your Honor.
+
+**[00:43:15.430] Sen. Francis “Chiz” Escudero**  
+Not the affidavit of investigation. So you have not done so? Yes, sir. This one, you have not done so too? Yes, Your Honor. For the record, counsel, you may proceed.
+
+**[00:43:44.390] Atty. Carlo Joaquin T. Narvasa**  
+I'm showing you now a letter dated January 30 from the former NBI director Jaime Santiago.
+
+**[00:43:50.810] Atty. Amando Virgil D. Ligutan**  
+Now, I have
+
+**[00:43:51.670] Atty. Carlo Joaquin T. Narvasa**  
+to object,
+
+**[00:43:52.170] Atty. Amando Virgil D. Ligutan**  
+Your Honor, please.
+
+**[00:43:52.830] Atty. Amando Virgil D. Ligutan**  
+You know, the defense has been confronting this witness with documents even without marking and identifying the source of these documents. It's like plucking out of thin air a document, presenting them the document to the witness, and withdrawing the document. Your Honor, that's up to the—
+
+**[00:44:13.990] Atty. Amando Virgil D. Ligutan**  
+So my question is, through the presiding officer, is the defense not entering these documents into
+
+**[00:44:26.710] Sen. Francis “Chiz” Escudero**  
+evidence, Your Honor, please? They can do so at the proper time, counsel, but insofar as the witness is concerned, I think the basis was laid when he said that he executed only one affidavit of investigation in connection with this case. Now it seems that there are two affidavits, both of which have not yet been presented. One will be presented, I think, by Atty. Lotoc. The first one, we're not aware of it.
+
+**[00:44:53.050] Atty. Carlo Joaquin T. Narvasa**  
+Is that
+
+**[00:44:53.650] Sen. Francis “Chiz” Escudero**  
+correct,
+
+**[00:44:53.970] Atty. Carlo Joaquin T. Narvasa**  
+counsel, for the respondent? Your Honor, he just identified a copy of the affidavit of investigation. Dated June, January 30? April 10, 2025. February 10, Your Honor. February 10,
+
+**[00:45:10.030] Sen. Francis “Chiz” Escudero**  
+Your Honor, please. What about the first affidavit? The witness said they had the first affidavit.
+
+**[00:45:14.010] Atty. Carlo Joaquin T. Narvasa**  
+Yes, Your Honor. Not yet.
+
+**[00:45:15.960] Sen. Francis “Chiz” Escudero**  
+Not yet?
+
+**[00:45:16.840] Atty. Carlo Joaquin T. Narvasa**  
+Yes.
+
+**[00:45:17.400] Sen. Francis “Chiz” Escudero**  
+You
+
+**[00:45:17.900] Sen. Francis “Chiz” Escudero**  
+only cited a January 30 letter of
+
+**[00:45:20.760] Atty. Carlo Joaquin T. Narvasa**  
+the former
+
+**[00:45:21.080] Sen. Francis “Chiz” Escudero**  
+NBI
+
+**[00:45:21.780] Atty. Carlo Joaquin T. Narvasa**  
+director. I cited, Your Honor, a certification by the DOJ returning an affidavit.
+
+**[00:45:31.860] Atty. Amando Virgil D. Ligutan**  
+And that is now the problem, Your Honor. In fact, even I am confused because the documents are not introduced into evidence by the defense.
+
+**[00:45:39.960] Sen. Francis “Chiz” Escudero**  
+Counsel, please proceed and kindly help the court to be clarified regarding this matter.
+
+**[00:45:45.760] Atty. Carlo Joaquin T. Narvasa**  
+You mentioned that you were aware
+
+**[00:46:00.800] Atty. Carlo Joaquin T. Narvasa**  
+that the then director retired, Judge B. Santiago, wrote to the Office of the Prosecutor General submitting a revised affidavit of investigation on February 11, 2025. I'm showing you now that letter
+
+**[00:46:21.680] Atty. Carlo Joaquin T. Narvasa**  
+dated February 11, 2025. For
+
+**[00:46:28.640] Atty. Carlo Joaquin T. Narvasa**  
+the record, this is Exhibit D-4-43.
+
+**[00:46:33.030] Atty. Carlo Joaquin T. Narvasa**  
+For the
+
+**[00:46:35.090] Atty. Carlo Joaquin T. Narvasa**  
+defense.
+
+**[00:46:36.190] Atty. Amando Virgil D. Ligutan**  
+Up for the defense? You mean pre-marked, I suppose? Because when you say marked as evidence for the defense, it's not yet. Your turn has, I mean, you have yet to present your exhibit, so it should be pre-marked, Your Honor, please.
+
+**[00:46:54.690] Sen. Francis “Chiz” Escudero**  
+No, it's pre-marked, and I believe both the defense and the, rather, the respondent of the prosecution also have common pieces of evidence which you decided during pretrial. This is not one of them. Which you decided during pretrial to be marked separately. It's not
+
+**[00:47:06.980] Atty. Amando Virgil D. Ligutan**  
+one of those few common piece of evidence. Yes, there are
+
+**[00:47:10.980] Atty. Amando Virgil D. Ligutan**  
+a few.
+
+**[00:47:11.500] Sen. Francis “Chiz” Escudero**  
+Sir? Please proceed, counsel, for the respondent. Witness the answer.
+
+**[00:47:15.600] Atty. Carlo Joaquin T. Narvasa**  
+There is a signature above the name Judge Jaime B. Santiago. Whose signature is that?
+
+**[00:47:21.870] Atty. Amando Virgil D. Ligutan**  
+Your Honor, now, I would like to object to the relevance. A letter is being, the witness is being confronted with a letter coming from
+
+**[00:47:30.730] Atty. Amando Virgil D. Ligutan**  
+the former NBI Director Judge Jaime B. Santiago. And this witness
+
+**[00:47:36.070] Atty. Amando Virgil D. Ligutan**  
+is now being asked to identify whose signature is that. That's obvious.
+
+**[00:47:39.790] Sen. Francis “Chiz” Escudero**  
+I'll allow it conditionally if you can show the relevance as far as your ability to test the credibility and the accuracy of the witnesses concerned. In the meantime, I'll allow it. Kindly show the connection, counsel. Thank you.
+
+**[00:47:52.630] Atty. Carlo Joaquin T. Narvasa**  
+Sir, whose signature is this?
+
+**[00:48:06.500] John Mark Sta. Ana Calilung**  
+As far as I remember, signature of Director Santiago, sir. Thank you.
+
+**[00:48:14.250] Atty. Carlo Joaquin T. Narvasa**  
+On the last line of the letter, on the fourth page, sir,
+
+**[00:48:20.200] Atty. Carlo Joaquin T. Narvasa**  
+Please take a look.
+
+**[00:48:22.780] Atty. Carlo Joaquin T. Narvasa**  
+Last line. It says, and I quote, To support our recommendations attached herein is the revised affidavit of investigation, including its attachments. Did you see that, agent?
+
+**[00:48:41.610] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:48:42.360] Atty. Carlo Joaquin T. Narvasa**  
+Thank you.
+
+**[00:48:43.390] Atty. Carlo Joaquin T. Narvasa**  
+And you confirmed that the former NBI director Jaime Santiago wrote to the Prosecutor General Richard Anthony D. Fadulion a letter dated February, January 30, 2025. This is one of the documents that you submitted to the Committee on Justice, correct?
+
+**[00:49:06.940] Atty. Carlo Joaquin T. Narvasa**  
+Where is it? Okay, I will show you now.
+
+**[00:49:12.740] Atty. Carlo Joaquin T. Narvasa**  
+May I have this flashed on the screen?
+
+**[00:49:46.030] Atty. Carlo Joaquin T. Narvasa**  
+Do you recall this document?
+
+**[00:49:49.800] John Mark Sta. Ana Calilung**  
+Yes, sir. Yes.
+
+**[00:49:57.240] Atty. Carlo Joaquin T. Narvasa**  
+January 30, 2025 is a date earlier than February 10, 2025, correct?
+
+**[00:50:03.500] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:50:03.960] Atty. Amando Virgil D. Ligutan**  
+Your Honor.
+
+**[00:50:08.490] Atty. Amando Virgil D. Ligutan**  
+Your Honor, the witness being asked which came first.
+
+**[00:50:14.740] Atty. Amando Virgil D. Ligutan**  
+Relevance, Your Honor. Relevance.
+
+**[00:50:16.520] Sen. Francis “Chiz” Escudero**  
+Counsel, Counsel, if the witness knows and the counsel for respondent will be given the latitude to test the credibility, accuracy, and completeness of the testimony of the witness. But we note your continuing objection because you already sound frustrated, Counsel, in regard to this line of questioning by the counsel
+
+**[00:50:36.040] Sen. Francis “Chiz” Escudero**  
+for respondent.
+
+**[00:50:36.640] Atty. Amando Virgil D. Ligutan**  
+I'm very patient, Your Honor. I'm very patient.
+
+**[00:50:38.940] Sen. Francis “Chiz” Escudero**  
+The council correspondent may
+
+**[00:50:40.940] Atty. Carlo Joaquin T. Narvasa**  
+proceed. Witness
+
+**[00:50:41.620] Sen. Francis “Chiz” Escudero**  
+may answer.
+
+**[00:50:44.150] Atty. Carlo Joaquin T. Narvasa**  
+He already answered, Your Honor. Thank you. You earlier confirmed that there was actually a certification dated February 5, 2025.
+
+**[00:50:55.820] Atty. Amando Virgil D. Ligutan**  
+Objection, obviously, I don't remember
+
+**[00:50:57.740] Atty. Carlo Joaquin T. Narvasa**  
+this witness. Let
+
+**[00:51:00.390] Sen. Francis “Chiz” Escudero**  
+the council finish with this question, counsel.
+
+**[00:51:04.040] Atty. Carlo Joaquin T. Narvasa**  
+He
+
+**[00:51:04.640] Atty. Carlo Joaquin T. Narvasa**  
+even read it, Your Honor. You likewise confirmed that in that said certification, Dated February 5, 2025. The earlier affidavit of investigation were subject to seven recommendations. And you confirmed that you read that.
+
+**[00:51:20.350] Atty. Amando Virgil D. Ligutan**  
+Objection. Misleading order, please.
+
+**[00:51:23.550] Atty. Amando Virgil D. Ligutan**  
+Now the council mentioned seven grounds. Seven grounds. And I don't remember This witness uttering the term seven crowns. What I do remember, Your Honor, please, is that this witness was confronted with a certification, a letter, whatever, but now the council is now asking this witness to confirm the contents of those certifications or letters. Misleading. That's not allowed during cross. The council is now assuming facts that have yet to be established. Can I repeat that? This witness was only confronted with certifications, letters, dated this, dated that. And now, the counsel now asking, do you confirm rights? Now he is asking this witness to confirm that in that letter there are seven grounds. As if this witness uttered those words. The ground is misleading, definition. This counsel is assuming facts that have yet to be established through this witness. Your Honor, please. Counsel,
+
+**[00:52:26.090] Sen. Francis “Chiz” Escudero**  
+again, the witness is not a newbie. I think he can handle himself and would know how to answer if indeed he is familiar or not with what is being presented to him. And thus far, he has responded based on his knowledge of these documents. Chair will allow it. Witness may answer.
+
+**[00:52:45.690] Sen. Francis “Chiz” Escudero**  
+Sir?
+
+**[00:52:47.930] Atty. Carlo Joaquin T. Narvasa**  
+Can you repeat the question, Counsel? You confirmed that there was a certification dated February 5, 2025. You likewise confirmed that in said certification— Your
+
+**[00:52:57.860] Atty. Amando Virgil D. Ligutan**  
+Honor, Your Honor, compound question. Compound question. There's no question. Wait, wait.
+
+**[00:53:02.920] Sen. Francis “Chiz” Escudero**  
+Kindly wait for the Presiding Officer to recognize you before answering. Yes, Your Honor. Yes.
+
+**[00:53:07.840] Atty. Amando Virgil D. Ligutan**  
+Please, counsel for
+
+**[00:53:09.200] Sen. Francis “Chiz” Escudero**  
+the prosecutors, please finish your objection.
+
+**[00:53:11.480] Atty. Amando Virgil D. Ligutan**  
+Thank you so much. Can I? Yes, please proceed, counsel. Compound questions. The witness is now being confronted with two. Successive questions without allowing this witness to answer the first question. What makes a compound question... No need to lecture, Counsel. Counsel for Respondent, please reform.
+
+**[00:53:30.370] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, I had no question. He already... I had no question yet.
+
+**[00:53:35.540] Sen. Francis “Chiz” Escudero**  
+Kindly, kindly proceed with
+
+**[00:53:37.060] Atty. Carlo Joaquin T. Narvasa**  
+your question. Thank you, Your Honor.
+
+**[00:53:39.810] Atty. Carlo Joaquin T. Narvasa**  
+The earlier affidavit of investigation was subject... To seven recommendations from the DOJ for case build-up.
+
+**[00:53:46.760] Atty. Amando Virgil D. Ligutan**  
+Objection vague. The earlier investigation, which investigation is the Council referring to?
+
+**[00:53:51.690] Atty. Amando Virgil D. Ligutan**  
+Objection vague.
+
+**[00:53:53.000] Atty. Carlo Joaquin T. Narvasa**  
+We already established, Your Honor, there was an earlier one.
+
+**[00:53:55.900] Sen. Francis “Chiz” Escudero**  
+Overruled. Overruled.
+
+**[00:53:57.170] Sen. Francis “Chiz” Escudero**  
+Again, the witness is competent enough to testify. Overruled. Witness, kindly proceed with your question, Council.
+
+**[00:54:03.430] Atty. Carlo Joaquin T. Narvasa**  
+Yes.
+
+**[00:54:04.960] Sen. Francis “Chiz” Escudero**  
+In
+
+**[00:54:05.560] Atty. Carlo Joaquin T. Narvasa**  
+the revised affidavit of investigation dated February 10, 2025, that you identified, Despite DOJ's Recommendation No. 6 that you earlier read, Sir, Your Honor, I am not yet finished. Can
+
+**[00:54:23.300] Sen. Francis “Chiz” Escudero**  
+we wait for the counsel to finish with this question, counsel, please?
+
+**[00:54:26.740] Atty. Carlo Joaquin T. Narvasa**  
+Sir,
+
+**[00:54:29.820] Atty. Carlo Joaquin T. Narvasa**  
+there were still no affidavits of the journalists from the media outlets in your affidavit of investigation dated February 10.
+
+**[00:54:42.140] Atty. Amando Virgil D. Ligutan**  
+Witness, not under first objection or misleading. Why is it misleading, counsel? The counsel said the earlier affidavit of investigation. In fact, your honor, please, he referred to the February 10 investigation. That's not the earlier investigation. That is the final affidavit of investigation submitted to the DOJ.
+
+**[00:55:03.530] Sen. Francis “Chiz” Escudero**  
+Misleading. Misleading, your honor. Your honor, the presiding officer will ask the question. Mr. Witness, did you attach the affidavits of the two? Witnesses that viewed the video of the vice president in the February 10 affidavit?
+
+**[00:55:21.220] John Mark Sta. Ana Calilung**  
+Yes, sir. Let me qualify my answer in number six, sir.
+
+**[00:55:24.840] Sen. Francis “Chiz” Escudero**  
+You may do so.
+
+**[00:55:25.450] John Mark Sta. Ana Calilung**  
+In number six, sir, the DOJ requested an affidavit to be executed regarding the content of the minutes. I executed an affidavit attesting to those minutes, sir, which I'm part of the interview, sir.
+
+**[00:55:40.480] Sen. Francis “Chiz” Escudero**  
+But was it attached to the February 10 affidavit? Yes, sir.
+
+**[00:55:45.060] Sen. Francis “Chiz” Escudero**  
+Counsel for the respondent, your witness.
+
+**[00:55:46.840] Atty. Carlo Joaquin T. Narvasa**  
+Thank you.
+
+**[00:55:49.630] Atty. Carlo Joaquin T. Narvasa**  
+Sir, but there are no affidavits of the journalists from the media outlets, correct?
+
+**[00:55:57.850] Atty. Carlo Joaquin T. Narvasa**  
+My question is not found there, Your Honor. Oh, Your Honor, please, sir. My question is not found there. Okay, wait, wait, wait. The
+
+**[00:56:04.420] Atty. Amando Virgil D. Ligutan**  
+counsel is confronting the witness with a document and he propounded questions and then he
+
+**[00:56:11.100] Atty. Amando Virgil D. Ligutan**  
+asked another question and he took the document away. What's the purpose of that?
+
+**[00:56:16.120] Atty. Amando Virgil D. Ligutan**  
+objection, Your Honor? My question is plain, Your Honor. Let the witness peruse the document you presented him with. Let
+
+**[00:56:23.020] Atty. Carlo Joaquin T. Narvasa**  
+him answer that through a document. My question is plain, Your Honor.
+
+**[00:56:26.200] Atty. Amando Virgil D. Ligutan**  
+Your Honor, a witness should be allowed to peruse the document
+
+**[00:56:30.000] Atty. Carlo Joaquin T. Narvasa**  
+that he was confronted with.
+
+**[00:56:31.680] Sen. Francis “Chiz” Escudero**  
+I am not—Counsels, please. Please.
+
+**[00:56:34.780] Sen. Francis “Chiz” Escudero**  
+Witness—I think the witness understood the question. Mr. Calilung, you may answer if you understand the question. I will repeat
+
+**[00:56:42.130] Atty. Carlo Joaquin T. Narvasa**  
+the question, Your Honor. Kindly repeat, Counsel. Thank you, Your Honor. There is still no affidavits of the journalists from media outlets appended on your revised affidavit of investigation, sir.
+
+**[00:56:54.550] John Mark Sta. Ana Calilung**  
+May I
+
+**[00:56:55.050] Sen. Francis “Chiz” Escudero**  
+qualify for an answer? No, sir. Just
+
+**[00:56:56.650] Atty. Carlo Joaquin T. Narvasa**  
+answer a yes or no.
+
+**[00:56:57.650] Sen. Francis “Chiz” Escudero**  
+Kindly look at the document presented to you. ONRI direct counsel can make you explain the disparity, if any.
+
+**[00:57:07.990] Sen. Francis “Chiz” Escudero**  
+The question is simple. Are the affidavits attached to the affidavit of investigation?
+
+**[00:57:56.780] John Mark Sta. Ana Calilung**  
+May I see the question number six?
+
+**[00:57:59.940] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, my question does not relate to question number six.
+
+**[00:58:03.040] Sen. Francis “Chiz” Escudero**  
+Kindly show the witness counsel.
+
+**[00:58:05.740] Sen. Francis “Chiz” Escudero**  
+I will enable him to give an
+
+**[00:58:08.060] Atty. Carlo Joaquin T. Narvasa**  
+intelligent answer to your question. Can we please slash certification and put it to paragraph number six?
+
+**[00:58:17.760] John Mark Sta. Ana Calilung**  
+The paragraph number six states that only the minutes of meeting with several personalities and representatives from various media outfits were submitted, although the minutes were signed. There were no individual affidavits executed regarding to the content of the minutes. Okay, sir.
+
+**[00:58:34.960] Sen. Francis “Chiz” Escudero**  
+I
+
+**[00:58:35.040] Sen. Francis “Chiz” Escudero**  
+have no question.
+
+**[00:58:35.520] John Mark Sta. Ana Calilung**  
+So the answer is
+
+**[00:58:36.040] Sen. Francis “Chiz” Escudero**  
+the affidavits are not
+
+**[00:58:37.060] John Mark Sta. Ana Calilung**  
+attached. I have executed an affidavit, sir. No, the
+
+**[00:58:40.040] Sen. Francis “Chiz” Escudero**  
+affidavits of the two journalists are not attached. I think that's the only question of counsel for the respondent.
+
+**[00:58:44.360] John Mark Sta. Ana Calilung**  
+Thank you,
+
+**[00:58:44.940] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor.
+
+**[00:58:50.790] Atty. Carlo Joaquin T. Narvasa**  
+Instead, sir, as you confirmed, what you appended to the affidavit of investigation are affidavits of NBI agents, correct?
+
+**[00:59:02.020] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[00:59:03.300] Atty. Carlo Joaquin T. Narvasa**  
+Not the journalists who were present during
+
+**[00:59:06.420] John Mark Sta. Ana Calilung**  
+the
+
+**[00:59:06.960] Atty. Carlo Joaquin T. Narvasa**  
+November 23-24 press conference.
+
+**[00:59:09.820] John Mark Sta. Ana Calilung**  
+The one who interviewed, sir.
+
+**[00:59:10.940] Atty. Carlo Joaquin T. Narvasa**  
+Yeah, the one who interviewed. Not the journalists. Ashkahn
+
+**[00:59:15.590] John Mark Sta. Ana Calilung**  
+answered, Your Honor.
+
+**[00:59:19.850] Atty. Carlo Joaquin T. Narvasa**  
+Sir, in the revised affidavit of investigation dated February 10, 2025 that you identified, despite DOJ's recommendation number 7, can
+
+**[00:59:34.400] Atty. Carlo Joaquin T. Narvasa**  
+we show again DOJ recommendation number 7?
+
+**[00:59:40.040] Atty. Carlo Joaquin T. Narvasa**  
+In the certification dated February 5, 2025, it is still the NBI Cybercrime Division that is the complainant.
+
+**[00:59:53.700] John Mark Sta. Ana Calilung**  
+I believe this is answered on the letter of the director, sir.
+
+**[00:59:57.020] Atty. Carlo Joaquin T. Narvasa**  
+Sir, my answer is answerable, but yes and no.
+
+**[01:00:04.720] Atty. Carlo Joaquin T. Narvasa**  
+The first lady Lisa Marcos?
+
+**[01:00:15.420] John Mark Sta. Ana Calilung**  
+Yes, sir. The
+
+**[01:00:16.800] Atty. Carlo Joaquin T. Narvasa**  
+former Speaker of the House Martin Romualdes?
+
+**[01:00:19.080] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:00:20.490] Atty. Carlo Joaquin T. Narvasa**  
+Did President Marcos appear before the NBI during its investigation?
+
+**[01:00:25.700] John Mark Sta. Ana Calilung**  
+No, sir.
+
+**[01:00:33.260] Atty. Carlo Joaquin T. Narvasa**  
+Did the former Speaker Martin Romaldes appear before the NBI during its investigation?
+
+**[01:00:38.900] John Mark Sta. Ana Calilung**  
+No, sir.
+
+**[01:00:40.400] Atty. Carlo Joaquin T. Narvasa**  
+Sir, I'm showing you again for the record the affidavit investigation. Sir, did you attach to that affidavit of investigation dated February 10, 2025 an affidavit of the President Marcos?
+
+**[01:00:56.960] John Mark Sta. Ana Calilung**  
+Only the responses, sir.
+
+**[01:00:58.760] Atty. Carlo Joaquin T. Narvasa**  
+Sir, listen to my question.
+
+**[01:01:01.140] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:01:02.150] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, he did not answer, so I am entitled to ask. Not responsive.
+
+**[01:01:06.520] Sen. Francis “Chiz” Escudero**  
+The question was, Mr. Witness, did you attach the affidavit of President Marcos to the February 10 affidavit?
+
+**[01:01:14.400] John Mark Sta. Ana Calilung**  
+No, sir.
+
+**[01:01:15.160] Atty. Carlo Joaquin T. Narvasa**  
+Did you attach an affidavit of the First Lady Lisa Marcos on your affidavit?
+
+**[01:01:22.890] John Mark Sta. Ana Calilung**  
+No, sir.
+
+**[01:01:23.590] Atty. Carlo Joaquin T. Narvasa**  
+Did you attach an affidavit of former Speaker Martin Romaldes on your affidavit of investigation?
+
+**[01:01:30.480] John Mark Sta. Ana Calilung**  
+No, sir.
+
+**[01:01:31.420] Atty. Carlo Joaquin T. Narvasa**  
+To your knowledge, if you know, sir.
+
+**[01:01:33.200] Atty. Carlo Joaquin T. Narvasa**  
+Did President Marcos file any criminal complaint against Vice President Sara Duterte as a result of the November 23, 2024 online press conference? You made that statement.
+
+**[01:01:45.760] John Mark Sta. Ana Calilung**  
+No, sir.
+
+**[01:01:46.170] Atty. Carlo Joaquin T. Narvasa**  
+My question is, if you know, did the President file any criminal complaint against the Vice President?
+
+**[01:01:53.540] John Mark Sta. Ana Calilung**  
+I have no personal knowledge.
+
+**[01:01:55.000] Atty. Carlo Joaquin T. Narvasa**  
+Did the First Lady Lisa Areneta Marcos file any criminal complaint against VP Sara?
+
+**[01:02:00.180] John Mark Sta. Ana Calilung**  
+I have no personal knowledge.
+
+**[01:02:01.930] Atty. Carlo Joaquin T. Narvasa**  
+How about the Speaker Martin Romaldes? Did he file any criminal complaint against VP Sarri as a result of the November 23, 2024 online press conference?
+
+**[01:02:12.090] John Mark Sta. Ana Calilung**  
+I have no personal knowledge.
+
+**[01:02:15.150] Atty. Carlo Joaquin T. Narvasa**  
+Did you really investigate this case? With Ron, Your Honor. With Ron. With Ron.
+
+**[01:02:19.030] Atty. Carlo Joaquin T. Narvasa**  
+Did you really investigate this? How about Speaker Martin Romualdez? In other words, sir, the alleged offended parties were not included as complainants in the case you filed with the Department of Justice.
+
+**[01:02:33.000] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:02:33.920] Atty. Carlo Joaquin T. Narvasa**  
+Thank you. Please. Thank you. And despite the fact that the NBI Cybercrime Division did not comply with recommendations number 6 and number 7 in the certification dated February 5, 2026, it nevertheless filed the revised affidavit of investigation dated February 10, 2025 that you identified today.
+
+**[01:02:56.640] John Mark Sta. Ana Calilung**  
+Can I qualify my answer, sir?
+
+**[01:02:58.890] Atty. Carlo Joaquin T. Narvasa**  
+No, sir. Just answer with a yes or no.
+
+**[01:03:02.410] Sen. Francis “Chiz” Escudero**  
+Witness may be allowed to answer according to how he wishes to explain. You may proceed, Mr. Witness, to answer.
+
+**[01:03:10.630] John Mark Sta. Ana Calilung**  
+Yes, sir. Thank you, Your Honor. For this case, we complied with the requirements of the DOJ. That's why we secured a second certification wherein our document is enough for preliminary investigation, sir. Okay.
+
+**[01:03:25.730] Atty. Carlo Joaquin T. Narvasa**  
+Thank you.
+
+**[01:03:26.370] John Mark Sta. Ana Calilung**  
+And this
+
+**[01:03:27.090] Atty. Carlo Joaquin T. Narvasa**  
+certification is a
+
+**[01:03:30.500] Atty. Carlo Joaquin T. Narvasa**  
+certification dated February 5, 2025, correct?
+
+**[01:03:38.470] John Mark Sta. Ana Calilung**  
+This is not the new certification, sir.
+
+**[01:03:43.560] Atty. Carlo Joaquin T. Narvasa**  
+Oh, sorry, sir.
+
+**[01:03:48.970] Atty. Carlo Joaquin T. Narvasa**  
+Apologies, sir. February 11.
+
+**[01:03:54.140] Atty. Carlo Joaquin T. Narvasa**  
+This
+
+**[01:03:54.740] Atty. Carlo Joaquin T. Narvasa**  
+was also executed by Senior Assistant State Prosecutor J. V. Lawrence B. Bandong, correct?
+
+**[01:04:03.250] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:04:11.980] Atty. Carlo Joaquin T. Narvasa**  
+Now let's discuss the nature of the investigation you conducted.
+
+**[01:04:17.870] Atty. Carlo Joaquin T. Narvasa**  
+You claimed in your affidavit, sir, that affidavit of investigation that the NBI began its investigation into the VP's remarks because it was directed by the DOJ to do so.
+
+**[01:04:31.740] John Mark Sta. Ana Calilung**  
+Motu proprio indirected, sir.
+
+**[01:04:33.960] Atty. Carlo Joaquin T. Narvasa**  
+Okay.
+
+**[01:04:37.310] Atty. Carlo Joaquin T. Narvasa**  
+Do you understand what you just said, sir?
+
+**[01:04:39.250] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:04:40.350] Atty. Amando Virgil D. Ligutan**  
+Can I object to that,
+
+**[01:04:42.010] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, please? I'm asking, sir. It
+
+**[01:04:44.190] Atty. Amando Virgil D. Ligutan**  
+makes sense. Argumentative,
+
+**[01:04:45.250] Sen. Francis “Chiz” Escudero**  
+counsel. Move on.
+
+**[01:04:47.410] Atty. Amando Virgil D. Ligutan**  
+Motu proprio, sir, means... Oh, no. Objection. You cannot lecture, counsel. This is cross
+
+**[01:04:52.920] Atty. Carlo Joaquin T. Narvasa**  
+-examination. Sir, you mentioned mutu proprio. What does it mean?
+
+**[01:04:57.020] John Mark Sta. Ana Calilung**  
+Even without a complainant, we started the investigation, sir.
+
+**[01:05:00.930] Atty. Carlo Joaquin T. Narvasa**  
+Are you sure, sir?
+
+**[01:05:01.950] Atty. Amando Virgil D. Ligutan**  
+Oh, argumentative.
+
+**[01:05:03.010] Sen. Francis “Chiz” Escudero**  
+Are you sure, sir? Move on, counsel. Move on.
+
+**[01:05:13.280] Atty. Carlo Joaquin T. Narvasa**  
+How about direct investigation? What does that mean?
+
+**[01:05:18.190] Atty. Amando Virgil D. Ligutan**  
+Your Honor.
+
+**[01:05:20.530] Atty. Amando Virgil D. Ligutan**  
+Okay, never mind.
+
+**[01:05:21.850] John Mark Sta. Ana Calilung**  
+Directed
+
+**[01:05:22.250] Atty. Carlo Joaquin T. Narvasa**  
+investigation. What does that mean?
+
+**[01:05:24.210] John Mark Sta. Ana Calilung**  
+There is a subtraction from all of, sir.
+
+**[01:05:26.100] Atty. Carlo Joaquin T. Narvasa**  
+From? What does above mean?
+
+**[01:05:31.000] John Mark Sta. Ana Calilung**  
+It may be the DOJ or the higher.
+
+**[01:05:34.600] Atty. Carlo Joaquin T. Narvasa**  
+Higher. What's higher than the DOJ?
+
+**[01:05:39.300] John Mark Sta. Ana Calilung**  
+Based on that, it's only the DOJ,
+
+**[01:05:41.080] John Mark Sta. Ana Calilung**  
+sir.
+
+**[01:05:41.300] Atty. Carlo Joaquin T. Narvasa**  
+You said above the DOJ, sir.
+
+**[01:05:44.030] John Mark Sta. Ana Calilung**  
+No, sir. Above the DOJ.
+
+**[01:05:45.020] Atty. Carlo Joaquin T. Narvasa**  
+Sir, you said above. May I ask for a reading?
+
+**[01:05:49.060] Sen. Francis “Chiz” Escudero**  
+Counsel, again, I would have to sustain the objection. It is argumentative. I heard the answer and he meant as a general term, above. But referring apparently to only the DOJ in this particular instance.
+
+**[01:06:03.410] Atty. Carlo Joaquin T. Narvasa**  
+We submit, Your Honor.
+
+**[01:06:04.200] Sen. Francis “Chiz” Escudero**  
+Please proceed.
+
+**[01:06:05.170] Atty. Carlo Joaquin T. Narvasa**  
+You confirmed that the NBI Cybercrime Division is the complainant in the case against the Vice President and that the DOJ filed this with the DOJ.
+
+**[01:06:16.190] Atty. Amando Virgil D. Ligutan**  
+Objection. Compound, Your Honor. That's a compound question. No question, Your Honor.
+
+**[01:06:18.870] Atty. Carlo Joaquin T. Narvasa**  
+That was just a statement.
+
+**[01:06:19.970] Atty. Amando Virgil D. Ligutan**  
+Oh, exactly. Your Honor, a statement? He's laying
+
+**[01:06:22.570] Atty. Carlo Joaquin T. Narvasa**  
+the basis for a question. Go to your question, Counsel. Sir, the NBI, of course, you're from the NBI. Is under the Department of Justice.
+
+**[01:06:31.020] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:06:31.630] Atty. Amando Virgil D. Ligutan**  
+Your Honor, we can take judicial notice of that. Your Honor.
+
+**[01:06:36.600] Atty. Carlo Joaquin T. Narvasa**  
+I'm
+
+**[01:06:37.040] Atty. Carlo Joaquin T. Narvasa**  
+on cross, Your Honor.
+
+**[01:06:37.840] Atty. Carlo Joaquin T. Narvasa**  
+I know,
+
+**[01:06:38.260] Atty. Amando Virgil D. Ligutan**  
+but there are things that need not be discussed. Your
+
+**[01:06:41.140] Sen. Francis “Chiz” Escudero**  
+Honor, please. Counsel, let's give him some latitude. Although we can take judicial notice of that, it's part of
+
+**[01:06:49.040] Sen. Francis “Chiz” Escudero**  
+his cross-examination.
+
+**[01:06:50.500] Atty. Carlo Joaquin T. Narvasa**  
+Yes, thank you, Your Honor. The Secretary of Justice is meanwhile the head of the DOJ, correct?
+
+**[01:06:55.800] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:06:56.900] Atty. Carlo Joaquin T. Narvasa**  
+The Secretary of Justice exercises control and supervision over the NBI.
+
+**[01:07:04.400] Atty. Carlo Joaquin T. Narvasa**  
+No more questions.
+
+**[01:07:06.780] John Mark Sta. Ana Calilung**  
+Yes
+
+**[01:07:07.300] Atty. Carlo Joaquin T. Narvasa**  
+or no, Mr. Witness,
+
+**[01:07:08.620] Sen. Francis “Chiz” Escudero**  
+if you know.
+
+**[01:07:11.090] John Mark Sta. Ana Calilung**  
+Can you repeat,
+
+**[01:07:11.950] Atty. Carlo Joaquin T. Narvasa**  
+sir? The Secretary of Justice exercises control and supervision over the NBI.
+
+**[01:07:17.820] John Mark Sta. Ana Calilung**  
+Yes
+
+**[01:07:18.340] Atty. Carlo Joaquin T. Narvasa**  
+or no?
+
+**[01:07:19.440] John Mark Sta. Ana Calilung**  
+We are under, sir. But we're independent.
+
+**[01:07:23.180] Atty. Carlo Joaquin T. Narvasa**  
+So you do not know? Oh, Your Honor, that's argumentative. So you do not know? All right, Your Honor. Are you aware of Book 4, Chapter 8, Supervision and Control of the Admin Code? Your Honor, I have no question yet. Please. Section 39
+
+**[01:07:42.190] Sen. Francis “Chiz” Escudero**  
+thereof,
+
+**[01:07:47.390] Atty. Carlo Joaquin T. Narvasa**  
+Secretary's authority. The Secretary shall have the supervision and control over the bureaus, offices, and agencies under him. Supervision and control. Sir, my question is this. Is the NBI, the National Bureau of Investigation, a bureau under the Department of Justice?
+
+**[01:08:10.690] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:08:11.270] Atty. Carlo Joaquin T. Narvasa**  
+Thank you.
+
+**[01:08:14.200] Atty. Carlo Joaquin T. Narvasa**  
+And, sir, the President has control over all executive departments, correct? I believe so, sir. The DOJ is one of those executive departments, correct?
+
+**[01:08:26.680] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:08:28.170] Atty. Carlo Joaquin T. Narvasa**  
+And the current president is Ferdinand Marcos Jr., correct? We agree to that. That's judicial notice. Your Honor, please.
+
+**[01:08:35.570] John Mark Sta. Ana Calilung**  
+Yes
+
+**[01:08:36.130] Atty. Carlo Joaquin T. Narvasa**  
+or no? There's no other president. He answered already, Your Honor. Already asked and answered. The head of the executive branch is President Ferdinand Marcos Jr., correct?
+
+**[01:08:45.310] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:08:46.350] Atty. Carlo Joaquin T. Narvasa**  
+The very same Ferdinand Marcos Jr., who you said was an offended party in the case against Vice President Duterte.
+
+**[01:08:55.440] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:08:56.400] Atty. Carlo Joaquin T. Narvasa**  
+So, in other words, The NBI investigated and filed the complaint. The DOJ directed the investigation and will determine whether the case should proceed to court and the alleged offended party. President Marcos is the constitutional head of the executive branch exercising control over both the DOJ and the NBI.
+
+**[01:09:26.450] Atty. Carlo Joaquin T. Narvasa**  
+Sir,
+
+**[01:09:31.230] Atty. Carlo Joaquin T. Narvasa**  
+you testified earlier that you investigated the Vice President in relation to the press briefing that she conducted on November 23, 2024. Yes,
+
+**[01:09:39.930] John Mark Sta. Ana Calilung**  
+sir.
+
+**[01:09:40.660] Atty. Carlo Joaquin T. Narvasa**  
+This investigation by the NBI Cybercrime Division was started after the conduct of the November 23, 2024 press briefing of the Vice President, correct?
+
+**[01:09:52.300] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:09:53.160] Atty. Carlo Joaquin T. Narvasa**  
+So basically, to put it simply, the investigation was done after the supposed incident on November 23, 2024.
+
+**[01:10:00.880] John Mark Sta. Ana Calilung**  
+The same day, sir.
+
+**[01:10:02.260] Atty. Carlo Joaquin T. Narvasa**  
+The same day, but after. Oy,
+
+**[01:10:03.780] Atty. Carlo Joaquin T. Narvasa**  
+Your
+
+**[01:10:04.140] Atty. Carlo Joaquin T. Narvasa**  
+Honor, the same day, then after. Same, not responsive, Your Honor. Counsel, clarify your
+
+**[01:10:09.100] Sen. Francis “Chiz” Escudero**  
+question. Same day,
+
+**[01:10:10.640] Atty. Carlo Joaquin T. Narvasa**  
+same day. The investigation was done after, later then, the supposed incident on November 23, 2024.
+
+**[01:10:17.440] Sen. Francis “Chiz” Escudero**  
+Yes, sir.
+
+**[01:10:17.900] Atty. Carlo Joaquin T. Narvasa**  
+Thank you.
+
+**[01:10:18.660] Sen. Francis “Chiz” Escudero**  
+You mean to say later that day?
+
+**[01:10:21.100] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[01:10:21.940] Sen. Francis “Chiz” Escudero**  
+Because how can you investigate something that hasn't happened yet? Correct.
+
+**[01:10:25.100] John Mark Sta. Ana Calilung**  
+Yes,
+
+**[01:10:25.320] John Mark Sta. Ana Calilung**  
+Your Honor.
+
+**[01:10:25.700] Sen. Francis “Chiz” Escudero**  
+Please proceed.
+
+**[01:10:26.900] Atty. Carlo Joaquin T. Narvasa**  
+Sir, you're not one of the participants of the press conference on November 23, 2025, correct?
+
+**[01:10:33.810] John Mark Sta. Ana Calilung**  
+Yes, Sir.
+
+**[01:10:34.610] Atty. Carlo Joaquin T. Narvasa**  
+So you do not have personal knowledge about what transpired during that press briefing, correct?
+
+**[01:10:40.400] John Mark Sta. Ana Calilung**  
+It was livestreamed, Sir.
+
+**[01:10:42.000] Atty. Carlo Joaquin T. Narvasa**  
+You did not watch that livestream, correct? In real time?
+
+**[01:10:44.600] John Mark Sta. Ana Calilung**  
+Yes, Sir.
+
+**[01:10:48.960] Atty. Carlo Joaquin T. Narvasa**  
+You only acquired knowledge about it when you started investigating later that day.
+
+**[01:10:54.640] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:10:57.680] Atty. Carlo Joaquin T. Narvasa**  
+You also do not have personal knowledge of the alleged threats made by the Vice President during that press briefing. Press briefing, sorry.
+
+**[01:11:05.600] John Mark Sta. Ana Calilung**  
+After the press briefing. After.
+
+**[01:11:08.640] Atty. Carlo Joaquin T. Narvasa**  
+You only acquired knowledge about it when you started investigating.
+
+**[01:11:12.800] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:11:14.960] Atty. Carlo Joaquin T. Narvasa**  
+You also do not have personal knowledge of the alleged assassin that was allegedly hired by the Vice President. Personal knowledge, sir?
+
+**[01:11:27.000] John Mark Sta. Ana Calilung**  
+No, sir.
+
+**[01:11:30.570] Atty. Carlo Joaquin T. Narvasa**  
+Now, during your testimony yesterday, you mentioned that during your investigation on the November 23, 2024 press briefing conducted by the Vice President, you preserved a copy of said press briefing through open source investigation. Correct?
+
+**[01:11:47.160] John Mark Sta. Ana Calilung**  
+Preserve a copy through open broadcast software studies.
+
+**[01:11:50.080] Atty. Carlo Joaquin T. Narvasa**  
+Okay.
+
+**[01:11:50.380] John Mark Sta. Ana Calilung**  
+Thank you for the correction.
+
+**[01:11:52.140] Atty. Carlo Joaquin T. Narvasa**  
+One of the videos that you were Able to preserve in relation to your investigation is the screen recording of the November 23, 2024 press briefing conducted by the Vice President, right?
+
+**[01:12:04.520] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:12:05.610] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, may I move that the very same USB be unsealed and shown by the Prosecutor's Exhibit P-4-10 be unsealed and shown the witness?
+
+**[01:12:25.940] Sen. Francis “Chiz” Escudero**  
+Counsel for the Prosecutor so instructed. Thank you, Your Honor.
+
+**[01:12:48.690] John Mark Sta. Ana Calilung**  
+This
+
+**[01:13:11.020] John Mark Sta. Ana Calilung**  
+is
+
+**[01:13:16.770] Atty. Carlo Joaquin T. Narvasa**  
+Exhibit P-4-10, I believe.
+
+**[01:13:26.770] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, may I request that he unseal the USB and that it be allowed to be played?
+
+**[01:13:34.530] Sen. Francis “Chiz” Escudero**  
+Which part, Counsel?
+
+**[01:13:36.190] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, we will play various parts of the—not the whole.
+
+**[01:13:43.220] Sen. Francis “Chiz” Escudero**  
+That's what I was worried about.
+
+**[01:13:44.640] Atty. Carlo Joaquin T. Narvasa**  
+Yes, Your Honor. We understood by the faces of the honorable members of the court. So
+
+**[01:13:49.680] Sen. Francis “Chiz” Escudero**  
+you will play parts
+
+**[01:13:53.380] Atty. Carlo Joaquin T. Narvasa**  
+of it. And you identified, I presume, the time stamp. Yes, we have, Your Honor. I will get to that. Witness may open the seal. Thank you, Your Honor.
+
+**[01:14:02.980] Sen. Francis “Chiz” Escudero**  
+And counsel for the prosecutors is instructed to accompany counsel, one of the counsels for the respondent, in the tech booth to make sure that it's the same USB being presented.
+
+**[01:14:14.270] Atty. Carlo Joaquin T. Narvasa**  
+For the record, Your Honor, the witnesses opening the prosecution's exhibit P-4-10, Your Honor. This is the video dated November 23, 2024.
+
+**[01:14:32.010] John Mark Sta. Ana Calilung**  
+May I open and seal the flash drive, sir?
+
+**[01:14:34.270] Sen. Francis “Chiz” Escudero**  
+Thank you, sir. Counsel this with understanding, okay, very much like yesterday, that this USB will again be sealed and signed by both parties. Yes, Your Honor.
+
+**[01:14:44.160] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, may we request that this be played?
+
+**[01:14:49.480] Sen. Francis “Chiz” Escudero**  
+Here, brother. Council for the Prosecutors, kindly accompany a representative from the Council of the Respondent to the tech booth to make sure the same USB to be played. Kindly just guide us through, Council. Atty. Narvasa, as regards to time stamps. Thank you, Your Honor. I will. Please don't forget your promise that it's not going to be the whole two hours. Yes, Your Honor.
+
+**[01:15:19.500] Sen. Francis “Chiz” Escudero**  
+Waiting.
+
+**[01:15:21.840] Sen. Francis “Chiz” Escudero**  
+Senator Judge P. Aquetano, what is your pleasure, ma
+
+**[01:15:24.180] Sen. Pia S. Cayetano**  
+'am? Yes. If it's possible, Mr. President, if our Secretariat can install a I have to monitor here because I'm getting stiff neck watching this. It doesn't look nice that I'm slouched there looking this way. And then this one here is a little bit, not for videos but for the copies of affidavit, it's quite difficult. So if they can put one here, the others want another, but I can speak for those in the front row who would like to request. Thank you.
+
+**[01:15:55.670] Sen. Francis “Chiz” Escudero**  
+The Clerk of Court is instructed to kindly install a TV monitor in front of the tables of the Council for the Parties instead of at the witness stand. Both sides.
+
+**[01:16:13.620] Sen. Francis “Chiz” Escudero**  
+Underneath the table of the Council for the Parties, Senator Judge Pia.
+
+**[01:16:49.410] Sen. Francis “Chiz” Escudero**  
+Council, for the record and for reference, kindly identify the timestamp that you will be playing. I presume in chronological order.
+
+**[01:16:55.690] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, for the record, we are showing the witness a part of the video. Marked as the Prosecution's Exhibit P-4-10. First video, the timestamp around 00-01-27 to 00-02-20 of the November 23, 2023 press briefing as contained in the video that you identified yesterday, sir. Your Honor, may we ask that the video be played at those specific timestamps.
+
+**[01:17:37.590] Atty. Zuleika Lopez**  
+[unclear], and then I just have to do an MR. I did an MR because they did not rule on it. And then suddenly they had an order transferring me. [unclear] to lift that order of contempt because they said that was the procedure if they were not able to rule on that. How were they able to come up with an order, you know, to transfer me to the women's correctional in the dead of the night? I mean, sir, bakit ganun? Wala na bang rights yung mga tao? They just go to your room and then just get—
+
+**[01:18:16.010] Atty. Zuleika Lopez**  
+I don't understand.
+
+**[01:18:23.100] Atty. Carlo Joaquin T. Narvasa**  
+May I ask that the video be stopped?
+
+**[01:18:27.200] Atty. Carlo Joaquin T. Narvasa**  
+Sir, do you know who that is in the video that you identified?
+
+**[01:18:34.010] John Mark Sta. Ana Calilung**  
+Atty. Zuleika,
+
+**[01:18:35.170] Atty. Carlo Joaquin T. Narvasa**  
+as far as I remember, sir. Atty. Zuleika is who in relation to the vice president? You may answer not a yes or no question.
+
+**[01:18:46.060] John Mark Sta. Ana Calilung**  
+As far as I remember, she is the COS.
+
+**[01:18:49.600] Atty. Carlo Joaquin T. Narvasa**  
+COS meaning Chief of Staff, right? And she is there in that video because she was cited in contempt by the House of Representatives, correct? If you are aware, you're the investigator.
+
+**[01:19:03.510] John Mark Sta. Ana Calilung**  
+Prior to the...
+
+**[01:19:06.070] Sen. Francis “Chiz” Escudero**  
+Sir, my question again. The witness is about
+
+**[01:19:08.750] John Mark Sta. Ana Calilung**  
+to answer. The
+
+**[01:19:09.610] Sen. Francis “Chiz” Escudero**  
+witness was in the process of answering.
+
+**[01:19:11.170] John Mark Sta. Ana Calilung**  
+Prior to the scene, I have no personal knowledge, but based on her statement during the video,
+
+**[01:19:19.600] Atty. Carlo Joaquin T. Narvasa**  
+Ah, so you didn't investigate the things that happened prior to the scene, correct? Yes or no?
+
+**[01:19:28.400] John Mark Sta. Ana Calilung**  
+We haven't investigated, sir.
+
+**[01:19:29.840] Atty. Carlo Joaquin T. Narvasa**  
+Mm-hm. You didn't investigate.
+
+**[01:19:32.160] John Mark Sta. Ana Calilung**  
+Oh, I did. That's why there's an [unclear], sir.
+
+**[01:19:46.370] Sen. Francis “Chiz” Escudero**  
+Bacquel What happened prior to this video, this particular clip of the video, if you know, given that you investigated the incident, as you said?
+
+**[01:19:56.030] John Mark Sta. Ana Calilung**  
+As far as I remember, there is a hearing in the House of Representatives.
+
+**[01:20:03.390] Atty. Carlo Joaquin T. Narvasa**  
+What committee, sir?
+
+**[01:20:07.460] John Mark Sta. Ana Calilung**  
+I can't
+
+**[01:20:08.060] Atty. Carlo Joaquin T. Narvasa**  
+remember the committee, sir. What happened, sir?
+
+**[01:20:17.720] John Mark Sta. Ana Calilung**  
+COS was cited in contempt, sir.
+
+**[01:20:19.640] Atty. Carlo Joaquin T. Narvasa**  
+By who, sir?
+
+**[01:20:21.330] John Mark Sta. Ana Calilung**  
+I can't remember the exact, sir.
+
+**[01:20:23.010] Atty. Carlo Joaquin T. Narvasa**  
+But you investigated. I withdraw, Your Honor. Can we play, let me show you time stamps around 002832 to 002933. This is the same prosecution's exhibit P-4-10. That is the video you identified yesterday. Your Honor, may we request that that video be played?
+
+**[01:21:01.240] Atty. Carlo Joaquin T. Narvasa**  
+So after you pushed back attorney, they left the room, no? Tama ba? Did they appreciate that detail accurately?
+
+**[01:21:28.160] Atty. Zuleika Lopez**  
+I am not a criminal. I am already here in their facility. I have assured them already that I will attend their hearing on Monday. So why will they treat me like that? That's why I said I want my lawyer. I want my lawyer.
+
+**[01:21:47.720] Atty. Carlo Joaquin T. Narvasa**  
+Sir,
+
+**[01:21:49.850] Atty. Carlo Joaquin T. Narvasa**  
+did you consider this in making your evaluation in the revised affidavit of investigation dated February 10, 2025?
+
+**[01:21:57.410] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:21:58.210] Atty. Carlo Joaquin T. Narvasa**  
+Thank you. Now let me show you timestamps around 003305 to 003432 of the November 23, 2023 Press Briefing as contained in the video that you identified yesterday, the Prosecutions Exhibit P-4-10. Your Honor, may we request that...
+
+**[01:22:35.220] Atty. Zuleika Lopez**  
+If I did not feel that I was being threatened, my life is being threatened. And I'm sure you saw in the video that my back hurts. I cannot lift heavy things. I cannot. But dahil natakot ako, I feared for my life, I really pushed myself.
+
+**[01:23:02.120] Atty. Zuleika Lopez**  
+It's not just harassment. This is really a threat to my life.
+
+**[01:23:12.370] Atty. Zuleika Lopez**  
+They grabbed on you in the middle of the night?
+
+**[01:23:17.290] Atty. Zuleika Lopez**  
+Huh?
+
+**[01:23:19.540] Atty. Zuleika Lopez**  
+How is that done? Isn't that a threat to my life? They know that I'm sick. I have said that repeatedly when the doctor came here.
+
+**[01:23:32.640] Atty. Carlo Joaquin T. Narvasa**  
+Stop. Thank you. Sir, did you investigate the threats to Atty. Zuleika's life?
+
+**[01:23:40.770] John Mark Sta. Ana Calilung**  
+We need a complaint for this one. That's why...
+
+**[01:23:44.130] Atty. Carlo Joaquin T. Narvasa**  
+Yes or no, sir? Did you investigate?
+
+**[01:23:53.750] Atty. Amando Virgil D. Ligutan**  
+No
+
+**[01:23:54.270] Atty. Amando Virgil D. Ligutan**  
+question, sir. If the witness may be allowed to
+
+**[01:23:56.910] Atty. Carlo Joaquin T. Narvasa**  
+answer, Your Honor. I had no question. Already answered.
+
+**[01:24:02.320] Atty. Carlo Joaquin T. Narvasa**  
+Did you consider this part in making your evaluation in the revised affidavit? Ask and
+
+**[01:24:10.060] Atty. Amando Virgil D. Ligutan**  
+answered. He said
+
+**[01:24:11.040] Atty. Amando Virgil D. Ligutan**  
+yes earlier.
+
+**[01:24:11.800] Atty. Carlo Joaquin T. Narvasa**  
+This is a different part, Your Honor. This is a different part.
+
+**[01:24:16.150] Atty. Carlo Joaquin T. Narvasa**  
+Did you consider this part in your evaluation of the revised Affidavit of Investigation dated February 10, 2025?
+
+**[01:24:23.450] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:24:25.170] Atty. Carlo Joaquin T. Narvasa**  
+Okay, so despite considering these parts of the aforesaid videos, the NBI still recommended the filing of complaints for grave threats and inciting to sedition only against the Vice President. Yes?
+
+**[01:24:40.830] John Mark Sta. Ana Calilung**  
+May I qualify my answer, sir?
+
+**[01:24:42.040] Atty. Carlo Joaquin T. Narvasa**  
+No, sir.
+
+**[01:24:42.370] Atty. Carlo Joaquin T. Narvasa**  
+Yes or no.
+
+**[01:24:44.820] John Mark Sta. Ana Calilung**  
+There's a reason why we—
+
+**[01:24:46.240] Atty. Carlo Joaquin T. Narvasa**  
+Sir? Your counsel may ask you questions. This is my turn. So despite considering these parts of the videos shown to you, the NBI still recommended the filing of complaints for grave threats and inciting to sedition against only the vice president.
+
+**[01:25:06.730] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:25:09.360] Atty. Carlo Joaquin T. Narvasa**  
+Now, in
+
+**[01:25:11.530] Atty. Carlo Joaquin T. Narvasa**  
+the revised affidavit of investigation dated February 10, 2025, In page 15, paragraph 40 thereof, it is stated there, and I quote, We unanimously believe that Vice President Duterte may be held liable for grave threats defined and penalized under Article 282 of the revised penal code inciting to sedition defined and penalized under Article 142 of the revised penal code in relation to RA 1017-5. Or the Cybercrime Prevention Act of 2012. You see that, sir, right?
+
+**[01:25:51.580] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:25:54.950] Atty. Carlo Joaquin T. Narvasa**  
+This conclusion was reached by you together with other affiants of the revised affidavit of investigation dated February 10, 2025, correct?
+
+**[01:26:04.790] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:26:06.610] Atty. Carlo Joaquin T. Narvasa**  
+Now, sir, you mentioned that you're not a lawyer, right? Ask and answered. Ask and answered. To date, we are aware... Are you aware if any court has convicted the vice president for grave threats
+
+**[01:26:23.170] Atty. Carlo Joaquin T. Narvasa**  
+As far as you know,
+
+**[01:26:25.650] John Mark Sta. Ana Calilung**  
+not yet, sir.
+
+**[01:26:26.870] Sen. Francis “Chiz” Escudero**  
+Not yet. Mr. Witness, as far as you know, no.
+
+**[01:26:31.610] John Mark Sta. Ana Calilung**  
+No,
+
+**[01:26:32.050] John Mark Sta. Ana Calilung**  
+sir.
+
+**[01:26:34.760] Atty. Carlo Joaquin T. Narvasa**  
+Thank you, Your Honor. To date, are you aware if any court has convicted the Vice President for a sighting to sedition over what transpired on November 23, 2024?
+
+**[01:26:47.650] John Mark Sta. Ana Calilung**  
+No, on my personal knowledge, sir.
+
+**[01:26:49.330] Atty. Carlo Joaquin T. Narvasa**  
+Thank you.
+
+**[01:26:51.580] Atty. Carlo Joaquin T. Narvasa**  
+But you're the complainant, right? Argumentative, Your Honor.
+
+**[01:26:55.710] Atty. Amando Virgil D. Ligutan**  
+I was just asking.
+
+**[01:26:57.410] Atty. Amando Virgil D. Ligutan**  
+Ask
+
+**[01:26:57.930] Atty. Amando Virgil D. Ligutan**  
+and answer. Argumentative. Did we withdraw your question? Improper.
+
+**[01:27:01.670] Atty. Carlo Joaquin T. Narvasa**  
+Attached to the revised affidavit of investigation, which you identified and submitted to the DOJ and the Committee on Justice, is your affidavit of transcription of the press conference on November 23, 2024. I am showing you this now. For the record, Sir, Your Honor,
+
+**[01:27:19.970] Atty. Carlo Joaquin T. Narvasa**  
+I
+
+**[01:27:20.090] Atty. Carlo Joaquin T. Narvasa**  
+will show the...
+
+**[01:27:34.250] Atty. Carlo Joaquin T. Narvasa**  
+Sir, please take a look. Can
+
+**[01:27:44.900] Atty. Carlo Joaquin T. Narvasa**  
+you please state it for the record?
+
+**[01:27:48.040] Atty. Carlo Joaquin T. Narvasa**  
+This is your affidavit of transcription.
+
+**[01:27:59.230] Atty. Carlo Joaquin T. Narvasa**  
+Transcript. This refers to the press conference on November 23, 2024.
+
+**[01:28:09.800] Sen. Francis “Chiz” Escudero**  
+Yes, sir.
+
+**[01:28:10.950] Atty. Carlo Joaquin T. Narvasa**  
+You signed this on December 20, 2024?
+
+**[01:28:15.570] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:28:16.390] Atty. Carlo Joaquin T. Narvasa**  
+Sir, please take a look at your paragraph 2. Let's read it together. In relation to the ongoing investigation, the undersigned was tasked to transcribe the screen-recorded video of the press conference of Vice President Sara Duterte on 23 November 2024, which was saved on a DVD. You read that, sir?
+
+**[01:28:39.050] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:28:39.770] Atty. Carlo Joaquin T. Narvasa**  
+On paragraph 3 thereof, let's read it together. The undersigned transcribed the video mentioned above, which resulted in a CCD transcript hereto attached.
+
+**[01:28:52.020] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:28:53.250] Atty. Carlo Joaquin T. Narvasa**  
+You read that, sir? And four: I hereby certify that the above-mentioned digital evidence has been faithfully transcribed and that it has not been edited, altered, or changed in any way. Did you read that, sir? Yes,
+
+**[01:29:05.260] John Mark Sta. Ana Calilung**  
+sir.
+
+**[01:29:05.500] Atty. Carlo Joaquin T. Narvasa**  
+And I am on number five, paragraph five, I am executing this affidavit to attest to the truth of the foregoing facts and circumstances and for whatever legal intent and purpose it may serve. Did you read that, sir?
+
+**[01:29:21.920] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:29:23.940] Atty. Carlo Joaquin T. Narvasa**  
+These statements of yours, this affidavit of yours, these were all done under oath, correct?
+
+**[01:29:29.340] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:29:30.950] Atty. Carlo Joaquin T. Narvasa**  
+And you were offered as an expert in digital forensic examination with a whopping two weeks of training. Do you confirm that that transcription of the screen-recorded video of the press conference of VP Sara Duterte on the 23 November 2024 has been faithfully transcribed?
+
+**[01:29:50.700] John Mark Sta. Ana Calilung**  
+I don't remember that I was... Introduce us expert but a competent witness.
+
+**[01:29:55.770] Atty. Carlo Joaquin T. Narvasa**  
+Okay sir but my question is
+
+**[01:30:00.000] Atty. Carlo Joaquin T. Narvasa**  
+The press conference of VP Sarah Duterte that the transcription of the screen-recorded video of the press conference of VP Sarah Duterte on 23 November 2024 was faithfully transcribed by you.
+
+**[01:30:15.400] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:30:30.180] Atty. Carlo Joaquin T. Narvasa**  
+Sir, attached to this affidavit is the transcript, correct? Can you please take a look?
+
+**[01:30:37.520] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:30:38.900] Atty. Carlo Joaquin T. Narvasa**  
+And Your Honor, may I ask again that the video Parts of the video be played of the press conference on November 23, 2024. Let's go through it together, sir.
+
+**[01:30:53.090] Atty. Carlo Joaquin T. Narvasa**  
+First, let's go to around timestamp 00446. Your Honor, may I request that the video be played. Sir, please.
+
+**[01:31:13.740] Atty. Carlo Joaquin T. Narvasa**  
+Are you
+
+**[01:31:14.800] Atty. Zuleika Lopez**  
+going to file? Are you going to trigger the filing? I am
+
+**[01:31:19.600] Atty. Zuleika Lopez**  
+not leaving this room. I am here in the House of Representatives detention facility for five days until the hearing on Monday. Nobody can come in here and demand to transfer me in the middle of the night. I have my rights.
+
+**[01:31:40.820] Atty. Zuleika Lopez**  
+Any crime, I am not leaving this room.
+
+**[01:31:44.480] Atty. Carlo Joaquin T. Narvasa**  
+Stop, stop. You heard that, sir? You want to repeat it?
+
+**[01:31:49.900] John Mark Sta. Ana Calilung**  
+I heard it.
+
+**[01:31:50.920] Atty. Carlo Joaquin T. Narvasa**  
+You heard it. Sir, in the first, you see also where that part is? Can you see it?
+
+**[01:32:00.860] John Mark Sta. Ana Calilung**  
+Start with the question with Red Mendoza, sir.
+
+**[01:32:03.200] Atty. Carlo Joaquin T. Narvasa**  
+Okay, after. The Solaika Lopez. Did you hear that?
+
+**[01:32:07.320] John Mark Sta. Ana Calilung**  
+Yes, sir.
+
+**[01:32:08.080] Atty. Carlo Joaquin T. Narvasa**  
+Okay.
+
+**[01:32:08.720] Sen. Francis “Chiz” Escudero**  
+Mr. Witness, kindly speak to the mic.
+
+**[01:32:11.180] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[01:32:12.440] Atty. Carlo Joaquin T. Narvasa**  
+You heard? She said, I am not leaving this room. I am a detainee here. Here in the House of Representatives detention facility for five days until the hearing on Monday. That is the first sentence, sir. My question is this.
+
+**[01:32:30.290] Atty. Carlo Joaquin T. Narvasa**  
+Does your affidavit, does your transcript have the words, a detainee?
+
+**[01:32:40.510] Atty. Carlo Joaquin T. Narvasa**  
+Can you repeat the video, sir?
+
+**[01:32:42.250] Atty. Carlo Joaquin T. Narvasa**  
+Okay, let's do it.
+
+**[01:32:43.860] Sen. Francis “Chiz” Escudero**  
+Please repeat. Please play for the video again, please.
+
+**[01:32:49.610] Sen. Francis “Chiz” Escudero**  
+I am not leaving
+
+**[01:32:58.110] Atty. Zuleika Lopez**  
+this room. I am a detainee here, here in the House of Representatives Detention Facility for five days.
+
+**[01:33:09.130] John Mark Sta. Ana Calilung**  
+The part that the detainee is inaudible, the only I heard. You
+
+**[01:33:14.190] Atty. Carlo Joaquin T. Narvasa**  
+heard the the,
+
+**[01:33:15.070] Atty. Carlo Joaquin T. Narvasa**  
+correct?
+
+**[01:33:16.400] John Mark Sta. Ana Calilung**  
+Yes.
+
+**[01:33:16.950] Atty. Carlo Joaquin T. Narvasa**  
+Are the words or the sounds duh-duh?
+
+**[01:33:20.160] John Mark Sta. Ana Calilung**  
+Duh-hear-hear.
+
+**[01:33:23.650] Atty. Carlo Joaquin T. Narvasa**  
+Hear-hear. Yes.
+
+**[01:33:25.410] Atty. Carlo Joaquin T. Narvasa**  
+Hear-hear. Okay.
+
+**[01:33:27.830] Atty. Carlo Joaquin T. Narvasa**  
+Please play. How about the last part of the paragraph? She said, I have my rights. I am not accused of any crime. I am not leaving this room. Does your paragraph in your transcript have the word accused after not?
+
+**[01:33:47.630] Atty. Carlo Joaquin T. Narvasa**  
+Can you play the video, sir?
+
+**[01:33:50.760] Atty. Amando Virgil D. Ligutan**  
+Speak to the microphone, please. Please play the video again. Speak to the microphone. Tech is
+
+**[01:33:54.060] Sen. Francis “Chiz” Escudero**  
+instructed to play the video. Witness is instructed to speak to the mic.
+
+**[01:33:58.160] Atty. Zuleika Lopez**  
+You learned to answer me in the middle of the night. I have my rights. I am not a victim
+
+**[01:34:05.270] Atty. Zuleika Lopez**  
+of any crime. I am not leaving this room.
+
+**[01:34:11.420] Atty. Carlo Joaquin T. Narvasa**  
+More. Play, please.
+
+**[01:34:13.140] Atty. Carlo Joaquin T. Narvasa**  
+Okay, ma'am. That's all, ma'am. Thank you, ma'am.
+
+**[01:34:15.860] Atty. Carlo Joaquin T. Narvasa**  
+Wait. Back. Any other question?
+
+**[01:34:20.720] Journalist on Zoom**  
+I'm sorry, ma'am, kasi I understand. Ma'am, this is my last question and I'm very much sorry.
+
+**[01:34:29.100] Atty. Zuleika Lopez**  
+I am not leaving this room. I am here in the House of Representatives detention facility for five days until the hearing on Monday. Nobody can just come in here and demand to transfer me in the middle of the night. I have my rights. I don't have any
+
+**[01:34:54.870] Atty. Zuleika Lopez**  
+right to live in this room.
+
+**[01:34:58.920] Atty. Carlo Joaquin T. Narvasa**  
+Is the word accused in your transcript?
+
+**[01:35:04.450] John Mark Sta. Ana Calilung**  
+What I heard is root, sir.
+
+**[01:35:06.100] Atty. Carlo Joaquin T. Narvasa**  
+The root?
+
+**[01:35:06.700] John Mark Sta. Ana Calilung**  
+Of any crime. The root of any crime. Yes, sir.
+
+**[01:35:09.250] Atty. Carlo Joaquin T. Narvasa**  
+Let's play 001238.
+
+**[01:35:15.660] Atty. Carlo Joaquin T. Narvasa**  
+Can you please go to 001238?
+
+**[01:35:19.980] Atty. Zuleika Lopez**  
+[unclear recorded speech]
+
+**[01:35:40.650] Atty. Amando Virgil D. Ligutan**  
+Please. Your Honor, please. I am now registering my objection. As to the relevance, Your Honor, please, if I may explain. Of this line of questioning, Your Honor, please, if I may.
+
+**[01:35:49.710] Sen. Francis “Chiz” Escudero**  
+Counsel may explain his objection. Your
+
+**[01:35:52.590] Atty. Amando Virgil D. Ligutan**  
+Honor, please. This witness already identified the video containing the
+
+**[01:36:02.710] Atty. Amando Virgil D. Ligutan**  
+contents of that press conference on November 23, 2024.
+
+**[01:36:08.500] Atty. Amando Virgil D. Ligutan**  
+And the counsel is now confronting. This witness, whether there are minuscule portions of the two-hour video like detainee, accused, whether this appear in the transcription. Now the question, the basis for the objection is irrelevant. How can it be relevant? How can it be relevant assuming but not conceding that these two minuscule words, detainee and accused, are not reflected? In the transcript, when in fact this witness said he investigated not only on the basis of the transcript, but on the basis of the video that he himself viewed, what's the relevance?
+
+**[01:36:50.930] Sen. Francis “Chiz” Escudero**  
+Overruled part of cross to test the accuracy and the truthfulness of the witness insofar as his transcription of the video is concerned. Thank you. Counsel may proceed.
+
+**[01:37:00.530] Atty. Carlo Joaquin T. Narvasa**  
+Thank you. Please play again 001238.
+
+**[01:37:15.490] Atty. Zuleika Lopez**  
+[unclear recorded speech]
+
+**[01:37:43.950] Atty. Zuleika Lopez**  
+And then they called my lawyer and I really apologized. I said, you know that letter to the Commission on Audit was really a position of the agency. It is our stand. Like all, di ba? Meron kang points na gusto mo i-raise. We respectfully raised our points to the Commission on Audit. Alam ko hindi naman po yung malay kasi that was our right as an agency because there was an ongoing audit investigation. Pero hindi naman namin kinukuha.
+
+**[01:38:30.680] Atty. Carlo Joaquin T. Narvasa**  
+Did you hear the Vice President speaking? I don't hear. Can you please play again?
+
+**[01:38:43.030] Atty. Amando Virgil D. Ligutan**  
+Mr. Calilung, you are reminded please answer through the microphone.
+
+**[01:38:46.370] Atty. Carlo Joaquin T. Narvasa**  
+Can you please play it again?
+
+**[01:38:49.950] Atty. Zuleika Lopez**  
+Marca, will you let me go? So we filed our MR, they did not rule on it, but suddenly they were able to come out with an order, ruling to transfer me to the Women's Correctional.
+
+**[01:39:04.750] Atty. Zuleika Lopez**  
+There.
+
+**[01:39:10.150] Atty. Carlo Joaquin T. Narvasa**  
+Did you hear that?
+
+**[01:39:12.470] John Mark Sta. Ana Calilung**  
+There are sounds, but I can't distinguish the words. Can
+
+**[01:39:16.790] Atty. Carlo Joaquin T. Narvasa**  
+you play it again?
+
+**[01:39:18.430] John Mark Sta. Ana Calilung**  
+Your
+
+**[01:39:18.910] Atty. Carlo Joaquin T. Narvasa**  
+Honor, Ash can
+
+**[01:39:19.310] John Mark Sta. Ana Calilung**  
+answer it.
+
+**[01:39:20.600] Atty. Carlo Joaquin T. Narvasa**  
+What's the point? Okay, we're withdrawn, Your Honor. No further questions.
+
+**[01:39:25.980] Atty. Carlo Joaquin T. Narvasa**  
+No
+
+**[01:39:26.460] Sen. Francis “Chiz” Escudero**  
+further questions. Are we done?
+
+**[01:39:27.820] Sen. Francis “Chiz” Escudero**  
+On cross-council, do you have redirect?
+
+**[01:39:30.560] Atty. Amando Virgil D. Ligutan**  
+Of course, Your Honor, please. For the utter failure of the...
+
+**[01:39:34.500] Sen. Francis “Chiz” Escudero**  
+I was
+
+**[01:39:34.760] Sen. Francis “Chiz” Escudero**  
+hoping
+
+**[01:39:35.280] Atty. Amando Virgil D. Ligutan**  
+you won't, but... For
+
+**[01:39:36.660] Sen. Francis “Chiz” Escudero**  
+the utter failure
+
+**[01:39:37.380] Atty. Amando Virgil D. Ligutan**  
+of the respondent...
+
+**[01:39:38.480] Sen. Francis “Chiz” Escudero**  
+Council, before I recognize counsel for the prosecutor, Senator Judge Tulfo Rafi is recognized. Your Honor, sorry,
+
+**[01:39:47.020] Atty. Carlo Joaquin T. Narvasa**  
+may I move to strike that statement of the...
+
+**[01:39:49.500] Atty. Amando Virgil D. Ligutan**  
+How can it be, Your Honor? That's my manifestation. I'm about to answer the question of the presiding officer.
+
+**[01:39:55.500] Sen. Francis “Chiz” Escudero**  
+We will review the journal tomorrow. I did not even hear anything. This is strikeable counsel. But we will review the journal tomorrow.
+
+**[01:40:03.440] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, he said for the utter failure of the respondent.
+
+**[01:40:06.380] Atty. Amando Virgil D. Ligutan**  
+Yes, Your Honor, I said
+
+**[01:40:07.560] Atty. Amando Virgil D. Ligutan**  
+for
+
+**[01:40:07.960] Atty. Amando Virgil D. Ligutan**  
+the utter failure of the respondent to debunk the material points testified to by the witness yesterday. Your Honor, he is testifying. I'm not done either. He is still testifying. I'm about to answer the question.
+
+**[01:40:18.320] Sen. Francis “Chiz” Escudero**  
+I'm not yet done with the answer. Councils, please. The presiding officer is not recognized, either of you. Thank you. Thank you. Kindly settle down. Senator Judge Rafi Tulfoy is recognized.
+
+**[01:40:28.600] Sen. Raffy Tulfo**  
+Thank you, Mr. Presiding Officer. Sir, you may proceed.
+
+**[01:40:32.190] Sen. Raffy Tulfo**  
+Clarification of appointment, Mr. Presiding Officer. Mr. Witness, what is your experience with regards to social media analytics?
+
+**[01:40:42.670] Sen. Raffy Tulfo**  
+I have training, sir.
+
+**[01:40:44.070] John Mark Sta. Ana Calilung**  
+What
+
+**[01:40:44.510] Sen. Raffy Tulfo**  
+kind of training?
+
+**[01:40:46.590] John Mark Sta. Ana Calilung**  
+I have cybercrime investigation training, sir.
+
+**[01:40:49.390] Sen. Raffy Tulfo**  
+Okay. Are you familiar with Facebook or do you have SOCMED accounts that would make you a little bit knowledgeable when it comes to SOCMED? Yes, sir. What is your account? What is your social media account? I
+
+**[01:41:02.980] John Mark Sta. Ana Calilung**  
+have an account in Facebook, in Instagram,
+
+**[01:41:06.440] Sen. Raffy Tulfo**  
+in X. X. So that means pretty much you're a little bit familiar with Facebook, right? Yes, Your Honor. Okay.
+
+**[01:41:17.600] Sen. Raffy Tulfo**  
+There were concerns, Mr. Witness, whether the videos presented yesterday are AI-generated or authentic. So are you experienced enough analyzing whether a video is AI-generated or authentic? Yes, Your Honor. What makes you say that?
+
+**[01:41:36.710] John Mark Sta. Ana Calilung**  
+Based on my experience, Your Honor, and the video itself, it's two hours long. Normally, an AI-generated video will only last a short second, sir.
+
+**[01:41:46.060] Sen. Raffy Tulfo**  
+So the video that was presented yesterday where we saw the VP was saying something or talking to that effect. Did you do something or what kind of system did you observe or follow to ensure whether that video was AI generated or authentic?
+
+**[01:42:10.710] John Mark Sta. Ana Calilung**  
+Based on personal observation, sir.
+
+**[01:42:12.510] Sen. Raffy Tulfo**  
+Personal observation?
+
+**[01:42:13.710] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[01:42:14.840] Sen. Raffy Tulfo**  
+Okay. A few more questions. Therefore, will you be able to say that the video presented yesterday were AI-generated authentic?
+
+**[01:42:28.600] John Mark Sta. Ana Calilung**  
+The video presented today is what is being seen on the Facebook, sir.
+
+**[01:42:34.840] Sen. Raffy Tulfo**  
+Okay. So based on your affidavit, you mentioned that the NBA subpoenaed some members of the media who are participants of the online press con on November 23, 2024. Yes, Your Honor. And subsequently, you said that you questioned and investigated these persons regarding the conduct of that press conference. So based on what you gathered from your investigation, so I have a few questions, right? Yes, Your Honor. Who set up the press conference?
+
+**[01:43:05.070] John Mark Sta. Ana Calilung**  
+Based on our interview, sir, it is the office of the Vice President, sir.
+
+**[01:43:09.340] Sen. Raffy Tulfo**  
+So it wasn't spur of the moment, press conference?
+
+**[01:43:16.260] John Mark Sta. Ana Calilung**  
+I can't confirm, sir, but it's the response of the media
+
+**[01:43:20.440] Sen. Raffy Tulfo**  
+personnel that we interviewed. Okay. Who invited the participants?
+
+**[01:43:26.510] John Mark Sta. Ana Calilung**  
+If my memory serves me right, it's J. C. Kahinihinan, sir.
+
+**[01:43:31.010] Sen. Raffy Tulfo**  
+Okay. Who
+
+**[01:43:32.170] Sen. Raffy Tulfo**  
+is J. C.?
+
+**[01:43:32.970] John Mark Sta. Ana Calilung**  
+Staff of the Office of the Vice President, sir.
+
+**[01:43:35.910] Sen. Raffy Tulfo**  
+Okay. Who are the participants? And how many participants were there, if you can remember?
+
+**[01:43:43.840] John Mark Sta. Ana Calilung**  
+As far as I remember, it's at least 40.
+
+**[01:43:47.220] Sen. Raffy Tulfo**  
+Forty. Okay. Were there mainstream media or anybody from the broadsheets at that time? There are, sir. There were? Yes, sir. Do you know how many
+
+**[01:43:57.700] John Mark Sta. Ana Calilung**  
+approximately,
+
+**[01:43:59.040] Sen. Raffy Tulfo**  
+give or take?
+
+**[01:44:01.030] John Mark Sta. Ana Calilung**  
+The one that we have issued subpoena, sir. At least six, sir.
+
+**[01:44:06.030] Sen. Raffy Tulfo**  
+Six. Okay. What was the reach of the video on that very day? Like how many views on that very day and then a few days later? Were you able to observe that?
+
+**[01:44:23.850] John Mark Sta. Ana Calilung**  
+I can't remember, sir.
+
+**[01:44:25.230] Sen. Raffy Tulfo**  
+You can't remember.
+
+**[01:44:27.710] Sen. Raffy Tulfo**  
+Okay. How did it spread or how did it spread in SOCMED, the videos that were presented yesterday, as far as you know, when you did an investigation? It became trending, sir. It became trending. And my last question is,
+
+**[01:44:45.240] Sen. Raffy Tulfo**  
+because it was established here as inciting to sedition on top of the so-called grave threat. What were the comments that you noticed in the video? Can you give us an example?
+
+**[01:45:03.130] John Mark Sta. Ana Calilung**  
+One of the comments, because on the video, November 23, they were mentioned about people power when asked a question by Princess Maui. And the Vice President responded, agreed.
+
+**[01:45:20.710] John Mark Sta. Ana Calilung**  
+Dahl, ang laban ay wala sa EDSA nasa Malacanang and there are responses from the comments but it's not documented. That is agreeing, sir.
+
+**[01:45:30.670] Sen. Raffy Tulfo**  
+No further question, Mr. Presiding Officer.
+
+**[01:45:34.370] Sen. Francis “Chiz” Escudero**  
+Thank you, Senator Judge Tulfo. Senator Judge Aquino thereafter, Senator Judge Pangilinan. Senator Judge Aquino has two minutes in the procedure.
+
+**[01:45:44.730] Sen. Paolo Benigno “Bam” Aquino**  
+Maraming salamat, Mr. Presiding Officer. Mr. Calilung, Canina may nabanggit na dalawang affidavit. Yes. Isang Januari at isang Febrari. Yung Januari ay binalik sa inyo. Tama po ba?
+
+**[01:45:59.370] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[01:46:00.090] Sen. Paolo Benigno “Bam” Aquino**  
+And there were seven grounds why it was returned to you. Is that correct? Seven points. May, can you narrate what are these seven points that were, that you addressed? Is that the correct term that you addressed in the second affidavit?
+
+**[01:46:15.030] John Mark Sta. Ana Calilung**  
+Yes, Your Honor. Can
+
+**[01:46:16.090] Sen. Paolo Benigno “Bam” Aquino**  
+you name them please?
+
+**[01:46:16.990] John Mark Sta. Ana Calilung**  
+May I have the… Certificate, sir.
+
+**[01:46:21.820] Sen. Francis “Chiz” Escudero**  
+The
+
+**[01:46:22.180] Sen. Francis “Chiz” Escudero**  
+certification, was it counsel for the respondent?
+
+**[01:46:25.520] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, may
+
+**[01:46:26.300] Atty. Carlo Joaquin T. Narvasa**  
+I... Yes,
+
+**[01:46:27.940] Sen. Francis “Chiz” Escudero**  
+you may approach and show him the document being alluded to by Senator Judge Aquino.
+
+**[01:46:39.260] John Mark Sta. Ana Calilung**  
+Note 1. There is no affidavit of the person who recorded the video entitled BP November 23 Prescon at Batasan through open broadcast Superstudio and in turn starred in the DVD.
+
+**[01:46:53.890] John Mark Sta. Ana Calilung**  
+Number 2. The press briefing conducted on October 18, 2024 was not recorded and or stored in DVD and there was no TSN of the said briefing and the necessary affidavit to the person taking the TSN. 3. Annex I and K DVD with markings NBICCN-C-24-12436-2 and NBI-CCN-C-24-12436-2
+
+**[01:47:31.970] John Mark Sta. Ana Calilung**  
+4. Annex L. did not indicate who made the TSN. There was also no affidavit of the person who made the TSN. 5. The affidavit of Juan Patricia Morales mentioned that she stored the footage in a USB and submitted to the NBI. However, the USB There was no USB attached to the complaint. Only DVD was attached. There was no detail regarding the content of this DVD. 6. Only the minutes of meeting with several personalities and representatives from various media outfits were submitted. Although the minutes were signed, there was no individual affidavit executed regarding to the contents of the said minutes. 7. One of the elements of crime of grave threat is that the offender threatens another With the infliction upon the latter's person, honor, and property, or upon that of the latter's family, or if the wrong amounting into a crime. In the instant complaint, only the NBI executed an affidavit, and there was no participation on the part of the offended party, as it appears in the NBI is not the offended party of the crime of grave threat.
+
+**[01:48:43.600] Sen. Paolo Benigno “Bam” Aquino**  
+Okay, so nakuha mo yung nagsubmit kayo, yan yung binalik sa inyo. And then you did your best to correct all those items, is that correct? Yes, Your Honor. Okay, the first six are technical, no? Yes, Your Honor. Yung panghuli is a matter of who is the offended party. Yes, Your Honor.
+
+**[01:49:02.310] Sen. Paolo Benigno “Bam” Aquino**  
+Hindi niyo na-correct yan? Or nung binalik ninyo, it was accepted already by the DOJ, is
+
+**[01:49:09.170] Sen. Paolo Benigno “Bam” Aquino**  
+that correct?
+
+**[01:49:09.270] John Mark Sta. Ana Calilung**  
+There is an explanation, Your Honor, that was included in the letter of the former director, Judge Jaime Santiago, sir. In the filing for preliminary investigation, it is not required for the victim to execute a complaint affidavit.
+
+**[01:49:29.940] Sen. Paolo Benigno “Bam” Aquino**  
+That
+
+**[01:49:29.980] Sen. Paolo Benigno “Bam” Aquino**  
+is the answer of the NBI? Yes, Your Honor. And once you submitted, it was accepted by the DOJ?
+
+**[01:49:35.280] John Mark Sta. Ana Calilung**  
+Yes, Your Honor. And we received a certification, Your Honor, that our evidence is enough for preliminary investigation, Sir.
+
+**[01:49:41.870] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. That's the second response to the second affidavit that you provided.
+
+**[01:49:46.270] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[01:49:46.870] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. There were some statements about the hitman. To be honest, the hitman's presence is heavy. So let me ask, are you the one who investigated just the video? Or did you also investigate the presence of the hitman that was being mentioned In the videos of the vice president. I was only tasked for the video, sir. Okay, may I direct this to the prosecution? Will you be presenting other witnesses that will pertain to this alleged hitman?
+
+**[01:50:24.480] Atty. Amando Virgil D. Ligutan**  
+As to the alleged hitman, your honor, please. Yes.
+
+**[01:50:30.010] Sen. Paolo Benigno “Bam” Aquino**  
+Yes. So kayo, Mr. Calilung, hindi kayo nag-imbestigan yan. Wala kayong alam tungkol dun sa presensya ng hitman.
+
+**[01:50:37.710] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[01:50:38.330] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. Mr. President, I will refrain from my questions and wait for the witness pertaining to the hitman. Thank you very much.
+
+**[01:50:44.490] Sen. Francis “Chiz” Escudero**  
+Noted and entered in the records, Senator Judge Pangilinan, thereafter, Senator Judge Ontiveros, and then Senator Judge Villanueva.
+
+**[01:50:51.760] Sen. Francis “Kiko” Pangilinan**  
+Thank you. Thank you, Mr. Presiding Officer.
+
+**[01:50:57.780] Sen. Francis “Kiko” Pangilinan**  
+The question is to the witness. Earlier, the defense counsel or counsel for the respondents asked you If you are an attorney, your answer is no.
+
+**[01:51:10.340] John Mark Sta. Ana Calilung**  
+Are
+
+**[01:51:10.860] Sen. Francis “Kiko” Pangilinan**  
+you a degree holder? Yes, Your Honor. What is a degree?
+
+**[01:51:17.000] John Mark Sta. Ana Calilung**  
+Bachelor of Science in Accountancy, Bachelor of Science in Accounting Technology, and I am a Certified Public Accountant, Sir.
+
+**[01:51:23.180] Sen. Francis “Kiko” Pangilinan**  
+So you are a Certified Public Accountant? Yesterday, I asked you about training because you mentioned that you had training. You mentioned yesterday that you had two weeks of training. But on what matter? Only on photo and video
+
+**[01:51:41.050] John Mark Sta. Ana Calilung**  
+authentication, sir.
+
+**[01:51:41.990] Sen. Francis “Kiko” Pangilinan**  
+Okay. Are there other trainings that you went through as an expert or competent witness in the field of digital technology, cybersecurity, online training? Yes, Your Honor. What are these?
+
+**[01:52:06.100] John Mark Sta. Ana Calilung**  
+I mentioned that I have a training in Certified Computer Hacking Forensic Investigator. I have a training in computer forensic, mobile forensic, and photo and video authentication training. I have also training in cyber crime investigation. We also undergone a 480 hours training on cybersecurity. And a training before we start the bureau, we have undergone the NBI Academy, which
+
+**[01:52:35.070] John Mark Sta. Ana Calilung**  
+Teach us all the aspects in investigation, sir.
+
+**[01:52:39.190] Sen. Francis “Kiko” Pangilinan**  
+Okay, and siguro last question. Ang training na ito puro local ba? O meron ding training sa ibang bansa?
+
+**[01:52:46.630] John Mark Sta. Ana Calilung**  
+I have an international, sir, recently.
+
+**[01:52:49.500] Sen. Francis “Kiko” Pangilinan**  
+Ano yan?
+
+**[01:52:50.800] John Mark Sta. Ana Calilung**  
+It's a training in Strasbourg.
+
+**[01:52:54.900] Sen. Francis “Kiko” Pangilinan**  
+Okay. The name of the training is...
+
+**[01:53:03.810] Sen. Francis “Chiz” Escudero**  
+Saan lugar na lang, Mr. Whitman? Strasbourg,
+
+**[01:53:06.030] Sen. Francis “Kiko” Pangilinan**  
+Germany?
+
+**[01:53:07.740] John Mark Sta. Ana Calilung**  
+Strasbourg, France,
+
+**[01:53:08.660] Sen. Francis “Kiko” Pangilinan**  
+sir.
+
+**[01:53:09.610] John Mark Sta. Ana Calilung**  
+It's a five-day training, sir.
+
+**[01:53:12.500] Sen. Francis “Kiko” Pangilinan**  
+And meron pang ibang international seminars na inattendan mo? International,
+
+**[01:53:18.400] John Mark Sta. Ana Calilung**  
+sir,
+
+**[01:53:18.840] Sen. Francis “Kiko” Pangilinan**  
+but
+
+**[01:53:19.080] John Mark Sta. Ana Calilung**  
+it is conducted
+
+**[01:53:19.880] Sen. Francis “Kiko” Pangilinan**  
+locally,
+
+**[01:53:20.740] John Mark Sta. Ana Calilung**  
+the Interpol, sir.
+
+**[01:53:22.080] Sen. Francis “Kiko” Pangilinan**  
+Interpol? Yes, Your Honor. Okay. I have no further questions. Thank you, Senator
+
+**[01:53:26.520] Sen. Francis “Chiz” Escudero**  
+Judge
+
+**[01:53:26.880] Sen. Francis “Kiko” Pangilinan**  
+Molina.
+
+**[01:53:27.280] Sen. Francis “Chiz” Escudero**  
+Senator Judge Ontiveros is recognized. You may proceed, ma'am, and you have two minutes.
+
+**[01:53:34.870] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer.
+
+**[01:53:40.110] Sen. Risa Hontiveros**  
+Para sa Counsel for the Defense, Mr. Presiding Officer, just for clarity, ano pong relevance nung video na ipinakita ni Atty. Zuleika Lopez? Sinasabi po ba ng depensa na 'yung mga alleged threats o alleged incitements ni VP Duterte ay prompted nung detensyon ni Atty. Lopez?
+
+**[01:54:11.280] Atty. Carlo Joaquin T. Narvasa**  
+Yes, Your Honor. There was a systematic oppression made by the House of Representatives dating back from their, um, their—even before their mini trial, Your Honor. Their, uh, the committee headed by Representative Joel Chua began investigating the Vice President and her people. Even when Atty. Zuleika Lopez was being interviewed by the House Quad Com Committee, Your Honor, even if she was answering the questions faithfully and to the best of her ability, she was cited in contempt, detained. Her lawyer was not allowed to be with her when they were trying to detain her in the women's correctional facility, Your Honor.
+
+**[01:55:10.370] Sen. Risa Hontiveros**  
+So, Mr. Presiding Officer, counsel for the defense, is the defense in a position to overcome alleged grave threats if there is a legitimate reason to guard?
+
+**[01:55:32.260] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, that is not the point.
+
+**[01:55:34.790] Sen. Risa Hontiveros**  
+No, no, no. Mr. Presiding Officer, I am making a point through my question, and I am asking the good counsel for the defense, dahil sinabi nila there was a systematic oppression, that yes, yan po ang nag-prompt nung alleged grave threats and alleged incitements ng Vice President, nag-prompt po ng detensyon ni Atty. Lopez na kanyang inilarawan sa ipinakitang video kanina. So I am asking if that is the position of the defense that it is okay or it is acceptable to accept grave threats if there is a legitimate reason to guard. Yes,
+
+**[01:56:21.510] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor.
+
+**[01:56:21.950] Atty. Carlo Joaquin T. Narvasa**  
+Yes, Mr. President.
+
+**[01:56:27.710] Sen. Francis “Chiz” Escudero**  
+No,
+
+**[01:56:28.270] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor. I was just referring to before.
+
+**[01:56:30.590] Sen. Francis “Chiz” Escudero**  
+We would like to remind the senator judges to be cautious in making counsels for either party. Make conclusions of law and fact. Instead of presenting evidence through a witness, they will present or through direct, cross, redirect, or recross. Because if he answers, Senator Judge Diveros, That would effectively place on record a conclusion of fact and law, not drawn from a witness, which they can very well do so during their closing remarks. And when I allow them to speak by way of repartee to the preparation yesterday and discussion yesterday by counsel for the prosecution. But other than that, as agreed with some of the senator judges, we would try to limit the answers of the counsels for the parties. With your indulgence, Senator Judge Ontiveros, please. I
+
+**[01:57:22.450] Sen. Risa Hontiveros**  
+submit, Mr. Presiding Officer. May I just in closing make of record that I also appreciated and also submitted to the ruling of the Presiding Officer yesterday because I appreciated that it partook of the history of impeachment proceedings in this court. I also carefully studied the past impeachment trials and found that Pati noon, naging liberal ang pagpapahintulot nila sa mga katanungan. Katanungan ng mga senator judges para lang mas maliwanagan ang iba't ibang punto. So I again thank the good presiding officer and again reiterate my submission to his ruling and thank the good counsel for the defense for his response.
+
+**[01:58:15.070] Sen. Francis “Chiz” Escudero**  
+We thank Senator Antiveros for her indulgence and understanding. Senator Villanueva and thereafter, Senate President Gachalian.
+
+**[01:58:25.390] Sen. Francis “Chiz” Escudero**  
+You may proceed, sir. You have two minutes.
+
+**[01:58:27.850] Sen. Joel Villanueva**  
+Thank you, Mr. President, Mr. Presiding Officer. May I just point out something to the witness? Mr. President, Your Honors, the witness mentioned yesterday that reported statements of the Vice President were referred to the Presidential Security Command and evaluated in coordination with the National Security Council. Just to assist the court in evaluating the relevance and weight of the government security response in determining whether the respondent's conduct constitutes an impeachable offense, may we know from the witness, could the witness explain how threats against the president are ordinarily assessed? By the government. Kasi o, dito yung lumalabas yung pag-weigh natin whether or not meron bang bigat iyong threat o ito'y ordinaryong threat na nangyayari sa pang-araw-araw nating buhay. Specifically, Mr. Witness, what factors are taken into account in evaluating a reported threat and in determining appropriate measures?
+
+**[01:59:51.360] John Mark Sta. Ana Calilung**  
+Oo. I can't answer on the part of the NSC or DNO because I'm not part of the institution.
+
+**[02:00:00.000] Sen. Joel Villanueva**  
+In your capacity as an agent?
+
+**[02:00:01.420] John Mark Sta. Ana Calilung**  
+In my capacity, one of the considerations, if it's an active threat, if it's the one giving the threat is capable of doing so.
+
+**[02:00:12.380] Sen. Joel Villanueva**  
+Meaning?
+
+**[02:00:14.180] John Mark Sta. Ana Calilung**  
+High-ranking
+
+**[02:00:15.260] Sen. Joel Villanueva**  
+officials, and if
+
+**[02:00:16.360] Sen. Joel Villanueva**  
+you say an official?
+
+**[02:00:17.140] John Mark Sta. Ana Calilung**  
+A capability or power to implement such threat, it is considered, sir.
+
+**[02:00:25.740] Sen. Joel Villanueva**  
+Example, a mayor, perhaps? Would you say a high-ranking official? A congressman? Or yung basihan po ng kanyang threat? Kunyari ang threat ko, dadalhin kita doon sa buwan. Wala naman akong space shuttle. So wala din pong bearing yun. Is that the correct assumption?
+
+**[02:00:44.780] John Mark Sta. Ana Calilung**  
+Not only, sir, but also how it was delivered, sir. Like what was mentioned in the, that I mentioned previously, it was mentioned that no joke, no joke. It's a serious.
+
+**[02:00:58.420] Sen. Joel Villanueva**  
+So that is the
+
+**[02:00:59.360] John Mark Sta. Ana Calilung**  
+consideration.
+
+**[02:01:01.600] Sen. Joel Villanueva**  
+Thank you very much. And lastly, Mr. Witness, you made mention na submit mo sa DOJ nung January 30. Is it the same affidavit that you submitted to the HOR?
+
+**[02:01:14.480] John Mark Sta. Ana Calilung**  
+The one that submitted to the HOR is the affidavit dated February, sir.
+
+**[02:01:19.550] Sen. Joel Villanueva**  
+So, that's the latest.
+
+**[02:01:20.950] John Mark Sta. Ana Calilung**  
+Yes, sir. The one that complied with the requirements of the DOJ, sir. Thank
+
+**[02:01:24.230] Sen. Joel Villanueva**  
+you very much for that clarification. Thank you, Mr. President. Thank
+
+**[02:01:27.010] Sen. Francis “Chiz” Escudero**  
+you, Senator Villanueva. Before I recognize Senate President Gachalian and thereafter, Senator Erwin Tulfo, may I remind Atty. Narvasa that your five minutes, you'll be given your five minutes after the questions of the Senator judges and before we recognize the counsel for the prosecutor for his redirect. Second President, Gachal Yanes, recognized. You may proceed, sir. You have two minutes.
+
+**[02:01:51.300] Atty. Carlo Joaquin T. Narvasa**  
+May I be clarified? I believe that we would do it after re-cross.
+
+**[02:01:55.750] Sen. Francis “Chiz” Escudero**  
+I heard cross. After re-cross.
+
+**[02:01:58.900] Atty. Carlo Joaquin T. Narvasa**  
+Yes, Your Honor. Thank you, Your Honor.
+
+**[02:02:00.530] Sen. Francis “Chiz” Escudero**  
+Better for us?
+
+**[02:02:01.310] Sen. Sherwin T. Gatchalian**  
+Yes, Your Honor. Thank you, Mr. Presiding Officer. I just have a few questions. Clarificatory questions. Narinig ko kanina ginong testigo na nasabi niyo may 40 media personalities doon sa Prescon. Tama po ba?
+
+**[02:02:14.770] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:02:15.710] Sen. Sherwin T. Gatchalian**  
+Pero ang inyong inibitahan, Anim lang?
+
+**[02:02:18.900] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:02:20.060] Sen. Sherwin T. Gatchalian**  
+Bakit anim lang?
+
+**[02:02:21.600] John Mark Sta. Ana Calilung**  
+The 40, we see the number of participants but the number of person who ask the vice president during that time, it's limited. And we consider who we sure that is present during that time, Your Honor.
+
+**[02:02:39.560] Sen. Sherwin T. Gatchalian**  
+Mayroon bang kayong criteria kung paano pipiliin itong? Ang mga media personalities or kung sino lang ang nagtanong? Kasi kahit hindi ka naman magtatanong, nandoon ka naman, naririnig mo yung mga diskusyon, meron ba kayong mga criteria kung paano pumipili ng media personalities?
+
+**[02:03:00.360] John Mark Sta. Ana Calilung**  
+Yung sure po namin na present during that time. Kasi kapag hindi po kasi kayo nagtanong, hindi po magpa-pop up yung mukha nyo tsaka yung pangalan nyo.
+
+**[02:03:09.040] Sen. Sherwin T. Gatchalian**  
+Okay. At... Itong mga anim na sinupinan ninyo, ano yung kanyang common statement na ibinigay?
+
+**[02:03:19.820] John Mark Sta. Ana Calilung**  
+Kinonfirm po nila na present sila during the November 23, 2024 press conference and yung utterance po ni Vice President narinig po nila.
+
+**[02:03:28.960] Sen. Sherwin T. Gatchalian**  
+Okay, I believe ilan dito sa mga personalities ay ipapatawag rin. So tatalon ako sa ibang topic. Nakita ko kanina itong tungkol sa Atty. Max Corr Interventures At nakita ko kanina, pinakita yung Articles of Incorporation, mukha siyang supplier ng equipment. Ngayon nasabi rin na doon ka nag-training for two weeks. Sino nagbayad nung training?
+
+**[02:03:58.890] John Mark Sta. Ana Calilung**  
+Sir, the training is included in the procurement of digital forensic tools. In the procurement document, ni-require po si MaxCorp na mag-provide po ng training included in the equipment, sir.
+
+**[02:04:12.340] Sen. Sherwin T. Gatchalian**  
+Yung paggamit ng equipment?
+
+**[02:04:13.800] John Mark Sta. Ana Calilung**  
+Tsaka yung ano po, yung process po ng digital forensic as a whole.
+
+**[02:04:17.950] Sen. Sherwin T. Gatchalian**  
+Yung kanya lang, sila ba ay... Diba sa mga IT, let's say Oracle, alam natin kilala yan pagdating sa IT. Si MaxCore ba ay kilala pagdating sa digital forensic training? Kasi sa alam, nakita ko kanina talagang supplier sila but are they a well-known or internationally renowned training organization?
+
+**[02:04:45.690] John Mark Sta. Ana Calilung**  
+It is not the MAC score itself, but it's the trainer that they provide, sir, that is capable in training us, sir.
+
+**[02:04:54.050] Sen. Sherwin T. Gatchalian**  
+Itong trainer na ito, certified siya in this type of technology?
+
+**[02:04:59.810] John Mark Sta. Ana Calilung**  
+Yes, sir. The trainer has a lot of certifications in relation to digital forensics, sir.
+
+**[02:05:04.650] Sen. Sherwin T. Gatchalian**  
+Can you name a few certifications na meron itong trainer na ito?
+
+**[02:05:09.610] John Mark Sta. Ana Calilung**  
+Oo. I can't remember, sir. Let's
+
+**[02:05:12.190] Sen. Sherwin T. Gatchalian**  
+say Oracle or let's say Microsoft, di ba? May mga ganyan yan.
+
+**[02:05:15.050] John Mark Sta. Ana Calilung**  
+No, sir. CompTIA, sir. CompTIA training. I believe he also have a certified ethical hacking certification and a lot more, sir. When it was presented to us, sir.
+
+**[02:05:27.310] Sen. Sherwin T. Gatchalian**  
+Alright. So, itong mga trainers nito ay certified trainers na pwedeng mag-train sa iyo at magiging certified ka rin.
+
+**[02:05:36.300] John Mark Sta. Ana Calilung**  
+Yes, sir. In-issue na akong certificate.
+
+**[02:05:37.780] Sen. Sherwin T. Gatchalian**  
+Lastly, Mr. Presiding Officer, after training, nakakuha ka ba ng certification na katulad sa kanila?
+
+**[02:05:45.600] John Mark Sta. Ana Calilung**  
+No, sir. But that certification that I was trained by them, sir.
+
+**[02:05:49.680] Sen. Sherwin T. Gatchalian**  
+Pero ikaw mismo, are you certified to do forensic examinations for your purpose and responsibility?
+
+**[02:05:59.790] John Mark Sta. Ana Calilung**  
+I have a certification, sir. I am a certified computer hacking forensic investigator, sir.
+
+**[02:06:04.990] Sen. Sherwin T. Gatchalian**  
+Itong forensic analysis, meron kang, for this purpose, itong pinag-uusapan natin.
+
+**[02:06:10.230] John Mark Sta. Ana Calilung**  
+The computer, the authentication, sir, part, or as a whole, sir?
+
+**[02:06:15.650] Sen. Sherwin T. Gatchalian**  
+As a whole, as a whole.
+
+**[02:06:18.000] John Mark Sta. Ana Calilung**  
+I have a certification in computer hacking, sir. Specific. But I have trainings in relation to the—
+
+**[02:06:23.600] Sen. Sherwin T. Gatchalian**  
+Iba yung hacking eh. Yung pinag-uusapan natin forensic examination ng video, forensic examination ng mga ganitong bagay. Meron kang certification doon?
+
+**[02:06:32.260] John Mark Sta. Ana Calilung**  
+I have
+
+**[02:06:32.820] Sen. Francis “Chiz” Escudero**  
+certificate, sir.
+
+**[02:06:33.680] Sen. Sherwin T. Gatchalian**  
+All right. Thank you. Thank you, Mr. Presiding Officer.
+
+**[02:06:35.860] Sen. Francis “Chiz” Escudero**  
+Senator Judge Erwin Tulfo, thereafter, Senator Judge Marcos.
+
+**[02:06:40.990] Sen. Francis “Chiz” Escudero**  
+You may proceed, sir. You have two minutes.
+
+**[02:06:45.080] Sen. Erwin Tulfo**  
+Maraming salamat, Mr. Chair, Mr. Presiding Officer.
+
+**[02:06:50.470] Sen. Erwin Tulfo**  
+Ang katanungan ko po ay para sa ating testigo.
+
+**[02:06:54.790] Sen. Erwin Tulfo**  
+Batid ko po na sa ilalim ng Republic Act 108-67, sa ilalim po ng Section 4, ang kapangyarihan po ng inyong ahensya na mag-imbestiga kapag na mga krimen particular na tulad ng mga banta sa buhay ng Pangulo, ikalawang Pangulo, Senate President, Speaker of the House, at Chief Justice. Tama po iyon. Yes, Your Honor.
+
+**[02:07:23.190] Sen. Erwin Tulfo**  
+Lalo pa at pag ito ay may kaugnayan sa national security, tama po? Yes, Your Honor. Pero ang tanong ko po, ang pagsasampa po ba ng kaso, nasa mandato rin po ba ng NBI na magsampa ng kaso doon sa mga tao na nagbanta sa buhay ng Pangulo, ikalawang Pangulo, Senate President, Speaker of the House, Chief Justice, is it automatic?
+
+**[02:07:50.780] Sen. Erwin Tulfo**  
+Or kailangan mag-request sila sa inyo? Matic ba yung pagsasampa ng kaso doon sa nagbanta in this case? Is it automatic or wala lang? Kasama sa mandato niyo to file charges dahil binantaan mo Pangulo o si Vice Presidente kung sino man yung apat na matataas na opisyal natin or limang matataas opisyal natin.
+
+**[02:08:11.180] John Mark Sta. Ana Calilung**  
+Ang basis namin doon, Your Honor, is the primary objective namin to investigate cases—the threat to the President, Vice President, Senate President, Supreme Court—and if we found that the evidence is enough that there is a crime committed, we will file a case because that's the output of our investigation.
+
+**[02:08:32.010] Sen. Erwin Tulfo**  
+[unclear]
+
+**[02:08:47.820] Sen. Erwin Tulfo**  
+Yes, Your Honor. Okay. Hindi niyo na siya kailangan tanungin pa na, sir, gusto niyo po bang kasuhan namin ito? Wala nang ganun. You will never ask. Sabihin natin, hindi lang Pangulo. Vice Presidente. Nangyari din sa Vice Presidente o sa Speaker of the House, sa Senate President o sa Chief Justice. Hindi niyo naman lang siya afford to ask him, like, sir, will you go through the process? Kasi magpa-file ka po ng mga affidavit. This is a long process, etc. Kahit na Pangulo ka po, may pipirmahan ka mga affidavit. Is it automatic, Mr. Witness?
+
+**[02:09:21.350] John Mark Sta. Ana Calilung**  
+We submitted it, sir, even without a complaint for preliminary investigation, sir.
+
+**[02:09:26.530] Sen. Erwin Tulfo**  
+No further questions, Mr. President.
+
+**[02:09:29.050] Sen. Francis “Chiz” Escudero**  
+Thank you, Senator Judge Erwin Tulfo. Senator Judge Marcos is recognized. You may proceed, ma'am, and you have two minutes.
+
+**[02:09:35.240] Sen. Imee Marcos**  
+Yes, maraming salamat. Mahal na naman muna. Hihingi lang po ako ng dokumento para mas madali nating sundan ang mga pangyayari. Nalilito lahat pagkat wala po kaming papel. At ang nabigay sa amin, eto, Annex FFFGGG. Nalilito po kami kung alin dito yung mga papel. Kung maaari kaming bigyan, unang-una, yung unang tinutukoy, the first affidavit of investigation dated January 30 alleging grave threats inciting to sedition ng NBI. Ikalawa, yung napasok na yata sa record pero nais rin namin bilang senator-judge na magkaroon ng kopya nung DOJ
+
+**[02:10:15.230] Sen. Imee Marcos**  
+Certification signed by Prosecutor Bandung, February 5, na nagbigay ng 7 grounds na insufficient for preliminary investigation. Ikatlo, yung naibigay na, ito klaro to, naibigay po ni Mavic at ng iba pang staff natin, yung February 10, yung ikalawang amended na ibinigay na revised affidavit of authentication, February 11. Ngunit sabi ni Testigo Calilung na merong kasama ito na wala rito sa record natin at sana maibigay si Sen. Judge. Ito yung sulat kasama nung Second Revised Affidavit of Authentication. Ito naman yung sinasabing sulat ni Santiago Que... Fadulyon ng DOJ na nagsasaad na hindi kailangan na may private complainant yung sina presidente, ang first lady, at saka yung dating speaker dahil base sa kaso ng Santos Concho versus DOJ na 2008 eh hindi daw kailangan yung private complainant. May we also have a copy of the same. Finally, may we urge that a copy also be given of February 14 certification of DOJ asserting that the revised affidavit of investigation was finally sufficient. Nais lang namin makita yun at alamin yung investigation data huling-huli nung March 7, almost a month after the submission of the Affidavit of Authentication kasi halos isang buwan bago utusan na magkaroon ng investigation data form. Sana may kopya rin tayo noon.
+
+**[02:12:05.500] Sen. Francis “Chiz” Escudero**  
+To respond to Senator Judge Marcos,
+
+**[02:12:10.490] Sen. Francis “Chiz” Escudero**  
+What the court has copies of are the pre-marked documents that the parties pre-marked during pre-trial, but not documents that have not yet been pre-marked. Most of the documents he mentioned that was discussed by counsel for respondent has not yet been pre-marked. They only used it to confront via cross-examination the witness of the prosecution. But the ones we have, We will furnish you with a reminder, of course, Senator Judge Marcos, that these documents have not yet been formally offered by either party and we still have to await formal offer before the court rules on the admissibility, if at all, of these documents. But we will endeavor to furnish the good Senator Judge with whatever the Clerk has.
+
+**[02:12:56.500] Sen. Imee Marcos**  
+Yes, if we could be provided with whatever the clerk has and adequately identified, not as GGGGG or FFFFF. At sana kung mabuo yung mga dokumentong sinasabi sa lalong madaling panahon. Maraming salamat.
+
+**[02:13:13.500] Sen. Francis “Chiz” Escudero**  
+We will endeavor to comply as best we can, Senator Judge Marcos. Senator Judge Alan Cayetano, what is your pleasure, sir?
+
+**[02:13:25.930] Sen. Alan Peter Cayetano**  
+Sir President and Mr. Presiding Officer, before I ask to be allowed to ask a question, can I just follow up yung kay Sen. Marcos, including the ruling yesterday?
+
+**[02:13:37.930] Sen. Alan Peter Cayetano**  
+Just in the interest of all Sen. Judges being able to follow closely, especially kami sa first row kasi medyo nagkaka-stiff neck na kami. Mahirap tignan yung…
+
+**[02:13:51.870] Sen. Alan Peter Cayetano**  
+Maglalagay na po kami ng TV sa harap ng lanyasan ng Council for Parties. I think all of us own a iPad or a tablet. I don't know what the solution is, but if the Secretariat or the Clerk of Court, the Office of the Clerk of Court can work with our staff.
+
+**[02:14:15.740] Sen. Alan Peter Cayetano**  
+Just to give you an example for today, if you look at the impeachment complaint, On page 19, for example, it says that the affidavit we're looking for kanina, footnote number 72, is this one. In the impeachment complaint, it's found on Annex G. So this is Annex G.
+
+**[02:14:48.400] Sen. Alan Peter Cayetano**  
+If you look at Annex G, it is a certification, not an affidavit.
+
+**[02:14:55.530] Sen. Alan Peter Cayetano**  
+So where do you find the affidavit mentioned in
+
+**[02:15:02.270] Sen. Alan Peter Cayetano**  
+the impeachment complaint?
+
+**[02:15:07.130] Sen. Alan Peter Cayetano**  
+You actually find it in Volume 14, Annex F. F. F. F. F. F. F. F. F. F. Dash G. G. G. G. G. G. G. G. So before I can even say that...
+
+**[02:15:22.220] Sen. Francis “Chiz” Escudero**  
+That's F. F. F. F. F. F. F. F. to G. G. G. G. G. G. G. Yes.
+
+**[02:15:25.900] Sen. Alan Peter Cayetano**  
+So even before we finish saying that... Your Honor, Mr. Presiding Judge, medyo mahirap. To further complicate, the annexes when delivered to us was labeled annexes and then when it was pre-marked, iba na yung marking. That is correct. Okay. So, to clarify, I'm not asking both the prosecution and defense to give us any documents in advance that will prejudice their presentation or their rebuttal. I do understand that it has to be offered but to speed things up and to make sure we understand in the same manner that they're asking the witness to examine it maybe we can be given a copy to examine at the same time whether digital or actual copy I don't want to impose upon them to print 24 copies but again anyway it's Wednesday we have Thursday Friday Saturday Sunday for our staff and the clerk of court to meet I think we
+
+**[02:16:26.780] Sen. Francis “Chiz” Escudero**  
+already have a solution for you, Senator Judge Cayetano, as well as for Senator Judge Marcos. We will be furnishing the parties either via soft copy to their respective iPads or laptops or we will enter their official emails as well. Kayo na po mag-print ng hard copy ng list of evidences as marked, as pre-marked by the prosecution na ipe-present. Atty.
+
+**[02:17:06.510] Sen. Francis “Chiz” Escudero**  
+R.
+
+**[02:17:10.250] Sen. Francis “Chiz” Escudero**  
+Ligutan, Atty.
+
+**[02:17:21.750] Sen. Alan Peter Cayetano**  
+J.
+
+**[02:17:23.450] Sen. Alan Peter Cayetano**  
+Even if it's premarked, if it will prejudice their presentation, I don't mind it be given in real time. And same, if it's being used on cross or recross on rebuttal and hindi ito na premarked, as long as real time, para lang we can process it. If not, we have to review afterwards and it messes up our preparation for the hearing the next day. Is that possible for the parties once the roles are reversed?
+
+**[02:17:50.370] Sen. Francis “Chiz” Escudero**  
+May I get a response from the Counsel for Respondent?
+
+**[02:17:53.050] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, first we'll clarify everything that was showed today was pre-marked by the respondent.
+
+**[02:18:00.370] Sen. Francis “Chiz” Escudero**  
+That's not my understanding because the DOJ letter you pre-marked is different from the DOJ letter that we have pre-marked. But we'll verify. So everything was pre-marked? Yes, Your Honor. But you presented a document that was not pre-marked either by the prosecution or the defense. Walang marking eh?
+
+**[02:18:20.210] Atty. Carlo Joaquin T. Narvasa**  
+I presented all that. So if it
+
+**[02:18:23.390] Atty. Carlo Joaquin T. Narvasa**  
+was pre
+
+**[02:18:23.650] Atty. Carlo Joaquin T. Narvasa**  
+-marked, it's our lookout.
+
+**[02:18:25.020] Sen. Francis “Chiz” Escudero**  
+Then kindly, there's no problem furnishing the senator-judges with a copy of the same.
+
+**[02:18:29.110] Atty. Carlo Joaquin T. Narvasa**  
+We have no problem with that, Your Honor.
+
+**[02:18:30.390] Sen. Francis “Chiz” Escudero**  
+Senator-Judge Anad Quetano's concern has no basis if it was all pre-marked, apparently. It was our oversight. Counsel for the prosecutors, would that be possible? Yes. To furnish it? I think what counsel for respondent did earlier helped us out a lot.
+
+**[02:18:48.810] Sen. Francis “Chiz” Escudero**  
+Plastering it on the screens, whatever, affidavit. You were presenting. I think Council for the Prosecutors should do the same. Di naman bawal magkumpiahan dito eh. Okay lang.
+
+**[02:18:59.950] Sen. Alan Peter Cayetano**  
+Senator Judge Caetano. Thank you. And just to clarify, the two minutes is the question, not including the answer.
+
+**[02:19:06.610] Sen. Francis “Chiz” Escudero**  
+You
+
+**[02:19:07.150] Sen. Alan Peter Cayetano**  
+have two
+
+**[02:19:07.470] Sen. Francis “Chiz” Escudero**  
+minutes if you want to
+
+**[02:19:08.370] Sen. Alan Peter Cayetano**  
+start with
+
+**[02:19:08.810] Sen. Francis “Chiz” Escudero**  
+asking questions.
+
+**[02:19:09.850] Sen. Alan Peter Cayetano**  
+If they ask to repeat the question, please don't count that. Two minutes is long with short questions but many of us... A question
+
+**[02:19:27.860] Sen. Francis “Chiz” Escudero**  
+for
+
+**[02:19:30.260] Sen. Alan Peter Cayetano**  
+the witness and maybe to put all of us in check. I don't mind if any of the council says the medyo hindi maayos yung question. I mean given what happened yesterday and today and there are questions that could prejudice the case either way.
+
+**[02:19:48.650] Sen. Alan Peter Cayetano**  
+As long as we call each other out respectfully to the both councils, you cannot correct a senator-judge but I don't mind if you think it prejudices. That's your duty to your client. So this isn't the start of the two minutes yet.
+
+**[02:20:06.610] Sen. Alan Peter Cayetano**  
+Magandang hapon, Mr. Witness.
+
+**[02:20:08.350] John Mark Sta. Ana Calilung**  
+Good afternoon, Your Honor.
+
+**[02:20:09.450] Sen. Alan Peter Cayetano**  
+Medyo mahaba na yung pag-upo mo dyan but allow me a few questions. Yung circumstance lang, so paano nagsimula yung investigasyon? Na na-involve ka. Were you from the start o hindi? At written instructions ba to? O sinabi, oh may investigation tayo? Just konting clarity, paano na umpisa yung specific investigation? And was it based on the November 3 video? Tama ba?
+
+**[02:20:32.730] John Mark Sta. Ana Calilung**  
+November 23, Your Honor. Okay. It all started, I received a phone call, sir, from my executive officer that there is a video wherein there is a statement given by the vice president.
+
+**[02:20:47.750] John Mark Sta. Ana Calilung**  
+Which is classified as threat and I was tasked and assigned to investigate the case, sir.
+
+**[02:20:53.870] Sen. Alan Peter Cayetano**  
+Okay. So basically ganun yung pagkasabi na I'm asking you to look at the video, investigate.
+
+**[02:20:59.970] John Mark Sta. Ana Calilung**  
+Yes, your honor.
+
+**[02:21:00.790] Sen. Alan Peter Cayetano**  
+Were you working alone or with a group?
+
+**[02:21:02.800] John Mark Sta. Ana Calilung**  
+With a group, your honor.
+
+**[02:21:04.250] Sen. Alan Peter Cayetano**  
+NBI group?
+
+**[02:21:05.250] John Mark Sta. Ana Calilung**  
+Yes, your honor.
+
+**[02:21:06.220] Sen. Alan Peter Cayetano**  
+And was this, is there an interagency also or just purely NBI?
+
+**[02:21:11.330] John Mark Sta. Ana Calilung**  
+I don't have personal knowledge. Maybe our chief, sir, has the knowledge on that, sir. That's all I asked for naman, yung personal
+
+**[02:21:18.110] Sen. Alan Peter Cayetano**  
+knowledge.
+
+**[02:21:18.690] John Mark Sta. Ana Calilung**  
+So,
+
+**[02:21:19.330] Sen. Alan Peter Cayetano**  
+pakiulit mo yung sinabing, how exactly sinabi sa'yo na tignan mo yung video, imbistigaan mo, or may statement?
+
+**[02:21:30.370] John Mark Sta. Ana Calilung**  
+To be specific, sir, as far as I remember, may
+
+**[02:21:37.040] John Mark Sta. Ana Calilung**  
+statement si Vice President regarding the November 23 press conference na kung saan. May pagbabanta na naganap. Pakiimbestigahan.
+
+**[02:21:50.190] Sen. Alan Peter Cayetano**  
+Pakiimbestigahan. So ganun ka-general? May pagbabantang naganap, pakiimbestigahan?
+
+**[02:21:54.300] John Mark Sta. Ana Calilung**  
+Yes po.
+
+**[02:21:55.000] Sen. Alan Peter Cayetano**  
+And you proceeded by watching the video?
+
+**[02:21:56.900] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:21:57.750] Sen. Alan Peter Cayetano**  
+And when you watched the video, you got to the part na may pagbabanta?
+
+**[02:22:01.570] John Mark Sta. Ana Calilung**  
+No, Your Honor. I first don't know which part of that.
+
+**[02:22:06.590] Sen. Alan Peter Cayetano**  
+So you watched the whole video, of course?
+
+**[02:22:08.330] John Mark Sta. Ana Calilung**  
+First the clippings, Your Honor. Then I looked for the whole video, Your Honor.
+
+**[02:22:13.620] Sen. Alan Peter Cayetano**  
+Then you watched the whole video?
+
+**[02:22:14.670] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:22:15.320] Sen. Alan Peter Cayetano**  
+And thank you for your honesty. So after the clipping, tapos the whole video, what did you do next? You reported or you made your recommendations? I don't understand the process lang kasi.
+
+**[02:22:26.640] John Mark Sta. Ana Calilung**  
+Upon identifying the whole video, I informed my executive officer that I identified the video, Your Honor.
+
+**[02:22:32.900] Sen. Alan Peter Cayetano**  
+And then yung sinabi mo yesterday, then you started looking for patterns. That's why you looked at yung dating mga video ni Vice President.
+
+**[02:22:40.650] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:22:41.270] Sen. Alan Peter Cayetano**  
+So you started investigating the threat against the President, the First Lady, and the former Speaker of the House.
+
+**[02:22:48.050] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:22:48.610] Sen. Alan Peter Cayetano**  
+Did you investigate the threat against the Vice President? We tried, Your Honor. How did you try?
+
+**[02:22:54.090] John Mark Sta. Ana Calilung**  
+It is included in our letter to the Vice President, Your Honor.
+
+**[02:22:58.950] John Mark Sta. Ana Calilung**  
+That's why we're inviting her to proceed to our office to investigate the threats to her life, Your Honor.
+
+**[02:23:04.970] Sen. Alan Peter Cayetano**  
+How about the vlogger who asked her about Oplan or whatever they call that Romanov, did you invite them?
+
+**[02:23:12.900] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:23:13.650] Sen. Alan Peter Cayetano**  
+And did they testify?
+
+**[02:23:15.670] John Mark Sta. Ana Calilung**  
+The Princess Maui did not appear, Your Honor. Did not
+
+**[02:23:18.610] Sen. Alan Peter Cayetano**  
+appear. Did
+
+**[02:23:19.470] John Mark Sta. Ana Calilung**  
+you also look
+
+**[02:23:20.070] Sen. Alan Peter Cayetano**  
+for previous videos that are threatening to the Vice President?
+
+**[02:23:27.980] John Mark Sta. Ana Calilung**  
+We looked on the Romanov part, Your Honor. But we identified a different person who first mentioned the Romanov, Your Honor.
+
+**[02:23:37.540] Sen. Alan Peter Cayetano**  
+Did you coordinate with the PSG?
+
+**[02:23:39.850] John Mark Sta. Ana Calilung**  
+I have no personal knowledge, your honor.
+
+**[02:23:42.150] Sen. Alan Peter Cayetano**  
+You yourself?
+
+**[02:23:43.410] John Mark Sta. Ana Calilung**  
+Yes, your honor. Maybe our chief, your honor.
+
+**[02:23:44.880] Sen. Alan Peter Cayetano**  
+But you are aware that the primary responsibility of protecting both the president and the vice president is the PSG?
+
+**[02:23:51.570] John Mark Sta. Ana Calilung**  
+Yes, your honor.
+
+**[02:23:52.290] Sen. Alan Peter Cayetano**  
+So isn't it fair to say that any investigation against a threat to the first family, the president or the vice president, you would normally ask the PSG if they received any threat?
+
+**[02:24:06.990] John Mark Sta. Ana Calilung**  
+I have no personal knowledge, Your Honor.
+
+**[02:24:08.850] Sen. Alan Peter Cayetano**  
+I'm asking, hindi ba normal sa investigation kung sino yung primary agency na taga-protekta na lumalaban dun sa threat ay tatanungin natin?
+
+**[02:24:19.700] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:24:21.060] Sen. Alan Peter Cayetano**  
+So bakit hindi tinanong ng NBI ang PSG? Or in your case, why didn't you ask the PSG?
+
+**[02:24:30.020] John Mark Sta. Ana Calilung**  
+Maybe it can be answered by ICHIP, Your Honor.
+
+**[02:24:33.000] Sen. Alan Peter Cayetano**  
+No, I'm not... I will ask your chief also I'm asking you when they said look at this you looked at other videos you tried to get Princess Maui you tried to get the vice president but you didn't contact the PSG for the first lady for the president and for you know for for all you know the PSG will tell you right there and there the threat is real or the PSG will say politika lang yan diba both The Vice President and the President are protected by the PSG. So why wasn't... So nakalimutan lang or wala sa procedure niyo or...
+
+**[02:25:05.450] John Mark Sta. Ana Calilung**  
+Your Honor, there's already a statement from the National Security Council, Your Honor, that it is an active threat, Your Honor. That's why we start investigation.
+
+**[02:25:13.730] Sen. Alan Peter Cayetano**  
+Yes, and the primary group that will know if it's an active threat is the PSG. So if this was the United States, it will be the Secret Service. So, whether the FBI or the CIA, state troopers, the federal marshals, kung sino man mag-iimbestiga, parati nilang tatanungin yung Secret Service. So, I'm just curious why we did not ask the PSG input. Kindly wind up, Sen. Gaetano. Sen. Judge Gaetano. So, my last question is, how did you characterize the threat of the Vice President to the President? Given that ang exact words niya, wag kang mag-alamam sa security ko kasi may kinausap na ang tao, sinabi ko sa kanya, kapag pinatay ako. So, I'll be fair to you and not vague, no? Did that phrase, kapag pinatay ako, have any bearing in your investigation?
+
+**[02:26:16.250] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:26:17.230] Sen. Alan Peter Cayetano**  
+And what was that bearing or thoughts in your mind?
+
+**[02:26:20.350] John Mark Sta. Ana Calilung**  
+First of all po, dun sa statement, may nakausap na po. It already took place before pa yung mangyari yung meeting. Excuse me,
+
+**[02:26:29.820] Sen. Alan Peter Cayetano**  
+I'm not talking about yung may kinausap na para pumatay. Ang sinasabi ko, yung sinabi niya na pag pinatay ako.
+
+**[02:26:36.300] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:26:37.100] Sen. Alan Peter Cayetano**  
+How did that affect your
+
+**[02:26:38.980] Sen. Alan Peter Cayetano**  
+investigation?
+
+**[02:26:39.970] John Mark Sta. Ana Calilung**  
+There is a condition na kapag pinatay siya. But as we can see, it's only applicable if there is only two parties. The statement make a loophole wherein a third party can use that Kapag namatay si BP, ma-execute ngayon yung statement ni BP na may nakausap na siya without the participation of the one mentioned, the President, the First Lady, and the Speaker of the House, Your Honor.
+
+**[02:27:10.710] Sen. Alan Peter Cayetano**  
+That's fair. But what I'm saying is that in your reports, did you characterize it as a conditional threat? Kasi kung hindi naman siya pinatay, The logical implication is that there's no threat against the— So I'm not saying it's not illegal, immoral to contract a killer. I'm just trying to follow the logic na pag— So pag sinabi kong pakukulong kita, Mr. Witness, pag nagsinungaling ka under oath, then it's actually not a threat, it's a legal— I'm just telling you the law, di ba? Pero pag sinabi kong pag hindi ka sumunod sa akin, anuin kita. That's my last question lang. So how did you characterize that? It wasn't a conditional in your mind? Because may kinausap na?
+
+**[02:27:58.140] John Mark Sta. Ana Calilung**  
+Even with or without, sir, it's still considered a threat as long as the person— I
+
+**[02:28:02.740] Sen. Alan Peter Cayetano**  
+have no
+
+**[02:28:03.160] Sen. Alan Peter Cayetano**  
+doubt there. I'm just asking, is it a conditional threat?
+
+**[02:28:11.190] John Mark Sta. Ana Calilung**  
+Based on our affidavit, sir, I believe it's conditional.
+
+**[02:28:16.690] John Mark Sta. Ana Calilung**  
+Based
+
+**[02:28:17.170] Sen. Alan Peter Cayetano**  
+on your affidavit? Affidavit.
+
+**[02:28:18.510] John Mark Sta. Ana Calilung**  
+But your
+
+**[02:28:18.950] Sen. Alan Peter Cayetano**  
+initial assessment, personal mo as an investigator, this is an investigation of the whole NBI, but yung personal mo?
+
+**[02:28:25.220] John Mark Sta. Ana Calilung**  
+The threat is absolute, sir.
+
+**[02:28:27.040] Sen. Alan Peter Cayetano**  
+Okay. Thank you, Mr. President. Thank you.
+
+**[02:28:29.270] Sen. Francis “Chiz” Escudero**  
+Thank you, Senator Judge Cayetano. We now proceed. Senator Judge Padilla is recognized.
+
+**[02:28:37.000] Sen. Robinhood “Robin” Padilla**  
+Maraming salamat po. Thereafter,
+
+**[02:28:38.680] Sen. Francis “Chiz” Escudero**  
+Senator Judge Zubiri.
+
+**[02:28:41.280] Sen. Robinhood “Robin” Padilla**  
+Maraming
+
+**[02:28:41.840] Sen. Francis “Chiz” Escudero**  
+salamat po.
+
+**[02:28:42.020] Sen. Robinhood “Robin” Padilla**  
+Senator Judge
+
+**[02:28:42.400] Sen. Francis “Chiz” Escudero**  
+Padilla, you have two minutes.
+
+**[02:28:44.000] Sen. Robinhood “Robin” Padilla**  
+Opo. Nais ko lamang pong magtanong sa ating saksi.
+
+**[02:28:50.900] Sen. Robinhood “Robin” Padilla**  
+Ginuong saksi, kanina po kasi habang nagkakaroon ng... Pagdinig. Ako po'y laging iistorbo dahil tuwing maitatanong, mag-uobject, mag-uobject, medyo magulo po eh. Pwede po bang sagutin po ninyo ako dahil noong pong February 5, ang sabi po dito ay insufficient po yung na
+
+**[02:29:22.360] Sen. Robinhood “Robin” Padilla**  
+hindi dapat makarating na sa preliminary investigation. Tama po ba? February 5 po yun? May certification, sir. Yes, sir. Tapos nung February 14, naging sufficient na for conduct of preliminary investigation. Nasagot po ba yung pito na sinabi dito na para ang sinasabi po kasi dito nung February 5, merong pito na kulang?
+
+**[02:29:53.120] John Mark Sta. Ana Calilung**  
+I believe so, sir. That's why we have received a certification, sir.
+
+**[02:29:57.520] Sen. Robinhood “Robin” Padilla**  
+Ayun. Kasi po... Parang narinig ko kanina, hindi po na ibigay yung original copy nung sinagawang interview kay Vice President Sara Duterte. Yung original po na kopya kung sino po yung nag-record. Wala po kayong affidavit? Meron po ba kayong affidavit na nakuha nyo?
+
+**[02:30:20.460] John Mark Sta. Ana Calilung**  
+Yes, sir. Ang nire-request po ng DOJ dyan is affidavit po nung nag-screen record, which is my affidavit, Your Honor.
+
+**[02:30:28.350] Sen. Robinhood “Robin” Padilla**  
+Meron po siyang affidavit?
+
+**[02:30:29.810] John Mark Sta. Ana Calilung**  
+Ako, sir. Ako po yung nag-execute, sir.
+
+**[02:30:32.650] Sen. Robinhood “Robin” Padilla**  
+Ah, hindi
+
+**[02:30:33.450] John Mark Sta. Ana Calilung**  
+po
+
+**[02:30:33.470] Sen. Robinhood “Robin” Padilla**  
+yung mismong tao?
+
+**[02:30:34.530] John Mark Sta. Ana Calilung**  
+Yes, po. Ang hinihingi po kasi ni DOJ is kung sino yung nag-screen record through OBS, sir.
+
+**[02:30:39.130] Sen. Robinhood “Robin” Padilla**  
+Hmm, hindi po yung mismong tao? Yes, Your Honor. Kayo lang po yung nag-Afidavit?
+
+**[02:30:44.430] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:30:45.230] Sen. Robinhood “Robin” Padilla**  
+Pero meron po kayo ng pagkakataon ba na nakausap niyo yung tao at nagbigay siya ng Afidavit?
+
+**[02:30:51.690] John Mark Sta. Ana Calilung**  
+May I clarify, Your Honor, if sinong tao yung tinutukoy?
+
+**[02:30:54.710] Sen. Robinhood “Robin” Padilla**  
+Yung nag-record po.
+
+**[02:30:55.800] John Mark Sta. Ana Calilung**  
+Ako po yung nag
+
+**[02:30:57.080] Sen. Robinhood “Robin” Padilla**  
+-record through OBS, sir? Hindi po. Yung mismong nag-record po kay Inday sa vice president,
+
+**[02:31:04.690] Sen. Robinhood “Robin” Padilla**  
+nakausap niyo po ba?
+
+**[02:31:08.470] Sen. Robinhood “Robin” Padilla**  
+Yung raw file po. Kasi napakahalaga po nun. Kasi doon po natin malalaman kung original ba o hindi.
+
+**[02:31:16.150] John Mark Sta. Ana Calilung**  
+The video itself, sir, is publicly available. That's why I performed the recording, sir.
+
+**[02:31:21.590] Sen. Robinhood “Robin” Padilla**  
+Opo. Pakisagot na lang po, mahal na saksi, kung nakuha niyo po ba yung original. Yung original, hindi po yung galing sa internet.
+
+**[02:31:31.260] Sen. Robinhood “Robin” Padilla**  
+The original?
+
+**[02:31:32.530] John Mark Sta. Ana Calilung**  
+No, Sir.
+
+**[02:31:33.400] Sen. Robinhood “Robin” Padilla**  
+Maraming salamat po.
+
+**[02:31:36.650] Sen. Francis “Chiz” Escudero**  
+Thank you, Senator Judge Padilla. Senator Judge Zubiri, you are recognized, sir. You have two minutes.
+
+**[02:31:43.210] Sen. Juan Miguel “Migz” Zubiri**  
+Maraming salamat to our presiding officer. Magandang hapon po, Sir Witness. Good afternoon, Your Honor. Gusto ko lang magtanong, clarificatory questions lang po ito. Dito ba sa ating bansa, dahil tinatanong ko po sa inyo dahil kayo po investigating body, sa ating bansa, meron bang specific law? Pagdating sa mga banta sa pangulo, pangalawang pangulo, at kanyang mga successors, or yan ba'y pasok lang sa grave threats, which is applied sa lahat, applicable sa lahat ng tao?
+
+**[02:32:14.600] John Mark Sta. Ana Calilung**  
+Based on my personal knowledge, sir, it's only on the grave threat, Your Honor.
+
+**[02:32:18.620] Sen. Juan Miguel “Migz” Zubiri**  
+Which is applied to everyone, if I'm not mistaken, no? Kasi sa batas sa Amerika, sa Estados Unidos, meron pong tinatawag na No. 18 under the United States Code Section 871, there is a specific law na pinagbabawal po itong mga threats to the Vice President and its successors. May jail time po ito at may fine na malaki. As a matter of fact, dito sa panahon ni Pangulong Trump, marami na po silang kinasuhan at hinabla
+
+**[02:33:13.440] John Mark Sta. Ana Calilung**  
+[unclear] under our law, after the new NBI law, included po investigation into threats to the life of the President, the Vice President, the Speaker, the Senate President, and the Supreme Court, sir.
+
+**[02:33:29.100] Sen. Juan Miguel “Migz” Zubiri**  
+So, ah, klaro na kayo, nasa kapangyarihan ninyo. Kasi hindi pwede sa Presidential Security Group. Hindi ka tulad sa Estados Unidos, yung Secret Service ang talagang nanguhuli at nag-investiga. Sa atin dito sa Pilipinas, ang NBI po ang nangunguna sa investigasyon. Tama pong gawin yan o mali? It is within our law,
+
+**[02:33:53.010] John Mark Sta. Ana Calilung**  
+sir.
+
+**[02:33:53.230] Sen. Juan Miguel “Migz” Zubiri**  
+Okay. And this is just food for thought because not only are we senator-judges, we're also legislators. It may be time that we also craft a law that will be specific on threats made to the President, Vice President, and its successors, meaning the Senate President, the Speaker of the House, and the Supreme Court Chief Justice. Sa Amerika kasi sa batas po nila, and I'll just wrap up, the defendant... To secure conviction, the defendant communicated a threat. The defendant understood and intended the statement as a true threat. Hindi po niya sinabi, joke only in the end. And pangatlo, the defendant knowingly and willfully makes the threat. So, just food for thought as legislators as well. So, maraming salamat po. Thank
+
+**[02:34:39.840] Sen. Francis “Chiz” Escudero**  
+you, Senator Judge Zubiri. We now proceed to where we left off. I believe that was the redirect of the council for the prosecutor.
+
+**[02:34:52.400] Sen. Francis “Chiz” Escudero**  
+Just out of curiosity, without any pressure, because I promised I would declare a break somewhere in between. Depending on how long your redirect and recross would be, I can call the break after. The recross and the statement of the counsel for respondent. So we break on a good point before we call on the last witness for today. Yes,
+
+**[02:35:13.920] Atty. Amando Virgil D. Ligutan**  
+counsel for the prosecutors. As to the question if the prosecution will do the direct examination. The
+
+**[02:35:20.060] Sen. Francis “Chiz” Escudero**  
+redirect. Sorry,
+
+**[02:35:21.360] Atty. Amando Virgil D. Ligutan**  
+the redirect examination after the cross-examination of the defense. The prosecution decides not to conduct a redirect, Your Honor, please.
+
+**[02:35:30.260] Sen. Francis “Chiz” Escudero**  
+Thank you. Council for the Prosecutor. Council for the Respondent, do you want to begin to utilize your time now?
+
+**[02:35:39.250] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, I will turn over the mic to my co-counsel. He will also be the cross-examiner for the next witness. But to your order, please. Sorry.
+
+**[02:35:50.710] Atty. Amando Virgil D. Ligutan**  
+May I make a manifestation, Your Honor, please, before we proceed, Your Honor, please.
+
+**[02:35:57.240] Atty. Amando Virgil D. Ligutan**  
+In connection with
+
+**[02:35:58.980] Sen. Francis “Chiz” Escudero**  
+what counsel for the prosecutors?
+
+**[02:36:00.360] Atty. Amando Virgil D. Ligutan**  
+As to the manifestation earlier that all the documents that were confronted, that were presented to the witness, I believe that the defense said that all those exhibits were pre-marked. But based on our records, Your Honor, please, and then I hope the defense will clarify this for the record, we perused the documents and we don't see that the articles of
+
+**[02:36:46.970] Sen. Francis “Chiz” Escudero**  
+Thank you so much.
+
+**[02:36:55.110] Atty. Mark C. Vinluan**  
+Good afternoon, your honors. I am Mark Vinluan for the Vice President.
+
+**[02:37:00.310] Sen. Francis “Chiz” Escudero**  
+Sir, you're aware of the situation. Time was given to the counsel for the prosecutors to make a discussion about whether or not Article 4, the acts alleged in Article 4 constitute an impeachable offense. You have the same time of 4 minutes and 26 minutes. Before I allow you to continue, kawapan naman si Mr. Calilung. Mr. Witness, Mr. Calilung, Senator Judge Lacson, before we excuse, Senator
+
+**[02:37:45.430] Sen. Francis “Chiz” Escudero**  
+Judge Soto is recognized. Sir, what is your pleasure, sir?
+
+**[02:37:51.220] Sen. Vicente C. Sotto III**  
+Mr. President, Mr. Siding Officer, are we going to dispense with the witness already?
+
+**[02:37:57.470] Sen. Francis “Chiz” Escudero**  
+Unless you have questions, I believe Senator Lacson has questions to the witness, so not yet.
+
+**[02:38:02.550] Sen. Vicente C. Sotto III**  
+Well, it's a simple question. Thank you very much. You're familiar with the internet, of course.
+
+**[02:38:12.990] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:38:13.910] Sen. Vicente C. Sotto III**  
+Have you noticed that lately all the AI-generated videos have a caption saying AI-generated?
+
+**[02:38:24.270] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:38:25.710] Sen. Vicente C. Sotto III**  
+Kaya pag walang nakalagay na AI-generated, siguradong hindi AI-generated?
+
+**[02:38:32.690] Sen. Vicente C. Sotto III**  
+Yes, Your Honor.
+
+**[02:38:34.010] John Mark Sta. Ana Calilung**  
+Today, Your Honor.
+
+**[02:38:35.470] Sen. Vicente C. Sotto III**  
+Yes, lately. Lately,
+
+**[02:38:37.490] John Mark Sta. Ana Calilung**  
+Your Honor.
+
+**[02:38:37.910] Sen. Vicente C. Sotto III**  
+Lahat nakalagay. Pag AI-generated, nakalagay AI-generated and meta does not allow it. Right? They allowed
+
+**[02:38:44.870] John Mark Sta. Ana Calilung**  
+it but there is AI info. Correct. There
+
+**[02:38:50.330] Sen. Vicente C. Sotto III**  
+is a manifestation. Yes, Your Honor. It is explicitly
+
+**[02:38:54.790] John Mark Sta. Ana Calilung**  
+mentioned that AI.
+
+**[02:38:56.230] Sen. Vicente C. Sotto III**  
+So you're aware of that?
+
+**[02:38:57.630] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:38:58.210] Sen. Vicente C. Sotto III**  
+Thank you. That's it.
+
+**[02:39:00.130] Sen. Francis “Chiz” Escudero**  
+Senator Judge Lacson, you have, you likewise have two minutes, sir. You may proceed.
+
+**[02:39:05.860] Sen. Panfilo M. Lacson**  
+Thank you, Mr. President of Serbs, Mr. Senate President. I have questions para sa ating testigo. Since you are presented here as an expert witness, alam niyo nag-consult din ako sa digital forensics expert para lang makonvince sa sarili ko. My first question is, In this day and age of artificial intelligence, will you agree with me that it is almost impossible to distinguish an AI-generated video from the original?
+
+**[02:39:37.280] Sen. Panfilo M. Lacson**  
+Almost impossible.
+
+**[02:39:38.720] John Mark Sta. Ana Calilung**  
+Yes, Your Honor. It is hard, Your Honor.
+
+**[02:39:40.340] Sen. Panfilo M. Lacson**  
+Yeah, very hard. Very difficult. Kasi ito impeachment trial. Kasi sa court, ginagamit talaga yung expert testimony. Digital or computer forensics expert. Now, you may or may not answer this question kung classified. Gusto ko lang malaman, ano ba yung digital forensic tools na ginagamit din siyo sa NBI?
+
+**[02:40:08.500] John Mark Sta. Ana Calilung**  
+Currently, I am not familiar but during the time na nandun po ko sa Digital Forensic Laboratory Division, meron kaming NCASE Forensic.
+
+**[02:40:19.910] John Mark Sta. Ana Calilung**  
+Celebrite and Amped Authenticator.
+
+**[02:40:22.730] Sen. Panfilo M. Lacson**  
+Ang balita ko yung Amped 5 or Amped Authenticator. Ito yung ginagamit ninyo. Ito, capable ito na magsagawa ng reverse image, photo or video, di ba?
+
+**[02:40:40.430] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:40:41.400] Sen. Panfilo M. Lacson**  
+Okay. Ito ba yung ginamit mo?
+
+**[02:40:44.210] John Mark Sta. Ana Calilung**  
+For this part, Your Honor, the OBS only, Your Honor.
+
+**[02:40:47.530] Sen. Panfilo M. Lacson**  
+Ba'tin ninyong ginamit ito?
+
+**[02:40:49.650] John Mark Sta. Ana Calilung**  
+The duration is two large, Your Honor, the two hours. And the amphet authenticate can only detect if there is a inconsistent FPS, Your Honor.
+
+**[02:41:04.660] Sen. Panfilo M. Lacson**  
+Kaya ako tinanong yun dahil una-una maraming ano eh para mag-adhere na magamit sa korte, likewise sa impeachment court.
+
+**[02:41:16.460] Sen. Panfilo M. Lacson**  
+May mga requirements, di ba? Sinabi mo kasi meron kayong open source, di ba? Pero ang pinaka-importante ay yung chain of custody. Of course, yung provenance.
+
+**[02:41:27.260] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:41:28.120] Sen. Panfilo M. Lacson**  
+Yung original na pinanggalingan.
+
+**[02:41:30.120] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:41:30.880] Sen. Panfilo M. Lacson**  
+Ang sabi mo, pinanggalingan lang Facebook.
+
+**[02:41:34.460] John Mark Sta. Ana Calilung**  
+The Facebook was
+
+**[02:41:35.920] John Mark Sta. Ana Calilung**  
+captured, Your Honor.
+
+**[02:41:36.820] Sen. Panfilo M. Lacson**  
+So, hindi yun ang original, di ba?
+
+**[02:41:40.040] John Mark Sta. Ana Calilung**  
+The screen recording is the original itself as to my authentication, Sir.
+
+**[02:41:44.760] Sen. Panfilo M. Lacson**  
+Yeah, and you can attest. Sa authenticity ng video. Yes,
+
+**[02:41:50.480] John Mark Sta. Ana Calilung**  
+Your Honor.
+
+**[02:41:50.900] Sen. Panfilo M. Lacson**  
+In spite of not being or not having originated from the original.
+
+**[02:41:56.680] John Mark Sta. Ana Calilung**  
+Yes, Your Honor. I compared the recorded with the original and ensured that the contents are identical, Your Honor.
+
+**[02:42:03.420] Sen. Panfilo M. Lacson**  
+Kasi nabanggit mo rin, ginamit mo yung manual comparison simultaneously ng dalawang videos. Yes,
+
+**[02:42:11.040] John Mark Sta. Ana Calilung**  
+Your Honor.
+
+**[02:42:11.480] Sen. Panfilo M. Lacson**  
+Pero again, I will insist na talagang Hindi reliable yung manual. Ito yung sinabi sa akin nung digital forensics expert na nakausap ko. Ang pinaka mas importante makuha mo yung original copy, yun nga yung provenance, diba? Para talagang tapos masundan mo yung sa analysis, gagamitan mo ng tools para malaman mo na talagang authentic yung video. Of course, I'm not here to question the authenticity. I just want to be assured. Dahil sabi ko nga kanina, pagka sa artificial intelligence, napakahirap talaga. Almost impossible to distinguish it from the original video or yung source.
+
+**[02:43:00.100] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:43:01.530] Sen. Panfilo M. Lacson**  
+And you are competent enough. Ginagamit yung forensic tools or forensics tools. At yung competence mo through your training.
+
+**[02:43:13.200] John Mark Sta. Ana Calilung**  
+An experience, Your Honor.
+
+**[02:43:14.870] Sen. Panfilo M. Lacson**  
+An experience. Kasi sabi mo nga, you've been with the NBI since 2021, di ba?
+
+**[02:43:20.250] John Mark Sta. Ana Calilung**  
+Yes,
+
+**[02:43:20.630] John Mark Sta. Ana Calilung**  
+Your Honor.
+
+**[02:43:21.010] Sen. Panfilo M. Lacson**  
+And since then, you have appeared in some 20?
+
+**[02:43:24.550] John Mark Sta. Ana Calilung**  
+At least 30, Your Honor.
+
+**[02:43:26.250] Sen. Panfilo M. Lacson**  
+30?
+
+**[02:43:27.100] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:43:28.090] Sen. Panfilo M. Lacson**  
+30 court hearings?
+
+**[02:43:29.150] John Mark Sta. Ana Calilung**  
+Yes, Your Honor.
+
+**[02:43:30.100] Sen. Panfilo M. Lacson**  
+So, thank you, Your Honor. Thank you, Mr. President.
+
+**[02:43:33.750] John Mark Sta. Ana Calilung**  
+Thank you, Your Honor.
+
+**[02:43:36.140] Sen. Francis “Chiz” Escudero**  
+Thank you, Senator Judge Lacson. Senator Judge Cayetano, what is your pleasure?
+
+**[02:43:41.380] Sen. Alan Peter Cayetano**  
+Just a clarification addressed to the presiding officer. You
+
+**[02:43:44.340] Sen. Francis “Chiz” Escudero**  
+may proceed, sir.
+
+**[02:43:45.760] Sen. Alan Peter Cayetano**  
+Apologies, I don't remember if it was one of the counsels of one of the senator judges who asked the witness a while ago whether he was an expert witness and he said he was a competent witness. That is correct. And there's a difference between an expert witness. So he's not an expert witness. He's an competent witness. That
+
+**[02:44:03.660] Sen. Francis “Chiz” Escudero**  
+is correct. So
+
+**[02:44:04.640] Sen. Alan Peter Cayetano**  
+that will have bearing because whether or not an AI video can be produced without an AI has to be testified by an expert witness. If I may.
+
+**[02:44:15.920] Sen. Alan Peter Cayetano**  
+Go ahead. That doesn't mean—I don't think you'll disagree with my second statement—that this witness is not competent to testify on that. Second point, I'd just like to clarify for the record—
+
+**[02:44:50.540] Sen. Alan Peter Cayetano**  
+Gerville I was informed, StreamYard. But just for the record so that later on when we review everything, someone testified to it. Thank you.
+
+**[02:45:02.410] Sen. Francis “Chiz” Escudero**  
+Atty. Vinluan, you have your 4 minutes and 26 seconds. But we cannot use the seconds in our timer so just look at the clock, sir.
+
+**[02:45:14.790] Sen. Francis “Chiz” Escudero**  
+Your Honor, please. Before we... Ah, yes. Mr. Calilung, you are excused, sir.
+
+**[02:45:22.410] John Mark Sta. Ana Calilung**  
+Thank you,
+
+**[02:45:22.990] John Mark Sta. Ana Calilung**  
+Your Honor.
+
+**[02:45:23.230] Sen. Francis “Chiz” Escudero**  
+And thank you for your time and cooperation with this Impeachment Court. Thank
+
+**[02:45:26.450] Atty. Amando Virgil D. Ligutan**  
+you so much, NBI Senior Agent John Mark Calilung. Thank you so much.
+
+**[02:45:32.770] Sen. Francis “Chiz” Escudero**  
+Hold on, Mr. Calilung. Yes, Senator Judge Padilla, what is your pleasure, sir?
+
+**[02:45:51.480] Sen. Robinhood “Robin” Padilla**  
+Kung paano po lahat ang kanyang certification, lahat, upang mapatunayan po natin lahat. It's ready. It's ready.
+
+**[02:46:01.760] Sen. Francis “Chiz” Escudero**  
+But kindly respond to the question of Senator Judge Padilla. Mr. Witness.
+
+**[02:46:06.640] John Mark Sta. Ana Calilung**  
+I have here, sir, my certifications during the time of my investigation, Your Honor.
+
+**[02:46:11.300] Sen. Francis “Chiz” Escudero**  
+Can you... Mahaba ba?
+
+**[02:46:14.260] John Mark Sta. Ana Calilung**  
+I can read, Your Honor.
+
+**[02:46:17.050] Sen. Francis “Chiz” Escudero**  
+Mahaba ba? Hindi.
+
+**[02:46:18.810] Sen. Robinhood “Robin” Padilla**  
+Ibigay na lang po siguro sa ating...
+
+**[02:46:20.870] Sen. Francis “Chiz” Escudero**  
+Kindly just submit it to us. Yes, please. Opo, submit na lang
+
+**[02:46:23.310] Sen. Robinhood “Robin” Padilla**  
+po.
+
+**[02:46:23.810] Sen. Francis “Chiz” Escudero**  
+Thank you, your honor. If that is okay with Senator Judge Padilla. Thank you, sir. Mr. Calilung, you are excused, sir, and thank you for your time and cooperation with the impeachment court. Thank you, your honor.
+
+**[02:46:38.390] Sen. Francis “Chiz” Escudero**  
+The presiding officer will just wait for the witness to leave the premises before recognizing Atty. Vinluan. Okay, Atty. Vinluan, you have 4 minutes and 26 seconds. You may proceed, sir. Thereafter, we will call for a 15-minute break.
+
+**[02:46:59.460] Atty. Mark C. Vinluan**  
+In the discourse yesterday, talking about VP Sara's statements during the November 23, 2024 presscon, Senator Judge Risa Hontiveros stated, and I quote, None of these statements are proof that the Vice President actually contracted an assassin or hired one. She is absolutely right. She then asked the question, Why are these acts impeachable? To this question, The prosecution responded, We understand that these statements may not actually 100% prove that she in fact contracted an assassin. Hence,
+
+**[02:47:41.840] Atty. Mark C. Vinluan**  
+the prosecution admitted that the video does not prove any fact other than its existence. In simple words, there is no proof of any contracting of an assassin. The prosecution's admission before this honorable court made the respondent's position clear. The prosecution has no other competent evidence to prove that VP Sara contracted an assassin. Ang testimonya ni Calilung, gaya ng iba pang ebedensya ko noon ng prosekyusyon, ay hindi sapat para patunayan ang paratang na ito. Trying to prove this stretch narrative using a hodgepodge of materials is a waste of this honorable court's time and the Filipino people's money. Si VP Sara na mismo ang nagsabi na hindi asasin ang kinausap niya. This term only came from people who took her statements out of their proper context and tried to exaggerate them for what they really meant. The truth of the matter is this. She and her family were threatened. And while her response was unconventional, it was justified. What triggered her response was a question about Operation Romanov, which is the plot to eliminate VP Sara and her entire family. The NBI's own records prove this. In the minutes of the meeting of Dempsey Reyes' interview, he said, and I quote, May press conference kasi earlier than that, sabi niya, parang hindi lang niya gusto daw, sabi lang niya gusto daw siyang patayin daw, according to her and his speaker. That was during a press conference the day before November 2022.
+
+**[02:49:27.170] Atty. Mark C. Vinluan**  
+During the virtual presscon, Princess Maui mentioned Operation Romanov again and even warned her about her safety. Reyes talked about it, Princess Maui reiterated it, but the NBI gaslighted it. When VP Sara uttered those words, she was not responding as Sara Duterte, the Vice President, but Sara Duterte, the wife, mother, daughter, and sister. who only sought to protect her own and her family members' lives. Operation Romanov is in place and the threat against their lives is real. VP Sara became the target of unauthorized intelligence and surveillance operations by government operatives that exposed her family to high-level risks and security threats, thereby causing intense trauma and uncontrollable fear. Her homes in Davao and Manila were profiled and this is proven by classified gazing reports. Her trusted security personnel were removed. Her schedule of official functions like the one in Naga was leaked by intelligence agents and her security was heavily compromised. In sum, the prosecution was right in using the term culmination. But the prosecution's interpretation is wrong. Rather, When VP Sara left the administration, she suffered various forms of threats and harassment for many months from the powers that be and the culmination was her statement on that fateful early morning in November 2024.
+
+**[02:51:08.500] Atty. Mark C. Vinluan**  
+She didn't commit an impeachable offense. She drew the line in the sand and said, enough is enough. That is the meaning and that is the context. Finally, as to the alleged grave threats and inciting to sedition, these are defined by their Vice Penal Code and are punishable by Crision Correctional. Thus, these fall under the jurisdiction of the MTC or First Level Courts. These charges are not other high crimes as contemplated by the Constitution as grounds for impeachment, and are therefore not impeachable. After all, VP Sar was fighting two important battles that day. One against the threat to her family's life, and another against the life of the ordinary Filipino constantly suffocated by the immense weight of corruption which she talked about during the presscon. She never incited sedition. She merely echoed the voice of ordinary Filipinos. Her message that day only reflected what was already in their hearts and minds. There was no betrayal of public trust. She actually upheld the people's trust as she spoke for and behalf of the people. Thank you, Your Honor.
+
+**[02:52:20.280] Sen. Francis “Chiz” Escudero**  
+Thank you, Atty. Vinluan. Chair declares the 50th. Sen. Judge Balmaquino, before we declare a recess.
+
+**[02:52:26.300] Sen. Paolo Benigno “Bam” Aquino**  
+Yes, just a quick manifestation, Mr. President. You may proceed,
+
+**[02:52:29.740] Sen. Francis “Chiz” Escudero**  
+sir.
+
+**[02:52:31.500] Sen. Paolo Benigno “Bam” Aquino**  
+Tapos na po tayo sa unang witness. It's taken us maybe a total of nine hours for the first witness. Ito ho, isang pakiusap sa parehong grupo. Alam ko po may kanya-kanya tayong estilo, may kanya-kanya tayong strategy. But if possible, can we allow the testimonies to be heard? Can we have proceedings that will go straight to the point? Kasi po nanonood ang taong bayan, pati po kaming mga senator-judge. Gusto rin ho namin makita itong mga proceedings, yung mga ebidensya na mas madali ring maintindihan. So ito naman po, di ho namin pwede itong idikta sa inyo. But if possible... The succeeding witnesses and we have a long list. This goes for both parties by the way. Let's have proceedings where we can go straight to the point. Malaman natin yung puntos ng bawat grupo para makapag-desisyon rin po tayo ng maayos. Ito po isang, this is a plea. This is not an order to both parties. But if we can, this is the people's tribunal. We're watching. Everybody's watching. Sana po payagan natin na lumabas yung mga Katotohanan, lumabas yung mga ebedensya upang maging mas madali at mas kaaya-aya po yung ating proceedings. Yun lang po, Mr. President.
+
+**[02:54:03.580] Sen. Francis “Chiz” Escudero**  
+Nagkakasanayan, nagkakaestimahan, pero bibilis at bibilis ito sa pagdalay din ng ilang araw lang ng trial natin. And you will be able to see that the next couple of days. Chair declares a 15-minute recess. We will come back. Yes, counsel for the
+
+**[02:54:15.920] Atty. Amando Virgil D. Ligutan**  
+prosecutor. Before the declaration of recess, I suppose that the reason is for the presentation of the next witness. For the prosecution. We manifest, Your Honor, that John Mark Calilung will be our witness for this afternoon. We'll be presenting the next witness during the next hearing on Monday, Your Honor, please.
+
+**[02:54:32.300] Sen. Francis “Chiz” Escudero**  
+Ah, you won't present Atty. Lotoc
+
+**[02:54:35.540] Sen. Francis “Chiz” Escudero**  
+anymore?
+
+**[02:54:35.880] Atty. Amando Virgil D. Ligutan**  
+Yes,
+
+**[02:54:36.240] Atty. Amando Virgil D. Ligutan**  
+Your Honor, on Monday, Your Honor, please. We will utilize the 11 days allotted to Article 4 for the prosecution, Your Honor, please.
+
+**[02:54:46.080] Sen. Francis “Chiz” Escudero**  
+So, no attorney will talk today?
+
+**[02:54:48.200] Atty. Amando Virgil D. Ligutan**  
+Today. We'll do that on Monday, Your Honor, please.
+
+**[02:54:50.360] Sen. Francis “Chiz” Escudero**  
+So, Chair would like to...
+
+**[02:54:56.520] Sen. Francis “Chiz” Escudero**  
+I guess there's no need to declare a recess. Senator Judge Lacson, thank you for that manifestation.
+
+**[02:55:02.260] Sen. Francis “Chiz” Escudero**  
+Yes, counsel for the respondent.
+
+**[02:55:04.300] Sen. Francis “Chiz” Escudero**  
+What do you want to say?
+
+**[02:55:04.560] Atty. Mark C. Vinluan**  
+Your Honor, may be just clarified if Atty. Lotoc is the witness on Monday because they had already disclosed the witness.
+
+**[02:55:10.840] Sen. Francis “Chiz” Escudero**  
+I was about to ask that question.
+
+**[02:55:12.440] Atty. Amando Virgil D. Ligutan**  
+Yes, Your Honor. Atty. Jeremy Lotoc will be presented by the prosecution on Monday, Your Honor, please.
+
+**[02:55:18.530] Sen. Francis “Chiz” Escudero**  
+Likewise, can you name us? You manifested that you will also be presenting next week or requesting a subpoena to
+
+**[02:55:27.710] Atty. Amando Virgil D. Ligutan**  
+Yes,
+
+**[02:55:31.360] Sen. Francis “Chiz” Escudero**  
+to Atty. Lopez and Atty. Director Matibag.
+
+**[02:55:35.760] Atty. Amando Virgil D. Ligutan**  
+That would be Captain Belinda Bello, Your Honor, please, and NBI Director Matibag. And then...
+
+**[02:55:44.910] Atty. Amando Virgil D. Ligutan**  
+Lotoc first.
+
+**[02:55:54.590] Atty. Amando Virgil D. Ligutan**  
+Matibag Matibag Matibag Matibag
+
+**[02:56:13.380] Sen. Francis “Chiz” Escudero**  
+Given the manifestation of the council for the prosecutor, chair hereby orders the issuance of Sabina once again to Atty. Lotoc for the trial dates on July 13, 14, and 15 as well as for Atty. Melvin Matibag. No need for Sabina for Ms. Bella?
+
+**[02:56:38.800] Atty. Amando Virgil D. Ligutan**  
+Your Honor.
+
+**[02:56:41.070] Sen. Francis “Chiz” Escudero**  
+Before I recognize council's correspondent. No need for a subpoena?
+
+**[02:56:47.760] Atty. Amando Virgil D. Ligutan**  
+There's no need for subpoena, Your Honor. You
+
+**[02:56:49.420] Sen. Francis “Chiz” Escudero**  
+did not request for a subpoena, counsel. Yes, Your Honor. So, no need. No
+
+**[02:56:53.160] Atty. Amando Virgil D. Ligutan**  
+need, Your Honor.
+
+**[02:56:53.760] Sen. Francis “Chiz” Escudero**  
+You will produce... Can you state the name again for the record, counsel? Can you state the name of the witness again for the record?
+
+**[02:57:02.100] Atty. Amando Virgil D. Ligutan**  
+Your Honor, the first witness will be Captain Belinda Bellow—sorry, that would be Atty. Jeremy C. Lotoc. Number two is Captain Belinda Bellow, and number three, NBI Director Matibag. Number four, [unclear]. Those are the witnesses, Your Honor, please.
+
+**[02:57:34.150] Atty. Amando Virgil D. Ligutan**  
+Matibag, Atty.
+
+**[02:57:40.810] Sen. Francis “Chiz” Escudero**  
+Matibag, To reiterate, Your Honor,
+
+**[02:57:45.020] Lorenz R. Defensor**  
+may I be recognized? I
+
+**[02:57:46.240] Sen. Francis “Chiz” Escudero**  
+apologize. Yes, the member of the panel of prosecutors, Representative Defensor, what is your pleasure, sir?
+
+**[02:57:52.560] Lorenz R. Defensor**  
+Your Honor, may I just correct, since the private counsel is under the direct supervision and control of the counsel of prosecutors. For Monday, Your Honors, we will be presenting Atty. Jeremy Lotoc. For Wednesday, we will be presenting Atty. or Tuesday, we will be presenting Atty. Zuleika Lopez. And for Wednesday, our third witness, we will be presenting Captain Belinda Belliong.
+
+**[02:58:18.340] Sen. Francis “Chiz” Escudero**  
+So, Director Matibag is not yet going to be presented next week?
+
+**[02:58:22.680] Lorenz R. Defensor**  
+Not yet, Your Honor. We will manifest on Monday if we can consider him for the Wednesday's session depending on how the trial goes or how long the testimonies will take for both parties.
+
+**[02:58:35.540] Sen. Francis “Chiz” Escudero**  
+Noted. What is the pleasure of counsel?
+
+**[02:58:40.180] Sen. Francis “Chiz” Escudero**  
+Chair would like now to discuss and dispense with some administrative matters. The BAR box, which the Chair ordered to be returned on July 6, has actually been returned to the BAR, sealed, untouched, and duly received accordingly. And the Council for the Prosecutors have filed a motion for the issuance of subpoena, dosis tecum, ati stificandum to the BAR. Concerning this box, has a copy been furnished to the Council for the Respondents?
+
+**[02:59:12.420] Atty. Mark C. Vinluan**  
+None yet, Your Honor.
+
+**[02:59:13.820] Sen. Francis “Chiz” Escudero**  
+None yet? I thought, um, yes, um...
+
+**[02:59:17.380] Lorenz R. Defensor**  
+Your Honor, we confirmed that we emailed a copy to the Respondents. Last Monday, Your Honor. So
+
+**[02:59:24.720] Sen. Francis “Chiz” Escudero**  
+we can dispense with the need of reading the subpoena. Having said that, given that this has been put in issue in the pre-trial brief of both parties—or rather the counsel for respondent—we will accord the same treatment to this with respect to the subpoena request for the bank accounts of the spouses, Vice President Sara Duterte and Atty. Manases Carpio. Therefore, the Presiding Officer orders both parties to submit memoranda on the subject matter. We will also schedule the oral arguments for deciding on this issue together with the bank records on Wednesday. Each party will be given 10 minutes, without prejudice to rebuttal and also rebuttal by the other side for another three minutes, before the Court shall decide.
+
+**[03:00:20.060] Lorenz R. Defensor**  
+We will comply, Your Honor.
+
+**[03:00:21.430] Atty. Mark C. Vinluan**  
+We will comply, Your Honor.
+
+**[03:00:22.740] Sen. Francis “Chiz” Escudero**  
+Thank you. So ordered. In regard to the request for the issuance of a motion for subpoena.
+
+**[03:00:37.320] Sen. Francis “Chiz” Escudero**  
+May I ask if counsel for the respondents were likewise furnished with a copy of the request for subpoena, although this is ex-parte because this is only with respect to witnesses. So there is no need to issue a subpoena to Atty. Melvin Matibag for next week. Honorable defense, sir? No
+
+**[03:00:55.100] Lorenz R. Defensor**  
+need? No need, Your Honor.
+
+**[03:00:56.980] Sen. Francis “Chiz” Escudero**  
+So just Atty. Zuleika Lopez?
+
+**[03:00:59.360] Lorenz R. Defensor**  
+Yes, Your Honor.
+
+**[03:01:00.260] Sen. Francis “Chiz” Escudero**  
+Chair orders that subpoena be issued to Atty. Zuleika Lopez to appear on July
+
+**[03:01:09.250] Sen. Francis “Chiz” Escudero**  
+As indicated by the Council for the Prosecutors, given that on the 15th, we might be arguing on the bank deposits and the BIR documents. We submit your order. It's ordered.
+
+**[03:01:32.870] Sen. Francis “Chiz” Escudero**  
+There be no other matters for consideration by the Court, and given that the Council for the Prosecutors have manifested that they will no longer present Attorney Latok today, but rather on Monday.
+
+**[03:01:54.280] Sen. Francis “Chiz” Escudero**  
+The trial is hereby adjourned until 2 p.m. Monday, July 13, 2026.

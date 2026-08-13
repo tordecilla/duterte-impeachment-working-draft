@@ -1,0 +1,2037 @@
+{
+  "schema_version": 1,
+  "source": {
+    "title": "Impeachment Trial of Vice President Sara Duterte",
+    "youtube_id": "S_uQFF-0ciM",
+    "url": "https://www.youtube.com/watch?v=S_uQFF-0ciM",
+    "upload_date": "20260715",
+    "duration_seconds": 13118.0
+  },
+  "transcript": {
+    "status": "Reviewed working draft",
+    "revision": 2,
+    "turn_count": 215,
+    "turns": [
+      {
+        "stable_id": "S00001",
+        "start_seconds": 250.13,
+        "end_seconds": 253.27,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "The sergeant at arms is directed to make a proclamation.",
+        "confidence": 0.898822021484375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00002",
+        "start_seconds": 254.54,
+        "end_seconds": 266.26,
+        "speaker": "Alfredo Sotto Corpuz",
+        "text": "All persons are commanded to keep silent under pain of penalty while the impeachment court is in session for the trial of Vice President Sara Zimmerman Duterte.",
+        "confidence": 0.9749680507330247,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00003",
+        "start_seconds": 268.32,
+        "end_seconds": 275.3,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "The impeachment trial of Vice President Sara Zimmerman Duterte is hereby called to order.",
+        "confidence": 0.9987967354910714,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00004",
+        "start_seconds": 278.52,
+        "end_seconds": 280.44,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Please bow our heads and pray.",
+        "confidence": 0.9596354166666666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00005",
+        "start_seconds": 282.36,
+        "end_seconds": 346.14,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Heavenly Father, we come to you seeking the gift of your grace as we gather in this August Chamber to fulfill our duties as Senator-Judges. Grant us the gifts of humility, discernment, and wisdom. Keep our sights set firmly on the truth. Guide our hearts towards the pursuit of justice and the preservation of the rule of law. Bigyan mo kami ng tamang pag-unawa. Gawin mong gabay at inspirasyon ang iyong salita sa lahat ng aming gagawin. Tulungan mo kaming maalala na ang batayan ng aming tungkulin sa hukumang ito ay ang Saligang Batas at ang tiwala ng bayang Pilipino. We humbly lift the work of our hands in submission to your will for the defense of all that is good and the service of our nation. This we pray in your holy name. Amen.",
+        "confidence": 0.9733721758868243,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00022",
+        "start_seconds": 346.15,
+        "end_seconds": 347.97,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "The Clerk of Court will now call the roll.",
+        "confidence": 0.9658203125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00023",
+        "start_seconds": 349.88,
+        "end_seconds": 397.92,
+        "speaker": "Atty. Renato N. Bantug Jr.",
+        "text": "Roll call of members. Senator-Judge Aquino; Senator-Judge Cayetano, Alan; Senator-Judge Cayetano, Pia; Senator-Judge Dela Rosa; Senator-Judge Ejercito; Senator-Judge Estrada; Senator-Judge Go; Senator-Judge Hontiveros; Senator-Judge Lacson; Senator-Judge Lapid; Senator-Judge Legarda; Senator-Judge Marcoleta; Senator-Judge Marcos; Senator-Judge Padilla; Senator-Judge Pangilinan; Senator-Judge Sotto III; Senator-Judge Tulfo, Erwin; Senator-Judge Tulfo, Raffy; Senator-Judge Villanueva; Senator-Judge Villar, Camille; Senator-Judge Villar, Mark; Senator-Judge Zubiri; Presiding Officer Senator-Judge Escudero; Senate President Gatchalian.",
+        "confidence": 0.754058837890625,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00027",
+        "start_seconds": 397.92,
+        "end_seconds": 402.18,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Nineteen senators present, the Chair declares the presence of a quorum.",
+        "confidence": 0.9006791548295454,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00028",
+        "start_seconds": 411.12,
+        "end_seconds": 414.18,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "What is the pleasure of Senator Judge Padilla?",
+        "confidence": 0.9580078125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00029",
+        "start_seconds": 414.42,
+        "end_seconds": 415.28,
+        "speaker": "Sen. Robinhood “Robin” Padilla",
+        "text": "Yes, sir.",
+        "confidence": 0.95849609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00031",
+        "start_seconds": 416.02,
+        "end_seconds": 420.78,
+        "speaker": "Sen. Robinhood “Robin” Padilla",
+        "text": "Magandang tanghali po sa ating takapamahalang hukom.",
+        "confidence": 0.9581124441964287,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00032",
+        "start_seconds": 420.82,
+        "end_seconds": 422.1,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Magandang hapon din po.",
+        "confidence": 0.9978434244791667,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00033",
+        "start_seconds": 422.2,
+        "end_seconds": 590.72,
+        "speaker": "Sen. Robinhood “Robin” Padilla",
+        "text": "At sa atin pong ginuong Pangulo. Nais ko lamang po magbigay ng isang maigsing manifesto. The gentleman has two minutes. Maraming salamat po. Audhu billahi minash shaitanir rajim. Bismillahir rahmanir rahim. Mga mahamahal kong kasama, Nais ko lamang pong idulog sa inyo ang aking nararamdaman ang isang damdaming masasabi ko pong nagtatanong sapagkat ang mga nangyayari po sa ating hukuman sa mga oras na ito hindi ko po alam kung ito ba ay exacto lang na nangyayari o ito po ba ay sinasadya katulad po ng pagkakakulong Nang ating dalawang senator-judge na si Sen. Jingoy Estrada at si Sen. Rodante Marculeta At ang kagiyat pong pagdating ng aming mga masasabing galing sa ombudsman sa akin at kay Sen. Alan Peter Caetano At kahapon, pagkatapos pong ng isang araw na mabanggit Ang patungkol sa pagpunta ng ating mahal na NBI Director sa Bangkok at ito po ay kinwestiyon ni Sen. Alan Peter Caetano, kahapon po ay biglang lumabas ang isang pahayag na iniimbestigahan daw po iyong patungkol sa pangyayari noong Southeast Asian Games. Ito po ba ay exacto lang? O ito po ba ay merong dapat tayong pangambahan? Sa pagkat, alam niyo po, ako din po ay dapat ay pupunta ng Iran. Sa pagkat, sinagawa po ang pagbibigay-pugay sa namatay na kanilang leader, spiritual leader. Pero hindi po ako tumuloy dahil may impeachment po tayo. Tanong ko lamang po sa ating mga kasama. Dapat po ba tayong mangamba? Dapat po ba kaming mangamba? At tayo po ay parang exacto naman lahat nito? Hindi ba po tayo ay malayang korte? Tayo po ay may karapatan na binibigay ng konstitusyon na magsagawa po ng pagdinig na ito. Iyo lamang po. Maraming salamat po, ginuong tagapamahalang hukom.",
+        "confidence": 0.9407783338758681,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00034",
+        "start_seconds": 591.0,
+        "end_seconds": 596.16,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "The manifestation of Senator Judge Padilla is noted. What is the pleasure of Senator Judge",
+        "confidence": 0.97158203125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00035",
+        "start_seconds": 596.32,
+        "end_seconds": 672.01,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Gaetano? Senet here as an impeachment court, someone can rise on a question of personal or collective privilege. I won't do that but may I just respond to what Senator Padilla said since my name was mentioned and since the investigation announced by the NBI yesterday seems to be pertaining to this person as chairman of the 2019 Organizing Committee of the Southeast Asian Games. May I, maybe, in the form muna of manifestation, unless the presiding officer or senate president thinks that I should elaborate on a position by asking for time on a personal collective privilege, but I don't want to start that procedure. Sen.",
+        "confidence": 0.9460324633880502,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00038",
+        "start_seconds": 672.01,
+        "end_seconds": 676.05,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Judge Cayetano may make his manifestation, for the record, sir.",
+        "confidence": 0.9902506510416667,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00039",
+        "start_seconds": 676.11,
+        "end_seconds": 704.33,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "So, first and foremost, sa sinabi po ni Sen. Atty. Padilla I won't ask na ipa-play na yung video, but quite exhaustive yung sinabi ni NBI Director about the Southeast Asian Games. So if the intention was to have a chilling effect, we already have that chilling effect. May 11, hinabol dito sa session hall na to ng mga ahente ng NBI si Sen. Bato. May 13,",
+        "confidence": 0.9218419895452612,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00040",
+        "start_seconds": 705.98,
+        "end_seconds": 713.7,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Nagkaroon ng enkwentro, putukan, pinipilit ng NBI na hindi sa loob ng Senado but we have all the evidence that it was inside the Senate.",
+        "confidence": 0.9738557942708332,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00041",
+        "start_seconds": 715.27,
+        "end_seconds": 729.61,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Other incidents, I do not want to evoke a reaction or debate because I want to respect my fellow Senators. Much of this has been vented in the media, is in court.",
+        "confidence": 0.9780731201171875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00042",
+        "start_seconds": 734.27,
+        "end_seconds": 766.04,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Director Matibag has promised us that he will give us a warrant. issued by the ICC has promised us that he will hold his agents na nanggulpe ng isang osaa. He will be the one to implement the contempt order and hold them in his office but wala ditong natupad. So when I mentioned his name, his position the other day that it was bad taste, walang personal yun. I mean, regardless kung sinong, even if it was a",
+        "confidence": 0.96403437747231,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00043",
+        "start_seconds": 768.89,
+        "end_seconds": 923.57,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Secretary, an alter ego of the president who wrote the execution team or the defense team to say, pwede bang next week kasi may seminar. I would have said the same thing, di ba? Na, you know, look at the gallery. Kompleto parati dyan from Congressman Ace Barbers to many, Congressman Redon, I won't name all of you, but you're busy people. But you think this is important so you take time out and you are here. Di ba? Of course, the prosecution team, you have to be, you are here. We are here, despite of many, many other important things. Not only investigations, not only the flood control, not only the BIR, not only, we're also talking about the nation being prone to volcanic eruption, to yung bagyo buti. Well, nasalanta pa rin tayo nung bagyong inday. Ibang inday ang pinag-uusapan natin dito sa impeachment. But still, we are here. So it was in good faith that I said, as an example, mukha namang masama kapag kayong isang bureau head. NBI director is a very important position, but it is a bureau. So if a bureau head, and tignan niyo yung invitation, nakalagay siya invitation, or your representative, and we resolved it. So, aksidente ba na yesterday, suddenly after I mentioned it, and after during the weekend, many have been talking about na dapat ata hindi 16. So, 21 na lang kami ngayon eh. So, two-thirds of 21 is 7. Pag nabawasan pa kami ng tatlo, 13 na lang yun. Pero some will argue, mabawasan lang kami ng isa o dalawa. Baka 13 na rin yun kasi wala naman half person or three-fourths person. So all of these issues are valid. Question, the chilling effect is there but am I intimidated? Wala na akong choice. Ilalabang ko na to. Gagawin ko yun ang dapat kong gawin. Bumaliktad man yung sitwasyon, si President Marcos ang ini-impeach and I felt a certain way, ilalabang ko rin. Chief Justice man ang i-impeach, ilalabang ko rin. But for the record, Mr. President, Go ahead and investigate. First of all, that's been investigated many, many times. COA, I'm not sure. I think the Office of the Ombudsman. Ang nag-file pa ata, chief of staff mo eh. Sen. Rob, I'm not sure ha, but parang may kaso na nun.",
+        "confidence": 0.9620477347088674,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00044",
+        "start_seconds": 925.39,
+        "end_seconds": 995.49,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Sen. Drilon quizzed us here. I was Speaker of the House, but I chose to appear before the Senate to be able to answer all of those questions directly. The SEA Games, paulit-ulit yan. Victima na ng speakership ng 2019 yan. Nahuli namin yung PR na sinabi kikyam, pinakain daw mga Muslim ng baboy, when it was chicken longganisa na pinakain. Pero nasiraan na tayo sa Malaysia, Indonesia. The SEA Games gave us so much honor. So far, it's still the biggest SEA Games in history. Many of our athletes launched their career, even going to Gold Medals in the Olympics. Our athletic and our— yung aquatic natin center in Clark is one of the best in the world. Ang nagsabi nito yung Israeli coach ng isang foreign team doon. But go ahead if you want to investigate. But I just want to put on record mukhang misfire. Bakit? Yung sinasabi niyang",
+        "confidence": 0.9633545553502435,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00045",
+        "start_seconds": 995.49,
+        "end_seconds": 1026.71,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Yung sinasabi niyang infrastructure na walang bidding. First of all, the procurement law has many modes of procurement. So don't make it appear sa public na just because walang bidding, may anomalya na ito. Okay? Secondly, bakit ko sinabing misfire? Hindi po sa—I'm referring to the director ng NBI, Matibag. I was—I had nothing to do with the infrastructure. The chairman of the committee—in fact,",
+        "confidence": 0.012549430131912231,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00046",
+        "start_seconds": 1026.72,
+        "end_seconds": 1220.66,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "I had to resign from the DFA because I was running for congressman during that time. So dun sa sinasabi ni Director Matibag na may congressional insertion to fund it, it's definitely not me because how could a non-member of the Senate or non-member of the House insert anything? Okay. Dun sa sinasabi niyang infrastructure, it was done by the BCDA. The chairman of the BCDA is one of the closest advisers of the President now. The president of the BCDA is one of the closest advisers and is a secretary now. And he said, medyo kaduda itong kumpanya, nananalo walang bidding. If I'm not mistaken, it's the same company who's making the City Hall of Pasig. So, I mean, if they want to investigate, go ahead. But by mentioning the organizing committee of the SEA Games, ako po chairman noon. At paninindigan ko po na napakaganda ng nangyari doon. At kung may anomalya, ako unang magagalit. So, go ahead. But, my point, Mr. Chairman, honorable members of the Court, sa prosecution—to be fair sa prosecution, at marami akong kaibigan—I've never felt any intimidation from any of you. I mean, you've continued to be either friends or, for those who are former friends, but friends. I mean, I don't know if nagkamali lang ako but on the first day, I nodded nang konti kay Sen. De Lima. Gumanoon din siya. Hindi ko alam kung na-acknowledge because we were friends once upon a time and this is a court. We owe it to each other to be professional, di ba? So huwag tayong pumayag na someone like Director Matibag will do that. My point, Mr. President, Mr. Presiding Officer, he could have not announced it and investigated. Di imbestigahan mo. Tingin mo may mali, di imbestigahan mo. But is it unfair to me and unfair to the Court that kung kailan siya ipatatawag—ipatatawag siya sa Monday—ano, intimidate mo ako? Hindi kita tatanungin sa Monday dahil mag-a-announce ka na iimbestigahan mo, tapos sasabihin mo may insertion, tapos sasabihin mo hindi liquidated. Liquidated po lahat iyon. So, let me talk of unfairness. Hindi ba unfair? Eh kung ako, babalikan ko rin, sasabihin ko: inimbestigahan ko na rin kahapon. Ang sabi sa akin, mainit ang ulo ni Director Matibag kasi may contractor na raw iyong binigay na lupa para sa NBI at gusto niya sarili niyang contractor. Or would that be fair to him? No. It would be a Marites accusation. So that's the same thing he announced yesterday: a Marites accusation towards me. That affects this Court because I am now a Senator-Judge. So I hope this is the last time that I'm going to have to speak about this. But definitely, we've been speaking about this. Binabawasan talaga kami. Iniisa-isa. Even iyong mga vlogger na malapit sa administration, sabi, two down, three down, may kasunod na. Di ba? So, Mr. President, I",
+        "confidence": 0.9514837870401532,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00047",
+        "start_seconds": 1223.54,
+        "end_seconds": 1282.92,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "want This impeachment to be a test that the 1987 Constitution works and that despite political differences, the prosecution and defense, I saw them after the first or second day, nagkakamayang kayo, nagkakamustahan. After the first or second day nung mainit na baliktaktakan dyan sa pre-trial, nagbabatihan, diba, even in court. So, we can't help but be emotional, we can't help but get mad at what we think is disgusting or sometimes crossing the line. But is there any question that for this verdict, whether it's for conviction or acquittal, to be accepted by the Filipino people, we have to make sure that the integrity of the court is intact. I will admit po yung nahihirapan po ako. Wala si Sen. Marco Lepe.",
+        "confidence": 0.9662120367891046,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00048",
+        "start_seconds": 1284.5,
+        "end_seconds": 1287.38,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Iilan lang po kaming abogado dito. Si Sen.",
+        "confidence": 0.8696645100911459,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00049",
+        "start_seconds": 1289.45,
+        "end_seconds": 1348.75,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Pangilinan, Senator Chiz, si Imee is a law graduate. Senator Pia. Bam is a second-year law student, and I'm encouraging him na tapusin niya. Total review na iyong nangyayari ngayon. But it's not easy. Twenty-four lang kami, nabawasan na ng tatlo. So I hope this issue of the integrity of the Court becomes an issue for all of us. I'll repeat what I said when I was Senate President: Director, hindi mo kami natibag. So huwag mong i-try itibag itong representation na ito or itong Impeachment Court, because what you're doing is not helping. Investigate whatever you want to investigate. You want to investigate ba't ako nagpatubo ng balbas? Investigate mo, no problem with me. Pero huwag mo nang i-announce kasi nga naaapektuhan iyong integrity ng Court. Thank you for the leeway, Presiding Officer.",
+        "confidence": 0.9054158370105587,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00060",
+        "start_seconds": 1349.11,
+        "end_seconds": 1356.09,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "you, Senator Judge Alan Cayetano. Yes, what is the pleasure of Senator Judge Pia Cayetano?",
+        "confidence": 0.9833062065972222,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00061",
+        "start_seconds": 1356.65,
+        "end_seconds": 1375.84,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Mr. President, presiding officer, I assume most of my colleagues, like me, were busy studying the lengthy memorandum filed by each of the parties. For the record, 30 plus pages.",
+        "confidence": 0.9936957465277777,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00062",
+        "start_seconds": 1377.48,
+        "end_seconds": 1401.14,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "More or less double space yung sa prosecution. Kaya by the time I got to the defense, para na ako maduduling. Kasi mahaba na nga yung 30 pages na double space. Napunta pa ako sa single space. Okay lang yun. Kasama sa trabaho yun. Pero that's how lengthy the documents were. And I slept at 2 a.m. Kasama to sa explanation ko. Di ako nagyayabang or anything. It's our job. And I'm a",
+        "confidence": 0.9750596416595321,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00064",
+        "start_seconds": 1401.14,
+        "end_seconds": 1472.24,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "night person. So normal sa akin yun. And then in the morning, tuloy ulit. Sent my staff questions, asked for more details, and then we worked together throughout the morning until it was time to come here. So I don't know anything about this statement of Director Matibag. But it bothers me to hear this. I now remember that I saw a message pop up in my phone, which hindi ko nga pinansin kasi nga ito yung important. Ang isyo ko na pag-aralan ko itong memorandum ng mga parties na inabala nga naman nilang very lengthily and exhaustively na nila dinidiscuss in a written document. But I recall now na may nag-pop-up na message from a coach telling me na gustong paimbestigahan yung SEA Games. Hindi ko talaga pinansin. And now Alan brings it up and I am bothered. There is no jurisdiction in the world. That allows a judge to be pressured and intimidated. And I ask each one of you, my dear colleagues, Payag ba tayo sa ganito? Ganito na ba tayo dito ngayon?",
+        "confidence": 0.9656721345983181,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00065",
+        "start_seconds": 1477.98,
+        "end_seconds": 1482.4,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Don't we want a better country for our children?",
+        "confidence": 0.998779296875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00066",
+        "start_seconds": 1484.55,
+        "end_seconds": 1515.43,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Why would you allow a director who's just called to be a witness next week, brag that he's going to investigate? And again, I don't know, so I respectfully request that it be played. Because I want to understand, if I don't have reason to be upset, then thank you, I can focus. I can go back to the business on hand. But right now, I am upset to hear this. And I will stand up for each one of you. I don't care what side you are on. I will stand up for you if somebody tries to intimidate you.",
+        "confidence": 0.989924969059406,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00067",
+        "start_seconds": 1517.28,
+        "end_seconds": 1526.1,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "So with all due respect, Mr. Presiding Officer, I ask that we play it. I want to see what this witness is doing.",
+        "confidence": 0.9640264096467391,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00069",
+        "start_seconds": 1642.99,
+        "end_seconds": 1662.03,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Chair grants the motion of Senator Pia in order for us to be able to move on with the matter on hand for today, which is the oral arguments of the parties. Chair therefore instructs the tech to kindly play the one-minute video. Senator-Judge Pangilinan is recognized.",
+        "confidence": 0.97393798828125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00070",
+        "start_seconds": 1666.43,
+        "end_seconds": 1694.02,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "Thank you, Mr. Presiding Officer. We support the position taken by the Presiding Officer. But we'd like to place on record that the good NBI Director will be here on Monday. So my initial view is that we should be able to do this on Monday, but I will yield to the ruling of the Chair.",
+        "confidence": 0.9718540736607143,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00071",
+        "start_seconds": 1694.03,
+        "end_seconds": 1702.98,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "We thank the understanding and magnanimity of Senator Judge Pangilinan. The tech is instructed to play the more or less one minute video.",
+        "confidence": 0.9285393314085144,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00072",
+        "start_seconds": 1705.4,
+        "end_seconds": 1708.5,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Alluded to and requested by Sen. Judge P.",
+        "confidence": 0.8671875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00073",
+        "start_seconds": 1761.08,
+        "end_seconds": 1859.59,
+        "speaker": "Atty. Melvin Matibag",
+        "text": "Mayroon kaming mga kasong pumasok na bago na dapat naming tingnan. [unclear] because we were given 70 hectares for the NBI Academy. So nagkaroon kami ng relationship sa Clark. Nakita namin iyong parang sports complex na ginamit ng [unclear] organizing committee. [unclear] bilyon pala iyong pumasok ditong pera na unliquidated, at may private company rito na na-involve, na binayaran ng 10 billion, at ang pagbabayad, insertion [unclear]. So ito, iimbestigahan—malaking kaso rin. Iba pa iyon sa kaldero, I think. Pero sisilipin na rin natin ito, iyong tungkol doon sa—it's a [unclear] company na sila iyong nagbili noong parang support area na ito. Walang bidding, tapos nabayaran nang mabilisan na 10 billion iyong halaga. Congressional insertion. So sisilipin namin. Katunayan, mayroon kaming mga kaso na pumasok na bago na dapat naming tingnan. [unclear] we were given, I think that's it—70 hectares for the NBI Academy. So magkaroon kami—",
+        "confidence": 0.1681090866525968,
+        "editorial_flags": [
+          "caption_reconstruction",
+          "caption_gap"
+        ]
+      },
+      {
+        "stable_id": "S00109B",
+        "start_seconds": 1859.6,
+        "end_seconds": 1862.23,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Senator-Judge Pia Cayetano is recognized.",
+        "confidence": null,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00110",
+        "start_seconds": 1862.24,
+        "end_seconds": 1880.17,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Rest assured, Mr. Presiding Officer and dear colleagues and parties, I will not belabor this point. I will not stay long. But clearly, from the statements of Director Matibag, malaki raw kaso ito. Naimbestigahan na niya? Alam niya nang malaking kaso?",
+        "confidence": 0.9538981119791666,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00111",
+        "start_seconds": 1881.8,
+        "end_seconds": 1882.62,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Paano niya nalaman?",
+        "confidence": 0.7655978732638888,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00112",
+        "start_seconds": 1885.66,
+        "end_seconds": 1926.59,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "So sa akin lang, Mr. Presiding Officer, simple lang eh. What was the intention here? To distract the minority floor leader who is one of only two lawyers right now. Because our other lawyer was already carted off somewhere. So dalawa lang kami. So you wanna distract him. So ako na lang ang tatayo dito. Hindi na siya makakapag-aral. Yun ba intention? Because it is clearly the intention. The fact that he has to stand up, the fact that I have to stand up, the fact that Senator Robin has to stand up, he is distracting us from our job. As Senator Allan said, he could do it quietly. Go ahead!",
+        "confidence": 0.9664386567615326,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00114",
+        "start_seconds": 1927.07,
+        "end_seconds": 1931.21,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Anong purpose niya? Nagyayabang siya? What's the purpose?",
+        "confidence": 0.9895214843750001,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00117",
+        "start_seconds": 1933.94,
+        "end_seconds": 1973.81,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Is he trying to intimidate us not to ask him tough questions when he is our resource person next week? I do not know. But those statements, those actions are not acceptable, possibly contemptible. So I ask the presiding officer and you, my dear colleagues, let's think about this clearly. I will stop now. As Senator Pangilinan said, we can take this up on Monday. Salamat na pinagbigyan niyo ako ng mga panood natin at pag-isipan natin na gano'n na lang. Pag may pinatawag tayo sa witness stand, abangan natin na magpe-press kung ano-ano pagsasabit tungkol sa atin.",
+        "confidence": 0.9624406403186274,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00118",
+        "start_seconds": 1975.3600000000001,
+        "end_seconds": 1984.27,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "I didn't have enough time to research. But clearly, I know that there's jurisprudence that does not allow a judge to be intimidated.",
+        "confidence": 0.9949208135190217,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00119",
+        "start_seconds": 1986.6399999999999,
+        "end_seconds": 1992.48,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "And if hindi pa nanakot yun, then I don't know what is. Kung hindi paninindak yun, then I don't know what is.",
+        "confidence": 0.9918268377130682,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00120",
+        "start_seconds": 1994.62,
+        "end_seconds": 2002.55,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Hindi tayo sensitive. Sanay tayo dito. Pero alam din natin kung pinapatamaan tayo, diba? Alam natin yun. Hindi tayo tanga.",
+        "confidence": 0.9716695149739583,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00122",
+        "start_seconds": 2003.76,
+        "end_seconds": 2025.31,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "O, so paano? Sabihin ko ngayon sa kanya, O manda ka sa akin ngayon, pagdating mo. Ganun ba? Gaganti na lang ako? Hindi ako ganun. Kilala niyo ako. For how many years ako tumayo dito, hindi ako nang gaganti. Hindi ako mababaw. Pero I'm asking you, dear colleagues, wag tayong papayag. The Filipino people deserve better. We deserve better. Thank you.",
+        "confidence": 0.9505181206597223,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00123",
+        "start_seconds": 2025.77,
+        "end_seconds": 2030.31,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Thank you, Senator Judge Villa. What is the pleasure of Senator Judge Alan Gaetano? I",
+        "confidence": 0.9634847005208333,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00124",
+        "start_seconds": 2030.31,
+        "end_seconds": 2072.9,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "didn't know we were going to play it, but just for the record, there's no issue with the Kwadron because it was paid by the private sector. There was no public money used and it was designed by the firm of a national artist. So much so that that same firm, I don't know when we started to hire them. It was whether it was the time of Senator Lacson as the Committee of Accounts for the new Senate building or the time of Senator Nancy. But until now, there's engagement. So it's so easy to find out. But can I shift to the topic at hand? Just one manifestation for the whole Senate regarding the oral arguments.",
+        "confidence": 0.9782533807269598,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00125",
+        "start_seconds": 2073.83,
+        "end_seconds": 2077.39,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "We have not yet called the journal and called the court.",
+        "confidence": 0.9532137784090909,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00126",
+        "start_seconds": 2077.41,
+        "end_seconds": 2080.35,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "So at the proper time, I just want to...",
+        "confidence": 0.9071180555555556,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00127",
+        "start_seconds": 2080.35,
+        "end_seconds": 2081.79,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Yes, you may do so at the proper time.",
+        "confidence": 0.9989149305555556,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00128",
+        "start_seconds": 2084.69,
+        "end_seconds": 2103.18,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Proceeding now, if there are no objections, the presiding officer will dispense with the reading of the July 14, 2026 Journal of the Senate, setting as an impeachment court, and shall consider the same as approved. Clerk of court will please call the matter before the impeachment court.",
+        "confidence": 0.961637708875868,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00129",
+        "start_seconds": 2103.64,
+        "end_seconds": 2110.16,
+        "speaker": "Atty. Renato N. Bantug Jr.",
+        "text": "Case number 004-2026 in the matter of Impeachment Trial of Vice President Sara Zimmerman Duterte.",
+        "confidence": 0.8761638566559435,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00130",
+        "start_seconds": 2110.54,
+        "end_seconds": 2111.98,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Appearances for the parties.",
+        "confidence": 0.9944661458333334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00131",
+        "start_seconds": 2122.55,
+        "end_seconds": 2127.25,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Good afternoon, Your Honors. Same appearance for the prosecution. We are ready, Your Honor.",
+        "confidence": 0.971923828125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00132",
+        "start_seconds": 2128.7,
+        "end_seconds": 2135.6,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Appearances for the respondent. Good afternoon, Your Honors. I am Michael Poa. Same appearances for the defense and for the respondent-accused, Your Honor.",
+        "confidence": 0.9155222574869791,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00133",
+        "start_seconds": 2136.2,
+        "end_seconds": 2158.87,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Before recognizing the counsel for the prosecution for their 15 minutes for... Their presentation and oral argument in relation to their motions for the issuance of subpoena for bank, AMLC, and BIR records. Chair would like to recognize Senator Judge Alan Cayetano for his manifestation earlier. Alan?",
+        "confidence": 0.9627624944592199,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00134",
+        "start_seconds": 2161.7799999999997,
+        "end_seconds": 2165.9,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "The Senator Judge intimated earlier that he had a manifestation before we proceeded.",
+        "confidence": 0.9982346754807693,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00135",
+        "start_seconds": 2166.2799999999997,
+        "end_seconds": 2280.83,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Yes, this is really to be fair to the prosecution and of course to the defense and to each one of us. So, yesterday I asked whether or not mag-aural arguments today and then I'd like to thank the Senate President and of course the Presiding Officer and all our colleagues, no? Sen. Soto, although magkatabi kami, hindi kami magkatabi but I saw him agreeing that we should have a caucus and discuss this. Hinimay ko lang very preliminarily ha, if we're going to look at For example, relevancy lang. You have about the banks, you have AMLC, you have BIR. Then for each one of them, so for example, for the banks and AMLC, you have peso accounts and dollar accounts. Then for each one of them, you have the account of Vice President Sara but also of the spouse and then possibly of the companies. Same sa BIR. So, although I do believe that we have exclusive jurisdiction, sometimes the Supreme Court have defined certain parameters that we either have crossed or not. So if we're going to vote, one vote, whether or not to allow the subpoenas, it would be unfair to everyone. For example, me, I cannot vote unless I see na walang problema sa lahat, then no problem, let's vote. Pwede. Pero kung sabihin kong walang problema sa banks at AMLA, may problema sa BIR. Walang problema sa BIR, pero sa spouse, meron. So, we're gonna have a caucus, and I'm sure we're gonna have a good discussion on that, but just two things. Number one, can we give, of course, we'll follow the time today, but if any of the two, the prosecution or the",
+        "confidence": 0.9654669299475128,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00136",
+        "start_seconds": 2284.27,
+        "end_seconds": 2309.29,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "For example, in the rebuttal, after the rebuttal ng defense, makikita na ng prosecution saan talaga nag-o-object yung defense, hindi lang sa lahat. If we can give them a little bit more time kasi nga mahabang discussion to. Having said that, I'm more than okay if we have to have an extra day next week.",
+        "confidence": 0.9816573293585527,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00137",
+        "start_seconds": 2313.2799999999997,
+        "end_seconds": 2341.91,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "I'm not pre-empting our caucus. I'm just saying, Mr. President, that I commit to you, I will not delay, I will not over-talk on these issues. And I don't think controversial each and every one of this request for subpoena dito. But there may be one or two, and I don't think it would be good for us to lump it in one issue if there are different legal issues. The law There are similarities in the law, but there's a different law governing AMLA. There's a",
+        "confidence": 0.9631954539905895,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00139",
+        "start_seconds": 2341.91,
+        "end_seconds": 2346.79,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "different law for the bank secrecy. There's a different law for BIR. So, thank you, Mr.",
+        "confidence": 0.9779052734375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00140",
+        "start_seconds": 2347.45,
+        "end_seconds": 2446.45,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Chair notes the observation of Senator Judge Alan Cayetano. However, subject of course to any agreements that will be arrived at in caucus, we are constrained by the motions filed by the parties. There are only two pending motions that this Court should act upon. Number one, a motion for the issuance of a subpoena with respect to bank and AMLC records on the one hand. And number two, a motion for the issuance of subpoena for BIR records. Understandably, there are sub-issues underneath each. But we cannot put a vote each and every sub-issue under each motion. So we will most likely, the Chair would suggest, put it to a vote. By the motions that have been filed by the parties, whether or not to grant it or to deny the motion filed by the prosecutors in this case. Subject, of course, any agreements we might arrive at in caucus, Senator-Judge Alan. And the chair will submit to that. Now, as earlier agreed in yesterday's proceedings, the prosecution will be given 15 minutes for their chief arguments. Likewise, the respondent will be given 15 minutes. And then thereafter, the prosecutor will be given 10 minutes by way of rebuttal and the respondent will be given 10 minutes by way of surrebuttal. May I ask who among the prosecutors or counsel for prosecutors will argue the motion for the issuance of the subpoenas for bank, AMLC, and BIR records?",
+        "confidence": 0.9634621283972051,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00141",
+        "start_seconds": 2447.36,
+        "end_seconds": 2460.42,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Your Honors, the prosecution will be represented by the Honorable Representative Chel Diokno. For the purpose of this oral argument, nonetheless, Your Honor, we have some manifestation to make for the prosecution.",
+        "confidence": 0.9633229573567708,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00142",
+        "start_seconds": 2461.44,
+        "end_seconds": 2468.06,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "The lead prosecutor may proceed. This is pertaining to the matter on hand.",
+        "confidence": 0.9898587740384616,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00143",
+        "start_seconds": 2468.44,
+        "end_seconds": 2473.52,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "This pertains, Your Honor, to the remaining witnesses for Article 4 threat.",
+        "confidence": 0.9910888671875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00144",
+        "start_seconds": 2474.18,
+        "end_seconds": 2478.2799999999997,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Can we discuss that later before we adjourn, lead prosecutor?",
+        "confidence": 0.936376953125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00145",
+        "start_seconds": 2478.64,
+        "end_seconds": 2479.52,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "We submit, Your Honor.",
+        "confidence": 0.99951171875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00146",
+        "start_seconds": 2479.76,
+        "end_seconds": 2482.74,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Thank you. On the part of the respondent, As",
+        "confidence": 0.890380859375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00147",
+        "start_seconds": 2482.74,
+        "end_seconds": 2485.68,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "On the part of respondent, Your Honor, I will be the one arguing today.",
+        "confidence": 0.9407113882211539,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00147B",
+        "start_seconds": 2486.84,
+        "end_seconds": 2490.27,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "For the record, kindly state your full name, Atty. Poa.",
+        "confidence": null,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00147C",
+        "start_seconds": 2490.28,
+        "end_seconds": 2494.23,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "My name is Michael Wesley T. Poa, Your Honor. Thank you.",
+        "confidence": null,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00147D",
+        "start_seconds": 2494.24,
+        "end_seconds": 2499.43,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Your Honor, we're requesting that Congressman Chel Diokno be recognized.",
+        "confidence": null,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00148",
+        "start_seconds": 2499.44,
+        "end_seconds": 2516.23,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "For the prosecutors, the Honorable Representative from the Akbayan party-list, Chel Diokno, is recognized for his oral arguments on the twin motions that they filed. You are recognized, sir, and you may proceed when you are ready. You have 15 minutes.",
+        "confidence": 0.9493626185825893,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00149",
+        "start_seconds": 2517.11,
+        "end_seconds": 2640.65,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "Thank you, Your Honor. Good afternoon, everyone, to the members of this honorable Court. May it please the court. Simple lang po ang isyong kinakaharap natin ngayong hapon na ito. Pero napakabigat. Bubuksan ba natin ang pinto ng katotohanan? O haharangin ito? Ang hiling ng prosekusyon ay mailabas ang buong katotohanan so that this court may know the truth, the whole truth, and nothing but the truth, and make its decisions based on that. That is why we have requested the issuance of subpoena duces tecum for the bank records, tax records, and Anti-Money Laundering Council reports relating to Vice President Sara Duterte and her husband, Atty. Manases Carpio. Sa pamamagitan nito, may lalahad ang buong katotohanan tungkol sa mga aligasyon sa Article 2 ng Articles of Impeachment. Una, na pinayaman ni Vice Presidente ang kanyang sarili ng labis-labis sa kanyang legal na sahod at lehitimong kita bilang isang lingkod bayan. Pangalawa, na meron siyang mga ari-arihang hindi dineklara sa kanyang Statement of Assets, Liabilities, and Net Worth. At pangatlo, na habang siya ay nanunungkulan bilang Vice President, nakibahagi siya sa negosyo, directly or indirectly, kahit ipinagbabawal ito ng ating konstitusyon. Sasabihin marahil ng Depensa na walang kapangyarihan ang hukumang ito na busisiin ng mga bank records, tax records, at AMLC reports ni VP Sara. With all due respect, that argument is not only legally flawed, it is an affront to the authority of this honorable Court.",
+        "confidence": 0.9453856655743336,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00151",
+        "start_seconds": 2641.42,
+        "end_seconds": 2738.4700000000003,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "Kung tatanggapin po natin ang argumentong ito, hahayaan natin maliitin at insultuhin ang hukumang ito. The Constitution, Your Honors, please, vests this Impeachment Court with extraordinary powers. Tanging ang hukumang ito lamang ang may kapangyarihan magpasya kung ang mga pinakamataas na pinuno ng ating bansa ay karapat-dapat pa rin manungkulan. Because this power comes directly from the Constitution, no one, no person, no law, no administrative rule can limit or supersede it. I repeat, nothing and no one can handcuff this court's power to try and decide this impeachment case. Kahit ang Bank Secrecy Law po ay sumusunod at tumatalima sa Impeachment Court. The law explicitly states and I quote its pertinent portions, All deposits are hereby considered as of an absolutely confidential nature except in cases of impeachment. Walang kaduda-duda, may karapatan at kapangyarihan ng Impeachment Court na busisiin ang mga bank records ni VP Sara. Hindi rin hadlang ang Data Privacy Act. The law itself affirms that confidentiality shall not apply, and I quote, should the personal information be needed pursuant to a subpoena duly issued.",
+        "confidence": 0.9679357178648759,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00152",
+        "start_seconds": 2740.55,
+        "end_seconds": 2835.79,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "Muli, walang kaduda-duda. May karapatan at kapangyarihan ang Impeachment Court na ipasubpoena ang mga dokumento ni VP Sara Duterte. Pero sabi po ng kampo ni Vice President, irrelevant daw ang mga bank records, AMLC reports at BIR records, lalo na raw iyong mga transaksyon na nangyari bago siya umupo bilang pangalawang Pangulo dahil wala raw itong kinalaman sa kasong ito. The prosecution respectfully but vehemently disagrees. Ayon sa report ng Anti-Money Laundering Council na isinumite sa Committee on Justice ng House of Representatives, the financial activity of Vice President Sara C. Duterte increased significantly starting 2007, when transaction values surged to 208.15 million pesos. According to this report, Exhibit P-2-7-8, I quote: Financial movements intensified between 2009 and 2013, with consistently high annual totals exceeding 400 million pesos, including notable peaks in 2009, 704.93 million pesos; 2010, 648.58 million pesos; and 2011,",
+        "confidence": 0.9628266754164094,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00153",
+        "start_seconds": 2835.8,
+        "end_seconds": 2963.97,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "597.15 million pesos. Si VP Sara po ay nanungkulan bilang Vice Mayor ng Davao City mula 2007 hanggang 2010. Naglingkod naman siya bilang Mayor ng Davao City mula 2010 hanggang 2013. From 2007 to 2013, ayon sa records ng AMLC, lumampas sa 3 billion pesos ang kanyang financial activity. May kinalaman ba ito? Ito ba ay relevant sa Article 2 of the Articles of Impeachment, which alleges, among others, that VP Sara betrayed the public trust and culpably violated the Constitution when she amassed unexplained wealth manifestly disproportionate to her lawful income? Para sa prosekusyon, malinaw ang sagot. The Vice President's financial activity as Vice Mayor and Mayor of Davao City relates directly to the main fact in issue in this case: her fitness or unfitness to serve as Vice President. Let me explain. The framers of the 1987 Constitution added betrayal of public trust as a ground for impeachment, and I quote, to include all acts which render the officer unfit to continue in office. For this honorable Court to determine whether VP Sara Duterte is unfit to continue in office, it must have a clear picture of the respondent as a public servant. Kailangan makita ng publiko at ng mga Senator-Judge ang tunay na kulay ng Bise Presidente at larawan ng kanyang buong pagkatao bilang isang lingkod-bayan. If she amassed staggering amounts of unexplained wealth while she was a vice mayor and mayor, doesn't that say a lot about her unfitness to serve as a Vice President? Isn't that relevant to the question this Court must resolve at the end of this trial, of whether or not the Vice President betrayed the trust given to her by the people?",
+        "confidence": 0.973966990802305,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00154",
+        "start_seconds": 2965.63,
+        "end_seconds": 3117.16,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "From what I have gathered and read, Your Honors, please, this is not the first time. This Court has been confronted with this issue. Sa impeachment ni dating Chief Justice Renato Corona, tinanggap ng hukumang ito ang mga ebidensyang nakalap bago pa man siya naupo bilang punong hukom. I believe it was then-Sen. Judge, now-Presiding Officer Francis Escudero who raised the question, Will the Impeachment Court consider only Corona's acts as Chief Justice? This after observing that some exhibits predated his appointment as Chief Justice. This matter was taken up in caucus after which this Court decided to allow such evidence. When Philippine Savings Bank President Pascual Garcia III testified before this Court in the same Corona trial, He refused to answer the question of then-Sen. Judge Franklin Drilon on the starting balance of Corona's 2 peso denominated accounts. But, if I'm not mistaken, it was Sen. Judge Alan Peter Cayetano who said that records of initial deposits are among the quote-unquote opening documents that should have been brought to the impeachment court. After reading the subpoena, presiding officer Sen. Juan Ponce Enrile held that Sen. Judge Cayetano's observation was correct. During the same hearing, the presiding officer ordered the issuance of subpoena to PS Bank Katipunan branch manager Annabel Tiongson to bring all the bank records of the Chief Justice. A few days later, the impeachment court denied the defense's motion to quash the subpoena For the peso bank accounts of CJ Corona. The presiding officer explained that the purpose of the subpoena is to find out if Corona has not included the deposits in his salen. This court also denied the defense's motion to suppress evidence on Corona's bank accounts. Sa huli, binusisi ng hukumang ito ang bank records ni Chief Justice Corona mula sa kanyang unang balanse bago pa man siya naging Punong Magistrado The panel of prosecutors respectfully submits that the subpoenas for the production of the bank records, AMLA documents, and BRR documents of the vice president and her husband are proper and should be issued by this honorable court.",
+        "confidence": 0.95457834500638,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00155",
+        "start_seconds": 3119.74,
+        "end_seconds": 3191.91,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "Now allow me, Your Honors, to return to my first point. There is a deeper reason why this Court must resist the attempts of the respondent to exclude evidence that is obviously relevant. It has to do with curtailing the power of this Court. The Constitution gives this honorable Court, and I quote, the sole power to try and decide impeachment cases. Kayo lang po, Your Honors, ang may kapangyarihang magpasya kung ano ang impeachable offense at kung anong ebidensiya ang maaaring tanggapin para patunayan ito. Kinilala ito mismo ng Korte Suprema. In the case of Francisco v. House of Representatives, the Supreme Court declared, and I quote: A determination of what constitutes an impeachable offense is a purely political question which the Constitution has left to the sound discretion of the Legislature. Such an intent is clear from the deliberations of the Constitutional Commission. Inulit pa ito ng Supreme Court sa kasong Gutierrez v. House of Representatives, where the Supreme Court declared, and I quote:",
+        "confidence": 0.9639875235806507,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00156",
+        "start_seconds": 3191.92,
+        "end_seconds": 3241.4,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "Francisco instructs that this issue would require the Court to make a determination of what constitutes an impeachable offense. A determination is purely a political question which the Constitution has left to the sound discretion of the Legislature. Clearly, the issue calls upon this Court to decide a non-justiciable political question which is beyond the scope of its judicial power. Since this Impeachment Court has the sole power to determine what constitutes an impeachable offense, no one—not the Supreme Court, much less the defense—can impose limitations on that power. No one can dictate to this Court how to exercise the exclusive power to decide what constitutes an impeachable offense.",
+        "confidence": 0.9840312597170396,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00157",
+        "start_seconds": 3243.31,
+        "end_seconds": 3265.26,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "In closing, Your Honors, I go back to the most fundamental provision in our Constitution on the accountability of public officers. Article 11, Section 1, which provides, and I quote, Public office is a public trust. Public officers and employees must, at all times, be accountable to the people.",
+        "confidence": 0.9882513552295918,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00158",
+        "start_seconds": 3269.66,
+        "end_seconds": 3318.0299999999997,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "Ang pananagutan sa taong bayan ang pinakamahalaga sa lahat. Kaya naman po ang hiling namin sa Korte, gamitin ang inyong natatanging kapangyarihan at karapatan na busisiin ang bank records, tax records at AMLC reports kaugnay ni VP Sara at ng kanyang asawa. Sa ganitong paraan, Your Honors, madedesisyonan ninyo ang kaso base sa buong katotohanan. The truth, the whole truth and nothing but the truth, para sa interes at kapakanan ng sambayan ng Pilipino. Before I close, if Your Honor is pleased, if I have whatever time I have left, may I request that it be credited to my rebuttal. Maraming maraming salamat po.",
+        "confidence": 0.9566885141225961,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00159",
+        "start_seconds": 3320.51,
+        "end_seconds": 3335.17,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "We will try to do that, Your Honor. You have 1 minute and 39 seconds. And if at all we do so, we shall equally credit it. To the Sir Rebuttal, if any, of the Council for Respondents.",
+        "confidence": 0.9499629505893639,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00161",
+        "start_seconds": 3335.89,
+        "end_seconds": 3344.32,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Atty. Poa, if you are ready, you are recognized to respond to the statements of Congressman Diokno. You have 15 minutes.",
+        "confidence": 0.9609810965401786,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00162",
+        "start_seconds": 3344.33,
+        "end_seconds": 3439.87,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Thank you, Your Honor. You have 15 minutes. Mr. Presiding Officer, Honorable Senator-Judges, magandang hapon po sa inyong lahat. The issue before the Impeachment Court today is not whether you possess the power to issue a subpoena. The real issue is whether such power may be exercised in a manner that disregards due process and compels the production of documents and information beyond what is allowed by law. Your Honors, jurisprudence provides that for a subpoena to be valid, it must comply with twin requirements of, one, definiteness, and, two, relevance. Ibig sabihin po noon, dapat particularly described po ang nasasaklaw ng subpoena at dapat may direktang kaugnayan sa ginagawang paglilitis. Your Honors, when a subpoena becomes oppressive, when it is unreasonable, and when it is merely issued for the very purpose that there is a hope that somewhere, somehow, something incriminating will come out, it ceases to be an instrument of justice. It becomes a weapon of a fishing expedition.",
+        "confidence": 0.9549193569592067,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00184",
+        "start_seconds": 3439.88,
+        "end_seconds": 3468.89,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "The defense has taken the position that the prosecution's request must be denied. Now, first: due process. Impeachment is a legal and political proceeding.",
+        "confidence": 0.9661865234375,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00185",
+        "start_seconds": 3468.9,
+        "end_seconds": 3590.5699999999997,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Ibig sabihin po nun, the Bill of Rights, especially the Due Process Clause, applies. In all stages of the impeachment process. Your Honors, those are not my words. Those are the words of the Supreme Court in Duterte versus House of Representatives. And that is the law of the land. When we speak of due process, we offer a simple proposition that evidence must be present to support each and every accusation. Pero hindi po yun yung nangyari dito. Balikan po natin kung saan tayo, kung saan nagsimula itong proceeding na ito. I have here with me, Your Honors, copies of the Saballa and Cabrera complaints. Both filed before the House of Representatives. Both accused the Vice President of allegedly amassing unexplained wealth. Both with voluminous attachments. Yet not one attached a document to support that accusation. Not a single financial transaction record, not even a single SALN. In fact, it was only after these complaints were filed, and more significantly, only after the respondent had filed her answer before the Committee on Justice, that that committee started searching for evidence to somehow support these accusations through, again, the issuance of subpoenas. Your Honors, we objected then and we are still objecting now because with all due respect, the position of the defense is that is the very definition of a fishing expedition. Your Honors, in",
+        "confidence": 0.9680901750068831,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00186",
+        "start_seconds": 3592.11,
+        "end_seconds": 3629.75,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "our legal system, it is not permitted to accuse now and then just look for proof later on. That is not how due process works. Hindi po dapat natin pinapayagan iyan. Moving on to my second point, Your Honors, let's talk about relevance. It is our position that the requests of the prosecution are, in fact, fatally overbroad. Bakit po fatally overbroad? An impeachable offense is an act or omission",
+        "confidence": 0.9596516927083333,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00208",
+        "start_seconds": 3629.76,
+        "end_seconds": 3787.4,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "committed while the public official is occupying an impeachable office, not before being elected or appointed to such a position. Again, Your Honors, those are not my words. Those are the words of the Supreme Court in Duterte versus the House of Representatives. That is controlling and that is the law of the land. Yet here, Your Honor, today, the prosecution is requesting for documents spanning almost two decades, almost 20 years, dating as far back as 2007. It is a fact na noong 2007, ang respondent ay vice mayor pa lamang—definitely not an impeachable office. How is that relevant? It is the position of the defense that it is not. In fact, what that is is an unlimited search throughout a person's financial history. That should not be allowed. Your Honors, if a subpoena is not narrowly tailored, it is oppressive. For these reasons alone, we are of the position that the request should already be dismissed. Nonetheless, if the Impeachment Court were to extend its utmost liberality, which the prosecution has asked for in their memorandum, we'd like to point out, Your Honors, that Congress itself—the Senate and the House of Representatives—enacted laws that specifically prohibit the disclosure of this information that the prosecution is asking for now. Let us go through them one by one. Let's start with RA 9160, as amended by RA 11521, which is the Anti-Money Laundering Act. Your Honors, the prosecution is asking for covered transaction reports, suspicious transaction reports, financial intelligence reports, again spanning almost two decades. However, it is clear under Section 8-A, which we are flashing on the screen right now: bawal po iyon. Disclosure is prohibited under this provision, Your Honors.",
+        "confidence": 0.9703966116547723,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00209",
+        "start_seconds": 3789.06,
+        "end_seconds": 3849.5,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "It is in black and white. Meron po bang exception? Wala po. Impeachment is not an exception. Had Congress wanted to make impeachment as an exception, madali lang naman pong ilagay yun sa batas. Pero hindi po iyon nagawa. Now, in fact, I also have here copies of the Financial Intelligence Report and another report from the AMLC, the Information Management Analysis Group, which were already marked as exhibits, Your Honor. And it's in the records of the court. Exhibit D2-8-P1, where it says specifically that the information should not be used as evidence in formal proceedings, Your Honors. Clearly, Your Honors, to",
+        "confidence": 0.9721900576636905,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00210",
+        "start_seconds": 3851.65,
+        "end_seconds": 3878.49,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "compel AMLAC officials to disclose such information would be to compel them to violate the law. Let's move on now to the tax records, Your Honors. Prosecution is asking for tax records, so let's look at the tax code. Section 270 of which Criminalizes disclosure of taxpayers' information.",
+        "confidence": 0.9797787136501735,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00211",
+        "start_seconds": 3880.14,
+        "end_seconds": 4024.02,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Meron po bang exception sa batas na ito? Meron po. But it is limited. Kasama po bang impeachment? Hindi po. That is very clear. Again, Congress wanted to put an exception for impeachment. They could have easily done so. But they did not. Now, Your Honors, let's go to Bank Secrecy Law, RA 1405 The State Policy has always been to favor the secrecy of bank deposits, Your Honors. Dito, while we recognize that impeachment is in fact an exception, Your Honors, we submit that this exception is not automatic. Meaning, hindi parkit may exception for impeachment. Pwede na kaagad natin buksan ang lahat ng bank records na hinihingi ng prosecution. Why? Because, Your Honor, this exception does not dispense with constitutional safeguards. It does not abolish the right to due process. So dapat po meron pa rin tayong basihan. If you look at the articles of impeachment, wala naman po doon na nagsasabing yung sinasabing unexplained wealth. Coming from, even if it was an illegal activity, ay pinasok sa isang specific account. In fact, your honors, this exception does not automatically mean that we should permit a fishing expedition. Yun nga pong mga bank account numbers na nakaspecify sa request for the issuance of subpoena, ang aming posisyon po dyan, yan po ay nakalap doon sa illegal disclosure, with all due respect na ginawa ng AMLC. Before the Committee on Justice. And then, Your Honors, they are also asking for the bank records of the spouse. Your Honor, the spouse is not an impeachable officer. And therefore, the spouse is not covered by this exception. Again, Your Honors, we should not allow this. In closing, Your Honors, the prosecution has repeatedly invoked accountability.",
+        "confidence": 0.9701320358187135,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00212",
+        "start_seconds": 4025.75,
+        "end_seconds": 4075.61,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Your Honors, we agree with them. No one is above the law. But in the same manner, no one must fall below or be outside the protection of the law. Impeachment is indeed a powerful constitutional tool. But your honors, impeachment is not a magic word or a magic wand that one can just waive to transform an illegal act into a legal act, to transform unlawful access To lawful access. That is not what the Constitution contemplates. That is not what the laws enacted by Congress contemplate. And that is not something that the Honorable Impeachment Court should allow. We submit your honors. Thank you very much.",
+        "confidence": 0.9765306637610918,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00213",
+        "start_seconds": 4076.72,
+        "end_seconds": 4090.94,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "The gentleman still has two minutes and 48 seconds, which we shall credit, similar to the request of the prosecutor, to your surrebuttal, should you desire to use it, counsel for the respondent.",
+        "confidence": 0.8646886488970589,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00214",
+        "start_seconds": 4090.94,
+        "end_seconds": 4091.34,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Thank you, Your Honor.",
+        "confidence": 0.92578125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00215",
+        "start_seconds": 4092.2,
+        "end_seconds": 4111.82,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Counsel for the—rather, the prosecutor is recognized, Atty. Chel Diokno. You have 11.38 minutes, which we will round off to 12 minutes. Counsel, you may proceed when you're ready for your rebuttal.",
+        "confidence": 0.95556640625,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00219",
+        "start_seconds": 4112.42,
+        "end_seconds": 4146.47,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "Maraming salamat po, Mr. Presiding Officer, at magandang hapon po ulit sa ating lahat. Let me address each of the points that the defense has raised in their oral argument. Sabi po nila, una, ay due process daw ang paulit-ulit na dinidiin ng defense. But there's no debate that due process applies in this proceeding, just like in any other proceeding. The real issue before this honorable Court is: will the subpoenas",
+        "confidence": 0.981371630419482,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00220",
+        "start_seconds": 4146.48,
+        "end_seconds": 4357.07,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "that we are asking be issued by this Court actually deprive the respondent of any form of due process? Ang aming paniwala po ay hindi. And allow me to explain why. First of all, we are not yet at the stage where any evidence is being put in the trial or offered to the honorable Court. Nandito pa lang po tayo sa punto na kung maaari bang ipaproduce natin itong mga dokumentong ito. The defense will have every opportunity to make objections if and when particular exhibits or documents are identified by a witness and offered in evidence. Therefore, wala pong due process violation ang pag-issue ng subpoena. Second, the defense repeatedly cites the case of Duterte versus House of Representatives as, I quote, the law of the land; as, I quote, controlling daw iyong desisyon na iyan. But I must remind the defense of that particular case and why the pronouncements quoted are mere obiter dicta, o kung sa simpleng salita po ay side comment lang. The entire Duterte v. House of Representatives case revolved around a different mode of impeachment. Kung maalala po natin, iyan iyong one-third—at least one-third ng members of the House ang nagsampa ng kaso. And the entire decision discussed how due process should apply to that mode of impeachment. Totoo, may sinabi ang Supreme Court tungkol sa mode na ginamit po ng Saballa and Cabrera complaints. Pero hindi po iyon ang issue sa kaso ni Duterte. That issue is just a side bypass or incidental declaration of the Court that is not controlling and is not the law of the land. And if you look mismo at the decision of the Court, they expressly said: We are speaking of due process in relation to how these proceedings reached the Senate as an Impeachment Court, not this kind of procedure. Second, paulit-ulit din po nilang sinasabi na ang ginagawa ng prosecution ay fishing expedition. Actually po, mayroon nang desisyon ang Supreme Court that addresses squarely this point. This case involved a case of unexplained wealth: the case of Republic v. Rabusa, G.R. 208183, decided August 31, 2022. Just like here, the prosecution in that case requested subpoenas for the production of bank records. Just like here, the argument was raised that this is a mere fishing expedition. In fact, hanggang sa Court of Appeals, ang sabi po ng Court of Appeals ay fishing expedition lang po iyan. But please allow me to read just a portion of what the Supreme Court held here. I quote:",
+        "confidence": 0.9759128075710854,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00221",
+        "start_seconds": 4357.08,
+        "end_seconds": 4622.53,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "The Court of Appeals resolved that the bank accounts of Rabusa et al. were protected under Republic Act 1405, that is, the Bank Secrecy Law. Given the arbitrary demand to disclose the contents thereof, the Court of Appeals considered the inquiry as a fishing expedition to utilize evidence against Rabusa et al. In the instant case, given that the court orders in the form of various subpoena duces tecum and ad testificandum all involved the forfeiture of unexplained wealth, the RTC was in error for not allowing petitioner to examine, inquire, and look into the subject accounts. I continue. As the present proceedings on unexplained wealth are now encompassed within the exceptions of Republic Act 1405, the court orders subject of this case clearly fall within the orders that would enable the examination of the respondents' bank accounts as contemplated in the first exception. Thus, it comes clear that this Court cannot sustain the RTC's and Court of Appeals' theory that there was no court order authorizing the examination of the bank accounts. On the contrary, records prove that the RTC issued several subpoena duces tecum and ad testificandum which required certain persons to testify in open court and present documents which pertain to the existence and identity of the subject accounts and also to the contents found therein. I just move forward. Given the existence and propriety of the subpoenas, the evidence procured through the same should have been duly considered by the lower courts. This Court cannot agree with the Court of Appeals' supposition that the examination of the respondents' bank accounts was but a mere fishing expedition to pin liability on them. Next, the defense repeatedly cites a number of laws to claim that the requested information and documents that we are asking from this Court for the issuance of subpoena are confidential. Sabi po nila, confidential daw ito sa ilalim ng Republic Act 1405. Sabi po nila, confidential daw ito sa ilalim ng Anti-Money Laundering Act, pati ang National Internal Revenue Code, pati ang Data Privacy Act ay confidential din. Pero kung titingnan po natin, klaro po at malinaw po sa amin ang batas at ang utos ng Saligang Batas sa Impeachment Court na ito. You have the sole, exclusive power to determine an impeachable offense, and that includes the power to find out—ferret—the entire truth and make your decision on that basis. I will not dwell on the exception to Republic Act 1405. That's very clear: there's an exception for impeachment. Pero paano naman po iyong sinasabi nilang Section 8-A ng Anti-Money Laundering Law? If you read that law, particularly that provision, it clearly refers to prohibiting leaks by members of the Anti-Money Laundering Council. It never was intended to short-circuit the impeachment process or limit the powers of this honorable Court to find out the truth. Ganoon din po ang nakalagay sa ating National Internal Revenue Code. Sabi po ng defense, there's nothing that allows these documents to be made public. I cite Section 71, NIRC. After the assessment shall have been made, I'll just move forward: The returns, together with any corrections, shall be filed in the office of the Commissioner and, I quote, shall constitute public records and be open to inspection as such upon the order of the President. And in fact, during the Corona impeachment trial, the President at that time did order, and that is why this Court admitted the BIR documents.",
+        "confidence": 0.9709081173824516,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00222",
+        "start_seconds": 4624.95,
+        "end_seconds": 4650.23,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "Your Honors. Madaling sabihin na confidential ang ilang impormasyon at dokumento. Madaling magturo ng batas. Pero ang hinahanap po ng impeachment court ngayon at sa mga susunod na araw, linggo at buwan, ay ang katotohanan. At ang layunin ay makamit ang pananagutan.",
+        "confidence": 0.9947509765624998,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00223",
+        "start_seconds": 4651.99,
+        "end_seconds": 4665.04,
+        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "text": "Confidentiality, Your Honor, should not be the prevailing principle. In this proceeding, hindi po confidential ang katotohanan. Maraming salamat po.",
+        "confidence": 0.961785888671875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00224",
+        "start_seconds": 4667.16,
+        "end_seconds": 4677.96,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Thank you, Representative, the Honorable Chel Diokno. Atty. Poa, counsel for respondent is recognized for his rebuttal. Sir, you have 13 minutes.",
+        "confidence": 0.8782039034193841,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00225",
+        "start_seconds": 4678.34,
+        "end_seconds": 4902.27,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Thank you, sir. I will not take up the entire time to expedite matters. Your Honors, I respect, of course, the arguments put forth by the distinguished opposing counsel. But when it comes to due process, Your Honors, I think it's beyond debate that due process must be observed in every stage of the proceedings. And aside from that, due process requires, Your Honor, that we also respect the protections afforded by law on the respondent. Your Honors, ang sabi po ng ating distinguished opposing counsel, obiter lang daw po iyong sinabi ng Supreme Court. But, Your Honors, noong sinabi ng Supreme Court sa Duterte versus House of Representatives na ang impeachable offense is an act or omission that is committed by a public officer while occupying an impeachable office, hindi naman po siguro puwede doon lang sa one-third mode gamitin iyong ganoong definition, pero pagdating po sa ibang mode ay hindi na po applicable iyong ganoong definition. Your Honors, in fact, in that decision, which I failed to mention earlier, sinabi rin po that the acts or omissions must be done in relation to the office, kasi iyon nga po ang purpose ng impeachment. Next, Your Honors, iyong sinasabi na dapat kahit na may mga prohibitions sa batas, puwede pa rin nating ma-subpoena para ma-examine. Your Honors, it is the wisdom of Congress kaya po may ganoong mga prohibitions against disclosure under the law. Kung papayagan po natin that a court process—even an Impeachment Court—can issue a subpoena to thwart those provisions, it's as if, Your Honor, we are doing judicial legislation here, because a judicial issuance can easily repeal, for the time being, that provision, or at least suspend, Your Honor. Maybe not repeal; properly, the proper word might be suspend that provision of law. I've never heard about that, Your Honors. And then lastly, Your Honors, parati nating sinasabi rin—sorry, two points. Iyong nabanggit na Section 71: I agree po under the Tax Code that Section 71 provides that if the President orders, then nawawala na po iyong confidentiality. However, Your Honors, even given that there's an order from the President, I think we should still think about relevance. Para saan ba ine-examine iyong mga dokumento? Hindi ba para sa impeachment proceeding? Hindi po namin sinasabi na kung sakaling nagkamali man ang Vice President, kung sakaling may paglabag man sa batas ang Vice President noon, ay hindi na puwedeng maparusahan. Marami naman pong paraan. You can file cases against the Vice President for those infractions, pre-term infractions. Pero pag impeachment pong pinag-uusapan, we are limited to what impeachable offenses are. And again, the Supreme Court is clear about that. Your Honors, there's also a repeated citation of the Corona case. But we would just like to point out that the Corona case was tried, decided upon, way before Duterte v. House of Representatives. And, Your Honors, since it was decided before Duterte v. House of Representatives, the Supreme Court was fully cognizant",
+        "confidence": 0.9734843740761481,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00226",
+        "start_seconds": 4902.28,
+        "end_seconds": 4967.44,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "of what happened in the Corona trial, and yet, Your Honors, they imposed these guidelines. In fact, the line itself in Duterte v. House of Representatives is, I quote, 'We clarify the constitutional requirements of impeachment.' At kasama doon iyong nabanggit namin kanina on what constitutes an impeachable offense. And that is very clear. Marahil, sinasabi natin na iyon ay isang obiter. Pero, Your Honors, paano magiging obiter iyon kung iyon mismo ang itinakbo ng desisyon? The fact that the one-year bar was triggered was only the effect of not abiding by the Due Process Clause of the Constitution. And lastly, again, Your Honors, we do not disagree with the prosecution in terms of accountability. Again, no one is above the law, but no one should also be deprived of the protection given by law, Your Honors. Thank you.",
+        "confidence": 0.963467141856318,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00227",
+        "start_seconds": 4969.16,
+        "end_seconds": 5010.67,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Bago mag-recess ang Senator-Judges para mag-usap sa caucus, nais kong sambitin sa record na binabati ko ang magkabilang panig, partikular si Congressman, the Honorable Chel Diokno, gayon din si Atty. Poa, sa isang mahinahon, malumanay, maginoo, at magalang na diskurso at debate kaugnay sa maituturing nating kontrobersyal na isyung ito. At inaasahan ko, iyan din ang magaganap sa caucus at sa aming pagbabalik matapos nito. Senator-Judge Alan Cayetano is recognized.",
+        "confidence": 0.9118991427951391,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00228",
+        "start_seconds": 5011.62,
+        "end_seconds": 5037.66,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Thank you, presiding officer, very eloquently said. Before we go to our favorite subject, recess, the prosecutor was going to say something about Monday witness. Can we hear that? Because if, I don't want to pre-empt, but can we hear that? Because if they're not going to have witnesses on Monday, I have a proposal.",
+        "confidence": 0.9401267327760395,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00229",
+        "start_seconds": 5038.36,
+        "end_seconds": 5042.04,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "I'm sure they will. They were in fact on the verge of announcing it.",
+        "confidence": 0.9300537109375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00230",
+        "start_seconds": 5043.24,
+        "end_seconds": 5078.62,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Because, Mr. President, this is what I wanted to say. We do need the focus. But after hearing both sides, I really have many questions. And I think we should really, dapat mahimay. But after hearing them, I think there's a couple of issues we will agree on. But I'd rather ask my questions on Monday. So if everyone agrees, then we can caucus but allow them to adjourn. Unless someone wants to ask after our caucus.",
+        "confidence": 0.9723101198931277,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00231",
+        "start_seconds": 5079.28,
+        "end_seconds": 5096.02,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "We will hear the lead prosecutor. However, Senator Judge Cayetano, it is the predisposition of the presiding officer, given that we don't have any witnesses today to settle this matter and this issue today. It's the only matter for us to discuss anyway.",
+        "confidence": 0.9679683714874031,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00232",
+        "start_seconds": 5096.12,
+        "end_seconds": 5140.85,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "That's my point, Senator Judge. I'm reviewing the rules. Hindi naman tayo tatagal pag per legal issue kasi nakalagay naman not more than two minutes eh. Meaning, for example, for me, issuing the subpoena is not one issue. Whether the subpoena is to the VP or to her husband is two separate issues. Peso account or dollar account is a separate issue. Whether or not the company's accounts, etc., should be subpoena is a different issue. But for me to decide, I want to ask the prosecution and the defense about that. So medyo mahaba-haba talaga.",
+        "confidence": 0.9645048056271477,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00233",
+        "start_seconds": 5141.53,
+        "end_seconds": 5170.42,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "To answer the senator-judge, we have a precedent that I think if I remember correctly, it involves the good gentleman himself. When then-senate president Enrile made a ruling with respect to the request for the issuance of a subpoena against the former Chief Justice Corona and his family. The gentleman agreed with respect to not issuing the subpoena against the Chief Justice, but disagreed with respect to not issuing with the family. I",
+        "confidence": 0.9497743055555556,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00234",
+        "start_seconds": 5170.42,
+        "end_seconds": 5230.43,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "was correct there. That was the first, the rules of court. Pwede, pagka-son-in-law. But I was overruled by Sen. Enrile. I appealed. The body agreed with him. So even if I was correct, I was overruled. But my point is, Mr. Presiding Officer, that was one simple issue. That's why I didn't argue. I'm saying this seems to be like two subpoenas. But there are several subject matters, AMLA, etc. And remember, this is Article 2. What's our assumption? August or September pa to iti-take up eh. So I'm just saying, so for example, no? We all agree on the ruling. It benefits one side. We should tell them why we ruled that way so that if they file a motion for reconsideration or they go to the Supreme Court, malinaw din yung ruling natin doon. There are substantive issues here. There are some issues as eloquently said by Atty.—Congressman Chel Diokno, no?",
+        "confidence": 0.9438487036253815,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00238",
+        "start_seconds": 5230.81,
+        "end_seconds": 5270.23,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Alangan namang magbago ako ng stand kung pare-pareho iyong issue about, let's say, bank account. So, you know my vote on that, di ba? But my vote on Chief Justice Corona doesn't mean it's the same vote if it was on his spouse and the companies that are under his name. I can tell you honestly right now, I don't know what to vote for—what my vote will be—but I do know that these are two important issues, even the definition of definiteness and the definition of fishing expedition. I want to pursue that with them.",
+        "confidence": 0.9732325236002606,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00238B",
+        "start_seconds": 5270.24,
+        "end_seconds": 5271.75,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "With the permission of Senator-Judge Alan, can we discuss that in caucus?",
+        "confidence": null,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00238C",
+        "start_seconds": 5271.76,
+        "end_seconds": 5283.91,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Yes. So I'm just saying, if we're going to discuss it and maraming magtatanong, do you want them to go home and we can extend till Thursday next week or whatever?",
+        "confidence": null,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00240",
+        "start_seconds": 5283.92,
+        "end_seconds": 5288.73,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "No, not at this time. We can advise them at the appropriate time. Senator-Judge Pangilinan.",
+        "confidence": 0.99609375,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00243",
+        "start_seconds": 5288.87,
+        "end_seconds": 5303.79,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "Just to reiterate the earlier manifestation of the presiding officer, we agreed to go on COPUS after the oral argument. So let us stick to the agreement, Mr. Presiding Officer. Thank you.",
+        "confidence": 0.9607524871826172,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00244",
+        "start_seconds": 5305.59,
+        "end_seconds": 5308.53,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Umaasa pa rin ako na magiging mahinahon yung caucus.",
+        "confidence": 0.9322464554398149,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00245",
+        "start_seconds": 5311.12,
+        "end_seconds": 5330.88,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Chair declares a recess. We will advise the parties as to what time we will most likely finish once we know that we are in the process of winding up. In the meantime, kindly relax and study the next witnesses you will be presenting. Trial is on recess.",
+        "confidence": 0.9781239827473959,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00247",
+        "start_seconds": 10981.04,
+        "end_seconds": 11028.48,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "For the information of the parties as well as the viewing public, in caucus the senator judges agreed to study the matter more given that not everyone has actually completed reading the memoranda given by the parties and submitted by the parties and given that they want more time to look into the complicated issues involved in these two motions for the issuance of subpoena. The Senator-Judges agreed in caucus to decide on the matter on Monday, and that on Monday, Senator-Judges who wish to ask the parties questions will be afforded the time to ask these questions again on both sides.",
+        "confidence": 0.9490647379557292,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00248",
+        "start_seconds": 11030.2,
+        "end_seconds": 11057.29,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Following our rules, it shall be 10 minutes per Senator, not exceeding one hour for each side. At this juncture, we now recognize the lead prosecutor, the Honorable Luistro. As I understand, she intended earlier to make a manifestation with respect to their intended witnesses on Monday. Kindly already exclude Monday, Honorable Luistro.",
+        "confidence": 0.9615382548398191,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00249",
+        "start_seconds": 11057.55,
+        "end_seconds": 11124.74,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Yes, Your Honor. First of all, we would like to acknowledge the positive response of the Honorable Impeachment Court to our previous manifestation. Accordingly, we would like to reiterate that the prosecution will no longer be presenting Attorney Zuleika Lopez as well as Captain Belinda Bello. Reiterating, however, the same concern on redundancy, surplusage, and lack of necessity, the prosecution further manifests that we will not be presenting as well the following witnesses for Article 4. That is threat. Number one, Your Honor, is the Philippine National Police Firearms and Explosives Office representative. The witness intended to testify that the respondent owns firearms, including the high-powered ones, which demonstrate the capacity and capability to execute the threat. On the other hand, Your Honor, it has been shown already that the government took seriously the threat.",
+        "confidence": 0.9671834309895831,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00250",
+        "start_seconds": 11126.61,
+        "end_seconds": 11182.63,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "It prompted the full-scale investigation, including the recommendation to file a criminal complaint. Number two, Your Honor, is Mikhail Flores and Bonz Magsambol. They belong to the press who were present during the November 23 video conference. They will be testifying that they were among the reporters or media persons who were present during the video conference and to the fact that they heard the respondent utter the threat against the President, the First Lady, and the former Speaker. On the other hand, Your Honor, the testimony of Agent Calilung already established that the video is authentic, plus considering, Your Honor, the defense's subsequent admission that the same are authentic videos,",
+        "confidence": 0.9349740346272786,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00251",
+        "start_seconds": 11182.81,
+        "end_seconds": 11183.21,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Your Honor.",
+        "confidence": 0.994384765625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00252",
+        "start_seconds": 11184.05,
+        "end_seconds": 11305.17,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Number three, Your Honor, is Sheriff Abe Andres, the witness intended to testify on the 2011 incident pertaining to the violence allegedly committed by the respondent on the sheriff. On the other hand, Your Honor, during the past proceedings, it has been acknowledged by both parties, particularly It was acknowledged already that the occurrence of this incident of 2011, so we deem it unnecessary as well to present this particular witness. Number four, Your Honor, is the family member of a victim of threats. The witness intended to testify on the effect, the gravity, and the seriousness of the threat allegedly committed by the respondent. On the other hand, Your Honor, Attorney Lotoc already testified that threat is a private crime and its prosecution does not depend on the complaint participation and even the subjective feeling of the victim including his families. Finally, Your Honor, the psychiatrist, the witness intended to testify on the respondent's state of mind, The nature of the violence in the statement made as well as the capacity and capability to actually execute the threat. On the other hand, Your Honor, both parties have sufficiently established already the circumstances surrounding the statements made by the respondent in the authenticated video. The same is true with respect to the respondent's own. Subsequent confirmation of those statements as well as the testimonies already presented.",
+        "confidence": 0.9583281176631782,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00253",
+        "start_seconds": 11306.91,
+        "end_seconds": 11340.94,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Your Honor, considering that these five witnesses are included in our pre-trial order, in the pre-trial order, Your Honor, we respectfully withdraw their names among the prosecution's witnesses for Article 4 threat. This withdrawal, Your Honor, renders Atty. Melvin Matibag, the NBI Director, as our last witness for threat, who will be testifying this coming Monday, Tuesday,",
+        "confidence": 0.9419683763223101,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00256",
+        "start_seconds": 11344.04,
+        "end_seconds": 11406.82,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Your Honor. Likewise, Your Honor, the prosecution acknowledges the five-day notice rule. However, considering that the decision to forego the testimony of Atty. Zuleika Lopez, as well as that of Capt. Belinda Bello, came only after the conclusion of the testimony of Atty. Lotoc. Plus, considering, Your Honor, the earlier manifestation which will render Atty. Matibag the last witness for threat, we would like to beg the kind indulgence of the honorable impeachment court to note our next witnesses. This will be in support of Article 1. Confidential Fund. And if we will be presenting Atty. Melvin Matibag on Tuesday, then this means that the first witness for Confidential Fund will be presented on July 22, that is Wednesday.",
+        "confidence": 0.9261136796739368,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00258",
+        "start_seconds": 11407.32,
+        "end_seconds": 11417.84,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Nevertheless, Your Honor, we are requesting that we be allowed to request for the issuance of subpoena for our first three witnesses for Confidential Fund.",
+        "confidence": 0.9835205078124999,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00259",
+        "start_seconds": 11419.39,
+        "end_seconds": 11448.38,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "That includes Marivic Pareja of the Legislative Archives, Museum Management Service of the House of Representatives, and also Your Honor, two LandBank employees, including Violeta Constantino, former branch manager of LandBank Shaw Boulevard Branch, and Nenita Camposano, former branch manager, LandBank DepEd Branch.",
+        "confidence": 0.913192085597826,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00260",
+        "start_seconds": 11452.71,
+        "end_seconds": 11458.89,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "To clarify, Hon. Luistro, this is for the issuance of subpoena ad testificandum only?",
+        "confidence": 0.9020715441022601,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00261",
+        "start_seconds": 11461.84,
+        "end_seconds": 11470.46,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Your Honor, the request is for the issuance of both subpoena ad testificandum and subpoena duces tecum.",
+        "confidence": 0.970370423560049,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00262",
+        "start_seconds": 11472.38,
+        "end_seconds": 11494.62,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Kindly submit, in writing the motion, in order to be able to specify the documents you want to be the subject matter of the subpoena duces tecum. We will await it within the afternoon, even after adjournment, so that we can sign the subpoena by today or tomorrow, the latest.",
+        "confidence": 0.9886914062499998,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00263",
+        "start_seconds": 11495.26,
+        "end_seconds": 11509.96,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "May I inform the Honorable Impeachment Court that the list or the request for subpoena at Testificandum Indusis Deco, the written ones, have been submitted already to the Honorable Impeachment Court, Your Honor. I",
+        "confidence": 0.9643937653186275,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00264",
+        "start_seconds": 11509.96,
+        "end_seconds": 11511.98,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "stand corrected. Yes, I have it with me now.",
+        "confidence": 0.9998914930555556,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00265",
+        "start_seconds": 11512.3,
+        "end_seconds": 11534.84,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Your Honor, may I just enter some correction with respect to the testimony of Atty. Lotoc to the act of threat or grave threat. The same is a public crime which does not need a private complainant and its prosecution does not depend on the complaint participation.",
+        "confidence": 0.9302760185079372,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00266",
+        "start_seconds": 11535.54,
+        "end_seconds": 11606.07,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Counsel, before going there, let the Presiding Officer act on these requests for issuance of subpoena first. The Presiding Officer hereby grants the request for issuance of subpoena ad testificandum to Ms. Marivic Pareja, to appear on July 21 and 22; to Ms. Violeta Constantino and Nenita Camposano, also subpoena ad testificandum to appear on July 21 and 22; and subpoena duces tecum to Ms. Lynette Ortiz of the Land Bank of the Philippines, to appear on July 21 and 22. The afore-stated requests for subpoena are hereby granted. The Clerk of Court is directed to prepare the corresponding subpoena ad testificandum or duces tecum, as the case may be, and for the Sergeant-at-Arms to be instructed to serve the foregoing subpoenas. As you were saying, Honorable—",
+        "confidence": 0.9042638142903647,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00267",
+        "start_seconds": 11606.08,
+        "end_seconds": 11621.54,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "May I just manifest, Your Honor, that with respect to the testimony of Atty. Lotoc, threat is a public crime and therefore its prosecution does not depend on the complaint, participation, and even the subjective feeling of the victim, including that of his family.",
+        "confidence": 0.2122802734375,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00269",
+        "start_seconds": 11622.25,
+        "end_seconds": 11654.07,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "what is this about um i think if i remember correctly um um representative luistro the presiding officer stated that also yesterday that there are only certain private crimes that require um the complaint of uh of the victim and these mostly are um Private and sexual crimes such as concubinage, adultery, seduction, abduction, rape, and acts of lasciviousness. These are the only private crimes that require the signature or complaint of the private complainant.",
+        "confidence": 0.9567670355902778,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00270",
+        "start_seconds": 11654.46,
+        "end_seconds": 11668.64,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "We understand that, Your Honor, and we in fact submit to the position of the Honorable Impeachment Court, except that this representation misstated the supposed public crime into a private crime, Your Honor.",
+        "confidence": 0.9841974431818182,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00271",
+        "start_seconds": 11671.11,
+        "end_seconds": 11671.71,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Noted.",
+        "confidence": 0.9990234375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00272",
+        "start_seconds": 11672.05,
+        "end_seconds": 11672.83,
+        "speaker": "Sheila C. Sison",
+        "text": "Your Honor.",
+        "confidence": 0.99951171875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00273",
+        "start_seconds": 11674.76,
+        "end_seconds": 11679.48,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Before recognizing the counsel for respondents, Senator Judge Aquino is recognized.",
+        "confidence": 0.8642578125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00276",
+        "start_seconds": 11679.98,
+        "end_seconds": 11704.36,
+        "speaker": "Sen. Paolo Benigno “Bam” Aquino",
+        "text": "Just a point of order, Mr. Presiding Officer. With the presentation of the articles and the witnesses, we're tackling all of the articles from the prosecution and then all of the articles from the defense? Or initially, maybe I was mistaken, I thought we would tackle for article, prosecution, then defense, prosecution, then defense. Is it? All articles, then all articles, Mr. Presiding Officer?",
+        "confidence": 0.964263916015625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00277",
+        "start_seconds": 11705.32,
+        "end_seconds": 11707.98,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Not a point of order, but perhaps a clarification.",
+        "confidence": 0.9284125434027778,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00279",
+        "start_seconds": 11708.12,
+        "end_seconds": 11725.64,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "But the answer is yes. We will first finish the presentation of the prosecution for all articles before listening and allowing the respondent to present their evidence in chief for all the articles as well. Thereafter, we shall decide by article.",
+        "confidence": 0.986431884765625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00280",
+        "start_seconds": 11727.71,
+        "end_seconds": 11734.25,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "After the formal offer of evidence by both parties shall have been made and the final arguments shall have been made of record as well.",
+        "confidence": 0.90736328125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00282",
+        "start_seconds": 11734.33,
+        "end_seconds": 11734.37,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "All right.",
+        "confidence": 0.9970703125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00283",
+        "start_seconds": 11734.43,
+        "end_seconds": 11735.81,
+        "speaker": "Sen. Paolo Benigno “Bam” Aquino",
+        "text": "Salamat, Mr. Presiding Officer.",
+        "confidence": 0.80224609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00284",
+        "start_seconds": 11736.07,
+        "end_seconds": 11738.95,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Council, for the respondent is recognized. What is your pleasure, ma'am?",
+        "confidence": 0.9361165364583334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00285",
+        "start_seconds": 11739.77,
+        "end_seconds": 11741.25,
+        "speaker": "Sheila C. Sison",
+        "text": "Good afternoon, Your Honors. Good",
+        "confidence": 0.864208984375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00286",
+        "start_seconds": 11741.25,
+        "end_seconds": 11741.67,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "afternoon, ma'am.",
+        "confidence": 0.9991861979166666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00287",
+        "start_seconds": 11741.73,
+        "end_seconds": 11777.51,
+        "speaker": "Sheila C. Sison",
+        "text": "I just have a few—before I express some statement with respect to the discourse that we just heard from the lead prosecutor, may I just clarify, because I don't know if I'm mistaken, but she did mention that they are now withdrawing five witnesses under Article 4, namely the Philippine National Police Firearms and Explosives Office representative, Mr. Flores, Mr. Magsambol, the sheriff, and the psychiatrist.",
+        "confidence": 0.9603959625842523,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00288",
+        "start_seconds": 11777.52,
+        "end_seconds": 11781.31,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "And one more—the relative of the family of a victim. That would make it six.",
+        "confidence": 0.9619140625,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00294",
+        "start_seconds": 11781.59,
+        "end_seconds": 11816.26,
+        "speaker": "Sheila C. Sison",
+        "text": "Then that's clarified, Your Honor, because I also heard the lead prosecutor say that Atty. Melvin Matibag will be their final witness for Article 4, and I had neglected to consider the family member listed as one of the reserve witnesses. Thank you for the clarification, Your Honor. But on another matter, this is not an objection, just a statement or a manifestation with the kind indulgence of this honorable Court and the Senator-Judges.",
+        "confidence": 0.8670066704875544,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00295",
+        "start_seconds": 11818.1,
+        "end_seconds": 11849.85,
+        "speaker": "Sheila C. Sison",
+        "text": "Yesterday at the conclusion of the hearing, we have heard A manifestation from the good lady, Atty. Kapunan, with some suggestion on how to speedily proceed with the rest of the presentation of the prosecution for Article 4. And I think towards the end of her speech, which was quite",
+        "confidence": 0.921251220703125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00296",
+        "start_seconds": 11852.18,
+        "end_seconds": 11887.23,
+        "speaker": "Sheila C. Sison",
+        "text": "Lengthy was really just essentially informing this court about the fact that they will no longer present Atty. Lopez whom they had requested subpoena for as well as Ms. Belinda Bello. But my point is I'm not objecting to the good counsel's manifestation or even the manner by which she delivered it yesterday or the lead prosecutor's manifestations today. Only that my concern is those manifestations are almost always accompanied with lengthy discourse containing",
+        "confidence": 0.9345602774405264,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00297",
+        "start_seconds": 11888.83,
+        "end_seconds": 11908.630000000001,
+        "speaker": "Sheila C. Sison",
+        "text": "Conclusions of law and facts that in reality only this impeachment court can really determine. Now, why is this a concern for the defense? Because this affects the fairness and balance of this impeachment court and the way it would perceive whatever manifestations or expressions of sentiments or",
+        "confidence": 0.9571331871880425,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00298",
+        "start_seconds": 11911.01,
+        "end_seconds": 11959.0,
+        "speaker": "Sheila C. Sison",
+        "text": "Discourses that the counsel for both parties will deliver before this Court and before the public. Naririnig po tayo ng taong-bayan, at anuman ang sabihin ng ating mga kagalang-galang na mga miyembro—officers or members of the Bar who also are officers of the Court—and we all know that we are before the Impeachment Court, and therefore we should try evidence and not advocate for the conclusions or the positions that we may have already made even before we went to this trial. And so I'm just expressing a concern on behalf of the defense. And for the guidance of both—this goes for both parties—if the only intent is just",
+        "confidence": 0.9228792712463075,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00299",
+        "start_seconds": 11959.0,
+        "end_seconds": 11986.04,
+        "speaker": "Sheila C. Sison",
+        "text": "to withdraw witnesses, then perhaps it would better serve the purpose of aiding the speedy disposition of this case if that fact alone will be the only thing mentioned, without factual assertions or conclusions of facts or even interpretation. I think that would be more fair for everyone and for the guidance of the public and this Court. That's all, Your Honor. Thank you for your indulgence.",
+        "confidence": 0.7803713281949362,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00300",
+        "start_seconds": 11986.04,
+        "end_seconds": 11986.94,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "I comment, Your Honor?",
+        "confidence": 0.9677734375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00301",
+        "start_seconds": 11987.41,
+        "end_seconds": 11995.79,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "No need, counsel. Let the chair react to the statements made by lead counsel for the respondent.",
+        "confidence": 0.8807803883272058,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00302",
+        "start_seconds": 11997.6,
+        "end_seconds": 12018.08,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "The presiding officer took the statements as akin to a tender offer of excluded evidence, very similar to that. Although we are not yet at that stage, although evidence has not yet been excluded, the presiding officer took it as that.",
+        "confidence": 0.9731028487042683,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00303",
+        "start_seconds": 12021.34,
+        "end_seconds": 12053.6,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Therefore, what is your pleasure? I will give it to the counsel for respondent. Should you decide not to call witnesses in your witness list, do you want the same privilege of being able to make a tender, meaning an explanation of why you won't be calling these witnesses? If not, given the fact that it was given already to the counsel for the, rather to the prosecutors, or we will simply remind Both parties to cease from doing so henceforth.",
+        "confidence": 0.9581419391396605,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00304",
+        "start_seconds": 12054.08,
+        "end_seconds": 12054.76,
+        "speaker": "Sheila C. Sison",
+        "text": "I",
+        "confidence": 0.98828125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00305",
+        "start_seconds": 12054.76,
+        "end_seconds": 12056.32,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "give you the Equal Opportunity Council.",
+        "confidence": 0.9758707682291666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00306",
+        "start_seconds": 12056.68,
+        "end_seconds": 12130.95,
+        "speaker": "Sheila C. Sison",
+        "text": "Thank you, Your Honor. What is your pleasure? Let me just clarify, Your Honor. With respect to the Presiding Officer's statement on the Chair taking the prosecution's manifestations as tendered excluded evidence, we respectfully disagree, because if this is a tender of excluded evidence, as the Presiding Officer had said, number one, there's no excluded evidence; number two, they never offered it in the first place; and number three, they didn't, in fact, withdraw the presentation of these five, six, or seven remaining witnesses that they listed in their pretrial brief. Number two, Your Honor, I'm not actually asking for any special treatment or privilege or even the same amount of time that was given to the lengthy manifestations and discourses by members of the prosecution. All I'm asking is if the parties may be guided from making conclusions of law that, in fact, really just advocate the position, because I think we",
+        "confidence": 0.9378419865732608,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00307",
+        "start_seconds": 12130.96,
+        "end_seconds": 12168.97,
+        "speaker": "Sheila C. Sison",
+        "text": "all agree that at no point during this trial will the prosecution and defense probably say, you know, I agree with you on this point of evidence or on this point of law. I think mahalagang maintindihan iyon because the prosecution clearly has taken a side, the defense has taken a side, and we are advocating for totally divergent views and opinions. All I'm asking, Your Honor, is that if the intent truly is to aid this Court in the speedy disposition of this case in a fair and balanced manner, just so also with the consideration that we are being watched by",
+        "confidence": 0.9199746515333038,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00308",
+        "start_seconds": 12170.65,
+        "end_seconds": 12198.27,
+        "speaker": "Sheila C. Sison",
+        "text": "by the people, iyong ating mga mamamayan na sa tingin ko gusto rin nilang matuto mula dito sa paglilitis na ito, sapagkat sila ay interesado rin sa kung paano ba pinapagana ang batas sa bayang ito, at kung paano pinatutupad iyong mga karapatan ng mga tao, at kung paano binibigyan ng pantay na halaga iyong prosekusyon at depensa.",
+        "confidence": 0.9339662439682904,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00308B",
+        "start_seconds": 12198.28,
+        "end_seconds": 12213.95,
+        "speaker": "Sheila C. Sison",
+        "text": "All I'm asking is, if the intent is just to say we're withdrawing, then that's it. State the intent, without any conclusions, Your Honor, because conclusions really are just for the Court to make and not for either of the parties. Thank you, Your Honor.",
+        "confidence": null,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00309",
+        "start_seconds": 12213.96,
+        "end_seconds": 12214.04,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "So noted.",
+        "confidence": 0.42310047149658203,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00310",
+        "start_seconds": 12214.05,
+        "end_seconds": 12221.53,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "As the Court said, it is akin to and not exactly a tender offer. Therefore, the Court will now remind both parties to kindly limit.",
+        "confidence": 0.9427734375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00311",
+        "start_seconds": 12223.21,
+        "end_seconds": 12242.77,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Any such manifestations on the withdrawal of their witnesses to kindly limit it to the withdrawal of such witnesses, and it applies to both sides, both the prosecution and the respondent side, should that time come on the part of the respondent. So ordered. Any other matters to be taken up?",
+        "confidence": 0.9395919500612745,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00312",
+        "start_seconds": 12243.31,
+        "end_seconds": 12246.54,
+        "speaker": "Sheila C. Sison",
+        "text": "Thank you, Your Honor. None from the defense, Your Honor.",
+        "confidence": 0.994482421875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00313",
+        "start_seconds": 12247.43,
+        "end_seconds": 12248.49,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Quick manifestation,",
+        "confidence": 0.997314453125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00314",
+        "start_seconds": 12248.77,
+        "end_seconds": 12249.369999999999,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Your Honor. I'm",
+        "confidence": 0.9837239583333334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00315",
+        "start_seconds": 12249.369999999999,
+        "end_seconds": 12250.45,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "sorry? Quick",
+        "confidence": 0.999267578125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00316",
+        "start_seconds": 12250.45,
+        "end_seconds": 12251.57,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "manifestation, Your Honor.",
+        "confidence": 1.0,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00317",
+        "start_seconds": 12252.01,
+        "end_seconds": 12253.31,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Just to",
+        "confidence": 0.655517578125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00318",
+        "start_seconds": 12253.31,
+        "end_seconds": 12255.33,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "respond to the manifestation of the defense,",
+        "confidence": 0.97705078125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00319",
+        "start_seconds": 12256.03,
+        "end_seconds": 12257.83,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Nice ko",
+        "confidence": 0.2472381591796875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00320",
+        "start_seconds": 12257.83,
+        "end_seconds": 12290.28,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "lamang pong ipaalala sa ating mga kababayan. This is a constitutional process. This is of paramount importance. And therefore, providing the reasons for the withdrawal of these witnesses need to be communicated as well. To the viewing public, Your Honor, Kailangan pong maintindihan ng ating mga kababayan ang naging hakbang ng prosekusyon kung bakit wini-withdraw ang mga pangalan ng ibang testigo para sa Articulo 4 and that is a threat. That is for the record only, Your Honor.",
+        "confidence": 0.9608427281118145,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00321",
+        "start_seconds": 12290.5,
+        "end_seconds": 12295.15,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Noted. Court already made a ruling. Senator Judge Gaetano?",
+        "confidence": 0.9654405381944444,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00322",
+        "start_seconds": 12298.5,
+        "end_seconds": 12420.81,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "Mr. Senate President, Mr. Presiding Officer, I agree with you both and there's a solution to that. Let me start by I agree with the defense. Actually, I was going to stand up yesterday, but with all due respect to a good lawyer, Atty. Kapunan, and to the fact that my seatmate, Senator Migs, was very proud of her saying that she's his ninang, I did not stand up anymore. The problem with explaining why you're withdrawing is actually you are feeding to the Court something they did not testify to, and then something the defense cannot object to. So, and if it is a proffer or a tender, it is clear to everyone, and exclude yon, kaya ako nga lang nilalagay, but tama naman si Senate Press, si, um, presiding officer, it's akin, it's not the same, but, but dun kasi sa tender, So it's very clear to us it's unacceptable. So after the very eloquent manifestation of Atty. Kapunan yesterday, if I was a layman, I would think what you said, whether it was the agent John Mark, whether it was the second witness at NBI, was true. Kasi parang may summation. The same thing with you, the very able lead prosecutor and chairperson of the House Committee on Justice, diba? Having said that, I agree with you, this is an impeachment court. People have to know why. But I think we've been very lenient. No one except the spokesperson has spoken about the subjudice rule. So you can actually explain it in the presscon afterwards. If I may, no? Because nga, I was also observing yesterday, and",
+        "confidence": 0.9408708972695433,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00324",
+        "start_seconds": 12420.81,
+        "end_seconds": 12439.65,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "I was saying, eh kuha ko yung defense, dadagdagan ko na yung witness ngayon, at every time iwi-withdraw, may chance akong i-explain bakit iwi-withdraw, then reinforce kung ano yung sinabi nung before. So I understand you completely, ma'am. People have to understand why it's not a sign of weakness. In fact, it's",
+        "confidence": 0.91383056640625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00326",
+        "start_seconds": 12439.65,
+        "end_seconds": 12458.89,
+        "speaker": "Sen. Alan Peter Cayetano",
+        "text": "a sign that you've achieved your position. But we can do that in the press cons and other forums. But if you do it kasi here, walang chance yung prosecution to rebut that. Or if they do, it's one rebutting the other rather than the witness standing. So if I may offer that solution, Mr. Presiding Officer.",
+        "confidence": 0.9832044328962054,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00327",
+        "start_seconds": 12459.42,
+        "end_seconds": 12469.08,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "As ruled by the Presiding Officer, henceforth, that will no longer be allowed. Senator Judge Pangilin, before Senator Judge Pia Cayetano.",
+        "confidence": 0.8996872674851192,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00328",
+        "start_seconds": 12469.3,
+        "end_seconds": 12486.16,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "It's just a very quick manifestation. I was actually listening to the ruling of the Presiding Officer and initially I thought he would rule that the defense would likewise be given the opportunity to speak up.",
+        "confidence": 0.9717339409722222,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00329",
+        "start_seconds": 12487.16,
+        "end_seconds": 12541.75,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "and, at some point, when they likewise have the opportunity to withdraw witnesses, I would like to think, Mr. Presiding Officer, that would have been the better approach because this is an Impeachment Court. We are not bound by technical rules, unlike court proceedings where lawyers are familiar and would really want, you know, to make it as orderly and as technical as possible. But again, I will yield to the ruling of the Chair. But just a reminder to everyone that technical rules of evidence do not apply strictly in impeachment court proceedings.",
+        "confidence": 0.011490429441134134,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00334",
+        "start_seconds": 12541.76,
+        "end_seconds": 12575.46,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "Precisely because nakikinig ang taong-bayan. Pagka-technical masyado, sa halip na lumalabas ang bawat punto. Hindi ko sinasabing hindi dapat magsalita ang defense. In fact, iyan ang original or initial suggestion at mungkahi ng ating Presiding Officer, na kung gustong magsalita ng defense din para tapatan iyong nabanggit ng prosecution, mas maganda sana. But I will yield. I just wanted that manifested, then I will yield to the ruling of the Chair.",
+        "confidence": 0.7458365304129464,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00340",
+        "start_seconds": 12575.46,
+        "end_seconds": 12605.51,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "We thank the good gentleman for his understanding and magnanimity. Given that counsel for respondent did not want the same benefit, it also saves on the Court's time. And as pointed out by Senator-Judge Alan, these words can be best expressed outside this Court so that we can manage the Court's time better, given that both parties have their respective spokespersons to discuss these matters. Counsel for respondent, you wanted to be recognized?",
+        "confidence": 0.9824521019345239,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00346",
+        "start_seconds": 12605.52,
+        "end_seconds": 12607.03,
+        "speaker": "Sheila C. Sison",
+        "text": "Yes, Your Honor.",
+        "confidence": 0.7346343994140625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00346B",
+        "start_seconds": 12607.04,
+        "end_seconds": 12630.63,
+        "speaker": "Sheila C. Sison",
+        "text": "May I just, very briefly, so that I won't take any more of the precious time of the Court and everyone who's here, with just a brief response to the lead prosecutor's counter-manifestation that this is because this is a constitutional procedure. We understand that when we—",
+        "confidence": null,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00347",
+        "start_seconds": 12630.64,
+        "end_seconds": 12655.53,
+        "speaker": "Sheila C. Sison",
+        "text": "came here, mulat ang aming mga mata na pumunta rito at alam namin na ito ay isang constitutional mechanism. Kaya nga, iyong sinasabi ko kanina at ang aking kahilingan lamang ay nakasandig doon sa prinsipyong iyon: na dahil ito ay isang constitutional mechanism, kailangan siguraduhin natin na balanse at patas iyong lahat ng",
+        "confidence": 0.9244357392282196,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00349",
+        "start_seconds": 12655.53,
+        "end_seconds": 12707.45,
+        "speaker": "Sheila C. Sison",
+        "text": "magaganap. At hindi ko—I find it difficult to understand how manifestations containing assertions that are laden with conclusions and personal advocacy, and obviously one-sided advocacy of either party, would help the Court arrive at the proper determination of whether the respondent is guilty or not guilty of the charges contained in the Articles of Impeachment. Hindi rin po ito in response po to our good Senator Pangilinan. Hindi po technical rules ang ini-invoke ko rito, kundi iyong—actually, it's substantive dahil ito ay nakasandig sa ating Saligang Batas. Salamat po.",
+        "confidence": 0.9742170061383929,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00350",
+        "start_seconds": 12707.46,
+        "end_seconds": 12711.16,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Noted. Senator-Judge Pia Cayetano is recognized. What is your pleasure, ma'am?",
+        "confidence": 0.25537109375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00352",
+        "start_seconds": 12717.65,
+        "end_seconds": 12727.09,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "I would just like to support the ruling of the presiding officer, cautioning both prosecution and defense.",
+        "confidence": 0.9735322840073529,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00353",
+        "start_seconds": 12729.2,
+        "end_seconds": 12748.37,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "I too noticed the esteemed Atty. Lorna Kapunan's lengthy explanation on the withdrawal of the witnesses. But because she is Lorna Kapunan, nakikinig ako in the same way na even if I don't know some of your names, makikinig ako sa inyo. Rest assured,",
+        "confidence": 0.9217384101808532,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00355",
+        "start_seconds": 12748.67,
+        "end_seconds": 12789.33,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "I think it's her first time to also stand up so I was being very patient in listening to her but I did take note of some statements that sabi ko parang conclusions na to or excessive explanation of of her observations, which I didn't think were proper. So, okay naman, okay na yun, tapos na yun, pero moving forward nga, Mr. Presiding Officer, I agree with you. And I just need to put this on record, kasi nga, sinasabing huwag tayo masyadong technical, pero, to a certain extent, kailangan naman ho natin tingnan naman yung rules natin, kasi,",
+        "confidence": 0.9434789021809896,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00357",
+        "start_seconds": 12793.01,
+        "end_seconds": 12803.45,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "So, I want to read into the record. This might be a paraphrase na nung sinabi niya ha, kasi sinasummarize namin ng team ko yung statements.",
+        "confidence": 0.9250768229166666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00358",
+        "start_seconds": 12805.06,
+        "end_seconds": 12839.92,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Anyway, hindi ko na mahanap sa phone ko dahil kahapon pa iyon. But I recall—and feel free to correct me, but this is a minor thing naman—parang dinescribe niya kung bakit: why won't Atty. Lopez go to court? Because the defense already showed the video where he was crying and complaining. So that's an observation from Atty. Kapunan. She's not the witness. She shouldn't be the one telling the judges that he was crying and complaining.",
+        "confidence": 0.8938603986773573,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00369",
+        "start_seconds": 12839.93,
+        "end_seconds": 12858.7,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Trabaho po iyon ng abogado na i-elicit iyon doon sa witness na mape-presenta. So iyon po iyong reason kung bakit hindi puwede iyon. We're not being technical, but—",
+        "confidence": 0.1721715529759725,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00399",
+        "start_seconds": 12858.71,
+        "end_seconds": 12920.76,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "neither of the lawyers here are allowed to stand up and be the one to explain what you are experiencing. That is the job for the witness to do. Your job is to ask the witness questions. Iyon iyon. So to be clear, it's not being technical, but it's making sure that magawa ninyo iyong trabaho ninyo nang maayos at magtanong tayo nang maayos sa witnesses. Kung hindi na pala siya papupuntahin, no need na to say kung ano iyong na-observe, kasi nga hindi na sa inyo iyon as lawyers. Iyon lang naman po. Again, my utmost respect for Atty. Kapunan and to all of you. You're all doing a great job. Like I said, once in a while, we will be called out—even I. I tell the Presiding Officer, call me out pag sumobra ako, pag medyo nag-exceed tayo ng authority natin, because we're all just trying to do our jobs here. So thank you again, everyone, for your time and patience. Thank you, Presiding Officer.",
+        "confidence": 0.9336142133372698,
+        "editorial_flags": [
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00400",
+        "start_seconds": 12921.76,
+        "end_seconds": 12947.19,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Chair, in humility, accepts the presiding officer's lapses in this regard, as twice pointed out by Senator-Judge Pia Cayetano already. The chair will be more mindful in the future, but I also ask the parties to also be equally. In case the Chair forgets or is unable to point it out on the part of either party, should this happen again. Any other points?",
+        "confidence": 0.9430304111578527,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00401",
+        "start_seconds": 12947.23,
+        "end_seconds": 12947.71,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "One",
+        "confidence": 0.11328125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00402",
+        "start_seconds": 12947.71,
+        "end_seconds": 12961.53,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "last manifestation from the Honorable Luistro without prejudice to another manifestation from Council for Responding.",
+        "confidence": 0.8766167534722221,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00403",
+        "start_seconds": 12964.33,
+        "end_seconds": 13046.86,
+        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "The Honorable Impeachment Court has been very much fair in as far as this issue is concerned. As a matter of fact, the presiding officer even asked the lead defense counsel if she would like to avail of the same opportunity to explain the reason for the withdrawal in the event the defense would be withdrawing likewise their witnesses. Also, Your Honor, may I just add, and with all due respect to honorable Senator Pia Cayetano, the intention of the prosecution is never to abuse the time of the impeachment court. It is never to influence the senator judges, neither is it to influence the viewing public. The explanation was a statement of the position of the prosecution and of course it is anticipated that the same is adverse to the other party because it is apparent. That we are in the prosecution side while the opposing counsel is on the defense side but nonetheless let me reiterate and put on record your honor the purpose is not to influence the senator judges neither is it to influence the viewing public it is only a statement of position of the prosecution for withdrawing the names of the prosecution's witnesses your honor",
+        "confidence": 0.9255463571259471,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00406",
+        "start_seconds": 13046.86,
+        "end_seconds": 13049.52,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "noted and the ruling of the court stands on the matter",
+        "confidence": 0.9218084161931818,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00407",
+        "start_seconds": 13050.29,
+        "end_seconds": 13082.47,
+        "speaker": "Sheila C. Sison",
+        "text": "Council correspondent. Brief counter-manifestation, Your Honor. I thank the lead prosecutor for mentioning that the same courtesy was earlier offered to the defense with respect to providing lengthy discourses or manifestations before this court. But I think the point essentially that I'm trying to make is that we're not Asking the court for any advantage. What we're merely asking is fairness. That's all, Your Honor. Thank you.",
+        "confidence": 0.9377560110653148,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00408",
+        "start_seconds": 13083.42,
+        "end_seconds": 13088.92,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "Same answer noted and the court stands by its ruling. Any other matters to be taken up from the senator judges?",
+        "confidence": 0.8971063523065477,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00409",
+        "start_seconds": 13091.25,
+        "end_seconds": 13100.07,
+        "speaker": "Sen. Francis “Chiz” Escudero",
+        "text": "There being none, no other business to be taken up, the trial is hereby adjourned until 2 p.m. of Monday, July 20, 2026.",
+        "confidence": 0.9922383626302084,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00410",
+        "start_seconds": 13100.81,
+        "end_seconds": 13101.49,
+        "speaker": "Sheila C. Sison",
+        "text": "Thank you.",
+        "confidence": 0.998046875,
+        "editorial_flags": []
+      }
+    ]
+  }
+}
