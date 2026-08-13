@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:44:11+08:00",
+  "generated_at": "2026-08-13T19:01:24+08:00",
   "complete_artifacts_only": true,
   "sessions": [
     {
@@ -25,6 +25,24 @@
       "youtube_id": "qRMdgle9yR8",
       "revision": 3,
       "segments": 1247,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 11,
+      "youtube_id": "gQJEErNUqn8",
+      "revision": 4,
+      "segments": 2145,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 10,
+      "youtube_id": "GrQeE6SB1YY",
+      "revision": 3,
+      "segments": 1925,
       "status": "Reviewed working draft",
       "digest": true,
       "podcast": true
