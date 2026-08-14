@@ -1,66 +1,13 @@
 {
-  "generated_at": "2026-08-15T02:17:41+08:00",
+  "generated_at": "2026-08-15T02:21:36+08:00",
   "complete_artifacts_only": true,
+  "through_date": "20260722",
   "sessions": [
     {
-      "id": 14,
-      "youtube_id": "fq9R5ojvVko",
+      "id": 6,
+      "youtube_id": "bicNiCAI3fQ",
       "revision": 2,
-      "segments": 417,
-      "status": "Reviewed working draft",
-      "digest": true,
-      "podcast": true
-    },
-    {
-      "id": 13,
-      "youtube_id": "DHXtpcWqORo",
-      "revision": 3,
-      "segments": 1303,
-      "status": "Reviewed working draft",
-      "digest": true,
-      "podcast": true
-    },
-    {
-      "id": 12,
-      "youtube_id": "qRMdgle9yR8",
-      "revision": 3,
-      "segments": 1247,
-      "status": "Reviewed working draft",
-      "digest": true,
-      "podcast": true
-    },
-    {
-      "id": 11,
-      "youtube_id": "gQJEErNUqn8",
-      "revision": 4,
-      "segments": 2145,
-      "status": "Reviewed working draft",
-      "digest": true,
-      "podcast": true
-    },
-    {
-      "id": 10,
-      "youtube_id": "GrQeE6SB1YY",
-      "revision": 3,
-      "segments": 1925,
-      "status": "Reviewed working draft",
-      "digest": true,
-      "podcast": true
-    },
-    {
-      "id": 9,
-      "youtube_id": "S_uQFF-0ciM",
-      "revision": 2,
-      "segments": 215,
-      "status": "Reviewed working draft",
-      "digest": true,
-      "podcast": true
-    },
-    {
-      "id": 8,
-      "youtube_id": "mHvkhjHnikw",
-      "revision": 2,
-      "segments": 478,
+      "segments": 941,
       "status": "Reviewed working draft",
       "digest": true,
       "podcast": true
@@ -75,28 +22,64 @@
       "podcast": true
     },
     {
-      "id": 6,
-      "youtube_id": "bicNiCAI3fQ",
+      "id": 8,
+      "youtube_id": "mHvkhjHnikw",
       "revision": 2,
-      "segments": 941,
+      "segments": 478,
       "status": "Reviewed working draft",
       "digest": true,
       "podcast": true
     },
     {
-      "id": 4,
-      "youtube_id": "Lc8Q0cm-LZ0",
+      "id": 9,
+      "youtube_id": "S_uQFF-0ciM",
       "revision": 2,
-      "segments": 934,
+      "segments": 215,
       "status": "Reviewed working draft",
       "digest": true,
       "podcast": true
     },
     {
-      "id": 3,
-      "youtube_id": "gvzDlgWuZ04",
+      "id": 10,
+      "youtube_id": "GrQeE6SB1YY",
+      "revision": 3,
+      "segments": 1925,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 11,
+      "youtube_id": "gQJEErNUqn8",
+      "revision": 4,
+      "segments": 2145,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 12,
+      "youtube_id": "qRMdgle9yR8",
+      "revision": 3,
+      "segments": 1247,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 13,
+      "youtube_id": "DHXtpcWqORo",
+      "revision": 3,
+      "segments": 1303,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 14,
+      "youtube_id": "fq9R5ojvVko",
       "revision": 2,
-      "segments": 1724,
+      "segments": 417,
       "status": "Reviewed working draft",
       "digest": true,
       "podcast": true
