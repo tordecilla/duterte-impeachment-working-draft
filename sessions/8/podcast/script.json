@@ -1,0 +1,301 @@
+{
+  "title": "Audio overview — July 20, 2026",
+  "description": "A source-linked English audio overview of the day's proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "id": "P001",
+      "kind": "intro",
+      "heading": "Introduction",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for July 20, 2026. This is a working reference, not an official Senate record.",
+      "citations": []
+    },
+    {
+      "id": "P002",
+      "kind": "overview",
+      "heading": "The big picture",
+      "text": "The sitting centered on prosecution requests for bank, Anti-Money Laundering Council, and tax records tied to Article 2. The impeachment court granted substantial parts of the requests, but the records were not yet evidence and the orders imposed significant limits.",
+      "citations": [
+        {
+          "segment_id": "S00116",
+          "start_seconds": 1973.6100000000001,
+          "clock": "00:32:53",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00642",
+          "start_seconds": 11344.47,
+          "clock": "03:09:04",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00659",
+          "start_seconds": 12384.71,
+          "clock": "03:26:24",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00708",
+          "start_seconds": 12789.25,
+          "clock": "03:33:09",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "kind": "finding",
+      "heading": "The parties' positions",
+      "text": "The prosecution argued that the records were definite and relevant and that production would not decide admissibility. The defense opposed issuance, calling the requests intrusive, overbroad, legally restricted in part, and a fishing expedition.",
+      "citations": [
+        {
+          "segment_id": "S00162",
+          "start_seconds": 2393.98,
+          "clock": "00:39:53",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00164",
+          "start_seconds": 2414.67,
+          "clock": "00:40:14",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00189",
+          "start_seconds": 2840.8199999999997,
+          "clock": "00:47:20",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00287",
+          "start_seconds": 4161.53,
+          "clock": "01:09:21",
+          "speaker_name": "Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00310",
+          "start_seconds": 4467.13,
+          "clock": "01:14:27",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00368",
+          "start_seconds": 5515.79,
+          "clock": "01:31:55",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "Questions from senator-judges",
+      "text": "Senator-judges tested both sides' positions. Joel Villanueva separated production from later admission and weight; Pia Cayetano pressed on particularity, privacy, and due process; and Alan Peter Cayetano examined the disputed time period, corporate links, and the difference between transaction flows and wealth.",
+      "citations": [
+        {
+          "segment_id": "S00158",
+          "start_seconds": 2296.41,
+          "clock": "00:38:16",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00248",
+          "start_seconds": 3698.69,
+          "clock": "01:01:38",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00392",
+          "start_seconds": 6595.95,
+          "clock": "01:49:55",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00425",
+          "start_seconds": 7054.42,
+          "clock": "01:57:34",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00578",
+          "start_seconds": 10498.26,
+          "clock": "02:54:58",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00610",
+          "start_seconds": 10957.39,
+          "clock": "03:02:37",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "The bank and AMLC order",
+      "text": "The court found the specified records reasonably described and prima facie relevant. It allowed peso-account requests involving the Vice President, her spouse, Carpio Lawyers, and nineteen linked entities, while denying requests for two corporations that lacked a sufficient prima facie connection at that stage.",
+      "citations": [
+        {
+          "segment_id": "S00644",
+          "start_seconds": 11365.23,
+          "clock": "03:09:25",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00646",
+          "start_seconds": 11637.87,
+          "clock": "03:13:57",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00659",
+          "start_seconds": 12384.71,
+          "clock": "03:26:24",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "Safeguards and limits",
+      "text": "Foreign-currency deposits were excluded without each depositor's written consent. Anti-Money Laundering Council material had to be submitted in camera, document-specific privilege claims remained available, and the chair removed catch-all language so only listed documents were covered.",
+      "citations": [
+        {
+          "segment_id": "S00648",
+          "start_seconds": 11997.19,
+          "clock": "03:19:57",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00659",
+          "start_seconds": 12384.71,
+          "clock": "03:26:24",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00660",
+          "start_seconds": 12562.84,
+          "clock": "03:29:22",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00715",
+          "start_seconds": 13243.46,
+          "clock": "03:40:43",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
+      "heading": "The tax-record order",
+      "text": "The Bureau of Internal Revenue subpoena was only a preliminary step. The commissioner was directed to make a lawful return on July 30, and the court said it would not receive tax records unless a statutory basis for disclosure was satisfactorily shown.",
+      "citations": [
+        {
+          "segment_id": "S00662",
+          "start_seconds": 12633.0,
+          "clock": "03:30:33",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00708",
+          "start_seconds": 12789.25,
+          "clock": "03:33:09",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "finding",
+      "heading": "What the orders did not decide",
+      "text": "No witness testified and no subpoenaed bank, Anti-Money Laundering Council, or tax record was admitted that day. The older records, from 2007 through 2021, were authorized only as a comparative baseline tied to the current Article 2 allegation, not as proof of another impeachable offense.",
+      "citations": [
+        {
+          "segment_id": "S00116",
+          "start_seconds": 1973.6100000000001,
+          "clock": "00:32:53",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00644",
+          "start_seconds": 11365.23,
+          "clock": "03:09:25",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00659",
+          "start_seconds": 12384.71,
+          "clock": "03:26:24",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00660",
+          "start_seconds": 12562.84,
+          "clock": "03:29:22",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00708",
+          "start_seconds": 12789.25,
+          "clock": "03:33:09",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00761",
+          "start_seconds": 13903.95,
+          "clock": "03:51:43",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "finding",
+      "heading": "What's next",
+      "text": "The court set a July 21 conference to transfer and compare video-exhibit markings. It also adjourned to July 21 at 2 P M, when NBI Director Melvin Matibag and two Land Bank managers were expected under the revised witness schedule.",
+      "citations": [
+        {
+          "segment_id": "S00732",
+          "start_seconds": 13430.26,
+          "clock": "03:43:50",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00794",
+          "start_seconds": 14141.68,
+          "clock": "03:55:41",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00795",
+          "start_seconds": 14174.14,
+          "clock": "03:56:14",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00800",
+          "start_seconds": 14207.15,
+          "clock": "03:56:47",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00801",
+          "start_seconds": 14216.880000000001,
+          "clock": "03:56:56",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "outro",
+      "heading": "How to use this overview",
+      "text": "The episode page links each substantive point to the timed transcript and the original Senate video. Verify consequential details against those sources.",
+      "citations": []
+    }
+  ]
+}
