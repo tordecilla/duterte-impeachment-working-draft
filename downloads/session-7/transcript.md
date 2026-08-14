@@ -1,0 +1,3558 @@
+# July 21, 2026
+
+Impeachment Trial of Vice President Sara Duterte
+
+Source: https://www.youtube.com/watch?v=Ln-3laU1n8c
+Status: Reviewed working draft, revision 2
+
+**[00:05:45.780] Atty. Renato N. Bantug Jr.**  
+Guys, for
+
+**[00:05:46.100] Atty. Renato N. Bantug Jr.**  
+the arrival of the Senate President, the Presiding Officer of the Impeachment Court, and the Senator Judges.
+
+**[00:07:31.460] Sen. Sherwin T. Gatchalian**  
+The Sergeant-at-Arms is directed to make a proclamation.
+
+**[00:07:35.840] Alfredo Sotto Corpuz**  
+All persons are commanded to keep silent under pain of penalty while the Impeachment Court is in session for the trial of Vice President Sara Zimmerman Duterte.
+
+**[00:07:46.440] Sen. Sherwin T. Gatchalian**  
+The Impeachment Trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator Judge Panfilo Lacson.
+
+**[00:07:58.220] Sen. Panfilo M. Lacson**  
+Let us all pause for one minute of silent prayer for humility, wisdom, neutrality, and fairness.
+
+**[00:08:15.420] Sen. Panfilo M. Lacson**  
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Amen.
+
+**[00:08:21.320] Sen. Sherwin T. Gatchalian**  
+The Clerk of Court will now call the roll.
+
+**[00:08:24.560] Atty. Renato N. Bantug Jr.**  
+Roll call of members. The Honorable Senator Judge Aquino, Senator Judge Cayetano Allan, Senator Judge Cayetano Pia, Senator Judge De La Rosa, Atty. Ersito, Atty. Goh, Atty. Ontiveros, Atty. Lacson, Atty. Lapid, Atty. Legarda, Atty. Marcoleta, Atty. Marcos, Atty. Padilla, Atty. Pangilinan, Atty. Soto III, Atty. Tulfo Erwin, Atty. Raffi, Atty. Villanueva Setor Judge Villar Camille, Setor Judge Villar Marc, Setor Judge Zubiri, The Presiding Officer Setor Judge Escudero, Senate President De Chalian.
+
+**[00:09:16.310] Sen. Sherwin T. Gatchalian**  
+With 20 senators present, the Chair declares the presence of a quorum. In accordance with the rules of procedure on impeachment trials, the Chair now recognizes the newly elected Presiding Officer to preside over the proceedings of the Impeachment Court.
+
+**[00:09:32.820] Sen. Francis “Chiz” Escudero**  
+Thank you Mr. Senate President.
+
+**[00:09:37.870] Sen. Francis “Chiz” Escudero**  
+The chair would like to defer action or approval on the journal as we await the manifestations of some of our senator judges. However, having said that, before we end today's trial, regardless of the submission of the senator judges who manifested their intention to submit their manifestations, we will have to approve the journal already so that we can furnish the parties with a copy As requested by council for the respondents, they would want an official copy of yesterday's ruling in order to afford them sufficient time to avail of whatever remedies they may want to seek in regard to the ruling in whole or in part. So for the information of the council for the parties, we shall be approving the journal within the day. You shall have a copy of the same before today's trial ends. This is also to inform the senator judges to make their submissions At the soonest possible time otherwise it shall only be made part of the transcript and the records and will no longer be made part of the journal so ordered and for the information of the body the clerk of court will please call the
+
+**[00:10:49.990] Atty. Renato N. Bantug Jr.**  
+Case No. 004-2026, in the matter of the Impeachment Trial of Vice President Sara Zimmerman Duterte.
+
+**[00:10:58.070] Sen. Francis “Chiz” Escudero**  
+appearances of the parties please good
+
+**[00:11:03.270] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+afternoon your honors same appearance for the prosecution We are ready for the presentation of our next witness, Your Honor.
+
+**[00:11:10.730] Atty. Mark C. Vinluan**  
+Appearances for the respondent. Good afternoon, Your Honors. Same appearance for the defense.
+
+**[00:11:17.070] Sen. Francis “Chiz” Escudero**  
+May we know who on the part of the counsel, rather, who among the panel of prosecutors or counsel from the panel of prosecutors will be presenting the witness?
+
+**[00:11:28.650] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+This representation, Your Honor, will be presenting the next witness.
+
+**[00:11:32.550] Sen. Francis “Chiz” Escudero**  
+May I know, likewise, on the part of the counsel for respondents, who will be standing on the other side? Will it be
+
+**[00:11:37.990] Sen. Francis “Chiz” Escudero**  
+you, Atty. Villanueva?
+
+**[00:11:38.830] Atty. Mark C. Vinluan**  
+That's correct, Your Honor.
+
+**[00:11:40.650] Sen. Francis “Chiz” Escudero**  
+You may proceed. Lead Prosecutor, call your first witness.
+
+**[00:11:46.150] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honors, we are calling to the witness stand our next witness, the last witness for Article IV, Threat, Atty. Melvin Matibag, NBI Director.
+
+**[00:12:51.610] Sen. Francis “Chiz” Escudero**  
+Kindly remain standing, Director Matibag. The clerk will kindly administer the oath to the witness.
+
+**[00:12:59.250] Sen. Francis “Chiz” Escudero**  
+Kindly turn on the mic of the clerk of court. You, Melvin
+
+**[00:13:03.950] Atty. Renato N. Bantug Jr.**  
+Melvin A. Matibag, do you swear that the evidence you shall give in the case now pending between the Philippines and Vice President Sara Zimmerman Duterte shall be the truth, the whole truth, and nothing but the truth, so help you God?
+
+**[00:13:20.050] Atty. Melvin Matibag**  
+Yes, sir.
+
+**[00:13:21.650] Atty. Renato N. Bantug Jr.**  
+Kindly sit down, Director Matibag.
+
+**[00:13:25.930] Sen. Francis “Chiz” Escudero**  
+Before the lead prosecutor proceeds with their direct examinations, the chair would like to address the witness regarding certain matters.
+
+**[00:13:36.020] Sen. Francis “Chiz” Escudero**  
+Director Matibag, the chair would like to remind and admonish you on behalf of the impeachment court to kindly avoid statements appertaining to individual members of this impeachment court. Without prejudice to any investigation you are undertaking, you may do so. But without need of issuing statements that may impinge upon the independence and or integrity of the court or the individual senator judges. And for this reason, for your information as well, Atty. Director Matibag, the statements made by Senators, Senator Judge Alan Peter Cayetano and Senator Judge Pia Cayetano last July 15 pertaining to statements made by you and the video presented in the impeachment court shall be referred to the Senate as a legislative body and referred to the appropriate committee, specifically the Rules Committee, for its proper disposition and for the matter to be taken up thereat and not in this impeachment court. I hope you will adhere and understand, Director Matibag, the reminder and the admonition of the Chair.
+
+**[00:14:43.540] Atty. Melvin Matibag**  
+Yes, Your Honor.
+
+**[00:14:44.600] Sen. Francis “Chiz” Escudero**  
+Thank you, Director Matibag. Lead Prosecutor, the Honorable Luistro, you may proceed with your direct examination.
+
+**[00:14:51.020] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor. We are offering the testimony of witness, NBI Director, Atty. Melvin Matibag, to prove the following. One, siya ang kasalukuyang director ng National Bureau of Investigation. Two, matapos siyang italaga bilang director, may binuo siyang Special Task Force para magsagawa ng investigasyon.
+
+**[00:15:25.940] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+3.
+
+**[00:15:28.560] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+May karagdagang investigasyon na isinagawa ang Special Task Force hinggil sa mga pagbabantang ginawa sa buhay ng Pangulo kasama ang pagbabanta ng Vice Presidente. 4. Ang pagbanta sa buhay ng Pangulo ay hindi lamang pagbanta sa kanyang buhay.
+
+**[00:15:55.400] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+5.
+
+**[00:15:58.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ang mga natuklasan at naging risulta ng Special Task Force mula sa karagdagang imbistigasyon 6. Kilalanin at patunayan ang mga dokumento kaugnay ng nasabing imbistigasyon ng NBI 7. Ang iba pang mga bagay
+
+**[00:16:32.760] Atty. Mark C. Vinluan**  
+Comments, Your Honor.
+
+**[00:16:35.090] Atty. Mark C. Vinluan**  
+Your Honor, as to the first purpose, we are willing to stipulate, Your Honor, that Atty. Matib is the current NBI Director. In the interest of expediting the proceedings, no need to propound questions on that. Number two, as to the task force, Your Honor, we would have to object. On the basis of them being irrelevant, your honor would just like to manifest for the record that such task force, your honor, was not part of the articles of impeachment as well as the impeachment complaint. There was no mention thereof, and this is tantamount to a new information. So your honor would just like to manifest for the record that the articles of impeachment is Akin to a information that is filed in court and the trials already started and the prosecution cannot modify such information or articles of impeachment for such will be a violation of our client's right to due process particularly her right to be promptly and fully apprised of the exact charge against her so any information any new information is irrelevant number three Same objection, Your Honor, because the Good Counsel mentioned karagdagang investigation. So it pertains also to a new information which is irrelevant. Number four, we would have to object because the Good Counsel used the word banta, which is a conclusion of fact. She mentioned it twice. So we are objecting on the basis of it being conclusions of fact. Number 5, as to the special task force, same objection, Your Honor, considering that, again, there was no mention of such information, new information in the articles of impeachment. Numbers 6 and 7 are okay, Your Honor.
+
+**[00:18:29.710] Sen. Francis “Chiz” Escudero**  
+Would the lead prosecutor care to respond?
+
+**[00:18:32.950] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We would like to respond, Your Honor.
+
+**[00:18:35.290] Sen. Francis “Chiz” Escudero**  
+The lady may proceed.
+
+**[00:18:38.110] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor,
+
+**[00:18:57.230] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Later,
+
+**[00:19:04.890] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, we will present that this Special Task Force was specifically created For the purpose of furthering the investigation because of the possibility of seeing na hindi po mag-isa ang vicepresidente sa bantang ito. In other words, Your Honor, the mention of special task force including its creation at ang karagdagang investigasyon nito passes the test. As a matter of fact, this is the very reason why we are presenting Atty. Melvin Matibag, the NBI Director before the Honorable Impeachment Court. Your Honor, the defense likewise mentioned that Special Task Force was not mentioned in the articles of impeachment.
+
+**[00:20:17.000] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+The decision of the Impeachment Court yesterday was based on documents which pertain to acts and omissions prior to 2022 and acts or omissions which were not specifically mentioned in the articles of impeachment. What is important here, Your Honor, are the allegations or testimonies to be presented.
+
+**[00:20:52.090] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+It is not necessary that they be specifically mentioned in the articles of impeachment. Finally, Your Honor, they likewise raise the issue of due process of the respondent. It is very much apparent, Your Honor, since day one of our impeachment trial, the respondent is very well represented by her very much able defense panel. In other words, Your Honor, atin pong ibinibigay ang nararapat na due process sa Respondent Vice President. And as far as this impeachment trial is concerned, kasama na po ang pagtistigo ni NBI Director kaugnay ng Special Task Force and all those who were involved in this investigation.
+
+**[00:22:15.990] Sen. Francis “Chiz” Escudero**  
+Chair reminds the lead prosecutor to skip the introduction and preliminary questions with respect to the witness being the current NBI director, having been admitted by the counsel for respondent. Insofar as the phrase banta is concerned, Chair would like to remind the senator judges that that is indeed a conclusion which the prosecutors will seek to prove for our purposes.
+
+**[00:22:42.630] Sen. Francis “Chiz” Escudero**  
+Tawagin na lamang natin o ituring na lamang natin ang mga pahayag ang binitiwan ng ikalawang Pangulo. But Lead Prosecutor, kindly let the witness testify and characterize it as such if he will, but it should come from the witness and not from any of the counsel for the parties. As to the task force, the task force was formed on April 16, 2026 after the impeachment complaints have been filed. Although the impeachment complaint was filed before the Senate in May, the impeachment complaints were already filed prior to the formation of the task force. And as a last point, this, if at all, would show persistence, absence or lack of it, which is an element of the crime of grave threats which the prosecution is seeking to prove. Again, not through their statements, but through the witnesses they will be presenting in the person today.
+
+**[00:23:39.700] Sen. Francis “Chiz” Escudero**  
+The Chair will therefore allow the testimony and the counsel for the respondent may object at any time with respect to the points he raised in the Chair will rule. Each time an objection is raised regarding that matter without prejudice. I'm already seeing what Atty. Vinluan will do because he's reaching for the mic. Without prejudice to the counsel of course making a continuing objection with respect to his observations to the offer. So that we would abbreviate the proceedings and we won't need to object each time if at all it is brought up. Would that be correct, attorney?
+
+**[00:24:10.140] Atty. Mark C. Vinluan**  
+Yes, Your Honor. We register our continuing objection and everything subject to cross-examination.
+
+**[00:24:16.680] Sen. Francis “Chiz” Escudero**  
+Noted. The lead prosecutor may proceed. Your witness.
+
+**[00:24:21.680] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, please state your name, age, and other details.
+
+**[00:24:30.020] Atty. Melvin Matibag**  
+Ako po si Atty. Melvin Matibag, na kasalukuyang Director ng National Bureau of Investigation. Ang amin pong tanggapan ay may address na 9th floor, Filinvest Cyberzone Bay, Building C, Diosdado Macapagal Boulevard, Pasay City.
+
+**[00:24:45.810] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nabanggit mo na ikaw ay isang abogado. Gaano ka na katagal sa nasabing propesyon?
+
+**[00:24:54.860] Atty. Melvin Matibag**  
+29 years po.
+
+**[00:24:58.680] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Saan ka nagtapos ng iyong abogasya?
+
+**[00:25:02.520] Atty. Melvin Matibag**  
+Sa Ateneo Law School po.
+
+**[00:25:06.000] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bago ang iyong abogasya, ano ang una mong inaral sa kolehiyo?
+
+**[00:25:11.960] Atty. Melvin Matibag**  
+Ako po ay nagtapos ng Bachelor of Arts, Major in Philosophy, sa University of Santo Tomas.
+
+**[00:25:18.480] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Pagkatapos naman ng abogasya, Mr. Witness, ano ang iyong inaral kung mayroon man?
+
+**[00:25:26.280] Atty. Melvin Matibag**  
+Nag-aral po ako ng Masters of Law, Major in Corporate and Finance Law, sa Wayne State University, Detroit, Michigan, USA po.
+
+**[00:25:36.160] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+You are here as NBI Director. Bago ka itinalaga bilang NBI Director, ano ang iyong mga naging trabaho, kung mayroon man?
+
+**[00:25:54.320] Atty. Melvin Matibag**  
+Bago po ako itinalaga bilang NBI Director ay kasalukuyan po akong naglilingkod bilang dean o dekano ng Lyceum of Alabang College of Law.
+
+**[00:26:02.360] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nabanggit mo na ikaw ay dating dean ng Lyceum of Alabang College of Law. Bukod sa pagiging dean, ano pa, kung mayroon man, ang iyong naging trabaho bago ang iyong pagkatalaga bilang NBI Director?
+
+**[00:26:23.040] Atty. Melvin Matibag**  
+Ako po ay nanungkulan na rin sa iba't ibang kapasidad sa ilalim po ng iba't ibang administrasyon. Una-una po rito, bilang director ng Laguna Lake Development Authority sa administrasyon po ng dating Pangulong Gloria Macapagal-Arroyo.
+
+**[00:26:37.880] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nabanggit mo na ikaw ay naglingkod bilang director ng Laguna Lake Development Authority panahon ng dating Pangulong Gloria Macapagal-Arroyo. Ano pa, Mr. Witness, kung mayroon man, ang iyong naging trabaho bago ka itinalaga bilang NBI Director?
+
+**[00:27:03.960] Atty. Melvin Matibag**  
+Sa administrasyon po ng dating Pangulong Gloria Macapagal-Arroyo, ako rin po ay nanungkulan bilang General Manager ng Manila International Airport Authority. At sa administrasyon din po ng dating Pangulong Rodrigo Roa Duterte, ako rin po ay nanungkulan sa iba't ibang kapasidad po.
+
+**[00:27:19.080] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+mentioned that under the administration of President Duterte, you also served in the government. Ano itong mga posisyon mo sa gobyerno na iyong nabanggit?
+
+**[00:27:32.990] Atty. Mark C. Vinluan**  
+Objection, Your Honor. Relevance.
+
+**[00:27:35.160] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I respond? Counsel may answer.
+
+**[00:27:38.940] Sen. Francis “Chiz” Escudero**  
+Counsel may respond, rather.
+
+**[00:27:40.440] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+The prosecution, Your Honor, is establishing the competence of the witness, the qualification as an official of the government. We are establishing, Your Honor, that he is loyal to his duty. Regardless of the principal, he is serving.
+
+**[00:27:59.600] Sen. Francis “Chiz” Escudero**  
+Wind up with your preliminaries, Council. Witness may answer. Objection overruled.
+
+**[00:28:03.980] Atty. Melvin Matibag**  
+Thank you, Your Honor. I have been appointed as President and CEO of National Transmission Corporation from January 2017 until March 2022. After that, I was appointed as Cabinet Secretary of former President Rodrigo Roa Duterte.
+
+**[00:28:29.120] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr.
+
+**[00:28:38.160] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, Bilang NBI Director, ano ang iyong mga responsibilidad at kapangyarihan?
+
+**[00:28:54.030] Atty. Mark C. Vinluan**  
+Director, Your Honor.
+
+**[00:28:55.130] Sen. Francis “Chiz” Escudero**  
+Did you stipulate, counsel, as well as with the powers and responsibilities of—
+
+**[00:29:01.030] Atty. Mark C. Vinluan**  
+We're willing to stipulate, Your Honor, as what the law provides.
+
+**[00:29:05.530] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, regardless of the position of the defense to stipulate on the fact pertaining to the powers and responsibilities of the NBI Director, it is the position of the prosecution that since this is a constitutional process, Mahalaga po na marinig ng ating mga iginagalang na senator judges. Ganon din ng mga kababayang nanonood kung ano talaga ang responsibilidad at kapangyarihan ng isang NBI director.
+
+**[00:29:39.560] Sen. Francis “Chiz” Escudero**  
+Understood, counsel. But it has been stipulated already by counsel for the respondents. So kindly go straight to the matter at the soonest possible time. You're in a short leash with respect to the preliminaries on the qualifications of the witness. Kindly proceed, ma'am.
+
+**[00:29:57.530] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness?
+
+**[00:30:00.500] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ano ang iyong mga kapangyarihan at responsibilidad kung iyong nalalaman?
+
+**[00:30:06.380] Atty. Melvin Matibag**  
+Ang kasama po rito sa aking mga responsibilidad, ang una-una na po, we are the primary investigating authority ng ating pong mansa. Kung kaya po, ito po ay aming mandato na mag-imbestiga sa anumang usapin o mga maaaring kribe na pumapasok sa amin. At kasama rin po rito ang pagbabalangkas ng mga pulisiya. Pagbubuo ng mga units or divisions kung kinakailangan at ang pag-management po administratively po ng aming opisina.
+
+**[00:30:35.400] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Sa mga kapangyarihan at responsibilidad na iyong binanggit, ano ang araw-araw mong ginagampanan, kung mayroon man at kung iyong nalalaman?
+
+**[00:30:48.080] Atty. Melvin Matibag**  
+Ang araw-araw pong pagbabantay at pakikipag-ugnayan sa aming mga ahente dahil po sa araw-araw naming pag-ibistiga. Ang iba't iba pong usapin na pumapasok po sa aming ahensya.
+
+**[00:31:00.110] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kaugnay pa rin ng mga binanggit mong kapagyarihan at responsibilidad. Ano ang pinakamabigat mo na responsibilidad bilang NBI Director kung iyong nalalaman?
+
+**[00:31:12.590] Atty. Mark C. Vinluan**  
+Objection, Your Honor. Calls for an opinion.
+
+**[00:31:15.320] Sen. Francis “Chiz” Escudero**  
+Witness may answer. I think witness is competent enough to answer that question.
+
+**[00:31:19.260] Atty. Melvin Matibag**  
+Thank you, Mr. Presiding Officer. Ang akin pong hindi lamang po bilang primary investigating agency kundi ang aming pong primerong ginagawa ay ang pagbabantay para po sa ating mga taong bayan at bantayan din po na ang ating konstitusyon ay may patupad at siguraduhin na hindi po nagkakaroon ng kaguluhan at ligalig para po ito po ay puksain, habulin at amin pong Ang mga taong lumalabag po sa aming pong mandatong binabantayan.
+
+**[00:32:29.940] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bukod sa ang respondent ay ang vicepresidente, ano pa kung mayroon man ang pagkakakinanlan ng respondent sa impeachment trial na ito?
+
+**[00:32:42.710] Atty. Melvin Matibag**  
+Basi po sa aking mandato bilang director nang ako po ay pumasok sa abing opisina, lahat po ng mga kasong nakabimbin at mga amin na naipasok sa Department of Justice ay akin pong nirebisa at tinignan upang akin po itong masubaybayan. At isa po sa mga kasong aking nakita rito, ang respondent po rito ay ang ating pong vicepresidente kung saan po siya ay kinasuhan ng aming Cybercrime Division ng Grave threat at inciting to sedition na sa kasalukuyan po ngayong nakabindihin sa Department of Justice.
+
+**[00:33:16.090] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nabanggit mo na ang respondent ay may kasong grave threat at inciting to sedition sa DOJ? Mr. Witness, ano pa kung mayroon man ang pagkakakilanlan ng respondent sa impeachment trial na ito?
+
+**[00:33:31.190] Atty. Melvin Matibag**  
+Ang ating pong vicepresidente, kasalukuyang ating pong subject sa ating continuing investigation, Mr.
+
+**[00:33:46.780] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, may binanggit ka na continuing investigation ng NBI. Ano ang iyong ginawa kung mayroon man kaugnay ng ongoing investigation ng NBI na iyong binanggit?
+
+**[00:34:07.730] Atty. Melvin Matibag**  
+Sa papamagitan ng pag-create po ng isang administrative order kung saan bumalangkas po tayo ng mga miyembro ng aming pong opisina para sila po ang mag-tuloy ng investigasyon na ito at mag-monitor po ng mga kailangan gawin.
+
+**[00:34:21.920] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kaugnay pa rin ng binanggit mong Special Task Force. Ano ang kahalagahan nito sa investigasyon na ginagawa ng National Bureau of Investigation?
+
+**[00:34:35.180] Atty. Melvin Matibag**  
+Napakahalaga po para sa amin sapagkat na from our law enforcement perspective ang ginawa pong banta ng vicepresidente ay tinatrato na naming hindi banta kundi isang plano para po sa pagpatay sa ating Pangulo and that is a threat to the President which we consider also na threat po sa ating national security.
+
+**[00:34:56.080] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, anong katunayan mayroon ka kaugnay ng iyong binanggit na binuong Special Task Force upang mag-imbestiga sa lahat ng banta sa buhay ng Presidente, kasama na ang pagbabanta ng Vice Presidente?
+
+**[00:35:16.040] Atty. Melvin Matibag**  
+Meron po akong in-issue na Administrative Order No. 11 noong April 16 ng kasalukuyang taon po.
+
+**[00:35:25.840] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+At kung ipapakita sa iyo ang kopya ng Administrative Order No. 11, ito ba ay makikilala mo?
+
+**[00:35:35.320] Atty. Melvin Matibag**  
+Opo.
+
+**[00:35:36.750] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Honor, may we request that AO number 11, previously marked as Exhibit P429, be flushed. We likewise request, Your Honor, that Atty. Kyle Capunan, Assisting Counsel, be allowed to approach the witness. For confirmation of the document.
+
+**[00:36:01.360] Sen. Francis “Chiz” Escudero**  
+Assisting counsel for the prosecution may approach. And likewise, assisting counsel for the respondent may approach to confirm and validate the document being shown to the witness. Likewise, the text through the clerk of court is instructed to kindly flash in the screens the document being referred to by the lead prosecutor, the Honorable Luistro.
+
+**[00:36:26.190] Sen. Francis “Chiz” Escudero**  
+Kindly zoom it in, please.
+
+**[00:36:29.820] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness. Your Honor, Your
+
+**[00:36:32.930] Atty. Mark C. Vinluan**  
+Honor, can we be given
+
+**[00:36:34.410] Sen. Francis “Chiz” Escudero**  
+time to comment?
+
+**[00:36:36.000] Atty. Mark C. Vinluan**  
+Your Honor, we manifest, for the record, Your Honor, that the document is a photocop.
+
+**[00:36:43.100] Atty. Mark C. Vinluan**  
+So noted.
+
+**[00:37:01.830] Sen. Francis “Chiz” Escudero**  
+Thus, the lead prosecutor confirmed the observation of counsel for respondent while we are awaiting their review of the document.
+
+**[00:37:13.870] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, after the confirmation of the document, the prosecution will be requesting for the transfer of marking to a certified true copy, Your Honor.
+
+**[00:37:23.650] Sen. Francis “Chiz” Escudero**  
+At the later time?
+
+**[00:37:25.050] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, Your Honor.
+
+**[00:37:26.130] Sen. Francis “Chiz” Escudero**  
+Noted.
+
+**[00:37:28.750] Sen. Francis “Chiz” Escudero**  
+Counsel may proceed when she's ready.
+
+**[00:37:34.860] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, ipinapakita sa iyo ngayon. May we request the assisting counsel to please show the document to the witness?
+
+**[00:37:45.140] Unknown speaker**  
+...
+
+**[00:37:47.190] Sen. Francis “Chiz” Escudero**  
+Atty. Kapunan, kindly.
+
+**[00:37:49.450] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, ipinapakita sa iyo ngayon ang isang dokumento na may pamagat na Administrative Order No. 11. Ano ang kaugnayan nito sa binanggit mo kanina na Administrative Order No. 11 na kung saan nabuo ang Special Task Force?
+
+**[00:38:09.670] Atty. Melvin Matibag**  
+Ito po yung aking dokumentong binabanggit.
+
+**[00:38:12.920] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Sa pangalawang pahina ng Administrative Order No. 11, Makikitang isang lagda sa taas ng pangalang Atty. Melvin Matibag. Kaninong lagda ito, Mr. Witness?
+
+**[00:38:28.170] Atty. Melvin Matibag**  
+Sa akin po.
+
+**[00:38:29.920] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may we manifest that AO No. 11 has been previously marked as Exhibit P. 429 and we just want to place on record the request for the transfer of marking at a later time to the certified true copy, Your Honor. Noted.
+
+**[00:38:48.870] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kaugnay pa rin ng Administrative Order No. 11, Mr. Witness. Ano ang komposisyon ng Special Task Force kung iyong nalalaman?
+
+**[00:39:01.150] Atty. Melvin Matibag**  
+Ito po ay binubuo ng iba't ibang division na pinamumunuan po ng aming team leader na Deputy Director for Operations at dalawa po na assistant team leader sa pangunguna po ng Assistant Director namin for Investigation at Assistant Director for Intelligence po.
+
+**[00:39:21.000] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nabanggit mo ang Team Leader at Assistant Team Leader ng Special Task Force. Sino naman ang mga miyembro ng Special Task Force kung iyong nalalaman?
+
+**[00:39:34.600] Atty. Melvin Matibag**  
+Your Honor, hindi po sino kundi ito po ay mga grupo, specific units po. Isa na po rito ang National Capital Region Division namin. Ang Cybercrime Division po namin, ang aming pong OCTD Organized Crime Transnational Crime Division, ang TID po at ang CFD.
+
+**[00:39:55.120] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, nabanggit mo ang National Capital Region Division. Ano ang dahilan at isinama ang National Capital Region Division sa miyembro ng Special Task Force kung iyong nalalaman?
+
+**[00:40:12.070] Atty. Melvin Matibag**  
+Sa pagkat ang pag-iimbestiga po at ang continuing na surveillance ay tungkol sa banta sa kaligtasan po ng ating Pangulo at ang primerong opisina at tiraan po ng ating Pangulo ay nasa National Capital Region kung kaya naman po atin pong isinama rito ang National Capital Region bilang miyembro po ng Special Task Force na ito.
+
+**[00:40:33.990] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, binanggit mo din kanina ang Cybercrime Division. Ano naman ang dahilan? Kung iyong nalalaman, bakit ginawang miyembro ng Special Task Force ang Cybercrime Division?
+
+**[00:40:49.810] Atty. Melvin Matibag**  
+Ang Cybercrime Division po ay kasama dito sa Task Force na ito sapagkat marami po ngayon na nabanta na pumapasok po sa ating Pangulo sa pamamagitan po paggamit ng social media platform at ang CCD po sila po yung may karanasan at kaalaman po na nasapat para bantayan po ang mga bantang papasok dito. Sa pang-araw-araw po.
+
+**[00:41:13.040] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, binanggit mo din ang Organized Transnational Crime Division. Ano naman ang dahilan at isinama ito sa Special Task Force kung mayroon man?
+
+**[00:41:27.210] Atty. Melvin Matibag**  
+Hindi naman po lingit sa atin na ang ating Pangulo ay may mga pagkakataon na lumalabas ng ating bansa at nagbabiyahe na kung saan ay atin pa rin pong tungkulin na bantayan ang kanyang siguridad.
+
+**[00:41:51.700] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr.
+
+**[00:41:58.340] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, kasama sa iyong binanggit ang Technical Intelligence Division. Ano naman ang dahilan at kasama ito sa miyembro ng STF kung mayroon man?
+
+**[00:42:09.900] Atty. Melvin Matibag**  
+Napaka-importante po ng role ng TID ng Technical Intelligence Division sapagkat ang mga banta po na katulad ng pumapasok po sa ating Pangulo ay nangangailangan po ng masusi at malawak na intelligence network at ang TID po natin sila po ang may karapatan dito at nagpo-proseso ng mga ganito pong gawain.
+
+**[00:42:30.560] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bilang huli, Mr. Witness, binanggit mo din ang Digital Forensic Laboratory Division. Ano naman ang dahilan at isinama ito sa miyembro ng Special Task Force?
+
+**[00:42:44.040] Atty. Melvin Matibag**  
+Importante po ang kanilang role dito sa Task Force na ito sapagkat lahat po ng mga ibidensya na ating mga kakalap, lalong-lalo na na kailangan pong idaan sa forensics o pagsusuri na technical, sila po ang divisyon na maaari pong gumawa ng pagsusuri na ito.
+
+**[00:42:59.740] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Maraming salamat sa iyong paglilinaw kaugnay ng komposisyon ng Special Task Force. Mr. Witness, anong mga pagkakataon kailangan ng NBI bumuo ng task force kung iyong nalalaman?
+
+**[00:43:16.000] Atty. Melvin Matibag**  
+Ang pagpo po ng task force ay yung mga immediate po na pangangailangan na ating tugunan. Isa po yan. Pangalawa po rito ay kung isa nang malawakan ang isang bagay na kailangan nating tugunan at imbestigaan. At ang task force din po, kaya po ganyan kalawak kung makikita ninyo. Ang nasasakupan po nito ay hindi lamang iisang lugar. At yung mga seryosong banta, na katulad ng banta sa ating Pangulo, eh ganitong task force po ang pakiramdam namin na kinakailangan.
+
+**[00:43:47.930] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, balikan ko ang special task force na iyong binoo. Kanina ibinahagi mo ang komposisyon nito. Ano ang iyong partisipasyon bilang NBI Director kung meron man? Sa investigasyon ng Special Task Force?
+
+**[00:44:04.590] Atty. Melvin Matibag**  
+Nakasahad po dyan sa administrative quarter na iyan na ang patuloy na pakikipag-ugdayan po sa Office ng Director. Ang patuloy na pag-uulat kung ano man po ang kanilang nakikita o namomonitor. At lalong-lalong na po kung may specific po na kailangan kaagad ba tugunan ay dapat pong ipaalam sa opisina po ng Office ng Director.
+
+**[00:44:26.380] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Balikan natin ang Special Task Force na binuo sa ilalim ng AO No. 11, Mr. Witness.
+
+**[00:44:34.620] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ano ang nagtulak sa iyo kung mayroon man upang buuin ang Special Task Force na ito?
+
+**[00:44:44.900] Atty. Melvin Matibag**  
+Ang akin na po nabanggit ang malinaw na banta at planong pagpatay po sa ating Pangulo na para sa amin po sa law enforcement, ito ay nag-transit na. Sa banta po sa ating national security. Sapagkat anuman pong banta sa ating Pangulo ay banta sa siguridad ng ating bansa. Sapagkat ito'y magdudulot ng kaguluhan ng legalig at destabilisasyon po sa ating pong gobyerno at sa ating pong bansa.
+
+**[00:45:13.310] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nabanggit mo na ang banta sa buhay ng Pangulo ay banta na rin sa national security. Ano pa, Mr. Witness, kung mayroon man? Ang nagtulak sa iyo upang buuwin ang Special Task Force na ito.
+
+**[00:45:30.490] Atty. Melvin Matibag**  
+May mga pangyayari po na atin pong nasaksiyan na nagpatunay na ang banta ay seryoso. Katunayan po ang aming investigasyon ngayon ay tumawid na sa hindi banta kundi isang plano talaga na patayin po ang ating Pangulo ng Pilipinas. Sapagkat na doon po sa ating mga inobserba na tinatawag nating open source intel, Manila po roon.
+
+**[00:46:00.560] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr.
+
+**[00:46:05.550] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, bukod sa iyong nabanggit kung saan may kinausap ang Vice Presidente na papatay sa Pangulo, ano pa kung mayroon man? Ang dahilan o nagtulak sa iyo upang buuhin ang Special Task Force?
+
+**[00:46:23.830] Atty. Melvin Matibag**  
+Kung makikita po ninyo doon sa whereas clauses ng Administrative Order No. 11, ang isa pong nagpatibay rito ay yung aming napanood na live broadcast ng isang rally na tinatawag na Rage Coalition. If I remember it correctly, it's April 12, na nagsasalita ang Mayor ng Davao City na si Mayor Sebastian ‘Baste’ Duterte, na sinabi niya na isang ulo lang naman ang kailangan namin at iyan ay ang ulo ni Bongbong Marcos. Iyan po ay aming isinama sa aming factor upang buuin po itong Administrative Order No. 11.
+
+**[00:47:00.880] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+May nabanggit ka na Rage Coalition rally noong April 12, 2026. Ano itong insidenteng ito?
+
+**[00:47:16.430] Sen. Francis “Chiz” Escudero**  
+Part of the witnesses' narration. Counsel, you're on a short leash again. Kindly connect it to this case.
+
+**[00:47:23.640] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, witness na iyan, sir.
+
+**[00:47:25.760] Atty. Melvin Matibag**  
+Dito po sa rally na ito ay nakita natin doon pa lang pa sa pangalan na sinasabing rage, eh ito po ay may interpretasyon base sa aming law enforcement experience na pag sinabing rage, galit, puot, at ang mga personalidad po na dumalo rito ay makikita natin mga personalidad na kilalang tumutulig sa
+
+**[00:48:00.570] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr.
+
+**[00:48:01.450] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, kung ipapakita sa iyo itong videong ito, ito ba'y makikilala mo? Anong particular na bahagi ng videong ito ang tumutukoy sa iyong sinabi kung saan? May binanggit si Mayor Sebastian Duterte.
+
+**[00:48:21.100] Atty. Melvin Matibag**  
+Mr. President, will we be allowed to check on the time stop?
+
+**[00:48:25.180] Sen. Francis “Chiz” Escudero**  
+Let's listen to counsel's objection first. Atty. Vinluan, what is your objection?
+
+**[00:48:29.240] Atty. Mark C. Vinluan**  
+Again, irrelevant, Your Honor.
+
+**[00:48:31.030] Sen. Francis “Chiz” Escudero**  
+Same ruling. Counsel, go to it directly, and I hope you will make the connection between this video and the matter at hand. Yes, Director Matibag, you may proceed to—
+
+**[00:48:48.550] Sen. Francis “Chiz” Escudero**  
+Are you referring to your notes?
+
+**[00:48:50.590] Atty. Melvin Matibag**  
+Opo, 'yung po ngang aking investigation notes.
+
+**[00:48:54.090] Atty. Melvin Matibag**  
+Kung saan po nakasulat ang timestamp nung video na akin po binabanggit.
+
+**[00:49:15.660] Sen. Francis “Chiz” Escudero**  
+Stand up and accompany assisting counsel for the defense. You may proceed, Director Matibag, to answer.
+
+**[00:49:22.730] Atty. Melvin Matibag**  
+'Yan po ay nasa timestamp 2:34:35 to 2:34:43.
+
+**[00:49:28.790] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, we are requesting that the video of Mayor Sebastian Duterte during the Rage Coalition on April 12, 2026 which has been previously marked as P430. Atty. Timestamp 234.35-234.43
+
+**[00:50:17.800] Sen. Francis “Chiz” Escudero**  
+While being witnessed by assisting counsel for both parties before it is presented through text for it to be played.
+
+**[00:50:27.660] Sen. Francis “Chiz” Escudero**  
+While
+
+**[00:50:32.790] Sen. Francis “Chiz” Escudero**  
+the witness is breaking the seal and giving it to the counsel for the prosecutor and assisting counsel for the respondent, chair would like to make a manifestation with respect to the proceedings. Earlier, the chair intimated to some senator judges As far as practicable, to make their interjections and interventions after the parties shall have examined the witness, both direct, cross, redirect, and recross, if any, unless the matter is of urgent administrative or procedural concern, in which case it may be brought up even before the examination of the witness by the parties. But as far as practicable, let us allow the parties to finish.
+
+**[00:51:58.880] Sebastian “Baste” Z. Duterte**  
+Tama na 'yan. That's okay. Isang ulo lang naman ang kailangan namin. Ang ulo ni Bongbong Marcos.
+
+**[00:52:06.900] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, napanood mo ang video. Ano ang kaugnayan ng video na ito sa insidente ng Rage Coalition na tinukoy mo kanina?
+
+**[00:52:18.390] Atty. Melvin Matibag**  
+Yan po yung aking tinutukoy na video.
+
+**[00:52:21.550] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ano ang particular na sinabi ni Mayor Sebastian Duterte sa nasabing insidente kung iyong naaalala?
+
+**[00:52:30.150] Atty. Melvin Matibag**  
+Sinabi po niya na isang ulo lang naman ang kailangan namin, ang ulo ni Bongbong Marcos.
+
+**[00:52:35.490] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, ano ang kahalagahan? Nang insidenteng ito sa Rage Coalition sa imbistigasyon na ginagawa ng Special Task Force kaugnay ng banta ng vicepresidente sa buhay ng presidente.
+
+**[00:52:52.200] Atty. Mark C. Vinluan**  
+Objection, Your Honor. Up to now, the prosecution has not established the relevance of these incidents to the matter at hand, Your Honor.
+
+**[00:53:00.400] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We're objecting on the basis of
+
+**[00:53:02.040] Atty. Mark C. Vinluan**  
+irrelevance, Your Honor.
+
+**[00:53:02.980] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+I'm in the process of establishing the relevance already, Your Honor.
+
+**[00:53:06.740] Sen. Francis “Chiz” Escudero**  
+Council, kindly do so as best you can with the shortest possible time. I will allow it.
+
+**[00:53:17.790] Atty. Melvin Matibag**  
+Iyan pong video na iyan ay amin pong naikumpara sa mga naging pahayag ng ating Vice Presidente, kung saan meron din po kaming videong binalikan na ang ating Vice Presidente ay nagre-refer din po sa pagtanggal ng ulo ng ating Presidente. Kung kaya't nakita namin po ang pagkakahambing ng statement po ng ating mayor at ng Vice President Sara Duterte.
+
+**[00:53:42.240] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, binanggit mo ang isang insidente kung saan sinabi ng Vice Presidente gusto tanggalin ang ulo ng Presidente. Ano itong insidente ito kung iyong nalalaman?
+
+**[00:53:54.840] Atty. Melvin Matibag**  
+Sa aking pong recollection sa aking pag-iimbestiga, ito po yung kanyang press conference noong October 18, 2024 kung saan sinabi niya, ‘Gusto kong tanggalin ang ulo niya ba.’ And he also said, ‘Imagine cutting his head.’ So iyan po ang binabanggit ko sa video.
+
+**[00:54:11.520] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kaugnay ng sinabi niya na, ‘Gusto kong tanggalin yung ulo niya ba,’ anong partikular na bahagi ng binanggit mong video ang tumutukoy sa sinabi ng Vice Presidente?
+
+**[00:54:27.670] Atty. Melvin Matibag**  
+Mr. Presiding Officer, respectfully, with your permission, for the timestamp, I want to refer to my notes.
+
+**[00:54:33.720] Sen. Francis “Chiz” Escudero**  
+Witness is allowed to refer to his notes with the assistance and within the view of the Assisting Counsel for the Respondent and the Prosecution, if they so desire.
+
+**[00:54:43.920] Atty. Mark C. Vinluan**  
+Your Honor, can we ask permission to scan the whole notebook, Your Honor?
+
+**[00:54:50.180] Atty. Mark C. Vinluan**  
+Or at least the salient portions of the notebook, Your Honor?
+
+**[00:54:54.680] Sen. Francis “Chiz” Escudero**  
+To look at it, to scan it, to see if it...
+
+**[00:54:59.550] Sen. Francis “Chiz” Escudero**  
+Nakasulat na iba dyan na wala nang kinala. Just to confirm that it is indeed his notes with respect. What is the book you are referring to or notebook you are referring to,
+
+**[00:55:08.110] Sen. Francis “Chiz” Escudero**  
+Atty.
+
+**[00:55:08.730] Sen. Francis “Chiz” Escudero**  
+Matibag?
+
+**[00:55:09.210] Atty. Melvin Matibag**  
+Mr. Presiding Officer, actually diary ko po ito tsaka notes eh. Combination. So kung makikita naman po, wala pa noon. Iba't iba pong nakasulat dito. May mga personal po. May mga usapin. Ito lamang pong notes ko na ito. Nakatoon dun sa date kung saan po nagkaroon na ng... Investigation po yung Administrative Order No. 11. Then just the salient portions, Your Honor.
+
+**[00:55:31.240] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, just for the record, we would like to invoke the right of the witness to refer to his notes because that note pertains to investigation notes which were prepared, done, written at the time of the investigation, Your Honor. That is to refresh his memory, Your Honor. The
+
+**[00:55:49.340] Sen. Francis “Chiz” Escudero**  
+presiding officer already allowed it. Counsel for the respondent, your assisting counsel is there. Without necessarily scanning the whole notebook which might contain other confidential or perhaps personal information, he may observe what the witness is referring to and you may make your observations known to the record should he observe something out of the ordinary. Witness, may I answer?
+
+**[00:56:18.760] Atty. Melvin Matibag**  
+Ang timestamp po dun sa sinabi kong gusto kong tanggalin yung ulo niya ba is From 1.35.57 to 1.36.10 po.
+
+**[00:58:22.370] Vice President Sara Zimmerman Duterte**  
+Ulo niya ba?
+
+**[00:58:31.860] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Napanood mo ang video?
+
+**[00:58:33.620] Sen. Francis “Chiz” Escudero**  
+The video is still playing, I believe, Lead Prosecutor. Unless you want it cut already?
+
+**[00:58:40.400] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+It may be cut, Your Honor.
+
+**[00:58:43.560] Sen. Francis “Chiz” Escudero**  
+I'm sorry?
+
+**[00:58:44.860] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+may be cut, Your Honor. The timestamp is only 1.3557 to 1.3610.
+
+**[00:58:54.350] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, napanood mo ang video? Ano ang kaugnayan nito sa insidente yung tinukoy mo kanina kung saan sinabi ng Vice Presidente? Gusto kong tanggalin ang ulo niya ba?
+
+**[00:59:06.930] Atty. Melvin Matibag**  
+That is the same video that I was referring to.
+
+**[00:59:10.880] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kanina, Mr. Witness, binanggit mo din na may sinabi ang vicepresidente, I imagine myself cutting his head. Anong particular na bahagi naman ng video na iyong tinukoy ang tumutukoy sa sinabing ito ng vicepresidente kung iyong nalalaman?
+
+**[00:59:32.050] Atty. Melvin Matibag**  
+Again, Mr. Presiding Officer, may I be allowed to look for the—
+
+**[00:59:36.470] Sen. Francis “Chiz” Escudero**  
+Witness may do so.
+
+**[00:59:38.030] Atty. Melvin Matibag**  
+Thank you po. Timestamp 1:36:52 po to timestamp 1:36:58.
+
+**[00:59:45.890] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may we request that the same video be played, particularly Timestamp 136.52 to 136.58.
+
+**[00:59:56.550] Sen. Francis “Chiz” Escudero**  
+Pertaining to the same exhibit, Counsel.
+
+**[00:59:58.450] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, Your Honor. Same exhibit.
+
+**[01:00:07.570] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr.
+
+**[01:00:14.750] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, napanood mo ang video. Ano ang kaugnayan nito sa insidente ang tinukoy mo kanina, kung saan sinabi ng Vice Presidente, I imagine myself cutting his head.
+
+**[01:00:25.330] Atty. Melvin Matibag**  
+Yan din po yung video ang aking tinutukoy.
+
+**[01:00:28.730] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, kanina ay binanggit mo ang insidente Nang Mayor Sebastian Duterte, Kaninong ulo ang kailangan nila kung iyong nalalaman?
+
+**[01:00:43.570] Sen. Francis “Chiz” Escudero**  
+Askin answered, move on council.
+
+**[01:00:46.570] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bilanggit mo din ang video ni Vice President Sara Duterte. Mr. Witness, kaninong ulo ang gustong tanggalin?
+
+**[01:01:01.230] Sen. Francis “Chiz” Escudero**  
+Move on, counsel. Ask and answer. The Court understands and knows who said the Vice President was referring to in that video.
+
+**[01:01:08.500] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Thank you, Your Honor. We will proceed. Ano ang observation mo dito sa video ni Mayor Sebastian Duterte at sa video ni Vice President Sara Duterte kaugnay ng imbistigasyon ng Special Task Force kung mayroon man?
+
+**[01:01:26.130] Atty. Mark C. Vinluan**  
+Objection, vague, Your Honor. Ano ang observation mo?
+
+**[01:01:29.670] Sen. Francis “Chiz” Escudero**  
+Kindly be more specific, counsel. Although the witness is competent, kindly be more specific so that the witness can more intelligently answer the question.
+
+**[01:01:38.710] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, anong koneksyon kung mayroon man ang video ni Mayor Sebastian Duterte at ang video ni Vice President Sara Duterte sa kasalukuyang imbestigasyon ng Special Task Force? Kung mayroon man at kung hindi yung nalalaman.
+
+**[01:01:57.110] Atty. Mark C. Vinluan**  
+Objection, Your Honor. Objection, Your Honor. Still vague and unanswered.
+
+**[01:01:59.830] Sen. Francis “Chiz” Escudero**  
+Witness may answer if you know, so that we can move on. Director Matibag, kindly respond.
+
+**[01:02:05.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Salamat po.
+
+**[01:02:06.970] Atty. Melvin Matibag**  
+Kapansin-pansin po na makikita natin na nanggagaling sa isang pamilya ang pagbabanta sa ating Pangulo at parehas na nagre-refer sa ulo ng Pangulo. Kung kaya naman iniisip po namin kung meron bang kasabwat o may sabwatan sa pangyayaring ito. Sapagkat gaya po ng aking binanggit, noong November 23, binanggit po ng ating Presidente na meron na siyang kinausap para pumatay sa ating Pangulo at pumayag siya. Kaya ito po ang amin pong tinututukan sa task force na amin pong itinatag.
+
+**[01:02:43.400] Atty. Mark C. Vinluan**  
+Objection, Your Honor. We would have to object as to the answer being non-responsive, and we would like to move, Your Honor, that it be expunged from the records.
+
+**[01:02:53.860] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the witness has answered already and that should form part of the transcript of our trial today.
+
+**[01:03:01.380] Atty. Mark C. Vinluan**  
+Then we move to strike it off, Your Honor.
+
+**[01:03:02.980] Sen. Francis “Chiz” Escudero**  
+The objection is overruled and the motion to strike is denied. Let it remain in the records for the appreciation of the Senator-Judges as to the weight they will give that particular part of the witness's testimony. We will submit, Your Honor.
+
+**[01:03:19.910] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kanina na may kinausap ng tao ang vicepresidente. Ano ang kahalagahan nito sa inyong investigasyon sa Special Task Force? Kung mayroon man.
+
+**[01:03:32.720] Atty. Melvin Matibag**  
+Sa pagkat ito po, yung aming mismong tinitingnan, sa pagkat ang tingin nga po namin dito, that the threat is serious, active, and continuing doon po sa banta sa ating presidente. At dahil ito ay seryoso, aktibo, Atty. Patuloy na Umiiral ay nagiging banta na rin po sa ating pambansang siguridad. Sapagkat anuman pong banta sa siguridad ng ating Pangulo ay banta po sa ating national security.
+
+**[01:04:04.190] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, ano ang inyong obserbasyon kung mayroon man doon sa sinabi ng Vice Presidente na mayroon na siyang kinausap na tao?
+
+**[01:04:16.820] Atty. Mark C. Vinluan**  
+Objection vague, Your Honor.
+
+**[01:04:20.300] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the Witness is very much competent. Please allow him to answer the question.
+
+**[01:04:26.910] Sen. Francis “Chiz” Escudero**  
+Objection overruled. Witness may answer. Kindly move on, counsel. I think I know where you're getting at. But kindly move on toward your point. Witness may answer.
+
+**[01:04:37.650] Atty. Melvin Matibag**  
+Ang observation po namin dito ay hindi na ito isang banta, kundi isang plano. Sapagat ang tingin po namin dito ay ini-annunsyo ng ating vice-presidente ang kanyang planong pagpatay sa Pangulo ng Pilipinas at mga nabanggit pa ang kanyang
+
+**[01:05:05.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ano ang pagkakaiba kung mayroon man ng investigasyon ng NBI noong November 2024 sa kasalukuyang investigasyon ng Special Task Force? Na nag-umpisa noong Abril 2026.
+
+**[01:05:24.920] Atty. Melvin Matibag**  
+Malaki po ang pagkakaiba. Yung investigasyon po na naginawa noong November 24 na nag-iimbestiga tuon po sa grave threat at sa inciting to sedition, ito po ay ordinaryong krimen na iniimbestigahan na sa ngayon po ay nakabimbin na sa Department of Justice para sa kanilang resolusyon. Pero ang amin pong iniimbestigan ay sinuulit ko nga po The serious, active, and continuing threat to the life of the President which already transcends to a national security issue. Sapagkat malinaw po na hindi na ito banta, kundi isang plano na patayin ang Pangulo ng Pilipinas.
+
+**[01:06:06.760] Sen. Francis “Chiz” Escudero**  
+With the permission of the Council of the Parties, Chair would like to clarify for the record and for the Senator-Judges that the investigation conducted by the NBI in November of 2020
+
+**[01:06:42.580] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, ano ang dahilan? Bakit kasama ang video ni Mayor Sebastian Duterte sa inyong sinasabi ngayon na ang bantang ito ay banta na sa national security, kung mayroon man?
+
+**[01:06:59.740] Atty. Mark C. Vinluan**  
+Objection. Asked and answered, Your Honor.
+
+**[01:07:02.200] Sen. Francis “Chiz” Escudero**  
+Asked and answered, counsel. Move on.
+
+**[01:07:04.310] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, as a matter of fact, we haven't asked that question and the witness is supposed to explain. The reasons why the video was actually considered in their observation that this is a threat to national security?
+
+**[01:07:18.970] Sen. Francis “Chiz” Escudero**  
+I believe the witness already answered that any threat to the president is a threat to the national security of the country. And earlier, the council already asked the relationship of the video to that statement of the witness, which the chair allowed. We're already there, council. Please move on.
+
+**[01:07:42.700] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bilang karagdagan, Mr. Witness, sa iyong binanggit na issue ng national security, kaugnay ng video ni Mayor Sebastian Duterte, ano pa ang dahilan kung mayroon man kung bakit isinama siya sa pagsusuri ng Special Task Force?
+
+**[01:08:00.440] Atty. Melvin Matibag**  
+Sapagkat dito na nga po makikita na ang naging pagbabanta ng ating Vice President ay nagkaroon po ng tinatawag nating epekto. It is a kinetic force na kung saan yung mga nakarinig ng kanyang pagbabanta ay gumagaya na rin at nagbabanta, lalong-lalo na sila ay nabibilang sa isang pamilya. That is the very purpose of the task force: to monitor all those threats na lumalabas po ngayon. At sa araw-araw nga ay meron po tayong nakikitang threat sa social media, sa mga pahayag po during the mga rally, tuloy-tuloy po na banta sa ating Pangulo na umaabot na po na banta sa ating national security.
+
+**[01:08:43.760] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit mo ang kinetic force. Anong ibig sabihin nito, Mr. Witness?
+
+**[01:08:49.040] Atty. Melvin Matibag**  
+Yung kanila pong aksyon ay nagkakaroon po ng epekto para kumilos ang mga nakakarinig, ang kanilang mga supporter, upang maghasik po ng ligalig at kaguluhan po sa ating bansa at hindi na nirerespeto ang ating Constitution at wala na rin pong pagtingin sa ating democratic process.
+
+**[01:09:07.200] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ano ba ang dahilan kung meron man? Bakit isinama sa pagsusuri ang video ni Mayor Sebastian Duterte kaugnay ng Rage Coalition Rally?
+
+**[01:09:37.200] Atty. Melvin Matibag**  
+Sa demokrasya po natin at nandiroon din po yung broadcast na yan. Napakarami pong naabot na tao. Nasa 600,000 plus po yung live broadcast niyan. Doon na po papasok yung tinatawag ko nga kanina na sinabi kong kinetic force na maaaring magkaroon po ng reaksyon ng mga taong nanonood na ito na hindi po maganda at makagugulo po sa pag-promote po natin ng law and order na primero po nagawain po dapat ng National Bureau of Investigation.
+
+**[01:10:05.240] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit mo na may mga kilalang personalidad na nakibahagi sa Rage Coalition Rally. Sino-sino itong mga ito?
+
+**[01:10:32.920] Atty. Melvin Matibag**  
+Mga iba't ibang leaders sa iba't ibang region na akin na pong nakasama noon nung ako'y miyembro pa ng PDP Laban.
+
+**[01:10:39.240] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, ano ang ibig sabihin ng rage kung iyong nalalaman?
+
+**[01:10:43.620] Atty. Mark C. Vinluan**  
+Jackson, Your Honor, irrelevant.
+
+**[01:10:46.590] Sen. Francis “Chiz” Escudero**  
+I think council has already made the connection between the rage, the statements of Mayor Baste, and the statements of the respondent. Witness, may answer?
+
+**[01:10:57.890] Atty. Melvin Matibag**  
+Sa Tagalog po niyan ay galit o puot.
+
+**[01:11:02.220] Atty. Melvin Matibag**  
+Yun po.
+
+**[01:11:03.230] Sen. Francis “Chiz” Escudero**  
+Wala pong acronym yun, Director Matib?
+
+**[01:11:07.130] Atty. Melvin Matibag**  
+Hindi po kasi tumutugma doon sa acronym nila, dahil yung acronym nila, Reform Alliance for Good Governance. So hindi po RAGE eh. So medyo malayo po.
+
+**[01:11:20.840] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+May I proceed, Your Honor?
+
+**[01:11:21.800] Sen. Francis “Chiz” Escudero**  
+Counsel may proceed.
+
+**[01:11:23.060] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nabanggit mo din Mr. Witness na maraming nanood ng videong ito. Ilan ang nanood ng videong ito kung iyong nalalaman?
+
+**[01:11:32.110] Atty. Melvin Matibag**  
+Sa live broadcast po, lumabas po na nasa 600,000.
+
+**[01:11:35.750] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+At ano ang kahalagahan na 691,000 ang nanood sa live broadcast ng videong ito kung mayroon man?
+
+**[01:11:44.450] Atty. Melvin Matibag**  
+Again, ganun na po kalawak yung nakikita natin na risulta ng pag-asik po, ng ligalik po, at pagbabanta po sa kayusan, pati na rin po sa siguridad ng ating Pangulo.
+
+**[01:11:56.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, kanina binanggit mo ang pagkakaiba. Nang naunang imbistigasyon ng NBI sa kasalukuyang imbistigasyon ng Special Task Force ng NBI. Ngayon, ano naman ang ginawa ng NBI sa pagitan ng unang imbistigasyon kung saan na-file ang kasong grave threat at inciting to sedition sa DOJ February 2025 sa kasalukuyang imbistigasyon ng Special Task Force na inumpisahan nung buoin. Ang STF April 2026. Kung mayroon man.
+
+**[01:12:34.360] Atty. Melvin Matibag**  
+Ang sa pag-alas
+
+**[01:12:36.380] Sen. Francis “Chiz” Escudero**  
+ko po. Council, you mean April 16, 2026. That's the, um, you're referring to AO11.
+
+**[01:12:42.600] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, Your Honor.
+
+**[01:12:43.660] Sen. Francis “Chiz” Escudero**  
+Witness may answer.
+
+**[01:12:44.460] Atty. Melvin Matibag**  
+Doon po, base po sa tanong, mula February 25, 2025, ako po ay hindi pa NBI noon. Subalit nung ako po ay nag-assume noong February 20, kasama po sa ating pinag-aralan 'yan, at alam naman po natin na ang mandato ng NBI ay ang patuloy na bantayan ang seguridad ng ating mga opisyal at siguraduhin na may law and order. So ako po ay na-apprise naman na tuloy-tuloy ang monitoring at consultation po at surveillance na ginagawa ng iba't ibang unit noon. Ngayon, nung ako naman po ay pumasok bilang—
+
+**[01:13:28.300] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr.
+
+**[01:13:30.980] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, maraming salamat sa iyong paglilinaw, kaugnay ng nauna at ng kasalukuyang investigasyon ng NBI.
+
+**[01:13:39.160] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kaugnay pa rin ng Special Task Force. Ano ang iyong naging direktiba kung mayroon man? Kaugnay ng video ni Mayor Sebastian Duterte noong April 12, 2026.
+
+**[01:13:55.260] Atty. Melvin Matibag**  
+Akin pong ipinag-utos to the task force na may authenticate at may preserve itong video nito sapagkat pa rin pong iniisip na ito'y magiging material sa aming pong pag-iimbestiga at sa darating po na panahon na amin po itong gagamitin.
+
+**[01:14:09.960] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, sino ang iyong inutusan? Upang ma-preserve at ma-authenticate ang video ni Mayor Sebastian Duterte na tinukoy mo.
+
+**[01:14:21.950] Atty. Melvin Matibag**  
+Ito po ay aming naitoka kay Agent Edgar Apolonyo po ng Cybercrime Division po.
+
+**[01:14:29.330] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ano naman ang iyong patunay na ang videong ito ay na-preserve at na-authenticate ni Agent Edgar Apolonyo kung mayroon man?
+
+**[01:14:40.700] Atty. Melvin Matibag**  
+Ako po ay nakakuha ng kopya ng Affidavit of Authentication na ipinasap po sa aking tanggapan at akin po itong nahawakan po.
+
+**[01:14:53.040] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, we are requesting that Affidavit of Authentication of Edgar Apolonio, previously marked as Exhibit P431, be flashed. Likewise, Your Honor, we are requesting that We allow assisting counsel to present the document to the witness for confirmation.
+
+**[01:16:04.520] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, we are presenting to you a document entitled Affidavit of Authentication. Ano ang kaugnayan nito sa Affidavit of Authentication ni Agent Edgar Apolonio na tinukoy mo kanina?
+
+**[01:16:21.210] Atty. Melvin Matibag**  
+Ito po ang Affidavit of Authentication na aking binabanggit.
+
+**[01:16:25.160] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We manifest your honor that the same has been previously marked as Exhibit P431. Sa pahina 2, makikita isang lagda sa ibabaw ng pangalang Agent Edgar Apolonyo. Mr. Witness, kaninong lagda iyan kung iyong nalalaman?
+
+**[01:16:43.810] Atty. Melvin Matibag**  
+Kay Agent Edgar Apolonyo po.
+
+**[01:16:46.190] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, paano mo nalaman na ang lagdang iyan ay lagda ni Agent Edgar Apolonyo?
+
+**[01:17:12.790] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Maraming salamat sa iyong paglilinaw. Ngayon ay puntahan natin ang investigasyon ng Special Task Force
+
+**[01:17:26.650] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Sa banta ng Vice Presidente sa buhay ng Presidente, ano ang mga ginamit ninyong batayan, kung mayroon man, sa inyong pag-iimbestiga sa Special Task Force?
+
+**[01:17:42.160] Atty. Melvin Matibag**  
+Consistent po sa ginagamit ng protective intelligence methodology ng Secret Service ng America, diyan po sa tinatawag natin na if there is a threat to a known personality, meron po silang mga pamantayan at doon din po namin ibinase itong pamantayan na ito. Lima po itong pamantayan na amin pong ginamit.
+
+**[01:18:06.370] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, binanggit mo na meron kayong ginamit na limang pamantayan. Ano-ano itong mga limang pamantayan na binanggit mo?
+
+**[01:18:18.870] Atty. Melvin Matibag**  
+Una na po rito yung pattern of violence po.
+
+**[01:18:23.570] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bukod sa pattern of violence, ano pa kung mayroon pa?
+
+**[01:18:28.090] Atty. Melvin Matibag**  
+Yung pong gravity at seriousness or seriousness po ng isa pong pangyayari.
+
+**[01:18:35.000] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Anong sunod dito kung mayroon pa?
+
+**[01:18:37.800] Atty. Melvin Matibag**  
+Yung pong identity and identifying characteristic po ng involved po doon sa pangyayari.
+
+**[01:18:46.840] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bukod sa identity, ano pa Mr. Witness kung mayroon man?
+
+**[01:18:51.220] Atty. Melvin Matibag**  
+Ang isa po rito ay yung kakayanan po at kapasidad po ng nabanggit po na subject po.
+
+**[01:18:58.180] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+At bukod sa apat na iyong nabanggit, ano pa ang inyong ginamit na batayan kaugnay ng investigasyon na ito?
+
+**[01:19:05.860] Atty. Melvin Matibag**  
+Yung pong tinatawag na motive o motibo at intent po ng personality po.
+
+**[01:19:11.350] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, balikan natin ang pattern of violence na una mong binanggit kanina. Ano ang inyong sinuri? Kung mayroon man, kaugnay ng pattern of violence ng Vice Presidente.
+
+**[01:19:26.400] Atty. Melvin Matibag**  
+Sa tulong po ng aming Special Task Force ay amin pong binalikan ang mga pangyayari na lumabas sa media, mga open-source intel namin. At doon po nakita namin yung isang event noong mayor pa po ang ating Vice President Sara Duterte, na may isang sheriff na gustong gawin ang kanyang tungkulin at legal na atas ng korte na magpatupad po ng demolition order. Subalit hindi po ito nagustuhan ng noon ay mayor at ngayo'y Vice Presidente, kung saan tinawag po niya yung sheriff at pinagsusuntok po sa mukha itong sheriff na ito.
+
+**[01:20:09.730] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, binanggit mo ang isang insidente ng sheriff na pinagsusuntok sa mukha. May ipapakita akong video.
+
+**[01:20:32.190] Video Playback Narration**  
+Noong July 2011, habang nakaupong mayor ng Davao City, sinapak ni Vice President Sara Duterte ang isang court sheriff.
+
+**[01:20:39.700] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ito ba ang insidente ang tinutukoy mo?
+
+**[01:20:42.900] Atty. Melvin Matibag**  
+Tama po. Yan po.
+
+**[01:20:44.980] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bukod sa insidente ng sheriff na sinuntok ng vicepresidente, ano pa kung mayroon man ang inyong sinuri kaugnay ng pattern of violence ng vicepresidente?
+
+**[01:20:59.060] Atty. Melvin Matibag**  
+As part of our investigation, kami po ay nakakakuha ng mga dokumento related po dito sa aming inimbestigan kung saan we got hold of a affidavit of a Ito pong dating polis ni si Arturo Lascanas na self-confessed member ng DDS na kung saan doon po sa kanyang abit-abit na yan ay atin pong nakita at inilarawan po at sinasabi nitong ni Arturo Lascanas na ang vice-presidente mismo ay kasama doon sa Oplan Tokhang, isa sa mga arkitekto ng Oplan Tokhang. At dito rin po niya sinabi,
+
+**[01:21:44.680] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr.
+
+**[01:21:52.280] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, nabanggit mo ang affidavit ni Arturo Lascañas. Nasaan? Ang affidavit na tinutukoy mo.
+
+**[01:21:59.750] Atty. Mark C. Vinluan**  
+Atty. Jackson, Your Honor, may we know the relevance of all these questions?
+
+**[01:22:02.590] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, we are establishing the pattern of violence. And this is very much relevant.
+
+**[01:22:09.190] Sen. Francis “Chiz” Escudero**  
+Witness may answer.
+
+**[01:22:10.830] Atty. Melvin Matibag**  
+Sa pagkakaalam ko po, ang affidavit na ito ay naka-submit po sa International Criminal Court na sa kasalukuyan po ay dumidinig ng kaso ng extrajudicial killings po.
+
+**[01:22:22.850] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kaugnay pa rin ng affidavit of Arturo Lascañas.
+
+**[01:22:29.280] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nasaan ang kopya nito kung mayroon ka man?
+
+**[01:22:33.080] Atty. Mark C. Vinluan**  
+Objection, Your Honor. The witness is not competent to provide an answer on an affidavit that he did not execute.
+
+**[01:22:40.460] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I respond?
+
+**[01:22:42.800] Sen. Francis “Chiz” Escudero**  
+Lead Counsel may
+
+**[01:22:43.920] Sen. Francis “Chiz” Escudero**  
+respond.
+
+**[01:22:44.740] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, this affidavit of Arturo Lascañas can be considered as a declaration against interest.
+
+**[01:22:55.750] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+He is saying in the affidavit,
+
+**[01:23:00.080] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Na siya ay hitman. Na siya ay bahagi ng Davao Death Squad. And under the rules, your honor, this may be considered also even with respect to third party. And in this particular case, your honor, the vice president, the respondent, is the third party.
+
+**[01:23:22.020] Atty. Mark C. Vinluan**  
+Just had to join there, your honor. counsel for the respondent then we would have to object to that your honor because um it will be mr las canas if at all who has the personal knowledge we're already going into the contents of such affidavit and the witnesses is incompetent to testify on that
+
+**[01:23:38.320] Sen. Francis “Chiz” Escudero**  
+general make
+
+**[01:23:39.620] Atty. Mark C. Vinluan**  
+a ruling um
+
+**[01:23:42.730] Sen. Francis “Chiz” Escudero**  
+It is of no moment that it is a declaration against interest. Again, it is not an exception to the hearsay rule. It is certainly not a declaration against the interest of the witness. However, the court will allow it as part of the testimony and narration only of the witness, not as to the truth of the allegations of fact contained in the affidavit of Las Cañas, just as to the fact that the affidavit went through the office of the NBI director, that he knows of the affidavit, but certainly, for the information likewise of the Senator-Judges, not as to the truth of the allegations stated in the Las Cañas affidavit. Witness may answer.
+
+**[01:24:24.800] Atty. Mark C. Vinluan**  
+Your Honor, we will submit, but we register a continuing objection.
+
+**[01:24:28.380] Sen. Francis “Chiz” Escudero**  
+The continuing objection of the council of correspondent is duly noted and entered into the records.
+
+**[01:24:33.860] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, kaugnay pa rin ng affidavit. Arturo Lascañas.
+
+**[01:24:41.100] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nasaan ang kopya ng affidavit na ito?
+
+**[01:24:43.900] Atty. Melvin Matibag**  
+Meron po akong CP.
+
+**[01:24:45.280] Sen. Francis “Chiz” Escudero**  
+Counsel, witness already answered. He said it is in the ICC, I believe.
+
+**[01:24:49.440] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, I am pertaining to his actual copy.
+
+**[01:24:53.620] Sen. Francis “Chiz” Escudero**  
+You may proceed, Counsel. Witness may answer.
+
+**[01:24:57.240] Atty. Melvin Matibag**  
+Nandito po sa akin. Dala-dala ko po 'yung kopya ng affidavit.
+
+**[01:25:00.880] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may we allow the witness to take from... To present his own copy.
+
+**[01:25:07.000] Sen. Francis “Chiz” Escudero**  
+Witness is allowed to produce a copy he is referring to in his testimony.
+
+**[01:25:25.540] Sen. Francis “Chiz” Escudero**  
+For the record, assisting counsel for the respondent as well as assisting counsel for the prosecution are viewing the page being referred to by the witness.
+
+**[01:25:40.440] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, just a comment.
+
+**[01:25:42.480] Sen. Francis “Chiz” Escudero**  
+Counsel for respondent is recognized.
+
+**[01:25:44.400] Atty. Mark C. Vinluan**  
+Your Honor, it appears that this document has not been marked during the pretrial conference. So—
+
+**[01:25:50.240] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I respond to that?
+
+**[01:25:51.600] Atty. Mark C. Vinluan**  
+Not yet done with my manifestation.
+
+**[01:25:52.960] Sen. Francis “Chiz” Escudero**  
+Let counsel for respondent finish, counsel.
+
+**[01:25:55.240] Atty. Mark C. Vinluan**  
+So, in other words, may we request, Your Honor, that we be given a copy of such document as well for our perusal?
+
+**[01:26:01.240] Sen. Francis “Chiz” Escudero**  
+The prosecutor is so instructed to kindly furnish a copy, if indeed this document has not yet been marked.
+
+**[01:26:08.000] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I respond to that?
+
+**[01:26:09.560] Sen. Francis “Chiz” Escudero**  
+Counsel may respond.
+
+**[01:26:10.640] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+The affidavit of Arturo Lascañas has been previously marked as P-2-10-1-W, Your Honor, for the prosecution.
+
+**[01:26:22.320] Atty. Mark C. Vinluan**  
+Then I stand corrected, Your Honor, but can we still request for a copy?
+
+**[01:26:26.280] Sen. Francis “Chiz” Escudero**  
+Nevertheless, kindly give counsel for respondent a copy.
+
+**[01:26:29.080] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We submit, Your Honor.
+
+**[01:26:29.680] Sen. Francis “Chiz” Escudero**  
+Counsel for respondent, rather, a copy. Thank you, counsel.
+
+**[01:26:44.530] Atty. Mark C. Vinluan**  
+But we make the manifestation, Your Honor, that such- Counsel may
+
+**[01:26:48.090] Sen. Francis “Chiz” Escudero**  
+proceed to make a manifestation.
+
+**[01:26:49.530] Atty. Mark C. Vinluan**  
+That such exhibit was indeed marked, but it was marked under Article 2, Your Honor, not Article 4.
+
+**[01:26:56.940] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We confirm, Your Honor. Nevertheless, we maintain that this document has been marked during the pre-trial conference, Your Honor.
+
+**[01:27:03.560] Sen. Francis “Chiz” Escudero**  
+Julie Noted.
+
+**[01:27:07.500] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness?
+
+**[01:27:40.840] Atty. Mark C. Vinluan**  
+Is this part of the mark?
+
+**[01:27:43.680] Unknown speaker**  
+Oo, this is part of the...
+
+**[01:27:47.380] Atty. Mark C. Vinluan**  
+Just an additional comment, Your Honor.
+
+**[01:27:50.440] Sen. Francis “Chiz” Escudero**  
+Counsel may proceed.
+
+**[01:27:51.920] Atty. Mark C. Vinluan**  
+It appears that the two documents are not the same, in that the marked document contains a page and attached thereto is a USB. However, the copy of Director Matibag does not contain that page, Your Honor.
+
+**[01:28:11.800] Sen. Francis “Chiz” Escudero**  
+I'm sorry, Counsel.
+
+**[01:28:13.940] Atty. Mark C. Vinluan**  
+It appears, Your Honor, that the two documents are not the same.
+
+**[01:28:18.440] Sen. Francis “Chiz” Escudero**  
+What two documents are you referring to?
+
+**[01:28:20.060] Atty. Mark C. Vinluan**  
+The marked exhibit and the set of documents from Director Matibag. With all due respect, Your Honor, the copy that was marked contains a page with annexes, including a USB, and such page does not appear in the copy provided by Director Matibag.
+
+**[01:28:39.740] Sen. Francis “Chiz” Escudero**  
+So the copy of Director Matibag does not contain a page with an attached USB?
+
+**[01:28:47.680] Atty. Mark C. Vinluan**  
+That's correct, Your Honor. It's incomplete.
+
+**[01:28:49.760] Sen. Francis “Chiz” Escudero**  
+Does Counsel for the Prosecutors, Assisting Counsel for the Prosecutors or Lead Counsel confirm that? For the record?
+
+**[01:28:58.430] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We confirm, Your Honor. Nevertheless, the representation of the witness is that the copy is his own copy and does not pertain to the copy of the prosecution. And we will be willing, Your Honor, to use the pre-marked copy for the purpose of confirmation of the witness, Your Honor.
+
+**[01:29:21.910] Sen. Francis “Chiz” Escudero**  
+If you have it with you, Counsel, why not just use that copy?
+
+**[01:29:26.510] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, Your Honor. So that we can go directly to it, unless there are any reservations.
+
+**[01:29:31.030] Atty. Mark C. Vinluan**  
+We are okay, Your Honor. Your Honor, if I may be recognized. We are okay with confronting the witness with a copy that was earlier marked.
+
+**[01:29:56.580] Sen. Francis “Chiz” Escudero**  
+Julie noted, again, days without prejudice to The Council for the Prosecutor, Furnishing Council, corresponded with a copy of the exact document produced by Director Matibag for further comparison and or observation either during cross or future proceedings later on.
+
+**[01:30:16.740] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We submit, Your Honor.
+
+**[01:30:17.820] Atty. Mark C. Vinluan**  
+Your Honor, just a correction. There was a stamp, Your Honor, and a signature but there was no name. Just for the record, Your Honor.
+
+**[01:30:26.000] Sen. Francis “Chiz” Escudero**  
+Duly
+
+**[01:30:26.240] Sen. Francis “Chiz” Escudero**  
+noted for the
+
+**[01:30:26.880] Sen. Francis “Chiz” Escudero**  
+record.
+
+**[01:30:30.150] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+With
+
+**[01:30:30.670] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+the permission of the court, we'll be using the pre-marked document, Your Honor, for the purpose of confirmation.
+
+**[01:30:36.310] Sen. Francis “Chiz” Escudero**  
+Likewise, for the information of the counsel for respondent, would that be okay?
+
+**[01:30:40.070] Atty. Mark C. Vinluan**  
+That was identified by the witness in open court. What he identified was his own copy, and that copy does not contain the USB.
+
+**[01:31:04.710] Sen. Francis “Chiz” Escudero**  
+The exhibits can be later on compared with a certified true copy at a later date as has been previously done by the parties. In the meantime, chair will allow the witness to use his copy without prejudice to any differences that may be shown either through cross or through the comparison after a copy shall have been furnished to the council for respondents.
+
+**[01:31:29.210] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Will we confirm, Your Honor,
+
+**[01:31:30.850] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+which copy we will be using for confirmation? The Council
+
+**[01:31:32.890] Sen. Francis “Chiz” Escudero**  
+produced by Director Matibag will be the one that will be used.
+
+**[01:31:36.730] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, kanina, binanggit mo ang Tokhang, Laud Quarry, at ang Vice Presidente.
+
+**[01:31:51.060] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Saang particular na bahagi ng affidavit ni Arturo Lascañas na ipinapakita mo ngayon tumutukoy dito sa mga binanggit mo?
+
+**[01:32:03.020] Atty. Mark C. Vinluan**  
+Objection, Your Honor. Then that already goes into the contents of such affidavit, and since the witness is not the one who executed the affidavit, then he has no personal knowledge and is incompetent to answer that question, Your Honor.
+
+**[01:32:14.300] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I respond?
+
+**[01:32:15.960] Atty. Mark C. Vinluan**  
+But the Court already ruled, Your Honor.
+
+**[01:32:17.940] Sen. Francis “Chiz” Escudero**  
+Counsel for the respondent—counsel for the prosecutor may respond before the Court rules on the objection.
+
+**[01:32:23.070] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the witness is merely pointing to that pertinent portion of the affidavit. And later, Your Honor, for the record, we will just be asking him to read into the records.
+
+**[01:32:33.890] Atty. Mark C. Vinluan**  
+The short rejoinder, Your Honor. Counsel for the Respondent may give his rejoinder. Objection. The document will speak for itself.
+
+**[01:32:42.290] Sen. Francis “Chiz” Escudero**  
+Chair sustains the objection, counsel, for the prosecutors. The document will speak for itself and the document will be furnished to the senator judges anyway, given that it's part of the annexes. Let the witness merely testify as to the fact that he included the affidavit of Mr. Lascañas as part of his investigation and part of his narration of his investigation to prove, quote, pattern of violence. But again, not as to the truth and the contents of the affidavit itself. Move on, counsel.
+
+**[01:33:18.000] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+With that, your honor, we will be requesting for the sub-marking of the pertinent portion of the affidavit of Arturo Lascañas, the witness already referred to.
+
+**[01:33:29.820] Sen. Francis “Chiz” Escudero**  
+Again, only as to tenor but not as to the truth, counsel. For the record and for the information of the senator judges, you may do so.
+
+**[01:33:37.900] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+For purposes, your honor, of reference. Which particular portion to be submarked, Your Honor? May we ask the witness to make reference or point which part of that affidavit he is referring to?
+
+**[01:33:54.180] Sen. Francis “Chiz” Escudero**  
+In his investigation, counsel.
+
+**[01:33:56.500] Atty. Mark C. Vinluan**  
+Same objection, Your Honor.
+
+**[01:33:58.360] Sen. Francis “Chiz” Escudero**  
+As part of his investigation, witness may answer.
+
+**[01:34:01.580] Atty. Melvin Matibag**  
+As part of our investigation, ang importante po para sabi dito in establishing the pattern of violence is yung Paragraph 270 and Paragraph 270B and
+
+**[01:34:17.780] Atty. Melvin Matibag**  
+Paragraph 270D.
+
+**[01:34:23.390] Atty. Melvin Matibag**  
+270.
+
+**[01:34:26.260] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+For purposes of submarking, Your Honor, may we ask which particular part of Paragraph 270 the witness first referred to?
+
+**[01:34:38.200] Atty. Mark C. Vinluan**  
+Your Honor, manifestation.
+
+**[01:34:46.400] Sen. Francis “Chiz” Escudero**  
+Counsel for Respondent,
+
+**[01:34:48.240] Atty. Mark C. Vinluan**  
+may proceed. All right. Your Honor, this pertains to an affidavit of Arturo Lascañas, and on page 186, Your Honor, of such affidavit, it appears that even the signature is not a wet signature. It's a printed copy, and there's a subscription and sworn-to portion thereof, but it's not notarized at all. So this is a mere scrap of paper, Your Honor.
+
+**[01:35:13.010] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the document is being presented only to seek confirmation from the witness that he is referring to this particular document as part of the investigation of Special Task Force. We are not presenting it to prove the truthfulness of the contents of the affidavit. The question only, Your Honor, is whether or not this is the document that was part of the consideration of the Special Task Force in investigating on the threat by the President to the life of the President.
+
+**[01:35:44.560] Atty. Mark C. Vinluan**  
+A short rejoinder, Your Honor.
+
+**[01:35:45.960] Sen. Francis “Chiz” Escudero**  
+Counsel may give a rejoinder or additional manifestation.
+
+**[01:35:49.500] Atty. Mark C. Vinluan**  
+Then we will not allow this witness to build on the basis of a mere scrap of paper, Your Honor.
+
+**[01:35:56.100] Sen. Francis “Chiz” Escudero**  
+Counsel, it was the counsel for respondent who chose to use this copy instead of the one previously marked that I presume is either certified true
+
+**[01:36:12.040] Sen. Francis “Chiz” Escudero**  
+Or contains a more complete signature.
+
+**[01:36:16.900] Atty. Mark C. Vinluan**  
+Then I would have to clarify, Your Honor, that it is our position. Well, first of all, we are not in the position to choose for this witness. But in the event that they use this document, we manifest, Your Honor, upon perusal that such document is unsigned and unnotarized, Your Honor. This is an affidavit. So, in other words, without the proper notarization and without the proper signature, then it's a mere scrap of paper. We cannot allow this witness to build his testimony based on
+
+**[01:36:43.080] Atty. Mark C. Vinluan**  
+this document.
+
+**[01:36:44.360] Atty. Mark C. Vinluan**  
+In fact, Your Honor, we request, Your Honor, that this court peruse also page 186 of such document.
+
+**[01:36:53.000] Sen. Francis “Chiz” Escudero**  
+Before the court makes a ruling, the presiding officer makes a ruling, the pre-marked document, is it notarized?
+
+**[01:37:02.410] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+May I raise a question to the witness so that he will answer and enlighten us on why the document is not notarized? You
+
+**[01:37:11.970] Sen. Francis “Chiz” Escudero**  
+may counsel. So you're admitting that it's not notarized? Even your premarked copy is not notarized, whether we use that copy or this one?
+
+**[01:37:18.470] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We admit to that, Your Honor.
+
+**[01:37:19.970] Sen. Francis “Chiz” Escudero**  
+The witness will please explain why he is using in his investigation a document and or affidavit that is not...
+
+**[01:37:31.580] Sen. Francis “Chiz” Escudero**  
+Subscribe to or under oath. So it is not even an affidavit but merely a statement.
+
+**[01:37:38.840] Atty. Melvin Matibag**  
+Alam niyo po, Your Honor, sa law enforcement po meron po tayo mga tinatawag na open source intel. At ito po ay pinadala sa atin at ating pong susundahan. At kaya nga po ang aming pong investigasyon ay isang continuing investigation, open, continuing, and active investigation. Sa pagka dito bang ganitong dokumento ay amin ding ikukumpara pa.
+
+**[01:38:07.880] Sen. Francis “Chiz” Escudero**  
+So for the
+
+**[01:38:13.220] Sen. Francis “Chiz” Escudero**  
+second time and for the sake of clarity and then for the information and guidance of the senator judges, the document being identified by the witness is unsigned, is not notarized, not under oath. It is only as to the fact that they used this document in their investigation or as part of their investigation but not as to the truth of the allegations contained in that unsubscribed document that was not made under oath.
+
+**[01:38:52.700] Atty. Mark C. Vinluan**  
+It doesn't qualify as a signature. With
+
+**[01:38:54.480] Sen. Francis “Chiz” Escudero**  
+the additional manifestation of the respondent, so noted, what is the manifestation of the council for the prosecutors?
+
+**[01:39:02.120] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, based on the ICC, as relayed to us by our witness in the next article or in the last article that we will present, the ICC does not require Notarization of Document Noted,
+
+**[01:39:24.020] Sen. Francis “Chiz” Escudero**  
+but we are not the ICC Council. Again, we're just placing on the record and for the record the factual situation concerning the document that the witness is testifying to for the information and guidance of the Senator-Judges. Counsel for the panel of prosecutors, you may proceed.
+
+**[01:39:41.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, for purposes of sub-marking, can you read just a portion of paragraph 270? Just for the guidance of the impeachment court.
+
+**[01:39:54.610] Atty. Mark C. Vinluan**  
+Again, Your Honor, same objection. The document will speak for itself. Best evidence of this statement is the document.
+
+**[01:40:01.770] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+As previously ruled,
+
+**[01:40:03.690] Atty. Mark C. Vinluan**  
+the court
+
+**[01:40:03.970] Sen. Francis “Chiz” Escudero**  
+will allow it. Again, given the limited consideration that the court will give this testimony of the witness and not the truth of what he will read. Witness, may I answer?
+
+**[01:40:15.070] Atty. Melvin Matibag**  
+Paragraph 270. The years of 2012 to 2013.
+
+**[01:40:20.720] Atty. Melvin Matibag**  
+were the birth of Tokhang operations and the evil side of enforcement in Davao City by its author, the newly installed Davao City Police Office Director Colonel Ronald Bato de la Rosa. The operations were all cleared and approved by Mayors Inday Sara Zimmerman Duterte Carpio and Rodrigo Roa Duterte.
+
+**[01:40:40.540] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, we are requesting that the portion read by the witness be bracketed and marked as Exhibit P4-35.
+
+**[01:40:51.660] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+What else is the pertinent portion of this affidavit that you are referring to?
+
+**[01:40:59.070] Atty. Melvin Matibag**  
+As mentioned earlier po, paragraph 270B.
+
+**[01:41:04.280] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+For the guidance of the Impeachment Court, kindly read for purposes of sub-marking only.
+
+**[01:41:12.740] Atty. Melvin Matibag**  
+While eating, Colonel Bato de la Rosa told me in Visayan dialect why you summoned me and I quote, Tour, short of Arturo, my first name. Naka-historya mi ni Mayor Inday repairing to Davao City Mayor Inday Sara C. Duterte Carpio. Parti sa atwang tokhang operation. As part of our tokhang operation, ang order ni Mayor Inday sa akun nag-ilaylo sa nato ang pusil, killing through shooting sa atwang mga target persons. Shabu users and pushers and other criminal elements in Davao City. Kaysa mukhang siya media, magsige o paguntana, food, kidnapa, abdak, na lang ninyo ang inyong target o niya ilubong sa kwari, laud kwari, para missing lang kay okay si Mayor Inday saan
+
+**[01:42:07.450] Atty. Melvin Matibag**  
+na paagi. I talked to Mary Inday as part of our Tokhang operation. She ordered us to laylaw our killings through gun shooting because the media is asking too much. Just kidnap targets, then bury them in the quarry so they would go missing. She is okay with that way. To which I answered, Yes, sir. Sultian na ko akwang grupo. I'll inform my group. Colonel Bato de la Rosa instructed me, I-inform tour kung naamoy ma-abduct ng target niyo. Inform me, tour, whenever you are kidnapped a target.
+
+**[01:42:41.790] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, we are requesting that that pertinent portion read by the witness be bracketed and marked as Exhibit P435A.
+
+**[01:42:50.850] Sen. Francis “Chiz” Escudero**  
+So marked. It's ordered. Counsel for Respondent.
+
+**[01:42:53.690] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+What?
+
+**[01:42:54.510] Atty. Mark C. Vinluan**  
+We just want to register again our continuing objection, Your Honor. Again, we already allowed, Your Honor, that the witness at least identify this document.
+
+**[01:43:09.420] Atty. Mark C. Vinluan**  
+But as to the fact, Your Honor, that he is allowed to read even portions thereof, he is not the author of this affidavit. And as to the truth or falsity thereof, he is incompetent to testify on that. And it already violates the rights of our clients because she is being prejudiced. By the reading of this affidavit that cannot even be verified because the person is not here to testify. That's our objection, Your Honor.
+
+**[01:43:39.100] Sen. Francis “Chiz” Escudero**  
+Chair notes the objection and continuing objection of counsel for the respondent. And as an additional, for the third time perhaps, reminder of the Presiding Officer to my fellow Senator-Judges: the mention of statements allegedly made by then General Dela Rosa, now Senator Dela Rosa, are clearly hearsay even on the part of Lascañas himself. But as to the fact that probably he told him that, it may be established if the affidavit of Lascañas—and if Lascañas is presented here. Again, this is only as to the fact that this is what the NBI used in their investigation and coming up with their findings, not as to the truth of the statements being read by Director Matibag, much less the statements of other parties who did not execute this document. The continuing objection is noted. Witness may answer. Counsel will proceed.
+
+**[01:44:44.610] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We are requesting your honor that that portion just read by the witness be bracketed and marked as P435A. Mr. Witness?
+
+**[01:44:54.510] Sen. Francis “Chiz” Escudero**  
+Let it be so, Mark.
+
+**[01:44:55.690] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ano pa kung mayroon man? Ang mahalagang bahagi ng affidavit ni Arturo Lascañas na tinukoy mo kanina.
+
+**[01:45:05.610] Atty. Mark C. Vinluan**  
+Same objection, your honors.
+
+**[01:45:07.250] Sen. Francis “Chiz” Escudero**  
+Noted. Witness may answer.
+
+**[01:45:08.950] Atty. Melvin Matibag**  
+Sa paragraph D po, 'yung portion po nito ay isa po sa aming pinagtuunan ng pansin sa aming imbestigasyon.
+
+**[01:45:15.090] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Please read for the purpose of sub-marking only.
+
+**[01:45:20.400] Atty. Melvin Matibag**  
+I later called up retired senior police Sonny Buenaventura and relayed to him Colonel Ronald Bato de la Rosa's abduction operation ordered to me as allegedly ordered to him by Mayor Inday Sara Duterte Carpio. Sonny Buenaventura answered me that would personally confirm and verify the matter with Mayor Inday Duterte. Two days later, to my recollection, Sonny Buenaventura called me and instructed me to meet him in Caltex Gasoline Station parking area in front of SM Mall Ecoland. Matina, Davao City Mayor in Dysara, Duterte will meet him in the said place. Sonny Buenaventura wanted me to narrate personally to Mayor in Dysara about the abduction order of Colonel Ronald Bato de la Rosa regarding his Tokhang operation. I agreed. I immediately proceeded to Sonny Buenaventura's location. Upon my arrival on the board of my Strada pickup vehicle in Caltex Gasoline Station parking area, Sonny Buenaventura motioned me to board his pickup vehicle. However, before I could do so, Mayor Inday Sara Duterte Carpio arrived on board her SUV vehicle, a Fortuner-like vehicle, colored dark blue. Sonny Buenaventura then disembarked immediately from his vehicle and rushed to the vehicle of Mayor Inday Sara Duterte that stopped a few meters away from Sunny Bibintura's pickup vehicle. I stood in front of Sonny Buenaventura's pickup vehicle, looking and then talking. Mayor Inday Sara Duterte Carpio did not get up from the vehicle while talking to Sonny Buenaventura and Sonny was standing on the left side of Mayor Inday Sara Duterte vehicle. Then Sonny Buenaventura hand-signaled to me to come near him. I saw Mayor Inday Sara Z. Duterte Carpio inside her vehicle alone. I personally heard Mayor Inday Sara Zimmerman Duterte Carpio ordered Sonny Buenaventura and I in Bisayan dialect, and I quote, "Bulgar naman kayo man, pusilon (shoot) ang target ninyo "Nong" (referring to Sonny and myself, "Nong" short of Manong). Kidnapa na lang ninyo. (Target shabu users and pushers and other suspected criminal elements in Davao City) para missing lang para sila, para dili samok ang media." (Shooting your target is too brazen. Just kidnap them so they will just go missing and so that the media won't bother us).
+
+**[01:47:57.380] Atty. Melvin Matibag**  
+Sonny Buenaventura replied, "Sige, Day."
+
+**[01:48:00.120] Atty. Melvin Matibag**  
+Okay. Then she drove away. It was a three-to-five-minute kill order through abduction operation from a lady mayor of our city, the daughter of Mayor President Rodrigo Roa Duterte, that shed much blood of [unclear] and poor Filipinos suspected of being shabu users and pushers in Davao City, now nationwide through the Tokhang campaign of the Philippine National Police, for four-star general and newly elected Senator Ronald ‘Bato’ de la Rosa.
+
+**[01:48:30.310] Atty. Mark C. Vinluan**  
+Your Honor.
+
+**[01:48:31.290] Sen. Francis “Chiz” Escudero**  
+Counsel for respondent.
+
+**[01:48:32.830] Atty. Mark C. Vinluan**  
+Then considering, Your Honor, the reading of this portion of this piece of paper, Your Honor, we ask for a fourth clarification on the part of the Chair that the reading of this This document, your honor, already creates an impression, not just to the minds of the senator judges, but also the public. They may be misled, your honor, to believing the truth or falsity of these statements. So in other words, your honor, this is highly improper for, with all due respect, your honor, for this honorable court to allow the reading of a portion of an affidavit that was not authored by this witness. He doesn't know He doesn't have personal knowledge, again, and he's not competent to testify as to the truth or falsity of these statements. It is purely hearsay and excluded by the evidence and the rules of court. Your Honor.
+
+**[01:49:25.090] Sen. Francis “Chiz” Escudero**  
+The Chair is inclined at this point to already agree with counsel for respondent. The Chair will cut short any further identifications of the witness in regard to this affidavit. I think you have sufficiently established, counsel, the so-called pattern of violence that you sought to establish in the investigation of the NBI regarding the so-called grave threats that they are investigating. But the Chair will nevertheless remind again the Senator-Judges, as requested by counsel for respondent, that this is only as to the fact that Lascañas executed a document that they used in their open-source investigation, not as to the truth of what was read. It was only identified for easy identification by the Senator-Judges, subject to that limited understanding. And I think, counsel, that should be enough for now insofar as establishing your desire, rather, to establish a so-called pattern of violence.
+
+**[01:50:34.300] Sen. Francis “Chiz” Escudero**  
+Let's move on already to the other grounds for investigation.
+
+**[01:50:37.860] Atty. Mark C. Vinluan**  
+Just one last manifestation. Counsel for Respondent
+
+**[01:50:40.360] Sen. Francis “Chiz” Escudero**  
+is recognized.
+
+**[01:50:40.940] Atty. Mark C. Vinluan**  
+Well, in that case, Your Honor, with all due respect again, then it is like we believe certain portions of the statements as read by this witness because we are already mentioning about a pattern. So, in other words, Your Honor, we give credence, Your Honor, or value to the statements that were read. We did
+
+**[01:51:05.810] Sen. Francis “Chiz” Escudero**  
+not give credence to it, counsel. We merely allowed the witness to testify as to the evidence he used and or considered in his investigation, which actually has not yet borne fruit unless he will testify to the contrary later on, as I believe the investigation as of this moment is still ongoing.
+
+**[01:51:28.720] Sen. Francis “Chiz” Escudero**  
+But let it end at that. Counsel, please move on. To another point,
+
+**[01:51:32.730] Atty. Mark C. Vinluan**  
+the continuing objection
+
+**[01:51:35.190] Sen. Francis “Chiz” Escudero**  
+of counsel for respondent is duly noted and entered into the records. Counsel, Lee Counsel for the prosecutors, kindly move on. I presume you will go through the five pillars of investigation of the NBI.
+
+**[01:51:50.490] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kindly
+
+**[01:51:51.010] Sen. Francis “Chiz” Escudero**  
+proceed to the next point, the gravity or seriousness aspect.
+
+**[01:51:54.530] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+May I just request, Your Honor, that the last portion read by the witness be submarked as P435B. Thank you, Your Honor.
+
+**[01:52:01.190] Atty. Mark C. Vinluan**  
+Continuing objection, Your Honor. Maraming
+
+**[01:52:04.130] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Maraming salamat sa iyong paglilinang kaugnay ng pattern of violence. Ngayon puntahan natin ang sumunod na pamantayan.
+
+**[01:52:20.910] Atty. Melvin Matibag**  
+Unang-una na po rito kung sino yung pinagbantaan, sino yung sinabing papatayin. At dito po natin makikita na dalawang pinuno ng dalawang sangay ng ating gobyerno, ang dating speaker at ang Pangulo ng Pilipinas ang pinagbantaan kasama na rin po ang unang linan kaya para sa amin po ay mabigat at seryoso po ang pagbabantang ito.
+
+**[01:52:42.610] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nabanggit mo na pinuno ng dalawang malalaking sangay ng gobyerno ang pinagbantaan. Ano pa ang inyong sinuri, kung mayroon man?
+
+**[01:52:51.760] Atty. Melvin Matibag**  
+Mismong ang vice-presidente na po ang nagsabi na paulit-ulit na no joke, no joke. At pag tinignan po natin yung kanya pong press conference noong November 23, 2024, makikita natin sa kanya na seryoso ang kanyang pagsasabi nito.
+
+**[01:53:08.640] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Buko dito sa binanggit mo na sinabi ng vice-presidente no joke, no joke. Ano pa kung mayroon man ang sinuri mo kaugnay ng gravity at seriousness ng banta?
+
+**[01:53:19.820] Atty. Melvin Matibag**  
+Tignan po natin yung mga kanina katulad nung video ng October 18 at yung pong kanyang video nung November 23 at nasundan pa po ito nung November 26 na sinasabi niya at kinukumpirma na seryoso ang kanyang pagbabanta at siya ay meron nang kinausap at pumayad para patayin ang Pangulo ng Pilipinas.
+
+**[01:53:46.430] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ano pa kung mayroon man ang iyong sinuri kaugnay pa rin ng gravity at seriousness ng banta?
+
+**[01:53:52.090] Atty. Melvin Matibag**  
+Para sa akin po, hindi na ito talaga banta kundi isa na pong konfesyon ng kanyang plano na pagpatay po sa ating Pangulo. Sapagkat makikita naman natin na sinabi niya na meron akong kinausap at pumayag ang kinausap para patayin ang presidente.
+
+**[01:54:09.440] Atty. Mark C. Vinluan**  
+Objection, Your Honor. The witness already is providing conclusions of law, Your Honor. May we ask that it be stricken of the record?
+
+**[01:54:17.540] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I respond to that?
+
+**[01:54:19.310] Sen. Francis “Chiz” Escudero**  
+Council for the Prosecutor may respond, rather the lead prosecutor may respond.
+
+**[01:54:23.390] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the witness is testifying as to what transpired during the investigation of Special Task Force. He is testifying on the observation, appreciation, and findings of the Special Task Force. And this is the very purpose of presenting the testimony of NBI Director Melvin Matibang.
+
+**[01:54:44.210] Atty. Mark C. Vinluan**  
+Short rejoinder, Your Honor. Council may give a rejoinder. Part of the witnesses' response is the use of the term confession, which is a legal term. The witness is a lawyer. He knows exactly what he's doing, Your Honor.
+
+**[01:54:58.120] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nevertheless, Your Honor, that is the testimony of the witness, and that should be considered by the impeachment court. The
+
+**[01:55:05.500] Sen. Francis “Chiz” Escudero**  
+presiding officer shall rule, let it stay in the record as part of the narration of the witness, but not as to a— and for the senator judges not to consider it. As a conclusion of law notwithstanding that the witness is the director of the NBI and there is a lawyer and a former dean that is still not to be used by any of the senator judges as a conclusion of law as to the fact in issue in this impeachment court. Witness may answer?
+
+**[01:55:36.290] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bukod sa pinanggit mong confession, ano pa kung mayroon man ang iyong sinuri kaugnay pa rin na gravity at seriousness ng banta.
+
+**[01:55:45.230] Atty. Melvin Matibag**  
+May tuturing po natin ito na mabigat at seryoso sapagkat alam niyo po ang NBI, meron po kaming mga foreign counterparts nasa sa investigation din na patuloy namin pong nakakausap at nakakaugdayan. At kasaba po roon, aming pinag-uusapan ng mga pangyayari sa kanilang lugar, sa ating lugar at napapag-aralan po kung paano kami magkakaroon po ng collaboration at magtutulungan. At kung saan po sa aming pag-iipag-usap rito ay natin pong napag-usapan ang tungkol po sa ginawang pagbabanta ng Pangulo, ng pagalawang Pangulo sa ating Pangulo. At lumalabas po sa aming mga usapan na sinasabi na ito ay seryoso na pagbabanta at sinabi pa nga na kung sa kanilang jurisdiction ito nangyari, maaaring hanggang ngayon ay nakakulong ang nagbanta na vicepresidente o maaaring natanggal na sa pwesto ang vicepresidente na nagbanta sa Pangulo.
+
+**[01:56:42.160] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Maraming salamat sa iyong paglilinaw, kaugnay ng gravity at seriousness. Puntahan natin yung pangatlong batayan, identity. Mr. Witness, ano ang inyong sinuri kung mayroon man kaugnay ng identity ng pinagmumula ng banta?
+
+**[01:56:57.800] Atty. Melvin Matibag**  
+Ito naman po ay malinaw na na-establish na ng identity at hindi naman po ito ay tinanggi. Paulit-ulit naman na inamin na ang nagbanta ang napabausap ng papatay. Atty.
+
+**[01:57:10.040] Atty. Melvin Matibag**  
+Vice President Sara Duterte
+
+**[01:57:13.240] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bukod sa Vice Presidente Sarah Duterte na tinukoy mong pagkakakilanlan ng nagbanta ano pa o sino pa kung mayroon man Mr. Witness ang inyong sinuri dito sa pag-aaral ng identity o pagkakakilanlan?
+
+**[01:57:29.280] Atty. Melvin Matibag**  
+Sinama na rin po namin dito ang tuloy-tuloy ng mga banta kahit na po ng mga ordinaryong individual. At kasama na rin po rito ang patuloy na banta po na nabanggit po ng ating pong Mayor Bastet Duterte po.
+
+**[01:57:43.340] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Puntahan naman natin ang pang-apat ninyong batayan, capacity. Ano ang inyong mga sinuri gawag dahil ng capacity to execute threat?
+
+**[01:57:53.540] Atty. Melvin Matibag**  
+Unang-una po nabing tinignan sa capacity o kapasidad ng nagturan ng pagbabanta o pakikipag-usap nga sa pagbatay. E, alam naman po natin na ang bisipresidente may malawak na network. At alam po natin na matagal din ng nukulang pangulo ang kanyang ama po. At sila po, regionally, ay sila rin kinikilala dyan po sa Dabao. Ibig sabihin po, marami po silang network na ibilang natin dito, yung mga men in uniform sa Philippine military po natin, sa kapolisan. Ito po ay ating ipinaktorin na kasama po doon sa kapasidad. Ang kanyang sinabing pagpapatay.
+
+**[01:58:35.280] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit mo ang network ng dating Pangulo, ganun din na ang Ama ay dating Pangulo. Binanggit mo ang network ng Vice Presidente. Ano pa ang inyong sinuri kung mayroon man kaugnay pa rin ang capacity ng pinagmumula ng banta?
+
+**[01:58:53.480] Atty. Melvin Matibag**  
+Alam po natin, at kanina nabanggit ko na yung pagiging kasama sa pagtatatag ng Davao Death Squad. At alam naman natin kung ano ang kakayahan ng David Death Squad na pumatay ng mga tao through AJK. Ibig sabihin po pag ating itong ibinilang kasama po ito sa kapasidad ng ating Vice Presidente na maisagawa po ang kanyang plano.
+
+**[01:59:14.330] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+At bukod sa inyong pagsusuri dito sa Davao Death Squad, ano pa kung mayroon man ang inyong sinuri kaugnay pa rin ng capacity ng nagbanta?
+
+**[01:59:23.690] Atty. Melvin Matibag**  
+It is also a public record. Nakikita naman natin po sa mga balita.
+
+**[01:59:41.450] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Pag
+
+**[01:59:42.330] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+-aaring baril at financial connections, Mr. Witness, ano pa kung mayroon pa ang iyong sinuri kaugnay pa rin ng capacity ng nagbanda?
+
+**[01:59:57.920] Atty. Melvin Matibag**  
+Vice-Presidential Security Group Mr.
+
+**[02:00:11.440] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, puntahan natin ang panglima ninyong batayan. Motive or intention? Ano ang inyong mga sinuri kung mayroon man kaugnay ng motive at intention ng nagbanta?
+
+**[02:00:29.660] Atty. Melvin Matibag**  
+Kung ang Pangulo ng Pilipinas ay mawawala, mamamatay, ang susunod na upo by succession ay ang Vice Presidente. So pumapasok po ito sa motibo at sa intensyon.
+
+**[02:00:40.900] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Bukod sa ang Vice Presidente ang papalit kung mawawala ang Presidente, ano pa ang inyong sinuri? Kung mayroon man, kaugnay pa rin ang motif at intensyon ng nagbanta.
+
+**[02:00:53.680] Atty. Melvin Matibag**  
+Dito na po namin sinundan yung tinatawag namin na sunod-sunod at magkakaugday na pattern na nangyayari at kaya po namin paulit-ulit na sinasabi na ang banta sa Pangulo ay banta sa ating national security sabagat nakikita po natin na it's creating chaos, yung kakaroon po ng kaguluhan, sunod-sunod po na pagtuligsa sa gobyerno at yung mga ordinaryong mamamayan na nga po makikita natin patuloy pong nagbabanta sa Pangulo. Katunayan, Marami po kaming monitoring sa social media ng mga banta namin pong sinusundan sa siguradad po ng ating Pangulo.
+
+**[02:01:30.810] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Maraming salamat sa iyong paglilinaw sa limang batayan na inyong ginamit kaugnay ng investigasyon ng Special Task Force. Kanina'y binanggit mo na na maging ang ordinaryong mga tao ay nagbabanta na rin sa buhay ng Presidente.
+
+**[02:01:50.890] Atty. Mark C. Vinluan**  
+Allow
+
+**[02:01:51.370] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+the Council to
+
+**[02:01:52.370] Atty. Mark C. Vinluan**  
+finish. She is not
+
+**[02:01:53.170] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+yet finished.
+
+**[02:01:55.730] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit mo na maging ang ordinaryong tao ay nagbabanta na rin sa buhay ng Pangulo. Ano pa ang naging observation mo na may kinalaman sa naging banta ng Pangulo ng Vice Presidente sa buhay ng Pangulo?
+
+**[02:02:11.650] Atty. Mark C. Vinluan**  
+Objection under use of the word banta, Your Honor.
+
+**[02:02:14.620] Sen. Francis “Chiz” Escudero**  
+Witness already used that word. Council is simply referring to the words used by the witness himself already at this time. Witness may answer?
+
+**[02:02:22.760] Atty. Melvin Matibag**  
+Napansin ko nga po na tumasang antas ng kaguluhan sa pamamagitan po. Doon lamang po sa social media kita-kita natin. Meron po mga panahon na nating pong Pangulo ay nasa isang event na live. Meron po mga magko-comment na barili na yan. Meron pong mga...
+
+**[02:02:57.250] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Pagkatapos ng mga nabanggit mong obserbasyon sa inyong investigasyon, ano ang inyong ginawa sa Special Task Force? Kaugnay pa rin ang inyong imbestigasyon sa banta ng Vice Presidente sa buhay ng Pangulo.
+
+**[02:03:14.110] Atty. Melvin Matibag**  
+Malinaw po ang mandato ng Special Task Force. At ang mandato po nito ay patuloy na bantayan ang siguridad po ng ating Pangulo. At hindi lamang po para bantayan ang siguridad ng Pangulo kundi hanapin at ma-identify kung sino ang kinausap ng Vice Presidente para pupatayin ang ating Pangulo.
+
+**[02:03:35.220] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit mo,
+
+**[02:03:59.510] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Sa
+
+**[02:04:00.270] Atty. Melvin Matibag**  
+ngayon po, ang aming pong investigasyon at ang task force is a continuing and active Investigation of the threat to the President. Meron po tayong mga leads, nating pong sinusundan at katunayan, we already have established persons of interest na maaaring makapagturo o tumukoy doon sa taong kinausap ng ating Vice Presidente o maaaring isa rito sa tinatawag nating persons of interest ang siyang talagang nakausap ng Vice Presidente.
+
+**[02:04:29.000] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, binanggit mo yung persons of interest. Upang mas maunawaan tayo ng mga kababayang nanonood. Ano ang ibig sabihin mo ng persons of interest?
+
+**[02:04:44.500] Atty. Melvin Matibag**  
+Ang ibig sabihin po nito, itong mga taong ito ay maaaring magbigay-linaw o makapagturo sa identity ng taong kinausap o sa pangyayari ng pag-uusap. O maaari silang nandoon o sila mismo ang kinausap. Kaya po ito tinatawag na persons of interest. Hindi po nangangahulugan na sila na mismo ang kinausap, gaya ng aking sinabi.
+
+**[02:05:07.400] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kaugnay pa rin ang binanggit mo na mayroon ng persons of interest. Mr. Witness, ano ang pagkakakilanlan ng mga persons of interest na tinukoy mo?
+
+**[02:05:22.820] Atty. Melvin Matibag**  
+Respectfully, Mr. President Officer, kinalulungkot ko po pero
+
+**[02:05:32.470] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr.
+
+**[02:05:49.030] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, matagal nang iniintay ng sambayanan? Kung sino ang taong kinausap ng Vice Presidente? As a matter of fact, maging ang ating iginagalang na mga senator-judges ay nagtatanong din kaugnay ng pagkakakilanlan ng taong kinausap ng presidente. Ano ang dahilan kung mayroon man? Bakit mo sinasabi, Vice President? Bakit mo sinasabi na hindi ito pwedeng i-disclose o isapubliko itong mga persons of interest na tinukoy mo?
+
+**[02:06:28.160] Atty. Melvin Matibag**  
+Alam po ninyo, maraming kadahilanan. Tayo po ay nasa law enforcement. Kapag ang ganito pong bagay na it's an open and continuing investigation ay ating isisiwalat, unang-una pong mangyayari rito ay makukompromiso po ang ating imbestigasyon at mailalagay po sa alanganin yung ating mga tinatawag na informants o assets na nasa ground na nagbibigay po sa atin ng human intel. Kasama na rin po rito na yung aming capability to have a successful operation ay makompromiso sapagkat maaaring hindi na po kami pagtiwalaan ng aming mga source. Pangatlo po, it will violate the right of privacy ng mga individual na ating natukoy na persons of interest. At meron din po itong kaparusahan under the Administrative Code na kung ang isang information ay confidential, secret, or top secret, hindi po ito pwedeng ibahagi basta-basta sa publiko. Ito po ay exception din sa freedom of information under Memorandum Order No. 15 ng ating Pangulo.
+
+**[02:07:35.910] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, binanggit mo ang maraming dahilan. Kung bakit hindi mo pwede i-disclose itong pagkakakilanlan ng mga persons of interest? Baguhin ko yung tanong, anong pagkakataon kung meron man na maaari mong ibahagi sa impeachment court na ito ang mga persons of interest na tinutukoy mo?
+
+**[02:07:59.060] Atty. Melvin Matibag**  
+Alam po ninyo, kahit dumating yung punto na matukoy na natin kung sino ang kinausap, we have the right to protect yung aming mga informants sapagkat ang pinoproteksyunan din po namin dito ay ang institution ng NBI. Subalit po ay patuloy ang pagsusuri at report na tuloy-tuloy na ginagawa po ng National Bureau of Investigation. Katunayan, nandito po sa akin yung mga report ng task force tagged as confidential, kaya mapapansin po ninyo na talagang hindi ko po ito pwedeng ibahagi nang pampubliko.
+
+**[02:08:34.900] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Atty. Jeremy R. Ferrer Counsel for Respondent
+
+**[02:08:37.800] Atty. Mark C. Vinluan**  
+is recognized. Your Honor, considering already the length of time, can we just ask for a five-minute recess, Your Honor?
+
+**[02:08:42.980] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Actually,
+
+**[02:08:43.560] Sen. Francis “Chiz” Escudero**  
+I'm about to do so as soon as the counsel for the lead counsel winds up.
+
+**[02:08:48.700] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, I'm about to conclude.
+
+**[02:08:51.520] Sen. Francis “Chiz” Escudero**  
+As soon as the direct examination is concluded, the Chair will declare a recess before we proceed with the request. Would that be okay, Counsel?
+
+**[02:08:58.300] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Okay, Your Honor.
+
+**[02:08:59.940] Sen. Francis “Chiz” Escudero**  
+Counsel may proceed. Witness may answer.
+
+**[02:09:02.180] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, ano yung mga papel na ipinapakita mo kanina?
+
+**[02:09:06.550] Atty. Melvin Matibag**  
+Ito po yung patuloy na pag-uulat ng mga minutes ng meeting at mga intel report po na nasagap kaugnay po sa ating issue pinag-uusapan.
+
+**[02:09:14.470] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Kaugnay ng mga persons of interest na hindi mo pwedeng isiwalat? Iyan ba ay bahagi ng mga papel na iyong ipinapakita?
+
+**[02:09:21.390] Atty. Melvin Matibag**  
+Kasama na po ito.
+
+**[02:09:23.290] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, I'm about to conclude.
+
+**[02:09:28.080] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ano ang nalabag ng Vice Presidente kung mayroon man? Kaugnay ng bantaniya sa buhay ng Presidente. Your Honor, this is still part of the investigation.
+
+**[02:09:41.270] Sen. Francis “Chiz” Escudero**  
+I will have to sustain the objection. It would call for a conclusion of law and as admitted by the witness himself, the investigation is ongoing unless he has concluded it already. Kindly rephrase, counsel.
+
+**[02:09:54.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+I have no further question, Your Honor.
+
+**[02:09:56.890] Sen. Francis “Chiz” Escudero**  
+If there are no further questions, given that it is 4.03 and given that we start, it's been two hours already. As agreed, chair will declare a 15-minute recess. We shall resume at 4.18 for the cross-examination of the council for respondent. We are in recess. Witnesses excused for the meantime and may exit the witness box.
+
+**[02:49:25.010] Sen. Francis “Chiz” Escudero**  
+Before recognizing Council correspondent Forrest Cross, Chair would like to remind the witness that he shall continue with his testimony under the same oath. Do you confirm, Director Matibag, sir? Yes, Your Honor. Thank you, sir.
+
+**[02:49:43.470] Sen. Francis “Chiz” Escudero**  
+Counsel for the respondent may proceed with his cross when he's ready. You may proceed, sir.
+
+**[02:50:51.820] Atty. Mark C. Vinluan**  
+Good afternoon, Director Matib. Good afternoon. As NBI Director, you are the Chief Executive of the Bureau.
+
+**[02:50:59.730] Atty. Melvin Matibag**  
+I'm the Chief of the Bureau, yes.
+
+**[02:51:02.010] Atty. Mark C. Vinluan**  
+Following the November 23, 2024 press conference, am I right?
+
+**[02:51:24.220] Atty. Melvin Matibag**  
+I'm aware under the report that there was a subpoenaed issue. But I have no personal knowledge of the issue. Okay,
+
+**[02:51:30.500] Atty. Mark C. Vinluan**  
+we'll go there in a while. But this investigation was documented in the two affidavits of investigation, correct?
+
+**[02:51:38.280] Atty. Melvin Matibag**  
+That's correct.
+
+**[02:51:39.640] Atty. Mark C. Vinluan**  
+And did you read and understand these two affidavits of investigation? I
+
+**[02:51:44.280] Atty. Melvin Matibag**  
+read the affidavit of investigation which was forwarded to the Department of Justice which is dated February 11.
+
+**[02:51:52.220] Atty. Mark C. Vinluan**  
+Okay. So, as part of that investigation, will you agree that individuals were subpoenaed? There were individuals subpoenaed. More or less
+
+**[02:52:00.690] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Ten subpoenas. Your Honor, please.
+
+**[02:52:02.810] Sen. Francis “Chiz” Escudero**  
+Counsel for the panel of prosecutors. Rather, the lead prosecutor is recognized.
+
+**[02:52:07.490] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the witness was appointed as NBI director only in February 2026. His testimony with respect to the first investigation will only be based on records. So if it will go into the detail of the investigation, I am afraid, Your Honor, he is not competent as he has no personal knowledge about the first investigation, Your Honor.
+
+**[02:52:30.700] Sen. Francis “Chiz” Escudero**  
+To begin with, asked and answered, and the witness was about to answer if he knows, given that he is the current superior of this agency, and I presume that he has kept himself abreast of What happened in his agency prior to his assumption in February of 2026? Witness may answer if he knows.
+
+**[02:52:50.960] Atty. Mark C. Vinluan**  
+Please repeat the question. So more or less around 10 subpoenas were issued, correct? If you know, if you know. Well,
+
+**[02:52:57.580] Atty. Melvin Matibag**  
+I cannot count but I know that their personality is subpoena.
+
+**[02:53:00.960] Atty. Mark C. Vinluan**  
+Okay, very well. Now these people were asked to appear before the NBI, correct?
+
+**[02:53:06.560] Atty. Melvin Matibag**  
+Yes, that is the very purpose of the subpoena.
+
+**[02:53:08.920] Atty. Mark C. Vinluan**  
+Okay.
+
+**[02:53:09.400] Atty. Mark C. Vinluan**  
+Now, these appearances were on various dates in November and December of 2024, correct? If you know. I cannot recall exactly. Now,
+
+**[02:53:18.520] Atty. Mark C. Vinluan**  
+if you
+
+**[02:53:20.040] Atty. Mark C. Vinluan**  
+know also, some appeared while some did not.
+
+**[02:53:23.220] Atty. Melvin Matibag**  
+Yes, I was informed during the briefing.
+
+**[02:53:25.480] Atty. Mark C. Vinluan**  
+All right. Now, for those who appeared, the NBI conducted interviews with them. Yes. And minutes of these interviews were recorded, correct?
+
+**[02:53:35.660] Atty. Melvin Matibag**  
+That is the standard procedure. So I suppose during that time it was recorded. So
+
+**[02:53:40.020] Atty. Mark C. Vinluan**  
+after the interviews, the interviewers were also NBI agents executed affidavits. Is that also a part of the SOP?
+
+**[02:53:50.740] Atty. Melvin Matibag**  
+Yes, that is correct. And
+
+**[02:53:53.040] Atty. Mark C. Vinluan**  
+the affidavits attested that interviews were conducted, correct?
+
+**[02:53:57.480] Atty. Melvin Matibag**  
+Yes, it will be signed by the investigating officers and eventually signed by a superior officer.
+
+**[02:54:03.400] Atty. Mark C. Vinluan**  
+Okay. Very clear so far. Now my question to you is this: did you actually participate in these stages of the investigation?
+
+**[02:54:11.520] Atty. Melvin Matibag**  
+That is very impossible because I'm not yet a director at that time.
+
+**[02:54:14.680] Atty. Mark C. Vinluan**  
+Okay, that's okay. Are you aware that a subpoena was issued to VP Sara?
+
+**[02:54:20.640] Atty. Melvin Matibag**  
+Yes, I was informed.
+
+**[02:54:25.840] Atty. Mark C. Vinluan**  
+Are you aware that a subpoena was issued to Dempsey Reyes of the Philippine Daily Inquirer?
+
+**[02:54:30.880] Atty. Melvin Matibag**  
+I know that there are personalities of subpoena who were present during the press conference on the November 23, but I cannot recall who exactly who are the personalities because I just went through the affidavit of investigation. Did you sign that subpoena for Dempsey Reyes? That's impossible because I got that there.
+
+**[02:54:48.440] Atty. Mark C. Vinluan**  
+That's okay. Now, are you aware also that a subpoena was issued to Red Mendoza of Manila Times. We can confront you with a hard copy if you just want to refer to it but you can answer also. At any rate we are Showing the soft copies, Your Honor,
+
+**[02:55:04.540] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+for
+
+**[02:55:04.900] Atty. Mark C. Vinluan**  
+the benefit of this honorable party.
+
+**[02:55:08.120] Sen. Francis “Chiz” Escudero**  
+Assisting counsel may approach the witness. So what is the pleasure of the lead prosecutor?
+
+**[02:55:12.920] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I just enter into the record that the witness already testified that he has no personal knowledge about the first investigation, and all his testimony will be based only on the records existing in the NBI.
+
+**[02:55:26.760] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+At any rate, Your Honor—
+
+**[02:55:27.720] Sen. Francis “Chiz” Escudero**  
+If he knows, if he knows, witness will answer.
+
+**[02:55:30.170] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may we request also that those flashed in the big screen be explained by the defense counsel? I
+
+**[02:55:36.270] Atty. Mark C. Vinluan**  
+already explained, Your Honor. We're confronting the witness with hard copies and the subpoenas, the soft copies thereof are displayed.
+
+**[02:55:45.210] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+May we know, Your Honor, if these documents are pre-marked?
+
+**[02:55:48.790] Atty. Mark C. Vinluan**  
+Well, it is part, Your Honor, of... Articles of Impeachment Annex G-9, pages 159 onwards. So it is part of the records of this case. These are not our
+
+**[02:55:59.910] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+May we know if these documents are pre-marked?
+
+**[02:56:01.750] Atty. Mark C. Vinluan**  
+Yes, we can mark it. And it was also pre-marked. At any rate, Your Honor, these are not our documents. These are NBI documents, Your Honor.
+
+**[02:56:10.380] Sen. Francis “Chiz” Escudero**  
+No, the query is just if it's pre-marked so that the Senator-Judges can refer to it, if at all, when they read the case.
+
+**[02:56:16.910] Atty. Mark C. Vinluan**  
+Sorry, Your Honor. The marking is D-1-1450.
+
+**[02:56:20.530] Sen. Francis “Chiz” Escudero**  
+Which document, counsel?
+
+**[02:56:22.430] Atty. Mark C. Vinluan**  
+Because I
+
+**[02:56:22.890] Sen. Francis “Chiz” Escudero**  
+see eight documents.
+
+**[02:56:24.310] Atty. Mark C. Vinluan**  
+In succession, Your Honor. In succession.
+
+**[02:56:26.670] Atty. Mark C. Vinluan**  
+Those are all parts.
+
+**[02:56:27.690] Sen. Francis “Chiz” Escudero**  
+Counsel may proceed.
+
+**[02:56:28.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+All right. Your Honor, may I be clarified only about the X's which are superimposed on those documents on the screen?
+
+**[02:56:36.610] Atty. Mark C. Vinluan**  
+Counsel for Respondent will please reply. Your Honor, it was based on the witness's own answer that he did not personally
+
+**[02:56:42.990] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+cite. Nonetheless, it does not reflect The exact document referred to by the defense, Your Honor, and that should not be allowed, Your Honor, with all due respect.
+
+**[02:56:53.400] Atty. Mark C. Vinluan**  
+It is just to illustrate, Your Honor, for the benefit of the senator judges and as well as the public watching so that they can also follow the... Lead
+
+**[02:57:02.800] Sen. Francis “Chiz” Escudero**  
+Prosecutor, we will allow it. So for the information of senator judges... The counsel for the respondent confronted the witness with respect to these affidavits that were part of the investigation conducted prior to his assumption as NBI director and the witness simply stated that he has no personal knowledge with respect to the execution or due execution rather of these two affidavits thus far out of I presume ten. May
+
+**[02:57:32.790] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+I comment your honor?
+
+**[02:57:34.520] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+May I know
+
+**[02:57:37.960] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+what is wrong with just presenting the exact document instead of those which are marked with XX? Your Honor, I'm afraid it will give a wrong impression to the viewing public that those XX has something to do with inability perhaps or whatever impression it may give. To the witness with respect to attending to this subpoena, Your Honor. May we just remove those XX? We don't mind if they flash the documents, but it should be an exact reflection of what the document is. Short
+
+**[02:58:11.470] Atty. Mark C. Vinluan**  
+rejoinder, Your Honor.
+
+**[02:58:12.430] Sen. Francis “Chiz” Escudero**  
+No need for a rejoinder. Court is ruled and the court notes the observation, manifestation, and objection of the lead prosecutor. Again, I think it's quite plain.
+
+**[02:58:34.780] Atty. Mark C. Vinluan**  
+Are you aware that the subpoena was issued to Red Mendoza of Manila Times?
+
+**[02:58:42.970] Atty. Melvin Matibag**  
+I'm aware that there is a subpoena but on the actual issuance of the subpoena at that time That will be impossible to be aware of because I'm no longer
+
+**[02:58:52.610] Atty. Mark C. Vinluan**  
+You were not yet NBI Director. So, in short, you did not sign it?
+
+**[02:58:56.130] Atty. Melvin Matibag**  
+I did not sign it. I think it was signed by Glenn Ricarte.
+
+**[02:58:59.710] Atty. Mark C. Vinluan**  
+That's enough. Okay. Now, are you aware also that a subpoena was issued to Bons Magsambol of Rappler?
+
+**[02:59:05.790] Atty. Melvin Matibag**  
+Based on the period of investigation, I think it was mentioned.
+
+**[02:59:09.210] Atty. Mark C. Vinluan**  
+And did you sign that subpoena?
+
+**[02:59:11.070] Atty. Melvin Matibag**  
+It is again signed by a certain Glenn Ricarte.
+
+**[02:59:13.470] Atty. Mark C. Vinluan**  
+Are you aware that the subpoena was issued to Ana Rosario Malindog-Uy, also of The Manila Times?
+
+**[02:59:18.690] Atty. Melvin Matibag**  
+Again, based on the investigation report.
+
+**[02:59:21.170] Atty. Mark C. Vinluan**  
+And did you sign that subpoena?
+
+**[02:59:22.970] Atty. Melvin Matibag**  
+No.
+
+**[02:59:23.690] Atty. Mark C. Vinluan**  
+All right. Are you aware that the subpoena was issued to Jason Rubrico of SMNI?
+
+**[02:59:28.270] Atty. Melvin Matibag**  
+Again, based on the investigation report.
+
+**[02:59:30.750] Atty. Mark C. Vinluan**  
+Did you sign that subpoena?
+
+**[02:59:32.070] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I respectfully interrupt?
+
+**[02:59:34.670] Sen. Francis “Chiz” Escudero**  
+Lead Prosecutors, recognize.
+
+**[02:59:36.690] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+The prosecution is willing to stipulate. As to the issuance of this subpoena by the National Bureau of Investigation during the time that the witness is not yet appointed as the NBI Director, Your Honor.
+
+**[02:59:48.540] Atty. Mark C. Vinluan**  
+But that's not my question, Your Honor. Anyway, Your Honor.
+
+**[02:59:51.680] Sen. Francis “Chiz” Escudero**  
+Unless you're willing to stipulate, counsel, to abbreviate the proceedings, that insofar as the questions of counsel for respondent are concerned, for the remaining four subpoenas, the same answers of the witness for the previous six will be the same.
+
+**[03:00:11.230] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We are willing to stipulate to that, Your Honor.
+
+**[03:00:13.600] Atty. Mark C. Vinluan**  
+We are not willing to stipulate, Your Honor. We'll just ask for a ruling from the court.
+
+**[03:00:17.840] Sen. Francis “Chiz” Escudero**  
+In that case, witness may proceed. Witness may answer. Counsel will please proceed.
+
+**[03:00:23.220] Atty. Mark C. Vinluan**  
+And you did not sign that subpoena for Jason Rubrico? I said same answer, Your Honor.
+
+**[03:00:52.360] Sen. Francis “Chiz” Escudero**  
+The assisting counsel may not supply any information to the witness other than merely observing the document being shown to him by assisting counsel for respondent.
+
+**[03:01:04.040] Sen. Francis “Chiz” Escudero**  
+Counsel may proceed.
+
+**[03:01:05.160] Atty. Melvin Matibag**  
+Mr. Presiding Officer, may I speak?
+
+**[03:01:09.040] Atty. Melvin Matibag**  
+The counsel is not telling anything, but may I request not to cover me so that the people can see me?
+
+**[03:01:17.480] Sen. Francis “Chiz” Escudero**  
+Yes, that may be granted by the Presiding Officer.
+
+**[03:01:20.120] Atty. Melvin Matibag**  
+Thank you, Your Honor.
+
+**[03:01:20.800] Sen. Francis “Chiz” Escudero**  
+Assisting Counsel, kindly sit beside the Assisting Counsel for—stand, rather, beside the Assisting Counsel for the Respondent. You may proceed, Counsel for the Respondent.
+
+**[03:01:31.300] Atty. Mark C. Vinluan**  
+Are you aware that the subpoena was issued to Mikhail Flores of Reuters? Same answer, Your Honor. Same answer. You did not sign it. Okay. Are you aware that the subpoena was issued to Trixie Cruz Angeles? Same answer. And you did not sign it. Okay. Are you aware that the subpoena was issued to two OVP personnel? And did you sign the subpoenas? Same answer. Alright, so not a single one. Now, my next question to you is this. Did you oversee any interview that was conducted in the fact-finding investigation?
+
+**[03:01:59.820] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the question is vague.
+
+**[03:02:02.450] Atty. Mark C. Vinluan**  
+If the witness is a lawyer and is competent to
+
+**[03:02:05.410] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+answer, if he
+
+**[03:02:05.930] Atty. Mark C. Vinluan**  
+knows, Your Honor.
+
+**[03:02:06.650] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, during the direct, it was established that there were two investigations. The first investigation and the current investigation of the SDF. The defense needs to specify which investigation is he referring to.
+
+**[03:02:17.690] Atty. Mark C. Vinluan**  
+The counsel will please clarify. Okay. Did you oversee any interview that was conducted in the investigation that was covered by the affidavit of investigation?
+
+**[03:02:28.800] Atty. Melvin Matibag**  
+As mentioned in my testimony, I was appointed only on February 20, 2026 and it's very unlikely to be part of the investigation prior to that.
+
+**[03:02:37.900] Atty. Mark C. Vinluan**  
+Okay. So, are you aware that there were at least four interviews that were conducted?
+
+**[03:02:42.780] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, ask and answer.
+
+**[03:02:44.710] Atty. Mark C. Vinluan**  
+That is a different question.
+
+**[03:02:46.330] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Nonetheless.
+
+**[03:02:47.490] Atty. Mark C. Vinluan**  
+Witness may answer.
+
+**[03:02:49.840] Atty. Melvin Matibag**  
+I'm not aware because I'm not yet there.
+
+**[03:02:51.900] Atty. Mark C. Vinluan**  
+Okay. So, are you aware? Let me be more specific. Are you aware that an interview of Dempsey Reyes of PDI was conducted?
+
+**[03:03:00.280] Atty. Melvin Matibag**  
+I'm not aware of that but as reflected in the investigation report, it was there.
+
+**[03:03:05.040] Atty. Mark C. Vinluan**  
+So, in other words, you did not oversee that interview?
+
+**[03:03:08.180] Atty. Melvin Matibag**  
+Yes, definitely.
+
+**[03:03:09.160] Atty. Mark C. Vinluan**  
+All right. Are you aware that there was an interview of Fred Mendoza of Manila Times?
+
+**[03:03:13.460] Atty. Melvin Matibag**  
+Same answer.
+
+**[03:03:14.360] Atty. Mark C. Vinluan**  
+Same answer. Are you aware that there was an interview of Bons Magsambol of Rappler?
+
+**[03:03:19.200] Atty. Melvin Matibag**  
+Same answer.
+
+**[03:03:19.960] Atty. Mark C. Vinluan**  
+So you did not oversee that interview? And are you aware that there was an interview of Jason Rubrico? Did you oversee this interview?
+
+**[03:03:29.360] Atty. Melvin Matibag**  
+Again, same answer.
+
+**[03:03:30.300] Atty. Mark C. Vinluan**  
+Okay. Did you see them sign any minutes of the meeting?
+
+**[03:03:36.960] Atty. Melvin Matibag**  
+No.
+
+**[03:03:37.340] Atty. Mark C. Vinluan**  
+Did you meet any one of these interviewees?
+
+**[03:03:41.100] Atty. Melvin Matibag**  
+Before or after? Before or after?
+
+**[03:03:43.440] Atty. Mark C. Vinluan**  
+Among the interviewees that I mentioned?
+
+**[03:03:46.700] Atty. Melvin Matibag**  
+No.
+
+**[03:03:47.450] Atty. Mark C. Vinluan**  
+Did you meet anyone of their lawyers?
+
+**[03:03:49.350] Atty. Melvin Matibag**  
+No.
+
+**[03:03:49.890] Atty. Mark C. Vinluan**  
+Now, were you even present at the NBI Cybercrime Division office at the time of these interviews?
+
+**[03:03:58.730] Atty. Melvin Matibag**  
+That is impossible.
+
+**[03:04:00.230] Atty. Mark C. Vinluan**  
+After the interviews, affidavits attesting to the interviews were executed, as you mentioned. Did you oversee the drafting of these affidavits by the NBI agents?
+
+**[03:04:11.290] Atty. Melvin Matibag**  
+Again, very unlikely. I was not present.
+
+**[03:04:15.020] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+If I may interrupt, may I just enter a continuing—
+
+**[03:04:18.120] Sen. Francis “Chiz” Escudero**  
+Lead Prosecutor may make a manifestation and/or a continuing objection, as I presume she will.
+
+**[03:04:23.560] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, Your Honor. I'm entering a continuing objection to the line of questions of the defense on the ground, as stated by the witness: he has no personal knowledge about the investigation conducted prior to his appointment in February 2026, Your Honor.
+
+**[03:04:39.780] Sen. Francis “Chiz” Escudero**  
+The continuing objection is noted. Counsel for the respondent may proceed.
+
+**[03:04:44.580] Atty. Mark C. Vinluan**  
+No need for that rejoinder. But were you present when the NBI agents subscribed and sworn to their affidavits?
+
+**[03:04:53.160] Atty. Melvin Matibag**  
+I was not there.
+
+**[03:04:54.320] Atty. Mark C. Vinluan**  
+You were not there. Still nothing. And since you did not actually participate, it means that you do not have personal knowledge of these stages of the investigation, correct?
+
+**[03:05:05.460] Atty. Melvin Matibag**  
+During that time, yes. But as I mentioned earlier, I read the investigation report.
+
+**[03:05:10.400] Atty. Mark C. Vinluan**  
+So your knowledge of the investigation was based only on your reading?
+
+**[03:05:14.650] Atty. Melvin Matibag**  
+That is absolutely correct. And upon the discussion of the investigating officers.
+
+**[03:05:19.130] Atty. Mark C. Vinluan**  
+Very well. Now, were you present at the November 23, 2024 presscon?
+
+**[03:05:25.910] Atty. Melvin Matibag**  
+I was not present. I was not participating in that.
+
+**[03:05:29.030] Atty. Mark C. Vinluan**  
+And if you know, was any NBI agent present at the November 23, 2024 presscon? Not that I know of. None. Alright. So in layman's terms, for the benefit of this honorable court and the Filipino people watching, And I'll phrase my question in Tagalog. So, sa kabila po ng pagtestigo po ninyo ngayong araw, inaamin niyo ba na wala kayong personal nakaalaman sa nangyaring investigation starting November 23, 2024?
+
+**[03:05:56.070] Atty. Melvin Matibag**  
+Malinaw naman po iyon. At ang Korte po, I can take judicial notice of the fact na hindi pa po ako NBI Director nung panahon na iyon.
+
+**[03:06:02.410] Atty. Mark C. Vinluan**  
+So, you're confirming that you do not have personal knowledge because you were only appointed as NBI director a year later, or on February 20, 2026, correct?
+
+**[03:06:12.520] Atty. Melvin Matibag**  
+Correct.
+
+**[03:06:13.880] Atty. Mark C. Vinluan**  
+I haven't even asked that question.
+
+**[03:06:15.360] Sen. Francis “Chiz” Escudero**  
+Kindly let counsel finish.
+
+**[03:06:18.160] Atty. Mark C. Vinluan**  
+So again, I will repeat. So the reason for this is that because you became NBI director only a year later, or on February 20, 2026, correct?
+
+**[03:06:30.120] Atty. Melvin Matibag**  
+Tama po.
+
+**[03:06:30.640] Atty. Mark C. Vinluan**  
+All right. Okay. So prior to February 20, 2026, you do not have any personal knowledge of any investigation, correct?
+
+**[03:06:40.660] Atty. Melvin Matibag**  
+Nababasa ko lang po sa balita ang mga pangyayari.
+
+**[03:06:43.700] Atty. Mark C. Vinluan**  
+Which is not personal knowledge, correct? Well,
+
+**[03:06:46.640] Atty. Melvin Matibag**  
+yun lang po yung knowledge natin.
+
+**[03:06:48.380] Atty. Mark C. Vinluan**  
+You're a lawyer, correct? Tama po. 29 years. 29 years. Can you recall Rule 130, Section 22 of the Rules of Evidence?
+
+**[03:06:56.380] Atty. Melvin Matibag**  
+Can you refresh me, sir?
+
+**[03:06:57.760] Atty. Mark C. Vinluan**  
+Okay, I will gladly refresh you, of course. I have here a copy of Rule 130. Section 22 of the Rules of Evidence. And I'll read it. Please read with me, Director Matibag. Testimony confined to personal knowledge. A witness can testify only to those facts which he or she knows of his or her personal knowledge, that is, which are derived from his or her own perception. Can you recall that rule now? Yan po. Nababasa ko po ngayon. Okay. You can read it. Alright. So, based on this rule, Will you agree with me that a witness can only testify based on his personal knowledge?
+
+**[03:07:35.670] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I comment to that?
+
+**[03:07:37.050] Atty. Mark C. Vinluan**  
+These are basic questions, Your Honor. The witness is a lawyer. He is competent enough to answer. Counsel, are you making an objection?
+
+**[03:07:44.050] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+This is a comment, Your Honor. The witness repeatedly testified that he was appointed only in February 2026 and that all his testimonies pertaining to the first investigation are based on records, Your Honor. And this is allowed. As a matter of fact, under the rules, entries in official records are considered as prima facie evidence of the contents thereof. And thus, it's exactly the basis of the witness in answering the question of the defense. All his knowledge pertaining to the first investigation are based on records.
+
+**[03:08:26.110] Sen. Francis “Chiz” Escudero**  
+No need, counsel. Distinguished lead prosecutor, the counsel for respondent did not object to the line of questioning of the lead prosecutor earlier based exactly on the ground cited by the lead prosecutor.
+
+**[03:08:41.810] Sen. Francis “Chiz” Escudero**  
+The presiding officer will give sufficient leeway to the counsel for respondent to establish his point. I think you also see what he is trying to establish. That's why he made a continuing objection in relation to it. I'll give you some leeway, counsel, but go to your next topic as soon as you're
+
+**[03:08:59.970] Atty. Mark C. Vinluan**  
+done with this. Thank you, thank you, your honor. So, again, based on this rule, a witness can only testify based on his personal knowledge, correct? Tama
+
+**[03:09:07.410] Atty. Melvin Matibag**  
+po, pero meron pong mga exceptions sa rule niyan.
+
+**[03:09:09.690] Atty. Mark C. Vinluan**  
+If not based on personal knowledge, then that is hearsay, correct? But it's not an absolute rule po dahil may exceptions nga po. Okay, now, I'm trying to look for the Filipino term for hearsay. Ano ba yung hearsay sa Tagalog? Sabi-sabi or chismis? Is that a fair translation?
+
+**[03:09:28.800] Atty. Mark C. Vinluan**  
+What is a fair translation to you of hearsay? Your
+
+**[03:09:31.640] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Honor, the question of the defense is misleading. He never testified that that is hearsay.
+
+**[03:09:36.260] Atty. Mark C. Vinluan**  
+As a
+
+**[03:09:36.960] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+matter of fact, he's trying to raise the exception to hearsay.
+
+**[03:09:40.260] Atty. Mark C. Vinluan**  
+I'm not asking about the exceptions of hearsay. I'm asking a translation of hearsay. Anyway,
+
+**[03:09:47.160] Sen. Francis “Chiz” Escudero**  
+Anyway, if the witness knows; if he does not know, he may say so.
+
+**[03:09:52.890] Atty. Melvin Matibag**  
+Hindi ko po alam kung anong translation dito sa Tagalog.
+
+**[03:09:56.270] Atty. Mark C. Vinluan**  
+Okay, so I'll just use my own translation, Chismis. Anyway, at any rate, kung wala kang personal knowledge, Chismis lang yun, tama?
+
+**[03:10:03.850] Atty. Melvin Matibag**  
+Hindi ko naman po naririnig sa Korte, ako yung nagpractice din, kahit di na-translate sa Tagalog, kahit minsan ko po hindi ko po narinig ng hearsay ginamit ang salitang Chismis.
+
+**[03:10:12.970] Atty. Mark C. Vinluan**  
+Alright, I'll move on. Now, the main material that the NBI used in its investigation was the video Of the November 23, 2024 presscon, correct? Tama po. Did you watch that whole video yourself? Napanood ko po. The whole video?
+
+**[03:10:31.310] Atty. Melvin Matibag**  
+Well, yung pong importanteng bagay dyan ang aking dinutukan pero napanood ko po.
+
+**[03:10:35.470] Atty. Mark C. Vinluan**  
+Alright. Now let me ask you, do you confirm that in that virtual presscon, VP Sara spoke about a lot of topics? Tama po.
+
+**[03:10:47.030] Atty. Mark C. Vinluan**  
+Alright, I'll show you a portion of that video and then I'll ask questions thereafter. Your Honor, we beg the indulgence of this honorable court. Again, this video is a little lengthy, but we will only show one video, Your Honor.
+
+**[03:11:01.330] Sen. Francis “Chiz” Escudero**  
+Council may proceed.
+
+**[03:11:37.290] Vice President Sara Zimmerman Duterte**  
+Ang taong-bayan na hindi ninyo pinupuntahan, sa mga komunidad nila, anong sabi nila? Ganyan ang bayan natin. ‘Okay na lang kami sa asin.’ Saan ka nakahanap ng bayan na ang tao because of their hopelessness. Because there is no functioning government. ‘Um-okay na lang sa asin.’ Buti na lang  abogado si Atty. Lopez eh. Kasi alam niya anong sasabihin niya doon sa mga pumasok sa kuwarto niya.
+
+**[03:12:43.760] Atty. Mark C. Vinluan**  
+It appears that we're having technical difficulties. Can we just replay that part, Your Honor?
+
+**[03:12:50.200] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I make a manifestation first?
+
+**[03:12:53.400] Sen. Francis “Chiz” Escudero**  
+Can the tech kindly pause and rewind a bit with respect to the portion? Just a bit.
+
+**[03:13:00.300] Atty. Mark C. Vinluan**  
+Your Honor, this is part of the question, Your Honor. Can we ask that the manifestation be made after the playing of this video?
+
+**[03:14:01.400] Princess Maui**  
+Oh, thank you. Good morning po, Madam Vice President. Thank you so much nga po pala sa dala ninyong hopia noong hearing na pumunta kayo for PRRD. Kami yung nasa likod ninyo po, yung tinawag nilang bastos kasi pumalakpak kami because of Congresswoman Cardema. Thank you, ma'am. Nakakain kami. Ako po'y natatakot kumain ng pagkain doon. Baka mamaya eh. Ma'am, mag-iingat po kayo. Nasa teritoryo kayo ng kalaban.
+
+**[03:14:28.720] Vice President Sara Zimmerman Duterte**  
+Okay lang po, ma'am, kasi sila naman eh. Sila talaga yung bastos eh.
+
+**[03:14:38.040] Princess Maui**  
+Mag-iingat po kayo kasi sa dinami-dami po ng inyong mga pasabog ngayong gabi, it seems like marami po talaga kayong alam about them, no, dahil sa pagkakasama ninyo sa kanila during the campaign and during the 2022 elections. Baka po mamaya kasi totoo yung mga naririnig namin, or I don't know if it's true, na meron daw silang Operation Romanov at baka balak kayong ubusin, ang inyong pamilya, dahil hadlang kayo sa kanilang mga balak in the future. So mag-iingat po kayo. Kami po kasi na kami sa EDSA Friday crew, kami yung bumababa every Friday diyan sa EDSA because we believe iyan yung tamang venue sa dinami-dami ng problema natin. Ang kaya lang naman po naming gawin ay manawagan na bumaba na iyan. Eh ano po kaya ang remedy naman ninyong mga nasa posisyon o ng mga kayang labanan itong napakarami na pong ginagawang corruption at krimen laban sa taong-bayan? Ano pong puwede ninyong maging remedy para matapos na ito, lalo't nagsisigaw na po ang taong-bayan na mag-People Power?
+
+**[03:15:46.720] Vice President Sara Zimmerman Duterte**  
+Yes. Huwag kang mag-alala, ma'am, sa security ko, kasi may kinausap na ako na tao. Sabi ko sa kanya, ‘Kapag pinatay ako, patayin mo si BBM, si Liza Araneta, at si Martin Romualdez.’ No joke, no joke. Nagbilin na ako, ma'am. Pag namatay ako, sabi ko, huwag ka tumigil hanggang hindi mo mapatay sila. And he said yes. So, alam mo, ma'am, iyan ang lagi kong sinasabi sa Makabayan Bloc: ang laban, wala diyan sa EDSA, ma'am. Wala diyan sa mga highway. Ang laban, ma'am, nandoon sa loob ng Palasyo. Iyan ang problema. We appreciate yung expression ninyo ng disgust, ng pagkamuhi, ng hopelessness, kasi it reflects kung ano yung nararamdaman ng maraming million people. Alam ko iyan, ma'am, kasi kahit saan ako pumunta, ‘Ako ang bumoto namin yan dahil sinabi mo iboto namin.’ So yes, ma'am, maraming salamat sa ginagawa ninyo. Dahil sa ginagawa ninyo, I'm sure nakikita iyan ng taong-bayan and naa-appreciate nila iyan. Marami sa ating mga kababayan ang gusto sumali sa inyo, pero sa sobrang hirap ng buhay ngayon, hindi nila maiwanan yung mga trabaho nila at hanapbuhay nila para pumunta sa daan. Bakit sila naghihirap? Bakit? Dahil sa gobyerno. Di ba dapat yung gobyerno natin ang nagpapagaan ng buhay ng tao? Bakit ang gobyerno natin ang nagpapahirap lalo sa tao? Kasi gusto ba nila lagi na lang mahirap ang mga tao para madali mapasunod? May mga lugar kami sa Mindanao na ganyan ang mga politiko. Gusto nila ang hirap lahat .Kay bahugan lang nila ang kwarta. Governor na sila, mayor na sila, congressman na sila. Hanapin ninyo ma'am yung mga lugar na sobrang hirap sa Mindanao. Tingnan ninyo anong gawain ng politiko. Pinapakain lang ng pera ang tao, binabastos yung kanilang pagkatao dahil wala silang pakialam.
+
+**[03:19:18.590] Atty. Mark C. Vinluan**  
+1243 onwards of the video recording with accompanying transcript with
+
+**[03:19:22.630] Sen. Francis “Chiz” Escudero**  
+the permission of the um with the permission of the council for respondent um the lead prosecutor is recognized for her manifestation
+
+**[03:19:28.850] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+your honor i wish to manifest that the video which was played is a mark and spliced video your honor that is for the record um
+
+**[03:19:38.210] Sen. Francis “Chiz” Escudero**  
+the council for respondent just mentioned the time time stamp and the marking as well council for the respondent may proceed all right now
+
+**[03:19:46.680] Atty. Mark C. Vinluan**  
+Director Matibag, these are my questions about the statements of VP Sara in that video. Do you have personal knowledge of the theft incident involving Atty. Lopez's cellphone?
+
+**[03:19:59.680] Atty. Melvin Matibag**  
+Wala po.
+
+**[03:20:00.320] Atty. Mark C. Vinluan**  
+All right. Okay. Thank you for that. So now, you mentioned that you watched the whole video.
+
+**[03:20:49.480] Atty. Melvin Matibag**  
+Marami pong iniulat sa akin na mag-investigasyon. Subalit hindi naman po kasi binanggit doon sa video sino ang mga particular na kailangan imbistigahan. Kaya naman po yung imbistigasyon na ginagawa ngayon ng NBI maaaring tumutukoy na po sa mga tao binabanggit po dito.
+
+**[03:21:06.380] Atty. Mark C. Vinluan**  
+But as NBI director now, you have the authority to investigate alleged cases of corruption, correct? Tama po yun. In fact, you came out in the news recently stating that you will investigate the 2019 SEA Games, correct? Tama po. And the 2019 SEA Games came prior to this 2024 presscon, correct? Tama po. My next question is this. Do you also intend to investigate the alleged corruption involving the unaudited confidential funds of the OP? Office of the President. Also mentioned by VP Sara.
+
+**[03:21:45.700] Atty. Melvin Matibag**  
+Kung meron po mga ebidensyang ilalatag sa amin para amin pong sundan e hindi po magdadalawang isip ang NBI sapagkat ito po ang mandato ng NBI.
+
+**[03:21:54.920] Atty. Mark C. Vinluan**  
+Mag
+
+**[03:21:55.560] Atty. Melvin Matibag**  
+-imbestigahan ng mga krimen po namin pong nakikita.
+
+**[03:21:58.580] Atty. Mark C. Vinluan**  
+Thank you for that answer. Now, do you also intend to investigate the alleged corruption involving the former speaker going around the country and giving government funds to people? Also mentioned by VP Sara in that video.
+
+**[03:22:14.960] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I comment, Your Honor?
+
+**[03:22:19.490] Sen. Francis “Chiz” Escudero**  
+What is the comment of the lead prosecutor?
+
+**[03:22:21.890] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+We are objecting to that question, Your Honor, as the same is misleading.
+
+**[03:22:27.020] Atty. Mark C. Vinluan**  
+Your Honor, if he knows, he said he watched the whole video, he listened to the statements. There was a statement there. Witness may answer, if he knows.
+
+**[03:22:34.750] Atty. Melvin Matibag**  
+Well, kung meron po mga ebidensyang pumapasok tulad ng lahat ng aming ginagawa, we are driven by evidence and the process and the law na dapat pong sundin.
+
+**[03:22:44.050] Atty. Mark C. Vinluan**  
+Alright. Now, my next question is, your wife is also a member of the House of Representatives. That is correct po. Atty.
+
+**[03:23:04.880] Atty. Mark C. Vinluan**  
+Maria Rene, Atty. Lourdes G.
+
+**[03:23:21.040] Atty. Mark C. Vinluan**  
+Matibag And
+
+**[03:23:21.600] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+that should not be allowed. Your
+
+**[03:23:23.240] Atty. Mark C. Vinluan**  
+Honor, these are credibility testing questions, which is always relevant.
+
+**[03:23:26.680] Sen. Francis “Chiz” Escudero**  
+The objection is overruled. It tests the freedom from bias, if any, of the witness regarding his testimony. And the sheriff will allow it. Witness may answer.
+
+**[03:23:36.680] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I just enter a continuing objection on the line of questions pertaining to the wife of the witness, Your Honor?
+
+**[03:23:44.560] Sen. Francis “Chiz” Escudero**  
+So noted. Witness may
+
+**[03:23:46.040] Atty. Mark C. Vinluan**  
+answer? Opo.
+
+**[03:23:49.200] Atty. Mark C. Vinluan**  
+Let me direct your attention to House Resolution No. 989.
+
+**[03:23:54.840] Atty. Mark C. Vinluan**  
+This is also part of the records of this case entitled, Setting forth the Articles of Impeachment against Vice President Sara Z. Duterte.
+
+**[03:24:06.000] Atty. Mark C. Vinluan**  
+Permission to use a pointer, Your Honor.
+
+**[03:24:08.040] Atty. Mark C. Vinluan**  
+Now, it appears from this document that your wife is one of the endorsers of this House resolution. Can you confirm that?
+
+**[03:24:21.720] Atty. Melvin Matibag**  
+Yes, the name is there.
+
+**[03:24:23.040] Atty. Mark C. Vinluan**  
+It's there. Okay. Now, there's a signature page also. The pages of this document are not numbered, but it appears that it's around page 19. Can you confirm if this is your wife's signature?
+
+**[03:24:38.320] Atty. Melvin Matibag**  
+I think I have no authority to confirm the signature, even if she is my wife.
+
+**[03:24:42.220] Atty. Mark C. Vinluan**  
+So you can confirm the signature of your NBI agent but not your wife?
+
+**[03:24:46.360] Atty. Melvin Matibag**  
+It's appear to be her signature but I have not confronted with the document so that I can compare it.
+
+**[03:24:53.020] Atty. Mark C. Vinluan**  
+At any rate your honor may we allow? With the NBI it's different.
+
+**[03:24:56.380] Atty. Melvin Matibag**  
+I testified earlier that it was presented to me and I asked him if he signed it and I'm familiar to his signature because he's always making submission to my office.
+
+**[03:25:08.630] Atty. Mark C. Vinluan**  
+May we request your honor that we be allowed to submark this particular portion. May we
+
+**[03:25:17.090] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+request your honor that the witness be confronted first with the document and may we request as well that the assisting counsel for the prosecution be allowed to approach.
+
+**[03:25:25.490] Sen. Francis “Chiz” Escudero**  
+Assisting counsel for the respondent may please confront the witness with the document in the presence of assisting counsel for the prosecutor before
+
+**[03:25:37.360] Sen. Francis “Chiz” Escudero**  
+Council for Respondent requests it to be marked. Witness will kindly look at the document and answer the question. May
+
+**[03:25:43.360] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+I first manifest, Your Honor, that the document being presented to the witness is a photocopy.
+
+**[03:25:50.590] Atty. Mark C. Vinluan**  
+Your Honor, if at all we can agree that the court's copy be submarked, Your Honor. And we request, Your Honor, that the first page that we showed and the signature page around page 16 be
+
+**[03:26:12.310] Atty. Mark C. Vinluan**  
+It shall
+
+**[03:26:13.310] Sen. Francis “Chiz” Escudero**  
+be done at a later time. In the meantime, by the oath of respective councils, I believe you can rely on this copy subject to confirmation in the marking of the actual copy that the court has. You're referring to the impeachment resolution on impeachment, right?
+
+**[03:26:31.540] Atty. Mark C. Vinluan**  
+Yes, Your Honor.
+
+**[03:26:34.070] Atty. Mark C. Vinluan**  
+Insofar as the identification of this witness, we are relying actually on the transmittal by the Committee on Justice which was received by your office on May 11, 2026, Your Honor. Not
+
+**[03:26:46.990] Sen. Francis “Chiz” Escudero**  
+by my office but by the Secretary General of the Senate. Kindly confront the witness with the document so that he may answer intelligently. If you know only, Director Matiba.
+
+**[03:26:56.870] Atty. Melvin Matibag**  
+Your Honor, respectfully, if I may say something.
+
+**[03:27:01.080] Sen. Francis “Chiz” Escudero**  
+Director Matibag, in order to save time in the questioning of defense counsel, I think he's going to the position—
+
+**[03:27:09.480] Atty. Melvin Matibag**  
+My wife endorses the Article of Impeachment. So that we save time and it's on record, it's a matter of public notice: yes, my wife is one of the endorsers of the impeachment.
+
+**[03:27:21.960] Sen. Francis “Chiz” Escudero**  
+Duly noted, counsel. Move on.
+
+**[03:27:26.240] Atty. Mark C. Vinluan**  
+All right. Thank you for that admission, Director Matibag. And despite that spousal relationship that you admitted, you decided to appear and testify today, correct?
+
+**[03:27:42.130] Atty. Melvin Matibag**  
+My decision to be a witness is by virtue of subpoenaed issues by the Honorable Court and by invitation of the Committee on Justice of the Prosecution. However, the job of my wife As a legislator, it's totally detached for me being the director of the National Bureau of Investigation.
+
+**[03:28:06.330] Atty. Mark C. Vinluan**  
+Okay, my next question is, but the court did not issue a subpoena for you to appear today?
+
+**[03:28:15.090] Atty. Mark C. Vinluan**  
+Are you saying that you received a subpoena despite this honorable court not issuing a subpoena for you?
+
+**[03:28:21.970] Atty. Melvin Matibag**  
+Even if there's no subpoena in the pre-trial order, I was mentioned to be a witness. And I was invited by the prosecution to be a witness. And from my understanding, in the pre-trial order, I was also listed by the defense. I will be gladly witness for the defense as well if I will be called upon.
+
+**[03:28:39.050] Atty. Mark C. Vinluan**  
+Alright, but which is which? Are you appearing today by virtue of a subpoena or without a subpoena? I'm appearing today as a witness,
+
+**[03:28:46.090] Atty. Melvin Matibag**  
+as called upon and announced by the Honorable Court. And by the invitation also of the prosecution.
+
+**[03:28:50.430] Atty. Mark C. Vinluan**  
+No, that's not my question, Director Matibag. You're a lawyer, you know this. Are you appearing today by virtue of a subpoena or no subpoena?
+
+**[03:28:58.530] Atty. Melvin Matibag**  
+There's no reason subpoena but there is a verbal announcement from the Honorable Court that I will be a witness in today's hearing.
+
+**[03:29:06.330] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the question of the defense is misleading. It is apparent that last week a subpoena was issued to the witness, Your Honor, and it is because of the Other matters that was heard and addressed by the impeachment court. The schedule of the witness was scheduled to today.
+
+**[03:29:24.410] Sen. Francis “Chiz” Escudero**  
+The objection is overruled. First, asked and answered. And for the record and information of the Senator-Judges, the Presiding Officer confirms that no subpoena was issued to Director Matibag. In fact, I asked if one was needed, and the response I got was that it was not necessary. But indeed, the Chair also confirms that the name of Director Matibag was requested to be invited by the prosecutors, and he was so named by the Presiding Officer to attend in, I believe, yesterday's supposedly and today's trial dates. Move on, counsel.
+
+**[03:30:07.800] Atty. Mark C. Vinluan**  
+Atty.
+
+**[03:30:12.780] Atty. Mark C. Vinluan**  
+Daryl D.
+
+**[03:30:21.220] Atty. Mark C. Vinluan**  
+Ramirez
+
+**[03:30:28.860] Atty. Mark C. Vinluan**  
+You mean prior to your appearance to this honorable court, you met with certain members of the prosecution?
+
+**[03:30:36.480] Atty. Melvin Matibag**  
+Yes, twice. When I was informed that I will be a witness on the pre-trial order.
+
+**[03:30:41.660] Atty. Mark C. Vinluan**  
+Alright. Did you meet with the private prosecutors or the public prosecutors?
+
+**[03:30:45.860] Atty. Melvin Matibag**  
+With the chairman of the committee, with the Congresswoman Jerry Miller.
+
+**[03:30:50.780] Atty. Mark C. Vinluan**  
+And you are confirming in open court that you discussed or you were briefed
+
+**[03:31:04.200] Atty. Melvin Matibag**  
+Well, I'm a lawyer and I know where you're going. There was no discussion or coaching. We just discussed what was supposed to be covered by the testimony. Because I'm a director, I will be testifying. Of course, they will want to know what will be the nature of my testimony.
+
+**[03:31:25.200] Atty. Melvin Matibag**  
+In the same way that when you want to present me as your witness, I may be more than willing to sit down with the defense counsel.
+
+**[03:31:32.960] Atty. Mark C. Vinluan**  
+Your Honor, I take exception to that. I don't think Director Matibag knows where I'm going. In fact, I'm moving on to a new point. At any rate, Your Honor, I don't think we are calling him as a witness. So these are facts that he only assumes.
+
+**[03:31:48.520] Sen. Francis “Chiz” Escudero**  
+Witness will not argue with counsel. Kindly move on. Kindly move on, counsel for the respondent.
+
+**[03:31:55.800] Atty. Mark C. Vinluan**  
+All right. Let's just move on. Director Matibag, the NBI is under the DOJ, correct?
+
+**[03:32:01.720] Atty. Melvin Matibag**  
+That is correct.
+
+**[03:32:02.720] Atty. Mark C. Vinluan**  
+And the DOJ is under the Office of the President, correct?
+
+**[03:32:06.000] Atty. Melvin Matibag**  
+That is correct.
+
+**[03:32:06.960] Atty. Mark C. Vinluan**  
+Now, BBM—in short, BBM—has control and supervision over both the NBI and the DOJ. Your Honor, sorry, I'm hearing comments from the prosecution. I don't mean any disrespect to the President. It's just for purposes of abbreviation and just calling him BBM. But at any rate, I'll move on to my question. So BBM has control and supervision over both the NBI and the DOJ, correct?
+
+**[03:32:34.320] Atty. Melvin Matibag**  
+That is not exactly correct. Only on the matter of appointment, but we enjoy independence in the matter of investigation.
+
+**[03:32:43.770] Atty. Mark C. Vinluan**  
+I'm glad you mentioned that. Do you confirm that you're an appointee of BBM? Well,
+
+**[03:32:48.530] Atty. Melvin Matibag**  
+it's only the president who can make an appointment. I think it is provided for in the law.
+
+**[03:32:52.570] Atty. Mark C. Vinluan**  
+No. You mentioned a while ago that after the affidavit of investigation was submitted, you called the investigators.
+
+**[03:33:25.670] Atty. Melvin Matibag**  
+For the evaluation and finding if there's enough reason to file a case before the Regional Trial Court or the proper courts.
+
+**[03:33:34.170] Atty. Mark C. Vinluan**  
+And during your direct testimony, you also mentioned that as we speak, it is still pending, correct? That is correct.
+
+**[03:33:44.420] Atty. Mark C. Vinluan**  
+Now, in other words, in terms of formal charge to be filed in court, that is still not available at this time, correct?
+
+**[03:33:59.130] Atty. Melvin Matibag**  
+It's in the jurisdiction of the National Prosecution Service which is under the Department of Justice.
+
+**[03:34:04.810] Atty. Mark C. Vinluan**  
+But insofar as the case that the NBI filed with the DOJ, is it not the case that that charge, does that include?
+
+**[03:34:17.280] Atty. Melvin Matibag**  
+That is correct. What was filed was grave threat and inciting to sedition.
+
+**[03:34:22.320] Atty. Mark C. Vinluan**  
+So, in other words, at this point, VP Sara is not being made to answer for contracting for assassination, correct?
+
+**[03:34:30.880] Atty. Melvin Matibag**  
+That is exactly what my testimony covered: that she is being investigated for contracting a person to kill the President, and that is a continuing threat not only to the life of the President but to the national security of our country.
+
+**[03:34:48.060] Atty. Mark C. Vinluan**  
+Not responsive, Your Honor. My question is if she's already being made to answer to that particular charge.
+
+**[03:34:56.540] Sen. Francis “Chiz” Escudero**  
+"Made to answer," counsel, meaning?
+
+**[03:34:59.600] Atty. Mark C. Vinluan**  
+she been subpoenaed? I'll be more specific. Has she been subpoenaed in terms of contracting for assassination?
+
+**[03:35:05.680] Atty. Melvin Matibag**  
+Well, in this impeachment court, she's being on trial. On trial. And that is very well covered by the articles. To me, as a lawyer, not only as an NBI director, and as a corporate dean, that is a betrayal of public trust to me, because she made an oath of office that she will protect, defend the Constitution, execute laws.
+
+**[03:35:32.620] Sen. Francis “Chiz” Escudero**  
+Director, let the court intervene at this juncture. That is not responsive to the question of counsel. Kindly just answer the question. Has the NBI issued a subpoena against the Vice President with respect to the crime of contracting a killer, allegedly?
+
+**[03:35:50.780] Atty. Melvin Matibag**  
+At this point, Your Honor, not yet.
+
+**[03:35:52.880] Sen. Francis “Chiz” Escudero**  
+Not yet. Okay. Please proceed, counsel.
+
+**[03:35:54.680] Atty. Mark C. Vinluan**  
+That's enough. So no subpoena as of now.
+
+**[03:35:58.570] Atty. Mark C. Vinluan**  
+In other words, has there been any affidavit of investigation relating to contracting for assassination?
+
+**[03:36:06.190] Atty. Melvin Matibag**  
+My understanding is there was a subpoena issued at that time during the investigation to the vice president and the lawyer submitted an affidavit.
+
+**[03:36:15.390] Atty. Mark C. Vinluan**  
+Again, not responsive, Your Honor. I'm talking about an affidavit of investigation executed by the NBI. Not yet. So at this point, Would you agree with me that the DOJ has not found any basis for contracting for assassination? Wala pa po sa iyon. So at this point, as of today, there is simply no evidence to warrant the filing of a formal charge for contracting for assassination, correct?
+
+**[03:36:48.860] Atty. Melvin Matibag**  
+That's why, kung babalikan po natin yung aking testimonya, this is a continuing and an open investigation as to the contracting of a killer.
+
+**[03:36:59.200] Atty. Mark C. Vinluan**  
+in other words, the reason why these are not present at this time because your investigation is still ongoing. It's
+
+**[03:37:05.800] Atty. Melvin Matibag**  
+a case build up and an open active investigation.
+
+**[03:37:08.380] Atty. Mark C. Vinluan**  
+Alright. Very well. Now, you mentioned about grave threats and inciting to sedition. My question to you is, these subject matters fall under the category of felonies, correct? That's correct. Now, in fact, Based on the penalties involved as provided by law, these fall under the jurisdiction of the first-level trial courts, correct? Yes. Moreover, for one to be declared guilty of these felonies, the burden of proof is guilt beyond reasonable doubt, correct? That is correct. Now, guilt beyond reasonable doubt, is this a low threshold or a high threshold?
+
+**[03:37:55.210] Atty. Melvin Matibag**  
+Beyond reasonable doubt, of course, it's a high threshold.
+
+**[03:37:57.930] Atty. Mark C. Vinluan**  
+In fact, it is the highest threshold in criminal law, correct? So in other words, para lang for the benefit of the Filipino people watching, so hindi ka pwedeng magsampa ng kaso ng hindi mo kayang patunayan, correct?
+
+**[03:38:11.810] Atty. Melvin Matibag**  
+Tama po yan. Dahil meron pong Memorandum Circular No. 20 ng Department of Justice kung saan sinasabi that when you file cases, there should be a reasonable certainty of conviction.
+
+**[03:38:23.170] Atty. Mark C. Vinluan**  
+Thank you for that clarification. So, if this threshold of guilt beyond reasonable doubt is not reached, then the accused must be acquitted, correct? Tama po yan. And in so far as grave threats or inciting to sedition, it is the trial courts that will decide that, correct? That is correct. Not the DOJ?
+
+**[03:38:46.270] Atty. Melvin Matibag**  
+The DOJ will submit the information and the resolution for prosecution at the end of the day. It will be the court who will say whether it's guilty or not.
+
+**[03:38:57.420] Atty. Mark C. Vinluan**  
+Alright. Now, in your testimony earlier, you mentioned that there are leads. On the alleged person that VP Sara talked to, correct? Yes. But let me ask you this. During that presscon, did VP Sara mention the word assassin? Wala po. Alright. Now, the investigation on these leads, are these already final? Pakiulit po. The investigation based on these leads that you mentioned, are these already final? Hindi po.
+
+**[03:39:37.070] Atty. Melvin Matibag**  
+Walinaw po sinabi ko that this is a continuing and open investigation po.
+
+**[03:39:41.090] Atty. Mark C. Vinluan**  
+Alright. So, in other words, you haven't given any opportunity for VP Sara to confront this alleged person, correct? Hindi po po. Alright. But, will you agree with me that confronting this alleged person is part of due process?
+
+**[03:39:58.180] Atty. Melvin Matibag**  
+Tama po. Kaya mas maganda nga po kung si VP Sara mismo magsabi dito kung meron siyang kinausap at kung sino ang kinausap.
+
+**[03:40:06.820] Atty. Mark C. Vinluan**  
+But is that part of the SOP also that you give an opportunity for VP Sara to confront?
+
+**[03:40:13.300] Atty. Melvin Matibag**  
+Tama po. Pag natukoy na po namin kung sino ang taong kanyang kinausap, that is the time na siya po yamin kukomprontahin para siya po ay masagot niya kung itong taong talaga ito ang kanyang kinausap para patayin ang Pangulo.
+
+**[03:40:26.760] Atty. Mark C. Vinluan**  
+Alright. My next question is very simple. So you offered your testimony before this Impeachment Court. Even you performed SOP or giving opportunity to VP Sara to confront?
+
+**[03:40:40.870] Atty. Melvin Matibag**  
+Malinaw naman po yung sinabi ko. Pag nakita po namin kung sino ang taong kinausap, saka po namin siya kukomprontahin kasama po ang taong iyon at kasama po ang mga willing na nagbibigay ng UNINTEL para harapin po. Ang kusasyon na iyon. So
+
+**[03:40:58.150] Atty. Mark C. Vinluan**  
+considering that you're still pursuing those leads, don't you think that your testimony today is premature? Hindi po.
+
+**[03:41:05.050] Atty. Melvin Matibag**  
+Sapagkat malinaw naman po sa statement ng ating vicepresidente na meron siyang kinausap para patayin si Bongbong Marcos, si Lisa Marcos Araneta, si Martin Romualdez, at sinabi pa niya na walang biro to us sa law investigation. Applying po namin. Ang mga metodology na ginagamit ng Secret Service sa Amerika ay papasok po rito na ito ay isang malinaw na confession ng isang tao na meron siyang isang plano na pagpatay. Okay,
+
+**[03:41:39.870] Atty. Mark C. Vinluan**  
+I'll move on. But I'll ask you, isn't that a trial by publicity which is not sanctioned by your laws? Hindi
+
+**[03:41:50.050] Atty. Melvin Matibag**  
+Hindi po. Sapagkat kaya nga po namin hindi nilalabas yung aming confidential at secret na investigation, lamang nga po tayo'y pinatitestigo rito na kailangan natin sabihin kung ano na ang naging takbo ng investigation. At malinaw naman po sa aking testimonya na dito sa continuing open investigation, active investigation, meron pong mga persons of interest.
+
+**[03:42:22.080] Atty. Mark C. Vinluan**  
+fact, you mentioned during your direct testimony that you cannot give further details, correct? It's classified. Okay. So, with all due respect, I'll ask this in Filipino, with all due respect to you, Director Matibag, kung hindi niyo pa po pala kayang magbigay ng detalye, bakit niyo pa po nilabas na may leads kayo in the first place?
+
+**[03:42:42.340] Atty. Melvin Matibag**  
+Sa pagkat gaya po nang sinabi ko, malinaw naman na yung pagsasalita ng ating vicepresidente na siya ay kumausap ng papatay at pumayag yung papatay na patayin ang mga individual na ito, meron na pong pagkakasundo na gagawin po ang isang krimen.
+
+**[03:43:00.680] Atty. Mark C. Vinluan**  
+Yeah, but my point is, wouldn't that prejudice your ongoing investigation, that you come out here and you make statements that you already have leads?
+
+**[03:43:10.320] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Objection, Your Honor. That is a speculative.
+
+**[03:43:14.740] Sen. Francis “Chiz” Escudero**  
+Witness may answer.
+
+**[03:43:17.120] Atty. Melvin Matibag**  
+Kaya nga po ang dahilan na hindi ko mabanggit kung sino po 'yung mga persons of interest, dahil doon po mako-compromise ang imbestigasyon na gumugulong.
+
+**[03:43:26.480] Atty. Mark C. Vinluan**  
+Okay. At any rate, if this ongoing investigation progresses, that is the only time that a different charge will be executed against the Vice President.
+
+**[03:43:43.360] Atty. Melvin Matibag**  
+Balikan ko po ulit. Para po sa amin, malinaw na ang pagkontrata sa pagpapatay o nang papatay sa mga pangalang binanggit ay nandoon na, applying the methodology ng Secret Service na binanggit ko po kanina. Ang hindi na lang po natin nakikita ay kung sino ang taong kinausap. Kaya ito po ay still open and continuing investigation.
+
+**[03:44:08.170] Atty. Mark C. Vinluan**  
+At any rate, it's not yet final, correct? Tama po. Now, you mentioned that the NBI is still conducting an investigation, ongoing investigation. Do you still use the video of the November 23, 2024 presscon in this ongoing investigation?
+
+**[03:44:25.590] Atty. Melvin Matibag**  
+Isa po ito sabi naging batayan. Para po dun sa five-point standard na pinitingnan po namin ay amin pong matugunan.
+
+**[03:44:34.100] Atty. Mark C. Vinluan**  
+It's an almost two-year-old video now. Do you think it's still relevant to your ongoing investigation?
+
+**[03:44:39.920] Atty. Melvin Matibag**  
+Hindi po. Sa pagkatagang sa ngayon nga ay hindi pa natin naahanap kung sino ang taong kinausap po ng ating vice president.
+
+**[03:44:46.640] Atty. Mark C. Vinluan**  
+Very well. Atty. Matibag, do you know Mel Sabio? Opo. Now, about two months ago, An old audio video file of the two of you circulated online. By the way, we won't show that video out of respect to the party's rights as well as I saw your wife here also out of your family member's rights and also out of Mel Sabio's rights. I'll just ask you a few questions. This video circulated online and you already came out in the media admitting that it was you and Mel Sabio who were involved in that video.
+
+**[03:45:22.110] Atty. Melvin Matibag**  
+Tama po yun. That is a private conversation sa dalawa pong magkaibigan na hindi nagkakasundo.
+
+**[03:45:27.290] Atty. Mark C. Vinluan**  
+Alright. And my only question to you is this. Did that incident demonstrate an emotional outburst on your part?
+
+**[03:45:36.640] Atty. Melvin Matibag**  
+Kasama na po yun. Kombinasyon na ng galit at disappointment. At ako naman po inamin ko na yan ay isang pagkakamali na akin pong tinanggap na rin at tinagsisiyan.
+
+**[03:45:48.780] Atty. Mark C. Vinluan**  
+Alright. Could you recall what you said in that video?
+
+**[03:45:52.020] Atty. Melvin Matibag**  
+Ang masama po yung aking mga sinabi. Meron pong hindi talaga kaaya-aya. Can
+
+**[03:45:57.560] Atty. Mark C. Vinluan**  
+you recall? Just to give an idea of those who are not able to watch.
+
+**[03:46:01.480] Atty. Melvin Matibag**  
+I cannot exactly recall because that was really long time ago. That's
+
+**[03:46:06.020] Atty. Mark C. Vinluan**  
+okay.
+
+**[03:46:07.830] Atty. Mark C. Vinluan**  
+Now, on July 10, 2026, you wrote a letter to Representative Luistro. Do you confirm this?
+
+**[03:46:17.180] Atty. Mark C. Vinluan**  
+July 10? July 10, 2026. Opo. In that letter, we can confront you with a hard copy, but we can also flash. In that letter, you mentioned, and I quote, As Director of the Bureau, I will personally attend to represent the NBI at this summit of Director and Commissioner General level law enforcement leaders across the Asia Pacific. Which will require my travel and attendance on those dates. Now, those dates pertain to July 21 to 22, 2026. So, today and tomorrow. Do you confirm this? Opo. Alright. Now, in that letter,
+
+**[03:47:05.610] Atty. Mark C. Vinluan**  
+there was a prior letter to that, correct? Which you received from FBI Director Kash Patel? Tama po. Do you personally know Kash Patel? G.
+
+**[03:47:21.640] Atty. Mark C. Vinluan**  
+Matibag, Atty.
+
+**[03:47:38.480] Atty. Mark C. Vinluan**  
+Matibag, Atty.
+
+**[03:47:45.160] Atty. Mark C. Vinluan**  
+Through the prosecution on July 13, 2026. Now, just a manifestation, this now forms part of the records of this case. So, are you friends or did he just research about your being a lawyer? Ganito po kasi ang
+
+**[03:48:01.440] Atty. Melvin Matibag**  
+Ganito po kasi ang nangyari diyan. Meron pong high-value target, one of the top ten most wanted, si Henry Kimball ang pangalan po niya, who scammed the government about 2.8 billion. Number two po siya at sa 10 most wanted. And we had a coordination meeting with our local counterpart ng U.S. Embassy na FBI station in Manila, si Ma'am Courtney, asking for our help for the extradition of this person who happens to have a problem in a court in Makati. They were expecting na ito pong taong ito ay matagal pa bago ma-extradite sa kanila. Lumapit po sa atin sa NBI, at dahil natulungan po natin na yung inaakala nilang buwan ang lilipas bago ma-extradite, natulungan po natin sila sa loob ng dalawang araw ay na-extradite po. Kung kaya nung na-extradite po ito pong si Henry Kimball, ako po ay tinawagan ni Ma'am Courtney ng FBI na siya'y nasa America at sinabi na nagpapasalamat. Katunayan po, nagpadala po ng letter of gratitude ang FBI. At yun pong pag-attend ko sa Bangkok, hindi naman po basta lang ako a-attend doon sa conference. There was an opportunity on the side na magkaroon po kami ng pagpupulong po nang personal ni Director Kash Patel. Kaya po gusto ko sanang makadalo doon.
+
+**[03:49:23.360] Atty. Mark C. Vinluan**  
+Thank you for that clarification. Anyway, I'm just asking because the schedule of the court actually changed or was altered because of this letter. Just a few questions on this. Now, upon perusal of this letter, it appears na sinulatan kayo nang diretso ni Director Kash Patel, and walang address yung NBI. It just says Manila. Do you confirm receipt of this letter?
+
+**[03:49:46.760] Atty. Melvin Matibag**  
+It was sent through email.
+
+**[03:49:48.040] Atty. Mark C. Vinluan**  
+Through email. Okay. Now, of course, before you wrote Representative Luistro, you first confirmed your attendance with FBI Director Patel. Am I right?
+
+**[03:49:59.650] Atty. Melvin Matibag**  
+Wala pa pong confirmation, dahil malinaw naman po. Sinasabi ko nga po kay Congresswoman Luistro na dalawang event 'yan na magkasabay. Sayang yung opportunity na maaari kong makausap yung FBI Director, sapagkat it's very rare that an FBI Director will talk to an NBI Director. So sinabi ko na baka naman puwedeng mas mapaaga, kung puwede lang, at kung makikita naman po doon sa liham ko, respectfully I'm requesting. Pero nilinaw ko po kay Congresswoman Luistro na dalawang event 'yan, at in order of priority, ang akin pong priority ay tumestigo po dito po sa Impeachment Court. At sabi ko naman, ipinaabot ko po through Ma'am Courtney that probably we can arrange another day na magkausap po kami ni Director Kash Patel.
+
+**[03:50:46.840] Atty. Mark C. Vinluan**  
+Okay. Thank you for that clarification. At any rate, you're admitting that before you wrote Representative Luistro, hindi pa final yung confirmation mo dito kay Director?
+
+**[03:50:56.200] Atty. Melvin Matibag**  
+Meron na pong arrangement. Pero alam po nila na ako'y magtitistigo. So kung malilipat po, that is the only time na ako po ay pupunta sa Bangkok po.
+
+**[03:51:06.240] Atty. Mark C. Vinluan**  
+No, I'm talking about: may confirmation na kayo ni Director Kash Patel before you wrote Representative Luistro?
+
+**[03:51:12.400] Atty. Melvin Matibag**  
+Wala pa. There was already an invitation and information channeled to their local representative, si Ma'am Courtney po.
+
+**[03:51:19.720] Atty. Mark C. Vinluan**  
+Ma'am, sino 'yan, ma'am?
+
+**[03:51:20.720] Atty. Melvin Matibag**  
+Siya po si Courtney. Siya po yung FBI representative dito.
+
+**[03:51:23.720] Atty. Mark C. Vinluan**  
+At any rate, my question is: do you maintain that this is an official invitation from FBI, Kash Patel?
+
+**[03:51:33.280] Atty. Melvin Matibag**  
+Opo. Katunayan, meron pong dumalo ngayon doon, yung pong aming representative ng IOD.
+
+**[03:51:38.360] Atty. Mark C. Vinluan**  
+And it's also director or commissioner level?
+
+**[03:51:42.080] Atty. Melvin Matibag**  
+Ah, ano po, siya po ay division level po.
+
+**[03:51:45.000] Atty. Mark C. Vinluan**  
+Are you at liberty to disclose the name?
+
+**[03:51:47.240] Atty. Melvin Matibag**  
+Yes po, Atty. Chris Hernandez.
+
+**[03:51:48.920] Atty. Melvin Matibag**  
+Nandun siya sa Bangkok ngayon. Nandun po siya ngayon.
+
+**[03:51:50.760] Atty. Mark C. Vinluan**  
+Would you know kung si Director Kash Patel nag-attend doon sa Bangkok ngayon or nag-cancel din siya?
+
+**[03:51:55.640] Atty. Melvin Matibag**  
+Hindi ko po alam. I have to get the information.
+
+**[03:51:58.670] Atty. Mark C. Vinluan**  
+Just one last manifestation, Your Honor. Again, these documents comprising of three documents, June 24, July 10, and July 13, were introduced by the prosecution and are now part of the records of this case. If I may be allowed to proceed, Your Honor. Now, I'll show you one last graphic and then I'll ask you a couple of questions thereafter.
+
+**[03:52:24.030] Atty. Mark C. Vinluan**  
+Can we show the graphic? Alright.
+
+**[03:52:31.070] Atty. Mark C. Vinluan**  
+This is from the Daily Tribune. Your
+
+**[03:52:35.110] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Honor, please. No
+
+**[03:52:36.430] Atty. Mark C. Vinluan**  
+question yet, Your Honor. Let
+
+**[03:52:38.470] Sen. Francis “Chiz” Escudero**  
+counsel finish with this question and then the lead prosecutor may make her objection.
+
+**[03:52:43.770] Atty. Mark C. Vinluan**  
+Alright. This is from the Daily Tribune. Okay. And this is the public, entitled public trust rating. I'll just focus on the green. Not the red. No, but Vice President Sarah Duterte, it says they're 57%. And this was conducted by the Social Weather Station's SWS survey. Okay. Now, my question to you is this. You mentioned that you have an ongoing investigation. Do materials like this, insofar as how Filipino people view or trust VP Sara, Have an effect in your investigation.
+
+**[03:53:25.570] Sen. Francis “Chiz” Escudero**  
+Objection, Your Honor. Before the witness answers, the lead prosecutor is recognized for objection. What is the basis of the objection?
+
+**[03:53:30.810] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the defense is showing a picture of the president and the vice president with a certain rating at the bottom. This has no relevance at all, Your Honor. With respect to the subject matter of this impeachment trial,
+
+**[03:53:46.830] Atty. Mark C. Vinluan**  
+and we
+
+**[03:53:47.650] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+are objecting to the presentation of this picture, Your Honor.
+
+**[03:53:51.090] Atty. Mark C. Vinluan**  
+Just a short rejoinder, Your Honor.
+
+**[03:53:53.810] Atty. Mark C. Vinluan**  
+The witness
+
+**[03:53:59.570] Atty. Mark C. Vinluan**  
+mentioned the term betrayal of public trust, and we can run the TSN back. Your Honor, of course, we're allowed, this is cross-examination, we're allowed to present controverting evidence to that statement.
+
+**[03:54:14.360] Sen. Francis “Chiz” Escudero**  
+The Chair will allow the witness to answer despite that there is no date when this survey was taken. Kindly answer if you know, Director Matibag.
+
+**[03:54:26.940] Atty. Melvin Matibag**  
+Gladly, Mr. Presiding Officer. Alam ninyo po, survey iyan. And all of us know, or for the information of the public, a survey is just a snapshot of something. It doesn't necessarily follow na yung survey na iyan ay kumbaga nakataga na sa bato. Pangalawa po, may mandato po ang NBI. We cannot be swayed by public opinion o kaya po ng aming personal na opinyon. Kami po ay nag-iimbestiga na batay sa batas, batay sa proseso, at batay po sa ating itinakdang mandato base po sa pagtatatag ng NBI.
+
+**[03:55:11.560] Atty. Mark C. Vinluan**  
+Okay. I mentioned Daily Tribune. You write editorials for the Daily Tribune, correct? Tama po. Long time ago po. Long time ago. And in 2024, you wrote at least three editorials about VP Sara. Is that... Can you recall?
+
+**[03:55:26.280] Atty. Melvin Matibag**  
+Mari po. Mayroon po akong mga sinulat tungkol kay Vice President.
+
+**[03:55:29.520] Atty. Mark C. Vinluan**  
+I'm showing you this... No, not that one. The editorials, alright, from the Daily Tribune. And we have hard copies that you can refer to. But it says here, Director Belvin Matibag, do you confirm that it is you who authored these editorials? Yes. Alright. Now, I'm showing you the first one entitled, Inday Sara, The Bratinella, dated September 12, 2024. Do you confirm that you wrote this editorial?
+
+**[03:55:57.740] Atty. Melvin Matibag**  
+That's correct, in my opinion column.
+
+**[03:56:00.000] Atty. Mark C. Vinluan**  
+Alright. And you also wrote... The Bratinella is a flat spare tire. Dated October 24, 2024. Do you confirm this? Yes. And you also wrote, Bratinella, Sarah, and her bad habits dated November 7, 2024. Do you confirm this? Yes. And in these editorials, you shared your opinions against VP Sarah. Is that correct?
+
+**[03:56:27.910] Atty. Melvin Matibag**  
+Well, unang-una po. Siguro doon sa title na Bratinella, that is not my original. In fact, kaya ako po nasulat dyan, eh yan ang mismong naririnig ko nang kami magkakasama nila dating Pangulong Duterte na ang tawag niya kay Inday Saha ay Bratinella.
+
+**[03:56:42.660] Atty. Mark C. Vinluan**  
+Alright, so my only question is before you testified today, there were already instances in the past that you shared your public opinions against VP Sala.
+
+**[03:56:52.440] Atty. Melvin Matibag**  
+Well, that is a opinion column. At meron po tayong mga pinagbabasihan dyan.
+
+**[03:56:57.230] Atty. Mark C. Vinluan**  
+Okay. In fact, let me read one line from your editorial. It says there, As Inday Sara is being unmasked in the legislative inquiries and by her own mouth, as an ill-bred Bratinella, her public trust crumbles. Do you confirm that you included this statement in your editorial? Yan po yung nakasulat. Alright. And despite this position, And the recent surveys show that VP Sara even gained positive trust rating as shown earlier, a positive 57. Do you confirm this?
+
+**[03:57:37.890] Atty. Melvin Matibag**  
+Well, again, I'm saying na nung sinulat ko po yan, that is my opinion as an opinion writer. Alright.
+
+**[03:57:43.790] Atty. Mark C. Vinluan**  
+Now, despite this positive trust rating by VP Sara, do you still maintain that, and I quote, her public trust crumbles?
+
+**[03:57:52.040] Atty. Melvin Matibag**  
+Well, Para sa akin po na ako yung NBI Director, palagi ko po hindi po material itong ating pinag-uusapan sapagkat sabi ko nga ang ating pag-iimbestigay nababasis sa batas, nababasis sa ebidensya, at prosesong nanduduna nang ako'y dumating po bilang NBI Director.
+
+**[03:58:11.690] Atty. Mark C. Vinluan**  
+Alright, one last question on this before I let this point go. So considering the positive trust rating of VP Sara, can one really say that she betrayed public trust? Magkaiba
+
+**[03:58:23.380] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+po yan. It's speculative, Your Honor.
+
+**[03:58:25.380] Sen. Francis “Chiz” Escudero**  
+Can we get a ruling, Your Honor? Witness is knowledgeable enough to answer. He can handle himself. Director Matibag, you may answer.
+
+**[03:58:32.140] Atty. Melvin Matibag**  
+Magkaiba po yan. Again, I'm saying, and I'm sure marami rin po rito nakakaalam na umaasa sa mga survey, a survey is just a snapshot of what's happening. It doesn't necessarily follow na pagka yun ang lumabas, ay yun na yung totoo. Pangalwa. Pagka po ating pinagbasihan ng popularidad, ang ibig sabihin po ba nito ang isang pinakakilala at popular na tao pwede nang gumawa ng krimen at hindi natin papapanagutin?
+
+**[03:59:21.130] Atty. Mark C. Vinluan**  
+It is the right of the respondent to intelligently cross-examine him on those topics. Again, Your Honor, those topics are not included in the Articles of Impeachment and are considered new. In fact, Your Honor, as earlier stated, we feel that these two topics are a violation of the respondent's right to be promptly and fully informed of the charges against her. As a result of the cross-examination, a 100-page document was introduced and allowed by this court. That document is unsigned and unnotarized. We feel like, for us to intelligently cross-examine the witness on this document that he mentioned, there is a need for a continuance, Your Honor.
+
+**[04:00:25.780] Sen. Francis “Chiz” Escudero**  
+What does the lead prosecutor say?
+
+**[04:00:28.260] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+With all due respect, Your Honor, we object to the motion for continuance of the defense. The defense already started and propounded a lot of cross-examination questions to the witness, and the witness is simply answering completely, accurately, the questions which are being raised and propounded to him. We do not understand, Your Honor, why they will move for continuance after already raising a lot of questions to the witness, Your Honor. We would like, Your Honor, the defense to finish. The cross-examination today and if the impeachment court will still allow, we will immediately proceed to redirect after the cross-examination, Your Honor, with all due respect to our honorable senator judges.
+
+**[04:01:19.120] Sen. Francis “Chiz” Escudero**  
+The objection of the lead prosecutor is noted. However, this is the first time that any counsel for the parties is asking for a continuance. The chair is inclined to grant it and will so grant it as well. Should the council for the prosecutors or the lead prosecutor or panel of prosecutors require it at some point in time in this trial or hearing, but let it not be the rule or let it not be a habit on the part of either council for the parties to do so, to ask for a continuance. But at this time, the chair will grant the continuance requested by the defense. In the meantime, since it's only 5.55 with the indulgence of our senator judges, We may proceed to the interjections and interventions of the Senator Judges.
+
+**[04:02:08.420] Atty. Mark C. Vinluan**  
+One last point, Your Honor, before the interjections.
+
+**[04:02:11.320] Sen. Francis “Chiz” Escudero**  
+Before recognizing the Senator Judges, yes, what is the pleasure of Atty. Vinlon?
+
+**[04:02:18.060] Atty. Mark C. Vinluan**  
+Your Honor, considering that the witness introduced... As I said, a lengthy document. Can we ask for a copy of the Las Cañas material that he provided? The
+
+**[04:02:27.370] Sen. Francis “Chiz” Escudero**  
+chair already earlier ordered that, I believe. During the interregnum, the prosecutors are directed to kindly furnish the council for respondents with a copy of the, I believe, over an inch or a little less than two inches of affidavit of Mr. Las Cañas. So ordered.
+
+**[04:02:53.510] Sen. Francis “Chiz” Escudero**  
+Chair will now recognize. Prior to Senator Judge Rafi Tulfo earlier, Senator Judge Villanueva indicated his desire to interject or make interventions. Thereafter, Senator Judge Rafi Tulfo. Thereafter, Senator Judge Risa Ontiveros. You have two minutes, sir, and you may proceed when you're ready.
+
+**[04:03:16.000] Sen. Joel Villanueva**  
+Mr. Presiding Officer, before I ask some questions, I can see that my time is already running. Let me just ask a procedural inquiry Mr. Presiding Officer and respectfully this representation seek the guidance of the court on a procedural matter because earlier today I heard our witness who made mention several times that the investigation is still ongoing It's a continuing investigation. May we know, Mr. Presiding Officer, in this particular aspect of the NBI's investigation that remains ongoing, Just for the guidance of this representation and I'm sure for the guidance of both parties, kung matatapos na po yung investigation o yung presentation of evidence dito po sa Article 4 at magkakaroon po ng significant development na maaari pong material sa atin pong proceedings, ano po ang tamang proseso para maipabatid At kung kinakailangan maiharap po ito sa Impeachment Court considering na isasara na po itong Presentation of Evidence sa Article 4, State
+
+**[04:04:46.980] Sen. Francis “Chiz” Escudero**  
+History. Sen. Judge Villanueva, sa rule, the Court is a passive body. Hindi pang ihimasukan ng husgado kung ano man ang pwede, balak o gustong gawin ng magkabilang partido, prosecution man o sa hanay ng respondent kung mangyari man yun. And the court will not speculate with respect to that hypothetical situation should it arise lest we be accused of prejudging or deciding certain matters for the parties that they should be the one deciding should that happen.
+
+**[04:05:20.600] Sen. Joel Villanueva**  
+Thank you very much, Mr. President—Mr. Presiding Officer. And in fact, I would suggest: ‘May, motu proprio or upon motion, with hearing in either case, reopen the proceedings to avoid a miscarriage of justice.’ Close quote. So, just to put on record, Mr. Presiding Officer, na ito po yung magiging proper procedure. Marami pong salamat.
+
+**[04:06:07.460] Sen. Francis “Chiz” Escudero**  
+That is an option that the court may take, as the rule itself suggests. But at this juncture, the Presiding Officer would rather leave it to the parties, given that this is an adversarial proceeding. And the party should know what they should do for the interest of their respective clients. You may proceed, sir, with your questions. You have two minutes.
+
+**[04:06:27.800] Sen. Joel Villanueva**  
+Thank you, Mr. Presiding Officer. Thank you, Mr. President. Just one question to our witness, Director Matibag, for the benefit of the court and this representation. Mahari po ba ninyong ipaliwanag kung paano... Inaevaluate po ng National Bureau of Investigation ang isang aligasyon na ang isang tao ay nag-utos o kumontrata ng iba upang magsagawa ng isang krimen. Bilang bahagi po ng inyong investigasyon, tinukoy po ba ninyo kung ang ganito pong aligasyon ay maaaring pumasok?
+
+**[04:07:19.300] Sen. Joel Villanueva**  
+Director Matibag, I'd like to ask this question
+
+**[04:07:40.930] Sen. Joel Villanueva**  
+PINAL LAWS Now, the constitutional function of this court, however, is different. We are not sitting as a criminal court to determine guilt beyond reasonable doubt. Rather, we are called upon to determine whether the respondent's alleged acts constitute impeachable offenses.
+
+**[04:08:05.770] Sen. Joel Villanueva**  
+So magkaiba po yung binabanggit natin na criminal liability at constitutional accountability. Hindi po lahat ng maaaring maging batayan ng impeachment ay kailangan tumutumbas sa isang krimen. Sa pagkat ang impeachment ay hindi naman po usapin lamang ng paglabag sa batas kung hindi paglabag sa tiwalang ipinagkakaloob ng taong bayan. Ano pong masasabi nyo dito, Mr. Witness?
+
+**[04:08:36.990] Atty. Melvin Matibag**  
+Your Honor, tama po yun. Doon po sa uling sinabi ninyo na hindi naman nangangahulugan kung may krimi na nangyari, ito ay impeachable offense. Pero ilagay po natin sa pangyayaring to, kaya naman po, yung pong investigasyon doon sa grave threat, At doon po sa exciting to sedition, malinaw po ito na napapaloob sa revised penal code. At yun naman po pag-iimbestiga at paghahanap doon sa taong kinausap para pumatay, hindi po ito napapaloob sa revised penal code dahil yung pagpaplano ng pagpatay ay hindi naman po pinaparusahan yan kung hindi nga nagawa. Subalit doon na po papasok yung sinasabi nga natin na meron pong sinasabi na sa impeachment tinitingnan po at para sa akin nga yung betrayal of public trust. Dito po po pasok. Bakit po? Dahil meron po siyang sinumpang tungkulin. Doon po mismo sa kanyang out of office bilang vice president. Sinabi niya that protect and defend the constitution, execute the laws, do justice to everyone, and consecrate herself to protect the nation. Pero doon po siya sinabing execute the laws. Dito po natin nakikita hindi po execute the laws, yung pag-usap ng papatay. That is to execute the President. Kaya doon po papasok yung magkaiba na BTL or Public Trust.
+
+**[04:09:59.680] Sen. Joel Villanueva**  
+Naiintindihan ko po yung binabanggit ninyo: yung role ninyo na limitado doon sa criminal investigation at yung findings po ninyo. Hindi po ibig sabihin ay impeachable offense kaagad-agad.
+
+**[04:10:13.600] Atty. Melvin Matibag**  
+Tama po.
+
+**[04:10:14.400] Sen. Joel Villanueva**  
+And again, that's why I'm putting into the records na this is not a criminal proceeding but an impeachment proceeding. Last but not the least, doon sa binanggit po ninyo, there is a difference between saying that an individual has not yet been identified and saying also that no such individual exists. So ang una, nangangahulugan na nagpapatuloy pa po yung bureau sa pag-verify at pag-validate ng impormasyong mayroon ito. Sa ikalawa naman po ay isang konklusyon matapos ang isang imbestigasyon. Director Matibag, maaari po ba ninyong ipaliwanag yung kahalagahan ng distinction na ito sa point of view of the NBI sa inyong pag-iimbestiga?
+
+**[04:11:02.750] Atty. Melvin Matibag**  
+Doon na po natin hinihiwalay.
+
+**[04:11:05.550] Sen. Francis “Chiz” Escudero**  
+Before the witness answers, kindly wind up after that question, Senator Judge Joel. Witness may answer.
+
+**[04:11:13.030] Atty. Melvin Matibag**  
+Doon nga po natin hinihiwalay yung investigasyon na nangyari doon sa grief threat at inciting to sedition. Pumasok na po tayo doon sa pag-iimbestiga.
+
+**[04:11:35.290] Atty. Melvin Matibag**  
+Ang naging basihan nga po dito yung aking testimonya kanina na yung five-point field po na pinagbabasihan ng National Threat Assessment Center na ginagamit po ng Secret Service po ng Amerika.
+
+**[04:11:48.290] Sen. Joel Villanueva**  
+Okay po. Siguro hilingin ko na lang, Mr. Presiding Officer, at sa ating witness, kung matapos po yung inyong ongoing at sinasabi niyo nga po ang continue investigation, ay ma-inform lang din po ang courting ito. Maraming salamat, Your Honors, Mr. Presiding Officer.
+
+**[04:12:05.750] Sen. Francis “Chiz” Escudero**  
+Thank you, Senator Judge Villanueva. Senator Judge Tulfo Raffi is recognized for his interjections and interventions. You have two minutes, sir, for your questions. You may proceed when you're ready.
+
+**[04:12:20.720] Sen. Raffy Tulfo**  
+Mr. Witness, are you familiar with the case of Ronell Mas?
+
+**[04:12:27.030] Atty. Melvin Matibag**  
+Opo, napanood ko po 'yan.
+
+**[04:12:29.610] Sen. Raffy Tulfo**  
+At that time, hindi pa kayong NBI Director or connected to the NBI whatsoever. So, tell us briefly dito sa kaso ni Ronell Mas.
+
+**[04:12:38.030] Atty. Melvin Matibag**  
+Sa pagkaalala ko po rito, itong si Ronell Mas ay isang guro
+
+**[04:12:41.590] Atty. Melvin Matibag**  
+na
+
+**[04:12:42.430] Atty. Melvin Matibag**  
+kung saan siya ay nagsabi na kung sino ang papatay sa dating Pangulong. Rodrigo Ruo D. Torti, Atty. E papabiwaan niya ng 50 million. At sa pagkakaalala ko po, ang National Bureau of Investigation rin po ang tumugis at tumuli sa kanya, particularly po ang aming pong opisina sa Region 1. At siya po ay kinusuhan po ng pagbabanta at itinuring po na ang threat niya ay isang malaking threat po. Hindi lamang sa dating Pangulo kundi po sa ating pong National Security.
+
+**[04:13:18.990] Sen. Raffy Tulfo**  
+Inciting to sedition. And he was arrested warrantless. It was a warrantless arrest, right?
+
+**[04:13:26.070] Atty. Melvin Matibag**  
+Tama po.
+
+**[04:13:28.180] Sen. Raffy Tulfo**  
+Okay. So, isang guro nagbanta sa dating Pangulo, agad-agad inaresto ng walang warat. Now, itong si, yung VP Sara, si Vice President Sara Duterte, na nagbanta rin kay Pangulong Duterte at kay Pangulong Marcos. Anong difference ng dalawang?
+
+**[04:13:49.030] Atty. Melvin Matibag**  
+Well, ang pagkakaiba po nila, itong si Rene Mas ay isang guro, si vice president ay isa namang pong vice president, at siguro po ito ang naging konsiderasyon kung bakit hindi siya inaresto agad. So ibig sabihin ng NBI pala ay
+
+**[04:14:05.990] Sen. Raffy Tulfo**  
+tumitingin sa tinatawag ng special treatment. So ibig sabihin hindi pala pata sa NBI.
+
+**[04:14:16.220] Atty. Melvin Matibag**  
+I cannot speak
+
+**[04:14:31.950] Atty. Melvin Matibag**  
+for the NBA at that time, Your Honor, sapagkat yung mga pangyayari pong iyan, wala naman ako sa NBA pa po. Subalit ang maaaring ko pong ibahagi sa inyo, ipamarapatin po ninyo, ayun na nga pong aking pakikipagtalastasan sa aming mga foreign counterparts na aking din napag-aralan at sinasabi nila na sa kanilang jurisdiction kung mayroong isang pagbabanta na ginawa ng vicepresidente ay maaaring agad na ikulong at matanggal ka agad po sa pwesto. Pero again, respectfully, I cannot speak for the NBI noon po at saka yung Pagyayari po doon po.
+
+**[04:15:12.050] Sen. Raffy Tulfo**  
+Okay. Ano ibig sabihin po ni para sa inyo, Mayor Baste, nung sinabi niya sa isang Rage Coalition Gathering, isang ulo lang naman ang kailangan namin at ang ulo ni BBM or Bongbong Marcos. What does it mean to you?
+
+**[04:15:28.330] Atty. Melvin Matibag**  
+Well, kagaya po na nga aking naging testimonya, itirinato po namin ito na isang threat sa isang banta sa ating Pangulo na transcends all situa threat to our national security.
+
+**[04:15:39.050] Sen. Raffy Tulfo**  
+So is it the same as saying may patong sa ulo ang isang tao like a reward whoever can capture this person dead or alive or something to that effect?
+
+**[04:15:50.000] Atty. Melvin Matibag**  
+Itinuturing po namin itong banta hindi lamang sa siguridad ng ating Pangulo kundi sa siguridad po ng ating bansa.
+
+**[04:16:01.100] Sen. Raffy Tulfo**  
+So again kung tinuturing yung threat itong salita na binitiwan ni Bastet or Mayor Bastet Duterte
+
+**[04:16:10.400] Sen. Raffy Tulfo**  
+Atty.
+
+**[04:16:19.270] Sen. Raffy Tulfo**  
+Ronell M. Mas, Atty. Duterte,
+
+**[04:16:21.550] Sen. Raffy Tulfo**  
+Atty.
+
+**[04:16:30.750] Atty. Melvin Matibag**  
+Ronell M. So,
+
+**[04:16:34.250] Sen. Raffy Tulfo**  
+why was he not arrested?
+
+**[04:16:40.460] Sen. Raffy Tulfo**  
+Atty. Ronell Mas.
+
+**[04:16:42.280] Atty. Melvin Matibag**  
+Dahil naging warrantless arrest, siya po ay na-dismiss ang kaso. So iyan din po yung iniingatan natin.
+
+**[04:17:04.780] Sen. Raffy Tulfo**  
+you, Mr. Witness.
+
+**[04:17:06.020] Sen. Francis “Chiz” Escudero**  
+Thank you, Senator Judge Rafi Tulfo. Senator Judge Rison Tiveros is recognized. You may proceed, ma'am, when you're ready and you have two minutes.
+
+**[04:17:15.720] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Mr. Witness, nung nakaraang hearing po, paulit-ulit na binabanggit ang pangalan ni Princess Maui. Sino po ba yung taong yan? Background po niya, profile po niya?
+
+**[04:17:31.800] Atty. Melvin Matibag**  
+Sa pagkakalam ko, isa po siyang vlogger.
+
+**[04:17:36.760] Sen. Risa Hontiveros**  
+Ano pong background niya? Paano siya naging vlogger?
+
+**[04:17:40.500] Atty. Melvin Matibag**  
+Iyan po yung tinatawag natin. At alam naman ng lahat na DDS po. I see.
+
+**[04:17:54.820] Sen. Risa Hontiveros**  
+ano po yung bukod doon na vlogger siya doon sa panig na iyon, meron pa bang ibang profile itong Princess Maui bilang vlogger?
+
+**[04:18:06.700] Atty. Melvin Matibag**  
+Katunayan po, I was informed that she or he was invited to the NBI pero hindi po siya dumalok. At yan po ay kasama rin po sa patuloy na sinusubaybayan po ng ating cybercrime division po.
+
+**[04:18:21.440] Sen. Risa Hontiveros**  
+Alright, salamat po. Ngayon nabanggit rin po yung Oplan Romanov. Sabi po ni Atty. Lotoc, Ang alam niya ay banta ito sa presidente at pamilya nila na nagmula kay Mayor Sebastian Duterte. Sa kabilang banda, ayon naman kay Princess Maui, ay banta daw po yan sa buhay ni vicepresidente at pamilyang Duterte. Pareho po ba yang iniimbestigahan ng NBI?
+
+**[04:18:49.710] Atty. Melvin Matibag**  
+Ang alam ko po, na-cover na po ng NBI noon yung imbestigasyon doon sa allegation na yung Oplan Romanov ay banta sa Vice Presidente dahil nagpadala nga po ng subpoena kay Princess Maui at kay Vice President. Subalit, unfortunately, hindi po yata sila dumalo diyan. Pero nung iyan po ay aming sinusuri din, yung binabanggit ninyo po na Romanov, I think that was the January 18, 2024 na pahayag po ni Mayor Baste Duterte kung saan sinabi niya: ‘Let me tell you this, Mr. Bongbong Marcos.’ Hindi ko lang po maano yung exact words, but I remember that 'Before you go to sleep, remember the Romanovs and the Mussolinis and what happened to the Marcos family in 1986.' Yun po yung nakita nati na isa na nagli-link po diyan sa Romanov. Kaya recently narinig ko rin po yung dating director na sinasabi niya na ang Oplan Romanov ay tunay na banta sa pamilya ng mga Marcoses at hindi po kay Vice President Sara Duterte.
+
+**[04:20:01.400] Sen. Risa Hontiveros**  
+So base po sa imbestigasyon ng NBI, ang Oplan Romanov po ba ay banta sa buhay ng Presidente o sa buhay ng Vice Presidente?
+
+**[04:20:17.160] Atty. Melvin Matibag**  
+Kaya po merong kaming task force kasama po yan sa aming continuing surveillance at active investigation po.
+
+**[04:20:33.710] Sen. Risa Hontiveros**  
+May actionable intelligence po ba ang NBI na posibleng patuloy pa rin ang panganib sa buhay ng Presidente doon sa linyang iyon ng inyong imbestigasyon?
+
+**[04:20:41.980] Atty. Melvin Matibag**  
+Tama po yan sapagkat... Pinanggit ko nga po kanina yung ginagamit sa National Threat Assessment Center po ng Secret Service ng Amerika, ay pumapasok po doon yung mga observation na iyan. At katunayan po, lalo pang lumawig o lumawak yung mga banta sa presidente, namin pong namumonitor. Pati po ang mga ordinaryong tao ngayon ay napakadali po na magbigay ng banta. At para sa amin po, hindi lang naman po yung banta sa ating Pangulong ang aming binabandayan kundi yung pong bandayan natin ang kaligtasan ng ating mga kababayan at isiguraduhin natin na ang democratic process po ay umiiral sa atin base sa ating pong Constitution po.
+
+**[04:21:21.580] Sen. Risa Hontiveros**  
+At sa kabilang banda naman po, may actionable intelligence din po ba ang NBI na may totoong banta sa buhay naman ng Vice Presidente?
+
+**[04:21:32.580] Atty. Melvin Matibag**  
+Sa ngayon po, Hindi po namin tinitingnan kung totoo may actionable intel, pero base po sa aming mandato, kasama po sa mandato namin na proteksyonan po ang siguridad ng Pangulo, ng Vice Presidente, ng Senate President, ng Speaker of the House at Chief Justice. Kaya kung wala man pong task force, tuloy-tuloy naman po ang aming pagpamonitor dito.
+
+**[04:21:56.970] Sen. Risa Hontiveros**  
+Pero sa ngayon, kung isusuma po natin: may actionable intelligence na may patuloy na panganib sa buhay ng Presidente, pero wala pang actionable intelligence na may banta din naman sa buhay ng Vice Presidente?
+
+**[04:22:13.640] Atty. Melvin Matibag**  
+Malinaw po iyon sapagkat lumabas lang naman po iyon doon sa sinasabi nitong si Princess Maui.
+
+**[04:22:23.830] Sen. Risa Hontiveros**  
+Salamat po, Mr. Witness. Salamat po, Mr. Presiding Officer.
+
+**[04:22:24.880] Sen. Francis “Chiz” Escudero**  
+Thank you, Senator-Judge Risa Hontiveros. Next to interject and make his interventions would be our Senate President, Sherwin Gatchalian. He is recognized. You have two minutes, sir. You may proceed when you're ready.
+
+**[04:22:36.210] Sen. Sherwin T. Gatchalian**  
+Maraming salamat, Mr. Presiding Officer.
+
+**[04:22:39.590] Sen. Sherwin T. Gatchalian**  
+Tama po ba, Director Matibag, na after one year and eight months, wala pang nakikita ang NBI na nakontratang papatay?
+
+**[04:22:51.710] Atty. Melvin Matibag**  
+Wala po pong specific na personalidad. Wala pang specific na nakikita.
+
+**[04:22:56.290] Sen. Sherwin T. Gatchalian**  
+Pero kanina narinig ko sa inyong testimonya, may sinabi kayong hindi banta kundi isang plano talaga. So may plano.
+
+**[04:23:06.990] Atty. Melvin Matibag**  
+Yun po ang base sa mismong pahayag ng ating pong vicepresidente na siya ay kinausap at yung kinausap niya ay pumayag para patayin po ang mga taong nabanggit. Para sa akin po, this is actually a public confession na dahil sa sinabi niyang ito, nalagay po sa alanganin hindi lamang po. Ang siguridad ng presidente kundi po ang ating pambansyang siguridad.
+
+**[04:23:32.980] Sen. Sherwin T. Gatchalian**  
+Sino ang kaplano niya? Kung magpaplano, obviously may kasama siya sa pagpaplano. Sino na ang natukoy ng NBI na kasama sa pagpaplano?
+
+**[04:23:43.580] Atty. Melvin Matibag**  
+Yan na po yung binabanggit namin na persons of interest based on the open source intel and the human intel po na binabato po sa amin na yan po ay reported po sa atin ng Atting pong task force na itinayo po.
+
+**[04:23:56.390] Sen. Sherwin T. Gatchalian**  
+Itong persons of interest kasama sa pagpaplano at inamin sa inyo na merong pagpaplanong ginagawa para pumatay?
+
+**[04:24:03.990] Atty. Melvin Matibag**  
+Meron po silang impormasyon na magtuturo po dito sa pagpaplanong ito po.
+
+**[04:24:07.930] Sen. Sherwin T. Gatchalian**  
+Hindi sila 'yung kasama sa pagpaplanong pumatay?
+
+**[04:24:10.650] Atty. Melvin Matibag**  
+Sa ngayon po...
+
+**[04:24:11.650] Sen. Sherwin T. Gatchalian**  
+Magtuturo lang sila?
+
+**[04:24:13.330] Atty. Melvin Matibag**  
+Doon po sa persons of interest, meron po kami kinukonsidera doon na maaaring siya po ang kausap mismo ng Vice President.
+
+**[04:24:20.910] Sen. Sherwin T. Gatchalian**  
+At anong ebidensya ang magpapatunay na kasama siya sa pagpaplano o kaya niyang ituro 'yung pagpaplano?
+
+**[04:24:28.660] Atty. Melvin Matibag**  
+Yan po ang ating kukunin na informasyon pa sa ating mga persons of interest na ating sinusurveillance. Katunayan po as we speak, tuloy-tuloy po yung ating pakikipag-usap. Pati po doon sa mga malalapit sa taong aking binabanggit. So
+
+**[04:24:43.680] Sen. Sherwin T. Gatchalian**  
+So tuloy-tuloy pa ngayon ang inyong investigation?
+
+**[04:24:46.320] Atty. Melvin Matibag**  
+Tama po.
+
+**[04:24:46.780] Sen. Sherwin T. Gatchalian**  
+Ngayon nakita ko na bumuo kayo ng task force. At task force? Temporary in nature lang yan, di ba? Kailangan matatapos ang inyong investigasyon? Dahil nga nasabi ko one year and eight months na ito, ngayon may bagong task force. So kailang matatapos itong investigation?
+
+**[04:25:04.350] Atty. Melvin Matibag**  
+Ito po ay matatapos finally pag atin pong na-locate specifically ang taong kausap ng Vice Presidente. At ito naman pong task force, bukod po sa seguridad ng Presidente, we are also guarding po na walang gulo, na yung mga destabilization ay atin ding mab...
+
+**[04:25:24.950] Sen. Sherwin T. Gatchalian**  
+Pero kailan matatapos yung investigation para matukoy kung sino yung nakontrata? Do you have a time frame based doon sa pag-uusap ninyo dito sa persons of interest ninyo? Kasi, like I said, November of 2024 ito, may bagong task force ngayon. But in your opinion, gusto ko kasing malaman: malapit na ba o malayo pa?
+
+**[04:25:51.070] Atty. Melvin Matibag**  
+I cannot give the exact time, but the task force was established on April 16, and it's doing a great progress po. So sa palagay ko po, malapit na rin natin itong mahanap, itong taong ating tinutukoy.
+
+**[04:26:05.450] Sen. Sherwin T. Gatchalian**  
+Can you give me an explanation on yung, quote-unquote, ‘great progress’?
+
+**[04:26:11.010] Atty. Melvin Matibag**  
+Marami pong report na pumasok po sa atin at may mga pangalan po talaga na na-identify. Natin pong pinupuntahan po.
+
+**[04:26:18.590] Sen. Sherwin T. Gatchalian**  
+And can you give me a time frame kung within 3 months, 6 months matutukoy na itong kakontrata?
+
+**[04:26:30.440] Sen. Sherwin T. Gatchalian**  
+Can you give me a time frame? An indicative time frame?
+
+**[04:26:33.040] Atty. Melvin Matibag**  
+As we go on to the progress, probably po within three to six months magkakaroon po tayo ng mas malinaw na data tungkol po dito. But in three to six months, matutukoy na natin yung nakontrata. Yun po ang ating inaasahan.
+
+**[04:26:51.640] Sen. Sherwin T. Gatchalian**  
+Okay. In the meantime, nasabi ninyo kanina na merong kinetic force. Ito, ina-assume ko na may naiimpluwensyahan. Sino na ho ang nakausap ninyo na naimpluwensyahan tungkol dito sa mga sinasabi ng Vice President at yung iba pa?
+
+**[04:27:11.860] Atty. Melvin Matibag**  
+May mga ilan na po kaming pinuntahan. At katunayan may ilan na po kaming sinampahan na rin ng mga kaso. At yung mga nagbanta through social media ay atin na rin pong nakausap. At yung iba naman po sa ngayon ay kasalukuyang humaharap po sa investigation po. Last
+
+**[04:27:31.080] Sen. Sherwin T. Gatchalian**  
+question. So itong dahil sa kanilang pananalita,
+
+**[04:27:56.180] Sen. Sherwin T. Gatchalian**  
+Maraming
+
+**[04:27:56.720] Sen. Sherwin T. Gatchalian**  
+salamat, Mr. President.
+
+**[04:28:02.080] Sen. Francis “Chiz” Escudero**  
+Will Senator Judge Allan make an interjection or will he make a manifestation regarding another matter?
+
+**[04:28:10.160] Sen. Francis “Chiz” Escudero**  
+Then, the Presiding Officer will first recognize Senator Judge Aquino for his interjections and interventions. You may proceed, sir. When you're ready, you have two minutes. Thank you,
+
+**[04:28:19.340] Sen. Paolo Benigno “Bam” Aquino**  
+Mr. Presiding Officer. Very quickly lang, Director Matibag.
+
+**[04:28:24.020] Sen. Paolo Benigno “Bam” Aquino**  
+Kapag sinasabi kasing bukas pa ang isang investigasyon, posibleng meron, posibleng wala. Diba? Pero ito po, just one question. Sa inyo pong professional assessment, anong porsyento, what percentage is the probability na meron ngang nakausap na tao ang vicepresidente para gawin yung mga pagpatay? Sa inyo pong assessment. Hindi nyo pa po masasabi. May kailangan pa kayong ilang buwan. Pero sa inyong assessment po ba, anong porsyento po na meron talagang nakausap ang vicepresident?
+
+**[04:29:01.590] Atty. Melvin Matibag**  
+Base po mismo sa pahayag ng Vice President, nakasisiguro po na merong kinausap.
+
+**[04:29:07.610] Sen. Paolo Benigno “Bam” Aquino**  
+Anong percentage po? Seventy percent?
+
+**[04:29:09.490] Atty. Melvin Matibag**  
+One hundred percent po, sapagkat siya na mismo ang nagsabi ng kanyang plano, na siya'y may kinausap na papatay at pumayag 'yung papatay sa kanilang pag-uusap.
+
+**[04:29:19.950] Sen. Paolo Benigno “Bam” Aquino**  
+Maraming salamat, Mr. President.
+
+**[04:29:23.000] Sen. Francis “Chiz” Escudero**  
+Senator Judge Cayetano Allan is recognized for his interjections.
+
+**[04:29:30.320] Sen. Alan Peter Cayetano**  
+Before that, on the same point of Senator Baum, may I just manifest that I have submitted, presiding officer, Mr. Senate President, written continuing objection to the ruling on the presiding officer dated 20 July 2026 on the subpoena. But according to the journal service, journal service, it will not be included in the journal. May I move that it be included in the records? In the records, whatever is...
+
+**[04:30:04.540] Sen. Francis “Chiz” Escudero**  
+It will definitely be in the record and transcript. We will see what we can do about the journal. Can we get back to you? Because there's a technical difficulty.
+
+**[04:30:15.940] Sen. Alan Peter Cayetano**  
+under an impression until today. That's why hinabol ko ng 531, then nilagay ko na lang possible supplemental. But whatever is more convenient for the clerk of court.
+
+**[04:30:26.340] Sen. Francis “Chiz” Escudero**  
+The chair will entertain a motion to reconsider the approval of the journal earlier.
+
+**[04:30:35.960] Sen. Alan Peter Cayetano**  
+May
+
+**[04:30:36.520] Sen. Alan Peter Cayetano**  
+I move that we reconsider approval of journal just so that we can include what we agreed on yesterday which is the written objection.
+
+**[04:30:45.880] Sen. Francis “Chiz” Escudero**  
+There is a motion to reconsider the approval of the journal of yesterday July 20, 2026 in order to include as part of the journal the written manifestation of Senator Judge Alan Cayetanas. We have done so. With respect to Senator Judges Villanueva, Marcos, Go, Villar Camille, and Legarda. Absent any objections, the motion is approved. Journal is reconsidered. And the insertion of the manifestation of the Honorable Cayetano is so included, so ordered. Thank you, dear colleagues. Would you like to complete the process and move for the approval of the journal now? We move the approval
+
+**[04:31:28.200] Sen. Alan Peter Cayetano**  
+with the amendment, not an insertion.
+
+**[04:31:31.960] Sen. Francis “Chiz” Escudero**  
+The journal is approved as amended by inserting the manifestation of Senator Judge Alan Cayetano. Is there any objection?
+
+**[04:31:40.360] Sen. Francis “Chiz” Escudero**  
+Hearing none, the same is approved. Sands, the reading of the same.
+
+**[04:31:44.200] Sen. Sherwin T. Gatchalian**  
+Mr. Presiding Officer, just one point. Just to make a manifestation. Yes, Mr. President. I just wanted to put on record that this representation is not objecting to the ruling of the chair yesterday and that the only reason why I wanted to put into the records my manifestation with regard to the ruling of the chair. Just to put on record. Thank you.
+
+**[04:32:05.930] Sen. Francis “Chiz” Escudero**  
+Duly noted. Senator-Judge Cayetano may proceed with his interjections. He has two minutes. You may proceed, sir, when you're ready.
+
+**[04:32:12.170] Sen. Alan Peter Cayetano**  
+Good afternoon, Mr. Witness, Director, Atty. Matibag, schoolmate. Good afternoon, sir, Your Honor. Just on that point ni Senator Bam, I understand as a law enforcer, as an investigator, you have to take all threats seriously. I'll ask you the same questions I asked the two NBI officers, and I do understand they were not under your supervision during that time dahil doon pa sila kay Director Santiago.
+
+**[04:32:43.540] Sen. Alan Peter Cayetano**  
+I won't ask all the questions, but you did review the whole video or just the portions relevant to the statement of the vice president na no joke, no joke, yung November 23?
+
+**[04:32:57.760] Atty. Melvin Matibag**  
+Your Honor, naponood ko po yung video but you're correct, I focused mainly on the issue that is being understood. So
+
+**[04:33:04.320] Sen. Alan Peter Cayetano**  
+simple
+
+**[04:33:04.480] Sen. Alan Peter Cayetano**  
+question,
+
+**[04:33:05.300] Sen. Alan Peter Cayetano**  
+paano naging process kung anong parts ng video at ng statement niya ang paniniwalaan mo or ng task force? So, it's not personal. I mean, if you were in the task force or as you said, you created the task force now at duty nyo yung safety ng high government officials, anong process nyo kung anong parts ng video ang paniniwalaan nyo at hindi? Ng statements niya, what I meant. Well,
+
+**[04:33:28.770] Atty. Melvin Matibag**  
+Ang ginawa po natin diyan, doon po mismo sa konteksto ng kanyang sinabi na humanap siya ng papatay at inutos niya na papatayin ang tatlong individual. Yun po ay pumayag yung papatay at sinabi pa niya, ‘No joke.’ Doon pa lamang po ay nakita na natin yung ating hinahanap na mga pwede niyang pananagutan po sa batas.
+
+**[04:33:57.040] Sen. Alan Peter Cayetano**  
+Well, as an appointee of this government, as a lawyer, as an NBI director, I see your point and I get that. But what I meant is that before that statement, sabi kasi niya, ‘Kung papatayin ako,’ I mean the record will bear out naman yung eksaktong sinabi niya. So this is my paraphrase. But ang pagkaintindi ko sa sinabi niya, kung papatayin ako, ito yung tatlong papatayin mo. And ang impression ko, pinagbibintangan niya yung tatlo na may plot against her. So yun ang tanong ko doon sa two previous NBI directors. If you're going to believe that she contracted or talked to—may kausap siya—and papapatay yung tatlo, will you not believe the previous, nung sinabi niyang, ‘Kung ako naman ang papatayin’?
+
+**[04:34:46.190] Atty. Melvin Matibag**  
+Hindi po ganun sapagkat ang tinignan na nga po natin ay yung kanyang mismong pagbabanta. At nasa amin po sa ngayon yung aking pong task force na nag-iimbestiga ay malinaw po na ang tinitingnan ay kung ano na ang nangyari dahil doon sa pagbabanta. At sinasabi nga po namin dahil po doon sa pagbabanta, ito po ay umabot na doon na po sa level na ang national security na taya na po na kumpormisyon na.
+
+**[04:35:16.080] Atty. Melvin Matibag**  
+In the same video, she
+
+**[04:35:19.980] Sen. Alan Peter Cayetano**  
+mentioned massive corruption. But wala pa dyan kasi yung maya kayo speech at flood control investigation. So, same question, Director. Naintindihan ko, yun yung pinaniwalaan niyo. May kausap siya, no joke, no joke. Pero ang question ko, paano yung proseso niyo or anong naging thinking niyo na etong... Papapatay yung presidente, pinaniniwalaan ko. Pero etong siya ang papatayin, hindi ko paniniwalaan. At etong grap and corruption, hindi ko rin paniniwalaan. What's the process there?
+
+**[04:35:51.970] Atty. Melvin Matibag**  
+Well, ang proseso po dyan, ang tinignan naman natin, doon po sa pagbabantanya, kung sa grave threat po yung pag-uusapan natin, alam naman po natin na yung threat na yan is absolute. Dahil nandoon naman po yung elemento eh. Doon naman po sa sinasabi namin na tuloy-tuloy na pag-iimbestiga, Ito nga po ay umabot na sa level na naapekto ng national security. We take into context yung mismong sinabi niya na meron siyang kinausap at yung kanyang kinausap ay pumayag. Yung po kanyang sinasabi na kung papatayin ako, that is supposed to be na statement niya sa aming pananaw just to cover yung kanyang pagsasabi na siya ay may kinausap para patayin ang ating Pangulo.
+
+**[04:36:34.920] Sen. Alan Peter Cayetano**  
+Okay, I won't argue with you. 'Yun yung proseso ninyo. But in the meantime, there were three statements: massive corruption; kung papatayin siya, patayin yung tatlo kung papatayin siya. So, focusing doon sa patayin yung tatlo kung papatayin siya. In the meantime, tumotoo yung massive corruption; lumabas afterwards, 'di ba? So, just one other point. At the beginning of the prosecution's questions to you, and I think the defense had a question about what can you investigate. Can you repeat your answer? As the NBI director, can the NBI investigate—did you say all crimes or yung mga crime?
+
+**[04:37:13.040] Atty. Melvin Matibag**  
+Lahat po ng mga pumapasok sa amin na mga krimen ay amin pong puwedeng imbestigahan motu proprio. Ganoon din po yung mga krimen na meron pong nagrereklamo, na araw-araw may pumupunta sa aming tanggapan para magreklamo. Ito po yung aming iniimbestigahan, at meron din pong mga iniimbestigahan kami na inutos po ng Department of Justice. And by the very nature, under the Constitution po ng Office of the Ombudsman, they can delegate the National Bureau of Investigation to—
+
+**[04:37:44.240] Sen. Alan Peter Cayetano**  
+So, as a general rule, you can investigate any crime motu proprio?
+
+**[04:37:48.920] Atty. Melvin Matibag**  
+More than the investigation of the crime is also the protection of our nationals. Saka po, siyempre, siguraduhing napo-promote ang ating demokrasya, hindi nakukompromiso.
+
+**[04:38:00.440] Sen. Alan Peter Cayetano**  
+Yes. But sa investigation lang. So you can investigate any crime?
+
+**[04:38:04.240] Atty. Melvin Matibag**  
+Tama po.
+
+**[04:38:05.280] Sen. Alan Peter Cayetano**  
+Yeah. Isn't that against Republic Act No. 10867, the statute that gives you power?
+
+**[04:38:13.490] Sen. Alan Peter Cayetano**  
+Reorganizing and Modernizing the National Bureau of Investigation. Sabi dito sa inyong Section 4, the NBI shall have the following powers and functions. Undertake and investigate the detection of crimes and offenses enumerated under Section 5. Section 5 My enumeration, human trafficking cases in all airports, extrajudicial, extralegal killings committed by state security forces against media practitioners' activities, killings of justices and judges, violation of 10.01.75, otherwise known as Cyber Crime Prevention Act, cases against interagency graph coordinating counsel, and violations of the anti-dummy law. Tapos, cases involving threats Security assaults against persons of the President, Vice President, Senate President, Speaker of the House, Chief Justices. Walang Congressmen, Senators, unlike judges lahat. Transnational crimes pursuant to existing international agreements, identification of dead victims in case of mass fatalities, incidents caused by natural disaster, and violation of commercial, economic, financial, white-collar crimes. Daka dyan yung law. So, exclusive yung enumeration. Then, provided, however, if that the President or Secretary of Justice may direct the NBI to undertake investigation of any crime when public interest so requires. So, hindi ba limited ang pwede niyong investigahan except that ang DOJ at President ang pwede mag-atas? That's my last question.
+
+**[04:39:46.410] Sen. Francis “Chiz” Escudero**  
+Yes. Kindly wind up. Witness may answer.
+
+**[04:39:49.650] Atty. Melvin Matibag**  
+Yes. Yung pong ating listahan na yan, tama po, nandiyan dyan. Subalit hindi naman po sinasabi na nalilimitad dyan ang aming pong pag-iimbestiga sapagkat malino po ang mandato ng NBI that we are the primary investigating body. Yun lamang nga po.
+
+**[04:40:13.460] Sen. Alan Peter Cayetano**  
+Director,
+
+**[04:40:18.420] Sen. Alan Peter Cayetano**  
+if that's your interpretation, that goes against what they taught us in law school, na pag-exclusive yung enumeration, you cannot add. And at the end of the enumeration of Section 5, nakalagay nga dito,
+
+**[04:40:51.310] Atty. Melvin Matibag**  
+Sa pagkat na we have also our primary role to make sure that law and order is being promoted through the NBI din po.
+
+**[04:41:03.580] Sen. Francis “Chiz” Escudero**  
+Later or tomorrow, since I believe Atty. Matibag, Director Matibag, forgive me, will still be here for the continuation of cross. Senator Judge Rafi Tulfo, thereafter.
+
+**[04:41:15.750] Sen. Francis “Chiz” Escudero**  
+Senator Judge Pangilinan.
+
+**[04:41:20.570] Sen. Francis “Chiz” Escudero**  
+Senator Judge Rafi Tulfo, you have, I believe, one question, right?
+
+**[04:41:26.070] Sen. Raffy Tulfo**  
+Actually, two questions, Your Honor.
+
+**[04:41:27.690] Sen. Francis “Chiz” Escudero**  
+You may proceed, sir. You have two minutes, actually.
+
+**[04:41:29.810] Sen. Raffy Tulfo**  
+Naku, na-stress na ako kanina, limang minuto ako doon. But anyway, going back to Ronel Mas, What was the justification of the NBI back then when Mr. Ronell Mas was arrested without warrant?
+
+**[04:41:43.210] Atty. Melvin Matibag**  
+Well, they consider po that the threat is live and alam niyo nga po yung sinasabi na lahat po ng threat ay hindi po, ito po ay sinuseryoso. So
+
+**[04:41:52.570] Sen. Raffy Tulfo**  
+may
+
+**[04:41:52.730] Sen. Raffy Tulfo**  
+nag-order
+
+**[04:41:53.170] Sen. Raffy Tulfo**  
+sa naarestuin si Ronell Mas?
+
+**[04:41:55.430] Atty. Melvin Matibag**  
+I don't have that recollection. Hindi ko po alam but it was, the arrest was made by the regional office po of Region 1 po.
+
+**[04:42:01.890] Sen. Raffy Tulfo**  
+So would you admit now... Na illegal yung ginawa ng NBI noon na pag-aresto kay Ronell Mas na walang warrant?
+
+**[04:42:09.700] Atty. Melvin Matibag**  
+Well, si Ronell Mas po was released precisely for the reason na meron pong lapses po doon sa procedure.
+
+**[04:42:16.100] Sen. Raffy Tulfo**  
+Okay. Would you also consider na, the fact na merong ginawang pagbabanta si Baste Duterte na similar dito kay Ronell Mas, dapat umaksyon din 'yung NBI tulad ng pag-aksyon nila sa isang guro?
+
+**[04:42:30.330] Atty. Melvin Matibag**  
+Kaya katunayan yan nga po yung aking binabanggit na tuloy-tuloy po yung investigation sapagkat alam nyo po yung warrantless arrest lesson nga po dyan kay Romel Marcian na dapat po kasi immediate po yung pong pag-aresto. Pag yan po ay lumipas na eh hindi na po tayo pwedeng mag-aresto under the law sapagkat papasok po ito sa illegal arrest po.
+
+**[04:42:52.290] Sen. Raffy Tulfo**  
+Last na lamang, so make a comparison ngayon. Bakit yung isang guro na nagbanta kay dati pangung Duterte agad inaresto? At bakit itong isang vice president na nagbanta kay Pangulong Bongbong Marcos hindi inaresto ng NBI?
+
+**[04:43:11.610] Atty. Melvin Matibag**  
+I can only second guess po na maaaring may pagkakaiba po ng proseso o tinitingnan po ang administrasyon ng panahon na iyon at ng panahon po ngayon.
+
+**[04:43:21.450] Sen. Raffy Tulfo**  
+Maraming salamat po.
+
+**[04:43:22.960] Sen. Francis “Chiz” Escudero**  
+Thank you, Senator-Judge Raffy Tulfo. Senator-Judge Pangilinan is recognized. You may proceed with your intervention, sir. You have two minutes.
+
+**[04:43:30.240] Sen. Francis “Kiko” Pangilinan**  
+Thank you, Mr. Presiding Officer. Magandang gabi, ginoong direktor. Kanina tinatanong sa inyo yung usapin ng trust rating, na mas mataas yung trust rating ng Vice President kaysa sa President.
+
+**[04:43:50.770] Sen. Francis “Kiko” Pangilinan**  
+Bilang abogado, Ang tinanong sa iyo ito kanina. May kinalaman ba ang approval sa trust? Kung mas mataas ang trust rating, ibig sabihin wala nang betrayal of the public trust?
+
+**[04:44:04.000] Atty. Melvin Matibag**  
+Well, wala po. Sapagkat sabi ko nga sa akin pong pananaw, sa akin din pong kaunting eksperyensa bilang isang political advisor din po, eh yung ating mga survey is only a snapshot.
+
+**[04:44:35.050] Atty. Melvin Matibag**  
+Pagkakaroon po tayo ng problema sapagkat ang mangyayari sa atin dyan, yung tinitingnan pala natin ay yung numero. At without accusing anyone, alam naman natin there are surveys that can be manipulated po.
+
+**[04:44:49.770] Sen. Francis “Kiko” Pangilinan**  
+But having said that, kaya ako lang tinanong yun kasi baka yung mga nakikinig nating mga kababayan ay malito dahil hindi ba tamang sabihin na iba yung trust rating, iba yung betrayal of the public trust?
+
+**[04:45:03.970] Atty. Melvin Matibag**  
+Tama po. Yung trust rating po ay base sa numero dahil sa survey. Yung betrayal of public trust, malinaw naman po iyan na nakasaad sa Constitution na ito ay isang basehan ng impeachment. At saan po pumapasok ang betrayal of public trust? Pag meron ka pong ginawa na pag-violate, not necessarily criminal. Hindi kailangan ng conviction. Pag tinignan natin yung discussion po ng ating Constitutional Committee nang ginawa iyan, binabanggit nga po diyan yung betrayal of public trust: yung hindi mo pagtupad sa iyong oath of office. That will qualify as a betrayal of public trust. In other words, negative yung trust rating mo o 100% yung trust rating mo, base sa batas, base sa Constitution, pwede kang ma-convict whether negative or positive trust rating; pwede ka pa ring ma-convict o ma-acquit depende sa ebidensya sa usapin ng betrayal of the public trust. Wala pong kinalaman ang survey on the trust rating kundi kung ano po ang ebidensya na ipinasok po sa ating impeachment court. Maraming salamat.
+
+**[04:46:16.320] Sen. Francis “Chiz” Escudero**  
+Senator Judge Pia Cayetano is recognized for her interjections and interventions. You may proceed ma'am when you are ready and you have two minutes.
+
+**[04:46:53.270] Sen. Pia S. Cayetano**  
+For the prosecution, do you consider Lascañas a witness for you?
+
+**[04:46:55.440] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+With all respect, Your Honor, the purpose of the testimony is to present what transpired during the investigation of the Special Task Force. As to whether or not what probative value it holds, it is not part actually of the decision of the prosecution. What we are intending to do here is to present only what happened during the investigation of the NBI, Your Honor.
+
+**[04:47:34.030] Sen. Pia S. Cayetano**  
+Mr. Presiding Officer, the Rules of Evidence are very clear. You either present a witness who provides your testimony or you present a document. And in terms of documents, Rule 132, Section 19 says there are two classes of documents: public documents and private documents. Included in public documents are documents acknowledged before a notary public. Yung pinakitang document is not acknowledged by a notary public. Pwede naman din ang private documents—that's the other class—if it can be shown and authenticated in any of the following manner: the person saw the document executed or written. Nakita ba ng witness mo na sinulat iyon? Nakita ba niya?
+
+**[04:48:22.380] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, we can...
+
+**[04:48:22.960] Sen. Pia S. Cayetano**  
+Please answer my question.
+
+**[04:48:26.720] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+No, Your Honor.
+
+**[04:48:28.160] Sen. Pia S. Cayetano**  
+The next manner of authenticating: by evidence of the genuineness of the signature or handwriting of the maker. The defense said walang original signature doon. Do you disagree with that?
+
+**[04:48:49.070] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+No, Your Honor.
+
+**[04:48:50.050] Sen. Pia S. Cayetano**  
+Okay, so simple lang, Mr. Presiding Officer.
+
+**[04:48:54.890] Sen. Pia S. Cayetano**  
+They're trying to prove something by showing a document that any law student, even yung mga kababayan natin na nakikinig na ngayon na ang daming alam sa procedure, will tell you na hindi acceptable iyon. And with all due respect, katulad din nung kahapon na humingi ako ng payo sa inyo, again, I will not name names. We had a discussion in caucus na you cannot unsee what you see; you cannot unhear what you hear.
+
+**[04:49:56.200] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+May I respond, Your Honor?
+
+**[04:49:59.120] Sen. Francis “Chiz” Escudero**  
+Not really. I don't believe there was a question.
+
+**[04:50:00.970] Sen. Pia S. Cayetano**  
+Because I already asked you the questions and you had a chance to respond.
+
+**[04:50:05.040] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, I—
+
+**[04:50:05.920] Sen. Francis “Chiz” Escudero**  
+There was no question posed. I was telling the lead prosecutor.
+
+**[04:50:10.280] Sen. Pia S. Cayetano**  
+I move to my next point, Mr. Presiding Officer.
+
+**[04:50:18.660] Sen. Pia S. Cayetano**  
+Our jurisprudence is very clear. A witness must be competent and credible. Hindi ko na babasahin lahat yung jurisprudence natin diyan dahil kumpleto na yung record natin diyan. But there is also included in our rules, Rule 132 on the Rules of Evidence. And I'll read it: a witness may be impeached by the party against whom he or she was called by contradictory evidence, by evidence that his or her general reputation for truth, honesty, or integrity is bad.
+
+**[04:50:54.560] Sen. Pia S. Cayetano**  
+Or by evidence that he or she has made at other times statements inconsistent with his or her present testimony.
+
+**[04:51:01.820] Sen. Pia S. Cayetano**  
+So this is the rules, no siguro we can, well I'm reading the rules so we can take notice of this that this is what our rules say and I don't think anyone will contradict that.
+
+**[04:51:16.510] Sen. Pia S. Cayetano**  
+Again, there are lots of cases supporting this.
+
+**[04:51:21.430] Sen. Pia S. Cayetano**  
+So, I
+
+**[04:51:32.560] Sen. Pia S. Cayetano**  
+just want to point out, Mr. President, that just looking for my notes.
+
+**[04:52:02.310] Sen. Pia S. Cayetano**  
+Sorry with the indulgences of the body. I'm just looking for my notes because I want to be accurate in the next statement that I'm going to read into the record.
+
+**[04:52:30.150] Sen. Francis “Chiz” Escudero**  
+If the lady cannot locate it, she may avail of her time again tomorrow since Director Matibag and the counsel for the parties will be here tomorrow.
+
+**[04:52:33.960] Sen. Pia S. Cayetano**  
+Pwede naman, but if you give me a few more seconds, I might be able to dispose of this issue, Mr. President—Mr. Presiding Officer. Okay, I won't delay. I can paraphrase it, but I think it would be best if I look at the record, so I will just avail.
+
+**[04:53:02.920] Sen. Francis “Chiz” Escudero**  
+The Presiding Officer will give the lady first crack at interventions by a Senator-Judge tomorrow after the cross-examination of counsel for respondent. Since Director Matibag will be here again tomorrow for the continuation of cross-examination, the interjections and interventions of the other Senator-Judges may proceed again after the cross-examination, redirect, and recross, if any.
+
+**[04:53:49.310] Atty. Mark C. Vinluan**  
+Your Honor, aside from the Las Cañas document, we would also like to request a copy of the AO number 11. Just for reference, Your Honor, to be used as AO number 11.
+
+**[04:53:59.470] Sen. Francis “Chiz” Escudero**  
+The prosecutor is directed to furnish—
+
+**[04:54:08.800] Atty. Mark C. Vinluan**  
+Can we do that after the proceedings, sir?
+
+**[04:54:10.120] Sen. Francis “Chiz” Escudero**  
+Within the day after the proceedings, a copy of AO No. 11, signed by Director Matibag, dated, if I'm not mistaken, April 16, 2026.
+
+**[04:54:23.910] Sen. Francis “Chiz” Escudero**  
+Any other points you want to raise, lead prosecutor?
+
+**[04:54:28.300] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+It appears that there is a standing subpoena for
+
+**[04:54:32.320] Sen. Francis “Chiz” Escudero**  
+Ms. Marivic-Pareja of
+
+**[04:54:36.950] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+Legislative Archive. We manifested yesterday that we have yet to determine when we will be presenting this witness. We will act
+
+**[04:54:49.750] Sen. Francis “Chiz” Escudero**  
+on these at the proper time. This will be part of the chair's ruling before we adjourn.
+
+**[04:54:53.750] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+May I inquire, Your Honor, if tomorrow we will be able to conclude the testimony of witness Director Matibag, whether or not we will be proceeding to present the first witness for confidential fund, Your Honor.
+
+**[04:55:06.890] Sen. Francis “Chiz” Escudero**  
+The court will address that in a bit before we adjourn, counsel.
+
+**[04:55:11.460] Sen. Francis “Chiz” Escudero**  
+Any other points, counsel or the respondent?
+
+**[04:55:15.240] Atty. Mark C. Vinluan**  
+No more, Your Honor.
+
+**[04:55:17.820] Sen. Francis “Chiz” Escudero**  
+Court will now dispose of some administrative matters.
+
+**[04:55:22.500] Sen. Francis “Chiz” Escudero**  
+We are in receipt of a request for subpoena at testificandum addressed to Ms. Marivic Pareja as well as subpoena at testificandum addressed to Mr. Roderick C. Wamil and Ms. Aileen May Del Ocampo, both from the Commission on Audit. The Chair, the Presiding Officer, the first action on these requests for subpoena and will act on them at the proper time and in due time. In regard to the subpoena, ad testificandum, and do sestecom issued to Ms. Violeta Constantino and Ms. Nanita Camposano, the Chair in the meantime recalls the subpoenas issued to them.
+
+**[04:56:11.500] Sen. Francis “Chiz” Escudero**  
+Without prejudice to reissuing the subpoena at a later time for a later date. Para po sa kalaman, ang dalawang sinabpoena ng Senado nito bilang impeachment court na si Ginang o Binibining Violeta Constantino, Ginang o Binibining Nanita Campuzano, hindi niya po kailangan magpunta dito sa hukuman bukas.
+
+**[04:56:33.450] Sen. Francis “Chiz” Escudero**  
+Binabawi pong pansamantala ng hukumang ito ang sapinang in-issue para sa inyo. At mag-i-issue na lamang po kami ng panibagong sapina kung kailan po kayo kinakailangan magpunta o magtungo dito sa impeachment court sa Senado. What is the pleasure of Senator Judge Zubiri?
+
+**[04:56:51.500] Sen. Juan Miguel “Migz” Zubiri**  
+Thank you very much, Presiding Officer. Just want to ask a question. You are withdrawing the subpoena because you feel that we might not take them up tomorrow, is that correct?
+
+**[04:57:00.990] Sen. Francis “Chiz” Escudero**  
+Yes, that is correct, Your Honor.
+
+**[04:57:02.710] Sen. Juan Miguel “Migz” Zubiri**  
+Habang pa ba ito kay witness Atiba? You mean we cannot take it up tomorrow?
+
+**[04:57:10.340] Sen. Francis “Chiz” Escudero**  
+I would think so. That was pursuant to a discussion with both counsel for the parties earlier. So
+
+**[04:57:17.020] Sen. Juan Miguel “Migz” Zubiri**  
+we're looking at taking up that article on Monday?
+
+**[04:57:20.440] Sen. Francis “Chiz” Escudero**  
+Yes, that is correct, Your Honor. Okay.
+
+**[04:57:22.400] Sen. Juan Miguel “Migz” Zubiri**  
+thank you, Your Honor.
+
+**[04:57:23.760] Sen. Francis “Chiz” Escudero**  
+Also, in regard to the trial,
+
+**[04:57:27.790] Sen. Juan Miguel “Migz” Zubiri**  
+Tuesday pala po. Tuesday. Sorry. Monday is the sauna. So Tuesday.
+
+**[04:57:31.950] Sen. Francis “Chiz” Escudero**  
+Tuesday. I will discuss that too, Senator-Judge Zubiri. During caucus, the Senator-Judges agreed that next week there will be no trial on Monday, given that it's the State of the Nation Address of the President. There will be no trial on Tuesday to afford the minority the opportunity to prepare and deliver their Contra-SONA. So our next trial date, which we will clarify tomorrow, will be on July 29. On July 29, again as agreed in caucus by the senators and Senator-Judges, the new time of the trial will be from 10 a.m. to 3 p.m., and the session of the Senate will be at 4 p.m.
+
+**[04:59:00.630] Sen. Francis “Chiz” Escudero**  
+Henceforth, after that week in August, we will be conducting the trial from Monday to Wednesday from 10 a.m. to 3 p.m.
+
+**[04:59:12.930] Sen. Francis “Chiz” Escudero**  
+Council for the Parties are asked to take note.
+
+**[04:59:17.440] Sen. Francis “Chiz” Escudero**  
+To avoid confusion, Director Matibag, we expect you to come back and be here again tomorrow, not at 10, but at 2 p.m., to continue with your testimony via the cross-examination, redirect or recross of counsel for the parties, and questions from the Senator-Judges. Without issuing a subpoena, Director Matibag, do we get your commitment to be here tomorrow?
+
+**[04:59:42.040] Atty. Melvin Matibag**  
+Yes, Your Honor, gladly.
+
+**[04:59:43.880] Sen. Francis “Chiz” Escudero**  
+Thank you very much. There being no other matters to be taken up and no other business to take up, the trial is hereby adjourned until tomorrow, Wednesday, July 22, at 2 p.m. in the afternoon.

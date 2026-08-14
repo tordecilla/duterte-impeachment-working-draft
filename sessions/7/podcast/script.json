@@ -1,0 +1,707 @@
+{
+  "title": "Audio overview — July 21, 2026",
+  "description": "A source-linked English audio overview of the day's proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "id": "P001",
+      "kind": "intro",
+      "heading": "Introduction",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for July 21, 2026. This is a working reference, not an official Senate record.",
+      "citations": []
+    },
+    {
+      "id": "P002",
+      "kind": "overview",
+      "heading": "The big picture",
+      "text": "The court heard the direct examination and part of the cross-examination of NBI Director Melvin Matibag on Article IV. Matibag described an ongoing NBI task-force inquiry into alleged threats to the President; the defense challenged relevance, personal knowledge, the treatment of videos and documents, and the reliability of an Arturo Lascañas statement. The court repeatedly limited what the testimony and documents could establish, then continued Matibag's cross-examination to the next sitting.",
+      "citations": [
+        {
+          "segment_id": "S00010",
+          "start_seconds": 556.31,
+          "clock": "00:09:16",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00024",
+          "start_seconds": 706.15,
+          "clock": "00:11:46",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00027",
+          "start_seconds": 783.95,
+          "clock": "00:13:03",
+          "speaker_name": "Atty. Renato N. Bantug Jr."
+        },
+        {
+          "segment_id": "S00049",
+          "start_seconds": 1335.99,
+          "clock": "00:22:15",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00050",
+          "start_seconds": 1362.63,
+          "clock": "00:22:42",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00051",
+          "start_seconds": 1419.7,
+          "clock": "00:23:39",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00052",
+          "start_seconds": 1450.14,
+          "clock": "00:24:10",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00201",
+          "start_seconds": 3118.88,
+          "clock": "00:51:58",
+          "speaker_name": "Sebastian “Baste” Z. Duterte"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "After quorum and appearances, the prosecution called NBI Director Melvin Matibag as its last witness for Article IV; he was placed under oath.",
+      "citations": [
+        {
+          "segment_id": "S00010",
+          "start_seconds": 556.31,
+          "clock": "00:09:16",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00024",
+          "start_seconds": 706.15,
+          "clock": "00:11:46",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00027",
+          "start_seconds": 783.95,
+          "clock": "00:13:03",
+          "speaker_name": "Atty. Renato N. Bantug Jr."
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "The court allowed the prosecution to proceed with task-force testimony while recording the defense's continuing objection and requiring the witness, rather than counsel, to characterize the alleged statements.",
+      "citations": [
+        {
+          "segment_id": "S00049",
+          "start_seconds": 1335.99,
+          "clock": "00:22:15",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00050",
+          "start_seconds": 1362.63,
+          "clock": "00:22:42",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00051",
+          "start_seconds": 1419.7,
+          "clock": "00:23:39",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00052",
+          "start_seconds": 1450.14,
+          "clock": "00:24:10",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "Direct examination covered the NBI's ongoing task-force inquiry, videos shown in court, and documents that Matibag said the task force had considered.",
+      "citations": [
+        {
+          "segment_id": "S00201",
+          "start_seconds": 3118.88,
+          "clock": "00:51:58",
+          "speaker_name": "Sebastian “Baste” Z. Duterte"
+        },
+        {
+          "segment_id": "S00214",
+          "start_seconds": 3197.79,
+          "clock": "00:53:17",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00450",
+          "start_seconds": 4922.59,
+          "clock": "01:22:02",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00454",
+          "start_seconds": 4953.08,
+          "clock": "01:22:33",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The court permitted the task-force testimony subject to the defense's continuing objection; it described the alleged threat as a proposition the prosecution would try to prove, not as a court conclusion.",
+      "citations": [
+        {
+          "segment_id": "S00049",
+          "start_seconds": 1335.99,
+          "clock": "00:22:15",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00050",
+          "start_seconds": 1362.63,
+          "clock": "00:22:42",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00051",
+          "start_seconds": 1419.7,
+          "clock": "00:23:39",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The court denied the defense request to strike Matibag's answer about the task force's observations, leaving its weight for the senator-judges' appreciation.",
+      "citations": [
+        {
+          "segment_id": "S00282",
+          "start_seconds": 3763.4,
+          "clock": "01:02:43",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00290",
+          "start_seconds": 3782.98,
+          "clock": "01:03:02",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "On the Lascañas statement, the court allowed Matibag to say it had passed through or was used in the NBI inquiry, but not to establish the truth of its allegations through his testimony.",
+      "citations": [
+        {
+          "segment_id": "S00533",
+          "start_seconds": 5562.29,
+          "clock": "01:32:42",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00535",
+          "start_seconds": 5609.82,
+          "clock": "01:33:29",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00565",
+          "start_seconds": 5893.22,
+          "clock": "01:38:13",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Joel Villanueva asked how an ongoing NBI inquiry relates to impeachment; he also distinguished the court's constitutional accountability function from a criminal determination.",
+      "citations": [
+        {
+          "segment_id": "S01253",
+          "start_seconds": 14787.8,
+          "clock": "04:06:27",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01255",
+          "start_seconds": 14860.93,
+          "clock": "04:07:40",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01256",
+          "start_seconds": 14885.77,
+          "clock": "04:08:05",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01303",
+          "start_seconds": 15108.29,
+          "clock": "04:11:48",
+          "speaker_name": "Sen. Joel Villanueva"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Raffy Tulfo compared the handling of the Ronell Mas case with the NBI's treatment of statements attributed to the Vice President; Matibag said he could not speak for the earlier NBI investigation and described procedural lapses in the earlier arrest.",
+      "citations": [
+        {
+          "segment_id": "S01305",
+          "start_seconds": 15140.72,
+          "clock": "04:12:20",
+          "speaker_name": "Sen. Raffy Tulfo"
+        },
+        {
+          "segment_id": "S01310",
+          "start_seconds": 15208.18,
+          "clock": "04:13:28",
+          "speaker_name": "Sen. Raffy Tulfo"
+        },
+        {
+          "segment_id": "S01314",
+          "start_seconds": 15271.95,
+          "clock": "04:14:31",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01502",
+          "start_seconds": 16915.43,
+          "clock": "04:41:55",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01504",
+          "start_seconds": 16929.7,
+          "clock": "04:42:09",
+          "speaker_name": "Atty. Melvin Matibag"
+        }
+      ]
+    },
+    {
+      "id": "P011",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Risa Hontiveros asked about Princess Maui and Oplan Romanov, including whether the NBI had actionable intelligence concerning threats to the President and Vice President.",
+      "citations": [
+        {
+          "segment_id": "S01332",
+          "start_seconds": 15435.72,
+          "clock": "04:17:15",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01340",
+          "start_seconds": 15501.44,
+          "clock": "04:18:21",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01346",
+          "start_seconds": 15633.71,
+          "clock": "04:20:33",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01348",
+          "start_seconds": 15681.58,
+          "clock": "04:21:21",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01357",
+          "start_seconds": 15733.64,
+          "clock": "04:22:13",
+          "speaker_name": "Atty. Melvin Matibag"
+        }
+      ]
+    },
+    {
+      "id": "P012",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "The prosecution said the task force and related investigation were relevant to Article IV because they addressed what it called a possible broader threat, and it sought to have Matibag explain the task force's work.",
+      "citations": [
+        {
+          "segment_id": "S00044",
+          "start_seconds": 1144.89,
+          "clock": "00:19:04",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00045",
+          "start_seconds": 1217.0,
+          "clock": "00:20:17",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00046",
+          "start_seconds": 1252.09,
+          "clock": "00:20:52",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        }
+      ]
+    },
+    {
+      "id": "P013",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "The prosecution presented videos of Sebastian Duterte and the Vice President as material it said the task force compared in its inquiry.",
+      "citations": [
+        {
+          "segment_id": "S00197",
+          "start_seconds": 2968.79,
+          "clock": "00:49:28",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00202",
+          "start_seconds": 3126.9,
+          "clock": "00:52:06",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00214",
+          "start_seconds": 3197.79,
+          "clock": "00:53:17",
+          "speaker_name": "Atty. Melvin Matibag"
+        }
+      ]
+    },
+    {
+      "id": "P014",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "The prosecution argued that the Lascañas document was being used to show what the task force considered, rather than to prove the truth of its contents.",
+      "citations": [
+        {
+          "segment_id": "S00531",
+          "start_seconds": 5543.07,
+          "clock": "01:32:23",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00546",
+          "start_seconds": 5713.01,
+          "clock": "01:35:13",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        }
+      ]
+    },
+    {
+      "id": "P015",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense made a continuing relevance and due-process objection to the task-force testimony, arguing that the task force and related allegations were outside the impeachment articles.",
+      "citations": [
+        {
+          "segment_id": "S00038",
+          "start_seconds": 995.09,
+          "clock": "00:16:35",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00049",
+          "start_seconds": 1335.99,
+          "clock": "00:22:15",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00052",
+          "start_seconds": 1450.14,
+          "clock": "00:24:10",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        }
+      ]
+    },
+    {
+      "id": "P016",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense challenged Matibag's ability to testify to the contents of the Lascañas statement, arguing he had not executed it and lacked personal knowledge; it also raised authentication and document-copy concerns.",
+      "citations": [
+        {
+          "segment_id": "S00454",
+          "start_seconds": 4953.08,
+          "clock": "01:22:33",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00461",
+          "start_seconds": 5002.02,
+          "clock": "01:23:22",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00527",
+          "start_seconds": 5523.02,
+          "clock": "01:32:03",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00545",
+          "start_seconds": 5688.24,
+          "clock": "01:34:48",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00554",
+          "start_seconds": 5776.9,
+          "clock": "01:36:16",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        }
+      ]
+    },
+    {
+      "id": "P017",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "On cross, the defense emphasized that Matibag became NBI Director after the earlier inquiry and did not personally participate in its subpoenas, interviews, or execution of related affidavits.",
+      "citations": [
+        {
+          "segment_id": "S00765",
+          "start_seconds": 10322.81,
+          "clock": "02:52:02",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00766",
+          "start_seconds": 10327.49,
+          "clock": "02:52:07",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00808",
+          "start_seconds": 10512.92,
+          "clock": "02:55:12",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00830",
+          "start_seconds": 10622.8,
+          "clock": "02:57:02",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P018",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Matibag testified as NBI Director and described an Administrative Order creating a task force; his account of the earlier investigation was based on NBI records rather than his personal participation.",
+      "citations": [
+        {
+          "segment_id": "S00111",
+          "start_seconds": 2047.73,
+          "clock": "00:34:07",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00119",
+          "start_seconds": 2116.04,
+          "clock": "00:35:16",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00761",
+          "start_seconds": 10304.28,
+          "clock": "02:51:44",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00808",
+          "start_seconds": 10512.92,
+          "clock": "02:55:12",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        }
+      ]
+    },
+    {
+      "id": "P019",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Matibag said the task force was still active, had persons of interest, and had not publicly identified a specific alleged contact; he explained that disclosure could compromise the inquiry and informants.",
+      "citations": [
+        {
+          "segment_id": "S00677",
+          "start_seconds": 7394.11,
+          "clock": "02:03:14",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00680",
+          "start_seconds": 7440.27,
+          "clock": "02:04:00",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00682",
+          "start_seconds": 7484.5,
+          "clock": "02:04:44",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00689",
+          "start_seconds": 7588.16,
+          "clock": "02:06:28",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00717",
+          "start_seconds": 7679.06,
+          "clock": "02:07:59",
+          "speaker_name": "Atty. Melvin Matibag"
+        }
+      ]
+    },
+    {
+      "id": "P020",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Videos and an affidavit of authentication were displayed or identified during direct examination, but their presentation did not itself decide what weight the court would give them.",
+      "citations": [
+        {
+          "segment_id": "S00197",
+          "start_seconds": 2968.79,
+          "clock": "00:49:28",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00201",
+          "start_seconds": 3118.88,
+          "clock": "00:51:58",
+          "speaker_name": "Sebastian “Baste” Z. Duterte"
+        },
+        {
+          "segment_id": "S00454",
+          "start_seconds": 4953.08,
+          "clock": "01:22:33",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00455",
+          "start_seconds": 4960.46,
+          "clock": "01:22:40",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        }
+      ]
+    },
+    {
+      "id": "P021",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The NBI inquiry remained ongoing; Matibag did not identify a specific alleged contact or give a firm completion date.",
+      "citations": [
+        {
+          "segment_id": "S01368",
+          "start_seconds": 15759.59,
+          "clock": "04:22:39",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01369",
+          "start_seconds": 15771.71,
+          "clock": "04:22:51",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01383",
+          "start_seconds": 15883.68,
+          "clock": "04:24:43",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01396",
+          "start_seconds": 15951.07,
+          "clock": "04:25:51",
+          "speaker_name": "Atty. Melvin Matibag"
+        }
+      ]
+    },
+    {
+      "id": "P022",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The court did not decide the truth of the allegations in the Lascañas statement through Matibag's testimony, and its authentication and evidentiary treatment remained contested.",
+      "citations": [
+        {
+          "segment_id": "S00533",
+          "start_seconds": 5562.29,
+          "clock": "01:32:42",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00545",
+          "start_seconds": 5688.24,
+          "clock": "01:34:48",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00565",
+          "start_seconds": 5893.22,
+          "clock": "01:38:13",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01550",
+          "start_seconds": 17254.03,
+          "clock": "04:47:34",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P023",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "Matibag's cross-examination was not completed, and redirect, recross, and additional senator-judge interventions were reserved for the following sitting.",
+      "citations": [
+        {
+          "segment_id": "S01241",
+          "start_seconds": 14479.12,
+          "clock": "04:01:19",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01585",
+          "start_seconds": 17582.92,
+          "clock": "04:53:02",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01620",
+          "start_seconds": 17957.44,
+          "clock": "04:59:17",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P024",
+      "kind": "outro",
+      "heading": "How to use this overview",
+      "text": "The episode page links every substantive point to the timed transcript and the original Senate video. Verify consequential wording against those sources before publication.",
+      "citations": []
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "title": "Audio overview — July 22, 2026",
+  "description": "A source-linked English audio overview of the day's proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "id": "P001",
+      "kind": "intro",
+      "heading": "Introduction",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for July 22, 2026. This is a working reference, not an official Senate record.",
+      "citations": []
+    },
+    {
+      "id": "P002",
+      "kind": "overview",
+      "heading": "The big picture",
+      "text": "NBI Director Melvin Matibag completed defense cross-examination and questioning by senator-judges. He described an unfinished inquiry that had narrowed its persons of interest but had not identified the person allegedly contracted to harm the President. The prosecution conducted no redirect, and the court excused him as its last Article Four witness.",
+      "citations": [
+        {
+          "segment_id": "S00011",
+          "start_seconds": 504.7,
+          "clock": "00:08:24",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00017",
+          "start_seconds": 568.42,
+          "clock": "00:09:28",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00019",
+          "start_seconds": 611.85,
+          "clock": "00:10:11",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00073",
+          "start_seconds": 917.28,
+          "clock": "00:15:17",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00137",
+          "start_seconds": 1338.04,
+          "clock": "00:22:18",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00180",
+          "start_seconds": 1640.38,
+          "clock": "00:27:20",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00248",
+          "start_seconds": 1991.95,
+          "clock": "00:33:11",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00250",
+          "start_seconds": 1998.42,
+          "clock": "00:33:18",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00998",
+          "start_seconds": 6960.16,
+          "clock": "01:56:00",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01002",
+          "start_seconds": 6993.72,
+          "clock": "01:56:33",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01028",
+          "start_seconds": 7095.3,
+          "clock": "01:58:15",
+          "speaker_name": "Atty. Melvin Matibag"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "kind": "finding",
+      "heading": "The examination",
+      "text": "The defense questioned the NBI task force's scope, its treatment of reported threats against different officials, its kinetic-action theory, and its reliance on selected open-source material. An October 2024 video excerpt was also played at the defense's request.",
+      "citations": [
+        {
+          "segment_id": "S00011",
+          "start_seconds": 504.7,
+          "clock": "00:08:24",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00017",
+          "start_seconds": 568.42,
+          "clock": "00:09:28",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00019",
+          "start_seconds": 611.85,
+          "clock": "00:10:11",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00073",
+          "start_seconds": 917.28,
+          "clock": "00:15:17",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00137",
+          "start_seconds": 1338.04,
+          "clock": "00:22:18",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00180",
+          "start_seconds": 1640.38,
+          "clock": "00:27:20",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00248",
+          "start_seconds": 1991.95,
+          "clock": "00:33:11",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00250",
+          "start_seconds": 1998.42,
+          "clock": "00:33:18",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00252C",
+          "start_seconds": 2007.9,
+          "clock": "00:33:27",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00264",
+          "start_seconds": 2083.71,
+          "clock": "00:34:43",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00305",
+          "start_seconds": 2315.8,
+          "clock": "00:38:35",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00418",
+          "start_seconds": 3049.78,
+          "clock": "00:50:49",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00418B",
+          "start_seconds": 3059.24,
+          "clock": "00:50:59",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00431",
+          "start_seconds": 3188.94,
+          "clock": "00:53:08",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00492",
+          "start_seconds": 3661.45,
+          "clock": "01:01:01",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00523",
+          "start_seconds": 3803.74,
+          "clock": "01:03:23",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "The court's limits",
+      "text": "The chair allowed cross-examination to continue but stopped argumentative or already-answered questions. He declined to strike Matibag's betrayal-of-public-trust answer, leaving it as witness testimony for the senator-judges to assess rather than adopting it as a court finding.",
+      "citations": [
+        {
+          "segment_id": "S00031",
+          "start_seconds": 727.76,
+          "clock": "00:12:07",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00036",
+          "start_seconds": 759.08,
+          "clock": "00:12:39",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00037",
+          "start_seconds": 783.47,
+          "clock": "00:13:03",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00164",
+          "start_seconds": 1552.76,
+          "clock": "00:25:52",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00179",
+          "start_seconds": 1611.96,
+          "clock": "00:26:51",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00127",
+          "start_seconds": 1237.36,
+          "clock": "00:20:37",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00340",
+          "start_seconds": 2527.91,
+          "clock": "00:42:07",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00380",
+          "start_seconds": 2728.05,
+          "clock": "00:45:28",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00563",
+          "start_seconds": 4052.92,
+          "clock": "01:07:32",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "Senator-judge scrutiny",
+      "text": "Panfilo Lacson corrected the record on his former committee's treatment of Arturo Lascañas and questioned possible unequal law-enforcement treatment. Erwin Tulfo asked how persons of interest were developed, whether the alleged threat remained active, and whether presidential security had been informed.",
+      "citations": [
+        {
+          "segment_id": "S00423",
+          "start_seconds": 3112.5,
+          "clock": "00:51:52",
+          "speaker_name": "Sen. Panfilo M. Lacson"
+        },
+        {
+          "segment_id": "S00428",
+          "start_seconds": 3147.85,
+          "clock": "00:52:27",
+          "speaker_name": "Sen. Panfilo M. Lacson"
+        },
+        {
+          "segment_id": "S00579",
+          "start_seconds": 4151.06,
+          "clock": "01:09:11",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00580",
+          "start_seconds": 4186.48,
+          "clock": "01:09:46",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00602",
+          "start_seconds": 4350.88,
+          "clock": "01:12:30",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00603",
+          "start_seconds": 4368.42,
+          "clock": "01:12:48",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00604",
+          "start_seconds": 4393.39,
+          "clock": "01:13:13",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00605",
+          "start_seconds": 4405.5,
+          "clock": "01:13:25",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00608",
+          "start_seconds": 4441.72,
+          "clock": "01:14:01",
+          "speaker_name": "Sen. Panfilo M. Lacson"
+        },
+        {
+          "segment_id": "S00626",
+          "start_seconds": 4599.27,
+          "clock": "01:16:39",
+          "speaker_name": "Sen. Panfilo M. Lacson"
+        },
+        {
+          "segment_id": "S00706",
+          "start_seconds": 4779.36,
+          "clock": "01:19:39",
+          "speaker_name": "Sen. Panfilo M. Lacson"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "The parties' positions",
+      "text": "The prosecution defended Matibag's investigative account and objected to calling the House proceeding a mini-trial. The defense challenged the inquiry's consistency, legal framing, and breadth, including whether political opposition was being swept into the NBI's kinetic-action theory.",
+      "citations": [
+        {
+          "segment_id": "S00031",
+          "start_seconds": 727.76,
+          "clock": "00:12:07",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00036",
+          "start_seconds": 759.08,
+          "clock": "00:12:39",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00169",
+          "start_seconds": 1580.84,
+          "clock": "00:26:20",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00441",
+          "start_seconds": 3287.44,
+          "clock": "00:54:47",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00444",
+          "start_seconds": 3303.73,
+          "clock": "00:55:03",
+          "speaker_name": "Atty. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00073",
+          "start_seconds": 917.28,
+          "clock": "00:15:17",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00074",
+          "start_seconds": 926.28,
+          "clock": "00:15:26",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00090",
+          "start_seconds": 1057.35,
+          "clock": "00:17:37",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00123",
+          "start_seconds": 1219.63,
+          "clock": "00:20:19",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00124",
+          "start_seconds": 1225.65,
+          "clock": "00:20:25",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00137",
+          "start_seconds": 1338.04,
+          "clock": "00:22:18",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00164",
+          "start_seconds": 1552.76,
+          "clock": "00:25:52",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00180",
+          "start_seconds": 1640.38,
+          "clock": "00:27:20",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00187",
+          "start_seconds": 1670.43,
+          "clock": "00:27:50",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00277",
+          "start_seconds": 2158.91,
+          "clock": "00:35:58",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00305",
+          "start_seconds": 2315.8,
+          "clock": "00:38:35",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00312",
+          "start_seconds": 2369.24,
+          "clock": "00:39:29",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00345",
+          "start_seconds": 2557.87,
+          "clock": "00:42:37",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
+      "heading": "Evidence boundaries",
+      "text": "The purported Lascañas affidavit was presented only as material Matibag said the NBI used in open-source work. The chair did not treat it as proof of authenticity or truth. Matibag's conclusions about public trust and continuing threats likewise remained his testimony and NBI interpretation.",
+      "citations": [
+        {
+          "segment_id": "S00074",
+          "start_seconds": 926.28,
+          "clock": "00:15:26",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00091",
+          "start_seconds": 1065.2,
+          "clock": "00:17:45",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00123",
+          "start_seconds": 1219.63,
+          "clock": "00:20:19",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00124",
+          "start_seconds": 1225.65,
+          "clock": "00:20:25",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00157",
+          "start_seconds": 1490.57,
+          "clock": "00:24:50",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00158",
+          "start_seconds": 1525.7,
+          "clock": "00:25:25",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00179",
+          "start_seconds": 1611.96,
+          "clock": "00:26:51",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00320",
+          "start_seconds": 2425.36,
+          "clock": "00:40:25",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00327",
+          "start_seconds": 2446.6,
+          "clock": "00:40:46",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00328",
+          "start_seconds": 2453.52,
+          "clock": "00:40:53",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S00377",
+          "start_seconds": 2707.24,
+          "clock": "00:45:07",
+          "speaker_name": "Atty. Melvin Matibag"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "finding",
+      "heading": "What remained unresolved",
+      "text": "The alleged contractor remained unidentified, a possible conspiracy remained only an investigative angle, and confidential coordination reports were not in the impeachment-court record. Matibag said the inquiry was continuing and had not yet produced a case on the conspiracy theory.",
+      "citations": [
+        {
+          "segment_id": "S00998",
+          "start_seconds": 6960.16,
+          "clock": "01:56:00",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01002",
+          "start_seconds": 6993.72,
+          "clock": "01:56:33",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01028",
+          "start_seconds": 7095.3,
+          "clock": "01:58:15",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01210",
+          "start_seconds": 9041.92,
+          "clock": "02:30:41",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01214",
+          "start_seconds": 9060.4,
+          "clock": "02:31:00",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01218",
+          "start_seconds": 9091.24,
+          "clock": "02:31:31",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01314",
+          "start_seconds": 9709.53,
+          "clock": "02:41:49",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01318",
+          "start_seconds": 9743.31,
+          "clock": "02:42:23",
+          "speaker_name": "Atty. Melvin Matibag"
+        },
+        {
+          "segment_id": "S01309",
+          "start_seconds": 9671.89,
+          "clock": "02:41:11",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01311",
+          "start_seconds": 9679.85,
+          "clock": "02:41:19",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "finding",
+      "heading": "What's next",
+      "text": "The parties were ordered to attend a July 23 conference to mark and compare video exhibits. Conditional subpoenas were also directed for former Land Bank managers Violeta Constantino and Nenita Camposano for July 29, while a possible change in presentation order remained open.",
+      "citations": [
+        {
+          "segment_id": "S01322",
+          "start_seconds": 9773.29,
+          "clock": "02:42:53",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01327",
+          "start_seconds": 9808.2,
+          "clock": "02:43:28",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01329",
+          "start_seconds": 9818.9,
+          "clock": "02:43:38",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01347",
+          "start_seconds": 10069.3,
+          "clock": "02:47:49",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "outro",
+      "heading": "How to use this overview",
+      "text": "The episode page links every substantive point to the timed transcript and the original Senate video. Verify consequential wording against those sources before publication.",
+      "citations": []
+    }
+  ]
+}
