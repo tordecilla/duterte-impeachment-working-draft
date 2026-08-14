@@ -1,6 +1,6 @@
 # Audio overview — July 14, 2026
 
-A concise, source-linked English audio overview of the day's proceedings.
+A source-linked English audio overview covering the parties, the court, and senator-judge interventions during the day's proceedings.
 
 ## Introduction
 
@@ -15,6 +15,62 @@ The session completed Attorney Jeremy Lotoc's testimony. The defense continued i
 - [03:45:05 · S01699](../index.html?t=13505.5#S01699)
 - [05:04:27 · S02345](../index.html?t=18267.19#S02345)
 - [05:15:17 · S02417](../index.html?t=18917.02#S02417)
+
+## Senator-judge question
+
+Alan Peter Cayetano questioned the logic of treating the recorded statement as a threat against the named principals when the stated condition was that Duterte first be killed.
+
+- [00:56:32 · S00379](../index.html?t=3392.4700000000003#S00379)
+- [00:57:34 · S00387](../index.html?t=3454.45#S00387)
+- [00:57:58 · S00389](../index.html?t=3478.66#S00389)
+
+## Senator-judge question
+
+Joel Villanueva, Panfilo Lacson, and Alan Peter Cayetano examined the National Bureau of Investigation's handling of reported threats against Duterte and competing interpretations of remarks referring to the Romanovs.
+
+- [01:16:37 · S00518](../index.html?t=4597.41#S00518)
+- [01:17:31 · S00527](../index.html?t=4651.66#S00527)
+- [01:22:11 · S00539](../index.html?t=4931.33#S00539)
+- [01:25:33 · S00589](../index.html?t=5133.09#S00589)
+- [01:27:08 · S00591](../index.html?t=5228.58#S00591)
+
+## Senator-judge question
+
+Pia Cayetano asked the parties and witness to explain the elements of grave threats in ordinary terms and used hypotheticals to test how context affected the analysis.
+
+- [01:57:15 · S00867](../index.html?t=7035.1#S00867)
+- [01:57:46 · S00871](../index.html?t=7066.6900000000005#S00871)
+- [02:11:51 · S00974](../index.html?t=7911.49#S00974)
+
+## Senator-judge question
+
+Sherwin Gatchalian and Raffy Tulfo questioned what evidence showed actual incitement or a public response to the statements, rather than only the statements themselves.
+
+- [02:33:07 · S01190](../index.html?t=9187.2#S01190)
+- [02:34:36 · S01208](../index.html?t=9276.39#S01208)
+- [02:36:07 · S01234](../index.html?t=9367.55#S01234)
+
+## Senator-judge observation
+
+Loren Legarda said the National Bureau of Investigation affidavit appeared incomplete because it did not set out the events leading to the press conference or the broader context in which the statements were made.
+
+- [02:40:41 · S01306](../index.html?t=9641.36#S01306)
+- [02:49:05 · S01363](../index.html?t=10145.4#S01363)
+
+## Senator-judge question
+
+Alan Peter Cayetano questioned the prosecution's reliance on admission against interest and asked whether the full video supplied context missing from selected passages.
+
+- [04:53:23 · S02232](../index.html?t=17603.28#S02232)
+- [05:01:08 · S02308](../index.html?t=18068.17#S02308)
+
+## Senator-judge proposed course
+
+Alan Peter Cayetano and Sherwin Gatchalian proposed allowing time for questions and caucus before the court decided the pending subpoena requests.
+
+- [05:16:56 · S02429](../index.html?t=19016.97#S02429)
+- [05:19:57 · S02444](../index.html?t=19197.08#S02444)
+- [05:20:26 · S02451](../index.html?t=19226.04#S02451)
 
 ## The central distinction
 
@@ -55,21 +111,6 @@ The defense said the remarks were not threats, but a response during a question-
 - [04:15:39 · S01963](../index.html?t=15339.17#S01963)
 - [04:15:56 · S01966](../index.html?t=15356.14#S01966)
 
-## How the investigation was challenged
-
-The defense portrayed the investigation as uneven, contrasting subpoenas issued to the Vice President with the lack of a subpoena concerning reported threats against her. Lotoc also said the President, the First Lady, and the former speaker were neither subpoenaed nor brought before the NBI, although the bureau considered them victims based on other evidence.
-
-- [01:41:12 · S00692](../index.html?t=6072.9400000000005#S00692)
-- [01:43:55 · S00708](../index.html?t=6235.01#S00708)
-- [01:43:56 · S00709](../index.html?t=6236.91#S00709)
-- [01:43:57 · S00710](../index.html?t=6237.87#S00710)
-- [01:44:00 · S00711](../index.html?t=6240.13#S00711)
-- [01:44:01 · S00712](../index.html?t=6241.55#S00712)
-- [01:44:10 · S00713](../index.html?t=6250.09#S00713)
-- [01:45:25 · S00732](../index.html?t=6325.96#S00732)
-- [01:45:40 · S00737](../index.html?t=6340.88#S00737)
-- [01:45:47 · S00738](../index.html?t=6347.9#S00738)
-
 ## The unnamed person
 
 Lotoc said the Cybercrime Division believed an unnamed person existed because of the November 23 and November 26 statements. When asked whether the division had any other basis, he said it did not, as far as his division was concerned.
@@ -80,13 +121,6 @@ Lotoc said the Cybercrime Division believed an unnamed person existed because of
 - [04:33:55 · S02104](../index.html?t=16435.46#S02104)
 - [04:33:58 · S02105](../index.html?t=16438.96#S02105)
 - [05:10:13 · S02387](../index.html?t=18613.36#S02387)
-
-## A second investigative limit
-
-Lotoc referred to Facebook comments urging that Malacañang be stormed. He also acknowledged that the comments were not included in the investigation or in the affidavit of investigation.
-
-- [02:33:41 · S01192](../index.html?t=9221.55#S01192)
-- [03:09:05 · S01513](../index.html?t=11345.22#S01513)
 
 ## What the court did
 
@@ -110,13 +144,6 @@ After Lotoc's testimony, the prosecution announced that it would no longer call 
 - [05:30:05 · S02499](../index.html?t=19805.14#S02499)
 - [05:32:18 · S02501](../index.html?t=19938.87#S02501)
 - [05:32:45 · S02503](../index.html?t=19965.64#S02503)
-
-## What comes next
-
-The next sitting was set to take up prosecution requests for bank and AMLC records, and BIR records. The chair scheduled joint oral argument, followed by a caucus and plenary proceedings.
-
-- [05:36:34 · S02532](../index.html?t=20194.42#S02532)
-- [05:37:03 · S02533](../index.html?t=20223.98#S02533)
 
 ## How to use this overview
 

@@ -1,6 +1,6 @@
 # Audio overview — July 15, 2026
 
-A source-linked English audio overview of the July 15 proceedings in the Impeachment Trial of Vice President Sara Duterte.
+A source-linked English audio overview covering the parties, the court, and senator-judge interventions during the day's proceedings.
 
 ## Introduction
 
@@ -16,12 +16,30 @@ The day's central issue was whether the Impeachment Court should order the produ
 - [03:03:01 · S00247](../index.html?t=10981.04#S00247)
 - [03:03:50 · S00248](../index.html?t=11030.2#S00248)
 
-## What the court was considering
+## Senator-judge proposed course
 
-There were two motions, not one blanket request. One concerned banking and Anti-Money Laundering Council records. The other concerned Bureau of Internal Revenue records. The presiding officer acknowledged that each motion contained narrower questions, including whose accounts and which kinds of records could properly be covered.
+Alan Peter Cayetano asked the court not to collapse the distinct legal and factual issues involving bank, Anti-Money Laundering Council, tax, spouse, and company records into one question, and favored further questioning and caucus before a decision.
 
 - [00:36:06 · S00135](../index.html?t=2166.2799999999997#S00135)
-- [00:39:07 · S00140](../index.html?t=2347.45#S00140)
+- [01:24:56 · S00232](../index.html?t=5096.12#S00232)
+- [01:27:10 · S00238](../index.html?t=5230.81#S00238)
+
+## Senator-judge question
+
+Bam Aquino asked whether the prosecution intended to present all articles before the defense case or to alternate prosecution and defense presentation article by article.
+
+- [03:14:39 · S00276](../index.html?t=11679.98#S00276)
+
+## Senator-judge proposed course
+
+Alan Peter Cayetano proposed that explanations for withdrawing witnesses be made outside court rather than become untested assertions in the record. Kiko Pangilinan suggested allowing a defense response if reasons were stated, and Pia Cayetano supported limiting lawyers from effectively testifying through withdrawal explanations.
+
+- [03:24:58 · S00322](../index.html?t=12298.5#S00322)
+- [03:27:49 · S00328](../index.html?t=12469.3#S00328)
+- [03:28:07 · S00329](../index.html?t=12487.16#S00329)
+- [03:29:01 · S00334](../index.html?t=12541.76#S00334)
+- [03:31:57 · S00352](../index.html?t=12717.65#S00352)
+- [03:34:18 · S00399](../index.html?t=12858.71#S00399)
 
 ## The prosecution's position
 
@@ -75,15 +93,6 @@ The prosecution withdrew five planned witnesses for Article Four and said Nation
 - [03:06:24 · S00252](../index.html?t=11184.05#S00252)
 - [03:08:26 · S00253](../index.html?t=11306.91#S00253)
 - [03:09:04 · S00256](../index.html?t=11344.04#S00256)
-
-## A limit on withdrawal statements
-
-Defense counsel Sheila Sison objected to lengthy explanations accompanying witness withdrawals, saying they contained factual and legal conclusions that only the court could determine. The presiding officer then directed both parties to limit future withdrawal statements to the fact of withdrawal, without argumentative explanations.
-
-- [03:18:08 · S00297](../index.html?t=11888.83#S00297)
-- [03:19:19 · S00299](../index.html?t=11959.0#S00299)
-- [03:23:34 · S00310](../index.html?t=12214.05#S00310)
-- [03:23:43 · S00311](../index.html?t=12223.21#S00311)
 
 ## The issue before oral arguments
 

@@ -1,6 +1,6 @@
 {
   "title": "Audio overview — July 6, 2026",
-  "description": "A source-linked English audio overview of the day's proceedings.",
+  "description": "A source-linked English audio overview covering the parties, the court, and senator-judge interventions during the day's proceedings.",
   "language": "en",
   "segments": [
     {
@@ -63,6 +63,58 @@
     {
       "id": "P003",
       "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Bam Aquino pressed for prompt public access to evidence presented in court, while Alan Peter Cayetano cautioned that public filings, admitted evidence, and material whose disclosure may be prohibited required different treatment.",
+      "citations": [
+        {
+          "segment_id": "S00483",
+          "start_seconds": 10973.11,
+          "clock": "03:02:53",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00489",
+          "start_seconds": 11027.04,
+          "clock": "03:03:47",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00497",
+          "start_seconds": 11124.21,
+          "clock": "03:05:24",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Erwin Tulfo asked whether Anti-Money Laundering Council evidence would require executive session. Risa Hontiveros argued for transparency and against treating executive session as the default in an impeachment trial.",
+      "citations": [
+        {
+          "segment_id": "S00505",
+          "start_seconds": 11285.89,
+          "clock": "03:08:05",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00514",
+          "start_seconds": 11455.53,
+          "clock": "03:10:55",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00515",
+          "start_seconds": 11481.62,
+          "clock": "03:11:21",
+          "speaker_name": "Sen. Risa Hontiveros"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
       "heading": "What happened",
       "text": "With 21 senators present, the court declared a quorum. Senate President Sherwin Gatchalian promised impartial justice under the Constitution and a fair opportunity for both sides to present their cases.",
       "citations": [
@@ -81,7 +133,7 @@
       ]
     },
     {
-      "id": "P004",
+      "id": "P006",
       "kind": "finding",
       "heading": "What happened",
       "text": "A long threshold debate followed over who should preside. Alan Peter Cayetano argued that the Constitution required the Senate President to take the chair and questioned the amended rules. Other senator-judges offered competing constitutional and procedural interpretations.",
@@ -119,7 +171,7 @@
       ]
     },
     {
-      "id": "P005",
+      "id": "P007",
       "kind": "finding",
       "heading": "What happened",
       "text": "Panfilo Lacson moved to elect Francis “Chiz” Escudero as presiding officer. The motion passed by 12 votes to 8, and Escudero took the chair.",
@@ -151,7 +203,7 @@
       ]
     },
     {
-      "id": "P006",
+      "id": "P008",
       "kind": "finding",
       "heading": "The court's directions",
       "text": "The vote did not end the constitutional dispute. Alan Peter Cayetano registered a continuing objection and said he would submit his arguments in writing.",
@@ -171,7 +223,7 @@
       ]
     },
     {
-      "id": "P007",
+      "id": "P009",
       "kind": "finding",
       "heading": "The court's directions",
       "text": "Escudero ruled that conviction would require at least 16 affirmative votes, while leaving the parties free to seek judicial relief. He said the prosecution carries the burden and the respondent is presumed innocent.",
@@ -185,7 +237,7 @@
       ]
     },
     {
-      "id": "P008",
+      "id": "P010",
       "kind": "finding",
       "heading": "The court's directions",
       "text": "The chair denied the prosecution's request to read all four articles and take a separate plea on each one. He said the articles had already been deemed read, the respondent had answered through counsel, and each article would be read before the final vote.",
@@ -211,7 +263,7 @@
       ]
     },
     {
-      "id": "P009",
+      "id": "P011",
       "kind": "finding",
       "heading": "The prosecution's position",
       "text": "Lead prosecutor Gerville Luistro framed the case as a question of public accountability involving public money, public trust, and citizens' right to demand accountability from their leaders. She presented the four articles as chapters of one alleged pattern of power exercised without accountability.",
@@ -231,7 +283,7 @@
       ]
     },
     {
-      "id": "P010",
+      "id": "P012",
       "kind": "finding",
       "heading": "The prosecution's position",
       "text": "On Article 1, the prosecution alleged that more than 612 million pesos in confidential funds of the Office of the Vice President and the Department of Education were disbursed, transferred, and liquidated under circumstances it said could not withstand scrutiny. It cited questionable liquidation records and receipts bearing names it said government records could not verify. These were allegations, not findings made that day.",
@@ -251,7 +303,7 @@
       ]
     },
     {
-      "id": "P011",
+      "id": "P013",
       "kind": "finding",
       "heading": "The prosecution's position",
       "text": "On Article 2, the prosecution alleged billions of pesos in financial transactions associated with Duterte and her husband and called for a lawful explanation. The underlying bank evidence was not presented or authenticated during this session.",
@@ -277,7 +329,7 @@
       ]
     },
     {
-      "id": "P012",
+      "id": "P014",
       "kind": "finding",
       "heading": "The defense's position",
       "text": "Lead defense counsel Sheila Sison said removal would displace the mandate of more than 32 million voters. She argued that constitutional accountability also applies to those prosecuting the case.",
@@ -291,7 +343,7 @@
       ]
     },
     {
-      "id": "P013",
+      "id": "P015",
       "kind": "finding",
       "heading": "The defense's position",
       "text": "The defense cited the Supreme Court's earlier Duterte versus House of Representatives ruling to argue that impeachment is a legal and constitutional process, not a purely political one. It characterized the House committee proceedings as what its chair had called a mini-trial and described them as a fishing expedition.",
@@ -311,7 +363,7 @@
       ]
     },
     {
-      "id": "P014",
+      "id": "P016",
       "kind": "finding",
       "heading": "The defense's position",
       "text": "On confidential funds, the defense said the budget and presidential offices documented and approved the release. It also said the audit ruling was not final and did not itself find misuse. Those were defense positions still awaiting evidence and adversarial testing.",
@@ -325,7 +377,7 @@
       ]
     },
     {
-      "id": "P015",
+      "id": "P017",
       "kind": "finding",
       "heading": "Witnesses and evidence",
       "text": "No witness testified. The chair said no documentary evidence had yet been formally offered, turned over, authenticated by a witness, or admitted into the court record.",
@@ -345,7 +397,7 @@
       ]
     },
     {
-      "id": "P016",
+      "id": "P018",
       "kind": "finding",
       "heading": "Witnesses and evidence",
       "text": "The prosecution sought testimonial subpoenas for NBI officials Jeremy Lotoc and John Mark Calilung in connection with Article 4. Although the request read into the record sought testimony only, the chair ordered both testimonial and document subpoenas for the two agents.",
@@ -371,7 +423,7 @@
       ]
     },
     {
-      "id": "P017",
+      "id": "P019",
       "kind": "finding",
       "heading": "Witnesses and evidence",
       "text": "The clerk also read requests to banks and the Anti-Money Laundering Council for account and transaction records. The defense had not received every request, so the court deferred a decision pending written arguments and a hearing. None of the requested records was admitted as evidence that day.",
@@ -403,7 +455,7 @@
       ]
     },
     {
-      "id": "P019",
+      "id": "P020",
       "kind": "finding",
       "heading": "What remains unresolved",
       "text": "The merits of all four articles remained untested. No live testimony had begun, and no documentary evidence had been admitted.",
@@ -423,7 +475,7 @@
       ]
     },
     {
-      "id": "P020",
+      "id": "P021",
       "kind": "finding",
       "heading": "What remains unresolved",
       "text": "The court still had to decide whether to issue subpoenas for the requested bank and Anti-Money Laundering Council records. The chair scheduled written submissions and oral argument, and said lawful access and any public disclosure would be decided afterward.",
@@ -443,7 +495,7 @@
       ]
     },
     {
-      "id": "P021",
+      "id": "P022",
       "kind": "outro",
       "heading": "How to use this overview",
       "text": "The episode page links these points to the timed working transcript and the original Senate video. Check consequential wording against both sources before publication.",

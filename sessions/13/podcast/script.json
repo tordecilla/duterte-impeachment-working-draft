@@ -1,6 +1,6 @@
 {
   "title": "Audio overview — July 7, 2026",
-  "description": "A source-linked English audio overview of the day's proceedings.",
+  "description": "A source-linked English audio overview covering the parties, the court, and senator-judge interventions during the day's proceedings.",
   "language": "en",
   "segments": [
     {
@@ -14,7 +14,7 @@
       "id": "P002",
       "kind": "overview",
       "heading": "The big picture",
-      "text": "The July 7 session centered on the direct examination of the prosecution's first witness, National Bureau of Investigation Senior Agent John Mark Sta. Ana Calilung. He testified about collecting and authenticating recordings and online material connected to statements by Vice President Sara Duterte. The court played selected portions of recordings from November 23 and October 18, 2024. Calilung said he screen-recorded source videos, compared the recordings manually, and generated hash values for the recorded files. The defense challenged copies, unreadable or missing attachments, leading questions, and the loss of context from selected clips. The court allowed the presentation to continue in many instances, but left document admissibility for formal offer. Still open were a possible prosecution request to call Duterte, a tabled motion to strike part of a prosecution response, the defense's possible presentation of the complete November 23 recording, and Calilung's cross-examination on July 8.",
+      "text": "The July 7 session centered on the direct examination of the prosecution's first witness, NBI Senior Agent John Mark Sta. Ana Calilung, and senator-judge scrutiny of the authentication, context, and legal framing of recordings connected to statements by Vice President Sara Duterte. The court played selected portions of November 23 and October 18, 2024 recordings, while Calilung testified that he screen-recorded source videos, compared the recordings manually, and generated hash values for the recorded files. The defense challenged copies, unreadable or missing attachments, leading questions, and the loss of context from selected clips; the court allowed the presentation to continue in many instances but left document admissibility for formal offer. Still open were a possible prosecution request to call Duterte, a tabled motion to strike part of a prosecution response, the defense's possible presentation of the complete November 23 recording, and Calilung's cross-examination on July 8.",
       "citations": [
         {
           "segment_id": "S00095",
@@ -111,11 +111,167 @@
           "start_seconds": 1179.49,
           "clock": "00:19:39",
           "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00596",
+          "start_seconds": 7150.68,
+          "clock": "01:59:10",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00607",
+          "start_seconds": 7221.9,
+          "clock": "02:00:21",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00608",
+          "start_seconds": 7228.65,
+          "clock": "02:00:28",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S00609",
+          "start_seconds": 7230.33,
+          "clock": "02:00:30",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00610",
+          "start_seconds": 7234.77,
+          "clock": "02:00:34",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S00639",
+          "start_seconds": 7375.33,
+          "clock": "02:02:55",
+          "speaker_name": "Sen. Raffy Tulfo"
+        },
+        {
+          "segment_id": "S00641",
+          "start_seconds": 7381.15,
+          "clock": "02:03:01",
+          "speaker_name": "Sen. Raffy Tulfo"
+        },
+        {
+          "segment_id": "S01016",
+          "start_seconds": 10742.45,
+          "clock": "02:59:02",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01074",
+          "start_seconds": 11564.55,
+          "clock": "03:12:44",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01047",
+          "start_seconds": 11309.07,
+          "clock": "03:08:29",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S01055",
+          "start_seconds": 11339.66,
+          "clock": "03:08:59",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01089C",
+          "start_seconds": 11813.36,
+          "clock": "03:16:53",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01115",
+          "start_seconds": 11892.54,
+          "clock": "03:18:12",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01121",
+          "start_seconds": 11942.94,
+          "clock": "03:19:02",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01122",
+          "start_seconds": 11950.24,
+          "clock": "03:19:10",
+          "speaker_name": "John Mark Sta. Ana Calilung"
         }
       ]
     },
     {
       "id": "P003",
+      "kind": "finding",
+      "heading": "Senator-judge observation",
+      "text": "Raffy Tulfo distinguished between playing a video in court and treating it as evidence, and said the rule he cited did not require the entire record to be shown at that stage.",
+      "citations": [
+        {
+          "segment_id": "S00639",
+          "start_seconds": 7375.33,
+          "clock": "02:02:55",
+          "speaker_name": "Sen. Raffy Tulfo"
+        },
+        {
+          "segment_id": "S00641",
+          "start_seconds": 7381.15,
+          "clock": "02:03:01",
+          "speaker_name": "Sen. Raffy Tulfo"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Risa Hontiveros asked how the statements supported impeachment when the presentation had not shown that an assassin was actually contracted; she later clarified that her intervention concerned materiality and was not a closing statement.",
+      "citations": [
+        {
+          "segment_id": "S01016",
+          "start_seconds": 10742.45,
+          "clock": "02:59:02",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01074",
+          "start_seconds": 11564.55,
+          "clock": "03:12:44",
+          "speaker_name": "Sen. Risa Hontiveros"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "Senator-judge motion",
+      "text": "Pia Cayetano moved to strike a prosecution response she considered improper. The chair tabled the motion rather than resolving it during the sitting.",
+      "citations": [
+        {
+          "segment_id": "S01047",
+          "start_seconds": 11309.07,
+          "clock": "03:08:29",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S01055",
+          "start_seconds": 11339.66,
+          "clock": "03:08:59",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01077",
+          "start_seconds": 11604.05,
+          "clock": "03:13:24",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P006",
       "kind": "finding",
       "heading": "What happened",
       "text": "Before testimony began, Presiding Officer Francis “Chiz” Escudero confirmed that his prior statement requiring 16 affirmative votes for conviction was a ruling of the chair. He said the ruling stood because no senator-judge had objected or appealed. Senator Alan Peter Cayetano placed a continuing objection on record and said a written submission would follow.",
@@ -141,7 +297,7 @@
       ]
     },
     {
-      "id": "P004",
+      "id": "P007",
       "kind": "finding",
       "heading": "What happened",
       "text": "Prosecution counsel Lorna Kapunan described the Vice President as a prospective hostile witness and asked about her appearance. The chair answered that the rules did not require Duterte to attend while represented by counsel. It reserved action on any request to call her until that request was formally made.",
@@ -161,7 +317,7 @@
       ]
     },
     {
-      "id": "P005",
+      "id": "P008",
       "kind": "finding",
       "heading": "What happened",
       "text": "Prosecutor Lorenz Defensor introduced Article Four as alleging threats and related constitutional offenses. The chair immediately instructed senator-judges that his introduction was not evidence. It then denied the defense motion to strike the remarks while repeating that they must not be treated as evidence.",
@@ -171,60 +327,6 @@
           "start_seconds": 1699.88,
           "clock": "00:28:19",
           "speaker_name": "Lorenz R. Defensor"
-        },
-        {
-          "segment_id": "S00080",
-          "start_seconds": 1965.19,
-          "clock": "00:32:45",
-          "speaker_name": "Sen. Francis “Chiz” Escudero"
-        },
-        {
-          "segment_id": "S00083",
-          "start_seconds": 2033.21,
-          "clock": "00:33:53",
-          "speaker_name": "Sen. Francis “Chiz” Escudero"
-        }
-      ]
-    },
-    {
-      "id": "P006",
-      "kind": "finding",
-      "heading": "The court's directions",
-      "text": "The presiding officer treated the 16-vote threshold as a ruling of the chair that remained in force because it had not been objected to or appealed by a member of the court.",
-      "citations": [
-        {
-          "segment_id": "S00026",
-          "start_seconds": 636.22,
-          "clock": "00:10:36",
-          "speaker_name": "Sen. Francis “Chiz” Escudero"
-        }
-      ]
-    },
-    {
-      "id": "P007",
-      "kind": "finding",
-      "heading": "The court's directions",
-      "text": "The chair ruled that the impeachment rules did not require the respondent to attend hearings while represented by counsel and said the court would decide any request to call or subpoena her only after a motion was filed.",
-      "citations": [
-        {
-          "segment_id": "S00050",
-          "start_seconds": 1179.49,
-          "clock": "00:19:39",
-          "speaker_name": "Sen. Francis “Chiz” Escudero"
-        }
-      ]
-    },
-    {
-      "id": "P008",
-      "kind": "finding",
-      "heading": "The court's directions",
-      "text": "The court allowed Defensor five minutes for an Article Four introduction and promised the defense the same opportunity. It expressly directed that the introduction was not evidence. It denied the defense request to strike the remarks while preserving that instruction.",
-      "citations": [
-        {
-          "segment_id": "S00073",
-          "start_seconds": 1614.59,
-          "clock": "00:26:54",
-          "speaker_name": "Sen. Francis “Chiz” Escudero"
         },
         {
           "segment_id": "S00080",

@@ -1,6 +1,6 @@
 # Audio overview — July 6, 2026
 
-A source-linked English audio overview of the day's proceedings.
+A source-linked English audio overview covering the parties, the court, and senator-judge interventions during the day's proceedings.
 
 ## Introduction
 
@@ -17,6 +17,22 @@ July 6 was an opening and organizational session. After debating who should pres
 - [02:13:22 · S00356](../index.html?t=8002.3#S00356)
 - [03:00:01 · S00476](../index.html?t=10801.88#S00476)
 - [03:11:45 · S00516](../index.html?t=11505.47#S00516)
+
+## Senator-judge question
+
+Bam Aquino pressed for prompt public access to evidence presented in court, while Alan Peter Cayetano cautioned that public filings, admitted evidence, and material whose disclosure may be prohibited required different treatment.
+
+- [03:02:53 · S00483](../index.html?t=10973.11#S00483)
+- [03:03:47 · S00489](../index.html?t=11027.04#S00489)
+- [03:05:24 · S00497](../index.html?t=11124.21#S00497)
+
+## Senator-judge question
+
+Erwin Tulfo asked whether Anti-Money Laundering Council evidence would require executive session. Risa Hontiveros argued for transparency and against treating executive session as the default in an impeachment trial.
+
+- [03:08:05 · S00505](../index.html?t=11285.89#S00505)
+- [03:10:55 · S00514](../index.html?t=11455.53#S00514)
+- [03:11:21 · S00515](../index.html?t=11481.62#S00515)
 
 ## What happened
 

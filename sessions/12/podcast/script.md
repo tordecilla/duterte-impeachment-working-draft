@@ -1,6 +1,6 @@
 # Audio overview — July 8, 2026
 
-A source-linked English audio overview of the day's proceedings.
+A source-linked English audio overview covering the parties, the court, and senator-judge interventions during the day's proceedings.
 
 ## Introduction
 
@@ -23,6 +23,42 @@ The July 8 session concluded the cross-examination and senator-judge questioning
 - [02:59:24 · S01367](../index.html?t=10764.72#S01367)
 - [02:55:12 · S01330](../index.html?t=10512.44#S01330)
 - [03:01:54 · S01378](../index.html?t=10914.28#S01378)
+
+## Senator-judge question
+
+Risa Hontiveros asked whether the detention and alleged threat context involving Zuleika Lopez prompted Duterte's remarks. The chair limited counsel from supplying uncited factual or legal conclusions in answering for the record.
+
+- [01:53:40 · S00943](../index.html?t=6820.11#S00943)
+- [01:54:11 · S00945](../index.html?t=6851.28#S00945)
+- [01:56:30 · S00959](../index.html?t=6990.59#S00959)
+
+## Senator-judge question
+
+Alan Peter Cayetano asked why the Presidential Security Group had not been consulted and whether the statement under investigation was conditional; Calilung said the affidavit treated it as conditional.
+
+- [02:25:13 · S01135](../index.html?t=8713.73#S01135)
+- [02:27:10 · S01143](../index.html?t=8830.71#S01143)
+- [02:28:11 · S01149](../index.html?t=8891.19#S01149)
+
+## Senator-judge question
+
+Panfilo Lacson examined whether artificial intelligence or forensic tools were used, where the source recording came from, and how authentication was performed; Calilung described an O-B-S screen recording and manual comparison.
+
+- [02:39:05 · S01235](../index.html?t=9545.86#S01235)
+- [02:39:40 · S01238](../index.html?t=9580.34#S01238)
+- [02:40:44 · S01242](../index.html?t=9644.21#S01242)
+- [02:41:40 · S01255](../index.html?t=9700.04#S01255)
+- [02:42:03 · S01260](../index.html?t=9723.42#S01260)
+- [02:42:11 · S01261](../index.html?t=9731.04#S01261)
+- [02:42:11 · S01262](../index.html?t=9731.48#S01262)
+
+## Senator-judge observation
+
+Alan Peter Cayetano distinguished a competent witness from an expert witness, and the chair agreed with that distinction while discussing the scope of Calilung's testimony.
+
+- [02:43:41 · S01268](../index.html?t=9821.38#S01268)
+- [02:43:45 · S01270](../index.html?t=9825.76#S01270)
+- [02:44:03 · S01273](../index.html?t=9843.66#S01273)
 
 ## What happened
 
@@ -52,13 +88,6 @@ The defense confronted Calilung with a February 5 Department of Justice certific
 - [01:46:53 · S00890](../index.html?t=6413.89#S00890)
 - [01:47:31 · S00891](../index.html?t=6451.97#S00891)
 - [01:49:35 · S00896](../index.html?t=6575.28#S00896)
-
-## The court's directions
-
-The chair limited the use of the training provider's partnership materials to showing what Calilung had read or seen. It instructed senator-judges that he was not competent to establish the truth of those documents' contents.
-
-- [00:20:27 · S00087](../index.html?t=1227.82#S00087)
-- [00:24:47 · S00108](../index.html?t=1487.08#S00108)
 
 ## The court's directions
 
@@ -126,26 +155,6 @@ Narvasa stressed that the NBI initiated and filed the complaint, the DOJ directe
 
 - [01:04:57 · S00464](../index.html?t=3897.02#S00464)
 - [01:08:56 · S00521](../index.html?t=4136.4#S00521)
-
-## Witnesses and evidence
-
-During cross-examination, defense counsel read a February 5 Department of Justice certification that recommended returning the referral for further case buildup and listed seven deficiencies. The items included missing affidavits from recorders and transcript makers, missing or unclear video media, no individual affidavits from interviewed journalists, and no participation by the alleged offended parties.
-
-- [00:34:46 · S00191](../index.html?t=2086.27#S00191)
-- [00:35:52 · S00200](../index.html?t=2152.45#S00200)
-- [00:36:16 · S00203](../index.html?t=2176.56#S00203)
-- [00:36:57 · S00204](../index.html?t=2217.58#S00204)
-- [00:38:28 · S00225](../index.html?t=2308.18#S00225)
-- [01:46:39 · S00889](../index.html?t=6399.26#S00889)
-- [01:46:53 · S00890](../index.html?t=6413.89#S00890)
-- [01:47:31 · S00891](../index.html?t=6451.97#S00891)
-
-## Witnesses and evidence
-
-Calilung testified that the revised National Bureau of Investigation submission complied with the Department of Justice's requirements and later received a certification that its evidence was sufficient for preliminary investigation. That described a threshold prosecutorial assessment, not a criminal conviction or a finding by the impeachment court.
-
-- [01:03:10 · S00441](../index.html?t=3790.63#S00441)
-- [01:49:35 · S00896](../index.html?t=6575.28#S00896)
 
 ## Witnesses and evidence
 

@@ -1,6 +1,6 @@
 {
   "title": "Audio overview — July 14, 2026",
-  "description": "A concise, source-linked English audio overview of the day's proceedings.",
+  "description": "A source-linked English audio overview covering the parties, the court, and senator-judge interventions during the day's proceedings.",
   "language": "en",
   "segments": [
     {
@@ -51,6 +51,188 @@
     {
       "id": "P003",
       "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Alan Peter Cayetano questioned the logic of treating the recorded statement as a threat against the named principals when the stated condition was that Duterte first be killed.",
+      "citations": [
+        {
+          "segment_id": "S00379",
+          "start_seconds": 3392.4700000000003,
+          "clock": "00:56:32",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00387",
+          "start_seconds": 3454.45,
+          "clock": "00:57:34",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00389",
+          "start_seconds": 3478.66,
+          "clock": "00:57:58",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Joel Villanueva, Panfilo Lacson, and Alan Peter Cayetano examined the National Bureau of Investigation's handling of reported threats against Duterte and competing interpretations of remarks referring to the Romanovs.",
+      "citations": [
+        {
+          "segment_id": "S00518",
+          "start_seconds": 4597.41,
+          "clock": "01:16:37",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00527",
+          "start_seconds": 4651.66,
+          "clock": "01:17:31",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00539",
+          "start_seconds": 4931.33,
+          "clock": "01:22:11",
+          "speaker_name": "Sen. Panfilo M. Lacson"
+        },
+        {
+          "segment_id": "S00589",
+          "start_seconds": 5133.09,
+          "clock": "01:25:33",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00591",
+          "start_seconds": 5228.58,
+          "clock": "01:27:08",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Pia Cayetano asked the parties and witness to explain the elements of grave threats in ordinary terms and used hypotheticals to test how context affected the analysis.",
+      "citations": [
+        {
+          "segment_id": "S00867",
+          "start_seconds": 7035.1,
+          "clock": "01:57:15",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00871",
+          "start_seconds": 7066.6900000000005,
+          "clock": "01:57:46",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00974",
+          "start_seconds": 7911.49,
+          "clock": "02:11:51",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Sherwin Gatchalian and Raffy Tulfo questioned what evidence showed actual incitement or a public response to the statements, rather than only the statements themselves.",
+      "citations": [
+        {
+          "segment_id": "S01190",
+          "start_seconds": 9187.2,
+          "clock": "02:33:07",
+          "speaker_name": "Sen. Raffy Tulfo"
+        },
+        {
+          "segment_id": "S01208",
+          "start_seconds": 9276.39,
+          "clock": "02:34:36",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01234",
+          "start_seconds": 9367.55,
+          "clock": "02:36:07",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
+      "heading": "Senator-judge observation",
+      "text": "Loren Legarda said the National Bureau of Investigation affidavit appeared incomplete because it did not set out the events leading to the press conference or the broader context in which the statements were made.",
+      "citations": [
+        {
+          "segment_id": "S01306",
+          "start_seconds": 9641.36,
+          "clock": "02:40:41",
+          "speaker_name": "Sen. Loren Legarda"
+        },
+        {
+          "segment_id": "S01363",
+          "start_seconds": 10145.4,
+          "clock": "02:49:05",
+          "speaker_name": "Sen. Loren Legarda"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Alan Peter Cayetano questioned the prosecution's reliance on admission against interest and asked whether the full video supplied context missing from selected passages.",
+      "citations": [
+        {
+          "segment_id": "S02232",
+          "start_seconds": 17603.28,
+          "clock": "04:53:23",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S02308",
+          "start_seconds": 18068.17,
+          "clock": "05:01:08",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "finding",
+      "heading": "Senator-judge proposed course",
+      "text": "Alan Peter Cayetano and Sherwin Gatchalian proposed allowing time for questions and caucus before the court decided the pending subpoena requests.",
+      "citations": [
+        {
+          "segment_id": "S02429",
+          "start_seconds": 19016.97,
+          "clock": "05:16:56",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S02444",
+          "start_seconds": 19197.08,
+          "clock": "05:19:57",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02451",
+          "start_seconds": 19226.04,
+          "clock": "05:20:26",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "finding",
       "heading": "The central distinction",
       "text": "The central distinction was between proving that words were spoken and proving that the events described were true. Lotoc said he could confirm that the Vice President uttered the recorded statements, but he had no personal knowledge of the underlying circumstances.",
       "citations": [
@@ -69,7 +251,7 @@
       ]
     },
     {
-      "id": "P004",
+      "id": "P011",
       "kind": "finding",
       "heading": "What the recordings contained",
       "text": "A November 23 recording included the Vice President saying she had instructed an unnamed person to kill the President, the First Lady, and the former speaker if she were killed, followed by the recorded statement that the person agreed. A November 26 recording included her explanation that she had asked a person to take revenge if she died.",
@@ -113,7 +295,7 @@
       ]
     },
     {
-      "id": "P005",
+      "id": "P012",
       "kind": "finding",
       "heading": "The prosecution's case",
       "text": "The prosecution argued that grave threats did not require the recipients themselves to feel fear if the accused intended the threatening effect. On redirect, it treated the November 26 statement as a reiteration and characterized the exchange with the unnamed person as a contract.",
@@ -145,7 +327,7 @@
       ]
     },
     {
-      "id": "P006",
+      "id": "P013",
       "kind": "finding",
       "heading": "The defense's response",
       "text": "The defense said the remarks were not threats, but a response during a question-and-answer exchange, and were not aimed directly at the three officials. It also objected to the word contract, saying the Vice President had not used that term and that it was counsel's legal conclusion.",
@@ -195,75 +377,7 @@
       ]
     },
     {
-      "id": "P007",
-      "kind": "finding",
-      "heading": "How the investigation was challenged",
-      "text": "The defense portrayed the investigation as uneven, contrasting subpoenas issued to the Vice President with the lack of a subpoena concerning reported threats against her. Lotoc also said the President, the First Lady, and the former speaker were neither subpoenaed nor brought before the NBI, although the bureau considered them victims based on other evidence.",
-      "citations": [
-        {
-          "segment_id": "S00692",
-          "start_seconds": 6072.9400000000005,
-          "clock": "01:41:12",
-          "speaker_name": "Atty. Mark C. Vinluan"
-        },
-        {
-          "segment_id": "S00708",
-          "start_seconds": 6235.01,
-          "clock": "01:43:55",
-          "speaker_name": "Atty. Mark C. Vinluan"
-        },
-        {
-          "segment_id": "S00709",
-          "start_seconds": 6236.91,
-          "clock": "01:43:56",
-          "speaker_name": "Atty. Jeremy C. Lotoc"
-        },
-        {
-          "segment_id": "S00710",
-          "start_seconds": 6237.87,
-          "clock": "01:43:57",
-          "speaker_name": "Atty. Mark C. Vinluan"
-        },
-        {
-          "segment_id": "S00711",
-          "start_seconds": 6240.13,
-          "clock": "01:44:00",
-          "speaker_name": "Atty. Jeremy C. Lotoc"
-        },
-        {
-          "segment_id": "S00712",
-          "start_seconds": 6241.55,
-          "clock": "01:44:01",
-          "speaker_name": "Atty. Mark C. Vinluan"
-        },
-        {
-          "segment_id": "S00713",
-          "start_seconds": 6250.09,
-          "clock": "01:44:10",
-          "speaker_name": "Atty. Jeremy C. Lotoc"
-        },
-        {
-          "segment_id": "S00732",
-          "start_seconds": 6325.96,
-          "clock": "01:45:25",
-          "speaker_name": "Atty. Mark C. Vinluan"
-        },
-        {
-          "segment_id": "S00737",
-          "start_seconds": 6340.88,
-          "clock": "01:45:40",
-          "speaker_name": "Atty. Mark C. Vinluan"
-        },
-        {
-          "segment_id": "S00738",
-          "start_seconds": 6347.9,
-          "clock": "01:45:47",
-          "speaker_name": "Atty. Jeremy C. Lotoc"
-        }
-      ]
-    },
-    {
-      "id": "P008",
+      "id": "P014",
       "kind": "finding",
       "heading": "The unnamed person",
       "text": "Lotoc said the Cybercrime Division believed an unnamed person existed because of the November 23 and November 26 statements. When asked whether the division had any other basis, he said it did not, as far as his division was concerned.",
@@ -307,27 +421,7 @@
       ]
     },
     {
-      "id": "P009",
-      "kind": "finding",
-      "heading": "A second investigative limit",
-      "text": "Lotoc referred to Facebook comments urging that Malacañang be stormed. He also acknowledged that the comments were not included in the investigation or in the affidavit of investigation.",
-      "citations": [
-        {
-          "segment_id": "S01192",
-          "start_seconds": 9221.55,
-          "clock": "02:33:41",
-          "speaker_name": "Atty. Jeremy C. Lotoc"
-        },
-        {
-          "segment_id": "S01513",
-          "start_seconds": 11345.22,
-          "clock": "03:09:05",
-          "speaker_name": "Atty. Jeremy C. Lotoc"
-        }
-      ]
-    },
-    {
-      "id": "P010",
+      "id": "P015",
       "kind": "finding",
       "heading": "What the court did",
       "text": "Early in cross-examination, the court sustained a competency objection and limited Lotoc to the fact and tenor of the recorded statements, not their truth. Later, it denied a defense motion to strike Lotoc's interpretation and left the weight of that answer to the senator-judges.",
@@ -347,7 +441,7 @@
       ]
     },
     {
-      "id": "P011",
+      "id": "P016",
       "kind": "finding",
       "heading": "A caution from the chair",
       "text": "Before Lotoc was excused, the Presiding Officer clarified that admission against interest is an exception to the hearsay rule and should not automatically be treated as a confession. The chair separately reserved conclusions of fact and law to the Impeachment Court.",
@@ -367,7 +461,7 @@
       ]
     },
     {
-      "id": "P012",
+      "id": "P017",
       "kind": "finding",
       "heading": "Two witnesses withdrawn",
       "text": "After Lotoc's testimony, the prosecution announced that it would no longer call Attorney Zuleika Lopez or Captain Belinda Bello. It called Lopez's proposed authentication testimony unnecessary because the defense had used the same video, and described Bello's proposed testimony as corroborative.",
@@ -399,27 +493,7 @@
       ]
     },
     {
-      "id": "P013",
-      "kind": "finding",
-      "heading": "What comes next",
-      "text": "The next sitting was set to take up prosecution requests for bank and AMLC records, and BIR records. The chair scheduled joint oral argument, followed by a caucus and plenary proceedings.",
-      "citations": [
-        {
-          "segment_id": "S02532",
-          "start_seconds": 20194.42,
-          "clock": "05:36:34",
-          "speaker_name": "Sen. Francis “Chiz” Escudero"
-        },
-        {
-          "segment_id": "S02533",
-          "start_seconds": 20223.98,
-          "clock": "05:37:03",
-          "speaker_name": "Sen. Francis “Chiz” Escudero"
-        }
-      ]
-    },
-    {
-      "id": "P014",
+      "id": "P018",
       "kind": "outro",
       "heading": "How to use this overview",
       "text": "Every substantive point on the episode page links to the timed transcript and the original Senate video. Check consequential wording against those sources before publication.",

@@ -1,6 +1,6 @@
 # Audio overview — July 13, 2026
 
-A source-linked, synthetic two-host English audio overview of the day's proceedings.
+A source-linked English audio overview covering the parties, the court, and senator-judge interventions during the day's proceedings.
 
 ## Introduction
 
@@ -15,6 +15,40 @@ The session centered on Jeremy C. Lotoc, the NBI regional director for BARMM and
 - [00:35:15 · S00145](../index.html?t=2115.2799999999997#S00145)
 - [00:36:50 · S00154](../index.html?t=2210.29#S00154)
 - [00:38:41 · S00159](../index.html?t=2321.42#S00159)
+
+## Senator-judge question
+
+Imee Marcos questioned how an National Bureau of Investigation subpoena dated November 6 could precede the November 23 instruction to investigate. Lotoc said the November 6 date was a typographical error.
+
+- [03:35:27 · S01259](../index.html?t=12927.75#S01259)
+- [03:42:16 · S01316](../index.html?t=13336.3#S01316)
+
+## Senator-judge question
+
+Bam Aquino asked the defense to identify where its answer specifically denied the allegation. Defense counsel cited paragraphs 3 and 197, denied that Duterte had actually spoken to a hitman, and reserved its right to present evidence later.
+
+- [03:48:28 · S01366](../index.html?t=13708.83#S01366)
+- [03:49:15 · S01367](../index.html?t=13755.77#S01367)
+- [03:49:49 · S01369](../index.html?t=13789.22#S01369)
+- [03:51:29 · S01381](../index.html?t=13889.36#S01381)
+- [03:51:41 · S01382](../index.html?t=13901.22#S01382)
+- [03:51:44 · S01383](../index.html?t=13904.98#S01383)
+- [03:52:01 · S01384](../index.html?t=13921.14#S01384)
+- [03:53:05 · S01388](../index.html?t=13985.4#S01388)
+
+## Senator-judge observation
+
+Raffy Tulfo observed that the receiving office, rather than Lotoc, appeared to be the proper witness to explain errors in the investigation data form.
+
+- [04:55:05 · S01836](../index.html?t=17705.47#S01836)
+
+## Senator-judge motion
+
+Juan Miguel Zubiri moved to stop for the evening. Defense counsel said cross-examination was only about halfway complete, and the court carried the unfinished examination to the next sitting.
+
+- [06:10:41 · S02579](../index.html?t=22241.74#S02579)
+- [06:12:00 · S02582](../index.html?t=22320.09#S02582)
+- [06:12:25 · S02585](../index.html?t=22345.98#S02585)
 
 ## How the recordings were handled
 
@@ -106,16 +140,6 @@ The defense emphasized that the NBI recommendation did not bind the Justice Depa
 - [05:16:46 · S02031](../index.html?t=19006.38#S02031)
 - [05:17:06 · S02039](../index.html?t=19026.09#S02039)
 - [05:24:09 · S02122](../index.html?t=19449.22#S02122)
-
-## The stopping point
-
-The court stopped for the evening when defense counsel said cross-examination was only about halfway complete. Lotoc remained under subpoena to return the next day under the same oath, while redirect and any recross had not begun. The court then adjourned until 2 P M on July 14, 2026.
-
-- [06:12:00 · S02582](../index.html?t=22320.09#S02582)
-- [06:12:05 · S02583](../index.html?t=22325.79#S02583)
-- [06:12:50 · S02590](../index.html?t=22370.79#S02590)
-- [06:16:43 · S02606](../index.html?t=22603.11#S02606)
-- [06:17:05 · S02610](../index.html?t=22625.75#S02610)
 
 ## How to use this overview
 

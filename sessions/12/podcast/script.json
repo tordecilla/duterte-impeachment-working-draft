@@ -1,6 +1,6 @@
 {
   "title": "Audio overview — July 8, 2026",
-  "description": "A source-linked English audio overview of the day's proceedings.",
+  "description": "A source-linked English audio overview covering the parties, the court, and senator-judge interventions during the day's proceedings.",
   "language": "en",
   "segments": [
     {
@@ -99,6 +99,134 @@
     {
       "id": "P003",
       "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Risa Hontiveros asked whether the detention and alleged threat context involving Zuleika Lopez prompted Duterte's remarks. The chair limited counsel from supplying uncited factual or legal conclusions in answering for the record.",
+      "citations": [
+        {
+          "segment_id": "S00943",
+          "start_seconds": 6820.11,
+          "clock": "01:53:40",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00945",
+          "start_seconds": 6851.28,
+          "clock": "01:54:11",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S00959",
+          "start_seconds": 6990.59,
+          "clock": "01:56:30",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Alan Peter Cayetano asked why the Presidential Security Group had not been consulted and whether the statement under investigation was conditional; Calilung said the affidavit treated it as conditional.",
+      "citations": [
+        {
+          "segment_id": "S01135",
+          "start_seconds": 8713.73,
+          "clock": "02:25:13",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S01143",
+          "start_seconds": 8830.71,
+          "clock": "02:27:10",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S01149",
+          "start_seconds": 8891.19,
+          "clock": "02:28:11",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Panfilo Lacson examined whether artificial intelligence or forensic tools were used, where the source recording came from, and how authentication was performed; Calilung described an O-B-S screen recording and manual comparison.",
+      "citations": [
+        {
+          "segment_id": "S01235",
+          "start_seconds": 9545.86,
+          "clock": "02:39:05",
+          "speaker_name": "Sen. Panfilo M. Lacson"
+        },
+        {
+          "segment_id": "S01238",
+          "start_seconds": 9580.34,
+          "clock": "02:39:40",
+          "speaker_name": "Sen. Panfilo M. Lacson"
+        },
+        {
+          "segment_id": "S01242",
+          "start_seconds": 9644.21,
+          "clock": "02:40:44",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S01255",
+          "start_seconds": 9700.04,
+          "clock": "02:41:40",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S01260",
+          "start_seconds": 9723.42,
+          "clock": "02:42:03",
+          "speaker_name": "Sen. Panfilo M. Lacson"
+        },
+        {
+          "segment_id": "S01261",
+          "start_seconds": 9731.04,
+          "clock": "02:42:11",
+          "speaker_name": "John Mark Sta. Ana Calilung"
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 9731.48,
+          "clock": "02:42:11",
+          "speaker_name": "Sen. Panfilo M. Lacson"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "Senator-judge observation",
+      "text": "Alan Peter Cayetano distinguished a competent witness from an expert witness, and the chair agreed with that distinction while discussing the scope of Calilung's testimony.",
+      "citations": [
+        {
+          "segment_id": "S01268",
+          "start_seconds": 9821.38,
+          "clock": "02:43:41",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S01270",
+          "start_seconds": 9825.76,
+          "clock": "02:43:45",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S01273",
+          "start_seconds": 9843.66,
+          "clock": "02:44:03",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
       "heading": "What happened",
       "text": "Before cross-examination, Presiding Officer Francis “Chiz” Escudero gave defense counsel Carlo Joaquin Narvasa the same five minutes and 18 seconds previously used by prosecution counsel for an Article Four argument. The response would be delivered after cross-examination. Pia Cayetano withdrew her earlier motion to strike the prosecution argument in the interest of equal treatment.",
       "citations": [
@@ -123,7 +251,7 @@
       ]
     },
     {
-      "id": "P004",
+      "id": "P008",
       "kind": "finding",
       "heading": "What happened",
       "text": "Narvasa's cross-examination challenged Calilung's training, the source of his photo-and-video authentication instruction, the completeness of the National Bureau of Investigation's papers, and the accuracy of his transcript of the November 23 recording.",
@@ -161,7 +289,7 @@
       ]
     },
     {
-      "id": "P005",
+      "id": "P009",
       "kind": "finding",
       "heading": "What happened",
       "text": "The defense confronted Calilung with a February 5 Department of Justice certification recommending further case buildup because the referral lacked evidence needed to prove the crimes' elements. Calilung later testified that the bureau complied with the listed requirements and received a second certification saying the evidence was sufficient for preliminary investigation.",
@@ -205,27 +333,7 @@
       ]
     },
     {
-      "id": "P006",
-      "kind": "finding",
-      "heading": "The court's directions",
-      "text": "The chair limited the use of the training provider's partnership materials to showing what Calilung had read or seen. It instructed senator-judges that he was not competent to establish the truth of those documents' contents.",
-      "citations": [
-        {
-          "segment_id": "S00087",
-          "start_seconds": 1227.82,
-          "clock": "00:20:27",
-          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
-        },
-        {
-          "segment_id": "S00108",
-          "start_seconds": 1487.08,
-          "clock": "00:24:47",
-          "speaker_name": "Sen. Francis “Chiz” Escudero"
-        }
-      ]
-    },
-    {
-      "id": "P007",
+      "id": "P010",
       "kind": "finding",
       "heading": "The court's directions",
       "text": "The chair conditionally allowed cross-examination using documents that had not been introduced through the prosecution's direct examination, provided the defense connected them to testing Calilung's credibility, accuracy, or completeness.",
@@ -245,7 +353,7 @@
       ]
     },
     {
-      "id": "P008",
+      "id": "P011",
       "kind": "finding",
       "heading": "The court's directions",
       "text": "The court overruled the prosecution's relevance objection to questions about differences in Calilung's transcript. It held that the defense could use them on cross-examination to test his accuracy and truthfulness.",
@@ -259,7 +367,7 @@
       ]
     },
     {
-      "id": "P009",
+      "id": "P012",
       "kind": "finding",
       "heading": "The prosecution's position",
       "text": "The prosecution objected to the defense's use of the training provider's partnership documents and website. It later challenged documents used on cross-examination without marking or source identification. The chair preserved those objections while allowing limited or conditional use.",
@@ -309,7 +417,7 @@
       ]
     },
     {
-      "id": "P010",
+      "id": "P013",
       "kind": "finding",
       "heading": "The prosecution's position",
       "text": "In response to Bam Aquino, prosecution counsel said witnesses other than Calilung would address the alleged hitman; Calilung had been presented only for the video investigation.",
@@ -329,7 +437,7 @@
       ]
     },
     {
-      "id": "P011",
+      "id": "P014",
       "kind": "finding",
       "heading": "The prosecution's position",
       "text": "The prosecution elected not to conduct redirect examination of Calilung and later said Jeremy Lotoc would be presented at the next hearing rather than on July 8.",
@@ -355,7 +463,7 @@
       ]
     },
     {
-      "id": "P012",
+      "id": "P015",
       "kind": "finding",
       "heading": "The defense's position",
       "text": "Through cross-examination, the defense used the training provider's partnership papers and website to question the foundation of Calilung's photo-and-video authentication training. The court permitted the documents only to establish what Calilung had seen, not the truth of their contents.",
@@ -393,7 +501,7 @@
       ]
     },
     {
-      "id": "P013",
+      "id": "P016",
       "kind": "finding",
       "heading": "The defense's position",
       "text": "The defense used the February 5 DOJ certification to argue that the first NBI referral was incomplete, emphasizing absent recorder and transcript affidavits, missing or unclear electronic media, lack of individual journalist affidavits, and nonparticipation by the alleged offended parties.",
@@ -431,7 +539,7 @@
       ]
     },
     {
-      "id": "P014",
+      "id": "P017",
       "kind": "finding",
       "heading": "The defense's position",
       "text": "Narvasa stressed that the NBI initiated and filed the complaint, the DOJ directed the investigation and would assess prosecution, and President Ferdinand Marcos Jr. headed the executive branch while being an alleged offended party. This was a defense characterization of the institutional relationship, not a court finding of improper influence.",
@@ -451,83 +559,7 @@
       ]
     },
     {
-      "id": "P015",
-      "kind": "finding",
-      "heading": "Witnesses and evidence",
-      "text": "During cross-examination, defense counsel read a February 5 Department of Justice certification that recommended returning the referral for further case buildup and listed seven deficiencies. The items included missing affidavits from recorders and transcript makers, missing or unclear video media, no individual affidavits from interviewed journalists, and no participation by the alleged offended parties.",
-      "citations": [
-        {
-          "segment_id": "S00191",
-          "start_seconds": 2086.27,
-          "clock": "00:34:46",
-          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
-        },
-        {
-          "segment_id": "S00200",
-          "start_seconds": 2152.45,
-          "clock": "00:35:52",
-          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
-        },
-        {
-          "segment_id": "S00203",
-          "start_seconds": 2176.56,
-          "clock": "00:36:16",
-          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
-        },
-        {
-          "segment_id": "S00204",
-          "start_seconds": 2217.58,
-          "clock": "00:36:57",
-          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
-        },
-        {
-          "segment_id": "S00225",
-          "start_seconds": 2308.18,
-          "clock": "00:38:28",
-          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
-        },
-        {
-          "segment_id": "S00889",
-          "start_seconds": 6399.26,
-          "clock": "01:46:39",
-          "speaker_name": "John Mark Sta. Ana Calilung"
-        },
-        {
-          "segment_id": "S00890",
-          "start_seconds": 6413.89,
-          "clock": "01:46:53",
-          "speaker_name": "John Mark Sta. Ana Calilung"
-        },
-        {
-          "segment_id": "S00891",
-          "start_seconds": 6451.97,
-          "clock": "01:47:31",
-          "speaker_name": "John Mark Sta. Ana Calilung"
-        }
-      ]
-    },
-    {
-      "id": "P016",
-      "kind": "finding",
-      "heading": "Witnesses and evidence",
-      "text": "Calilung testified that the revised National Bureau of Investigation submission complied with the Department of Justice's requirements and later received a certification that its evidence was sufficient for preliminary investigation. That described a threshold prosecutorial assessment, not a criminal conviction or a finding by the impeachment court.",
-      "citations": [
-        {
-          "segment_id": "S00441",
-          "start_seconds": 3790.63,
-          "clock": "01:03:10",
-          "speaker_name": "John Mark Sta. Ana Calilung"
-        },
-        {
-          "segment_id": "S00896",
-          "start_seconds": 6575.28,
-          "clock": "01:49:35",
-          "speaker_name": "John Mark Sta. Ana Calilung"
-        }
-      ]
-    },
-    {
-      "id": "P017",
+      "id": "P018",
       "kind": "finding",
       "heading": "Witnesses and evidence",
       "text": "Calilung said the NBI began the investigation without a private complainant. He also said he had no personal knowledge whether the President, First Lady, or former House Speaker filed complaints, and the chair confirmed that affidavits from the two journalists discussed on cross were not attached to the February 10 affidavit.",
@@ -571,7 +603,7 @@
       ]
     },
     {
-      "id": "P018",
+      "id": "P019",
       "kind": "finding",
       "heading": "What remains unresolved",
       "text": "The admissibility and weight of the February DOJ certifications, revised NBI affidavit, and other materials first used to confront Calilung on cross-examination remained undecided because the documents had not yet been formally offered.",
@@ -591,7 +623,7 @@
       ]
     },
     {
-      "id": "P019",
+      "id": "P020",
       "kind": "finding",
       "heading": "What remains unresolved",
       "text": "The alleged hitman's existence and any related evidence remained outside Calilung's assigned investigation; prosecution counsel said another witness or witnesses would address that subject.",
@@ -623,7 +655,7 @@
       ]
     },
     {
-      "id": "P020",
+      "id": "P021",
       "kind": "finding",
       "heading": "What remains unresolved",
       "text": "The court had not decided the prosecution's subpoena request concerning a sealed box returned to its originating agency, or the related bank-record subpoena issue. Both matters were set for written memoranda and oral argument on Wednesday before a ruling.",
@@ -643,7 +675,7 @@
       ]
     },
     {
-      "id": "P021",
+      "id": "P022",
       "kind": "outro",
       "heading": "How to use this overview",
       "text": "The episode page links every substantive point to the timed transcript and the original Senate video. Verify consequential wording against those sources before publication.",

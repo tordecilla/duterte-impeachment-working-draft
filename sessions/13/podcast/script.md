@@ -1,6 +1,6 @@
 # Audio overview — July 7, 2026
 
-A source-linked English audio overview of the day's proceedings.
+A source-linked English audio overview covering the parties, the court, and senator-judge interventions during the day's proceedings.
 
 ## Introduction
 
@@ -8,7 +8,7 @@ This is Working Draft's audio overview of the Impeachment Trial of Vice Presiden
 
 ## The big picture
 
-The July 7 session centered on the direct examination of the prosecution's first witness, National Bureau of Investigation Senior Agent John Mark Sta. Ana Calilung. He testified about collecting and authenticating recordings and online material connected to statements by Vice President Sara Duterte. The court played selected portions of recordings from November 23 and October 18, 2024. Calilung said he screen-recorded source videos, compared the recordings manually, and generated hash values for the recorded files. The defense challenged copies, unreadable or missing attachments, leading questions, and the loss of context from selected clips. The court allowed the presentation to continue in many instances, but left document admissibility for formal offer. Still open were a possible prosecution request to call Duterte, a tabled motion to strike part of a prosecution response, the defense's possible presentation of the complete November 23 recording, and Calilung's cross-examination on July 8.
+The July 7 session centered on the direct examination of the prosecution's first witness, NBI Senior Agent John Mark Sta. Ana Calilung, and senator-judge scrutiny of the authentication, context, and legal framing of recordings connected to statements by Vice President Sara Duterte. The court played selected portions of November 23 and October 18, 2024 recordings, while Calilung testified that he screen-recorded source videos, compared the recordings manually, and generated hash values for the recorded files. The defense challenged copies, unreadable or missing attachments, leading questions, and the loss of context from selected clips; the court allowed the presentation to continue in many instances but left document admissibility for formal offer. Still open were a possible prosecution request to call Duterte, a tabled motion to strike part of a prosecution response, the defense's possible presentation of the complete November 23 recording, and Calilung's cross-examination on July 8.
 
 - [00:35:16 · S00095](../index.html?t=2116.91#S00095)
 - [00:36:43 · S00101](../index.html?t=2203.4#S00101)
@@ -26,6 +26,43 @@ The July 7 session centered on the direct examination of the prosecution's first
 - [04:24:27 · S01538](../index.html?t=15867.19#S01538)
 - [00:19:01 · S00049](../index.html?t=1141.96#S00049)
 - [00:19:39 · S00050](../index.html?t=1179.49#S00050)
+- [01:59:10 · S00596](../index.html?t=7150.68#S00596)
+- [02:00:21 · S00607](../index.html?t=7221.9#S00607)
+- [02:00:28 · S00608](../index.html?t=7228.65#S00608)
+- [02:00:30 · S00609](../index.html?t=7230.33#S00609)
+- [02:00:34 · S00610](../index.html?t=7234.77#S00610)
+- [02:02:55 · S00639](../index.html?t=7375.33#S00639)
+- [02:03:01 · S00641](../index.html?t=7381.15#S00641)
+- [02:59:02 · S01016](../index.html?t=10742.45#S01016)
+- [03:12:44 · S01074](../index.html?t=11564.55#S01074)
+- [03:08:29 · S01047](../index.html?t=11309.07#S01047)
+- [03:08:59 · S01055](../index.html?t=11339.66#S01055)
+- [03:16:53 · S01089C](../index.html?t=11813.36#S01089C)
+- [03:18:12 · S01115](../index.html?t=11892.54#S01115)
+- [03:19:02 · S01121](../index.html?t=11942.94#S01121)
+- [03:19:10 · S01122](../index.html?t=11950.24#S01122)
+
+## Senator-judge observation
+
+Raffy Tulfo distinguished between playing a video in court and treating it as evidence, and said the rule he cited did not require the entire record to be shown at that stage.
+
+- [02:02:55 · S00639](../index.html?t=7375.33#S00639)
+- [02:03:01 · S00641](../index.html?t=7381.15#S00641)
+
+## Senator-judge question
+
+Risa Hontiveros asked how the statements supported impeachment when the presentation had not shown that an assassin was actually contracted; she later clarified that her intervention concerned materiality and was not a closing statement.
+
+- [02:59:02 · S01016](../index.html?t=10742.45#S01016)
+- [03:12:44 · S01074](../index.html?t=11564.55#S01074)
+
+## Senator-judge motion
+
+Pia Cayetano moved to strike a prosecution response she considered improper. The chair tabled the motion rather than resolving it during the sitting.
+
+- [03:08:29 · S01047](../index.html?t=11309.07#S01047)
+- [03:08:59 · S01055](../index.html?t=11339.66#S01055)
+- [03:13:24 · S01077](../index.html?t=11604.05#S01077)
 
 ## What happened
 
@@ -47,26 +84,6 @@ Prosecution counsel Lorna Kapunan described the Vice President as a prospective 
 Prosecutor Lorenz Defensor introduced Article Four as alleging threats and related constitutional offenses. The chair immediately instructed senator-judges that his introduction was not evidence. It then denied the defense motion to strike the remarks while repeating that they must not be treated as evidence.
 
 - [00:28:19 · S00078](../index.html?t=1699.88#S00078)
-- [00:32:45 · S00080](../index.html?t=1965.19#S00080)
-- [00:33:53 · S00083](../index.html?t=2033.21#S00083)
-
-## The court's directions
-
-The presiding officer treated the 16-vote threshold as a ruling of the chair that remained in force because it had not been objected to or appealed by a member of the court.
-
-- [00:10:36 · S00026](../index.html?t=636.22#S00026)
-
-## The court's directions
-
-The chair ruled that the impeachment rules did not require the respondent to attend hearings while represented by counsel and said the court would decide any request to call or subpoena her only after a motion was filed.
-
-- [00:19:39 · S00050](../index.html?t=1179.49#S00050)
-
-## The court's directions
-
-The court allowed Defensor five minutes for an Article Four introduction and promised the defense the same opportunity. It expressly directed that the introduction was not evidence. It denied the defense request to strike the remarks while preserving that instruction.
-
-- [00:26:54 · S00073](../index.html?t=1614.59#S00073)
 - [00:32:45 · S00080](../index.html?t=1965.19#S00080)
 - [00:33:53 · S00083](../index.html?t=2033.21#S00083)
 
