@@ -44,7 +44,7 @@ matter before the Impeachment Court. Case number 004-2026 in the matter of Impea
 **[00:09:24.600] Sen. Francis “Chiz” Escudero**  
 Appearances for the prosecution.
 
-**[00:09:32.790] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:09:32.790] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Good afternoon, Your Honors. Same appearance for the prosecution. We are ready, Your Honor.
 
 **[00:09:38.500] Atty. Michael Wesley Poa**  
@@ -281,10 +281,10 @@ will
 **[00:39:43.160] Sen. Francis “Chiz” Escudero**  
 be answering. That's correct. So that we don't need to identify each one each time anymore for the record. The Honorable Jocno may respond to the question of Senator Judge Villanueva. You may proceed sir when you're ready. Thank you, Your
 
-**[00:39:53.980] Jose Manuel “Chel” I. Diokno**  
+**[00:39:53.980] Rep. Jose Manuel “Chel” I. Diokno**  
 Honor. Good afternoon to all the members of this honorable court. Naisagot na po ata yan na ni dating presiding Judge Juan Ponce Enrile. Doon po sa corona impeachment case and if I may quote just a brief portion from what he said, I would like to explain that the resolution of this court was simply to authorize the issuance of a
 
-**[00:40:14.670] Jose Manuel “Chel” I. Diokno**  
+**[00:40:14.670] Rep. Jose Manuel “Chel” I. Diokno**  
 subpoena and whether those evidence subpoenaed are admissible evidence given the fact that they apparently appeared in violation of existing laws is a question that must be resolved in due course. So ang ibig po sabihin, ang hiling lang po ng prosecution ay May labas ang ebidensya, pero wala pa po tayo dun sa punto kung tatanggapin ba nitong hukuman ang evidence na iyon, kung siya po ay admissible o hindi.
 
 **[00:40:41.960] Sen. Joel Villanueva**  
@@ -299,7 +299,7 @@ Well, at least malinaw po: the issuance of a subpoena is not necessarily the ope
 **[00:42:51.120] Sen. Joel Villanueva**  
 also recognize that the court has a duty naman to determine whether the records being sought are sufficiently relevant and material to the issues before us. So, Representative Jock, maaari po ba ninyong ipaliwanag kung paano ninyo tiniyak na ang hinihingi ng mga records ay hindi po simpleng paghahanap lamang ng posibleng ebidensya o tinatawag na phishing expedition Ito po ay mga particular na dokumento na sa tingin po ninyo ay meron pong malinaw at direct ang kaugnayan dito po sa mga articles of impeachment.
 
-**[00:43:36.380] Jose Manuel “Chel” I. Diokno**  
+**[00:43:36.380] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you, Your Honor. Ang hinihiling po namin sa mga sabbina ay kaugnay sa Article 2, which involves charges of unexplained wealth. Kung titignan po natin yung mga jurisprudence pagdating sa unexplained wealth, klarong-klaro po Na sinabi mismo ng Korte Suprema, na kailangan makita yung buong larawan, hindi lamang po ng mga SAL-N na finile ng isang lingkod bayan, kung hindi lahat ng kanyang kinita, both what we would call lawful and if there is, illegitimate income. Ang SAL-N po kasi ay parang snapshot lang po yan, year-end kung ano yung mga assets, liabilities, and net worth ng isang government official. Ang ITR din po ay parang short video lang po yan ng mga transaksyon ng isang taxpayer sa kabuuan ng taon na iyon. Makikita lang po natin yung buong larawan pag nailabas natin ang mga bank records. Kasi doon po, yung day-to-day na lumabas at pumasok sa isang account ay mabubuo po natin. And in fact, in the case of DOF RIPs versus Merensilia, Ito lang pong portion ang babasahin ko. Sabing ganun ng Supreme Court, The failure of the complainant to take into consideration Respondent Rafael's net worth from the time he entered government service and the failure to take into consideration all of his possible sources of income in relation to his real and personal properties do not support the conclusion that he has unexplained wealth. Considering that his true net worth was not determined, Ito po ay sabi ng Supreme Court, ombudsman, hindi niyo nagawa yung inyong trabaho. Kaya ayaw po namin tumulad sa nangyari kay ombudsman dito sa kasong ito. We want to see the entire picture. Kaya po namin hinihingi yung BIR records, pati yung mga bank records, and even the Anti-Money Laundering Council records. Para makita po natin yung buong story as far as both the assets liabilities and net worth are concerned and the lawful and if there is unlawful income acquired by the respondent.
 
 **[00:46:03.160] Sen. Joel Villanueva**  
@@ -308,7 +308,7 @@ Last question sa prosecution. Sir, binanggit po kanina nung defense panel yung r
 **[00:46:50.940] Sen. Joel Villanueva**  
 May we know what led the prosecution to conclude that the issuance of subpoena is the least intrusive and most appropriate means of obtaining the information sought? In other words, Your Honor, paano po ninyo masasabi na itong subpoena is not only relevant but also necessary and the proportionate under these circumstances.
 
-**[00:47:20.820] Jose Manuel “Chel” I. Diokno**  
+**[00:47:20.820] Rep. Jose Manuel “Chel” I. Diokno**  
 Ang sabi nga po, ang tanging paraan para makuha ng hukumang ito ang mga kinakailangan po nating datos, impormasyon, at dokumento ay sa pamamagitan ng subpoena. At hindi naman po siya intrusive dahil, tulad ng nabanggit ko po kanina, hindi pa naman ito question of admissibility. Ang kailangan lang ay ma-produce sa korte yung mga dokumentong hinihingi. The issue of admissibility will come later and the defense will have sufficient opportunity to object and to oppose. Ngayon po, as far as the particular records that we are requesting are concerned, ito'y nakabatay nga sa nabanggit ko pong desisyon ng Supreme Court na pag tinitingnan natin ang issue ng unexplained wealth, hindi lang po pwedeng snapshot ang titignan natin. Kailangan mula sa unang araw ng paglingkod ng isang lingkod bayan,
 
 **[00:48:52.320] Sen. Joel Villanueva**  
@@ -386,28 +386,28 @@ Stonehill and the other petitioners filed a petition before the Supreme Court ar
 **[01:07:26.990] Sen. Pia S. Cayetano**  
 Applicable po ba ang kaso na ito? Yield versus yoke, no? As far as the prosecution is concerned. And then also for defense, applicable. Take note, I've read most of the pleadings. Well, all of the pleadings. Mahahaba sila. I kinda know your answer. But sa dami, I like to hear it again. And I think, of course, karamihan ng kababayan natin did not read it. So explain natin sa kanila. Because this is a landmark case. Kung ikaw ay law student na magbabar, Ito yung mga kasong titingnan mo. So malay mo, matanong yan sa BAR. So nakatulong man lang tayo dun sa mga BAR students na maliwanagan sila. Baka mamaya trick question to. Is it applicable or not? That is my question. I will sit down and then I will come back for my next. Thank you.
 
-**[01:08:10.260] Jose Manuel “Chel” I. Diokno**  
+**[01:08:10.260] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you, Your Honor. If I may be recognized?
 
 **[01:08:13.220] Sen. Francis “Chiz” Escudero**  
 The member of the panel of prosecutors may proceed to give his answer thereafter. The counsel for respondent may do so as well.
 
-**[01:08:21.580] Jose Manuel “Chel” I. Diokno**  
+**[01:08:21.580] Rep. Jose Manuel “Chel” I. Diokno**  
 Iba po ang konteksto ng search warrant. Thank you very much.
 
-**[01:08:40.000] Jose Manuel “Chel” I. Diokno**  
+**[01:08:40.000] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you very
 
-**[01:08:41.400] Jose Manuel “Chel” I. Diokno**  
+**[01:08:41.400] Rep. Jose Manuel “Chel” I. Diokno**  
 much.
 
-**[01:08:45.880] Jose Manuel “Chel” I. Diokno**  
+**[01:08:45.880] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you very much.
 
-**[01:08:50.940] Jose Manuel “Chel” I. Diokno**  
+**[01:08:50.940] Rep. Jose Manuel “Chel” I. Diokno**  
 Person involved, pwedeng halongkatin yung lahat ng mga gamit niya doon sa kanyang opisina o sa kanyang bahay. Kaya po naglagay ng maraming limitasyon ang ating konstitusyon dahil maraming ng pang-aabuso, maraming ng mga halimbawa ng pang-aabuso na nangyari kahit noon pa. Iba po ang pinag-uusapan natin ngayon. Ang pinag-uusapan natin ngayon ay sub-pina. Hindi po ito licensed to enter an office or to search.
 
-**[01:09:21.530] Jose Manuel “Chel” I. Diokno**  
+**[01:09:21.530] Rep. Jose Manuel “Chel” I. Diokno**  
 Therefore, the contexts are very different when we speak of a search warrant. I do agree there should be very specific limitations on how that warrant can be enforced, which basically provide that for a subpoena to be valid, it must be relevant and it must be definite. Ibig po sa relevance ay may kinalaman, na may kaugnayan yan sa mga kailangang patunayan na facts. At pagdating naman sa definiteness, klaro kung anong mga iba't ibang dokumento ang hinihingi. In our case, we respectfully submit, Your Honors, that we have met both the standards of relevance and materiality. The BIR records, the bank records, and the records of the Anti-Money Laundering Council are relevant to the facts in issue pertaining to the charges of unexplained wealth. Hindi po natin malalaman kung talagang merong unexplained wealth ang Vice President kung hindi natin mabubuksan yung kanyang mga bank records, kung hindi rin natin makikita at mailalatag ang anti-money laundering at BIR records po nila. And insofar as definiteness is concerned, we have specified the particular documents that we are requesting and we have included as well an explanation of why those are important. Kaya sa aming pananaw po ay we have satisfied the requirements for a subpoena duces tecum. Thank you.
 
 **[01:11:11.340] Sen. Pia S. Cayetano**  
@@ -437,10 +437,10 @@ It requires that pasukin yung bahay, halughugin yung gamit, pero hindi kaya inva
 **[01:12:58.420] Sen. Francis “Chiz” Escudero**  
 Counsel for the panel for prosecutors, may I answer?
 
-**[01:13:06.320] Jose Manuel “Chel” I. Diokno**  
+**[01:13:06.320] Rep. Jose Manuel “Chel” I. Diokno**  
 Yung pong search warrant, kung ano man na makuhang ebidensya doon, ay directly admitted and that is now considered as evidence by the court that issued the search warrant. Ngayon, nasa mga partido na, and I refer to both parties, to decide which of those documents may be relevant in terms of the evidence that they need to present.
 
-**[01:13:35.660] Jose Manuel “Chel” I. Diokno**  
+**[01:13:35.660] Rep. Jose Manuel “Chel” I. Diokno**  
 Which of those documents may be relevant in terms of the evidence that they need to present? Yun pong nakikita po natin sa SABPINA, it is not in any way invasive because as I mentioned earlier and as pointed out by Senator Enrile when he was the presiding officer in the corona trial, we are simply having those documents produced. The admissibility of those documents Will only be determined after if offered by the parties. Kaya po sa aming mga pananaw ay malaking malaki ang pagkaiba ng search warrant sa subpina.
 
 **[01:14:17.530] Sen. Francis “Chiz” Escudero**  
@@ -458,7 +458,7 @@ Jeremy
 **[01:16:55.270] Atty. Michael Wesley Poa**  
 So, pero dito, hinihingi natin 20 years worth of records. And then, papano po yun? Hihimayin natin, maghahanap tayo ngayon kung may relevant o wala. Which brings me back to yung BIR records. Nakaseal po yung box. So, I would say, both parties, hindi natin alam kung anong nasa loob nun. Yet, we're hoping, na somehow, pag nabuksan yung box na yun, meron po tayong makikitang ebidensya. And that's why, Again, with all due respect, we called it a fishing expedition. Kasi hindi naman na-identify kung ano mismo doon yung pwedeng ebidensya laban sa sinasabing unexplained wealth ng vicepresidente. So, with the question, for us, yes, the Stonehill case, Stonehill v. Diokno, directly applies to the current proceedings. Kasi nga po doon, sinasabi talaga na dapat Specified yung hinihingi, particularly described and relevant. But as of this point, they're asking your honors for all of these things. And again, while they specified each and every document, kung babasahin niyo po ng mabuti ito, they're actually asking for all bank records without, in fact, telling us which transaction is relevant to their acquisition. Which transaction will actually support their acquisition? Yun po yung aming pananaw dito sa tanong ng ating kagalang-galang hukom. Thank you po.
 
-**[01:18:29.800] Jose Manuel “Chel” I. Diokno**  
+**[01:18:29.800] Rep. Jose Manuel “Chel” I. Diokno**  
 If Your Honor, please may be allowed to respond.
 
 **[01:18:34.800] Sen. Francis “Chiz” Escudero**  
@@ -476,19 +476,19 @@ Judge Pia, you asked a question, they answered. It is not for the opposing counc
 **[01:19:12.520] Sen. Pia S. Cayetano**  
 Sige, my question is, what is your question? Or what is your comment? Go ahead.
 
-**[01:19:16.760] Jose Manuel “Chel” I. Diokno**  
+**[01:19:16.760] Rep. Jose Manuel “Chel” I. Diokno**  
 But
 
 **[01:19:17.260] Sen. Pia S. Cayetano**  
 keep it brief. Keep it brief.
 
-**[01:19:18.780] Jose Manuel “Chel” I. Diokno**  
+**[01:19:18.780] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you so much, Your Honor. I just wanted to point out that this is the first time, actually, an impeachment court is faced with the challenge of determining whether the charges of unexplained wealth are valid or not.
 
-**[01:19:34.330] Jose Manuel “Chel” I. Diokno**  
+**[01:19:34.330] Rep. Jose Manuel “Chel” I. Diokno**  
 Previous corona case, hindi po pinayagan ng impeachment court yung Article 2.4 ng Article 2. At kung ang magiging batayan po natin ay yung naging mga desisyon ng ating Korte Suprema, sinabi mismo ng Supreme Court in several cases na pag ang usapin ay unexplained wealth, kailangan makita yung kabuoan ng kinita ng isang lingkod bayan at yung mga dineclare niya sa salihan. Just to quote just a very short portion, sabi ng Supreme Court, from the same case I cited earlier, the
 
-**[01:20:09.900] Jose Manuel “Chel” I. Diokno**  
+**[01:20:09.900] Rep. Jose Manuel “Chel” I. Diokno**  
 ombudsman's failure to account for all lawful sources of income, including proceeds from business ventures and government benefits, further weakens the allegation that Rafael's wealth was unexplained. The incomplete assessment disregarded his accumulated assets over decades of public service, making it impossible to determine whether his property acquisitions exceed his legitimate financial capacity." Hindi lang naman po dito sa harapan nitong hukom na ginagawa yung pagtingin sa kabuuan ng isang lingkod bayan. The Supreme Court has done it in this case where they looked at decades of the financial records of the person charged with unexplained wealth and it has also happened in the cases of Rabusa, And Ligot, which were decided recently by the Honorable Court. Thank you.
 
 **[01:21:05.530] Atty. Michael Wesley Poa**  
@@ -557,16 +557,16 @@ Pagdating po kasi doon, there was an allegation of unexplained wealth. Pero wala
 **[01:31:55.790] Atty. Michael Wesley Poa**  
 Naghanap ng mga ebidensya na sakaling makasuporta doon sa aligasyon na iyon. That's very important for us because we had already filed our answer before AMLOC documents were suddenly produced to the issuance subpoenas, before the BIR box that we are concerning ourselves with was presented before the Committee on Justice. Nasa panahon na iyon, tapos na po kami sumagot. In fact, When they were saying that it was a non-answer, to be very candid with everyone, we wanted to say because it was a non-complaint. Kasi walang ultimate facts na naka-allege for us to even answer. Now, before this honorable court, I do recall that in our answer, we also took pains to discuss the lack of ultimate facts and also What we feel were violations of due process before the Committee on Justice or at least with the proceedings that were conducted before the Committee on Justice. And that is also why we have a pending motion for exclusion na ikinalikip namin dun sa answer precisely because we were objecting to the fact that these pieces of evidence were produced after we had already filed our answer. Now on the fishing expedition, I think on the fishing expedition, your honors, our main point is this, even if we read the twin requests for subpoenas, ulit-ulit po, nakasulat po doon, because this may show context, because this may prove something. At para sa atin, this only shows, and at least, again, on the part of the defense, This is somewhat already an admission na hindi pa nga nila alam kung ano mismo doon sa mga hinihingi nila ang pwedeng sumuporta sa mga aligasyon na unexplained wealth. And that's why if you read the entire request, it uses the word may several times and it even says in one paragraph, I think it's 3.24, but I might be mistaken. That, at least with the request for, with their memorandum, rather, in their memorandum, nakasulat po doon that this does not assume wrongdoing, but they want those documents, nonetheless, to see if something there will actually help support their allegations. That is why we are calling it a fishing expedition. Dahil in Tagalog, para po maintindihan, sa aming pananaw, sa dami ng hinihing dokumento, Para po itong nagtatapon po tayo sa dagat ng isang napakalaking lambat at umaasa tayo na kahit papano may mabingwit kahit isang pirasong ebidensya. Maraming salamat po. Counsel for the panel of prosecutors, the Honorable Jocno.
 
-**[01:35:03.990] Jose Manuel “Chel” I. Diokno**  
+**[01:35:03.990] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you, Your Honors. The question propounded to this representation first is, what are the ultimate facts alleged in the articles of impeachment? Yun po ay nakasaad sa page 7 of the articles. And if I may be allowed to just read them briefly.
 
 **[01:35:21.910] Sen. Francis “Chiz” Escudero**  
 You may do so, counsel.
 
-**[01:35:23.450] Jose Manuel “Chel” I. Diokno**  
+**[01:35:23.450] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you, your honor. Respondent Vice President Sara Z. Duterte committed culpable violation of the Constitution and betrayed the public trust when she A. Amassed unexplained wealth, manifestly disproportionate to her lawful income and earnings during her incumbency as a public official. B. failed to fully and truthfully disclose all her and her spouse's assets, liabilities, and net worth in her statement of assets, liabilities, and net worth, including in her silence for the years 2022, 2023, and 2024, and failed to divest and instead willfully continued all her business interests during her tenure as Vice President for the years 2022, 2023, 2024 and 2025 Please allow me to briefly explain why these are ultimate facts. Ultimate facts are basically the essential factual elements that make up a party's cause of action or defense. Halimbawa po, pag-murder, treachery, evident premeditation, lahat ng mga kinakailangan ng batas para mapatunayan na murder po siya. In our case, we are alleging, first of all, unexplained wealth. And based on the jurisprudence, the elements of unexplained wealth, the factual elements are amassing unexplained wealth, manifestly disproportionate to one's lawful income and earnings during one's incumbency as a public official. So nasatisfy po namin yung requirement ng pag-allege ng ultimate facts or essential factual elements sa tatlong bagay na po ito. The evidentiary facts follow In the succeeding pages of the articles. Doon po namin dinitalie kung ano yung mga ibat-ibang paraan. Kung paano nakuha o naamas ni Vice President. Yun nga
 
-**[01:37:22.670] Jose Manuel “Chel” I. Diokno**  
+**[01:37:22.670] Rep. Jose Manuel “Chel” I. Diokno**  
 ang sinasabi natin na unexplained wealth. On to the issue of fishing expedition. Yun pong fishing expedition po ay alimbawa may sabina na baka sakali meron tayong makita. Yun po ang ibig sabihin ng fishing expedition. When the party requesting information does not know what might be produced and just as an off chance tries to use that instrument in order to gain evidence that may be used against the other party. Dito po, malaki ang pagkaiba ng sitwasyon. Maalala po ninyo, during the hearings before the Committee on Justice, the Executive Director of the Anti-Money Laundering Council testified and produced documents Showing that from 2007 up to the present, 6.7 billion pesos ang dumaan po sa account ni Vice President Sarah Duterte. On that basis, and if we go deeper into that report, it says that during the period from 2007 to 2013, during the time that she served as Mayor and Vice Mayor, umabot po sa halos o lampas tatlong bilyong piso ang dumaan. Sa kanyang mga accounts. So may basihan po tayo para ipalabas ang bank records. We are not just guessing that there is something there because the AMLA itself has confirmed that there were covered and suspicious transaction reports submitted to them in those amounts that I mentioned. Malayo po ang phishing expeditions sa ginagawa ng prosecution dito po. If we had no basis at all, if we did not know what was in the AMLA reports, ayun po, maaaring sabihin na phishing expedition. But in this particular case, we know because these are matters of record presented before the Committee on Justice. Second po, ang phishing expedition, maaaring magamit yan sa ibang mga aligasyon tulad ng baka meron kang hindi na-declare sa iyong salhen. But when it comes to issues of unexplained wealth, it's very clear. The decisions of the court are very clear. To know whether a government official has amassed unexplained wealth, we must look at the entire incumbency of that official. Starting from day one, we look at their salen, we look at all the income that he or she has earned, both lawful and not, and from there we make a determination. Whether there was unexplained wealth or not. For these reasons, Your Honors, the fishing expedition argument in our view is totally untenable.
 
 **[01:40:15.730] Sen. Francis “Chiz” Escudero**  
@@ -590,7 +590,7 @@ And during our caucus, isa din sa lumabas na discussion, pero allowed ang AMLC a
 **[01:44:26.150] Sen. Francis “Chiz” Escudero**  
 Council for the panel of prosecutors will please respond.
 
-**[01:44:30.090] Jose Manuel “Chel” I. Diokno**  
+**[01:44:30.090] Rep. Jose Manuel “Chel” I. Diokno**  
 Your Honor, Section 8A of the Anti-Money Laundering Law is really intended to prohibit or prevent leaks by officials of the Anti-Money Laundering Council. But it was never intended to prevent subpoenas coming from courts, including the impeachment court. Almost every week, the Sandigan Bayan issues subpoenas for AMLA records. And despite what would appear to be a very categorical prohibition contained in that section, every time subpoenas are issued by the Sandigan Bayan, they are honored by the AMLA, and no one is questioning them. Ganun din po itong impeachment court. The subpoena issued by this impeachment court is for the purpose of determining accountability based on the power that is expressly given by the Constitution. Ang amin pong paniwala is that confidentiality cannot trump accountability. Thank you.
 
 **[01:45:31.890] Sen. Francis “Chiz” Escudero**  
@@ -632,19 +632,19 @@ Two elements were discussed in this case. The act charged must be impeachable un
 **[01:52:32.360] Sen. Alan Peter Cayetano**  
 during the term of the impeachable officer. You commented on that. Can you elaborate or give your stand regarding it? I think you agree with letter A, right? That the charge must be an impeachable offense. I mean, we all agree on that, right?
 
-**[01:52:43.880] Jose Manuel “Chel” I. Diokno**  
+**[01:52:43.880] Rep. Jose Manuel “Chel” I. Diokno**  
 Well, I would distinguish, Your Honor, please, between what we would call ratio decidendi, or the rule in that particular case, and obiter dicta, which are side comments or incidental remarks made in the opinion of the court. If we are speaking of the ratio decidendi of the Duterte v. House of Representatives case, I would have to disagree that it relates to the statements that you mentioned. My understanding of that case is it really relates to the first mode of impeachment and the procedures that must be followed: the one-year ban provided in the Constitution; how that will be applied when impeachment complaints are filed by at least one-third of the members of the House of Representatives. Iyong pong nabanggit nila that the basis of any charge must relate to the incumbency of the official, in my view, that is obiter dicta, not necessary for the decision of the case.
 
 **[01:53:38.060] Sen. Alan Peter Cayetano**  
 I appreciate your answer. We'll go to that.
 
-**[01:53:39.340] Jose Manuel “Chel” I. Diokno**  
+**[01:53:39.340] Rep. Jose Manuel “Chel” I. Diokno**  
 But regardless
 
 **[01:53:40.140] Sen. Alan Peter Cayetano**  
 of the Duterte v. House of Representative ruling, we do agree with Letter A. The act charged must be an impeachable offense under Article 11.2 of the Constitution. I would agree, but if I may be allowed to just qualify— No, this is just a general, this is not a trap question. So the officer has to be impeachable, and the acts charged should be an impeachable offense. And since you have betrayal of public trust, that's quite broad. So this is not a trap question, this is just laying the basis. But go ahead if you want to comment on that.
 
-**[01:54:12.240] Jose Manuel “Chel” I. Diokno**  
+**[01:54:12.240] Rep. Jose Manuel “Chel” I. Diokno**  
 Yes, the acts charged must constitute an impeachable offense, and that power to decide— What is an impeachable offense is lodged exclusively with this honorable court. Okay. So, you
 
 **[01:54:25.300] Sen. Alan Peter Cayetano**  
@@ -653,13 +653,13 @@ disagree that part of the ratio decidendi is the act must be committed during th
 **[01:55:21.000] Sen. Alan Peter Cayetano**  
 The statement that the act must be committed during the term of the impeachable officer is not the law of the land. It's an obiter dictum.
 
-**[01:55:28.280] Jose Manuel “Chel” I. Diokno**  
+**[01:55:28.280] Rep. Jose Manuel “Chel” I. Diokno**  
 In the first place, if your honor, please, that was not the exact statement of the court. The court said the basis of the charge must relate to the incumbency of the impeachable official, which does not rule out the presentation of evidence of acts or omissions that occurred before the person became an impeachable officer.
 
 **[01:55:50.580] Sen. Alan Peter Cayetano**  
 Judicial notice of the, as you said more eloquently and correctly, the acts during her term. So can you define, you defined this in your opening statement, but for the sake of this discussion, an obiter dictum is what?
 
-**[01:56:05.740] Jose Manuel “Chel” I. Diokno**  
+**[01:56:05.740] Rep. Jose Manuel “Chel” I. Diokno**  
 It's a side comment, Your Honor, that is not necessary for the resolution of that case.
 
 **[01:56:10.620] Sen. Alan Peter Cayetano**  
@@ -671,16 +671,16 @@ The prosecution characterized characterization of the requirement that the basis
 **[01:57:34.420] Sen. Alan Peter Cayetano**  
 But in the court of appeals, Villanueva v. Court of Appeals, in that case, the Supreme Court held An adjudication on any point within the issues presented by the case cannot be considered an obiter dictum, even where the point is only incidentally involved. So we agree if it's incidental, pwedeng obiter. But if it's on point within the issues, sabi ng Villanueva case, it is not. So long as it is presented and decided in the regular course of the consideration of the case and led up to the final conclusion. Or is a statement as to the matter of which the decision is predicated. The court added that a point expressly decided does not lose its value as a precedent because the disposition of the case is or might have been made on some other ground. And that where a court decides several points, none of such points can be regarded as having the status of a dictum. And one point should not be denied authority Merely because another point was and more dwelt on and more fully argued and considered. So, going back to the Duterte v. House of Representatives, the requirement that an impeachable act be committed in relation to their office and during the current term was not a remark made by the way. The Supreme Court and Bank laid it down as one of the enumerated principles that due process requires. which is the very ground on which the ruling was predicated. Even if the court also struck down the 2025 impeachment complaint based on the one-year bar, so this is the question. Does it not render the due process requirement laid out as a mere obiter dicta or because it's based on due process, regardless of the mode of initiation, regardless of the mode of how the articles of impeachment got here, Isn't due process still a requirement?
 
-**[01:59:37.330] Jose Manuel “Chel” I. Diokno**  
+**[01:59:37.330] Rep. Jose Manuel “Chel” I. Diokno**  
 If I may be recognized, Your Honor? Yes,
 
 **[01:59:39.210] Sen. Francis “Chiz” Escudero**  
 counsel for the panel of prosecutors may respond.
 
-**[01:59:41.750] Jose Manuel “Chel” I. Diokno**  
+**[01:59:41.750] Rep. Jose Manuel “Chel” I. Diokno**  
 Precisely, Your Honor, if a matter is within the issues resolved by the court, then it may not be considered as obiter dicta. But if we look at the decision in the case of Duterte v. House of Representatives, ang mismong nangyari po doon ay may naunang Ito
 
-**[02:00:00.120] Jose Manuel “Chel” I. Diokno**  
+**[02:00:00.120] Rep. Jose Manuel “Chel” I. Diokno**  
 ang dalawang complaints that were endorsed at may sumunod na complaint filed by at least one-third of the members of the House. At yun yung tinutukan po ng ating Supreme Court. It was in that context that the Supreme Court made pronouncements about the one-year bar and even about due process. At no time in that case was it ever a fact in issue about the mode of impeachment that is involved in our case today. Ang pinag-uusapan po natin dito ay individual complaints that were then referred by the House to the Committee on Justice, heard by the Committee, and then brought back to the plenary, and eventually umabot po dito through articles of impeachment. So kahit may sinabi ang Supreme Court about impeachable offenses in relation to the charges, kami po ay naniniwala na hindi po yan pumapasok o sumasakok. Sa issues that were decided in that case.
 
 **[02:01:00.320] Sen. Alan Peter Cayetano**  
@@ -689,19 +689,19 @@ I'll not argue with you because that's not my job here. I'll follow the Pia Caye
 **[02:01:17.530] Sen. Alan Peter Cayetano**  
 Is it not logical that it's the same legal principle on due process even if you use another mode?
 
-**[02:01:23.730] Jose Manuel “Chel” I. Diokno**  
+**[02:01:23.730] Rep. Jose Manuel “Chel” I. Diokno**  
 First of all, if your honors please, when we speak of due process, of course, there are two types. Substantive and procedural due process. And when we speak of substantive, we're talking about protections to life, liberty, and property. Wala naman pong ganun na issue po dito sa atin because office is not a property. We're not talking about the life or liberty of the respondent. Ang pinag-uusapan po natin dito kung due process ang issue ay simply fundamental fairness. And I do believe that This proceeding does require fundamental fairness, but at the same time, it does not require that this court be hamstrung in terms of how to decide whether an offense is impeachable or not. That power is exclusively given to this court at dapat kayo lang po ang magdesisyon at magpasya kung ano nga ba yan. So when we speak of what is an impeachable offense, May kaugnayan po yan doon sa nabanggit ninyong the basis of the charge must relate to the incumbency because in our view that is really something that each member of this honorable court will have to decide when the time comes.
 
 **[02:02:36.840] Sen. Alan Peter Cayetano**  
 Later on I'll ask you that question whether or not what if ever can the Supreme Court decide or what of their pronouncements will be applicable to this court and that but my point is if we're saying that Pag ang mode of initiation is by one-third na pumirma diretsyo at ang nakalagay doon committed in relation to their office during the current term, wouldn't it be illogical if you use another mode and pwedeng hindi committed in relation to their office and during their current term? I don't think the Supreme Court would be illogical in saying this is the principle for due process in this mode but not in this other mode.
 
-**[02:03:20.070] Jose Manuel “Chel” I. Diokno**  
+**[02:03:20.070] Rep. Jose Manuel “Chel” I. Diokno**  
 Even if we assume, Your Honor, that that is not obiter, the statement that the basis of the charge must relate to the incumbency of the impeachable officer, we submit that that still applies and we have satisfied that test. As I mentioned in my opening statement, integrity cannot be divided. Hindi po pwedeng biyakyan ng integridad.
 
 **[02:03:46.510] Sen. Alan Peter Cayetano**  
 President, an ombudsman, a COA chair who's, let's say, 60 years old but he started in government at 20 years old, he can be impeached by something he's done when he was 20 to 30, not only on what he's done when he was already an impeachable officer?
 
-**[02:04:02.950] Jose Manuel “Chel” I. Diokno**  
+**[02:04:02.950] Rep. Jose Manuel “Chel” I. Diokno**  
 If we are speaking about unexplained wealth, Your Honor, I have repeatedly cited the cases of the Supreme Court that provide that we must look From the reckoning of the first day of service of that public official, look at all the income that person has amassed and determine whether it is manifestly disproportionate to the lawful income that he has reported. Yes, I agree in terms
 
 **[02:04:26.360] Sen. Alan Peter Cayetano**  
@@ -710,7 +710,7 @@ of holding that person liable and accountable. But what I'm saying is that, let'
 **[02:04:42.570] Sen. Alan Peter Cayetano**  
 Isn't the remedy for all these other positions that weren't impeachable is through the regular courts and regular case build-up, etc. But once you're an impeachable officer, you're being held accountable during the term that you are, in fact, an impeachable officer because usually when you're an impeachable officer, it's too hard to prosecute you the normal way. Isn't that the logic there or you disagree, counsel?
 
-**[02:05:12.640] Jose Manuel “Chel” I. Diokno**  
+**[02:05:12.640] Rep. Jose Manuel “Chel” I. Diokno**  
 I would have to respectfully disagree. Ang pinag-uusapan po natin kasi dito ay betrayal of public trust. And I think it's very clear that when we speak of betrayal of public trust, essentially we are looking at whether the public official is fit or unfit to continue in service. Kung siya po ay nakapag-amas ng unexplained wealth nung siya ay vice mayor o mayor na umabot sa bilyong-bilyones, I think that would have a very big impact on the Court's decision. Whether that person should continue in office or whether they are fit to have that office. With
 
 **[02:05:48.380] Sen. Francis “Chiz” Escudero**  
@@ -752,7 +752,7 @@ With the permission of Senator Judge Allen, I would just like to get the assent 
 **[02:19:47.190] Sen. Francis “Chiz” Escudero**  
 Furnish whenever it shall so desire because this issue as pointed out by Senator Judge Cayetano will linger until the end of the proceedings without prejudice to the counsel from the panel of prosecutors to so furnish also senator judges with their rejoinder to this document being furnished to the senator judges. Is that okay?
 
-**[02:20:07.620] Jose Manuel “Chel” I. Diokno**  
+**[02:20:07.620] Rep. Jose Manuel “Chel” I. Diokno**  
 Your Honor, I believe that first of all may we request for a copy of that document. I believe that document refers to the office of the spokesperson of the Supreme Court. In which case, Your Honor, we would have to interpose an objection. Because any interpretation by the office of the spokesperson is not binding on the Supreme Court. What we must look at are the actual text of the decision.
 
 **[02:20:34.180] Sen. Francis “Chiz” Escudero**  
@@ -773,13 +773,13 @@ Judge, Senator Judge Alan Cayetano, you may proceed, sir. Yes, and presiding off
 **[02:21:00.040] Sen. Alan Peter Cayetano**  
 to be fair to the, I wouldn't have objected if you objected to the distribution, but realistically, we won't have time to read it because magro-ruling na after. So, it'll be more of reference materials. But feel free also to, if you feel that you should submit in writing a rejoinder to be fair to everyone. So, if the voting was tomorrow and it would be unfair to distribute it. So, can I ask the same question, Congressman? So, I read, it's the first few paragraph, no? Sabi kasi dito, you heard me naman, no? You want me to read it again?
 
-**[02:21:37.700] Jose Manuel “Chel” I. Diokno**  
+**[02:21:37.700] Rep. Jose Manuel “Chel” I. Diokno**  
 If I may be allowed to respond already to the question. First of all, Your Honor, I think we must point out one of the plainest reasons why that statement in the Duterte ruling is obiter dictum. And that simply is because there was no trial yet to speak of when the Supreme Court rendered that decision. Paano po magiging issue yung nangyayaring ngayon? Sa trial, samantalang nung dinesisyonan po yan ay wala pa pong trial. Therefore, any statements by the court about how the trial should be conducted are outside the issues of that case, and while they may be guidelines, they are not binding as judicial precedent to us and to the future generations. Actually, I was
 
 **[02:22:28.960] Sen. Alan Peter Cayetano**  
 referring to a different matter already, but just to that point, It's not how, it's what. It's paragraph 6. The basis of the charge must be for impeachable acts or omissions committed in relation to their office and during the current term of the impeachable officer. For the President and Vice President, these acts must be sufficiently grave amounting to the crimes described in Article 11, Section 3.1 of betrayal of public trust given by the majority of the electorate For the other impeachable officers, the acts must be sufficiently grave that they undermine and outweigh the respect for their constitutional independence and autonomy. So this doesn't really tell us how to conduct the trial. This basically tells us that if we don't follow that, we're endangered of having a trial that's void ab initio.
 
-**[02:23:22.760] Jose Manuel “Chel” I. Diokno**  
+**[02:23:22.760] Rep. Jose Manuel “Chel” I. Diokno**  
 I would have to respectfully disagree,
 
 **[02:23:25.240] Sen. Alan Peter Cayetano**  
@@ -794,13 +794,13 @@ apologize to Senator Judge Riza Mayfong-Felde. So, wala nga tong, you cannot app
 **[02:24:43.690] Sen. Alan Peter Cayetano**  
 legal issues involving impeachment proceedings are subject to judicial review. You disagree with this or you agree? In context ng sinabi mo kanina na it's within our power to make these decisions.
 
-**[02:24:57.890] Jose Manuel “Chel” I. Diokno**  
+**[02:24:57.890] Rep. Jose Manuel “Chel” I. Diokno**  
 I believe what is the controlling decisions there, Your Honor, are the cases of Gutierrez. and Francisco because in those cases the issue of what is an impeachable offense was squarely brought before the court and the court said very clearly that that is purely a political question that's not within the judicial power for us to decide and I believe that that should be the controlling jurisprudence.
 
 **[02:25:25.290] Sen. Alan Peter Cayetano**  
 So let me be more specific. So for example we issue some subpoenas and we do not issue some. Can one or both of you, meaning the prosecution and defense, go to the Supreme Court and question it?
 
-**[02:25:37.690] Jose Manuel “Chel” I. Diokno**  
+**[02:25:37.690] Rep. Jose Manuel “Chel” I. Diokno**  
 Well, there is always the possibility that some side, perhaps the defense, may claim that there is grave abuse of discretion, I believe, as they have done in their other petitions filed, and therefore make an attempt to stop the proceedings before this court. But as I have said last week, Your Honor, in our opinion, This Court has the sole and exclusive power to decide what an impeachable offense is, and no one, not even the Supreme Court, can dictate on this Court in making that decision.
 
 **[02:26:11.240] Sen. Alan Peter Cayetano**  
@@ -830,25 +830,25 @@ Just a quick review.
 **[02:28:29.330] Sen. Alan Peter Cayetano**  
 We're also governed by the rules of court when it comes to ultimate facts. This is what Section 1 says. In general, every pleading shall contain in a methodological and logical form a plain, concise, and direct statement of the ultimate facts, including the evidence. On which the party relies on his or her claim of defense, as the case may be, if a cause of action or defense relied on is based on law, the pertinent provisions thereof and their applicability to him or her will be clearly and concisely stated. So do, does the two councils agree that sa ultimate facts you have to include the evidence?
 
-**[02:29:06.190] Jose Manuel “Chel” I. Diokno**  
+**[02:29:06.190] Rep. Jose Manuel “Chel” I. Diokno**  
 I would make a distinction, Your Honor, between what we call ultimate facts and evidentiary facts. Which are the pieces of evidence that could be used to come to the conclusion or to decide whether those ultimate facts are present in the case or not?
 
 **[02:29:21.150] Sen. Alan Peter Cayetano**  
 I think all of us lawyers agree with that. There's a difference between ultimate facts and evidentiary facts. But the rules of court says, including evidence. Kasi kung walang including evidence, kailangan mo lang i-file ultimate facts. Pero pag sinabing kasama ang evidence, I don't... For me, it doesn't mean that every single testimony, every single document should be attached. So let me go to my second question. So pwede bang sa articles of impeachment, ultimate facts lang, walang naka-attached na evidence?
 
-**[02:29:56.940] Jose Manuel “Chel” I. Diokno**  
+**[02:29:56.940] Rep. Jose Manuel “Chel” I. Diokno**  
 Ang requirement po sa pleading ay doon na Pagdapat nakasaad ang ultimate facts. But if you look at the articles of impeachment that are before this court, it also contains evidentiary factual allegations to support the ultimate facts that are contained therein.
 
 **[02:30:14.540] Sen. Alan Peter Cayetano**  
 Thank
 
-**[02:30:14.640] Jose Manuel “Chel” I. Diokno**  
+**[02:30:14.640] Rep. Jose Manuel “Chel” I. Diokno**  
 you for that
 
 **[02:30:15.000] Sen. Alan Peter Cayetano**  
 answer. Actually, that was my next question. Did it contain and you answered it. So, with respect to the Sabalia and Cabrera impeachment complaints, is it correct that there was no authentic records that were attached when they were filed? Factual lang tong tanong ko.
 
-**[02:30:32.100] Jose Manuel “Chel” I. Diokno**  
+**[02:30:32.100] Rep. Jose Manuel “Chel” I. Diokno**  
 If your honor, please. First of all, I would have to raise an issue with respect to whether this honorable court is acting as an appellate or review court of what happened during the House proceedings. The power to initiate an impeachment complaint is exclusively lodged with the House, while the power to try and decide that impeachment case is exclusively lodged with this honorable court. And I don't believe that it is part of the function to go back to what may have happened during the proceedings before the House, since the articles have already been transmitted to this— Well,
 
 **[02:31:10.770] Sen. Alan Peter Cayetano**  
@@ -875,19 +875,19 @@ a fact. So it's in the records, Sen. Judge Allan.
 **[02:32:52.960] Sen. Alan Peter Cayetano**  
 In the absence of authentic supporting record, what factual basis did the prosecution rely on to say that allegations were sufficient in form and substance?
 
-**[02:33:04.760] Jose Manuel “Chel” I. Diokno**  
+**[02:33:04.760] Rep. Jose Manuel “Chel” I. Diokno**  
 If I recall correctly, Your Honor, please, there were some attachments to both complaints and I'm not aware of any rule in the House of Representatives as far as impeachment cases are concerned that limit the What may be discussed or investigated by the committee to only what is contained and attached to the impeachment complaint?
 
 **[02:33:28.150] Sen. Alan Peter Cayetano**  
 I'm not even questioning it. I'm asking questions on if there were authentic records. So I'll move on. In the complaint against President Bongbong Marcos, The finding was the complaint failed to establish any factual nexus between the President and an impeachable offense. What are presented were policy and disagreements and generalized accusations, not ultimate facts. Yun ang finding ng Committee on Justice. Correct?
 
-**[02:34:06.340] Jose Manuel “Chel” I. Diokno**  
+**[02:34:06.340] Rep. Jose Manuel “Chel” I. Diokno**  
 Yes, Your Honor. To the
 
 **[02:34:07.520] Sen. Alan Peter Cayetano**  
 best of
 
-**[02:34:07.880] Jose Manuel “Chel” I. Diokno**  
+**[02:34:07.880] Rep. Jose Manuel “Chel” I. Diokno**  
 my
 
 **[02:34:07.940] Sen. Alan Peter Cayetano**  
@@ -896,16 +896,16 @@ recollection. So that's my question. After answering that question, does the pro
 **[02:34:24.520] Sen. Alan Peter Cayetano**  
 Yes,
 
-**[02:34:26.680] Jose Manuel “Chel” I. Diokno**  
+**[02:34:26.680] Rep. Jose Manuel “Chel” I. Diokno**  
 Your Honor. And as I recall, when the members of the Committee examined the complaint filed against the President, the conclusion of the Committee was in fact that there were only conclusions of law contained in that complaint, not Allegations of Ultimate Facts Yes.
 
 **[02:34:44.860] Sen. Alan Peter Cayetano**  
 Yet, in that complaint, there were authentic documents attached, authentic records, and the House did not ask na masupina yung AMLA, BIR, and bank records of the President.
 
-**[02:35:04.220] Jose Manuel “Chel” I. Diokno**  
+**[02:35:04.220] Rep. Jose Manuel “Chel” I. Diokno**  
 The requirement, if Your Honor please, of Ultimate Facts is really based on what is alleged in the
 
-**[02:35:11.700] Jose Manuel “Chel” I. Diokno**  
+**[02:35:11.700] Rep. Jose Manuel “Chel” I. Diokno**  
 But what
 
 **[02:35:12.980] Sen. Alan Peter Cayetano**  
@@ -914,13 +914,13 @@ was the exact words of council? Ang katotohanan ay hindi confidential.
 **[02:35:19.870] Sen. Alan Peter Cayetano**  
 So why in the case of President Marcos is the katotohanan confidential but in the case of Vice President Sara, it's not confidential?
 
-**[02:35:29.410] Jose Manuel “Chel” I. Diokno**  
+**[02:35:29.410] Rep. Jose Manuel “Chel” I. Diokno**  
 Wala naman po akong maalala ng ruling ng committee in the case of the President na meron silang sinabing confidential. What I recall is that the Conclusion was that the complaint did not allege ultimate facts.
 
 **[02:35:44.310] Sen. Alan Peter Cayetano**  
 So there was a conclusion even before asking for all of this. But in this case, balikta, there was a conclusion that there's no nexus between the president and an impeachable offense. In this case, walang authentic documents pero humihingi ng supina kasi yung katotohanan hindi confidential. So, which goes to my Well, first, let me honor who I should honor because it seems that the Lisa Massa complaint which was endorsed by ACT party list was here kanina and I think Antonio Tino, I think Sara Elago was here last week and I think Representative Ko was here. So in their case kasi, I can say walang selective. Justice because they wanted the same standards of President and Vice President. So that's my next question. We want fairness for everyone and for the Filipino people, but would it be unfair to require 20 years of documents from AMLA, BIR, and bank accounts from Vice President Sara without requiring the same from President Bongbong considering that all of these scandals is happening during his administration?
 
-**[02:37:06.440] Jose Manuel “Chel” I. Diokno**  
+**[02:37:06.440] Rep. Jose Manuel “Chel” I. Diokno**  
 If the allegations of the complaint against the President did, in fact, contain ultimate facts, I would see no reason why the Committee on Justice should not have proceeded with it.
 
 **[02:37:17.480] Sen. Alan Peter Cayetano**  
@@ -947,22 +947,22 @@ This is really a discussion into what is substantial facts, what's ultimate fact
 **[02:41:54.630] Sen. Alan Peter Cayetano**  
 For example, you say that that commissioner, sa SAL-N niya, he only had two cars, but he actually has more than four. Therefore, panging supina para sa LTO. O that commissioner, ang sabi niya, isa lang ang bahay niya. Pero supina sa LRA kasi apat ang nakita namin. Kasi on the later examples, medyo mas malinaw yung ultimate facts. Pero yung pag sinabi mo lang, eto SAL-N, Ito tumaas, which was my point actually in my last few vlogs, that just because tumaas yung sal-en, that doesn't mean that there's ill-gotten wealth. But my question there was, does that give us now the authority to get the bank accounts, the AMLA and the BIR? Because whatever we do in the impeachment court is for impeachable officers. But nanonood din yung Sandigan Bayan, nanonood din yung RTC, MTC, nanonood din yung Supreme Court. So whatever rule we have here, that will influence then how we deal with barangay captains all the way to anyone who's not impeachable.
 
-**[02:43:02.990] Jose Manuel “Chel” I. Diokno**  
+**[02:43:02.990] Rep. Jose Manuel “Chel” I. Diokno**  
 For unexplained wealth, Your Honor, I believe the ultimate facts must include the following. First, that the person involved amassed wealth. Second, that that wealth is manifestly disproportionate
 
-**[02:43:19.210] Jose Manuel “Chel” I. Diokno**  
+**[02:43:19.210] Rep. Jose Manuel “Chel” I. Diokno**  
 So kailangan po natin makita kung ano yung kanyang kayamanan at kailangan natin ikumpara doon sa lehitimo niyang kinita. And that can be only determined by looking at the records that we are requesting from this honorable court. No,
 
 **[02:43:35.550] Sen. Alan Peter Cayetano**  
 but if you're just looking at the SAL-N at yung kinita niya, so I'll give you an example. I won't name the person para walang mag-react. But he was senator, I think in 1987, an outstanding human being. And he was telling us, etong lupa na ito nabili ko ng 1980 o 1970 na 50,000. Nabenta ko ng 1990. E kaya lang sa SAL-N, ang nakalagay kasi doon yung acquired cost. So nilagay ko 50,000. So kung titignan mo kami, then he named some great Other great senators, etc. Nakasabayan niya, congressman at dito. Titignan mo, si senator ganito, kami lahat. O ang sal-end namin, baka 5 million. Pero yung 100,000 na lupa na binili namin nun, baka 5 million, 20 million, 30 million. So if one of those officials suddenly sold the property and then placed the money that came in, so let's say the 100,000 property was sold for 5 million, but then, for example, pinag-blow out niya sa pamilya yung 500,000 before December 31 of that year, mag-i-increase yung kanyang SAL-N by 4.5 million. So if you just compare his income, na sweldo niya, with that, that will not show you that he has ill-gotten wealth. So compared na pagka-inallege ko na ang sweldo niya 200,000, eto, o, pero bakit may bahay siya sa ganito, ganito, ganito, nawala sa SAL-N niya. So I agree, nasundan natin yung ebidensya. If the salyen is much more than what you're making, that could spark your curiosity, your suspicion, and continue to investigate. But do you make the conclusion now and file the impeachment case that since malayo yung salyen sa income, therefore ilgaten yun, without giving that person a way to explain before you supina every single document about their lives?
 
-**[02:45:32.890] Jose Manuel “Chel” I. Diokno**  
+**[02:45:32.890] Rep. Jose Manuel “Chel” I. Diokno**  
 That's precisely why, Your Honor, they call it unexplained wealth. Doon po natin malalaman yan sa mga dokumento. No, I agree. They call it unexplained. I'm sorry, Your Honor.
 
 **[02:45:44.230] Sen. Alan Peter Cayetano**  
 I'm sorry. I'm the one. Please, please continue.
 
-**[02:45:46.690] Jose Manuel “Chel” I. Diokno**  
+**[02:45:46.690] Rep. Jose Manuel “Chel” I. Diokno**  
 Kung halimbawa sa binigay niyong example ay nag-appreciate yung value of the land, then I would not call that unexplained. I would call that explained wealth.
 
 **[02:45:57.750] Sen. Alan Peter Cayetano**  
@@ -971,7 +971,7 @@ Yes. But you're introducing a new concept now, unexplained wealth versus ill-got
 **[02:47:20.900] Sen. Alan Peter Cayetano**  
 Bigger than your monthly sweldo? Both of us agree. It's unexplained. But is it ill-gotten? Or do you need more allegations to show that it was ill-gotten?
 
-**[02:47:31.840] Jose Manuel “Chel” I. Diokno**  
+**[02:47:31.840] Rep. Jose Manuel “Chel” I. Diokno**  
 Well, Your Honor, please, the decision whether wealth is unexplained or, as you said, ill-gotten, is really a decision that this honorable court will make based on the evidence. Ang gusto lang po namin ay mailatag ang ebidensya sa inyong harap para kayong na mismo ang magsabi. At para malaman po yan ay we have to look at The Statements of Assets, Liabilities, and Net Worth. We have to look at the lawful income reported in the ITRs. We have to look at the bank records in terms of kung ano yung pumasok at lumabas sa kanilang mga accounts. As far as the businesses are concerned, that has to do with the third sub-charge under unexplained wealth, yung pong continuing to participate in business interests. Despite the clear and express prohibition provided in the Constitution, we want to know whether those businesses, yung ba ay mga operational ba ito? Ito ba ay talagang sasabihin natin na nandun yung sinasabi nga na inaamin ni Vice President sa kanyang salen na business interest nga niya yun?
 
 **[02:48:44.800] Sen. Alan Peter Cayetano**  
@@ -980,16 +980,16 @@ Yeah, I'm skipping because this is mostly questions on fishing expedition.
 **[02:48:51.720] Sen. Alan Peter Cayetano**  
 I'll go to the defense after this, but can you tell us the difference between evidence and proof? In your layman's term or legal terms? Or if you want to look it up? But how do we explain to people the difference between evidence and proof?
 
-**[02:49:10.290] Jose Manuel “Chel” I. Diokno**  
+**[02:49:10.290] Rep. Jose Manuel “Chel” I. Diokno**  
 Napakabigat po ng inyong tanong. In
 
 **[02:49:12.090] Sen. Alan Peter Cayetano**  
 our words lang.
 
-**[02:49:12.970] Jose Manuel “Chel” I. Diokno**  
+**[02:49:12.970] Rep. Jose Manuel “Chel” I. Diokno**  
 I will try my best, Your Honor, to answer it. In a court proceeding, whether we're speaking of an impeachment court or a regular court, the judges look at the evidence. They may never be able to know the entire truth kasi ang pangyayari ay nangyari dati pa po. Essentially, a trial is really a reconstruction of something that happened before. So, it may happen in some cases.
 
-**[02:49:51.350] Jose Manuel “Chel” I. Diokno**  
+**[02:49:51.350] Rep. Jose Manuel “Chel” I. Diokno**  
 Ang gusto po namin maiwasan na dito sa impeachment court ay meron po tayong hindi mailatag na ebidensya sa mga maestrado po na nandito para talagang maging buo yung larawan nila bago po kayo magpapasya. I
 
 **[02:50:07.050] Sen. Alan Peter Cayetano**  
@@ -1001,28 +1001,28 @@ The reason I ask between evidence and proof is because if you have the evidence,
 **[02:51:14.740] Sen. Alan Peter Cayetano**  
 then magiging arbitrary yung House of Representatives sinong gusto nilang i-impeach because almost any public official who's been there for a long time, you will see discrepancies in their SAL-N because unang-una iba yung acquisition cost at iba yung current value at iba din yung deadline ng December 31, which after this, I'll ask the defense to answer, then I'll go into the AMLA which is different from bank accounts. So, if you're coming to the court with evidence already, but kinukuha mo yung supina na yan, diba, to further prove your point, I don't think there'll be a question there. As Atty. Powa said kanina na, Kung yung BIR box na yan, alam natin yung laman, and dapat gamitin dito, dey ina-ledge niyo na. Pero kung hindi alam yung laman, are we fishing there if there's a tax evasion or wala? I don't know the answer. I'm asking you the question. You can answer it in any way you're comfortable in answering.
 
-**[02:52:25.280] Jose Manuel “Chel” I. Diokno**  
+**[02:52:25.280] Rep. Jose Manuel “Chel” I. Diokno**  
 If I may briefly narrate the procedure that the House had to undergo for the articles to reach this honorable court. When the complaints were filed before the House of Representatives, the Committee on Justice was tasked not with conducting a trial, not with ferreting out all the evidence, but simply determining whether there was probable cause to proceed with the case. So hindi po namin hinanap yung kabuuan ng ebidensya dahil hindi po namin tungkulin yun. When we made the determination that there was sufficient
 
-**[02:53:33.400] Jose Manuel “Chel” I. Diokno**  
+**[02:53:33.400] Rep. Jose Manuel “Chel” I. Diokno**  
 The presentation of evidence, even the subpoena or compulsion to present evidence will only happen when the trial takes place. At yung tinutukoy po ninyong fishing expedition, yun ay maaaring sabihin natin nangyari kung only if the party requesting the evidence or documents ay nagbaba kasakali lang, baka may makuha tayo dito. In our case, I have to disagree that there was any sort of phishing expedition because based on what the Committee on Justice and later the Plenary of the House found was sufficient, there was enough cause to proceed with the case. I'll
 
 **[02:54:15.000] Sen. Alan Peter Cayetano**  
 go to probable cause. Bakit sinabi mo baka sakaling may makukuha dito? You said hindi ganon. So anong makukuha natin if we grant all the subpoenas you're requesting?
 
-**[02:54:23.040] Jose Manuel “Chel” I. Diokno**  
+**[02:54:23.040] Rep. Jose Manuel “Chel” I. Diokno**  
 The evidentiary facts, Your Honor, that were not yet available during the determination of probable cause.
 
-**[02:54:51.420] Jose Manuel “Chel” I. Diokno**  
+**[02:54:51.420] Rep. Jose Manuel “Chel” I. Diokno**  
 The AMLC information appears to show that there were billions of pesos that went through the accounts of the Vice President during that period of time.
 
 **[02:54:58.260] Sen. Alan Peter Cayetano**  
 Let's go to that with the permission of the defense then. I think you're listing down naman. So, the Anti-Money Laundering Council, no, does not deal with income. They deal with flow, right? So, pag sinabing billion, that doesn't mean that a certain official has billions in their account. So, meaning, if I have a million pesos deposit on January 1, And then, on January 5, I take it out and put it in time deposit for 1 month. And 1 month later, it comes out with 2% time deposit. Hindi na 1 million yun. 1 million in, 1 million out, 2 million. 1 million in the time deposit, 3 million. Paglabas na may 2%, 1 million, 2 pesos, 1 million, 2,000 pesos, 4 million na yun. So, hindi evidentiary yun. Speculation sa ikot ng pera. Meaning, all I have to do is find someone with a bank account and give them a long enough period and I will say that they have hundreds of millions or billions.
 
-**[02:56:05.270] Jose Manuel “Chel” I. Diokno**  
+**[02:56:05.270] Rep. Jose Manuel “Chel” I. Diokno**  
 Precisely, Your Honor. That is why we want the bank records to be produced. Because, as you mentioned, the only reports submitted by the Anti-Money Laundering Council pertain to covered and suspicious transaction reports.
 
-**[02:56:20.920] Jose Manuel “Chel” I. Diokno**  
+**[02:56:20.920] Rep. Jose Manuel “Chel” I. Diokno**  
 The exact balances that were contained in those bank accounts. And it is only the bank records that will provide that information.
 
 **[02:56:29.560] Sen. Alan Peter Cayetano**  
@@ -1031,7 +1031,7 @@ Agree. And it's suspicion, when you say suspicion, that does not mean necessaril
 **[02:56:48.760] Sen. Alan Peter Cayetano**  
 connect AMLA and the bank accounts, that's precisely what the defense and other people are saying. Aren't you fishing between the three? Fishing means hindi mo pa hawak, so you're trying to get a fish, in this case, a very big fish. Di ba? So, pag sinabing hindi fishing expedition, meron ka ng ebidensya, but you want to prove that in court, and you need that to prove it, but you know what to prove already.
 
-**[02:57:17.700] Jose Manuel “Chel” I. Diokno**  
+**[02:57:17.700] Rep. Jose Manuel “Chel” I. Diokno**  
 If we bring Your Honor's logic to its conclusion, that would mean that the Committee on Justice would have to conduct a full-blown trial, get all the evidence at that level, so that we do not have to fish anymore when we get to this Court, when that is not the contemplation of the procedure for impeachment under the Constitution. I won't argue what the House...
 
 **[02:57:41.380] Sen. Francis “Chiz” Escudero**  
@@ -1076,7 +1076,7 @@ Do you think nag-comply yung requirements dun sa companies and should we give no
 **[03:05:12.990] Sen. Francis “Chiz” Escudero**  
 Council for the panel of prosecutors may respond thereafter. Council for respondents. Thank you, Your Honor. And we would like to thank Senator Judge Allen for his
 
-**[03:05:21.720] Jose Manuel “Chel” I. Diokno**  
+**[03:05:21.720] Rep. Jose Manuel “Chel” I. Diokno**  
 If Your Honor please, the doctrine of piercing the corporate veil applies when we are determining liability of the company or corporation involved. In this particular case, that doctrine has no application at all. We are asking for those records to be produced so that we can determine the extent of participation of the Vice President. As she herself had admitted those business interests in her SALN, kaya po namin hinihingi po iyon. Kaya sa tingin po namin ay wala pong aplikasyon ang piercing the corporate veil. Second, as far as opening the box is concerned, while it is true that under Republic Act 1405 there's no qualification that impeachment trial lang po ang pwede, as I understand it, it was the better judgment of the committee, out of sheer discretion and prudence, not to, because at that time we were already being bombarded with petitions left and right seeking to restrain our proceedings, and we felt that it would be more prudent to bring the matter to this honorable Court. Thank you, Your Honor.
 
 **[03:06:34.960] Sen. Francis “Chiz” Escudero**  
@@ -1334,19 +1334,19 @@ on one more matter, may I inquire from the lead prosecutor or someone from the p
 **[03:51:36.330] Sen. Francis “Chiz” Escudero**  
 Tomorrow and Wednesday, forgive me.
 
-**[03:51:43.950] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:51:43.950] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, our intended witness for tomorrow is Atty. Melvin Matibag, the NBI Director. And for Wednesday, Your Honor, it will be Marivic Pareja of the Legislative Archive Office of the House of Representatives, Your Honor.
 
 **[03:51:59.230] Sen. Francis “Chiz” Escudero**  
 And on Wednesday, the bank officials?
 
-**[03:52:05.050] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:52:05.050] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 In addition, Your Honor, but considering that we only have Tuesday and Wednesday for trial, But after Marivic-Pareja, we will also be presenting the two land bank officials, Your Honor.
 
 **[03:52:17.970] Sen. Francis “Chiz” Escudero**  
 Yes, because we issued a subpoena ad testificandum against these two bank officials to attend tomorrow and Wednesday.
 
-**[03:52:28.820] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:52:28.820] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Yes, Your Honor.
 
 **[03:52:30.430] Sen. Francis “Chiz” Escudero**  
@@ -1394,34 +1394,34 @@ The Chair will address that. It will be included in the Journal. However, the Jo
 **[03:55:19.440] Sheila C. Sison**  
 Thank you, Your Honor. That's all, Your Honor.
 
-**[03:55:21.400] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:55:21.400] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I make a short manifestation with regards to the order of presentation, Your Honor, earlier mentioned by the prosecution?
 
 **[03:55:29.140] Sen. Francis “Chiz” Escudero**  
 Of witnesses?
 
-**[03:55:30.780] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:55:30.780] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Yes, Your Honor.
 
 **[03:55:32.140] Sen. Francis “Chiz” Escudero**  
 Subject to the limitation mentioned by Senator Judge Allen the other week, if you remember? Yes,
 
-**[03:55:38.720] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:55:38.720] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor,
 
-**[03:55:39.200] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:55:39.200] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 I understand.
 
 **[03:55:39.940] Sen. Francis “Chiz” Escudero**  
 The lady may proceed. We
 
-**[03:55:41.680] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:55:41.680] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 are maintaining the presentation of NBI Director tomorrow. That is Tuesday, July 21. And then following the NBI Director, Your Honor, will be the two Land Bank Managers in the person of Violeta San Constantino of Shaw Branch Manager and Danita Camposano of DepEd Branch Manager. As to the presentation of the Legislative Archive Officer, we will be determining the appropriate timeline to present her, Your Honor.
 
 **[03:56:14.140] Sen. Francis “Chiz” Escudero**  
 So the court recalls or withdraws the earlier statement that the two bank officials may appear on Wednesday. The subpoena stands, therefore, requiring their appearance to respond to the subpoena at testificandum tomorrow, July 21 and July 22.
 
-**[03:56:32.260] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:56:32.260] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We confirm, Your Honor.
 
 **[03:56:33.580] Sen. Francis “Chiz” Escudero**  

@@ -113,13 +113,13 @@ proceed,
 **[00:13:28.830] Sen. Francis “Chiz” Escudero**  
 Sir.
 
-**[00:13:29.070] Lorenz R. Defensor**  
+**[00:13:29.070] Rep. Lorenz R. Defensor**  
 Thank you, Your Honors. Your Honors, before we proceed, With the examination of our second witness, Your Honors, the prosecution is in receipt of a letter dated July 10, 2026 from NBI Director Melvin A. Matibag requesting that his testimony be scheduled or calendared at the earliest setting considering that the National Bureau of Investigation, Your Honors, has been invited by the Federal Bureau of Investigation. In coordination with the Royal Thai Police for a regional summit on scam center compounds and transnational organized crime. In that regard, Your Honor, the prosecution would like to request that the scheduled testimony of NBI Director Melvin Matibag be scheduled tomorrow after the testimony of our second witness, Atty. Jeremy A. Lotoc.
 
 **[00:14:29.450] Sen. Francis “Chiz” Escudero**  
 After the testimony of your second witness.
 
-**[00:14:32.250] Lorenz R. Defensor**  
+**[00:14:32.250] Rep. Lorenz R. Defensor**  
 Yes, your honors.
 
 **[00:14:33.190] Sen. Francis “Chiz” Escudero**  
@@ -128,7 +128,7 @@ But the supposed witness scheduled for tomorrow is Atty.
 **[00:14:38.950] Sen. Francis “Chiz” Escudero**  
 Zulaika Lopez for the gentleman's manifestation in the last hearing.
 
-**[00:14:43.610] Lorenz R. Defensor**  
+**[00:14:43.610] Rep. Lorenz R. Defensor**  
 That's correct, your honor. After we have dispensed with the testimony of NBI Director Matibag, we can proceed with the schedule of witnesses as provided in the list to the senator judges last week, your honors.
 
 **[00:14:55.690] Sen. Francis “Chiz” Escudero**  
@@ -137,7 +137,7 @@ To include Captain Belio, if I'm not
 **[00:14:59.290] Sen. Francis “Chiz” Escudero**  
 Mistaken?
 
-**[00:14:59.890] Lorenz R. Defensor**  
+**[00:14:59.890] Rep. Lorenz R. Defensor**  
 Yes, we can proceed with Atty. Lopez and Captain Belio as manifested last week, Your Honors.
 
 **[00:15:04.290] Sen. Francis “Chiz” Escudero**  
@@ -146,7 +146,7 @@ What is the pleasure of Senator Judge Cayetano, Alan?
 **[00:15:08.190] Sen. Alan Peter Cayetano**  
 Mr. Presiding Officer, if no one objects, I will not object to having Director Matibag yesterday, but maybe as a caution to government officials, my good friend, Congressman Defensor. I read over the weekend that Director Matibag is writing because he is to be in a convention meeting the FBI next week. So actually, we're going to be here 30 weeks. We have put aside many, many important things. We have put aside many foreign trips, many local trips, whether it's to help dun sa tinamaan ng Nang lindol sa Mindanao or tinatamaan ng baha ngayon because we have to be here two o'clock until matapos tayo every Monday to Wednesday then after the sauna every Tuesday to Wednesday. I find it in bad taste that a bureau head will dictate to us that he's not available next week. I was Secretary of Foreign Affairs. That's why you have undersecretaries. That's why you have deputy director. So, I mean, I admire the patience of the prosecution, no? But even the prosecution, they have a way of timing and laying down the witnesses, eh. So, I don't want later on to say na eh dapat natanong ko muna ito sa unang witness, kaya lang si director matibag inuna dahil ganito o ganyan. I'd like to put that on record and ask my colleagues if that's acceptable to us. At least those who are not in jail or the 21 of us are here. The whole government, nakatutok. We put aside so many important things. And then one witness, who is in the government, who is a bureau head? Will tell us, sorry, but because he has to be with the FBI, siya na yung mauna tomorrow. That might be a bad precedent, Mr. Presiding Officer.
 
-**[00:17:27.900] Lorenz R. Defensor**  
+**[00:17:27.900] Rep. Lorenz R. Defensor**  
 May I be allowed to give a
 
 **[00:17:30.710] Sen. Francis “Chiz” Escudero**  
@@ -155,7 +155,7 @@ reply? The gentleman
 **[00:17:31.390] Sen. Francis “Chiz” Escudero**  
 will please respond to the appoint of Senator-Judge Alan Cayetano.
 
-**[00:17:35.050] Lorenz R. Defensor**  
+**[00:17:35.050] Rep. Lorenz R. Defensor**  
 With due respect to the Honorable... Senator Judge Alan Peter Cayetano, we will always respect the decision of the honorable court. However, we will only be advancing his testimony one day based on the subpoena that we have requested the honorable court. He is scheduled to testify until Wednesday and that we will not disrupt the scheduled list of witnesses. We will simply advance it one day.
 
 **[00:17:58.930] Sen. Francis “Chiz” Escudero**  
@@ -164,13 +164,13 @@ Would you respect, Congressman Representative Defensor, I ask That question poig
 **[00:18:36.770] Sen. Francis “Chiz” Escudero**  
 For Director Matibag for this week, given your manifestation after you took over, given that you have, as you said, control and supervision over the private, the counsel for the prosecutors. So he's not in your list this week. He's not being advanced for a day, sir.
 
-**[00:18:53.550] Lorenz R. Defensor**  
+**[00:18:53.550] Rep. Lorenz R. Defensor**  
 May I respond, Your Honor? Please
 
 **[00:18:54.990] Sen. Francis “Chiz” Escudero**  
 so.
 
-**[00:18:55.230] Lorenz R. Defensor**  
+**[00:18:55.230] Rep. Lorenz R. Defensor**  
 Your Honor, that's correct. I gave a list of witnesses scheduled for Monday, Tuesday, and Wednesday. However, Your Honor, to add, I also added that since NBI Director Matibag has been requested for a subpoena to testify within the week. I also added in my statement that we will inform the Honorable Court which day we can present the Honorable Matibag and I was expecting him to be presented on Wednesday after the testimony of Captain Belinda Bello, Your Honors.
 
 **[00:19:25.960] Sen. Francis “Chiz” Escudero**  
@@ -209,7 +209,7 @@ Three days given the fact that we will be announcing the witnesses for the follo
 **[00:21:24.670] Sen. Alan Peter Cayetano**  
 Anyway, I said my piece but I hope we will not be able to move faster if we have to accommodate the witnesses especially if they're in government.
 
-**[00:21:34.010] Lorenz R. Defensor**  
+**[00:21:34.010] Rep. Lorenz R. Defensor**  
 May I add something,
 
 **[00:21:35.110] Sen. Francis “Chiz” Escudero**  
@@ -260,7 +260,7 @@ We'll take for both parties. With the permission of Senators, Senator Judge Caye
 **[00:26:42.860] Sen. Francis “Chiz” Escudero**  
 Would that be possible?
 
-**[00:26:44.220] Lorenz R. Defensor**  
+**[00:26:44.220] Rep. Lorenz R. Defensor**  
 We will submit the letter. Thank you, Your Honor.
 
 **[00:26:46.300] Sen. Francis “Chiz” Escudero**  
@@ -272,7 +272,7 @@ Yes, Your Honor. Your Honor, if the travel authority is also available, if we ca
 **[00:27:02.840] Sen. Francis “Chiz” Escudero**  
 Travel authority, if it's already issued.
 
-**[00:27:05.160] Lorenz R. Defensor**  
+**[00:27:05.160] Rep. Lorenz R. Defensor**  
 Yes, of course. Kindly furnish us that as well. Your Honors, we will submit in good faith whatever the prosecution has received from Director Matibag, Your Honor.
 
 **[00:27:14.820] Sen. Francis “Chiz” Escudero**  
@@ -284,7 +284,7 @@ Your Honor, one last addition. Considering that there's a if and when they provi
 **[00:27:47.850] Sen. Francis “Chiz” Escudero**  
 Atty. Vinluan, it's not really for the full review of the counsel for the prosecution but rather for this court's evaluation whether or not to allow the motion of the counsel.
 
-**[00:28:16.630] Lorenz R. Defensor**  
+**[00:28:16.630] Rep. Lorenz R. Defensor**  
 Your Honors, I respectfully request that counsel for the panel of House prosecutors, Atty. Virgil Ligutan, be recognized for the presentation of our second witness.
 
 **[00:28:28.310] Sen. Francis “Chiz” Escudero**  
@@ -6400,7 +6400,7 @@ For some administrative matters, we are in receipt of the memorandum from the Co
 **[06:13:42.210] Sen. Francis “Chiz” Escudero**  
 Kindly furnish clerk reports instructed to furnish all senator judges with a copy of the same with a reminder that we will be hearing the oral arguments of the parties on these two matters on Wednesday. After the presentation of the testimony of the witnesses of the Council for the Prosecution, what is the pleasure of the Honorable Defensor?
 
-**[06:14:05.780] Lorenz R. Defensor**  
+**[06:14:05.780] Rep. Lorenz R. Defensor**  
 We have no other matters to discuss, Your Honor. We will await the final ruling of the Court.
 
 **[06:14:11.280] Sen. Francis “Chiz” Escudero**  
@@ -6418,19 +6418,19 @@ So, should we not finish his testimony on Monday, it shall be continued on the n
 **[06:16:11.310] Sen. Francis “Chiz” Escudero**  
 2 o'clock in the afternoon. There being none, same is approved. Now, to clarify, the Honorable Defensor may ask, who is your witness for tomorrow? I understand we still have two witnesses online, namely Atty. Lopez and Capt. Bellio. Is that correct, sir?
 
-**[06:16:32.560] Lorenz R. Defensor**  
+**[06:16:32.560] Rep. Lorenz R. Defensor**  
 That's correct, Your Honor.
 
 **[06:16:33.620] Sen. Francis “Chiz” Escudero**  
 And you will be presenting Atty. Lopez first?
 
-**[06:16:37.330] Lorenz R. Defensor**  
+**[06:16:37.330] Rep. Lorenz R. Defensor**  
 Based on our earlier manifestation. We're supposed to present her next, after Law Talk, Your Honor.
 
 **[06:16:43.110] Sen. Francis “Chiz” Escudero**  
 After the culmination of the cross, if at all, redirect and recross of Atty. Law Talk.
 
-**[06:16:48.330] Lorenz R. Defensor**  
+**[06:16:48.330] Rep. Lorenz R. Defensor**  
 Yes, Your Honor.
 
 **[06:16:49.740] Sen. Francis “Chiz” Escudero**  

@@ -38,7 +38,7 @@ The Clerk of Court will please call the case before the Impeachment Court.
 **[00:09:04.520] Atty. Renato N. Bantug Jr.**  
 Case No. 004-2026, in the matter of the Impeachment Trial of Vice President Sara Duterte. Appearances.
 
-**[00:09:15.940] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:09:15.940] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Good afternoon, Your Honors. Respectfully appearing for the prosecution. We are ready, Your Honor.
 
 **[00:09:21.880] Sen. Francis “Chiz” Escudero**  
@@ -86,7 +86,7 @@ Yes, sir.
 **[00:11:11.170] Atty. Michael Wesley Poa**  
 Was it a subpoena?
 
-**[00:11:13.030] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:11:13.030] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Objection, Your Honor. Asked and answered, Your Honor.
 
 **[00:11:15.470] Sen. Francis “Chiz” Escudero**  
@@ -119,13 +119,13 @@ So April 16, 29 minus—that's about it, 13 or 12 days.
 **[00:12:00.080] Atty. Michael Wesley Poa**  
 All right. And this was one of the documents that you submitted by virtue—
 
-**[00:12:04.440] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:12:04.440] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor.
 
 **[00:12:05.800] Atty. Michael Wesley Poa**  
 I have no question.
 
-**[00:12:07.760] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:12:07.760] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Yes, Your Honor, but I just want to enter a continuing objection to the use of ‘mini-trial.’ It was never a mini-trial. It is a clarificatory hearing.
 
 **[00:12:15.600] Atty. Michael Wesley Poa**  
@@ -134,13 +134,13 @@ Your Honor, just a short rejoinder. May I proceed, Counsel? Isn't it, with all d
 **[00:12:28.440] Sen. Francis “Chiz” Escudero**  
 just want to inquire of Representative Luistro.
 
-**[00:12:31.680] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:12:31.680] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May I respond, Your Honor?
 
 **[00:12:33.580] Sen. Francis “Chiz” Escudero**  
 The lead prosecutor may respond thereafter. We shall continue. Yes, what is your response, counsel? The
 
-**[00:12:39.080] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:12:39.080] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 prosecution has been very consistent that what we did in the Committee on Justice of the House of Representatives is never a mini-trial. It is a clarificatory hearing consistent to the House rules on impeachment and even consistent to the provisions of Article 11 of the Constitution.
 
 **[00:13:03.470] Sen. Francis “Chiz” Escudero**  
@@ -194,13 +194,13 @@ Assisting counsel for respondent may approach. Likewise, assisting counsel for t
 **[00:14:34.540] Atty. Michael Wesley Poa**  
 Yes, sir. All right. My question is this. Are threats to the life of the vice president constitute a grave offense with far-reaching implications on national stability, public safety, and the continuity of government?
 
-**[00:14:53.370] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:14:53.370] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, objection, please. What
 
 **[00:14:55.270] Sen. Francis “Chiz” Escudero**  
 is the ground for the objection?
 
-**[00:14:56.670] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:14:56.670] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 The question of the defense is speculative.
 
 **[00:15:00.950] Sen. Francis “Chiz” Escudero**  
@@ -221,7 +221,7 @@ So let us recall the interview. This is part of
 **[00:15:37.460] Atty. Michael Wesley Poa**  
 an interview of Dempsey Reyes of the Philippine Daily Inquirer. This is part, Your Honor, of Annex G-9 of the Articles of Impeachment. And please direct your attention to paragraph 13 of the minutes of the meeting and allow me to read. Number 13, are you aware of the threats?
 
-**[00:15:56.500] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:15:56.500] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, please, may we confront the witness with the document?
 
 **[00:16:00.760] Sen. Francis “Chiz” Escudero**  
@@ -269,7 +269,7 @@ Not only that. In a lot of proceedings, including the proceeding in the impeachm
 **[00:18:10.200] Atty. Michael Wesley Poa**  
 So that was your motivation for not issuing a subpoena. Anyway, under your leadership—
 
-**[00:18:15.000] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:18:15.000] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, please, may I move to strike from the record the word ‘motivation’? The witness never said ‘motivation.’
 
 **[00:18:22.960] Sen. Francis “Chiz” Escudero**  
@@ -308,13 +308,13 @@ Because there is a big difference, Your Honor.
 **[00:19:42.140] Atty. Michael Wesley Poa**  
 Okay. How about Princess Maui, for example, from the November 23 presscon? Was she subpoenaed under your leadership?
 
-**[00:19:51.570] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:19:51.570] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Ask and answered question, Your Honor.
 
 **[00:19:53.510] Atty. Michael Wesley Poa**  
 This is the first time about Princess Maui, Your Honor.
 
-**[00:19:56.190] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:19:56.190] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, it has been asked already during the cross.
 
 **[00:19:58.870] Sen. Francis “Chiz” Escudero**  
@@ -341,7 +341,7 @@ the National Bureau of Investigation, yes, under the leadership of Director Sant
 **[00:20:32.080] Atty. Michael Wesley Poa**  
 But just to clarify, under your leadership, no subpoena?
 
-**[00:20:35.440] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:20:35.440] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Asked and answered, Your Honor.
 
 **[00:20:37.360] Sen. Francis “Chiz” Escudero**  
@@ -350,7 +350,7 @@ Asked and answered. Move on, counsel.
 **[00:20:39.000] Atty. Michael Wesley Poa**  
 All right, I'll move on. Now, you mentioned yesterday that for grave threats and inciting to sedition, these are still pending before the DOJ.
 
-**[00:20:48.020] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:20:48.020] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Asked and answered, Your Honor.
 
 **[00:20:50.480] Sen. Francis “Chiz” Escudero**  
@@ -443,7 +443,7 @@ Are you saying that once you reach your findings, because we're all waiting for 
 **[00:24:37.780] Atty. Melvin Matibag**  
 you for that question.
 
-**[00:24:38.820] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:24:38.820] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Objection, Your Honor. That is speculative.
 
 **[00:24:42.050] Sen. Francis “Chiz” Escudero**  
@@ -458,7 +458,7 @@ At sinabi pa niya, pumayag na 'yung kinausap kong mamamatay-tao. That constitute
 **[00:25:52.760] Atty. Michael Wesley Poa**  
 Your Honor, with all due respect, I know that the NBI Director took pains in explaining his answer, but his answer already contains conclusions of fact and law, and may we ask, Your Honor—
 
-**[00:26:05.840] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:26:05.840] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May I respond, Your Honor?
 
 **[00:26:06.880] Atty. Michael Wesley Poa**  
@@ -473,7 +473,7 @@ Counsel for the—rather, the lead prosecutor—
 **[00:26:19.480] Atty. Michael Wesley Poa**  
 My question was pretty simple. Sorry.
 
-**[00:26:20.840] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:26:20.840] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, ang depensa po ang nagtanong kung mapapatunayan na nag-commit ng betrayal of public trust, kung sasampahan pa ng impeachment ulit, at sinasagot lamang po ng testigo: consummated na ang betrayal of public trust dahil may kausap nang tao na pumayag na to execute the President, the First Lady, and the former Speaker.
 
 **[00:26:47.700] Atty. Michael Wesley Poa**  
@@ -521,7 +521,7 @@ All right, so because after all, the cybercrime division is part -
 **[00:28:44.290] Atty. Michael Wesley Poa**  
 Your Honor, please. What's the question? What's the objection?
 
-**[00:28:48.330] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:28:48.330] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May we know if the defense is making a manifestation or raising a question?
 
 **[00:28:52.090] Atty. Michael Wesley Poa**  
@@ -698,7 +698,7 @@ Dapat hindi payagan, no?
 **[00:34:05.650] Atty. Melvin Matibag**  
 Hindi po, sir. Hindi dapat payagan, I think, sa linya po ng inyong katanungan.
 
-**[00:34:09.950] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:34:09.950] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Objection, Your Honor. The question is already argumentative.
 
 **[00:34:12.750] Atty. Michael Wesley Poa**  
@@ -716,7 +716,7 @@ Kailangan po nga aming matagpuan yung pong taong So,
 **[00:35:02.100] Atty. Michael Wesley Poa**  
 as long as you cannot provide a concrete output, the Special Task Force will continue to exist.
 
-**[00:35:12.230] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:35:12.230] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Asked and answered, Your Honor. Asked and answered.
 
 **[00:35:15.090] Sen. Francis “Chiz” Escudero**  
@@ -788,7 +788,7 @@ Lumalabas po sa aming pag-aaral.
 **[00:37:28.600] Atty. Michael Wesley Poa**  
 How about 'yung nangyari kay Undersecretary Claire Castro in Canada? Is this also part of the kinetic force?
 
-**[00:37:35.240] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:37:35.240] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Irrelevant, Your Honor.
 
 **[00:37:35.880] Atty. Michael Wesley Poa**  
@@ -815,7 +815,7 @@ Now, how about the flood control rallies? Is this part of the kinetic force?
 **[00:38:35.800] Atty. Michael Wesley Poa**  
 I'll just move on. So, any descent? Against the government must be attributed to this kinetic force. Is that what you're saying?
 
-**[00:38:43.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:38:43.630] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 It's speculative, your honor.
 
 **[00:38:45.690] Atty. Michael Wesley Poa**  
@@ -827,7 +827,7 @@ Depende po kung anong event. Kaya nga po ang ginagawa po ng NBI ay atin pong sin
 **[00:39:02.190] Atty. Michael Wesley Poa**  
 Alright. Now, isn't it that Mayor Baste, that participant in the PBBM event, The rallies in Canada and the flood control rallies, don't they have a mind of their own?
 
-**[00:39:16.500] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:39:16.500] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, we are objecting on the ground of vague. Kindly clarify the question. Kindly
 
 **[00:39:23.600] Sen. Francis “Chiz” Escudero**  
@@ -845,7 +845,7 @@ Mayor Bastet, the participant in the PBBM rally, the rallies in Canada, and the 
 **[00:39:48.550] Atty. Melvin Matibag**  
 Una po, there's no PBBM rally. No, no, sorry—PBBM event. Sorry, I stand corrected. PBBM event. 'Yung sa Canada. Tsaka 'yun nga po, alin po bang flood control? Mabalik ko lang po roon, pasensya na po, sir, para po mas ma-contextualize po nating mabuti.
 
-**[00:40:03.900] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:40:03.900] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Yes, Your Honor, please. May we request clarification from the defense? I
 
 **[00:40:07.780] Sen. Francis “Chiz” Escudero**  
@@ -881,13 +881,13 @@ Ito po ay konteksto sa aming base sa aming investigasyon. Again, ibabalik ko po 
 **[00:41:38.420] Atty. Michael Wesley Poa**  
 Again, just a manifestation that it's not responsive but I'll just move on to a different point.
 
-**[00:41:43.960] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:41:43.960] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, please.
 
 **[00:41:45.230] Sen. Francis “Chiz” Escudero**  
 What is the pressure of the lead counsel?
 
-**[00:41:47.370] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:41:47.370] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 The defense is making a side comment to the answer of the witness. Can we please remind him to avoid making side comment as previously invoked by the impeachment court? Then I will
 
 **[00:42:00.330] Atty. Michael Wesley Poa**  
@@ -914,7 +914,7 @@ Depende po kung anong dalumpati. You have to qualify.
 **[00:42:46.900] Atty. Michael Wesley Poa**  
 And unless we are under martial law again, Mayor Bastet should be able to freely express his dissent to the government.
 
-**[00:42:53.760] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:42:53.760] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, that is speculative.
 
 **[00:42:56.270] Sen. Francis “Chiz” Escudero**  
@@ -944,7 +944,7 @@ Please repeat. Pakiulit po, sir.
 **[00:44:03.400] Atty. Michael Wesley Poa**  
 Is it also the NBI's interpretation that those remarks constitute destabilization?
 
-**[00:44:11.820] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:44:11.820] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Argumentative, Your Honor.
 
 **[00:44:12.820] Sen. Francis “Chiz” Escudero**  
@@ -962,7 +962,7 @@ That speech by Mayor Baste, in general.
 **[00:44:40.340] Atty. Michael Wesley Poa**  
 Sorry, Director, I didn't quite get your answer. So, are you saying that that's destabilization or no destabilization?
 
-**[00:44:45.980] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:44:45.980] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 [unclear], Your Honor.
 
 **[00:44:46.960] Sen. Francis “Chiz” Escudero**  
@@ -977,7 +977,7 @@ elemento ng five pillars, it comply po. Sumasagot po doon. At hindi po destabili
 **[00:45:20.340] Atty. Michael Wesley Poa**  
 So you're admitting that there was no destabilization?
 
-**[00:45:24.670] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:45:24.670] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Argumentative, Your Honor. It's connected to the question, Your Honor.
 
 **[00:45:28.050] Sen. Francis “Chiz” Escudero**  
@@ -1010,13 +1010,13 @@ Basi po sa aking binabasa, baka mas maganda po si Vice President Sara Duterte ma
 **[00:47:27.710] Sen. Francis “Chiz” Escudero**  
 But if you know...
 
-**[00:47:28.690] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:47:28.690] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I comment?
 
 **[00:47:31.230] Sen. Francis “Chiz” Escudero**  
 What is the comment of the lead prosecutor?
 
-**[00:47:34.420] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:47:34.420] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 The witness never said that there is destabilization. As a matter of fact, what he said during the earlier question is threat to the life of the president amounts to threat to national security. Now he is being asked about these pictures concerning the stab. This is misleading, Your Honor. The
 
 **[00:47:54.180] Sen. Francis “Chiz” Escudero**  
@@ -1052,7 +1052,7 @@ No, the only question is the perjury. If you know only that the perjury was reco
 **[00:49:16.320] Atty. Melvin Matibag**  
 I have no personal knowledge.
 
-**[00:49:18.820] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:49:18.820] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, the witness is incompetent to answer that question. Counsel, I think the
 
 **[00:49:23.240] Sen. Francis “Chiz” Escudero**  
@@ -1061,7 +1061,7 @@ witness already said that he is not aware of it, but that if it is on the record
 **[00:49:31.940] Atty. Michael Wesley Poa**  
 I'll just move on to a new point. Now, allow me to read a statement of Senator Lacson, and then I'll ask questions thereafter.
 
-**[00:49:39.220] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:49:39.220] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May we request, Your Honor, that the witness be confronted with a document if... I think the defense is reading from a document.
 
 **[00:49:46.310] Atty. Michael Wesley Poa**  
@@ -1142,7 +1142,7 @@ The question is, did you decide to believe the contents of the document without 
 **[00:54:39.280] Atty. Melvin Matibag**  
 'Yun nga po 'yung sagot po. Hindi kaagad. Kaya po ikinukuwento ko nga kung paano po namin nagamit 'yun. So hindi po kaagad namin pinaniwalaan.
 
-**[00:54:47.440] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:54:47.440] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I just manifest that the defense is actually misleading already the witness. He kept on raising the question, ‘Did you believe right away?’ when, as a matter of fact, the witness is explaining—
 
 **[00:54:59.070] Atty. Michael Wesley Poa**  
@@ -1151,7 +1151,7 @@ Your Honor, I never meant... Sorry. Council,
 **[00:55:01.530] Sen. Francis “Chiz” Escudero**  
 kindly let the litigant persecutor finish.
 
-**[00:55:03.730] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:55:03.730] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 The witness has been saying that he did a lot of things after receiving the affidavit of Las Cañas to the extent of going over the five factors that he testified to yesterday. But after that first question, so that means yes. The defense said yes to his question, did you believe to that right away, to that affidavit? The position of the witness, your honor, is no. Actually, ask and
 
 **[00:55:31.620] Sen. Francis “Chiz” Escudero**  
@@ -1160,7 +1160,7 @@ answered by the witness. That is his response, counsel-forrespondent, to your qu
 **[00:55:37.300] Atty. Michael Wesley Poa**  
 Move on, counsel. Yes, your honor. We are satisfied with that answer. But another follow-up question. So without verifying it... That's
 
-**[00:55:46.460] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:55:46.460] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 misleading, your honor.
 
 **[00:55:47.680] Sen. Francis “Chiz” Escudero**  
@@ -1196,7 +1196,7 @@ Okay.
 **[00:57:02.510] Atty. Michael Wesley Poa**  
 And pinapaniwalaan niyo yun without issuing a subpoena to Las Cañas and clarifying the matter with him.
 
-**[00:57:10.500] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:57:10.500] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Ask and answer, Your Honor.
 
 **[00:57:12.240] Atty. Michael Wesley Poa**  
@@ -1400,7 +1400,7 @@ Opo.
 **[01:05:49.300] Atty. Michael Wesley Poa**  
 And didn't VP Sara say her statements in jest?
 
-**[01:05:55.200] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:05:55.200] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 It's speculative, Your Honor.
 
 **[01:05:56.400] Atty. Michael Wesley Poa**  
@@ -1427,7 +1427,7 @@ Hindi po 'yun ang sinabi ko. Ang sinabi ko po, kasama siya doon sa kino-consider
 **[01:07:28.240] Atty. Michael Wesley Poa**  
 Isn't that kind of a stretch?
 
-**[01:07:30.300] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:07:30.300] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 It's argumentative, Your Honor.
 
 **[01:07:32.920] Sen. Francis “Chiz” Escudero**  
@@ -1439,7 +1439,7 @@ Nothing further, Your Honor. Salamat po, sir.
 **[01:07:37.840] Sen. Francis “Chiz” Escudero**  
 Redirect? Lead prosecutor, any redirect?
 
-**[01:07:45.120] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:07:45.120] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I request for a five-minute break?
 
 **[01:07:50.350] Sen. Francis “Chiz” Escudero**  
@@ -1589,25 +1589,25 @@ Thank you for the sequence.
 **[01:21:42.430] Sen. Francis “Chiz” Escudero**  
 Yes, what is the pleasure of the lead prosecutor? Shall you conduct, redirect?
 
-**[01:21:48.330] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:21:48.330] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, the prosecution believes that we have sufficiently established that the threat to the President constitutes threat to the national security.
 
 **[01:22:03.360] Sen. Francis “Chiz” Escudero**  
 Counsel, you are once again reminded to kindly avoid conclusions of law. The question was simple, so I guess you will not conduct any further redirect.
 
-**[01:22:14.880] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:22:14.880] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Nonetheless, Your Honor, there are some manifestations that I would like to make.
 
 **[01:22:18.340] Sen. Francis “Chiz” Escudero**  
 As long as these are not conclusions of fact and law, counsel, as
 
-**[01:22:21.540] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:22:21.540] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 you have been
 
 **[01:22:22.060] Sen. Francis “Chiz” Escudero**  
 reminded and guided accordingly. You may proceed.
 
-**[01:22:26.600] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:22:26.600] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 It is the position, Your Honor, of the prosecution that we have established already. Objection, Your
 
 **[01:22:31.680] Atty. Michael Wesley Poa**  
@@ -1619,13 +1619,13 @@ I'm... The council correspondent is correct. I will give the same limitation to 
 **[01:22:48.740] Sen. Francis “Chiz” Escudero**  
 Let me do it for you. I guess you're not conducting any redirect anymore because you're satisfied.
 
-**[01:22:53.420] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:22:53.420] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 I have another manifestation, Your Honor.
 
 **[01:22:54.980] Sen. Francis “Chiz” Escudero**  
 And you're contended with the testimony given by the witness you presented. What is your second manifestation?
 
-**[01:23:01.760] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:23:01.760] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Nais ko lamang pong liwanagin, Your Honor, kaugnay ng affidavit ni Arturo Lascañas. Ito po ay iprinisinta ng prosecution bilang bahagi ng testimony ng witness. Kagaya na po ng sinabi ng Presiding Officer nang tatlong ulit, pinayagang iprisinta ang affidavit ni Lascañas bilang bahagi ng testimony at bilang bahagi ng naging investigation ng Special Task Force ng National Bureau of Investigation. It was never claimed by the prosecution that this affidavit is notarized. Kailanman po ay hindi sinabi ng prosecution na notarized ang dokumentong ito. Ito po'y iprinisinta bilang bahagi lamang ng testimony ng witness at bilang bahagi din ng investigation ng NBI. To conclude, Your Honor—
 
 **[01:23:50.200] Atty. Michael Wesley Poa**  
@@ -1634,7 +1634,7 @@ Short rejoinder on that, Your Honor.
 **[01:23:52.000] Sen. Francis “Chiz” Escudero**  
 The lead prosecutor is not yet finished.
 
-**[01:23:53.700] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:23:53.700] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 To conclude, Your Honor, the prosecution finds it unnecessary to conduct redirect examination.
 
 **[01:24:09.040] Sen. Francis “Chiz” Escudero**  
@@ -1652,13 +1652,13 @@ Again, Your Honor, according to the rules, an affidavit must be testified to and
 **[01:24:41.920] Sen. Francis “Chiz” Escudero**  
 Then, instead of letting this be an ongoing argument between both counsel, let the Chair state—
 
-**[01:24:48.960] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:24:48.960] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I just correct the manifestation of—
 
 **[01:24:52.760] Sen. Francis “Chiz” Escudero**  
 No need, counsel. Let the Chair state for the fourth time: the affidavit of Lascañas was not offered as an authentic document executed by the affiant, only that it was part of the documents used by Director Matibag in his open-source investigation. As also clarified for the fifth time, if I will count it, by Senator-Judge Lacson, it was only part of the investigation of the NBI through what is called an open-source investigation. Again, to reiterate, not as proof of its authenticity and the truth of the contents contained in the affidavit or document purporting to be executed by Lascañas.
 
-**[01:25:36.120] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:25:36.120] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 And that it is signed, Your Honor.
 
 **[01:25:38.040] Sen. Francis “Chiz” Escudero**  
@@ -1814,13 +1814,13 @@ Pagka ang isang witness po ay naging halimbawa ng paiba-iba Ang sinasabi, ano po
 **[01:39:01.080] Sen. Robinhood “Robin” Padilla**  
 Di ba po kasinungalingan?
 
-**[01:39:02.800] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:39:02.800] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 This is a hypothetical question, Your Honor. You are not referring to any particular witness?
 
 **[01:39:09.340] Sen. Robinhood “Robin” Padilla**  
 Ah, sila scanners po. Yung inyo pong pinakitang apidabit.
 
-**[01:39:16.820] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:39:16.820] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor? Alam
 
 **[01:39:18.020] Sen. Robinhood “Robin” Padilla**  
@@ -1835,19 +1835,19 @@ Walang kinalaman ang Pangulong Rodrigo Roa Duterte. February 20,
 **[01:40:12.860] Sen. Robinhood “Robin” Padilla**  
 March 6, naiba na ang istorya. Ang tanong ko po, ano ang tawag sa taong paiba-iba ang sinasabi? Di ba po sinungaling?
 
-**[01:40:28.820] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:40:28.820] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May I answer, Your Honor?
 
 **[01:40:30.780] Sen. Robinhood “Robin” Padilla**  
 Opo, opo.
 
-**[01:40:32.460] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:40:32.460] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Kagaya po ng aking binigyang linaw kanina. At paulit-ulit na rin pong sinabi ng ating presiding officer.
 
 **[01:40:40.240] Sen. Robinhood “Robin” Padilla**  
 Pakisagot na lang po kasi yun lang po ang tanong. Tama po ba o mali na tawaging sinungaling ang taong iba-iba ang sinasabi?
 
-**[01:40:51.540] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:40:51.540] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 I'm sorry, Your Honor, but I need to qualify my answer.
 
 **[01:40:56.030] Sen. Robinhood “Robin” Padilla**  
@@ -1856,7 +1856,7 @@ Mr. presiding officer, isang isang simpleng tanong lang po.
 **[01:41:04.020] Sen. Francis “Chiz” Escudero**  
 The lead prosecutor may agree or disagree or state a different characterization. I can state a different characterization if I'm asked by the good senator-judge. You may disagree or agree with the statement of the Honorable Senator Judge Padilla. Feel free to say no or yes, counsel.
 
-**[01:41:23.390] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:41:23.390] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Ito po ay ipinrisinta sa Impeachment Court bilang bahagi ng testimonya ng witness.
 
 **[01:41:47.810] Sen. Robinhood “Robin” Padilla**  
@@ -1865,13 +1865,13 @@ Hindi pa rin po sinasagot ng lead prosecutor. It's not responsive to the questio
 **[01:41:56.010] Sen. Francis “Chiz” Escudero**  
 Allow me to, if the good Senator-Judge will allow the Presiding Officer: pwede ba nating sabihin, lead prosecutor, na ang testigong pabago-bago ang kanyang testimonya sa magkakaibang petsa o araw o panahon ay isang testigong hindi maaasahan?
 
-**[01:42:17.620] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:42:17.620] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Without particular reference to Arturo Lascañas, I agree with you, honorable presiding officer.
 
 **[01:42:24.940] Sen. Francis “Chiz” Escudero**  
 Posible nagsisinungaling siya sa isa, nagsasabi ng totoo sa isa, o nagsisinungaling sa isa, nagsasabi ng totoo sa isa? Hindi na natin malalaman yun. Tama po ba yun?
 
-**[01:42:34.940] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:42:34.940] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Without particular reference to Arturo Lascañas, I agree with you, Honorable Presiding Officer.
 
 **[01:42:39.940] Sen. Francis “Chiz” Escudero**  
@@ -1901,7 +1901,7 @@ Nagkaroon po kami ng dahilan na gumawa ng amendment na itong perjury ay amendaha
 **[01:44:43.270] Sen. Robinhood “Robin” Padilla**  
 Pwede po ba iyon?
 
-**[01:44:44.550] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:44:44.550] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, with all due respect, I would like to take exception to the question and manifestation of the Honorable Senator-Judge Robin Padilla. First of all, we were able to verify already that there are no cases pending against the prosecution witnesses. In addition, Your Honor, and only to respond to the concern of the Honorable Senator-Judge, ang conviction po ay hindi ground for disqualification unless it is final and unless it is punishable by more than one year and that the crime constitutes moral turpitude.
 
 **[01:45:25.000] Sen. Robinhood “Robin” Padilla**  
@@ -1931,19 +1931,19 @@ With your apologies.
 **[01:46:20.390] Sen. Robinhood “Robin” Padilla**  
 So, ibig niyo pong sabihin, yung mga senator judges dito ngayon na humaharap sa kaso na hindi po pinapayagan ng ombudsman at hindi pa rin sila guilty, ano pong ibig niyo sabihin?
 
-**[01:46:39.110] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:46:39.110] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, with all due respect, ang question niyo po kanina ay kaugnay ng pagtistigo,
 
 **[01:46:44.900] Sen. Robinhood “Robin” Padilla**  
 referring
 
-**[01:46:46.600] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:46:46.600] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 to the witnesses of the prosecution, Your Honor.
 
 **[01:46:50.180] Sen. Robinhood “Robin” Padilla**  
 Ang usapan po, are you all guilty or not guilty? Okay? So, tatanong na po ako ng bago. Pwede po ba?
 
-**[01:47:01.140] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:47:01.140] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May I be clarified, Your Honor, on your last question about the senator? You said are facing cases?
 
 **[01:47:12.110] Sen. Robinhood “Robin” Padilla**  
@@ -1955,7 +1955,7 @@ think Sen. Judge Padilla was making a manifestation and not posing a question to
 **[01:47:30.840] Sen. Robinhood “Robin” Padilla**  
 salamat po, Gilong Tagapamahalang Hukom. Pwede na po ba tayong mag-advance ng katalungan?
 
-**[01:47:42.820] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:47:42.820] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Yes, Your Honor.
 
 **[01:47:44.040] Sen. Robinhood “Robin” Padilla**  
@@ -1967,7 +1967,7 @@ Yung pong sinasabi ninyo, bakit niyo po nababanggit ang ICC dito?
 **[01:47:53.580] Sen. Robinhood “Robin” Padilla**  
 Ano po ang kinalaman ng ICC dito sa ating pagdinig?
 
-**[01:47:59.930] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:47:59.930] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 With all due respect, Honorable Senator-Judge Robin Padilla, kagaya po nang nabanggit ko na, at marahil panglima nang banggit ng Presiding Officer, nabanggit po ang ICC kaugnay ng affidavit ni Lascañas, na ipinrisinta po ng prosecution bilang bahagi lamang ng testimonya ng witness at bilang bahagi ng naging imbestigasyon ng Special Task Force ng NBI. Maraming salamat po.
 
 **[01:48:32.440] Sen. Francis “Chiz” Escudero**  
@@ -2798,13 +2798,13 @@ Your Honor, may we inquire of the order of presentation for Wednesday next week,
 **[02:46:50.100] Sen. Francis “Chiz” Escudero**  
 It will be Ms. Violeta Constantino, as I understand, and then Ms. Nenita Camposano.
 
-**[02:46:55.860] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:46:55.860] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We confirm, Your Honor.
 
 **[02:46:58.380] Atty. Michael Wesley Poa**  
 In that order, Your Honor.
 
-**[02:47:00.280] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:47:00.280] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We confirm, Your Honor.
 
 **[02:47:01.820] Sen. Francis “Chiz” Escudero**  

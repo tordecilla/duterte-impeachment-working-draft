@@ -56,10 +56,10 @@ Appearances for
 **[00:09:21.560] Sen. Francis “Chiz” Escudero**  
 the prosecution.
 
-**[00:09:21.920] Lorenz R. Defensor**  
+**[00:09:21.920] Rep. Lorenz R. Defensor**  
 Good afternoon, your honors.
 
-**[00:09:23.200] Lorenz R. Defensor**  
+**[00:09:23.200] Rep. Lorenz R. Defensor**  
 Respect. Same appearance for the prosecution. We are ready, Your Honor.
 
 **[00:09:27.200] Sen. Francis “Chiz” Escudero**  
@@ -80,7 +80,7 @@ Yes, Your Honor.
 **[00:09:56.190] Sen. Francis “Chiz” Escudero**  
 Respondent counsel, may now continue with this cross-examination. Atty. Pinduan, you are recognized and may proceed whenever you are recognized.
 
-**[00:10:02.370] Lorenz R. Defensor**  
+**[00:10:02.370] Rep. Lorenz R. Defensor**  
 Your Honor, before we proceed, may I request that counsel for the panel of prosecutors, Atty. Virgil D. Ligutan, be recognized once more for the examination of our second witness.
 
 **[00:10:12.670] Sen. Francis “Chiz” Escudero**  
@@ -4160,7 +4160,7 @@ Case numbers. Now, what effect, if any, did this typographical error have on the
 **[04:05:43.290] Atty. Jeremy C. Lotoc**  
 these errors? They don't have any effect at all insofar as the findings of the NBI is concerned. Why
 
-**[04:05:50.090] Lorenz R. Defensor**  
+**[04:05:50.090] Rep. Lorenz R. Defensor**  
 is that?
 
 **[04:05:51.260] Atty. Jeremy C. Lotoc**  
@@ -5435,7 +5435,7 @@ you very much, Your Honor.
 **[05:15:28.960] Sen. Francis “Chiz” Escudero**  
 May I ask, good, that the Honorable Defensor is standing up. Tomorrow, the subpoena for Atty. Lopez is only for today and tomorrow. The subpoena thus far, yesterday rather, and today. The subpoena for Captain Belio is for... Ah, no subpoena, but she is scheduled to testify tomorrow. So what is your pleasure, Honorable Defensor?
 
-**[05:15:58.650] Lorenz R. Defensor**  
+**[05:15:58.650] Rep. Lorenz R. Defensor**  
 Your Honors, before we proceed any further, the prosecution respectfully requests for a five-minute recess. Just five minutes, Your Honor.
 
 **[05:16:12.040] Sen. Francis “Chiz” Escudero**  
@@ -5516,7 +5516,7 @@ Thank you, Senate President and Senator.
 **[05:21:08.160] Sen. Francis “Chiz” Escudero**  
 Is the Honorable Defensor ready after his five-minute huddle?
 
-**[05:21:11.600] Lorenz R. Defensor**  
+**[05:21:11.600] Rep. Lorenz R. Defensor**  
 Yes, Your Honor. Your Honor, may I request the Court to recognize the counsel for the panel of prosecutors, Atty. Lorna Patajo Capunan, Your Honor.
 
 **[05:21:22.340] Sen. Francis “Chiz” Escudero**  
@@ -5651,13 +5651,13 @@ I hope we will have sufficient time to discuss these two subpoenas tomorrow in o
 **[05:37:46.340] Sen. Alan Peter Cayetano**  
 May I just ask, to the Presiding Officer, is 10 minutes enough?
 
-**[05:37:51.340] Lorenz R. Defensor**  
+**[05:37:51.340] Rep. Lorenz R. Defensor**  
 Your Honor, we
 
 **[05:37:52.200] Sen. Alan Peter Cayetano**  
 will be
 
-**[05:37:52.560] Lorenz R. Defensor**  
+**[05:37:52.560] Rep. Lorenz R. Defensor**  
 raising our request to make it at least 15 minutes per party.
 
 **[05:37:56.980] Sen. Alan Peter Cayetano**  
@@ -5669,13 +5669,13 @@ Mr. President, Mr. Presiding Officer, you said three minutes rebut. I mean, can 
 **[05:38:55.990] Sen. Francis “Chiz” Escudero**  
 sir, 15 minutes?
 
-**[05:38:56.950] Lorenz R. Defensor**  
+**[05:38:56.950] Rep. Lorenz R. Defensor**  
 Yes, your honor. 15 minutes per argument and 10 minutes per party on rebuttal, your honor.
 
 **[05:39:01.670] Sen. Francis “Chiz” Escudero**  
 So 15 and 10?
 
-**[05:39:03.210] Lorenz R. Defensor**  
+**[05:39:03.210] Rep. Lorenz R. Defensor**  
 Yes, your honor.
 
 **[05:39:04.050] Sen. Francis “Chiz” Escudero**  
@@ -5756,25 +5756,25 @@ Yes, Honorable Defensor.
 **[05:44:56.350] Sen. Francis “Chiz” Escudero**  
 Just to remind you that tomorrow, kindly give us a list of your witnesses for the following week, for the information of the Court as well as the other party.
 
-**[05:45:05.950] Lorenz R. Defensor**  
+**[05:45:05.950] Rep. Lorenz R. Defensor**  
 We will, if necessary, Your Honors.
 
 **[05:45:07.790] Sen. Francis “Chiz” Escudero**  
 And will you be needing a subpoena for Director Matibag for Monday?
 
-**[05:45:14.690] Lorenz R. Defensor**  
+**[05:45:14.690] Rep. Lorenz R. Defensor**  
 won't need a subpoena anymore for Director Matibag for Monday's testimony, Your Honor.
 
 **[05:45:19.070] Sen. Francis “Chiz” Escudero**  
 Okay, then no need to issue a subpoena. Any other points the counsel for respondent would like to raise?
 
-**[05:45:24.930] Lorenz R. Defensor**  
+**[05:45:24.930] Rep. Lorenz R. Defensor**  
 Your Honor, just to, before
 
 **[05:45:26.490] Sen. Francis “Chiz” Escudero**  
 we end, can we request the clerk of
 
-**[05:45:29.430] Lorenz R. Defensor**  
+**[05:45:29.430] Rep. Lorenz R. Defensor**  
 court to reseal the evidence
 
 **[05:45:31.870] Sen. Francis “Chiz” Escudero**  

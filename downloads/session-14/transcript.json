@@ -1510,7 +1510,7 @@
         "stable_id": "S00213",
         "start_seconds": 5480.63,
         "end_seconds": 5496.14,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Good afternoon, Your Honors. We are 11 House prosecutors and 15 private prosecutors. I am Representative Gerville “Jinky Bitrics” Luistro, appearing for the prosecution. We are ready, Your Honor.",
         "confidence": 0.9498466404005028,
         "editorial_flags": []
@@ -1528,7 +1528,7 @@
         "stable_id": "S00215",
         "start_seconds": 5510.17,
         "end_seconds": 5526.67,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "Good afternoon, if Your Honors please. We have already submitted the names of the public and private prosecutors who have formally entered their appearance. Good afternoon,",
         "confidence": 0.9573129507211539,
         "editorial_flags": []
@@ -1537,7 +1537,7 @@
         "stable_id": "S00216",
         "start_seconds": 5530.98,
         "end_seconds": 5540.37,
-        "speaker": "Leila M. de Lima",
+        "speaker": "Rep. Leila M. de Lima",
         "text": "Your Honors. I am Representative Leila de Lima from the Mamamayang Liberal, or ML, Party-list, respectfully appearing as public prosecutor. We’re ready.",
         "confidence": 0.8730044157608695,
         "editorial_flags": []
@@ -1546,7 +1546,7 @@
         "stable_id": "S00218",
         "start_seconds": 5540.67,
         "end_seconds": 5556.8,
-        "speaker": "Joel R. Chua",
+        "speaker": "Rep. Joel R. Chua",
         "text": "Good Good afternoon, Your Honor. I am Congressman Joel Chua, respectfully appearing as public prosecutor, representing the Third District of Manila.",
         "confidence": 0.9533935546875,
         "editorial_flags": []
@@ -1555,7 +1555,7 @@
         "stable_id": "S00219",
         "start_seconds": 5559.93,
         "end_seconds": 5563.99,
-        "speaker": "Arlene “Kaka” J. Bag-ao",
+        "speaker": "Rep. Arlene “Kaka” J. Bag-ao",
         "text": "Good afternoon, Your Honors. I am Arlene “Kaka”",
         "confidence": 0.9883161272321429,
         "editorial_flags": []
@@ -1564,7 +1564,7 @@
         "stable_id": "S00220",
         "start_seconds": 5563.99,
         "end_seconds": 5569.43,
-        "speaker": "Arlene “Kaka” J. Bag-ao",
+        "speaker": "Rep. Arlene “Kaka” J. Bag-ao",
         "text": "Bag-ao from Dinagat Islands, respectfully appearing as public prosecutor. Ready, Your Honor.",
         "confidence": 0.7546978574810606,
         "editorial_flags": []
@@ -1573,7 +1573,7 @@
         "stable_id": "S00221",
         "start_seconds": 5572.73,
         "end_seconds": 5581.07,
-        "speaker": "Lorenz R. Defensor",
+        "speaker": "Rep. Lorenz R. Defensor",
         "text": "Good afternoon, Your Honors. I am Representative Lorenz R. Defensor from the Third District of Iloilo, respectfully appearing as public prosecutor.",
         "confidence": 0.9192902095734128,
         "editorial_flags": []
@@ -1582,7 +1582,7 @@
         "stable_id": "S00222",
         "start_seconds": 5585.08,
         "end_seconds": 5586.94,
-        "speaker": "Jonathan Keith T. Flores",
+        "speaker": "Rep. Jonathan Keith T. Flores",
         "text": "Good afternoon, Your Honors. Representative",
         "confidence": 0.9794921875,
         "editorial_flags": []
@@ -1591,7 +1591,7 @@
         "stable_id": "S00224",
         "start_seconds": 5586.94,
         "end_seconds": 5591.5,
-        "speaker": "Jonathan Keith T. Flores",
+        "speaker": "Rep. Jonathan Keith T. Flores",
         "text": "Jonathan Keith T. Flores of the Second District of Bukidnon as public prosecutor.",
         "confidence": 0.9506804637419872,
         "editorial_flags": []
@@ -1600,7 +1600,7 @@
         "stable_id": "S00225",
         "start_seconds": 5594.09,
         "end_seconds": 5601.97,
-        "speaker": "Ysabel Maria J. Zamora",
+        "speaker": "Rep. Ysabel Maria J. Zamora",
         "text": "Good afternoon, Your Honors. Representative Ysabel Maria J. Zamora from the Lone District of San Juan City as public prosecutor.",
         "confidence": 0.9824604235197368,
         "editorial_flags": []
@@ -1609,7 +1609,7 @@
         "stable_id": "S00226",
         "start_seconds": 5604.4,
         "end_seconds": 5610.46,
-        "speaker": "Terry L. Ridon",
+        "speaker": "Rep. Terry L. Ridon",
         "text": "Good afternoon. Representative Terry L. Ridon of Bicol Saro Party-list. We are ready, Your Honor. Good afternoon,",
         "confidence": 0.8747914632161459,
         "editorial_flags": []
@@ -1618,7 +1618,7 @@
         "stable_id": "S00227",
         "start_seconds": 5612.86,
         "end_seconds": 5618.3,
-        "speaker": "Ramon Rodrigo D. Gutierrez",
+        "speaker": "Rep. Ramon Rodrigo D. Gutierrez",
         "text": "Your Honors. Representative Ramon Rodrigo D. Gutierrez of 1-Rider Party-list, respectfully entering appearance for the public prosecution.",
         "confidence": 0.9044505931712963,
         "editorial_flags": []
@@ -1627,7 +1627,7 @@
         "stable_id": "S00228",
         "start_seconds": 5622.05,
         "end_seconds": 5629.91,
-        "speaker": "Lordan G. Suan",
+        "speaker": "Rep. Lordan G. Suan",
         "text": "Good afternoon, Your Honors. Representative Lordan G. Suan of the First District of Cagayan de Oro City, respectfully appearing for the prosecution.",
         "confidence": 0.9638439360119048,
         "editorial_flags": []
@@ -1798,7 +1798,7 @@
         "stable_id": "S00250",
         "start_seconds": 5978.87,
         "end_seconds": 5994.07,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "We understand, Your Honor, that only 13 private prosecutors entered their appearance today. Nevertheless, Your Honor, as manifested by the Honorable Diokno, a written entry of appearance has been filed already with the Honorable Impeachment Court.",
         "confidence": 0.97119140625,
         "editorial_flags": []
@@ -1816,7 +1816,7 @@
         "stable_id": "S00252",
         "start_seconds": 6004.63,
         "end_seconds": 6028.04,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Honor, the entire 15 private prosecutors have entered their written, have filed already their written entry of appearance with the impeachment court. The articles of impeachment will be presented by four separate teams, Your Honor. That explains why the House prosecutors or the panel of prosecutors are joined by 15 private prosecutors, Your Honor.",
         "confidence": 0.9780906394675926,
         "editorial_flags": []
@@ -1843,7 +1843,7 @@
         "stable_id": "S00255",
         "start_seconds": 6051.78,
         "end_seconds": 6057.54,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Your Honor, all the 11 House prosecutors are members of the legal profession.",
         "confidence": 0.9969200721153846,
         "editorial_flags": []
@@ -1879,7 +1879,7 @@
         "stable_id": "S00259",
         "start_seconds": 6075.71,
         "end_seconds": 6079.33,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Your Honor, may I just enter a correction to the earlier manifestation?",
         "confidence": 0.9982503255208334,
         "editorial_flags": []
@@ -1897,7 +1897,7 @@
         "stable_id": "S00261",
         "start_seconds": 6080.63,
         "end_seconds": 6093.89,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Instead of 13, 14 private prosecutors are able to enter their appearance today. Nonetheless. All the 15 have filed their written entry of appearance with the impeachment court, Your Honor.",
         "confidence": 0.9857584635416666,
         "editorial_flags": []
@@ -2104,7 +2104,7 @@
         "stable_id": "S00286",
         "start_seconds": 6332.82,
         "end_seconds": 6418.17,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Your Honor, before I proceed. The prosecution respectfully moves for the reading of the four articles of impeachment and the entry of the corresponding answer or plea for each article of impeachment, Your Honor. This is consistent with the Senate Rules on Impeachment, particularly Rule 7, the last paragraph of which mentions failure to appear, failure of the lawyer to appear, and failure to file an answer. There should be an entry of a plea of not guilty. Likewise, Your Honor, under Rule 9 of the Senate Rules on Impeachment, which says that the person impeached shall then be called to appear and answer the articles of impeachment against him or her, it was likewise provided that the name of the person appearing on behalf of the respondent should be entered into the record. And by the answer, Your Honor, it is humbly believed that it pertains to the particular plea of whether guilty or not guilty of the respondent. Likewise, Your Honor, under Rule 21, the",
         "confidence": 0.9727405050526494,
         "editorial_flags": []
@@ -2113,7 +2113,7 @@
         "stable_id": "S00287",
         "start_seconds": 6420.0,
         "end_seconds": 6455.21,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "trial of all the articles of impeachment shall be completed before the Senators vote. on the final question of whether or not the impeachment is sustained. It is gleaned from these rules, Your Honor, that the senators will be voting on a per-article basis, Your Honor. And that is why it is the humble submission of the prosecution that there should be reading of the article and entry of the particular plea per article, Your Honor. This likewise, Your Honor, manifests our complete adherence to the mandate of the Constitution.",
         "confidence": 0.9617495135073261,
         "editorial_flags": []
@@ -2122,7 +2122,7 @@
         "stable_id": "S00289",
         "start_seconds": 6462.97,
         "end_seconds": 6529.65,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Likewise, Your Honor, it upholds due process not only of the respondent but also of the Filipino people. Sa pagbasa po ng mga artikulo ng impeachment, she will be informed of the nature of the accusation against her bago pa po siya sumagot whether she is guilty or not guilty, Your Honor. Likewise, Your Honor, ang apat na artikulo po ng impeachment ay nakabase sa iba't ibang aligasyon ng facts at iba't ibang nature of accusation or cause of action, Your Honor. And with that, Your Honor, it is perceived that there is a possibility that the plea of the respondent to each and every article will be different from one another, Your Honor. And lastly, Your Honor, this is consistent with the Senate rules on impeachment because the senator judges, the honorable senator judges, Your Honor, will be voting on a per-article basis after the conclusion of the trial of this impeachment case, Your Honor.",
         "confidence": 0.49755859375,
         "editorial_flags": []
@@ -2176,7 +2176,7 @@
         "stable_id": "S00293",
         "start_seconds": 6562.97,
         "end_seconds": 6571.89,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Your Honor, whether this is arraignment or otherwise, the motion of the prosecution is very much consistent with the Senate rules on impeachment. I",
         "confidence": 0.9687974717881945,
         "editorial_flags": []
@@ -2266,7 +2266,7 @@
         "stable_id": "S00303",
         "start_seconds": 6904.16,
         "end_seconds": 6905.28,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "We thank the court, Your Honor.",
         "confidence": 0.9740397135416666,
         "editorial_flags": []
@@ -2275,7 +2275,7 @@
         "stable_id": "S00304",
         "start_seconds": 6910.28,
         "end_seconds": 6945.23,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Mr. Presiding Officer, the Honorable Chiz Escudero, the Honorable Senate President, Honorable Win Gatchalian, to our distinguished Senator Judges, to our beloved countrymen, whether inside or outside, to those who are watching on television, on cell phones or on the radio, wherever the world may be, you are here.",
         "confidence": 0.6796875,
         "editorial_flags": []
@@ -2284,7 +2284,7 @@
         "stable_id": "S00307",
         "start_seconds": 6947.79,
         "end_seconds": 6953.84,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Many Filipinos are asking today, why is this process so important?",
         "confidence": 0.3593597412109375,
         "editorial_flags": []
@@ -2293,7 +2293,7 @@
         "stable_id": "S00310",
         "start_seconds": 6956.42,
         "end_seconds": 6961.64,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Ano ang kaugnayan nito sa buhay ng ordinaryong Pilipino?",
         "confidence": 0.9343442563657407,
         "editorial_flags": []
@@ -2302,7 +2302,7 @@
         "stable_id": "S00311",
         "start_seconds": 6963.2,
         "end_seconds": 7087.01,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Lubos po naming nauunawaan ang mga tanong na yan. Sa katunayan, may isang driver na nagtatanong paano sasapat ang kita sa pasada upang mapakain niya ang kanyang pamilya. May isang OFW na nagtatanong hanggang kailan kailangan lumayo. upang mapaaral niya ang kanyang mga anak. May isang guro na nagtatanong paano pagkakasyahin ang kanyang sahod sa dami ng utang na hinuhulugan. May isang manggagawa na nagtatanong hanggang kailan magtitiis sa pansamantalang trabaho at kakarampot na sweldo. Sa unang tingin, maaring sabihin na malayo sa buhay nila ang paglilitis na ito. Ngunit hindi, hindi po sapagkat ang usapin ngayon ay patungkol sa isang bagay na pag-aari nilang lahat. Ang kanilang pera, ang kanilang tiwala, ang kanilang karapatan na maningil ng pananagutan mula sa mga pinuno na kanilang pinagkatiwalaan. Kapag ang isang empleyado ay nagkamali ng paggamit ng pera ng kumpanya, Siya ay pinagpapaliwanag. Kapag ang isang barangay treasurer hindi maipaliwanag ang nawawalang pondo, siya ay iniimbestigahan. Kapag ang isang principal ay naglustay ng pera ng bayan, kahit limang libo lang yan, siya ay pinaparusahan. Natural lamang na magtanong ang sambayanan kung ang ordinaryong Pilipino ay pinapanagot.",
         "confidence": 0.9718359896908403,
         "editorial_flags": []
@@ -2311,7 +2311,7 @@
         "stable_id": "S00312",
         "start_seconds": 7088.8099999999995,
         "end_seconds": 7120.58,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Bakit hindi ang pinakamakapangyarihang opisyal ng pamahalaan? Ito ang dahilan kung bakit mahalaga ang paglilitis na ito. Hindi upang usigin ang isang tao. Hindi upang maghiganti sa kalaban. Hindi upang manalo sa politika. Kundi upang sagutin ang isang tanong na napakahalaga sa kinabukasan ng ating Republika.",
         "confidence": 0.9747294973819813,
         "editorial_flags": []
@@ -2320,7 +2320,7 @@
         "stable_id": "S00313",
         "start_seconds": 7122.09,
         "end_seconds": 7125.97,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "May saysay pa ba ang pananagutan sa ating bansa",
         "confidence": 0.8636745876736112,
         "editorial_flags": []
@@ -2329,7 +2329,7 @@
         "stable_id": "S00314",
         "start_seconds": 7128.18,
         "end_seconds": 7144.07,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "sapagkat ang kasong ito ay higit at lampas sa sino mang opisyal, higit at lampas sa anumang partido, higit at lampas sa alinmang administrasyon.",
         "confidence": 0.9631568060980903,
         "editorial_flags": []
@@ -2338,7 +2338,7 @@
         "stable_id": "S00315",
         "start_seconds": 7146.3099999999995,
         "end_seconds": 7191.11,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Your Honors, the framers of the Constitution understood that there may come a day when extraordinary power would be entrusted to extraordinary office. They also understood that there may come a day when trust would be broken. And that is why they gave the House of Representatives the power to impeach and the Senate the duty to judge, not to punish political opponents, not to settle political scores, but to protect. the Republic itself.",
         "confidence": 0.9641410209037162,
         "editorial_flags": []
@@ -2347,7 +2347,7 @@
         "stable_id": "S00316",
         "start_seconds": 7193.0,
         "end_seconds": 7264.09,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "That is why the Constitution declares public office is a public trust. Ang kapangyarihan ay hindi pag-aari ng sino mang opisyal. Hiram lamang ito sa taong bayan. At ito ang dahilan kung bakit naririto tayo ngayon. Your Honors, the prosecution will present exactly what the Constitution requires. Evidence. Hindi chismis. Hindi hakahaka. Hindi propaganda at lalong hindi SOCMED narrative. Evidence, official records, financial documents, government reports, video recording, statements under oath, independent findings of institutions created by law. Mga dokumento na hindi bumoboto. Mga records na walang partido.",
         "confidence": 0.9704493376199672,
         "editorial_flags": []
@@ -2356,7 +2356,7 @@
         "stable_id": "S00317",
         "start_seconds": 7265.74,
         "end_seconds": 7277.92,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Mga katotohanan na walang kulay pampolitika. Sa unang tingin, maaring magmukhang magkakahiwalay ang four articles of impeachment.",
         "confidence": 0.9642621208639706,
         "editorial_flags": []
@@ -2365,7 +2365,7 @@
         "stable_id": "S00318",
         "start_seconds": 7279.46,
         "end_seconds": 7315.01,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Confidential fund, unexplained wealth, bribery and corruption, threat against constitutional order. But these are not four separate stories. These are four chapters of the same story. Story about power exercised without accountability. Story about public trust betrayed. Story about public office that stopped answering to the public. On the first article of impeachment,",
         "confidence": 0.9901391755110064,
         "editorial_flags": []
@@ -2374,7 +2374,7 @@
         "stable_id": "S00320",
         "start_seconds": 7315.35,
         "end_seconds": 7335.5,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "the evidence will show that more than 612 million pesos in confidential fund entrusted to the office of the Vice President and the Department of Education were disbursed. Transferred and liquidated under circumstances that cannot withstand scrutiny.",
         "confidence": 0.9714310257523149,
         "editorial_flags": []
@@ -2383,7 +2383,7 @@
         "stable_id": "S00321",
         "start_seconds": 7337.21,
         "end_seconds": 7359.34,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "612 million pesos. Hindi ito pera ng gobyerno. Pera ito ng sambayanan. Pera ng manggagawa. Pera ng magsasaka. Pera ng OFW. Pera ng guro. Pera ng bawat Pilipino na nagpabayad ng buwis at nagtitiwala na gagamitin ito ng tama.",
         "confidence": 0.9849427834535257,
         "editorial_flags": []
@@ -2392,7 +2392,7 @@
         "stable_id": "S00324",
         "start_seconds": 7360.39,
         "end_seconds": 7404.51,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "The evidence will show liquidation reports supported by questionable documents. The evidence will show acknowledgment receipts bearing names government records could not verify. Names that transformed accountability into a mockery. Pananagutan na naging kalokohan. Names that insulted the intelligence of the Filipino people. Mary Grace Piattos, Milky Secuya, Kokoy Villamin. On the second article of impeachment, the evidence will show financial transactions involving billions of pesos associated with the respondent and her husband.",
         "confidence": 0.662109375,
         "editorial_flags": []
@@ -2401,7 +2401,7 @@
         "stable_id": "S00325",
         "start_seconds": 7406.17,
         "end_seconds": 7448.81,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Billions. Hindi milyon. Bilyon. At habang milyon-milyong Pilipino ang nagtatrabaho at nag-iipon buong buhay upang magkaroon ng sariling bahay, makapagpaaral ng mga anak, magkaroon ng konting siguridad para sa pamilya. Aba, bilyon-bilyong piso ang dumaan sa mga bank accounts na hindi maipaliwanag nang maayos. This article is not about wealth. This is about accountability. This is about explanation. If wealth was lawfully acquired, where is the lawful explanation?",
         "confidence": 0.9863267686631944,
         "editorial_flags": []
@@ -2410,7 +2410,7 @@
         "stable_id": "S00326",
         "start_seconds": 7450.46,
         "end_seconds": 7461.18,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "If transactions were proper, Where is the complete accounting? If numbers truly add up, then why do they refuse to reconcile?",
         "confidence": 0.9952334449404762,
         "editorial_flags": []
@@ -2419,7 +2419,7 @@
         "stable_id": "S00327",
         "start_seconds": 7462.89,
         "end_seconds": 7511.49,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "On the third article of impeachment, the evidence will show bribery, graft and corruption through the distribution of cash payments and monetary gifts to officials under the supervision of the respondent. This article is not simply about envelopes. This is about institution. This is about whether loyalty was purchased rather than earned. Government cannot function if loyalty is purchased instead of earned. Kapag nabibili ang katapatan, nawawala ang integridad. At kapag nabibili ang opisyal, nabubudol ang bayan.",
         "confidence": 0.9904896129261364,
         "editorial_flags": []
@@ -2428,7 +2428,7 @@
         "stable_id": "S00328",
         "start_seconds": 7513.23,
         "end_seconds": 7523.55,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Perhaps the greatest tragedy is where The conduct allegedly occurred in the Department of Education.",
         "confidence": 0.9551106770833333,
         "editorial_flags": []
@@ -2437,7 +2437,7 @@
         "stable_id": "S00329",
         "start_seconds": 7525.15,
         "end_seconds": 7599.0,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Tama po, sa DepEd. The institution entrusted with teaching future generations honesty, responsibility, integrity. On the fourth article of impeachment, the evidence will show culpable violation of the Constitution, high crimes, and betrayal of public trust through conduct that threatens constitutional order. Among all allegations before this Court, none strikes more directly at the heart of constitutional order than this one. Ito na po ang pinakamatindi. And unlike in many cases, which depend upon competing accounts, this evidence comes substantially from the respondent’s own recorded public statements. The Court will see them. The Court will hear them. The Court will judge them. Public officials may disagree. We may criticize one another. They may compete fiercely for power. That is democracy.",
         "confidence": 0.9718007405598958,
         "editorial_flags": []
@@ -2446,7 +2446,7 @@
         "stable_id": "S00330",
         "start_seconds": 7599.54,
         "end_seconds": 7605.31,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "But democracy ends when violence begins.",
         "confidence": 0.98818359375,
         "editorial_flags": []
@@ -2455,7 +2455,7 @@
         "stable_id": "S00332",
         "start_seconds": 7606.03,
         "end_seconds": 7617.48,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Sa kasaysayan ng ating Republika, walang Bise Presidente na may kaibigan na hitman. Ngayon lang,",
         "confidence": 0.9105747767857143,
         "editorial_flags": []
@@ -2464,7 +2464,7 @@
         "stable_id": "S00334",
         "start_seconds": 7619.01,
         "end_seconds": 7653.55,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "walang Bise Presidente na nagpapapatay ng Pangulo. Ngayon lang. Walang Bise Presidente na handang magpapatay para lamang makaupo sa puwesto. Ngayon lang. The Constitution provides many means to resolve political conflict: election, legislation, public debate, judicial review, and even impeachment. But it does not permit threats.",
         "confidence": 0.9848257078346631,
         "editorial_flags": []
@@ -2473,7 +2473,7 @@
         "stable_id": "S00335",
         "start_seconds": 7655.18,
         "end_seconds": 7666.6,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "It does not permit violence. It does not permit people entrusted with power to place themselves above constitutional restraints.",
         "confidence": 0.993421052631579,
         "editorial_flags": []
@@ -2482,7 +2482,7 @@
         "stable_id": "S00336",
         "start_seconds": 7668.56,
         "end_seconds": 7693.43,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Your Honors, at the center of this case lies a simple question, perhaps the most important to any republic. When the people entrust power to a public official, Does the public official remain accountable to the people? Or do the people become accountable to the public official?",
         "confidence": 0.9798142453457447,
         "editorial_flags": []
@@ -2491,7 +2491,7 @@
         "stable_id": "S00337",
         "start_seconds": 7695.28,
         "end_seconds": 7711.94,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "The Constitution's answer is very clear. Power belongs to the people. Public office is merely borrowed. And every borrowed power carries with it the obligation to account for its use.",
         "confidence": 0.9943684895833333,
         "editorial_flags": []
@@ -2500,7 +2500,7 @@
         "stable_id": "S00338",
         "start_seconds": 7713.58,
         "end_seconds": 7747.8,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "If a barangay treasurer must account for public fund, then so must the vice president. If an ordinary public servant can be investigated, then so can the highest officials of the government. If ordinary citizen is expected to obey the rules, then surely those who govern them must obey them first. Otherwise, what lessons do we teach our children?",
         "confidence": 0.975980424611582,
         "editorial_flags": []
@@ -2509,7 +2509,7 @@
         "stable_id": "S00339",
         "start_seconds": 7749.8099999999995,
         "end_seconds": 7754.55,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "That there is law for the powerful and another for everyone else.",
         "confidence": 0.9647216796875,
         "editorial_flags": []
@@ -2518,7 +2518,7 @@
         "stable_id": "S00340",
         "start_seconds": 7756.07,
         "end_seconds": 7780.24,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "That accountability exists only for the weak. That public office grants immunity against accountability. Your Honors, this is not the republic envisioned by the Constitution. This is not the republic deserved by the Filipino people.",
         "confidence": 0.9730050223214286,
         "editorial_flags": []
@@ -2527,7 +2527,7 @@
         "stable_id": "S00341",
         "start_seconds": 7782.07,
         "end_seconds": 7789.13,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Therefore, The prosecution asks only this. Look at the evidence.",
         "confidence": 0.955517578125,
         "editorial_flags": []
@@ -2536,7 +2536,7 @@
         "stable_id": "S00342",
         "start_seconds": 7790.68,
         "end_seconds": 7792.4,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Listen to the witnesses.",
         "confidence": 0.9998779296875,
         "editorial_flags": []
@@ -2545,7 +2545,7 @@
         "stable_id": "S00343",
         "start_seconds": 7793.9400000000005,
         "end_seconds": 7809.72,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Examine the records. Follow the evidence wherever it leads. Judge this case not by politics, not by popularity, not by fear, not by loyalty.",
         "confidence": 0.977935791015625,
         "editorial_flags": []
@@ -2554,7 +2554,7 @@
         "stable_id": "S00344",
         "start_seconds": 7811.5,
         "end_seconds": 7847.74,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Judge this case by the Constitution. Judge this case by the evidence. Years from now, future generations will not remember today’s political alliances. They will not remember today’s headlines. They will not remember today’s slogans. What they will remember is when accountability was tested, the institutions of the Republic stood firm. They will remember only one thing.",
         "confidence": 0.9851245545504386,
         "editorial_flags": []
@@ -2563,7 +2563,7 @@
         "stable_id": "S00345",
         "start_seconds": 7849.61,
         "end_seconds": 7854.43,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "What this court did when the Constitution called.",
         "confidence": 0.92041015625,
         "editorial_flags": []
@@ -2572,7 +2572,7 @@
         "stable_id": "S00346",
         "start_seconds": 7856.3099999999995,
         "end_seconds": 7875.52,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Future generations will not ask how powerful the respondent was. They will not ask how loud the political debate became. But they will ask one thing. When the Constitution called, did the Republic answer?",
         "confidence": 0.9958424287683824,
         "editorial_flags": []
@@ -2581,7 +2581,7 @@
         "stable_id": "S00347",
         "start_seconds": 7878.46,
         "end_seconds": 7882.5599999999995,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Your Honors, this is that moment.",
         "confidence": 0.9637044270833334,
         "editorial_flags": []
@@ -2590,7 +2590,7 @@
         "stable_id": "S00348",
         "start_seconds": 7884.4,
         "end_seconds": 7887.7,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "This is the moment the Constitution anticipated.",
         "confidence": 0.9865373883928571,
         "editorial_flags": []
@@ -2599,7 +2599,7 @@
         "stable_id": "S00349",
         "start_seconds": 7889.29,
         "end_seconds": 7912.46,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "This is the moment when accountability must mean exactly what it says. This is the moment when public office must truly remain a public trust. This is the moment when the Republic must demonstrate that laws are applied equally to the powerful and the powerless alike.",
         "confidence": 0.9950322690217391,
         "editorial_flags": []
@@ -2608,7 +2608,7 @@
         "stable_id": "S00350",
         "start_seconds": 7914.76,
         "end_seconds": 7950.24,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "At matapos marinig ang mga saksi, matapos masuri ang mga dokumento, matapos matimbang lahat ng ebidensya, ang prosekusyon ay naniniwala at naninindigan. Isa lamang ang maliwanag na konklusyon. Ang tiwalang ipinagkaloob ay nilabag. Ang kapangyarihang ipinahiram ay inabuso. At ang konstitusyon mismo. ang humihingi ng pananagutan.",
         "confidence": 0.9898766559103261,
         "editorial_flags": []
@@ -2617,7 +2617,7 @@
         "stable_id": "S00351",
         "start_seconds": 7951.92,
         "end_seconds": 7975.5599999999995,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Amid the clarity of the mandate of the Constitution, political noise continues, political squabbles continues, political division continues. Please, let me conclude. Salus populi est suprema lex. The welfare of the people is the supreme law.",
         "confidence": 0.9633812313988096,
         "editorial_flags": []
@@ -2626,7 +2626,7 @@
         "stable_id": "S00352",
         "start_seconds": 7978.02,
         "end_seconds": 7979.16,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Thank you, Your Honor.",
         "confidence": 0.9947509765625,
         "editorial_flags": []
@@ -2720,7 +2720,7 @@
         "stable_id": "S00368",
         "start_seconds": 9037.19,
         "end_seconds": 9058.45,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "Thank you, Your Honor. The first article we will be presenting will be Article 4 on grave threats. Second will be confidential funds, Article 1. Third, bribery. That is Article 3. And the fourth is unexplained wealth, Your Honors. That's Article 4.",
         "confidence": 0.9583710461128049,
         "editorial_flags": []
@@ -2729,7 +2729,7 @@
         "stable_id": "S00369",
         "start_seconds": 9061.44,
         "end_seconds": 9065.5,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "No, 2. I'm sorry, Article 2. I stand corrected.",
         "confidence": 0.9769694010416666,
         "editorial_flags": []
@@ -2747,7 +2747,7 @@
         "stable_id": "S00371",
         "start_seconds": 9075.18,
         "end_seconds": 9076.7,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "Yes, that is correct, Your Honor.",
         "confidence": 0.9996744791666666,
         "editorial_flags": []
@@ -2765,7 +2765,7 @@
         "stable_id": "S00373",
         "start_seconds": 9086.44,
         "end_seconds": 9087.82,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "your honor again",
         "confidence": 0.91796875,
         "editorial_flags": []
@@ -2801,7 +2801,7 @@
         "stable_id": "S00377",
         "start_seconds": 9113.42,
         "end_seconds": 9138.38,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "Next item in the agenda. If Your Honor please, I just noticed that Your Honor had already directed counsel for the defense not to propound questions to the prosecution. This is already the second time that she's doing that. She appears to be assuming or arrogating the powers of the court, because as I understand the rules, it's only the court that can propound questions to counsel.",
         "confidence": 0.73876953125,
         "editorial_flags": []
@@ -2864,7 +2864,7 @@
         "stable_id": "S00387",
         "start_seconds": 9180.68,
         "end_seconds": 9184.1,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "We are amenable to the five-day disclosure rule.",
         "confidence": 0.8598388671875,
         "editorial_flags": []
@@ -2900,7 +2900,7 @@
         "stable_id": "S00391",
         "start_seconds": 9464.94,
         "end_seconds": 9472.3,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "If I understand the record, Your Honor please, it is a subpoena both ad testificandum and duces tecum.",
         "confidence": 0.8481804342830882,
         "editorial_flags": []
@@ -2918,7 +2918,7 @@
         "stable_id": "S00393",
         "start_seconds": 9482.19,
         "end_seconds": 9486.67,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "Your Honor. I stand corrected, Your Honor, please. It's just for ad testificandum.",
         "confidence": 0.9486083984375,
         "editorial_flags": []
@@ -2999,7 +2999,7 @@
         "stable_id": "S00407",
         "start_seconds": 9876.6,
         "end_seconds": 9886.56,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "If Your Honor please, before the defense makes a comment, just to obviate the proceedings and to facilitate the hearing today, if I may first—",
         "confidence": 0.8979304387019231,
         "editorial_flags": []
@@ -3017,7 +3017,7 @@
         "stable_id": "S00409",
         "start_seconds": 9890.11,
         "end_seconds": 9892.15,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "May I be recognized, Your Honor?",
         "confidence": 0.980224609375,
         "editorial_flags": []
@@ -3035,7 +3035,7 @@
         "stable_id": "S00411",
         "start_seconds": 9904.61,
         "end_seconds": 9960.09,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "If Your Honor please, the subpoena request that was just read by the clerk of court pertains to a request that the prosecution filed in early june where we had requested that the documents specified be brought to the Honorable Court on June 24. Since that date has passed and no issue, no subpoena has been issued, we had refiled just this afternoon a subpoena reiterating the same requests and in the interest of justice and to allow the defense to comment or if they want object to the request that we filed this afternoon. Perhaps if I may suggest, if Your Honor, please, that we provide the copy to the defense, give them a period of time to submit their opposition or objection, and as well the same period of time to the prosecution to reply before the Honorable Court rules on this request.",
         "confidence": 0.9488878973599137,
         "editorial_flags": []
@@ -3053,7 +3053,7 @@
         "stable_id": "S00413",
         "start_seconds": 9972.69,
         "end_seconds": 9984.03,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "No, Your Honor. It contains the same documents that we had requested earlier, but there were some additional documents that were also mentioned in the request we filed this afternoon.",
         "confidence": 0.9952311197916667,
         "editorial_flags": []
@@ -3170,7 +3170,7 @@
         "stable_id": "S00429",
         "start_seconds": 10201.17,
         "end_seconds": 10216.51,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "Counsel for prosecutor? Yes. May I be allowed to make a counter-manifestation? Just a brief one with respect to the statement of defense counsel regarding the application of the case of Duterte v. House of Representatives.",
         "confidence": 0.9535579427083333,
         "editorial_flags": []
@@ -3188,7 +3188,7 @@
         "stable_id": "S00431",
         "start_seconds": 10219.03,
         "end_seconds": 10288.55,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "Your Honor, the decision and the resolution of the Honorable Supreme Court in that case did not say... that any pre-term evidence is inadmissible. There is no statement like that at all in the entire decision and the resolution. What the Supreme Court said, and I quote, was very simple. The basis of any charge must be for impeachable acts or omissions committed in relation to their office and during the current term of the impeachable officer. All of the articles in this particular case pertain to impeachable acts committed by the Vice President during her term as an impeachable officer, including unexplained wealth. If I may just be allowed one minute, Your Honor, to explain that. The unexplained wealth, Your Honor, that is amassed prior to the term of a Vice President is relevant and material to her being an impeachable officer. Because wealth of that magnitude—millions or even billions of pesos—continues to benefit the Vice President.",
         "confidence": 0.9584252059584644,
         "editorial_flags": []
@@ -3197,7 +3197,7 @@
         "stable_id": "S00433",
         "start_seconds": 10288.55,
         "end_seconds": 10322.39,
-        "speaker": "Jose Manuel “Chel” I. Diokno",
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
         "text": "It's very clear that when a local government official, for example, who later becomes a national official, amasses hundreds of millions, if not billions of pesos, then that benefit continues today. Second, if Your Honor please, integrity hindi po pwedeng biyakin po 'yan na kesa dati ay hindi po ganoon at ngayon ay may integridad it's very clear that integrity is a continuing requirement of fitness for office Thank you, Your Honor.",
         "confidence": 0.931330837673611,
         "editorial_flags": []

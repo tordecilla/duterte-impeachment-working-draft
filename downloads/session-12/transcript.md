@@ -56,10 +56,10 @@ Appearances of the parties.
 **[00:08:00.320] Sen. Francis “Chiz” Escudero**  
 Tech, kindly turn on the mic.
 
-**[00:08:09.100] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:08:09.100] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Good afternoon, Your Honors. Same appearance for the Prosecution.
 
-**[00:08:15.460] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:08:15.460] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We are ready, Your Honor.
 
 **[00:08:16.840] Sen. Francis “Chiz” Escudero**  
@@ -71,10 +71,10 @@ Good afternoon, Your Honors. Same appearance for the Vice President.
 **[00:08:26.990] Sen. Francis “Chiz” Escudero**  
 The Clerk of Court is instructed to kindly bring the witness who was testifying yesterday, I believe Mr. Calilung.
 
-**[00:08:41.330] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:08:41.330] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, the prosecution is ready for the continuation of the presentation of our first witness, NBI agent Calilung.
 
-**[00:08:51.770] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:08:51.770] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 And with that, Your Honor, we would like to request that Atty. Virgil Ligutan, Atty. Amado Ligutan, be recognized, Your Honor.
 
 **[00:09:10.030] Sen. Francis “Chiz” Escudero**  
@@ -3680,19 +3680,19 @@ Matibag, Atty.
 **[02:57:40.810] Sen. Francis “Chiz” Escudero**  
 Matibag, To reiterate, Your Honor,
 
-**[02:57:45.020] Lorenz R. Defensor**  
+**[02:57:45.020] Rep. Lorenz R. Defensor**  
 may I be recognized? I
 
 **[02:57:46.240] Sen. Francis “Chiz” Escudero**  
 apologize. Yes, the member of the panel of prosecutors, Representative Defensor, what is your pleasure, sir?
 
-**[02:57:52.560] Lorenz R. Defensor**  
+**[02:57:52.560] Rep. Lorenz R. Defensor**  
 Your Honor, may I just correct, since the private counsel is under the direct supervision and control of the counsel of prosecutors. For Monday, Your Honors, we will be presenting Atty. Jeremy Lotoc. For Wednesday, we will be presenting Atty. or Tuesday, we will be presenting Atty. Zuleika Lopez. And for Wednesday, our third witness, we will be presenting Captain Belinda Belliong.
 
 **[02:58:18.340] Sen. Francis “Chiz” Escudero**  
 So, Director Matibag is not yet going to be presented next week?
 
-**[02:58:22.680] Lorenz R. Defensor**  
+**[02:58:22.680] Rep. Lorenz R. Defensor**  
 Not yet, Your Honor. We will manifest on Monday if we can consider him for the Wednesday's session depending on how the trial goes or how long the testimonies will take for both parties.
 
 **[02:58:35.540] Sen. Francis “Chiz” Escudero**  
@@ -3707,13 +3707,13 @@ None yet, Your Honor.
 **[02:59:13.820] Sen. Francis “Chiz” Escudero**  
 None yet? I thought, um, yes, um...
 
-**[02:59:17.380] Lorenz R. Defensor**  
+**[02:59:17.380] Rep. Lorenz R. Defensor**  
 Your Honor, we confirmed that we emailed a copy to the Respondents. Last Monday, Your Honor. So
 
 **[02:59:24.720] Sen. Francis “Chiz” Escudero**  
 we can dispense with the need of reading the subpoena. Having said that, given that this has been put in issue in the pre-trial brief of both parties—or rather the counsel for respondent—we will accord the same treatment to this with respect to the subpoena request for the bank accounts of the spouses, Vice President Sara Duterte and Atty. Manases Carpio. Therefore, the Presiding Officer orders both parties to submit memoranda on the subject matter. We will also schedule the oral arguments for deciding on this issue together with the bank records on Wednesday. Each party will be given 10 minutes, without prejudice to rebuttal and also rebuttal by the other side for another three minutes, before the Court shall decide.
 
-**[03:00:20.060] Lorenz R. Defensor**  
+**[03:00:20.060] Rep. Lorenz R. Defensor**  
 We will comply, Your Honor.
 
 **[03:00:21.430] Atty. Mark C. Vinluan**  
@@ -3725,13 +3725,13 @@ Thank you. So ordered. In regard to the request for the issuance of a motion for
 **[03:00:37.320] Sen. Francis “Chiz” Escudero**  
 May I ask if counsel for the respondents were likewise furnished with a copy of the request for subpoena, although this is ex-parte because this is only with respect to witnesses. So there is no need to issue a subpoena to Atty. Melvin Matibag for next week. Honorable defense, sir? No
 
-**[03:00:55.100] Lorenz R. Defensor**  
+**[03:00:55.100] Rep. Lorenz R. Defensor**  
 need? No need, Your Honor.
 
 **[03:00:56.980] Sen. Francis “Chiz” Escudero**  
 So just Atty. Zuleika Lopez?
 
-**[03:00:59.360] Lorenz R. Defensor**  
+**[03:00:59.360] Rep. Lorenz R. Defensor**  
 Yes, Your Honor.
 
 **[03:01:00.260] Sen. Francis “Chiz” Escudero**  

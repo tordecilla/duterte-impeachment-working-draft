@@ -503,46 +503,46 @@ Case number 004-2026. In the matter of impeachment trial of Vice President Sara 
 **[01:31:11.980] Sen. Francis “Chiz” Escudero**  
 Appearances for the prosecution.
 
-**[01:31:20.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:31:20.630] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Good afternoon, Your Honors. We are 11 House prosecutors and 15 private prosecutors. I am Representative Gerville “Jinky Bitrics” Luistro, appearing for the prosecution. We are ready, Your Honor.
 
 **[01:31:36.810] Sen. Francis “Chiz” Escudero**  
 May we get the names of the other panel of prosecutors as well as the counsel for prosecutors one by one for the record.
 
-**[01:31:50.170] Jose Manuel “Chel” I. Diokno**  
+**[01:31:50.170] Rep. Jose Manuel “Chel” I. Diokno**  
 Good afternoon, if Your Honors please. We have already submitted the names of the public and private prosecutors who have formally entered their appearance. Good afternoon,
 
-**[01:32:10.980] Leila M. de Lima**  
+**[01:32:10.980] Rep. Leila M. de Lima**  
 Your Honors. I am Representative Leila de Lima from the Mamamayang Liberal, or ML, Party-list, respectfully appearing as public prosecutor. We’re ready.
 
-**[01:32:20.670] Joel R. Chua**  
+**[01:32:20.670] Rep. Joel R. Chua**  
 Good Good afternoon, Your Honor. I am Congressman Joel Chua, respectfully appearing as public prosecutor, representing the Third District of Manila.
 
-**[01:32:39.930] Arlene “Kaka” J. Bag-ao**  
+**[01:32:39.930] Rep. Arlene “Kaka” J. Bag-ao**  
 Good afternoon, Your Honors. I am Arlene “Kaka”
 
-**[01:32:43.990] Arlene “Kaka” J. Bag-ao**  
+**[01:32:43.990] Rep. Arlene “Kaka” J. Bag-ao**  
 Bag-ao from Dinagat Islands, respectfully appearing as public prosecutor. Ready, Your Honor.
 
-**[01:32:52.730] Lorenz R. Defensor**  
+**[01:32:52.730] Rep. Lorenz R. Defensor**  
 Good afternoon, Your Honors. I am Representative Lorenz R. Defensor from the Third District of Iloilo, respectfully appearing as public prosecutor.
 
-**[01:33:05.080] Jonathan Keith T. Flores**  
+**[01:33:05.080] Rep. Jonathan Keith T. Flores**  
 Good afternoon, Your Honors. Representative
 
-**[01:33:06.940] Jonathan Keith T. Flores**  
+**[01:33:06.940] Rep. Jonathan Keith T. Flores**  
 Jonathan Keith T. Flores of the Second District of Bukidnon as public prosecutor.
 
-**[01:33:14.090] Ysabel Maria J. Zamora**  
+**[01:33:14.090] Rep. Ysabel Maria J. Zamora**  
 Good afternoon, Your Honors. Representative Ysabel Maria J. Zamora from the Lone District of San Juan City as public prosecutor.
 
-**[01:33:24.400] Terry L. Ridon**  
+**[01:33:24.400] Rep. Terry L. Ridon**  
 Good afternoon. Representative Terry L. Ridon of Bicol Saro Party-list. We are ready, Your Honor. Good afternoon,
 
-**[01:33:32.860] Ramon Rodrigo D. Gutierrez**  
+**[01:33:32.860] Rep. Ramon Rodrigo D. Gutierrez**  
 Your Honors. Representative Ramon Rodrigo D. Gutierrez of 1-Rider Party-list, respectfully entering appearance for the public prosecution.
 
-**[01:33:42.050] Lordan G. Suan**  
+**[01:33:42.050] Rep. Lordan G. Suan**  
 Good afternoon, Your Honors. Representative Lordan G. Suan of the First District of Cagayan de Oro City, respectfully appearing for the prosecution.
 
 **[01:33:51.040] Sen. Francis “Chiz” Escudero**  
@@ -599,13 +599,13 @@ Good afternoon, Your Honors. Attorney Benjamin Tolosa Jr., respectfully appearin
 **[01:39:23.600] Sen. Francis “Chiz” Escudero**  
 No other entry of appearances? That's it? How many in all, Representative Luistro? Eleven on the part of the House insofar as the panel of prosecutors is concerned, and?
 
-**[01:39:38.870] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:39:38.870] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We understand, Your Honor, that only 13 private prosecutors entered their appearance today. Nevertheless, Your Honor, as manifested by the Honorable Diokno, a written entry of appearance has been filed already with the Honorable Impeachment Court.
 
 **[01:39:54.450] Sen. Francis “Chiz” Escudero**  
 Nevertheless, as they appear or will be participating in the trial, kindly inform them to enter their formal appearance. during the trial. Your
 
-**[01:40:04.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:40:04.630] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Honor, the entire 15 private prosecutors have entered their written, have filed already their written entry of appearance with the impeachment court. The articles of impeachment will be presented by four separate teams, Your Honor. That explains why the House prosecutors or the panel of prosecutors are joined by 15 private prosecutors, Your Honor.
 
 **[01:40:28.160] Sen. Francis “Chiz” Escudero**  
@@ -614,7 +614,7 @@ Noted. Thank you, ma'am. Senator Cayetano, what is the pleasure of the lady from
 **[01:40:34.900] Sen. Pia S. Cayetano**  
 Yes, Mr. President, I just have a question for the prosecution panel. I understand that there is no requirement for the members of the House who form part of the prosecution to be lawyers. But may I know if they are all lawyers and if some are not, may we know who are not lawyers? Thank you.
 
-**[01:40:51.780] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:40:51.780] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, all the 11 House prosecutors are members of the legal profession.
 
 **[01:41:01.390] Sen. Francis “Chiz” Escudero**  
@@ -626,13 +626,13 @@ Yes, I was just curious, Mr. President, because it's not a requirement, so I was
 **[01:41:11.970] Sen. Francis “Chiz” Escudero**  
 Duly noted. The response of the lead prosecutor is duly noted.
 
-**[01:41:15.710] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:41:15.710] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I just enter a correction to the earlier manifestation?
 
 **[01:41:19.750] Sen. Francis “Chiz” Escudero**  
 The lady may proceed.
 
-**[01:41:20.630] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:41:20.630] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Instead of 13, 14 private prosecutors are able to enter their appearance today. Nonetheless. All the 15 have filed their written entry of appearance with the impeachment court, Your Honor.
 
 **[01:41:34.290] Sen. Francis “Chiz” Escudero**  
@@ -701,13 +701,13 @@ I will deliver the opening statement for the defense, Your Honor.
 **[01:45:18.380] Sen. Francis “Chiz” Escudero**  
 Representative Luistro from the panel of prosecutors of the House of Representatives is now recognized to deliver her opening statement for the prosecution. You may proceed, ma'am, and you have 15 minutes.
 
-**[01:45:32.820] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:45:32.820] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, before I proceed. The prosecution respectfully moves for the reading of the four articles of impeachment and the entry of the corresponding answer or plea for each article of impeachment, Your Honor. This is consistent with the Senate Rules on Impeachment, particularly Rule 7, the last paragraph of which mentions failure to appear, failure of the lawyer to appear, and failure to file an answer. There should be an entry of a plea of not guilty. Likewise, Your Honor, under Rule 9 of the Senate Rules on Impeachment, which says that the person impeached shall then be called to appear and answer the articles of impeachment against him or her, it was likewise provided that the name of the person appearing on behalf of the respondent should be entered into the record. And by the answer, Your Honor, it is humbly believed that it pertains to the particular plea of whether guilty or not guilty of the respondent. Likewise, Your Honor, under Rule 21, the
 
-**[01:47:00.000] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:47:00.000] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 trial of all the articles of impeachment shall be completed before the Senators vote. on the final question of whether or not the impeachment is sustained. It is gleaned from these rules, Your Honor, that the senators will be voting on a per-article basis, Your Honor. And that is why it is the humble submission of the prosecution that there should be reading of the article and entry of the particular plea per article, Your Honor. This likewise, Your Honor, manifests our complete adherence to the mandate of the Constitution.
 
-**[01:47:42.970] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:47:42.970] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Likewise, Your Honor, it upholds due process not only of the respondent but also of the Filipino people. Sa pagbasa po ng mga artikulo ng impeachment, she will be informed of the nature of the accusation against her bago pa po siya sumagot whether she is guilty or not guilty, Your Honor. Likewise, Your Honor, ang apat na artikulo po ng impeachment ay nakabase sa iba't ibang aligasyon ng facts at iba't ibang nature of accusation or cause of action, Your Honor. And with that, Your Honor, it is perceived that there is a possibility that the plea of the respondent to each and every article will be different from one another, Your Honor. And lastly, Your Honor, this is consistent with the Senate rules on impeachment because the senator judges, the honorable senator judges, Your Honor, will be voting on a per-article basis after the conclusion of the trial of this impeachment case, Your Honor.
 
 **[01:48:50.790] Sen. Francis “Chiz” Escudero**  
@@ -725,7 +725,7 @@ Before the presiding officer can rule on the motion or request of the lead prose
 **[01:49:10.630] Sheila C. Sison**  
 But before I give my comment, may I just clarify if the lead prosecutor is now making a motion to arraign the respondent accused?
 
-**[01:49:22.970] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:49:22.970] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, whether this is arraignment or otherwise, the motion of the prosecution is very much consistent with the Senate rules on impeachment. I
 
 **[01:49:31.890] Sheila C. Sison**  
@@ -755,127 +755,127 @@ Thank you, Your Honor. I believe I have a standing question to the lead prosecut
 **[01:53:50.140] Sen. Francis “Chiz” Escudero**  
 The arguments of the parties are duly noted. Chair will now make its ruling. The articles of impeachment were deemed read and spread into the records when it was referred by the Senate to the Committee on Justice for the proper issuance of summons. And a plea of not guilty will only be entered in accordance with our rules in behalf of the Vice President if she does not file an answer. But in this case, she has filed an answer and in fact has appeared through counsel. Insofar as the reading of the articles of impeachment is concerned, it will be done. At the final resolution of this case, when it is put to a vote by the senator judges, where each article of impeachment will be read before a vote shall be taken thereon. For those reasons, the motion is denied and the lead prosecutor, Representative Luistro, may proceed with her opening statement. Kindly be mindful of the clock and before recognizing you, ma'am, may I remind the counsel for the parties to kindly address the chair with respect to anything and everything they want or wish to say before the court and not to address each other. The lady may proceed. Representative Luistro, you are recognized and you have 15 minutes for your opening remarks.
 
-**[01:55:04.160] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:55:04.160] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We thank the court, Your Honor.
 
-**[01:55:10.280] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:55:10.280] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Mr. Presiding Officer, the Honorable Chiz Escudero, the Honorable Senate President, Honorable Win Gatchalian, to our distinguished Senator Judges, to our beloved countrymen, whether inside or outside, to those who are watching on television, on cell phones or on the radio, wherever the world may be, you are here.
 
-**[01:55:47.790] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:55:47.790] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Many Filipinos are asking today, why is this process so important?
 
-**[01:55:56.420] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:55:56.420] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Ano ang kaugnayan nito sa buhay ng ordinaryong Pilipino?
 
-**[01:56:03.200] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:56:03.200] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Lubos po naming nauunawaan ang mga tanong na yan. Sa katunayan, may isang driver na nagtatanong paano sasapat ang kita sa pasada upang mapakain niya ang kanyang pamilya. May isang OFW na nagtatanong hanggang kailan kailangan lumayo. upang mapaaral niya ang kanyang mga anak. May isang guro na nagtatanong paano pagkakasyahin ang kanyang sahod sa dami ng utang na hinuhulugan. May isang manggagawa na nagtatanong hanggang kailan magtitiis sa pansamantalang trabaho at kakarampot na sweldo. Sa unang tingin, maaring sabihin na malayo sa buhay nila ang paglilitis na ito. Ngunit hindi, hindi po sapagkat ang usapin ngayon ay patungkol sa isang bagay na pag-aari nilang lahat. Ang kanilang pera, ang kanilang tiwala, ang kanilang karapatan na maningil ng pananagutan mula sa mga pinuno na kanilang pinagkatiwalaan. Kapag ang isang empleyado ay nagkamali ng paggamit ng pera ng kumpanya, Siya ay pinagpapaliwanag. Kapag ang isang barangay treasurer hindi maipaliwanag ang nawawalang pondo, siya ay iniimbestigahan. Kapag ang isang principal ay naglustay ng pera ng bayan, kahit limang libo lang yan, siya ay pinaparusahan. Natural lamang na magtanong ang sambayanan kung ang ordinaryong Pilipino ay pinapanagot.
 
-**[01:58:08.810] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:58:08.810] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Bakit hindi ang pinakamakapangyarihang opisyal ng pamahalaan? Ito ang dahilan kung bakit mahalaga ang paglilitis na ito. Hindi upang usigin ang isang tao. Hindi upang maghiganti sa kalaban. Hindi upang manalo sa politika. Kundi upang sagutin ang isang tanong na napakahalaga sa kinabukasan ng ating Republika.
 
-**[01:58:42.090] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:58:42.090] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May saysay pa ba ang pananagutan sa ating bansa
 
-**[01:58:48.180] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:58:48.180] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 sapagkat ang kasong ito ay higit at lampas sa sino mang opisyal, higit at lampas sa anumang partido, higit at lampas sa alinmang administrasyon.
 
-**[01:59:06.310] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:59:06.310] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honors, the framers of the Constitution understood that there may come a day when extraordinary power would be entrusted to extraordinary office. They also understood that there may come a day when trust would be broken. And that is why they gave the House of Representatives the power to impeach and the Senate the duty to judge, not to punish political opponents, not to settle political scores, but to protect. the Republic itself.
 
-**[01:59:53.000] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[01:59:53.000] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 That is why the Constitution declares public office is a public trust. Ang kapangyarihan ay hindi pag-aari ng sino mang opisyal. Hiram lamang ito sa taong bayan. At ito ang dahilan kung bakit naririto tayo ngayon. Your Honors, the prosecution will present exactly what the Constitution requires. Evidence. Hindi chismis. Hindi hakahaka. Hindi propaganda at lalong hindi SOCMED narrative. Evidence, official records, financial documents, government reports, video recording, statements under oath, independent findings of institutions created by law. Mga dokumento na hindi bumoboto. Mga records na walang partido.
 
-**[02:01:05.740] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:01:05.740] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Mga katotohanan na walang kulay pampolitika. Sa unang tingin, maaring magmukhang magkakahiwalay ang four articles of impeachment.
 
-**[02:01:19.460] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:01:19.460] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Confidential fund, unexplained wealth, bribery and corruption, threat against constitutional order. But these are not four separate stories. These are four chapters of the same story. Story about power exercised without accountability. Story about public trust betrayed. Story about public office that stopped answering to the public. On the first article of impeachment,
 
-**[02:01:55.350] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:01:55.350] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 the evidence will show that more than 612 million pesos in confidential fund entrusted to the office of the Vice President and the Department of Education were disbursed. Transferred and liquidated under circumstances that cannot withstand scrutiny.
 
-**[02:02:17.210] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:02:17.210] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 612 million pesos. Hindi ito pera ng gobyerno. Pera ito ng sambayanan. Pera ng manggagawa. Pera ng magsasaka. Pera ng OFW. Pera ng guro. Pera ng bawat Pilipino na nagpabayad ng buwis at nagtitiwala na gagamitin ito ng tama.
 
-**[02:02:40.390] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:02:40.390] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 The evidence will show liquidation reports supported by questionable documents. The evidence will show acknowledgment receipts bearing names government records could not verify. Names that transformed accountability into a mockery. Pananagutan na naging kalokohan. Names that insulted the intelligence of the Filipino people. Mary Grace Piattos, Milky Secuya, Kokoy Villamin. On the second article of impeachment, the evidence will show financial transactions involving billions of pesos associated with the respondent and her husband.
 
-**[02:03:26.170] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:03:26.170] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Billions. Hindi milyon. Bilyon. At habang milyon-milyong Pilipino ang nagtatrabaho at nag-iipon buong buhay upang magkaroon ng sariling bahay, makapagpaaral ng mga anak, magkaroon ng konting siguridad para sa pamilya. Aba, bilyon-bilyong piso ang dumaan sa mga bank accounts na hindi maipaliwanag nang maayos. This article is not about wealth. This is about accountability. This is about explanation. If wealth was lawfully acquired, where is the lawful explanation?
 
-**[02:04:10.460] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:04:10.460] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 If transactions were proper, Where is the complete accounting? If numbers truly add up, then why do they refuse to reconcile?
 
-**[02:04:22.890] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:04:22.890] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 On the third article of impeachment, the evidence will show bribery, graft and corruption through the distribution of cash payments and monetary gifts to officials under the supervision of the respondent. This article is not simply about envelopes. This is about institution. This is about whether loyalty was purchased rather than earned. Government cannot function if loyalty is purchased instead of earned. Kapag nabibili ang katapatan, nawawala ang integridad. At kapag nabibili ang opisyal, nabubudol ang bayan.
 
-**[02:05:13.230] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:05:13.230] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Perhaps the greatest tragedy is where The conduct allegedly occurred in the Department of Education.
 
-**[02:05:25.150] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:05:25.150] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Tama po, sa DepEd. The institution entrusted with teaching future generations honesty, responsibility, integrity. On the fourth article of impeachment, the evidence will show culpable violation of the Constitution, high crimes, and betrayal of public trust through conduct that threatens constitutional order. Among all allegations before this Court, none strikes more directly at the heart of constitutional order than this one. Ito na po ang pinakamatindi. And unlike in many cases, which depend upon competing accounts, this evidence comes substantially from the respondent’s own recorded public statements. The Court will see them. The Court will hear them. The Court will judge them. Public officials may disagree. We may criticize one another. They may compete fiercely for power. That is democracy.
 
-**[02:06:39.540] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:06:39.540] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 But democracy ends when violence begins.
 
-**[02:06:46.030] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:06:46.030] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Sa kasaysayan ng ating Republika, walang Bise Presidente na may kaibigan na hitman. Ngayon lang,
 
-**[02:06:59.010] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:06:59.010] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 walang Bise Presidente na nagpapapatay ng Pangulo. Ngayon lang. Walang Bise Presidente na handang magpapatay para lamang makaupo sa puwesto. Ngayon lang. The Constitution provides many means to resolve political conflict: election, legislation, public debate, judicial review, and even impeachment. But it does not permit threats.
 
-**[02:07:35.180] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:07:35.180] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 It does not permit violence. It does not permit people entrusted with power to place themselves above constitutional restraints.
 
-**[02:07:48.560] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:07:48.560] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honors, at the center of this case lies a simple question, perhaps the most important to any republic. When the people entrust power to a public official, Does the public official remain accountable to the people? Or do the people become accountable to the public official?
 
-**[02:08:15.280] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:08:15.280] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 The Constitution's answer is very clear. Power belongs to the people. Public office is merely borrowed. And every borrowed power carries with it the obligation to account for its use.
 
-**[02:08:33.580] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:08:33.580] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 If a barangay treasurer must account for public fund, then so must the vice president. If an ordinary public servant can be investigated, then so can the highest officials of the government. If ordinary citizen is expected to obey the rules, then surely those who govern them must obey them first. Otherwise, what lessons do we teach our children?
 
-**[02:09:09.810] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:09:09.810] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 That there is law for the powerful and another for everyone else.
 
-**[02:09:16.070] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:09:16.070] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 That accountability exists only for the weak. That public office grants immunity against accountability. Your Honors, this is not the republic envisioned by the Constitution. This is not the republic deserved by the Filipino people.
 
-**[02:09:42.070] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:09:42.070] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Therefore, The prosecution asks only this. Look at the evidence.
 
-**[02:09:50.680] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:09:50.680] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Listen to the witnesses.
 
-**[02:09:53.940] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:09:53.940] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Examine the records. Follow the evidence wherever it leads. Judge this case not by politics, not by popularity, not by fear, not by loyalty.
 
-**[02:10:11.500] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:10:11.500] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Judge this case by the Constitution. Judge this case by the evidence. Years from now, future generations will not remember today’s political alliances. They will not remember today’s headlines. They will not remember today’s slogans. What they will remember is when accountability was tested, the institutions of the Republic stood firm. They will remember only one thing.
 
-**[02:10:49.610] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:10:49.610] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 What this court did when the Constitution called.
 
-**[02:10:56.310] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:10:56.310] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Future generations will not ask how powerful the respondent was. They will not ask how loud the political debate became. But they will ask one thing. When the Constitution called, did the Republic answer?
 
-**[02:11:18.460] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:11:18.460] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honors, this is that moment.
 
-**[02:11:24.400] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:11:24.400] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 This is the moment the Constitution anticipated.
 
-**[02:11:29.290] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:11:29.290] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 This is the moment when accountability must mean exactly what it says. This is the moment when public office must truly remain a public trust. This is the moment when the Republic must demonstrate that laws are applied equally to the powerful and the powerless alike.
 
-**[02:11:54.760] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:11:54.760] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 At matapos marinig ang mga saksi, matapos masuri ang mga dokumento, matapos matimbang lahat ng ebidensya, ang prosekusyon ay naniniwala at naninindigan. Isa lamang ang maliwanag na konklusyon. Ang tiwalang ipinagkaloob ay nilabag. Ang kapangyarihang ipinahiram ay inabuso. At ang konstitusyon mismo. ang humihingi ng pananagutan.
 
-**[02:12:31.920] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:12:31.920] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Amid the clarity of the mandate of the Constitution, political noise continues, political squabbles continues, political division continues. Please, let me conclude. Salus populi est suprema lex. The welfare of the people is the supreme law.
 
-**[02:12:58.020] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[02:12:58.020] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Thank you, Your Honor.
 
 **[02:12:59.890] Sen. Francis “Chiz” Escudero**  
@@ -905,22 +905,22 @@ The pre-trial order stated that the prosecution has a free hand to determine the
 **[02:30:33.490] Sen. Francis “Chiz” Escudero**  
 Attorney Diokno is recognized. You may proceed, sir.
 
-**[02:30:37.190] Jose Manuel “Chel” I. Diokno**  
+**[02:30:37.190] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you, Your Honor. The first article we will be presenting will be Article 4 on grave threats. Second will be confidential funds, Article 1. Third, bribery. That is Article 3. And the fourth is unexplained wealth, Your Honors. That's Article 4.
 
-**[02:31:01.440] Jose Manuel “Chel” I. Diokno**  
+**[02:31:01.440] Rep. Jose Manuel “Chel” I. Diokno**  
 No, 2. I'm sorry, Article 2. I stand corrected.
 
 **[02:31:05.820] Sen. Francis “Chiz” Escudero**  
 So the sequence of presentations shall be Article 4, Article 1, Article 3, and then Article 2.
 
-**[02:31:15.180] Jose Manuel “Chel” I. Diokno**  
+**[02:31:15.180] Rep. Jose Manuel “Chel” I. Diokno**  
 Yes, that is correct, Your Honor.
 
 **[02:31:16.820] Sen. Francis “Chiz” Escudero**  
 So I presume that beginning tomorrow, once we issue the subpoena for your first set of witnesses, you shall begin with article four yes
 
-**[02:31:26.440] Jose Manuel “Chel” I. Diokno**  
+**[02:31:26.440] Rep. Jose Manuel “Chel” I. Diokno**  
 your honor again
 
 **[02:31:28.110] Sen. Francis “Chiz” Escudero**  
@@ -932,7 +932,7 @@ you your honor may i ask if the prosecution is ready to present its first witnes
 **[02:31:48.690] Sen. Francis “Chiz” Escudero**  
 Duly noted. We will get to that later.
 
-**[02:31:53.420] Jose Manuel “Chel” I. Diokno**  
+**[02:31:53.420] Rep. Jose Manuel “Chel” I. Diokno**  
 Next item in the agenda. If Your Honor please, I just noticed that Your Honor had already directed counsel for the defense not to propound questions to the prosecution. This is already the second time that she's doing that. She appears to be assuming or arrogating the powers of the court, because as I understand the rules, it's only the court that can propound questions to counsel.
 
 **[02:32:19.080] Sheila C. Sison**  
@@ -953,7 +953,7 @@ Next item for us to dispense with, the witness disclosure rule.
 **[02:32:46.540] Sen. Francis “Chiz” Escudero**  
 The prosecution proposed a three-day witness disclosure rule. The respondent proposed a five-day witness disclosure rule, but I understand the prosecution is amenable to the five-day witness disclosure rule. Would that be correct?
 
-**[02:33:00.680] Jose Manuel “Chel” I. Diokno**  
+**[02:33:00.680] Rep. Jose Manuel “Chel” I. Diokno**  
 We are amenable to the five-day disclosure rule.
 
 **[02:33:04.100] Sen. Francis “Chiz” Escudero**  
@@ -965,13 +965,13 @@ The prosecution, through the undersigned public prosecutors, respectfully reques
 **[02:37:25.050] Sen. Francis “Chiz” Escudero**  
 We are not in receipt of any reservation or objection on the part of the respondent, counsel for respondent rather. However, Chair would like to ask the prosecutors, do you only request for a subpoena ad testificandum or a subpoena duces tecum as well?
 
-**[02:37:44.940] Jose Manuel “Chel” I. Diokno**  
+**[02:37:44.940] Rep. Jose Manuel “Chel” I. Diokno**  
 If I understand the record, Your Honor please, it is a subpoena both ad testificandum and duces tecum.
 
 **[02:37:54.080] Sen. Francis “Chiz” Escudero**  
 The motion filed by the prosecutors is only for a subpoena ad testificandum. That's why the chair is clarifying.
 
-**[02:38:02.190] Jose Manuel “Chel” I. Diokno**  
+**[02:38:02.190] Rep. Jose Manuel “Chel” I. Diokno**  
 Your Honor. I stand corrected, Your Honor, please. It's just for ad testificandum.
 
 **[02:38:07.150] Sheila C. Sison**  
@@ -998,25 +998,25 @@ requiring him or her or his or her authorized representative to submit to the cl
 **[02:44:34.820] Sheila C. Sison**  
 Your Honor, may I comment?
 
-**[02:44:36.600] Jose Manuel “Chel” I. Diokno**  
+**[02:44:36.600] Rep. Jose Manuel “Chel” I. Diokno**  
 If Your Honor please, before the defense makes a comment, just to obviate the proceedings and to facilitate the hearing today, if I may first—
 
 **[02:44:46.560] Sen. Francis “Chiz” Escudero**  
 Chair has not recognized anyone yet.
 
-**[02:44:50.110] Jose Manuel “Chel” I. Diokno**  
+**[02:44:50.110] Rep. Jose Manuel “Chel” I. Diokno**  
 May I be recognized, Your Honor?
 
 **[02:45:01.150] Sen. Francis “Chiz” Escudero**  
 Yes. Counsel for prosecutor.
 
-**[02:45:04.610] Jose Manuel “Chel” I. Diokno**  
+**[02:45:04.610] Rep. Jose Manuel “Chel” I. Diokno**  
 If Your Honor please, the subpoena request that was just read by the clerk of court pertains to a request that the prosecution filed in early june where we had requested that the documents specified be brought to the Honorable Court on June 24. Since that date has passed and no issue, no subpoena has been issued, we had refiled just this afternoon a subpoena reiterating the same requests and in the interest of justice and to allow the defense to comment or if they want object to the request that we filed this afternoon. Perhaps if I may suggest, if Your Honor, please, that we provide the copy to the defense, give them a period of time to submit their opposition or objection, and as well the same period of time to the prosecution to reply before the Honorable Court rules on this request.
 
 **[02:46:01.770] Sen. Francis “Chiz” Escudero**  
 Is the motion for subpoena duces tecum and/or ad testificandum that you filed today exactly the same as what you filed before?
 
-**[02:46:12.690] Jose Manuel “Chel” I. Diokno**  
+**[02:46:12.690] Rep. Jose Manuel “Chel” I. Diokno**  
 No, Your Honor. It contains the same documents that we had requested earlier, but there were some additional documents that were also mentioned in the request we filed this afternoon.
 
 **[02:46:24.430] Sen. Francis “Chiz” Escudero**  
@@ -1055,16 +1055,16 @@ No, that will not be on Monday.
 **[02:50:00.310] Sheila C. Sison**  
 Thank you, Your Honor.
 
-**[02:50:01.170] Jose Manuel “Chel” I. Diokno**  
+**[02:50:01.170] Rep. Jose Manuel “Chel” I. Diokno**  
 Counsel for prosecutor? Yes. May I be allowed to make a counter-manifestation? Just a brief one with respect to the statement of defense counsel regarding the application of the case of Duterte v. House of Representatives.
 
 **[02:50:16.510] Sen. Francis “Chiz” Escudero**  
 may proceed briefly.
 
-**[02:50:19.030] Jose Manuel “Chel” I. Diokno**  
+**[02:50:19.030] Rep. Jose Manuel “Chel” I. Diokno**  
 Your Honor, the decision and the resolution of the Honorable Supreme Court in that case did not say... that any pre-term evidence is inadmissible. There is no statement like that at all in the entire decision and the resolution. What the Supreme Court said, and I quote, was very simple. The basis of any charge must be for impeachable acts or omissions committed in relation to their office and during the current term of the impeachable officer. All of the articles in this particular case pertain to impeachable acts committed by the Vice President during her term as an impeachable officer, including unexplained wealth. If I may just be allowed one minute, Your Honor, to explain that. The unexplained wealth, Your Honor, that is amassed prior to the term of a Vice President is relevant and material to her being an impeachable officer. Because wealth of that magnitude—millions or even billions of pesos—continues to benefit the Vice President.
 
-**[02:51:28.550] Jose Manuel “Chel” I. Diokno**  
+**[02:51:28.550] Rep. Jose Manuel “Chel” I. Diokno**  
 It's very clear that when a local government official, for example, who later becomes a national official, amasses hundreds of millions, if not billions of pesos, then that benefit continues today. Second, if Your Honor please, integrity hindi po pwedeng biyakin po 'yan na kesa dati ay hindi po ganoon at ngayon ay may integridad it's very clear that integrity is a continuing requirement of fitness for office Thank you, Your Honor.
 
 **[02:52:03.730] Sen. Francis “Chiz” Escudero**  

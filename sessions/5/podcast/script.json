@@ -1,0 +1,629 @@
+{
+  "title": "Audio overview — July 29, 2026",
+  "description": "A source-linked English audio overview of the day's proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "id": "P001",
+      "kind": "intro",
+      "heading": "Introduction",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for July 29, 2026. This is a working reference, not an official Senate record.",
+      "citations": []
+    },
+    {
+      "id": "P002",
+      "kind": "overview",
+      "heading": "The big picture",
+      "text": "The July 29 sitting heard two former LandBank branch managers, Violeta Constantino and Nenita Camposano, about high-value OVP and DepEd cash encashments. They described advance notice, verification, approvals, and cash release. Constantino said the encashment she discussed was not illegal, while Camposano distinguished unusual transactions from suspicious ones and declined to disclose STR information. Senator-judges pressed both witnesses on banking practice, AMLA confidentiality, and those labels. The court ordered subpoenas for later prosecution witnesses and retained the original evidence sequence.",
+      "citations": [
+        {
+          "segment_id": "S00008",
+          "start_seconds": 370.84,
+          "clock": "00:06:10",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00009",
+          "start_seconds": 387.16,
+          "clock": "00:06:27",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00020",
+          "start_seconds": 493.38,
+          "clock": "00:08:13",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00044",
+          "start_seconds": 854.59,
+          "clock": "00:14:14",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00050",
+          "start_seconds": 887.04,
+          "clock": "00:14:47",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00051",
+          "start_seconds": 905.02,
+          "clock": "00:15:05",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00079",
+          "start_seconds": 1244.64,
+          "clock": "00:20:44",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00123",
+          "start_seconds": 1644.74,
+          "clock": "00:27:24",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "The court convened, recognized the presiding officer, and addressed the July 22 journal before hearing an opening statement that the chair allowed subject to limits on factual and legal conclusions.",
+      "citations": [
+        {
+          "segment_id": "S00008",
+          "start_seconds": 370.84,
+          "clock": "00:06:10",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00009",
+          "start_seconds": 387.16,
+          "clock": "00:06:27",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00020",
+          "start_seconds": 493.38,
+          "clock": "00:08:13",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00044",
+          "start_seconds": 854.59,
+          "clock": "00:14:14",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "Violeta Constantino was sworn and testified about OVP cash encashments. After the parties' limited stipulations, the court directed prosecutors to proceed without further testimony on the stipulated matters.",
+      "citations": [
+        {
+          "segment_id": "S00050",
+          "start_seconds": 887.04,
+          "clock": "00:14:47",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00051",
+          "start_seconds": 905.02,
+          "clock": "00:15:05",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00079",
+          "start_seconds": 1244.64,
+          "clock": "00:20:44",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00123",
+          "start_seconds": 1644.74,
+          "clock": "00:27:24",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00226BBBB",
+          "start_seconds": 2533.8,
+          "clock": "00:42:13",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "After Constantino's examination, the chair opened senator-judge interventions under a two-minute limit, followed by further rounds before the lunch recess.",
+      "citations": [
+        {
+          "segment_id": "S00317",
+          "start_seconds": 3387.77,
+          "clock": "00:56:27",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00612",
+          "start_seconds": 5454.2,
+          "clock": "01:30:54",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00745",
+          "start_seconds": 6466.22,
+          "clock": "01:47:46",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The chair permitted de Lima's opening only under a direction to avoid conclusions of fact and law; after a defense objection invoking the earlier no-opening ruling, the chair stopped the statement and noted the continuing objection.",
+      "citations": [
+        {
+          "segment_id": "S00020",
+          "start_seconds": 493.38,
+          "clock": "00:08:13",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00023",
+          "start_seconds": 521.08,
+          "clock": "00:08:41",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00025",
+          "start_seconds": 546.6,
+          "clock": "00:09:06",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00044",
+          "start_seconds": 854.59,
+          "clock": "00:14:14",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The chair treated the parties' stipulated facts and check-related matters as admissions, allowing the prosecution to proceed without additional witness proof on those matters.",
+      "citations": [
+        {
+          "segment_id": "S00123",
+          "start_seconds": 1644.74,
+          "clock": "00:27:24",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00226BBBB",
+          "start_seconds": 2533.8,
+          "clock": "00:42:13",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "On AMLA confidentiality, the chair noted Pangilinan's manifestation and placed the cited bank-officer confidentiality provision on the record; it did not adopt Pangilinan's position as a ruling in his favor.",
+      "citations": [
+        {
+          "segment_id": "S00581",
+          "start_seconds": 5029.3099999999995,
+          "clock": "01:23:49",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00584",
+          "start_seconds": 5075.84,
+          "clock": "01:24:35",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00585",
+          "start_seconds": 5113.6,
+          "clock": "01:25:13",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Erwin Tulfo asked Constantino whether the OVP withdrawals were normal or unusual and about the bank's response.",
+      "citations": [
+        {
+          "segment_id": "S00325",
+          "start_seconds": 3467.06,
+          "clock": "00:57:47",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00330",
+          "start_seconds": 3493.12,
+          "clock": "00:58:13",
+          "speaker_name": "Sen. Erwin Tulfo"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Bam Aquino asked Constantino about the origin of the funds, reporting, and the application of AMLA rules to government transactions.",
+      "citations": [
+        {
+          "segment_id": "S00404",
+          "start_seconds": 3859.19,
+          "clock": "01:04:19",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00413",
+          "start_seconds": 3897.71,
+          "clock": "01:04:57",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00418",
+          "start_seconds": 3923.0,
+          "clock": "01:05:23",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        }
+      ]
+    },
+    {
+      "id": "P011",
+      "kind": "finding",
+      "heading": "Senator-judge observation",
+      "text": "Alan Peter Cayetano used a hypothetical to distinguish a transaction described as unusual from one necessarily illegal.",
+      "citations": [
+        {
+          "segment_id": "S00460",
+          "start_seconds": 4106.01,
+          "clock": "01:08:26",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00462",
+          "start_seconds": 4128.99,
+          "clock": "01:08:48",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00468",
+          "start_seconds": 4255.83,
+          "clock": "01:10:55",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P012",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "The prosecution said it was ready to present Article 1 witnesses concerning alleged confidential-fund misuse, misappropriation, and irregular liquidation.",
+      "citations": [
+        {
+          "segment_id": "S00013",
+          "start_seconds": 423.73,
+          "clock": "00:07:03",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        }
+      ]
+    },
+    {
+      "id": "P013",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "In its opening, the prosecution argued that confidential funds remain subject to accountability and characterized Article 1 as involving 612.5 million pesos through the OVP and DepEd. Those were prosecution claims, not court findings.",
+      "citations": [
+        {
+          "segment_id": "S00026",
+          "start_seconds": 554.21,
+          "clock": "00:09:14",
+          "speaker_name": "Rep. Leila M. de Lima"
+        },
+        {
+          "segment_id": "S00042",
+          "start_seconds": 808.68,
+          "clock": "00:13:28",
+          "speaker_name": "Rep. Leila M. de Lima"
+        }
+      ]
+    },
+    {
+      "id": "P014",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "The prosecution presented Constantino and Camposano to describe the relevant LandBank encashment processes, then requested subpoenas for additional witnesses for the following settings.",
+      "citations": [
+        {
+          "segment_id": "S00079",
+          "start_seconds": 1244.64,
+          "clock": "00:20:44",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00770",
+          "start_seconds": 9498.88,
+          "clock": "02:38:18",
+          "speaker_name": "Rep. Joel R. Chua"
+        },
+        {
+          "segment_id": "S01272",
+          "start_seconds": 13420.25,
+          "clock": "03:43:40",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        }
+      ]
+    },
+    {
+      "id": "P015",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense objected that the opening statement went beyond proper evidentiary presentation and raised fair-play concerns about statements heard even if later struck from the record.",
+      "citations": [
+        {
+          "segment_id": "S00023",
+          "start_seconds": 521.08,
+          "clock": "00:08:41",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00028B",
+          "start_seconds": 712.08,
+          "clock": "00:11:52",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00032",
+          "start_seconds": 744.98,
+          "clock": "00:12:24",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        }
+      ]
+    },
+    {
+      "id": "P016",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense stipulated only to limited foundational facts about checks, witness identification, signatures, and processing; it reserved substantive positions rather than conceding the allegations.",
+      "citations": [
+        {
+          "segment_id": "S00104B",
+          "start_seconds": 1492.22,
+          "clock": "00:24:52",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00106",
+          "start_seconds": 1501.98,
+          "clock": "00:25:01",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00782",
+          "start_seconds": 9744.04,
+          "clock": "02:42:24",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00784",
+          "start_seconds": 9786.24,
+          "clock": "02:43:06",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        }
+      ]
+    },
+    {
+      "id": "P017",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense put reservations concerning exhibit markings on the record and reserved its ability to present positions when necessary.",
+      "citations": [
+        {
+          "segment_id": "S00307",
+          "start_seconds": 3260.41,
+          "clock": "00:54:20",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00627",
+          "start_seconds": 5645.91,
+          "clock": "01:34:05",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        }
+      ]
+    },
+    {
+      "id": "P018",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Constantino, a retired LandBank employee and former Shaw Boulevard branch manager, testified about four OVP checks encashed while she was manager.",
+      "citations": [
+        {
+          "segment_id": "S00079",
+          "start_seconds": 1244.64,
+          "clock": "00:20:44",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00090",
+          "start_seconds": 1325.14,
+          "clock": "00:22:05",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00096",
+          "start_seconds": 1414.15,
+          "clock": "00:23:34",
+          "speaker_name": "Violeta Constantino"
+        }
+      ]
+    },
+    {
+      "id": "P019",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Constantino described advance OVP notice, a stated 125-million-peso encashment, verification of the check and identification, and cash release to the stated payee. She said the bank had advice in its system and no cash-delivery agreement.",
+      "citations": [
+        {
+          "segment_id": "S00244",
+          "start_seconds": 2724.2799999999997,
+          "clock": "00:45:24",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00246",
+          "start_seconds": 2742.8,
+          "clock": "00:45:42",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00260",
+          "start_seconds": 2895.59,
+          "clock": "00:48:15",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00264",
+          "start_seconds": 2944.54,
+          "clock": "00:49:04",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00279",
+          "start_seconds": 3073.42,
+          "clock": "00:51:13",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00378",
+          "start_seconds": 3743.75,
+          "clock": "01:02:23",
+          "speaker_name": "Violeta Constantino"
+        }
+      ]
+    },
+    {
+      "id": "P020",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Constantino invoked AMLA confidentiality rather than disclose reporting information. She said the encashment was not illegal, described its cash nature or size as unusual to her, and also said it was supported by advice and funding.",
+      "citations": [
+        {
+          "segment_id": "S00414",
+          "start_seconds": 3909.29,
+          "clock": "01:05:09",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00463",
+          "start_seconds": 4215.02,
+          "clock": "01:10:15",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00475",
+          "start_seconds": 4349.3099999999995,
+          "clock": "01:12:29",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00502",
+          "start_seconds": 4610.34,
+          "clock": "01:16:50",
+          "speaker_name": "Violeta Constantino"
+        }
+      ]
+    },
+    {
+      "id": "P021",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The record does not establish whether a suspicious transaction report was filed. Both bank witnesses invoked AMLA confidentiality when asked about reporting information.",
+      "citations": [
+        {
+          "segment_id": "S00414",
+          "start_seconds": 3909.29,
+          "clock": "01:05:09",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S01129",
+          "start_seconds": 12240.0,
+          "clock": "03:24:00",
+          "speaker_name": "Nenita Camposano"
+        }
+      ]
+    },
+    {
+      "id": "P022",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The witnesses' descriptions of unusual transactions remained qualified: unusual in their experience did not itself mean illegal or suspicious.",
+      "citations": [
+        {
+          "segment_id": "S00475",
+          "start_seconds": 4349.3099999999995,
+          "clock": "01:12:29",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S00483",
+          "start_seconds": 4450.76,
+          "clock": "01:14:10",
+          "speaker_name": "Violeta Constantino"
+        },
+        {
+          "segment_id": "S01139",
+          "start_seconds": 12299.7,
+          "clock": "03:24:59",
+          "speaker_name": "Nenita Camposano"
+        },
+        {
+          "segment_id": "S01176",
+          "start_seconds": 12559.21,
+          "clock": "03:29:19",
+          "speaker_name": "Nenita Camposano"
+        }
+      ]
+    },
+    {
+      "id": "P023",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "Camposano could not answer whether LandBank later conducted an internal review because she had moved to another branch.",
+      "citations": [
+        {
+          "segment_id": "S01218",
+          "start_seconds": 12908.67,
+          "clock": "03:35:08",
+          "speaker_name": "Nenita Camposano"
+        }
+      ]
+    },
+    {
+      "id": "P024",
+      "kind": "outro",
+      "heading": "How to use this overview",
+      "text": "The episode page links every substantive point to the timed transcript and the original Senate video. Verify consequential wording against those sources before publication.",
+      "citations": []
+    }
+  ]
+}

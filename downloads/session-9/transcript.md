@@ -176,7 +176,7 @@ Case number 004-2026 in the matter of Impeachment Trial of Vice President Sara Z
 **[00:35:10.540] Sen. Francis “Chiz” Escudero**  
 Appearances for the parties.
 
-**[00:35:22.550] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:35:22.550] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Good afternoon, Your Honors. Same appearance for the prosecution. We are ready, Your Honor.
 
 **[00:35:28.700] Atty. Michael Wesley Poa**  
@@ -203,19 +203,19 @@ different law for the bank secrecy. There's a different law for BIR. So, thank y
 **[00:39:07.450] Sen. Francis “Chiz” Escudero**  
 Chair notes the observation of Senator Judge Alan Cayetano. However, subject of course to any agreements that will be arrived at in caucus, we are constrained by the motions filed by the parties. There are only two pending motions that this Court should act upon. Number one, a motion for the issuance of a subpoena with respect to bank and AMLC records on the one hand. And number two, a motion for the issuance of subpoena for BIR records. Understandably, there are sub-issues underneath each. But we cannot put a vote each and every sub-issue under each motion. So we will most likely, the Chair would suggest, put it to a vote. By the motions that have been filed by the parties, whether or not to grant it or to deny the motion filed by the prosecutors in this case. Subject, of course, any agreements we might arrive at in caucus, Senator-Judge Alan. And the chair will submit to that. Now, as earlier agreed in yesterday's proceedings, the prosecution will be given 15 minutes for their chief arguments. Likewise, the respondent will be given 15 minutes. And then thereafter, the prosecutor will be given 10 minutes by way of rebuttal and the respondent will be given 10 minutes by way of surrebuttal. May I ask who among the prosecutors or counsel for prosecutors will argue the motion for the issuance of the subpoenas for bank, AMLC, and BIR records?
 
-**[00:40:47.360] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:40:47.360] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honors, the prosecution will be represented by the Honorable Representative Chel Diokno. For the purpose of this oral argument, nonetheless, Your Honor, we have some manifestation to make for the prosecution.
 
 **[00:41:01.440] Sen. Francis “Chiz” Escudero**  
 The lead prosecutor may proceed. This is pertaining to the matter on hand.
 
-**[00:41:08.440] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:41:08.440] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 This pertains, Your Honor, to the remaining witnesses for Article 4 threat.
 
 **[00:41:14.180] Sen. Francis “Chiz” Escudero**  
 Can we discuss that later before we adjourn, lead prosecutor?
 
-**[00:41:18.640] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:41:18.640] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We submit, Your Honor.
 
 **[00:41:19.760] Sen. Francis “Chiz” Escudero**  
@@ -230,37 +230,37 @@ For the record, kindly state your full name, Atty. Poa.
 **[00:41:30.280] Atty. Michael Wesley Poa**  
 My name is Michael Wesley T. Poa, Your Honor. Thank you.
 
-**[00:41:34.240] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:41:34.240] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, we're requesting that Congressman Chel Diokno be recognized.
 
 **[00:41:39.440] Sen. Francis “Chiz” Escudero**  
 For the prosecutors, the Honorable Representative from the Akbayan party-list, Chel Diokno, is recognized for his oral arguments on the twin motions that they filed. You are recognized, sir, and you may proceed when you are ready. You have 15 minutes.
 
-**[00:41:57.110] Jose Manuel “Chel” I. Diokno**  
+**[00:41:57.110] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you, Your Honor. Good afternoon, everyone, to the members of this honorable Court. May it please the court. Simple lang po ang isyong kinakaharap natin ngayong hapon na ito. Pero napakabigat. Bubuksan ba natin ang pinto ng katotohanan? O haharangin ito? Ang hiling ng prosekusyon ay mailabas ang buong katotohanan so that this court may know the truth, the whole truth, and nothing but the truth, and make its decisions based on that. That is why we have requested the issuance of subpoena duces tecum for the bank records, tax records, and Anti-Money Laundering Council reports relating to Vice President Sara Duterte and her husband, Atty. Manases Carpio. Sa pamamagitan nito, may lalahad ang buong katotohanan tungkol sa mga aligasyon sa Article 2 ng Articles of Impeachment. Una, na pinayaman ni Vice Presidente ang kanyang sarili ng labis-labis sa kanyang legal na sahod at lehitimong kita bilang isang lingkod bayan. Pangalawa, na meron siyang mga ari-arihang hindi dineklara sa kanyang Statement of Assets, Liabilities, and Net Worth. At pangatlo, na habang siya ay nanunungkulan bilang Vice President, nakibahagi siya sa negosyo, directly or indirectly, kahit ipinagbabawal ito ng ating konstitusyon. Sasabihin marahil ng Depensa na walang kapangyarihan ang hukumang ito na busisiin ng mga bank records, tax records, at AMLC reports ni VP Sara. With all due respect, that argument is not only legally flawed, it is an affront to the authority of this honorable Court.
 
-**[00:44:01.420] Jose Manuel “Chel” I. Diokno**  
+**[00:44:01.420] Rep. Jose Manuel “Chel” I. Diokno**  
 Kung tatanggapin po natin ang argumentong ito, hahayaan natin maliitin at insultuhin ang hukumang ito. The Constitution, Your Honors, please, vests this Impeachment Court with extraordinary powers. Tanging ang hukumang ito lamang ang may kapangyarihan magpasya kung ang mga pinakamataas na pinuno ng ating bansa ay karapat-dapat pa rin manungkulan. Because this power comes directly from the Constitution, no one, no person, no law, no administrative rule can limit or supersede it. I repeat, nothing and no one can handcuff this court's power to try and decide this impeachment case. Kahit ang Bank Secrecy Law po ay sumusunod at tumatalima sa Impeachment Court. The law explicitly states and I quote its pertinent portions, All deposits are hereby considered as of an absolutely confidential nature except in cases of impeachment. Walang kaduda-duda, may karapatan at kapangyarihan ng Impeachment Court na busisiin ang mga bank records ni VP Sara. Hindi rin hadlang ang Data Privacy Act. The law itself affirms that confidentiality shall not apply, and I quote, should the personal information be needed pursuant to a subpoena duly issued.
 
-**[00:45:40.550] Jose Manuel “Chel” I. Diokno**  
+**[00:45:40.550] Rep. Jose Manuel “Chel” I. Diokno**  
 Muli, walang kaduda-duda. May karapatan at kapangyarihan ang Impeachment Court na ipasubpoena ang mga dokumento ni VP Sara Duterte. Pero sabi po ng kampo ni Vice President, irrelevant daw ang mga bank records, AMLC reports at BIR records, lalo na raw iyong mga transaksyon na nangyari bago siya umupo bilang pangalawang Pangulo dahil wala raw itong kinalaman sa kasong ito. The prosecution respectfully but vehemently disagrees. Ayon sa report ng Anti-Money Laundering Council na isinumite sa Committee on Justice ng House of Representatives, the financial activity of Vice President Sara C. Duterte increased significantly starting 2007, when transaction values surged to 208.15 million pesos. According to this report, Exhibit P-2-7-8, I quote: Financial movements intensified between 2009 and 2013, with consistently high annual totals exceeding 400 million pesos, including notable peaks in 2009, 704.93 million pesos; 2010, 648.58 million pesos; and 2011,
 
-**[00:47:15.800] Jose Manuel “Chel” I. Diokno**  
+**[00:47:15.800] Rep. Jose Manuel “Chel” I. Diokno**  
 597.15 million pesos. Si VP Sara po ay nanungkulan bilang Vice Mayor ng Davao City mula 2007 hanggang 2010. Naglingkod naman siya bilang Mayor ng Davao City mula 2010 hanggang 2013. From 2007 to 2013, ayon sa records ng AMLC, lumampas sa 3 billion pesos ang kanyang financial activity. May kinalaman ba ito? Ito ba ay relevant sa Article 2 of the Articles of Impeachment, which alleges, among others, that VP Sara betrayed the public trust and culpably violated the Constitution when she amassed unexplained wealth manifestly disproportionate to her lawful income? Para sa prosekusyon, malinaw ang sagot. The Vice President's financial activity as Vice Mayor and Mayor of Davao City relates directly to the main fact in issue in this case: her fitness or unfitness to serve as Vice President. Let me explain. The framers of the 1987 Constitution added betrayal of public trust as a ground for impeachment, and I quote, to include all acts which render the officer unfit to continue in office. For this honorable Court to determine whether VP Sara Duterte is unfit to continue in office, it must have a clear picture of the respondent as a public servant. Kailangan makita ng publiko at ng mga Senator-Judge ang tunay na kulay ng Bise Presidente at larawan ng kanyang buong pagkatao bilang isang lingkod-bayan. If she amassed staggering amounts of unexplained wealth while she was a vice mayor and mayor, doesn't that say a lot about her unfitness to serve as a Vice President? Isn't that relevant to the question this Court must resolve at the end of this trial, of whether or not the Vice President betrayed the trust given to her by the people?
 
-**[00:49:25.630] Jose Manuel “Chel” I. Diokno**  
+**[00:49:25.630] Rep. Jose Manuel “Chel” I. Diokno**  
 From what I have gathered and read, Your Honors, please, this is not the first time. This Court has been confronted with this issue. Sa impeachment ni dating Chief Justice Renato Corona, tinanggap ng hukumang ito ang mga ebidensyang nakalap bago pa man siya naupo bilang punong hukom. I believe it was then-Sen. Judge, now-Presiding Officer Francis Escudero who raised the question, Will the Impeachment Court consider only Corona's acts as Chief Justice? This after observing that some exhibits predated his appointment as Chief Justice. This matter was taken up in caucus after which this Court decided to allow such evidence. When Philippine Savings Bank President Pascual Garcia III testified before this Court in the same Corona trial, He refused to answer the question of then-Sen. Judge Franklin Drilon on the starting balance of Corona's 2 peso denominated accounts. But, if I'm not mistaken, it was Sen. Judge Alan Peter Cayetano who said that records of initial deposits are among the quote-unquote opening documents that should have been brought to the impeachment court. After reading the subpoena, presiding officer Sen. Juan Ponce Enrile held that Sen. Judge Cayetano's observation was correct. During the same hearing, the presiding officer ordered the issuance of subpoena to PS Bank Katipunan branch manager Annabel Tiongson to bring all the bank records of the Chief Justice. A few days later, the impeachment court denied the defense's motion to quash the subpoena For the peso bank accounts of CJ Corona. The presiding officer explained that the purpose of the subpoena is to find out if Corona has not included the deposits in his salen. This court also denied the defense's motion to suppress evidence on Corona's bank accounts. Sa huli, binusisi ng hukumang ito ang bank records ni Chief Justice Corona mula sa kanyang unang balanse bago pa man siya naging Punong Magistrado The panel of prosecutors respectfully submits that the subpoenas for the production of the bank records, AMLA documents, and BRR documents of the vice president and her husband are proper and should be issued by this honorable court.
 
-**[00:51:59.740] Jose Manuel “Chel” I. Diokno**  
+**[00:51:59.740] Rep. Jose Manuel “Chel” I. Diokno**  
 Now allow me, Your Honors, to return to my first point. There is a deeper reason why this Court must resist the attempts of the respondent to exclude evidence that is obviously relevant. It has to do with curtailing the power of this Court. The Constitution gives this honorable Court, and I quote, the sole power to try and decide impeachment cases. Kayo lang po, Your Honors, ang may kapangyarihang magpasya kung ano ang impeachable offense at kung anong ebidensiya ang maaaring tanggapin para patunayan ito. Kinilala ito mismo ng Korte Suprema. In the case of Francisco v. House of Representatives, the Supreme Court declared, and I quote: A determination of what constitutes an impeachable offense is a purely political question which the Constitution has left to the sound discretion of the Legislature. Such an intent is clear from the deliberations of the Constitutional Commission. Inulit pa ito ng Supreme Court sa kasong Gutierrez v. House of Representatives, where the Supreme Court declared, and I quote:
 
-**[00:53:11.920] Jose Manuel “Chel” I. Diokno**  
+**[00:53:11.920] Rep. Jose Manuel “Chel” I. Diokno**  
 Francisco instructs that this issue would require the Court to make a determination of what constitutes an impeachable offense. A determination is purely a political question which the Constitution has left to the sound discretion of the Legislature. Clearly, the issue calls upon this Court to decide a non-justiciable political question which is beyond the scope of its judicial power. Since this Impeachment Court has the sole power to determine what constitutes an impeachable offense, no one—not the Supreme Court, much less the defense—can impose limitations on that power. No one can dictate to this Court how to exercise the exclusive power to decide what constitutes an impeachable offense.
 
-**[00:54:03.310] Jose Manuel “Chel” I. Diokno**  
+**[00:54:03.310] Rep. Jose Manuel “Chel” I. Diokno**  
 In closing, Your Honors, I go back to the most fundamental provision in our Constitution on the accountability of public officers. Article 11, Section 1, which provides, and I quote, Public office is a public trust. Public officers and employees must, at all times, be accountable to the people.
 
-**[00:54:29.660] Jose Manuel “Chel” I. Diokno**  
+**[00:54:29.660] Rep. Jose Manuel “Chel” I. Diokno**  
 Ang pananagutan sa taong bayan ang pinakamahalaga sa lahat. Kaya naman po ang hiling namin sa Korte, gamitin ang inyong natatanging kapangyarihan at karapatan na busisiin ang bank records, tax records at AMLC reports kaugnay ni VP Sara at ng kanyang asawa. Sa ganitong paraan, Your Honors, madedesisyonan ninyo ang kaso base sa buong katotohanan. The truth, the whole truth and nothing but the truth, para sa interes at kapakanan ng sambayan ng Pilipino. Before I close, if Your Honor is pleased, if I have whatever time I have left, may I request that it be credited to my rebuttal. Maraming maraming salamat po.
 
 **[00:55:20.510] Sen. Francis “Chiz” Escudero**  
@@ -305,19 +305,19 @@ Thank you, Your Honor.
 **[01:08:12.200] Sen. Francis “Chiz” Escudero**  
 Counsel for the—rather, the prosecutor is recognized, Atty. Chel Diokno. You have 11.38 minutes, which we will round off to 12 minutes. Counsel, you may proceed when you're ready for your rebuttal.
 
-**[01:08:32.420] Jose Manuel “Chel” I. Diokno**  
+**[01:08:32.420] Rep. Jose Manuel “Chel” I. Diokno**  
 Maraming salamat po, Mr. Presiding Officer, at magandang hapon po ulit sa ating lahat. Let me address each of the points that the defense has raised in their oral argument. Sabi po nila, una, ay due process daw ang paulit-ulit na dinidiin ng defense. But there's no debate that due process applies in this proceeding, just like in any other proceeding. The real issue before this honorable Court is: will the subpoenas
 
-**[01:09:06.480] Jose Manuel “Chel” I. Diokno**  
+**[01:09:06.480] Rep. Jose Manuel “Chel” I. Diokno**  
 that we are asking be issued by this Court actually deprive the respondent of any form of due process? Ang aming paniwala po ay hindi. And allow me to explain why. First of all, we are not yet at the stage where any evidence is being put in the trial or offered to the honorable Court. Nandito pa lang po tayo sa punto na kung maaari bang ipaproduce natin itong mga dokumentong ito. The defense will have every opportunity to make objections if and when particular exhibits or documents are identified by a witness and offered in evidence. Therefore, wala pong due process violation ang pag-issue ng subpoena. Second, the defense repeatedly cites the case of Duterte versus House of Representatives as, I quote, the law of the land; as, I quote, controlling daw iyong desisyon na iyan. But I must remind the defense of that particular case and why the pronouncements quoted are mere obiter dicta, o kung sa simpleng salita po ay side comment lang. The entire Duterte v. House of Representatives case revolved around a different mode of impeachment. Kung maalala po natin, iyan iyong one-third—at least one-third ng members of the House ang nagsampa ng kaso. And the entire decision discussed how due process should apply to that mode of impeachment. Totoo, may sinabi ang Supreme Court tungkol sa mode na ginamit po ng Saballa and Cabrera complaints. Pero hindi po iyon ang issue sa kaso ni Duterte. That issue is just a side bypass or incidental declaration of the Court that is not controlling and is not the law of the land. And if you look mismo at the decision of the Court, they expressly said: We are speaking of due process in relation to how these proceedings reached the Senate as an Impeachment Court, not this kind of procedure. Second, paulit-ulit din po nilang sinasabi na ang ginagawa ng prosecution ay fishing expedition. Actually po, mayroon nang desisyon ang Supreme Court that addresses squarely this point. This case involved a case of unexplained wealth: the case of Republic v. Rabusa, G.R. 208183, decided August 31, 2022. Just like here, the prosecution in that case requested subpoenas for the production of bank records. Just like here, the argument was raised that this is a mere fishing expedition. In fact, hanggang sa Court of Appeals, ang sabi po ng Court of Appeals ay fishing expedition lang po iyan. But please allow me to read just a portion of what the Supreme Court held here. I quote:
 
-**[01:12:37.080] Jose Manuel “Chel” I. Diokno**  
+**[01:12:37.080] Rep. Jose Manuel “Chel” I. Diokno**  
 The Court of Appeals resolved that the bank accounts of Rabusa et al. were protected under Republic Act 1405, that is, the Bank Secrecy Law. Given the arbitrary demand to disclose the contents thereof, the Court of Appeals considered the inquiry as a fishing expedition to utilize evidence against Rabusa et al. In the instant case, given that the court orders in the form of various subpoena duces tecum and ad testificandum all involved the forfeiture of unexplained wealth, the RTC was in error for not allowing petitioner to examine, inquire, and look into the subject accounts. I continue. As the present proceedings on unexplained wealth are now encompassed within the exceptions of Republic Act 1405, the court orders subject of this case clearly fall within the orders that would enable the examination of the respondents' bank accounts as contemplated in the first exception. Thus, it comes clear that this Court cannot sustain the RTC's and Court of Appeals' theory that there was no court order authorizing the examination of the bank accounts. On the contrary, records prove that the RTC issued several subpoena duces tecum and ad testificandum which required certain persons to testify in open court and present documents which pertain to the existence and identity of the subject accounts and also to the contents found therein. I just move forward. Given the existence and propriety of the subpoenas, the evidence procured through the same should have been duly considered by the lower courts. This Court cannot agree with the Court of Appeals' supposition that the examination of the respondents' bank accounts was but a mere fishing expedition to pin liability on them. Next, the defense repeatedly cites a number of laws to claim that the requested information and documents that we are asking from this Court for the issuance of subpoena are confidential. Sabi po nila, confidential daw ito sa ilalim ng Republic Act 1405. Sabi po nila, confidential daw ito sa ilalim ng Anti-Money Laundering Act, pati ang National Internal Revenue Code, pati ang Data Privacy Act ay confidential din. Pero kung titingnan po natin, klaro po at malinaw po sa amin ang batas at ang utos ng Saligang Batas sa Impeachment Court na ito. You have the sole, exclusive power to determine an impeachable offense, and that includes the power to find out—ferret—the entire truth and make your decision on that basis. I will not dwell on the exception to Republic Act 1405. That's very clear: there's an exception for impeachment. Pero paano naman po iyong sinasabi nilang Section 8-A ng Anti-Money Laundering Law? If you read that law, particularly that provision, it clearly refers to prohibiting leaks by members of the Anti-Money Laundering Council. It never was intended to short-circuit the impeachment process or limit the powers of this honorable Court to find out the truth. Ganoon din po ang nakalagay sa ating National Internal Revenue Code. Sabi po ng defense, there's nothing that allows these documents to be made public. I cite Section 71, NIRC. After the assessment shall have been made, I'll just move forward: The returns, together with any corrections, shall be filed in the office of the Commissioner and, I quote, shall constitute public records and be open to inspection as such upon the order of the President. And in fact, during the Corona impeachment trial, the President at that time did order, and that is why this Court admitted the BIR documents.
 
-**[01:17:04.950] Jose Manuel “Chel” I. Diokno**  
+**[01:17:04.950] Rep. Jose Manuel “Chel” I. Diokno**  
 Your Honors. Madaling sabihin na confidential ang ilang impormasyon at dokumento. Madaling magturo ng batas. Pero ang hinahanap po ng impeachment court ngayon at sa mga susunod na araw, linggo at buwan, ay ang katotohanan. At ang layunin ay makamit ang pananagutan.
 
-**[01:17:31.990] Jose Manuel “Chel” I. Diokno**  
+**[01:17:31.990] Rep. Jose Manuel “Chel” I. Diokno**  
 Confidentiality, Your Honor, should not be the prevailing principle. In this proceeding, hindi po confidential ang katotohanan. Maraming salamat po.
 
 **[01:17:47.160] Sen. Francis “Chiz” Escudero**  
@@ -380,58 +380,58 @@ For the information of the parties as well as the viewing public, in caucus the 
 **[03:03:50.200] Sen. Francis “Chiz” Escudero**  
 Following our rules, it shall be 10 minutes per Senator, not exceeding one hour for each side. At this juncture, we now recognize the lead prosecutor, the Honorable Luistro. As I understand, she intended earlier to make a manifestation with respect to their intended witnesses on Monday. Kindly already exclude Monday, Honorable Luistro.
 
-**[03:04:17.550] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:04:17.550] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Yes, Your Honor. First of all, we would like to acknowledge the positive response of the Honorable Impeachment Court to our previous manifestation. Accordingly, we would like to reiterate that the prosecution will no longer be presenting Attorney Zuleika Lopez as well as Captain Belinda Bello. Reiterating, however, the same concern on redundancy, surplusage, and lack of necessity, the prosecution further manifests that we will not be presenting as well the following witnesses for Article 4. That is threat. Number one, Your Honor, is the Philippine National Police Firearms and Explosives Office representative. The witness intended to testify that the respondent owns firearms, including the high-powered ones, which demonstrate the capacity and capability to execute the threat. On the other hand, Your Honor, it has been shown already that the government took seriously the threat.
 
-**[03:05:26.610] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:05:26.610] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 It prompted the full-scale investigation, including the recommendation to file a criminal complaint. Number two, Your Honor, is Mikhail Flores and Bonz Magsambol. They belong to the press who were present during the November 23 video conference. They will be testifying that they were among the reporters or media persons who were present during the video conference and to the fact that they heard the respondent utter the threat against the President, the First Lady, and the former Speaker. On the other hand, Your Honor, the testimony of Agent Calilung already established that the video is authentic, plus considering, Your Honor, the defense's subsequent admission that the same are authentic videos,
 
 **[03:06:22.810] Sen. Pia S. Cayetano**  
 Your Honor.
 
-**[03:06:24.050] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:06:24.050] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Number three, Your Honor, is Sheriff Abe Andres, the witness intended to testify on the 2011 incident pertaining to the violence allegedly committed by the respondent on the sheriff. On the other hand, Your Honor, during the past proceedings, it has been acknowledged by both parties, particularly It was acknowledged already that the occurrence of this incident of 2011, so we deem it unnecessary as well to present this particular witness. Number four, Your Honor, is the family member of a victim of threats. The witness intended to testify on the effect, the gravity, and the seriousness of the threat allegedly committed by the respondent. On the other hand, Your Honor, Attorney Lotoc already testified that threat is a private crime and its prosecution does not depend on the complaint participation and even the subjective feeling of the victim including his families. Finally, Your Honor, the psychiatrist, the witness intended to testify on the respondent's state of mind, The nature of the violence in the statement made as well as the capacity and capability to actually execute the threat. On the other hand, Your Honor, both parties have sufficiently established already the circumstances surrounding the statements made by the respondent in the authenticated video. The same is true with respect to the respondent's own. Subsequent confirmation of those statements as well as the testimonies already presented.
 
-**[03:08:26.910] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:08:26.910] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, considering that these five witnesses are included in our pre-trial order, in the pre-trial order, Your Honor, we respectfully withdraw their names among the prosecution's witnesses for Article 4 threat. This withdrawal, Your Honor, renders Atty. Melvin Matibag, the NBI Director, as our last witness for threat, who will be testifying this coming Monday, Tuesday,
 
-**[03:09:04.040] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:09:04.040] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor. Likewise, Your Honor, the prosecution acknowledges the five-day notice rule. However, considering that the decision to forego the testimony of Atty. Zuleika Lopez, as well as that of Capt. Belinda Bello, came only after the conclusion of the testimony of Atty. Lotoc. Plus, considering, Your Honor, the earlier manifestation which will render Atty. Matibag the last witness for threat, we would like to beg the kind indulgence of the honorable impeachment court to note our next witnesses. This will be in support of Article 1. Confidential Fund. And if we will be presenting Atty. Melvin Matibag on Tuesday, then this means that the first witness for Confidential Fund will be presented on July 22, that is Wednesday.
 
-**[03:10:07.320] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:10:07.320] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Nevertheless, Your Honor, we are requesting that we be allowed to request for the issuance of subpoena for our first three witnesses for Confidential Fund.
 
-**[03:10:19.390] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:10:19.390] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 That includes Marivic Pareja of the Legislative Archives, Museum Management Service of the House of Representatives, and also Your Honor, two LandBank employees, including Violeta Constantino, former branch manager of LandBank Shaw Boulevard Branch, and Nenita Camposano, former branch manager, LandBank DepEd Branch.
 
 **[03:10:52.710] Sen. Francis “Chiz” Escudero**  
 To clarify, Hon. Luistro, this is for the issuance of subpoena ad testificandum only?
 
-**[03:11:01.840] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:11:01.840] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, the request is for the issuance of both subpoena ad testificandum and subpoena duces tecum.
 
 **[03:11:12.380] Sen. Francis “Chiz” Escudero**  
 Kindly submit, in writing the motion, in order to be able to specify the documents you want to be the subject matter of the subpoena duces tecum. We will await it within the afternoon, even after adjournment, so that we can sign the subpoena by today or tomorrow, the latest.
 
-**[03:11:35.260] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:11:35.260] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May I inform the Honorable Impeachment Court that the list or the request for subpoena at Testificandum Indusis Deco, the written ones, have been submitted already to the Honorable Impeachment Court, Your Honor. I
 
 **[03:11:49.960] Sen. Francis “Chiz” Escudero**  
 stand corrected. Yes, I have it with me now.
 
-**[03:11:52.300] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:11:52.300] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I just enter some correction with respect to the testimony of Atty. Lotoc to the act of threat or grave threat. The same is a public crime which does not need a private complainant and its prosecution does not depend on the complaint participation.
 
 **[03:12:15.540] Sen. Francis “Chiz” Escudero**  
 Counsel, before going there, let the Presiding Officer act on these requests for issuance of subpoena first. The Presiding Officer hereby grants the request for issuance of subpoena ad testificandum to Ms. Marivic Pareja, to appear on July 21 and 22; to Ms. Violeta Constantino and Nenita Camposano, also subpoena ad testificandum to appear on July 21 and 22; and subpoena duces tecum to Ms. Lynette Ortiz of the Land Bank of the Philippines, to appear on July 21 and 22. The afore-stated requests for subpoena are hereby granted. The Clerk of Court is directed to prepare the corresponding subpoena ad testificandum or duces tecum, as the case may be, and for the Sergeant-at-Arms to be instructed to serve the foregoing subpoenas. As you were saying, Honorable—
 
-**[03:13:26.080] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:13:26.080] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May I just manifest, Your Honor, that with respect to the testimony of Atty. Lotoc, threat is a public crime and therefore its prosecution does not depend on the complaint, participation, and even the subjective feeling of the victim, including that of his family.
 
 **[03:13:42.250] Sen. Francis “Chiz” Escudero**  
 what is this about um i think if i remember correctly um um representative luistro the presiding officer stated that also yesterday that there are only certain private crimes that require um the complaint of uh of the victim and these mostly are um Private and sexual crimes such as concubinage, adultery, seduction, abduction, rape, and acts of lasciviousness. These are the only private crimes that require the signature or complaint of the private complainant.
 
-**[03:14:14.460] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:14:14.460] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We understand that, Your Honor, and we in fact submit to the position of the Honorable Impeachment Court, except that this representation misstated the supposed public crime into a private crime, Your Honor.
 
 **[03:14:31.110] Sen. Francis “Chiz” Escudero**  
@@ -494,7 +494,7 @@ Discourses that the counsel for both parties will deliver before this Court and 
 **[03:19:19.000] Sheila C. Sison**  
 to withdraw witnesses, then perhaps it would better serve the purpose of aiding the speedy disposition of this case if that fact alone will be the only thing mentioned, without factual assertions or conclusions of facts or even interpretation. I think that would be more fair for everyone and for the guidance of the public and this Court. That's all, Your Honor. Thank you for your indulgence.
 
-**[03:19:46.040] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:19:46.040] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 I comment, Your Honor?
 
 **[03:19:47.410] Sen. Francis “Chiz” Escudero**  
@@ -539,25 +539,25 @@ Thank you, Your Honor. None from the defense, Your Honor.
 **[03:24:07.430] Sen. Francis “Chiz” Escudero**  
 Quick manifestation,
 
-**[03:24:08.770] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:24:08.770] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor. I'm
 
 **[03:24:09.370] Sen. Francis “Chiz” Escudero**  
 sorry? Quick
 
-**[03:24:10.450] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:24:10.450] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 manifestation, Your Honor.
 
 **[03:24:12.010] Sen. Francis “Chiz” Escudero**  
 Just to
 
-**[03:24:13.310] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:24:13.310] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 respond to the manifestation of the defense,
 
 **[03:24:16.030] Sen. Francis “Chiz” Escudero**  
 Nice ko
 
-**[03:24:17.830] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:24:17.830] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 lamang pong ipaalala sa ating mga kababayan. This is a constitutional process. This is of paramount importance. And therefore, providing the reasons for the withdrawal of these witnesses need to be communicated as well. To the viewing public, Your Honor, Kailangan pong maintindihan ng ating mga kababayan ang naging hakbang ng prosekusyon kung bakit wini-withdraw ang mga pangalan ng ibang testigo para sa Articulo 4 and that is a threat. That is for the record only, Your Honor.
 
 **[03:24:50.500] Sen. Francis “Chiz” Escudero**  
@@ -626,13 +626,13 @@ neither of the lawyers here are allowed to stand up and be the one to explain wh
 **[03:35:21.760] Sen. Francis “Chiz” Escudero**  
 Chair, in humility, accepts the presiding officer's lapses in this regard, as twice pointed out by Senator-Judge Pia Cayetano already. The chair will be more mindful in the future, but I also ask the parties to also be equally. In case the Chair forgets or is unable to point it out on the part of either party, should this happen again. Any other points?
 
-**[03:35:47.230] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:35:47.230] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 One
 
 **[03:35:47.710] Sen. Francis “Chiz” Escudero**  
 last manifestation from the Honorable Luistro without prejudice to another manifestation from Council for Responding.
 
-**[03:36:04.330] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[03:36:04.330] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 The Honorable Impeachment Court has been very much fair in as far as this issue is concerned. As a matter of fact, the presiding officer even asked the lead defense counsel if she would like to avail of the same opportunity to explain the reason for the withdrawal in the event the defense would be withdrawing likewise their witnesses. Also, Your Honor, may I just add, and with all due respect to honorable Senator Pia Cayetano, the intention of the prosecution is never to abuse the time of the impeachment court. It is never to influence the senator judges, neither is it to influence the viewing public. The explanation was a statement of the position of the prosecution and of course it is anticipated that the same is adverse to the other party because it is apparent. That we are in the prosecution side while the opposing counsel is on the defense side but nonetheless let me reiterate and put on record your honor the purpose is not to influence the senator judges neither is it to influence the viewing public it is only a statement of position of the prosecution for withdrawing the names of the prosecution's witnesses your honor
 
 **[03:37:26.860] Sen. Francis “Chiz” Escudero**  

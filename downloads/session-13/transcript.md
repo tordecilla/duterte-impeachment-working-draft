@@ -50,7 +50,7 @@ Case number 004-2026 in the matter of Impeachment Trial of Vice President Sarah 
 **[00:07:36.330] Sen. Francis “Chiz” Escudero**  
 Appearances.
 
-**[00:07:41.480] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:07:41.480] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Good afternoon, your honors. Same appearance for the prosecution. We are ready, your honor.
 
 **[00:07:47.180] Sen. Francis “Chiz” Escudero**  
@@ -62,7 +62,7 @@ Good morning, Your Honor. Same appearances for the defense.
 **[00:07:55.640] Sen. Francis “Chiz” Escudero**  
 Is the prosecution ready to call its first witness?
 
-**[00:07:59.290] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:07:59.290] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Yes, your honor. However, the prosecution have few concerns which it wanted to raise before the honorable impeachment court. So, may I request, your honor, that the honorable... Counsel for the Prosecutor, Lorna P. Kapunan, be recognized, Your Honor.
 
 **[00:08:16.400] Sen. Francis “Chiz” Escudero**  
@@ -107,7 +107,7 @@ Thank you, Mr. Presiding Officer, Mr. Senate President. Just to place on record 
 **[00:15:54.582] Sen. Francis “Chiz” Escudero**  
 Noted.
 
-**[00:16:10.270] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:16:10.270] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, we respectfully reiterate our request that counsel for the panel of prosecutors, Atty. Lorna Capunan, be recognized.
 
 **[00:16:18.130] Sen. Francis “Chiz” Escudero**  
@@ -140,13 +140,13 @@ Thank
 **[00:20:51.020] Atty. Lorna Patajo-Kapunan**  
 you, thank you, sir presiding judge, justice, senator, judge. We yield to the wisdom of your decision. With that, we will reserve the right. We are not waiving the right to do call her at the appropriate time and to do file the appropriate request for subpoena duces tecum and subpoena ad testificandum
 
-**[00:21:45.050] Atty. Gerville “Jinky Bitrics” R. Luistro**  
+**[00:21:45.050] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Atty. Tessie C. Candom To the head prosecutor of Article 4 that is threat, the Hon. Lawrence Defensor, may I request that he be recognized, Your Honor.
 
 **[00:21:57.110] Sen. Francis “Chiz” Escudero**  
 The member of the panel of prosecutors, Congressman, the Hon. Lorenz Defensor is recognized for his introduction of Article 4, I presume.
 
-**[00:22:07.950] Lorenz R. Defensor**  
+**[00:22:07.950] Rep. Lorenz R. Defensor**  
 Thank you so much, Mr. Presiding Officer. May I be allowed to make a manifestation? Before you
 
 **[00:22:14.460] Sen. Francis “Chiz” Escudero**  
@@ -161,19 +161,19 @@ Thank you for the interruption, Congressman.
 **[00:24:18.360] Sen. Francis “Chiz” Escudero**  
 And we will be scheduling it for oral arguments by the parties. If that is the desire of the Honorable Senator Judge Cayetano, we will do the same with respect to this once the motion has been filed formally by the panel of prosecutors. The Honorable Defensor is recognized. You may proceed, Sir.
 
-**[00:24:36.680] Lorenz R. Defensor**  
+**[00:24:36.680] Rep. Lorenz R. Defensor**  
 Thank you so much, Your Honor. Honorable Senator Judges, Noong kadalawang putdalawa ng Hunyo 2026, naggulat At nagdalamhati ang buong bansa sa pamamaril sa isang paaralan.
 
 **[00:25:16.650] Atty. Carlo Joaquin T. Narvasa**  
 Atty.
 
-**[00:25:46.480] Lorenz R. Defensor**  
+**[00:25:46.480] Rep. Lorenz R. Defensor**  
 Noong ikadalawampung dalawa... No, no, no. On all but one,
 
 **[00:25:48.680] Sen. Francis “Chiz” Escudero**  
 sir. Kindly finish your reply to the objection of counsel for respondent.
 
-**[00:25:53.400] Lorenz R. Defensor**  
+**[00:25:53.400] Rep. Lorenz R. Defensor**  
 Allow us to freely advocate our positions through the proper and respectful discourse. This is not prohibited under the rules. In fact, the court has declared that yesterday the rules will not comply with the strict procedures of a judicial proceeding. Each article is a separate complaint and it would be the proper guidance for the senator judges, lalo na po sa ating mga kapwa-Pilipino na nanonood para mas lalo nilang maunawaan ang ipipresenta naming ebidensya. The impeachment is a sui generis. Sui generis dahil kakaiba ito, hindi ito judicial, administrative, or civil or criminal proceeding. Hayaan niyo po kaming magbigyan ng limang minuto. Parang mailatag namin kung paano namin maipipresenta at ang basihan namin sa pagpresenta ng aming ebidensya.
 
 **[00:26:49.030] Atty. Carlo Joaquin T. Narvasa**  
@@ -185,22 +185,22 @@ The Presiding Officer's Rule.
 **[00:26:54.590] Sen. Francis “Chiz” Escudero**  
 Although indeed we will interpret the rules liberally, and although indeed this is a sui generis proceeding, neither will we allow any dilatory moves and or tactics, and I will bind and hold you to your five minutes, Honorable Defensor. Absolutely, Your Honor. Clockit. We will afford the same opportunity to the Counsel for Respondent when their turn arrives.
 
-**[00:27:16.220] Lorenz R. Defensor**  
+**[00:27:16.220] Rep. Lorenz R. Defensor**  
 Thank you, Your Honor. May I proceed, Your Honor?
 
 **[00:27:18.000] Sen. Francis “Chiz” Escudero**  
 You may proceed.
 
-**[00:27:19.230] Lorenz R. Defensor**  
+**[00:27:19.230] Rep. Lorenz R. Defensor**  
 Honorable Senator Judges, Noong ikadalawamput dalawa ng hunyo, 2026, nagulat at nagdalamhati ang buong bansa sa pamamaril sa isang paaralan sa Tacloban City na ikinasawi ng tatlong batang mag-aaral at ikinasugat ng marami pang iba. Ang mga salarin, Mga minor de edad, sa kabila ng kanilang murang edad, agad na pumilos ang mga otoridad upang ipatubad ang mga umiiral na batas. Ang mensahe ay malinaw. Ang pag-igiging bata ay hindi nangangahulugang walang pananagutan. Ang pananagutan ay umiiral pagamat iba ang paraan ng pagpapatupad nito sa ilalim ng batas. Kamakailan, Isang pasahero ang inaresto sa airport at kinasuhan matapos itong magbiro na may bomba sa kanyang bagahe dahil mahigpit
 
-**[00:28:19.580] Lorenz R. Defensor**  
+**[00:28:19.580] Rep. Lorenz R. Defensor**  
 na
 
-**[00:28:19.880] Lorenz R. Defensor**  
+**[00:28:19.880] Rep. Lorenz R. Defensor**  
 ipinapatupad ng mga otoridad ang patakarang Zero Tolerance Policy sa anumang pagbabanggit ng bomba o anumang pampasabok. Sa isang hiwalay na pangyayari noong Mayo 2020, isang public school teacher ang inaresto Pinusasan at kinasuhan ng NBI sa Zambales matapos magbiro na magbibigay ng pabuya sa sino mang papatay sa Presidente ng Republika. Ano ang prinsipyo dito? Ang pananagutan ay pinapairal sa lahat, bata man o matanda, nasa laylayan man o nasa katungkulan. The prosecution comes before you today to present evidence for Article 4. Establishing that Vice President Sara Zimmerman Duterte committed acts that betrayed the public trust, committed culpable violation of the Constitution, committed high crimes in publicly admitting through a live broadcast that she contracted someone to assassinate the President, the First Lady, and the former House Speaker. We acknowledge the burden of this trial on the senator judges as well as the Filipino people. But it is a duty that we must discharge together, lest the public come to believe that threatening public officials and fostering a culture of impunity are conduct that may be tolerated or condoned. Especially coming from the second highest official of the land. Ang mga kilos at salita ng vicepresidente ay hindi dapat ituring na simpleng krimen sa ilalim ng batas, kundi tuwirang paglabag sa saligang batas. Kaya ang paglilitis na ito ay mahalagang mekanismong itinakda upang tiyakin na ang kapangyarihan ay laging may kaakibat na pananagutan. Accountability must apply to all or none at all. At the heart of this impeachment proceeding lies a fundamental question para sa ating lahat. Can we continue to entrust one of the highest constitutional offices to a public official who on multiple occasions purposely and willfully and repeatedly resorted to threats of violence against the very institutions The evidence presented in this article are not just derived from testimonies and authenticated documents, but from the Vice President's own words, own conduct, her very own public admissions. Her words were neither accidental nor taken out of context. They were uttered publicly with the intention to be taken seriously. Huwag kang mag-alala ma'am sa security ko kasi may kinausap na ako na tao. At sinabi ko sa kanya na kapag pinatay ako, patayin mo si BBM, si Lisa Marcos, si Martin Romaldez. No joke. No joke. What makes these threats especially sinister is that they do not come from an ordinary citizen but from the Vice President herself, an official who under the Constitution. The President of the Republic.
 
-**[00:32:04.180] Lorenz R. Defensor**  
+**[00:32:04.180] Rep. Lorenz R. Defensor**  
 What values do we expect from those who occupy the highest office in the land? Delicadeza. Palabra de honor. Integrity and loyalty to your oath of office. These are not outdated ideals. They are the foundations of honorable public office. Maraming salamat po, your honors.
 
 **[00:32:45.190] Sen. Francis “Chiz” Escudero**  
@@ -209,19 +209,19 @@ The remarks of the gentlemen are duly noted. However, chair would like to inform
 **[00:33:20.280] Atty. Carlo Joaquin T. Narvasa**  
 may I be allowed also to... Your Honor, we move to strike that opening statement. It's improper for trial. It is not evidentiary in nature. And it only provides conclusions of fact and law. Most of it is irrelevant. And fact of the matter is the prosecution should not present, should present evidence and not manifest in this improper manner.
 
-**[00:33:51.370] Lorenz R. Defensor**  
+**[00:33:51.370] Rep. Lorenz R. Defensor**  
 May I be recognized, Your Honor?
 
 **[00:33:53.210] Sen. Francis “Chiz” Escudero**  
 No need. Motion is denied. Let it remain in the records and as instructed by the Chair, for the Senator-Judges not to consider, deem, whatever statements were given by the Honorable Defensor as evidentiary in any way, shape, size, or form. Again, Counsel, call your first witness. Your
 
-**[00:34:10.970] Lorenz R. Defensor**  
+**[00:34:10.970] Rep. Lorenz R. Defensor**  
 Honor, may I request permission to recognize Counsel for the panel of prosecutors. Atty. Virgil Ligutan To conduct the examination of our first witness, he will be under the direct supervision and control of
 
-**[00:34:24.530] Lorenz R. Defensor**  
+**[00:34:24.530] Rep. Lorenz R. Defensor**  
 the
 
-**[00:34:25.590] Lorenz R. Defensor**  
+**[00:34:25.590] Rep. Lorenz R. Defensor**  
 panel
 
 **[00:34:25.890] Sen. Francis “Chiz” Escudero**  
@@ -236,7 +236,7 @@ Honor, may I register my continuing objection to the opening statement by the pr
 **[00:34:34.590] Sen. Francis “Chiz” Escudero**  
 Well, I don't think he'll do it again, but nevertheless, so noted.
 
-**[00:34:37.630] Lorenz R. Defensor**  
+**[00:34:37.630] Rep. Lorenz R. Defensor**  
 Thank you, Your Honor. May I request that Atty. Virgil D. Ligutan be recognized to conduct the examination of our first witness?
 
 **[00:34:48.210] Sen. Francis “Chiz” Escudero**  

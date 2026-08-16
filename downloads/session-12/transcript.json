@@ -169,7 +169,7 @@
         "stable_id": "S00021",
         "start_seconds": 489.1,
         "end_seconds": 492.98,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Good afternoon, Your Honors. Same appearance for the Prosecution.",
         "confidence": 0.9742838541666666,
         "editorial_flags": []
@@ -178,7 +178,7 @@
         "stable_id": "S00022",
         "start_seconds": 495.46,
         "end_seconds": 496.66,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "We are ready, Your Honor.",
         "confidence": 0.9982421875,
         "editorial_flags": []
@@ -214,7 +214,7 @@
         "stable_id": "S00026",
         "start_seconds": 521.33,
         "end_seconds": 529.99,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "Your Honor, the prosecution is ready for the continuation of the presentation of our first witness, NBI agent Calilung.",
         "confidence": 0.9840946903935185,
         "editorial_flags": []
@@ -223,7 +223,7 @@
         "stable_id": "S00027",
         "start_seconds": 531.77,
         "end_seconds": 539.93,
-        "speaker": "Atty. Gerville “Jinky Bitrics” R. Luistro",
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
         "text": "And with that, Your Honor, we would like to request that Atty. Virgil Ligutan, Atty. Amado Ligutan, be recognized, Your Honor.",
         "confidence": 0.9593258206806486,
         "editorial_flags": []
@@ -11110,7 +11110,7 @@
         "stable_id": "S01353",
         "start_seconds": 10665.02,
         "end_seconds": 10666.24,
-        "speaker": "Lorenz R. Defensor",
+        "speaker": "Rep. Lorenz R. Defensor",
         "text": "may I be recognized? I",
         "confidence": 0.877490234375,
         "editorial_flags": []
@@ -11128,7 +11128,7 @@
         "stable_id": "S01355",
         "start_seconds": 10672.56,
         "end_seconds": 10696.22,
-        "speaker": "Lorenz R. Defensor",
+        "speaker": "Rep. Lorenz R. Defensor",
         "text": "Your Honor, may I just correct, since the private counsel is under the direct supervision and control of the counsel of prosecutors. For Monday, Your Honors, we will be presenting Atty. Jeremy Lotoc. For Wednesday, we will be presenting Atty. or Tuesday, we will be presenting Atty. Zuleika Lopez. And for Wednesday, our third witness, we will be presenting Captain Belinda Belliong.",
         "confidence": 0.9423381846438171,
         "editorial_flags": []
@@ -11146,7 +11146,7 @@
         "stable_id": "S01357",
         "start_seconds": 10702.68,
         "end_seconds": 10714.34,
-        "speaker": "Lorenz R. Defensor",
+        "speaker": "Rep. Lorenz R. Defensor",
         "text": "Not yet, Your Honor. We will manifest on Monday if we can consider him for the Wednesday's session depending on how the trial goes or how long the testimonies will take for both parties.",
         "confidence": 0.9858326631433824,
         "editorial_flags": []
@@ -11191,7 +11191,7 @@
         "stable_id": "S01364",
         "start_seconds": 10757.380000000001,
         "end_seconds": 10764.72,
-        "speaker": "Lorenz R. Defensor",
+        "speaker": "Rep. Lorenz R. Defensor",
         "text": "Your Honor, we confirmed that we emailed a copy to the Respondents. Last Monday, Your Honor. So",
         "confidence": 0.9605441623263888,
         "editorial_flags": []
@@ -11209,7 +11209,7 @@
         "stable_id": "S01368",
         "start_seconds": 10820.06,
         "end_seconds": 10821.43,
-        "speaker": "Lorenz R. Defensor",
+        "speaker": "Rep. Lorenz R. Defensor",
         "text": "We will comply, Your Honor.",
         "confidence": 0.920654296875,
         "editorial_flags": []
@@ -11245,7 +11245,7 @@
         "stable_id": "S01372",
         "start_seconds": 10855.1,
         "end_seconds": 10856.22,
-        "speaker": "Lorenz R. Defensor",
+        "speaker": "Rep. Lorenz R. Defensor",
         "text": "need? No need, Your Honor.",
         "confidence": 0.934765625,
         "editorial_flags": []
@@ -11263,7 +11263,7 @@
         "stable_id": "S01374",
         "start_seconds": 10859.36,
         "end_seconds": 10860.0,
-        "speaker": "Lorenz R. Defensor",
+        "speaker": "Rep. Lorenz R. Defensor",
         "text": "Yes, Your Honor.",
         "confidence": 0.9988606770833334,
         "editorial_flags": []
