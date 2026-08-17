@@ -1,0 +1,503 @@
+{
+  "title": "Audio overview — August 5, 2026",
+  "description": "A source-linked English audio overview of the day's proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "id": "P001",
+      "kind": "intro",
+      "heading": "Introduction",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for August 5, 2026. This is a working reference, not an official Senate record.",
+      "citations": []
+    },
+    {
+      "id": "P002",
+      "kind": "overview",
+      "heading": "The big picture",
+      "text": "On August 5, 2026, the Impeachment Court continued the testimony of Commission on Audit team leader Atty. Roderick C. Wamil, questioned the audit treatment of confidential-fund liquidations and 845 acknowledgement receipts, and began the testimony of COA state auditor Cylene May L. Del Campo. It also addressed the receipt-record dispute, the proposed transfer of markings for portions of the purported Arturo Lascañas affidavit, and judicial notice of House hearings and related records. The chair allowed only a narrow judicial notice of the existence of the hearings and records, while preserving proof, authentication, hearsay, objection, and cross-examination issues.",
+      "citations": [
+        {
+          "segment_id": "S00005",
+          "start_seconds": 328.88,
+          "clock": "00:05:28",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00015",
+          "start_seconds": 557.17,
+          "clock": "00:09:17",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00019",
+          "start_seconds": 594.88,
+          "clock": "00:09:54",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00021",
+          "start_seconds": 606.02,
+          "clock": "00:10:06",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00070",
+          "start_seconds": 1051.07,
+          "clock": "00:17:31",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        },
+        {
+          "segment_id": "S00072",
+          "start_seconds": 1087.11,
+          "clock": "00:18:07",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        },
+        {
+          "segment_id": "S00141",
+          "start_seconds": 1741.3,
+          "clock": "00:29:01",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        },
+        {
+          "segment_id": "S00658A",
+          "start_seconds": 6275.07,
+          "clock": "01:44:35",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "The court called the impeachment trial of Vice President Sara Zimmerman Duterte to order, and Rep. Gerville “Jinky Bitrics” R. Luistro entered the prosecution's appearance.",
+      "citations": [
+        {
+          "segment_id": "S00005",
+          "start_seconds": 328.88,
+          "clock": "00:05:28",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00015",
+          "start_seconds": 557.17,
+          "clock": "00:09:17",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "The chair reminded Atty. Roderick C. Wamil that he was continuing under the same oath, then opened the proceeding to senator-judge questions and interjections.",
+      "citations": [
+        {
+          "segment_id": "S00019",
+          "start_seconds": 594.88,
+          "clock": "00:09:54",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00021",
+          "start_seconds": 606.02,
+          "clock": "00:10:06",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "In response to senator-judge questions, Mr. Wamil described the distinction between confidential and intelligence funds under Joint Circular 2015-01, documentary payment support, the COA notice sequence, and possible Ombudsman referral.",
+      "citations": [
+        {
+          "segment_id": "S00070",
+          "start_seconds": 1051.07,
+          "clock": "00:17:31",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        },
+        {
+          "segment_id": "S00072",
+          "start_seconds": 1087.11,
+          "clock": "00:18:07",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        },
+        {
+          "segment_id": "S00141",
+          "start_seconds": 1741.3,
+          "clock": "00:29:01",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        },
+        {
+          "segment_id": "S00658A",
+          "start_seconds": 6275.07,
+          "clock": "01:44:35",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The chair denied an objection to transferring markings for P-4-35, P-4-35A, and P-4-35B, but ruled that the transfer was only a mechanical and ministerial recordkeeping act. It did not decide authenticity, admissibility, weight, or truth, and the purported Arturo Lascañas affidavit's stated defects and hearsay status remained available for later objection.",
+      "citations": [
+        {
+          "segment_id": "S01372",
+          "start_seconds": 17542.42,
+          "clock": "04:52:22",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01373",
+          "start_seconds": 17582.61,
+          "clock": "04:53:02",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The chair granted judicial notice only as to the factual existence of House hearings held under the official functions of the Committee on Good Government and Public Accountability and the Committee on Justice, and the existence of their transcripts, official audiovisual recordings, and committee report.",
+      "citations": [
+        {
+          "segment_id": "S01374",
+          "start_seconds": 17826.03,
+          "clock": "04:57:06",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01375",
+          "start_seconds": 17843.43,
+          "clock": "04:57:23",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The chair ruled that judicial notice did not establish the truth of statements, factual allegations, or committee findings. The records remained subject to proof, objection, authentication, hearsay and relevance rules, formal offer, and the respondent's opportunity to confront the evidence.",
+      "citations": [
+        {
+          "segment_id": "S01376",
+          "start_seconds": 17964.76,
+          "clock": "04:59:24",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01377",
+          "start_seconds": 18062.61,
+          "clock": "05:01:02",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "finding",
+      "heading": "Senator-judge question",
+      "text": "Sen. Raffy Tulfo questioned whether Atty. Pua's prior discussion with COA about the audit query created a conflict in representing the respondent.",
+      "citations": [
+        {
+          "segment_id": "S00030",
+          "start_seconds": 681.51,
+          "clock": "00:11:21",
+          "speaker_name": "Sen. Raffy Tulfo"
+        },
+        {
+          "segment_id": "S00031",
+          "start_seconds": 708.34,
+          "clock": "00:11:48",
+          "speaker_name": "Sen. Raffy Tulfo"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "finding",
+      "heading": "Senator-judge observation",
+      "text": "Sen. Francis “Chiz” Escudero observed that the named respondent was Vice President Sara Zimmerman Duterte and that the lawyer discussed by Sen. Tulfo was not a named respondent, then stated that he saw no conflict on that basis.",
+      "citations": [
+        {
+          "segment_id": "S00032",
+          "start_seconds": 725.32,
+          "clock": "00:12:05",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P011",
+      "kind": "finding",
+      "heading": "Senator-judge observation",
+      "text": "Sen. Paolo Benigno “Bam” Aquino challenged the assumption that confidential funds were unrestricted and emphasized that rules and regulations governed their use.",
+      "citations": [
+        {
+          "segment_id": "S00067",
+          "start_seconds": 1007.37,
+          "clock": "00:16:47",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        }
+      ]
+    },
+    {
+      "id": "P012",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "The prosecution's COA evidence was presented on the theory that confidential-fund expenditures required documentary support, including official receipts or sales invoices, and that acknowledgement receipts alone did not allow COA to say that the underlying purchases were medicines or other claimed goods.",
+      "citations": [
+        {
+          "segment_id": "S00058",
+          "start_seconds": 945.28,
+          "clock": "00:15:45",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        },
+        {
+          "segment_id": "S00123",
+          "start_seconds": 1552.78,
+          "clock": "00:25:52",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        }
+      ]
+    },
+    {
+      "id": "P013",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "During questioning, the record identified six audit observation memoranda involving non-submission of documentary evidence of payment. Mr. Wamil testified that, among the AOMs he issued, the fourth-quarter 2022 OVP response was the one he encountered with documentary payment evidence.",
+      "citations": [
+        {
+          "segment_id": "S00152",
+          "start_seconds": 1812.48,
+          "clock": "00:30:12",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00153",
+          "start_seconds": 1834.08,
+          "clock": "00:30:34",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        }
+      ]
+    },
+    {
+      "id": "P014",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "The prosecution described the materials as covering 845 acknowledgement receipts for December 21-31, 2022, while the cited exhibit range runs from P-1-8-1 through P-1-8-848; the count-to-exhibit-range discrepancy remained unresolved.",
+      "citations": [
+        {
+          "segment_id": "S01249",
+          "start_seconds": 14649.24,
+          "clock": "04:04:09",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S01256",
+          "start_seconds": 14741.34,
+          "clock": "04:05:41",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01263",
+          "start_seconds": 14878.36,
+          "clock": "04:07:58",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P015",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "Atty. Kristine R. Ferrer argued that the receipt presentation was unreliable because Mr. Wamil's list was unsigned and undated, the witness was turning pages without comparing the receipts to the list, and the folders were not marked as prosecution exhibits.",
+      "citations": [
+        {
+          "segment_id": "S01276",
+          "start_seconds": 15534.52,
+          "clock": "04:18:54",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P016",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense declined to stipulate to the acknowledgement receipts, arguing that OVP and DepEd no longer controlled them after submission to COA, that the receipts were not common exhibits adopted by the defense, and that the prosecution copies had not been compared with defense copies.",
+      "citations": [
+        {
+          "segment_id": "S01295",
+          "start_seconds": 15838.22,
+          "clock": "04:23:58",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P017",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense opposed judicial notice because the matters were disputed, the respondent needed cross-examination, the recordings and transcripts required authentication and completeness review, and the House Committee on Justice proceedings had been challenged before the Supreme Court as an unauthorized mini-trial or fishing expedition.",
+      "citations": [
+        {
+          "segment_id": "S01361",
+          "start_seconds": 16779.98,
+          "clock": "04:39:39",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01363",
+          "start_seconds": 16983.9,
+          "clock": "04:43:03",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P018",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Atty. Roderick C. Wamil, Commission on Audit team leader and prosecution witness, testified that COA sought official receipts or sales invoices as proof of purchases, that acknowledgement receipts alone did not establish what was purchased, and that the audit process moved from AOM to notice of suspension to notice of disallowance and potentially referral to the Ombudsman.",
+      "citations": [
+        {
+          "segment_id": "S00058",
+          "start_seconds": 945.28,
+          "clock": "00:15:45",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        },
+        {
+          "segment_id": "S00123",
+          "start_seconds": 1552.78,
+          "clock": "00:25:52",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        },
+        {
+          "segment_id": "S00658A",
+          "start_seconds": 6275.07,
+          "clock": "01:44:35",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        }
+      ]
+    },
+    {
+      "id": "P019",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Mr. Wamil testified that COA's compliance audit focused on the face of acknowledgement receipts, payment dates, and amounts under Joint Circular 2015-01.",
+      "citations": [
+        {
+          "segment_id": "S00161",
+          "start_seconds": 1888.78,
+          "clock": "00:31:28",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        },
+        {
+          "segment_id": "S00167",
+          "start_seconds": 1918.96,
+          "clock": "00:31:58",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        }
+      ]
+    },
+    {
+      "id": "P020",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Cylene May L. Del Campo, Commission on Audit state auditor and prosecution witness, testified that she continued the audit of OVP and Department of Education liquidation documents after Mr. Wamil left and was asked to identify the tabulation and acknowledgement receipts associated with December 21-31, 2022.",
+      "citations": [
+        {
+          "segment_id": "S01249",
+          "start_seconds": 14649.24,
+          "clock": "04:04:09",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S01256",
+          "start_seconds": 14741.34,
+          "clock": "04:05:41",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        }
+      ]
+    },
+    {
+      "id": "P021",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The record does not resolve whether the prosecution's 845 acknowledgement receipts are identical to defense copies, whether the unsigned and undated list accurately corresponds to them, or whether the receipt folders were properly marked and preserved through the chain of custody.",
+      "citations": [
+        {
+          "segment_id": "S01276",
+          "start_seconds": 15534.52,
+          "clock": "04:18:54",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01295",
+          "start_seconds": 15838.22,
+          "clock": "04:23:58",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01316",
+          "start_seconds": 16098.45,
+          "clock": "04:28:18",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P022",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The testimony did not finally establish from acknowledgement receipts alone whether the claimed purchases were medicines or other claimed goods, because Mr. Wamil said COA could not make that determination without official receipts or sales invoices.",
+      "citations": [
+        {
+          "segment_id": "S00057",
+          "start_seconds": 932.54,
+          "clock": "00:15:32",
+          "speaker_name": "Sen. Raffy Tulfo"
+        },
+        {
+          "segment_id": "S00123",
+          "start_seconds": 1552.78,
+          "clock": "00:25:52",
+          "speaker_name": "Atty. Roderick C. Wamil"
+        }
+      ]
+    },
+    {
+      "id": "P023",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The evidentiary status and truth of the purported Arturo Lascañas affidavit remained unresolved. The chair allowed marking transfer only for recordkeeping and preserved objections to authenticity, admissibility, weight, hearsay, and the document's stated defects.",
+      "citations": [
+        {
+          "segment_id": "S01372",
+          "start_seconds": 17542.42,
+          "clock": "04:52:22",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01373",
+          "start_seconds": 17582.61,
+          "clock": "04:53:02",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P024",
+      "kind": "outro",
+      "heading": "How to use this overview",
+      "text": "The episode page links every substantive point to the timed transcript and the original Senate video. Verify consequential wording against those sources before publication.",
+      "citations": []
+    }
+  ]
+}

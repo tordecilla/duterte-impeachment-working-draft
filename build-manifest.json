@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-17T01:03:42+08:00",
+  "generated_at": "2026-08-18T01:09:38+08:00",
   "complete_artifacts_only": true,
-  "through_date": "20260804",
+  "through_date": null,
   "sessions": [
+    {
+      "id": 2,
+      "youtube_id": "K8YisdBpygk",
+      "revision": 2,
+      "segments": 1495,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
     {
       "id": 3,
       "youtube_id": "gvzDlgWuZ04",
