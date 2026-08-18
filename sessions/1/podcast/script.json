@@ -1,0 +1,647 @@
+{
+  "title": "Audio overview — August 11, 2026",
+  "description": "A source-linked English audio overview of the day's proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "id": "P001",
+      "kind": "intro",
+      "heading": "Introduction",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for August 11, 2026. This is a working reference, not an official Senate record.",
+      "citations": []
+    },
+    {
+      "id": "P002",
+      "kind": "overview",
+      "heading": "The big picture",
+      "text": "On August 11, 2026, the Senate impeachment court continued the prosecution's direct examination of Commission on Audit (COA) state auditor Cylene May L. Del Campo concerning confidential-fund liquidations attributed to the Office of the Vice President (OVP) and the Department of Education (DepEd). Del Campo described COA audit observations, notices of disallowance, acknowledgement receipts, certifications, and the rules governing special disbursing officers. The prosecution relied on summaries and tabulations, while the defense disputed the witness's competence and denied that the parties had agreed to dispense with identification of the acknowledgement receipts. The substantive focus was Del Campo's account of OVP and DepEd audit findings, including separate OVP figures of ₱73.287 million, ₱375 million, and ₱261.3 million, and DepEd findings that remained partly under review. The defense cross-examination was deferred to August 12, leaving the authenticity and identification dispute unresolved.",
+      "citations": [
+        {
+          "segment_id": "S00005",
+          "start_seconds": 425.22,
+          "clock": "00:07:05",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00009",
+          "start_seconds": 571.81,
+          "clock": "00:09:31",
+          "speaker_name": "Atty. Renato N. Bantug Jr."
+        },
+        {
+          "segment_id": "S00015",
+          "start_seconds": 676.76,
+          "clock": "00:11:16",
+          "speaker_name": "Rep. Joel R. Chua"
+        },
+        {
+          "segment_id": "S00016",
+          "start_seconds": 680.88,
+          "clock": "00:11:20",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00018",
+          "start_seconds": 689.12,
+          "clock": "00:11:29",
+          "speaker_name": "Rep. Joel R. Chua"
+        },
+        {
+          "segment_id": "S00045",
+          "start_seconds": 1165.45,
+          "clock": "00:19:25",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00051",
+          "start_seconds": 1260.16,
+          "clock": "00:21:00",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00061",
+          "start_seconds": 1463.48,
+          "clock": "00:24:23",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "Cylene May L. Del Campo, a Commission on Audit state auditor and prosecution witness, described post-audit work by the Commission on Audit and its Intelligence and Confidential Funds Audit Office (ICFAO), including audit observation memoranda (AOMs), notices of suspension or disallowance, acknowledgement receipts (ARs), responses, and supporting records.",
+      "citations": [
+        {
+          "segment_id": "S00104",
+          "start_seconds": 2239.38,
+          "clock": "00:37:19",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00110",
+          "start_seconds": 2377.3,
+          "clock": "00:39:37",
+          "speaker_name": "Cylene May L. Del Campo"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "For the Office of the Vice President, Cylene May L. Del Campo testified that an earlier Commission on Audit notice of disallowance totaled ₱73.287 million: ₱69.787 million in reward payments and ₱3.5 million for tables, chairs, desktop computers, and printers. She also testified that one amount contained a typographical error, that the notice was affirmed on petition for review, and that a subsequent motion for reconsideration remained pending. These matters are reported as testimony, not independently verified fact.",
+      "citations": [
+        {
+          "segment_id": "S00230",
+          "start_seconds": 3465.1400000000003,
+          "clock": "00:57:45",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00234",
+          "start_seconds": 3505.48,
+          "clock": "00:58:25",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00237",
+          "start_seconds": 3542.4,
+          "clock": "00:59:02",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00238B",
+          "start_seconds": 3570.7,
+          "clock": "00:59:30",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00275",
+          "start_seconds": 3965.26,
+          "clock": "01:06:05",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00279B",
+          "start_seconds": 4017.21,
+          "clock": "01:06:57",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00282",
+          "start_seconds": 4035.44,
+          "clock": "01:07:15",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00284",
+          "start_seconds": 4061.51,
+          "clock": "01:07:41",
+          "speaker_name": "Cylene May L. Del Campo"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "Witnesses and evidence",
+      "text": "For a later Office of the Vice President notice of disallowance dated March 31, 2026, Cylene May L. Del Campo testified that the total was ₱375 million for the three quarters of 2023. In explaining the basis for that notice, she separately described ₱261.3 million as disallowed for reward payments, supplies or medical and food aid, and a purchase-of-information payment. The digest does not treat ₱261.3 million as a second notice total.",
+      "citations": [
+        {
+          "segment_id": "S00734",
+          "start_seconds": 11157.91,
+          "clock": "03:05:57",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00738",
+          "start_seconds": 11183.35,
+          "clock": "03:06:23",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00747",
+          "start_seconds": 11305.3,
+          "clock": "03:08:25",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00749",
+          "start_seconds": 11323.9,
+          "clock": "03:08:43",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00750",
+          "start_seconds": 11328.34,
+          "clock": "03:08:48",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00751",
+          "start_seconds": 11338.11,
+          "clock": "03:08:58",
+          "speaker_name": "Cylene May L. Del Campo"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "The hearing opened with appearances by Rep. Joel R. Chua for the prosecution and Atty. Kristine R. Ferrer for respondent Vice President Sara Zimmerman Duterte. Sen. Francis “Chiz” Escudero, the presiding officer, then recognized Atty. Lorna Patajo-Kapunan, counsel for the prosecution, to continue examining the witness.",
+      "citations": [
+        {
+          "segment_id": "S00005",
+          "start_seconds": 425.22,
+          "clock": "00:07:05",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00009",
+          "start_seconds": 571.81,
+          "clock": "00:09:31",
+          "speaker_name": "Atty. Renato N. Bantug Jr."
+        },
+        {
+          "segment_id": "S00015",
+          "start_seconds": 676.76,
+          "clock": "00:11:16",
+          "speaker_name": "Rep. Joel R. Chua"
+        },
+        {
+          "segment_id": "S00016",
+          "start_seconds": 680.88,
+          "clock": "00:11:20",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00018",
+          "start_seconds": 689.12,
+          "clock": "00:11:29",
+          "speaker_name": "Rep. Joel R. Chua"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "The parties argued over whether to compare thousands of acknowledgement receipts in advance. The prosecution described 4,492 documents across the OVP and DepEd; the defense said authenticity and the witness's competence would be for the court to assess after formal offer and testimony.",
+      "citations": [
+        {
+          "segment_id": "S00045",
+          "start_seconds": 1165.45,
+          "clock": "00:19:25",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00051",
+          "start_seconds": 1260.16,
+          "clock": "00:21:00",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00061",
+          "start_seconds": 1463.48,
+          "clock": "00:24:23",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00062",
+          "start_seconds": 1506.81,
+          "clock": "00:25:06",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "finding",
+      "heading": "What happened",
+      "text": "Cylene May L. Del Campo testified about Commission on Audit post-audit work, Joint Circular 2015-01, Office of the Vice President liquidation documents, Department of Education audit observations, and the status of the Department of Education's third-quarter response.",
+      "citations": [
+        {
+          "segment_id": "S00104",
+          "start_seconds": 2239.38,
+          "clock": "00:37:19",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00110",
+          "start_seconds": 2377.3,
+          "clock": "00:39:37",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00738",
+          "start_seconds": 11183.35,
+          "clock": "03:06:23",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S01148",
+          "start_seconds": 15069.28,
+          "clock": "04:11:09",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S01240",
+          "start_seconds": 16031.73,
+          "clock": "04:27:11",
+          "speaker_name": "Cylene May L. Del Campo"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The chair permitted Cylene May L. Del Campo to proceed using summaries and tabulations, subject to the defense's opportunity to comment and cross-examine; this interim procedure did not resolve the separate dispute over the authenticity or identification of the underlying acknowledgement receipts.",
+      "citations": [
+        {
+          "segment_id": "S00068",
+          "start_seconds": 1692.64,
+          "clock": "00:28:12",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00072",
+          "start_seconds": 1756.74,
+          "clock": "00:29:16",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00083",
+          "start_seconds": 1908.84,
+          "clock": "00:31:48",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01278BB",
+          "start_seconds": 16543.36,
+          "clock": "04:35:43",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01288",
+          "start_seconds": 16580.18,
+          "clock": "04:36:20",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The chair declined to have Cylene May L. Del Campo answer a question requiring a factual conclusion, directed counsel to proceed, and said the issue remained unresolved pending later proceedings. The chair then asked a clarifying question about whether Joint Circular 2015-01 authorized only the designated special disbursing officer to disburse the funds.",
+      "citations": [
+        {
+          "segment_id": "S01053",
+          "start_seconds": 13885.64,
+          "clock": "03:51:25",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01054",
+          "start_seconds": 13889.71,
+          "clock": "03:51:29",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01060",
+          "start_seconds": 13948.869999999999,
+          "clock": "03:52:28",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P011",
+      "kind": "finding",
+      "heading": "The court's directions",
+      "text": "The chair stated that Atty. Kristine R. Ferrer could cross-examine Cylene May L. Del Campo using the respondent's copies of the acknowledgement receipts and deferred that cross-examination to the following day.",
+      "citations": [
+        {
+          "segment_id": "S01277",
+          "start_seconds": 16527.96,
+          "clock": "04:35:27",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01289",
+          "start_seconds": 16589.6,
+          "clock": "04:36:29",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P012",
+      "kind": "finding",
+      "heading": "Senator-judge motion",
+      "text": "Sen. Juan Miguel “Migz” Zubiri moved to suggest that legislative sessions begin at 10 A M and impeachment-court proceedings at 3 P M, so that legislative business would not interrupt evidence presentation and cross-examination. He said he wanted to make the proposal a proper motion.",
+      "citations": [
+        {
+          "segment_id": "S01294",
+          "start_seconds": 16632.04,
+          "clock": "04:37:12",
+          "speaker_name": "Sen. Juan Miguel “Migz” Zubiri"
+        },
+        {
+          "segment_id": "S01295",
+          "start_seconds": 16687.68,
+          "clock": "04:38:07",
+          "speaker_name": "Sen. Juan Miguel “Migz” Zubiri"
+        }
+      ]
+    },
+    {
+      "id": "P013",
+      "kind": "finding",
+      "heading": "Senator-judge proposed course",
+      "text": "Sen. Pia S. Cayetano requested that the scheduling matter return to caucus because the Senate had previously discussed the issue and the minority floor leader was absent.",
+      "citations": [
+        {
+          "segment_id": "S01297",
+          "start_seconds": 16756.2,
+          "clock": "04:39:16",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        }
+      ]
+    },
+    {
+      "id": "P014",
+      "kind": "finding",
+      "heading": "Senator-judge proposed course",
+      "text": "Sen. Camille Villar argued that the scheduling matter should receive the same caucus consideration as earlier proposals and should not be changed immediately.",
+      "citations": [
+        {
+          "segment_id": "S01301",
+          "start_seconds": 16803.53,
+          "clock": "04:40:03",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01302",
+          "start_seconds": 16806.91,
+          "clock": "04:40:06",
+          "speaker_name": "Sen. Camille Villar"
+        }
+      ]
+    },
+    {
+      "id": "P015",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "Atty. Lorna Patajo-Kapunan argued that the prosecution had been forced to present summaries and tabulations because the defense had not stipulated to the 4,492 acknowledgement receipts, while maintaining that the defense could raise objections at formal offer.",
+      "citations": [
+        {
+          "segment_id": "S00026",
+          "start_seconds": 751.46,
+          "clock": "00:12:31",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00036",
+          "start_seconds": 1055.84,
+          "clock": "00:17:35",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00051",
+          "start_seconds": 1260.16,
+          "clock": "00:21:00",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00059",
+          "start_seconds": 1394.93,
+          "clock": "00:23:14",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        }
+      ]
+    },
+    {
+      "id": "P016",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "The prosecution elicited testimony that a list submitted to support reward payments did not show the particular accomplishment required as proof of successful information-gathering activity.",
+      "citations": [
+        {
+          "segment_id": "S00189",
+          "start_seconds": 3020.16,
+          "clock": "00:50:20",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S00191",
+          "start_seconds": 3049.94,
+          "clock": "00:50:49",
+          "speaker_name": "Cylene May L. Del Campo"
+        }
+      ]
+    },
+    {
+      "id": "P017",
+      "kind": "finding",
+      "heading": "The prosecution's position",
+      "text": "Atty. Lorna Patajo-Kapunan asked whether Cylene May L. Del Campo viewed the alleged transfers from designated disbursing officers to other people as inconsistent with Joint Circular 2015-01; Del Campo answered that such transfers violated the rule against transferring funds between accountable officers.",
+      "citations": [
+        {
+          "segment_id": "S01270",
+          "start_seconds": 16444.6,
+          "clock": "04:34:04",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01271",
+          "start_seconds": 16474.27,
+          "clock": "04:34:34",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S01273",
+          "start_seconds": 16499.24,
+          "clock": "04:34:59",
+          "speaker_name": "Cylene May L. Del Campo"
+        }
+      ]
+    },
+    {
+      "id": "P018",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "Atty. Kristine R. Ferrer said the defense had not stipulated to the authenticity of the exhibits or to Cylene May L. Del Campo's competence to identify them, and that those matters belonged in open-court examination and formal offer.",
+      "citations": [
+        {
+          "segment_id": "S00061",
+          "start_seconds": 1463.48,
+          "clock": "00:24:23",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00062",
+          "start_seconds": 1506.81,
+          "clock": "00:25:06",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P019",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "The defense objected that the witness was incompetent to answer questions calling for a conclusion about the listed locations and the alleged movement of funds.",
+      "citations": [
+        {
+          "segment_id": "S01038",
+          "start_seconds": 13790.71,
+          "clock": "03:49:50",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01053",
+          "start_seconds": 13885.64,
+          "clock": "03:51:25",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P020",
+      "kind": "finding",
+      "heading": "The defense's position",
+      "text": "Atty. Kristine R. Ferrer disputed the prosecution's characterization of the acknowledgement-receipt procedure. The prosecution had said that authenticity was deemed established if the parties agreed to dispense with identification, but Ferrer later denied that there had been any such agreement or admission.",
+      "citations": [
+        {
+          "segment_id": "S01278BB",
+          "start_seconds": 16543.36,
+          "clock": "04:35:43",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01288",
+          "start_seconds": 16580.18,
+          "clock": "04:36:20",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P021",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The defense had not yet cross-examined Cylene May L. Del Campo when the hearing ended. The chair said the cross-examination could use respondent counsel Atty. Kristine R. Ferrer's copies of the acknowledgement receipts.",
+      "citations": [
+        {
+          "segment_id": "S01277",
+          "start_seconds": 16527.96,
+          "clock": "04:35:27",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S01289",
+          "start_seconds": 16589.6,
+          "clock": "04:36:29",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P022",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The authenticity and identification of the acknowledgement receipts remained disputed. The prosecution said authenticity was deemed established through an agreement to dispense with identification; Atty. Kristine R. Ferrer denied that agreement.",
+      "citations": [
+        {
+          "segment_id": "S01278BB",
+          "start_seconds": 16543.36,
+          "clock": "04:35:43",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01288",
+          "start_seconds": 16580.18,
+          "clock": "04:36:20",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P023",
+      "kind": "finding",
+      "heading": "What remains unresolved",
+      "text": "The witness said the Department of Education's third-quarter response remained under evaluation and review, with further internal review still required.",
+      "citations": [
+        {
+          "segment_id": "S01235",
+          "start_seconds": 15983.82,
+          "clock": "04:26:23",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01240",
+          "start_seconds": 16031.73,
+          "clock": "04:27:11",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S01243",
+          "start_seconds": 16151.0,
+          "clock": "04:29:11",
+          "speaker_name": "Cylene May L. Del Campo"
+        }
+      ]
+    },
+    {
+      "id": "P024",
+      "kind": "outro",
+      "heading": "How to use this overview",
+      "text": "The episode page links every substantive point to the timed transcript and the original Senate video. Verify consequential wording against those sources before publication.",
+      "citations": []
+    }
+  ]
+}
