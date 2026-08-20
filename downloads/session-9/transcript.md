@@ -5,31 +5,31 @@ Impeachment Trial of Vice President Sara Duterte
 Source: https://www.youtube.com/watch?v=S_uQFF-0ciM
 Status: Reviewed working draft, revision 2
 
-**[00:04:10.130] Sen. Francis “Chiz” Escudero**  
+**[00:04:10.130] Sen. Francis "Chiz" G. Escudero**  
 The sergeant at arms is directed to make a proclamation.
 
 **[00:04:14.540] Alfredo Sotto Corpuz**  
 All persons are commanded to keep silent under pain of penalty while the impeachment court is in session for the trial of Vice President Sara Zimmerman Duterte.
 
-**[00:04:28.320] Sen. Francis “Chiz” Escudero**  
+**[00:04:28.320] Sen. Francis "Chiz" G. Escudero**  
 The impeachment trial of Vice President Sara Zimmerman Duterte is hereby called to order.
 
-**[00:04:38.520] Sen. Francis “Chiz” Escudero**  
+**[00:04:38.520] Sen. Francis "Chiz" G. Escudero**  
 Please bow our heads and pray.
 
-**[00:04:42.360] Sen. Francis “Chiz” Escudero**  
+**[00:04:42.360] Sen. Francis "Chiz" G. Escudero**  
 Heavenly Father, we come to you seeking the gift of your grace as we gather in this August Chamber to fulfill our duties as Senator-Judges. Grant us the gifts of humility, discernment, and wisdom. Keep our sights set firmly on the truth. Guide our hearts towards the pursuit of justice and the preservation of the rule of law. Bigyan mo kami ng tamang pag-unawa. Gawin mong gabay at inspirasyon ang iyong salita sa lahat ng aming gagawin. Tulungan mo kaming maalala na ang batayan ng aming tungkulin sa hukumang ito ay ang Saligang Batas at ang tiwala ng bayang Pilipino. We humbly lift the work of our hands in submission to your will for the defense of all that is good and the service of our nation. This we pray in your holy name. Amen.
 
-**[00:05:46.150] Sen. Francis “Chiz” Escudero**  
+**[00:05:46.150] Sen. Francis "Chiz" G. Escudero**  
 The Clerk of Court will now call the roll.
 
 **[00:05:49.880] Atty. Renato N. Bantug Jr.**  
 Roll call of members. Senator-Judge Aquino; Senator-Judge Cayetano, Alan; Senator-Judge Cayetano, Pia; Senator-Judge Dela Rosa; Senator-Judge Ejercito; Senator-Judge Estrada; Senator-Judge Go; Senator-Judge Hontiveros; Senator-Judge Lacson; Senator-Judge Lapid; Senator-Judge Legarda; Senator-Judge Marcoleta; Senator-Judge Marcos; Senator-Judge Padilla; Senator-Judge Pangilinan; Senator-Judge Sotto III; Senator-Judge Tulfo, Erwin; Senator-Judge Tulfo, Raffy; Senator-Judge Villanueva; Senator-Judge Villar, Camille; Senator-Judge Villar, Mark; Senator-Judge Zubiri; Presiding Officer Senator-Judge Escudero; Senate President Gatchalian.
 
-**[00:06:37.920] Sen. Francis “Chiz” Escudero**  
+**[00:06:37.920] Sen. Francis "Chiz" G. Escudero**  
 Nineteen senators present, the Chair declares the presence of a quorum.
 
-**[00:06:51.120] Sen. Francis “Chiz” Escudero**  
+**[00:06:51.120] Sen. Francis "Chiz" G. Escudero**  
 What is the pleasure of Senator Judge Padilla?
 
 **[00:06:54.420] Sen. Robinhood “Robin” Padilla**  
@@ -38,19 +38,19 @@ Yes, sir.
 **[00:06:56.020] Sen. Robinhood “Robin” Padilla**  
 Magandang tanghali po sa ating takapamahalang hukom.
 
-**[00:07:00.820] Sen. Francis “Chiz” Escudero**  
+**[00:07:00.820] Sen. Francis "Chiz" G. Escudero**  
 Magandang hapon din po.
 
 **[00:07:02.200] Sen. Robinhood “Robin” Padilla**  
 At sa atin pong ginuong Pangulo. Nais ko lamang po magbigay ng isang maigsing manifesto. The gentleman has two minutes. Maraming salamat po. Audhu billahi minash shaitanir rajim. Bismillahir rahmanir rahim. Mga mahamahal kong kasama, Nais ko lamang pong idulog sa inyo ang aking nararamdaman ang isang damdaming masasabi ko pong nagtatanong sapagkat ang mga nangyayari po sa ating hukuman sa mga oras na ito hindi ko po alam kung ito ba ay exacto lang na nangyayari o ito po ba ay sinasadya katulad po ng pagkakakulong Nang ating dalawang senator-judge na si Sen. Jingoy Estrada at si Sen. Rodante Marculeta At ang kagiyat pong pagdating ng aming mga masasabing galing sa ombudsman sa akin at kay Sen. Alan Peter Caetano At kahapon, pagkatapos pong ng isang araw na mabanggit Ang patungkol sa pagpunta ng ating mahal na NBI Director sa Bangkok at ito po ay kinwestiyon ni Sen. Alan Peter Caetano, kahapon po ay biglang lumabas ang isang pahayag na iniimbestigahan daw po iyong patungkol sa pangyayari noong Southeast Asian Games. Ito po ba ay exacto lang? O ito po ba ay merong dapat tayong pangambahan? Sa pagkat, alam niyo po, ako din po ay dapat ay pupunta ng Iran. Sa pagkat, sinagawa po ang pagbibigay-pugay sa namatay na kanilang leader, spiritual leader. Pero hindi po ako tumuloy dahil may impeachment po tayo. Tanong ko lamang po sa ating mga kasama. Dapat po ba tayong mangamba? Dapat po ba kaming mangamba? At tayo po ay parang exacto naman lahat nito? Hindi ba po tayo ay malayang korte? Tayo po ay may karapatan na binibigay ng konstitusyon na magsagawa po ng pagdinig na ito. Iyo lamang po. Maraming salamat po, ginuong tagapamahalang hukom.
 
-**[00:09:51.000] Sen. Francis “Chiz” Escudero**  
+**[00:09:51.000] Sen. Francis "Chiz" G. Escudero**  
 The manifestation of Senator Judge Padilla is noted. What is the pleasure of Senator Judge
 
 **[00:09:56.320] Sen. Alan Peter Cayetano**  
 Gaetano? Senet here as an impeachment court, someone can rise on a question of personal or collective privilege. I won't do that but may I just respond to what Senator Padilla said since my name was mentioned and since the investigation announced by the NBI yesterday seems to be pertaining to this person as chairman of the 2019 Organizing Committee of the Southeast Asian Games. May I, maybe, in the form muna of manifestation, unless the presiding officer or senate president thinks that I should elaborate on a position by asking for time on a personal collective privilege, but I don't want to start that procedure. Sen.
 
-**[00:11:12.010] Sen. Francis “Chiz” Escudero**  
+**[00:11:12.010] Sen. Francis "Chiz" G. Escudero**  
 Judge Cayetano may make his manifestation, for the record, sir.
 
 **[00:11:16.110] Sen. Alan Peter Cayetano**  
@@ -86,7 +86,7 @@ Iilan lang po kaming abogado dito. Si Sen.
 **[00:21:29.450] Sen. Alan Peter Cayetano**  
 Pangilinan, Senator Chiz, si Imee is a law graduate. Senator Pia. Bam is a second-year law student, and I'm encouraging him na tapusin niya. Total review na iyong nangyayari ngayon. But it's not easy. Twenty-four lang kami, nabawasan na ng tatlo. So I hope this issue of the integrity of the Court becomes an issue for all of us. I'll repeat what I said when I was Senate President: Director, hindi mo kami natibag. So huwag mong i-try itibag itong representation na ito or itong Impeachment Court, because what you're doing is not helping. Investigate whatever you want to investigate. You want to investigate ba't ako nagpatubo ng balbas? Investigate mo, no problem with me. Pero huwag mo nang i-announce kasi nga naaapektuhan iyong integrity ng Court. Thank you for the leeway, Presiding Officer.
 
-**[00:22:29.110] Sen. Francis “Chiz” Escudero**  
+**[00:22:29.110] Sen. Francis "Chiz" G. Escudero**  
 you, Senator Judge Alan Cayetano. Yes, what is the pleasure of Senator Judge Pia Cayetano?
 
 **[00:22:36.650] Sen. Pia S. Cayetano**  
@@ -107,22 +107,22 @@ Why would you allow a director who's just called to be a witness next week, brag
 **[00:25:17.280] Sen. Pia S. Cayetano**  
 So with all due respect, Mr. Presiding Officer, I ask that we play it. I want to see what this witness is doing.
 
-**[00:27:22.990] Sen. Francis “Chiz” Escudero**  
+**[00:27:22.990] Sen. Francis "Chiz" G. Escudero**  
 Chair grants the motion of Senator Pia in order for us to be able to move on with the matter on hand for today, which is the oral arguments of the parties. Chair therefore instructs the tech to kindly play the one-minute video. Senator-Judge Pangilinan is recognized.
 
 **[00:27:46.430] Sen. Francis “Kiko” Pangilinan**  
 Thank you, Mr. Presiding Officer. We support the position taken by the Presiding Officer. But we'd like to place on record that the good NBI Director will be here on Monday. So my initial view is that we should be able to do this on Monday, but I will yield to the ruling of the Chair.
 
-**[00:28:14.030] Sen. Francis “Chiz” Escudero**  
+**[00:28:14.030] Sen. Francis "Chiz" G. Escudero**  
 We thank the understanding and magnanimity of Senator Judge Pangilinan. The tech is instructed to play the more or less one minute video.
 
-**[00:28:25.400] Sen. Francis “Chiz” Escudero**  
+**[00:28:25.400] Sen. Francis "Chiz" G. Escudero**  
 Alluded to and requested by Sen. Judge P.
 
 **[00:29:21.080] Atty. Melvin Matibag**  
 Mayroon kaming mga kasong pumasok na bago na dapat naming tingnan. [unclear] because we were given 70 hectares for the NBI Academy. So nagkaroon kami ng relationship sa Clark. Nakita namin iyong parang sports complex na ginamit ng [unclear] organizing committee. [unclear] bilyon pala iyong pumasok ditong pera na unliquidated, at may private company rito na na-involve, na binayaran ng 10 billion, at ang pagbabayad, insertion [unclear]. So ito, iimbestigahan—malaking kaso rin. Iba pa iyon sa kaldero, I think. Pero sisilipin na rin natin ito, iyong tungkol doon sa—it's a [unclear] company na sila iyong nagbili noong parang support area na ito. Walang bidding, tapos nabayaran nang mabilisan na 10 billion iyong halaga. Congressional insertion. So sisilipin namin. Katunayan, mayroon kaming mga kaso na pumasok na bago na dapat naming tingnan. [unclear] we were given, I think that's it—70 hectares for the NBI Academy. So magkaroon kami—
 
-**[00:30:59.600] Sen. Francis “Chiz” Escudero**  
+**[00:30:59.600] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge Pia Cayetano is recognized.
 
 **[00:31:02.240] Sen. Pia S. Cayetano**  
@@ -152,28 +152,28 @@ Hindi tayo sensitive. Sanay tayo dito. Pero alam din natin kung pinapatamaan tay
 **[00:33:23.760] Sen. Pia S. Cayetano**  
 O, so paano? Sabihin ko ngayon sa kanya, O manda ka sa akin ngayon, pagdating mo. Ganun ba? Gaganti na lang ako? Hindi ako ganun. Kilala niyo ako. For how many years ako tumayo dito, hindi ako nang gaganti. Hindi ako mababaw. Pero I'm asking you, dear colleagues, wag tayong papayag. The Filipino people deserve better. We deserve better. Thank you.
 
-**[00:33:45.770] Sen. Francis “Chiz” Escudero**  
+**[00:33:45.770] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Villa. What is the pleasure of Senator Judge Alan Gaetano? I
 
 **[00:33:50.310] Sen. Alan Peter Cayetano**  
 didn't know we were going to play it, but just for the record, there's no issue with the Kwadron because it was paid by the private sector. There was no public money used and it was designed by the firm of a national artist. So much so that that same firm, I don't know when we started to hire them. It was whether it was the time of Senator Lacson as the Committee of Accounts for the new Senate building or the time of Senator Nancy. But until now, there's engagement. So it's so easy to find out. But can I shift to the topic at hand? Just one manifestation for the whole Senate regarding the oral arguments.
 
-**[00:34:33.830] Sen. Francis “Chiz” Escudero**  
+**[00:34:33.830] Sen. Francis "Chiz" G. Escudero**  
 We have not yet called the journal and called the court.
 
 **[00:34:37.410] Sen. Alan Peter Cayetano**  
 So at the proper time, I just want to...
 
-**[00:34:40.350] Sen. Francis “Chiz” Escudero**  
+**[00:34:40.350] Sen. Francis "Chiz" G. Escudero**  
 Yes, you may do so at the proper time.
 
-**[00:34:44.690] Sen. Francis “Chiz” Escudero**  
+**[00:34:44.690] Sen. Francis "Chiz" G. Escudero**  
 Proceeding now, if there are no objections, the presiding officer will dispense with the reading of the July 14, 2026 Journal of the Senate, setting as an impeachment court, and shall consider the same as approved. Clerk of court will please call the matter before the impeachment court.
 
 **[00:35:03.640] Atty. Renato N. Bantug Jr.**  
 Case number 004-2026 in the matter of Impeachment Trial of Vice President Sara Zimmerman Duterte.
 
-**[00:35:10.540] Sen. Francis “Chiz” Escudero**  
+**[00:35:10.540] Sen. Francis "Chiz" G. Escudero**  
 Appearances for the parties.
 
 **[00:35:22.550] Rep. Gerville “Jinky Bitrics” R. Luistro**  
@@ -182,10 +182,10 @@ Good afternoon, Your Honors. Same appearance for the prosecution. We are ready, 
 **[00:35:28.700] Atty. Michael Wesley Poa**  
 Appearances for the respondent. Good afternoon, Your Honors. I am Michael Poa. Same appearances for the defense and for the respondent-accused, Your Honor.
 
-**[00:35:36.200] Sen. Francis “Chiz” Escudero**  
+**[00:35:36.200] Sen. Francis "Chiz" G. Escudero**  
 Before recognizing the counsel for the prosecution for their 15 minutes for... Their presentation and oral argument in relation to their motions for the issuance of subpoena for bank, AMLC, and BIR records. Chair would like to recognize Senator Judge Alan Cayetano for his manifestation earlier. Alan?
 
-**[00:36:01.780] Sen. Francis “Chiz” Escudero**  
+**[00:36:01.780] Sen. Francis "Chiz" G. Escudero**  
 The Senator Judge intimated earlier that he had a manifestation before we proceeded.
 
 **[00:36:06.280] Sen. Alan Peter Cayetano**  
@@ -200,31 +200,31 @@ I'm not pre-empting our caucus. I'm just saying, Mr. President, that I commit to
 **[00:39:01.910] Sen. Alan Peter Cayetano**  
 different law for the bank secrecy. There's a different law for BIR. So, thank you, Mr.
 
-**[00:39:07.450] Sen. Francis “Chiz” Escudero**  
+**[00:39:07.450] Sen. Francis "Chiz" G. Escudero**  
 Chair notes the observation of Senator Judge Alan Cayetano. However, subject of course to any agreements that will be arrived at in caucus, we are constrained by the motions filed by the parties. There are only two pending motions that this Court should act upon. Number one, a motion for the issuance of a subpoena with respect to bank and AMLC records on the one hand. And number two, a motion for the issuance of subpoena for BIR records. Understandably, there are sub-issues underneath each. But we cannot put a vote each and every sub-issue under each motion. So we will most likely, the Chair would suggest, put it to a vote. By the motions that have been filed by the parties, whether or not to grant it or to deny the motion filed by the prosecutors in this case. Subject, of course, any agreements we might arrive at in caucus, Senator-Judge Alan. And the chair will submit to that. Now, as earlier agreed in yesterday's proceedings, the prosecution will be given 15 minutes for their chief arguments. Likewise, the respondent will be given 15 minutes. And then thereafter, the prosecutor will be given 10 minutes by way of rebuttal and the respondent will be given 10 minutes by way of surrebuttal. May I ask who among the prosecutors or counsel for prosecutors will argue the motion for the issuance of the subpoenas for bank, AMLC, and BIR records?
 
 **[00:40:47.360] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honors, the prosecution will be represented by the Honorable Representative Chel Diokno. For the purpose of this oral argument, nonetheless, Your Honor, we have some manifestation to make for the prosecution.
 
-**[00:41:01.440] Sen. Francis “Chiz” Escudero**  
+**[00:41:01.440] Sen. Francis "Chiz" G. Escudero**  
 The lead prosecutor may proceed. This is pertaining to the matter on hand.
 
 **[00:41:08.440] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 This pertains, Your Honor, to the remaining witnesses for Article 4 threat.
 
-**[00:41:14.180] Sen. Francis “Chiz” Escudero**  
+**[00:41:14.180] Sen. Francis "Chiz" G. Escudero**  
 Can we discuss that later before we adjourn, lead prosecutor?
 
 **[00:41:18.640] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We submit, Your Honor.
 
-**[00:41:19.760] Sen. Francis “Chiz” Escudero**  
+**[00:41:19.760] Sen. Francis "Chiz" G. Escudero**  
 Thank you. On the part of the respondent, As
 
 **[00:41:22.740] Atty. Michael Wesley Poa**  
 On the part of respondent, Your Honor, I will be the one arguing today.
 
-**[00:41:26.840] Sen. Francis “Chiz” Escudero**  
+**[00:41:26.840] Sen. Francis "Chiz" G. Escudero**  
 For the record, kindly state your full name, Atty. Poa.
 
 **[00:41:30.280] Atty. Michael Wesley Poa**  
@@ -233,7 +233,7 @@ My name is Michael Wesley T. Poa, Your Honor. Thank you.
 **[00:41:34.240] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, we're requesting that Congressman Chel Diokno be recognized.
 
-**[00:41:39.440] Sen. Francis “Chiz” Escudero**  
+**[00:41:39.440] Sen. Francis "Chiz" G. Escudero**  
 For the prosecutors, the Honorable Representative from the Akbayan party-list, Chel Diokno, is recognized for his oral arguments on the twin motions that they filed. You are recognized, sir, and you may proceed when you are ready. You have 15 minutes.
 
 **[00:41:57.110] Rep. Jose Manuel “Chel” I. Diokno**  
@@ -263,10 +263,10 @@ In closing, Your Honors, I go back to the most fundamental provision in our Cons
 **[00:54:29.660] Rep. Jose Manuel “Chel” I. Diokno**  
 Ang pananagutan sa taong bayan ang pinakamahalaga sa lahat. Kaya naman po ang hiling namin sa Korte, gamitin ang inyong natatanging kapangyarihan at karapatan na busisiin ang bank records, tax records at AMLC reports kaugnay ni VP Sara at ng kanyang asawa. Sa ganitong paraan, Your Honors, madedesisyonan ninyo ang kaso base sa buong katotohanan. The truth, the whole truth and nothing but the truth, para sa interes at kapakanan ng sambayan ng Pilipino. Before I close, if Your Honor is pleased, if I have whatever time I have left, may I request that it be credited to my rebuttal. Maraming maraming salamat po.
 
-**[00:55:20.510] Sen. Francis “Chiz” Escudero**  
+**[00:55:20.510] Sen. Francis "Chiz" G. Escudero**  
 We will try to do that, Your Honor. You have 1 minute and 39 seconds. And if at all we do so, we shall equally credit it. To the Sir Rebuttal, if any, of the Council for Respondents.
 
-**[00:55:35.890] Sen. Francis “Chiz” Escudero**  
+**[00:55:35.890] Sen. Francis "Chiz" G. Escudero**  
 Atty. Poa, if you are ready, you are recognized to respond to the statements of Congressman Diokno. You have 15 minutes.
 
 **[00:55:44.330] Atty. Michael Wesley Poa**  
@@ -296,13 +296,13 @@ Meron po bang exception sa batas na ito? Meron po. But it is limited. Kasama po 
 **[01:07:05.750] Atty. Michael Wesley Poa**  
 Your Honors, we agree with them. No one is above the law. But in the same manner, no one must fall below or be outside the protection of the law. Impeachment is indeed a powerful constitutional tool. But your honors, impeachment is not a magic word or a magic wand that one can just waive to transform an illegal act into a legal act, to transform unlawful access To lawful access. That is not what the Constitution contemplates. That is not what the laws enacted by Congress contemplate. And that is not something that the Honorable Impeachment Court should allow. We submit your honors. Thank you very much.
 
-**[01:07:56.720] Sen. Francis “Chiz” Escudero**  
+**[01:07:56.720] Sen. Francis "Chiz" G. Escudero**  
 The gentleman still has two minutes and 48 seconds, which we shall credit, similar to the request of the prosecutor, to your surrebuttal, should you desire to use it, counsel for the respondent.
 
 **[01:08:10.940] Atty. Michael Wesley Poa**  
 Thank you, Your Honor.
 
-**[01:08:12.200] Sen. Francis “Chiz” Escudero**  
+**[01:08:12.200] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the—rather, the prosecutor is recognized, Atty. Chel Diokno. You have 11.38 minutes, which we will round off to 12 minutes. Counsel, you may proceed when you're ready for your rebuttal.
 
 **[01:08:32.420] Rep. Jose Manuel “Chel” I. Diokno**  
@@ -320,7 +320,7 @@ Your Honors. Madaling sabihin na confidential ang ilang impormasyon at dokumento
 **[01:17:31.990] Rep. Jose Manuel “Chel” I. Diokno**  
 Confidentiality, Your Honor, should not be the prevailing principle. In this proceeding, hindi po confidential ang katotohanan. Maraming salamat po.
 
-**[01:17:47.160] Sen. Francis “Chiz” Escudero**  
+**[01:17:47.160] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Representative, the Honorable Chel Diokno. Atty. Poa, counsel for respondent is recognized for his rebuttal. Sir, you have 13 minutes.
 
 **[01:17:58.340] Atty. Michael Wesley Poa**  
@@ -329,25 +329,25 @@ Thank you, sir. I will not take up the entire time to expedite matters. Your Hon
 **[01:21:42.280] Atty. Michael Wesley Poa**  
 of what happened in the Corona trial, and yet, Your Honors, they imposed these guidelines. In fact, the line itself in Duterte v. House of Representatives is, I quote, 'We clarify the constitutional requirements of impeachment.' At kasama doon iyong nabanggit namin kanina on what constitutes an impeachable offense. And that is very clear. Marahil, sinasabi natin na iyon ay isang obiter. Pero, Your Honors, paano magiging obiter iyon kung iyon mismo ang itinakbo ng desisyon? The fact that the one-year bar was triggered was only the effect of not abiding by the Due Process Clause of the Constitution. And lastly, again, Your Honors, we do not disagree with the prosecution in terms of accountability. Again, no one is above the law, but no one should also be deprived of the protection given by law, Your Honors. Thank you.
 
-**[01:22:49.160] Sen. Francis “Chiz” Escudero**  
+**[01:22:49.160] Sen. Francis "Chiz" G. Escudero**  
 Bago mag-recess ang Senator-Judges para mag-usap sa caucus, nais kong sambitin sa record na binabati ko ang magkabilang panig, partikular si Congressman, the Honorable Chel Diokno, gayon din si Atty. Poa, sa isang mahinahon, malumanay, maginoo, at magalang na diskurso at debate kaugnay sa maituturing nating kontrobersyal na isyung ito. At inaasahan ko, iyan din ang magaganap sa caucus at sa aming pagbabalik matapos nito. Senator-Judge Alan Cayetano is recognized.
 
 **[01:23:31.620] Sen. Alan Peter Cayetano**  
 Thank you, presiding officer, very eloquently said. Before we go to our favorite subject, recess, the prosecutor was going to say something about Monday witness. Can we hear that? Because if, I don't want to pre-empt, but can we hear that? Because if they're not going to have witnesses on Monday, I have a proposal.
 
-**[01:23:58.360] Sen. Francis “Chiz” Escudero**  
+**[01:23:58.360] Sen. Francis "Chiz" G. Escudero**  
 I'm sure they will. They were in fact on the verge of announcing it.
 
 **[01:24:03.240] Sen. Alan Peter Cayetano**  
 Because, Mr. President, this is what I wanted to say. We do need the focus. But after hearing both sides, I really have many questions. And I think we should really, dapat mahimay. But after hearing them, I think there's a couple of issues we will agree on. But I'd rather ask my questions on Monday. So if everyone agrees, then we can caucus but allow them to adjourn. Unless someone wants to ask after our caucus.
 
-**[01:24:39.280] Sen. Francis “Chiz” Escudero**  
+**[01:24:39.280] Sen. Francis "Chiz" G. Escudero**  
 We will hear the lead prosecutor. However, Senator Judge Cayetano, it is the predisposition of the presiding officer, given that we don't have any witnesses today to settle this matter and this issue today. It's the only matter for us to discuss anyway.
 
 **[01:24:56.120] Sen. Alan Peter Cayetano**  
 That's my point, Senator Judge. I'm reviewing the rules. Hindi naman tayo tatagal pag per legal issue kasi nakalagay naman not more than two minutes eh. Meaning, for example, for me, issuing the subpoena is not one issue. Whether the subpoena is to the VP or to her husband is two separate issues. Peso account or dollar account is a separate issue. Whether or not the company's accounts, etc., should be subpoena is a different issue. But for me to decide, I want to ask the prosecution and the defense about that. So medyo mahaba-haba talaga.
 
-**[01:25:41.530] Sen. Francis “Chiz” Escudero**  
+**[01:25:41.530] Sen. Francis "Chiz" G. Escudero**  
 To answer the senator-judge, we have a precedent that I think if I remember correctly, it involves the good gentleman himself. When then-senate president Enrile made a ruling with respect to the request for the issuance of a subpoena against the former Chief Justice Corona and his family. The gentleman agreed with respect to not issuing the subpoena against the Chief Justice, but disagreed with respect to not issuing with the family. I
 
 **[01:26:10.420] Sen. Alan Peter Cayetano**  
@@ -356,28 +356,28 @@ was correct there. That was the first, the rules of court. Pwede, pagka-son-in-l
 **[01:27:10.810] Sen. Alan Peter Cayetano**  
 Alangan namang magbago ako ng stand kung pare-pareho iyong issue about, let's say, bank account. So, you know my vote on that, di ba? But my vote on Chief Justice Corona doesn't mean it's the same vote if it was on his spouse and the companies that are under his name. I can tell you honestly right now, I don't know what to vote for—what my vote will be—but I do know that these are two important issues, even the definition of definiteness and the definition of fishing expedition. I want to pursue that with them.
 
-**[01:27:50.240] Sen. Francis “Chiz” Escudero**  
+**[01:27:50.240] Sen. Francis "Chiz" G. Escudero**  
 With the permission of Senator-Judge Alan, can we discuss that in caucus?
 
 **[01:27:51.760] Sen. Alan Peter Cayetano**  
 Yes. So I'm just saying, if we're going to discuss it and maraming magtatanong, do you want them to go home and we can extend till Thursday next week or whatever?
 
-**[01:28:03.920] Sen. Francis “Chiz” Escudero**  
+**[01:28:03.920] Sen. Francis "Chiz" G. Escudero**  
 No, not at this time. We can advise them at the appropriate time. Senator-Judge Pangilinan.
 
 **[01:28:08.870] Sen. Francis “Kiko” Pangilinan**  
 Just to reiterate the earlier manifestation of the presiding officer, we agreed to go on COPUS after the oral argument. So let us stick to the agreement, Mr. Presiding Officer. Thank you.
 
-**[01:28:25.590] Sen. Francis “Chiz” Escudero**  
+**[01:28:25.590] Sen. Francis "Chiz" G. Escudero**  
 Umaasa pa rin ako na magiging mahinahon yung caucus.
 
-**[01:28:31.120] Sen. Francis “Chiz” Escudero**  
+**[01:28:31.120] Sen. Francis "Chiz" G. Escudero**  
 Chair declares a recess. We will advise the parties as to what time we will most likely finish once we know that we are in the process of winding up. In the meantime, kindly relax and study the next witnesses you will be presenting. Trial is on recess.
 
-**[03:03:01.040] Sen. Francis “Chiz” Escudero**  
+**[03:03:01.040] Sen. Francis "Chiz" G. Escudero**  
 For the information of the parties as well as the viewing public, in caucus the senator judges agreed to study the matter more given that not everyone has actually completed reading the memoranda given by the parties and submitted by the parties and given that they want more time to look into the complicated issues involved in these two motions for the issuance of subpoena. The Senator-Judges agreed in caucus to decide on the matter on Monday, and that on Monday, Senator-Judges who wish to ask the parties questions will be afforded the time to ask these questions again on both sides.
 
-**[03:03:50.200] Sen. Francis “Chiz” Escudero**  
+**[03:03:50.200] Sen. Francis "Chiz" G. Escudero**  
 Following our rules, it shall be 10 minutes per Senator, not exceeding one hour for each side. At this juncture, we now recognize the lead prosecutor, the Honorable Luistro. As I understand, she intended earlier to make a manifestation with respect to their intended witnesses on Monday. Kindly already exclude Monday, Honorable Luistro.
 
 **[03:04:17.550] Rep. Gerville “Jinky Bitrics” R. Luistro**  
@@ -404,76 +404,76 @@ Nevertheless, Your Honor, we are requesting that we be allowed to request for th
 **[03:10:19.390] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 That includes Marivic Pareja of the Legislative Archives, Museum Management Service of the House of Representatives, and also Your Honor, two LandBank employees, including Violeta Constantino, former branch manager of LandBank Shaw Boulevard Branch, and Nenita Camposano, former branch manager, LandBank DepEd Branch.
 
-**[03:10:52.710] Sen. Francis “Chiz” Escudero**  
+**[03:10:52.710] Sen. Francis "Chiz" G. Escudero**  
 To clarify, Hon. Luistro, this is for the issuance of subpoena ad testificandum only?
 
 **[03:11:01.840] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, the request is for the issuance of both subpoena ad testificandum and subpoena duces tecum.
 
-**[03:11:12.380] Sen. Francis “Chiz” Escudero**  
+**[03:11:12.380] Sen. Francis "Chiz" G. Escudero**  
 Kindly submit, in writing the motion, in order to be able to specify the documents you want to be the subject matter of the subpoena duces tecum. We will await it within the afternoon, even after adjournment, so that we can sign the subpoena by today or tomorrow, the latest.
 
 **[03:11:35.260] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May I inform the Honorable Impeachment Court that the list or the request for subpoena at Testificandum Indusis Deco, the written ones, have been submitted already to the Honorable Impeachment Court, Your Honor. I
 
-**[03:11:49.960] Sen. Francis “Chiz” Escudero**  
+**[03:11:49.960] Sen. Francis "Chiz" G. Escudero**  
 stand corrected. Yes, I have it with me now.
 
 **[03:11:52.300] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I just enter some correction with respect to the testimony of Atty. Lotoc to the act of threat or grave threat. The same is a public crime which does not need a private complainant and its prosecution does not depend on the complaint participation.
 
-**[03:12:15.540] Sen. Francis “Chiz” Escudero**  
+**[03:12:15.540] Sen. Francis "Chiz" G. Escudero**  
 Counsel, before going there, let the Presiding Officer act on these requests for issuance of subpoena first. The Presiding Officer hereby grants the request for issuance of subpoena ad testificandum to Ms. Marivic Pareja, to appear on July 21 and 22; to Ms. Violeta Constantino and Nenita Camposano, also subpoena ad testificandum to appear on July 21 and 22; and subpoena duces tecum to Ms. Lynette Ortiz of the Land Bank of the Philippines, to appear on July 21 and 22. The afore-stated requests for subpoena are hereby granted. The Clerk of Court is directed to prepare the corresponding subpoena ad testificandum or duces tecum, as the case may be, and for the Sergeant-at-Arms to be instructed to serve the foregoing subpoenas. As you were saying, Honorable—
 
 **[03:13:26.080] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 May I just manifest, Your Honor, that with respect to the testimony of Atty. Lotoc, threat is a public crime and therefore its prosecution does not depend on the complaint, participation, and even the subjective feeling of the victim, including that of his family.
 
-**[03:13:42.250] Sen. Francis “Chiz” Escudero**  
+**[03:13:42.250] Sen. Francis "Chiz" G. Escudero**  
 what is this about um i think if i remember correctly um um representative luistro the presiding officer stated that also yesterday that there are only certain private crimes that require um the complaint of uh of the victim and these mostly are um Private and sexual crimes such as concubinage, adultery, seduction, abduction, rape, and acts of lasciviousness. These are the only private crimes that require the signature or complaint of the private complainant.
 
 **[03:14:14.460] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We understand that, Your Honor, and we in fact submit to the position of the Honorable Impeachment Court, except that this representation misstated the supposed public crime into a private crime, Your Honor.
 
-**[03:14:31.110] Sen. Francis “Chiz” Escudero**  
+**[03:14:31.110] Sen. Francis "Chiz" G. Escudero**  
 Noted.
 
 **[03:14:32.050] Sheila C. Sison**  
 Your Honor.
 
-**[03:14:34.760] Sen. Francis “Chiz” Escudero**  
+**[03:14:34.760] Sen. Francis "Chiz" G. Escudero**  
 Before recognizing the counsel for respondents, Senator Judge Aquino is recognized.
 
 **[03:14:39.980] Sen. Paolo Benigno “Bam” Aquino**  
 Just a point of order, Mr. Presiding Officer. With the presentation of the articles and the witnesses, we're tackling all of the articles from the prosecution and then all of the articles from the defense? Or initially, maybe I was mistaken, I thought we would tackle for article, prosecution, then defense, prosecution, then defense. Is it? All articles, then all articles, Mr. Presiding Officer?
 
-**[03:15:05.320] Sen. Francis “Chiz” Escudero**  
+**[03:15:05.320] Sen. Francis "Chiz" G. Escudero**  
 Not a point of order, but perhaps a clarification.
 
-**[03:15:08.120] Sen. Francis “Chiz” Escudero**  
+**[03:15:08.120] Sen. Francis "Chiz" G. Escudero**  
 But the answer is yes. We will first finish the presentation of the prosecution for all articles before listening and allowing the respondent to present their evidence in chief for all the articles as well. Thereafter, we shall decide by article.
 
-**[03:15:27.710] Sen. Francis “Chiz” Escudero**  
+**[03:15:27.710] Sen. Francis "Chiz" G. Escudero**  
 After the formal offer of evidence by both parties shall have been made and the final arguments shall have been made of record as well.
 
-**[03:15:34.330] Sen. Francis “Chiz” Escudero**  
+**[03:15:34.330] Sen. Francis "Chiz" G. Escudero**  
 All right.
 
 **[03:15:34.430] Sen. Paolo Benigno “Bam” Aquino**  
 Salamat, Mr. Presiding Officer.
 
-**[03:15:36.070] Sen. Francis “Chiz” Escudero**  
+**[03:15:36.070] Sen. Francis "Chiz" G. Escudero**  
 Council, for the respondent is recognized. What is your pleasure, ma'am?
 
 **[03:15:39.770] Sheila C. Sison**  
 Good afternoon, Your Honors. Good
 
-**[03:15:41.250] Sen. Francis “Chiz” Escudero**  
+**[03:15:41.250] Sen. Francis "Chiz" G. Escudero**  
 afternoon, ma'am.
 
 **[03:15:41.730] Sheila C. Sison**  
 I just have a few—before I express some statement with respect to the discourse that we just heard from the lead prosecutor, may I just clarify, because I don't know if I'm mistaken, but she did mention that they are now withdrawing five witnesses under Article 4, namely the Philippine National Police Firearms and Explosives Office representative, Mr. Flores, Mr. Magsambol, the sheriff, and the psychiatrist.
 
-**[03:16:17.520] Sen. Francis “Chiz” Escudero**  
+**[03:16:17.520] Sen. Francis "Chiz" G. Escudero**  
 And one more—the relative of the family of a victim. That would make it six.
 
 **[03:16:21.590] Sheila C. Sison**  
@@ -497,19 +497,19 @@ to withdraw witnesses, then perhaps it would better serve the purpose of aiding 
 **[03:19:46.040] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 I comment, Your Honor?
 
-**[03:19:47.410] Sen. Francis “Chiz” Escudero**  
+**[03:19:47.410] Sen. Francis "Chiz" G. Escudero**  
 No need, counsel. Let the chair react to the statements made by lead counsel for the respondent.
 
-**[03:19:57.600] Sen. Francis “Chiz” Escudero**  
+**[03:19:57.600] Sen. Francis "Chiz" G. Escudero**  
 The presiding officer took the statements as akin to a tender offer of excluded evidence, very similar to that. Although we are not yet at that stage, although evidence has not yet been excluded, the presiding officer took it as that.
 
-**[03:20:21.340] Sen. Francis “Chiz” Escudero**  
+**[03:20:21.340] Sen. Francis "Chiz" G. Escudero**  
 Therefore, what is your pleasure? I will give it to the counsel for respondent. Should you decide not to call witnesses in your witness list, do you want the same privilege of being able to make a tender, meaning an explanation of why you won't be calling these witnesses? If not, given the fact that it was given already to the counsel for the, rather to the prosecutors, or we will simply remind Both parties to cease from doing so henceforth.
 
 **[03:20:54.080] Sheila C. Sison**  
 I
 
-**[03:20:54.760] Sen. Francis “Chiz” Escudero**  
+**[03:20:54.760] Sen. Francis "Chiz" G. Escudero**  
 give you the Equal Opportunity Council.
 
 **[03:20:56.680] Sheila C. Sison**  
@@ -524,43 +524,43 @@ by the people, iyong ating mga mamamayan na sa tingin ko gusto rin nilang matuto
 **[03:23:18.280] Sheila C. Sison**  
 All I'm asking is, if the intent is just to say we're withdrawing, then that's it. State the intent, without any conclusions, Your Honor, because conclusions really are just for the Court to make and not for either of the parties. Thank you, Your Honor.
 
-**[03:23:33.960] Sen. Francis “Chiz” Escudero**  
+**[03:23:33.960] Sen. Francis "Chiz" G. Escudero**  
 So noted.
 
-**[03:23:34.050] Sen. Francis “Chiz” Escudero**  
+**[03:23:34.050] Sen. Francis "Chiz" G. Escudero**  
 As the Court said, it is akin to and not exactly a tender offer. Therefore, the Court will now remind both parties to kindly limit.
 
-**[03:23:43.210] Sen. Francis “Chiz” Escudero**  
+**[03:23:43.210] Sen. Francis "Chiz" G. Escudero**  
 Any such manifestations on the withdrawal of their witnesses to kindly limit it to the withdrawal of such witnesses, and it applies to both sides, both the prosecution and the respondent side, should that time come on the part of the respondent. So ordered. Any other matters to be taken up?
 
 **[03:24:03.310] Sheila C. Sison**  
 Thank you, Your Honor. None from the defense, Your Honor.
 
-**[03:24:07.430] Sen. Francis “Chiz” Escudero**  
+**[03:24:07.430] Sen. Francis "Chiz" G. Escudero**  
 Quick manifestation,
 
 **[03:24:08.770] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor. I'm
 
-**[03:24:09.370] Sen. Francis “Chiz” Escudero**  
+**[03:24:09.370] Sen. Francis "Chiz" G. Escudero**  
 sorry? Quick
 
 **[03:24:10.450] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 manifestation, Your Honor.
 
-**[03:24:12.010] Sen. Francis “Chiz” Escudero**  
+**[03:24:12.010] Sen. Francis "Chiz" G. Escudero**  
 Just to
 
 **[03:24:13.310] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 respond to the manifestation of the defense,
 
-**[03:24:16.030] Sen. Francis “Chiz” Escudero**  
+**[03:24:16.030] Sen. Francis "Chiz" G. Escudero**  
 Nice ko
 
 **[03:24:17.830] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 lamang pong ipaalala sa ating mga kababayan. This is a constitutional process. This is of paramount importance. And therefore, providing the reasons for the withdrawal of these witnesses need to be communicated as well. To the viewing public, Your Honor, Kailangan pong maintindihan ng ating mga kababayan ang naging hakbang ng prosekusyon kung bakit wini-withdraw ang mga pangalan ng ibang testigo para sa Articulo 4 and that is a threat. That is for the record only, Your Honor.
 
-**[03:24:50.500] Sen. Francis “Chiz” Escudero**  
+**[03:24:50.500] Sen. Francis "Chiz" G. Escudero**  
 Noted. Court already made a ruling. Senator Judge Gaetano?
 
 **[03:24:58.500] Sen. Alan Peter Cayetano**  
@@ -572,7 +572,7 @@ I was saying, eh kuha ko yung defense, dadagdagan ko na yung witness ngayon, at 
 **[03:27:19.650] Sen. Alan Peter Cayetano**  
 a sign that you've achieved your position. But we can do that in the press cons and other forums. But if you do it kasi here, walang chance yung prosecution to rebut that. Or if they do, it's one rebutting the other rather than the witness standing. So if I may offer that solution, Mr. Presiding Officer.
 
-**[03:27:39.420] Sen. Francis “Chiz” Escudero**  
+**[03:27:39.420] Sen. Francis "Chiz" G. Escudero**  
 As ruled by the Presiding Officer, henceforth, that will no longer be allowed. Senator Judge Pangilin, before Senator Judge Pia Cayetano.
 
 **[03:27:49.300] Sen. Francis “Kiko” Pangilinan**  
@@ -584,7 +584,7 @@ and, at some point, when they likewise have the opportunity to withdraw witnesse
 **[03:29:01.760] Sen. Francis “Kiko” Pangilinan**  
 Precisely because nakikinig ang taong-bayan. Pagka-technical masyado, sa halip na lumalabas ang bawat punto. Hindi ko sinasabing hindi dapat magsalita ang defense. In fact, iyan ang original or initial suggestion at mungkahi ng ating Presiding Officer, na kung gustong magsalita ng defense din para tapatan iyong nabanggit ng prosecution, mas maganda sana. But I will yield. I just wanted that manifested, then I will yield to the ruling of the Chair.
 
-**[03:29:35.460] Sen. Francis “Chiz” Escudero**  
+**[03:29:35.460] Sen. Francis "Chiz" G. Escudero**  
 We thank the good gentleman for his understanding and magnanimity. Given that counsel for respondent did not want the same benefit, it also saves on the Court's time. And as pointed out by Senator-Judge Alan, these words can be best expressed outside this Court so that we can manage the Court's time better, given that both parties have their respective spokespersons to discuss these matters. Counsel for respondent, you wanted to be recognized?
 
 **[03:30:05.520] Sheila C. Sison**  
@@ -599,7 +599,7 @@ came here, mulat ang aming mga mata na pumunta rito at alam namin na ito ay isan
 **[03:30:55.530] Sheila C. Sison**  
 magaganap. At hindi ko—I find it difficult to understand how manifestations containing assertions that are laden with conclusions and personal advocacy, and obviously one-sided advocacy of either party, would help the Court arrive at the proper determination of whether the respondent is guilty or not guilty of the charges contained in the Articles of Impeachment. Hindi rin po ito in response po to our good Senator Pangilinan. Hindi po technical rules ang ini-invoke ko rito, kundi iyong—actually, it's substantive dahil ito ay nakasandig sa ating Saligang Batas. Salamat po.
 
-**[03:31:47.460] Sen. Francis “Chiz” Escudero**  
+**[03:31:47.460] Sen. Francis "Chiz" G. Escudero**  
 Noted. Senator-Judge Pia Cayetano is recognized. What is your pleasure, ma'am?
 
 **[03:31:57.650] Sen. Pia S. Cayetano**  
@@ -623,28 +623,28 @@ Trabaho po iyon ng abogado na i-elicit iyon doon sa witness na mape-presenta. So
 **[03:34:18.710] Sen. Pia S. Cayetano**  
 neither of the lawyers here are allowed to stand up and be the one to explain what you are experiencing. That is the job for the witness to do. Your job is to ask the witness questions. Iyon iyon. So to be clear, it's not being technical, but it's making sure that magawa ninyo iyong trabaho ninyo nang maayos at magtanong tayo nang maayos sa witnesses. Kung hindi na pala siya papupuntahin, no need na to say kung ano iyong na-observe, kasi nga hindi na sa inyo iyon as lawyers. Iyon lang naman po. Again, my utmost respect for Atty. Kapunan and to all of you. You're all doing a great job. Like I said, once in a while, we will be called out—even I. I tell the Presiding Officer, call me out pag sumobra ako, pag medyo nag-exceed tayo ng authority natin, because we're all just trying to do our jobs here. So thank you again, everyone, for your time and patience. Thank you, Presiding Officer.
 
-**[03:35:21.760] Sen. Francis “Chiz” Escudero**  
+**[03:35:21.760] Sen. Francis "Chiz" G. Escudero**  
 Chair, in humility, accepts the presiding officer's lapses in this regard, as twice pointed out by Senator-Judge Pia Cayetano already. The chair will be more mindful in the future, but I also ask the parties to also be equally. In case the Chair forgets or is unable to point it out on the part of either party, should this happen again. Any other points?
 
 **[03:35:47.230] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 One
 
-**[03:35:47.710] Sen. Francis “Chiz” Escudero**  
+**[03:35:47.710] Sen. Francis "Chiz" G. Escudero**  
 last manifestation from the Honorable Luistro without prejudice to another manifestation from Council for Responding.
 
 **[03:36:04.330] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 The Honorable Impeachment Court has been very much fair in as far as this issue is concerned. As a matter of fact, the presiding officer even asked the lead defense counsel if she would like to avail of the same opportunity to explain the reason for the withdrawal in the event the defense would be withdrawing likewise their witnesses. Also, Your Honor, may I just add, and with all due respect to honorable Senator Pia Cayetano, the intention of the prosecution is never to abuse the time of the impeachment court. It is never to influence the senator judges, neither is it to influence the viewing public. The explanation was a statement of the position of the prosecution and of course it is anticipated that the same is adverse to the other party because it is apparent. That we are in the prosecution side while the opposing counsel is on the defense side but nonetheless let me reiterate and put on record your honor the purpose is not to influence the senator judges neither is it to influence the viewing public it is only a statement of position of the prosecution for withdrawing the names of the prosecution's witnesses your honor
 
-**[03:37:26.860] Sen. Francis “Chiz” Escudero**  
+**[03:37:26.860] Sen. Francis "Chiz" G. Escudero**  
 noted and the ruling of the court stands on the matter
 
 **[03:37:30.290] Sheila C. Sison**  
 Council correspondent. Brief counter-manifestation, Your Honor. I thank the lead prosecutor for mentioning that the same courtesy was earlier offered to the defense with respect to providing lengthy discourses or manifestations before this court. But I think the point essentially that I'm trying to make is that we're not Asking the court for any advantage. What we're merely asking is fairness. That's all, Your Honor. Thank you.
 
-**[03:38:03.420] Sen. Francis “Chiz” Escudero**  
+**[03:38:03.420] Sen. Francis "Chiz" G. Escudero**  
 Same answer noted and the court stands by its ruling. Any other matters to be taken up from the senator judges?
 
-**[03:38:11.250] Sen. Francis “Chiz” Escudero**  
+**[03:38:11.250] Sen. Francis "Chiz" G. Escudero**  
 There being none, no other business to be taken up, the trial is hereby adjourned until 2 p.m. of Monday, July 20, 2026.
 
 **[03:38:20.810] Sheila C. Sison**  

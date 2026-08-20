@@ -8,13 +8,13 @@ Status: Reviewed working draft, revision 3
 **[00:03:28.690] Atty. Renato N. Bantug Jr.**  
 The Senate President, the Presiding Officer of the Impeachment Court, and the Senator-Judges.
 
-**[00:04:17.470] Sen. Francis “Chiz” Escudero**  
+**[00:04:17.470] Sen. Francis "Chiz" G. Escudero**  
 The Sgt. at Arms is directed to make a proclamation.
 
 **[00:04:22.720] Alfredo Sotto Corpuz**  
 All persons are commanded to keep silent under pain of penalty while the Impeachment Court is in session for the trial of Vice President Sara Zimmerman Duterte.
 
-**[00:04:42.270] Sen. Francis “Chiz” Escudero**  
+**[00:04:42.270] Sen. Francis "Chiz" G. Escudero**  
 The Impeachment Trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator Judge Christopher Bongo.
 
 **[00:05:01.980] Sen. Christopher Bong Go**  
@@ -26,7 +26,7 @@ Lord, bring healing to our nation. Where there is division, grant us understandi
 **[00:07:27.530] Sen. Christopher Bong Go**  
 May compassion for others be a steadfast virtue. We live by in our words and in our actions. And may we, your senator judges, be instruments of your grace in the pursuit of peace, justice, and the common good. All this we ask in your holy name. Amen.
 
-**[00:07:50.280] Sen. Francis “Chiz” Escudero**  
+**[00:07:50.280] Sen. Francis "Chiz" G. Escudero**  
 The Clerk of Court will now call the roll.
 
 **[00:07:53.400] Atty. Renato N. Bantug Jr.**  
@@ -38,22 +38,22 @@ Presiding Officer Senator-Judge Escudero; Senate President Gatchalian.
 **[00:08:39.900] Atty. Renato N. Bantug Jr.**  
 With 19 senators present, the Chair declares the presence of a quorum.
 
-**[00:08:44.400] Sen. Francis “Chiz” Escudero**  
+**[00:08:44.400] Sen. Francis "Chiz" G. Escudero**  
 With the permission of the body, if there are no objections, we dispense with the reading of the July 13, 2026 Journal of the Senate sitting as an Impeachment Court
 
-**[00:08:59.090] Sen. Francis “Chiz” Escudero**  
+**[00:08:59.090] Sen. Francis "Chiz" G. Escudero**  
 and shall consider the same as approved.
 
-**[00:09:05.780] Sen. Francis “Chiz” Escudero**  
+**[00:09:05.780] Sen. Francis "Chiz" G. Escudero**  
 The clerk will please call the case before the impeachment court.
 
 **[00:09:09.080] Atty. Renato N. Bantug Jr.**  
 Case number 0042026 in the matter of impeachment trial of Vice President Sarah Zimmerman Duterte.
 
-**[00:09:18.160] Sen. Francis “Chiz” Escudero**  
+**[00:09:18.160] Sen. Francis "Chiz" G. Escudero**  
 Appearances for
 
-**[00:09:21.560] Sen. Francis “Chiz” Escudero**  
+**[00:09:21.560] Sen. Francis "Chiz" G. Escudero**  
 the prosecution.
 
 **[00:09:21.920] Rep. Lorenz R. Defensor**  
@@ -62,28 +62,28 @@ Good afternoon, your honors.
 **[00:09:23.200] Rep. Lorenz R. Defensor**  
 Respect. Same appearance for the prosecution. We are ready, Your Honor.
 
-**[00:09:27.200] Sen. Francis “Chiz” Escudero**  
+**[00:09:27.200] Sen. Francis "Chiz" G. Escudero**  
 For the respondent.
 
 **[00:09:28.570] Atty. Mark C. Vinluan**  
 Good afternoon, your honors. Same appearance for the defense.
 
-**[00:09:32.010] Sen. Francis “Chiz” Escudero**  
+**[00:09:32.010] Sen. Francis "Chiz" G. Escudero**  
 I see that Atty. Lotoc is already situated in the witness stand.
 
-**[00:09:39.190] Sen. Francis “Chiz” Escudero**  
+**[00:09:39.190] Sen. Francis "Chiz" G. Escudero**  
 To remind you, Atty. Lotoc, you shall continue with your testimony and be subjected to the continuation of cross-examination of counsel for respondent and shall be answering under the same oath that you took yesterday. Is that clear, sir?
 
 **[00:09:54.570] Atty. Jeremy C. Lotoc**  
 Yes, Your Honor.
 
-**[00:09:56.190] Sen. Francis “Chiz” Escudero**  
+**[00:09:56.190] Sen. Francis "Chiz" G. Escudero**  
 Respondent counsel, may now continue with this cross-examination. Atty. Pinduan, you are recognized and may proceed whenever you are recognized.
 
 **[00:10:02.370] Rep. Lorenz R. Defensor**  
 Your Honor, before we proceed, may I request that counsel for the panel of prosecutors, Atty. Virgil D. Ligutan, be recognized once more for the examination of our second witness.
 
-**[00:10:12.670] Sen. Francis “Chiz” Escudero**  
+**[00:10:12.670] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the prosecutors, Atty. Ligutan is recognized on the part of the panel of prosecutors. Again, to reiterate, Atty. Vinluan, when you are ready, you may proceed with the continuation of your cross-examination of the witness, Atty. Lotoc.
 
 **[00:10:29.350] Atty. Mark C. Vinluan**  
@@ -98,7 +98,7 @@ So, yesterday, you identified videos, correct? And specifically portions of the 
 **[00:10:54.960] Atty. Mark C. Vinluan**  
 In other
 
-**[00:10:55.930] Sen. Francis “Chiz” Escudero**  
+**[00:10:55.930] Sen. Francis "Chiz" G. Escudero**  
 words, she
 
 **[00:10:59.570] Atty. Mark C. Vinluan**  
@@ -107,10 +107,10 @@ said many statements in that presscon. My question is this, do you know for sure
 **[00:11:21.250] Atty. Amando Virgil D. Ligutan**  
 Rejection, Your Honor. Incompetent. The statements happening in real life as to the real life of the Vice President, this witness is being asked that question. Of course, the witness is incompetent, Your Honor, please. Council
 
-**[00:11:35.660] Sen. Francis “Chiz” Escudero**  
+**[00:11:35.660] Sen. Francis "Chiz" G. Escudero**  
 kindly reform. It seems the witness did not understand the question.
 
-**[00:11:39.000] Sen. Francis “Chiz” Escudero**  
+**[00:11:39.000] Sen. Francis "Chiz" G. Escudero**  
 Let me
 
 **[00:11:39.780] Atty. Mark C. Vinluan**  
@@ -131,7 +131,7 @@ All right. My question to you is this.
 **[00:12:59.920] Atty. Amando Virgil D. Ligutan**  
 Your Honor, point of clarification, if I may, please.
 
-**[00:13:02.760] Sen. Francis “Chiz” Escudero**  
+**[00:13:02.760] Sen. Francis "Chiz" G. Escudero**  
 for the prosecutor is recognized.
 
 **[00:13:04.960] Atty. Amando Virgil D. Ligutan**  
@@ -140,40 +140,40 @@ Your Honor, there is a video that is marked in evidence capturing the events on 
 **[00:13:16.670] Atty. Mark C. Vinluan**  
 Your Honor, may we just do an objection, Your Honor? Wait, wait, I'm explaining. This is not the time for lecture, Your Honor. Counsel,
 
-**[00:13:22.050] Sen. Francis “Chiz” Escudero**  
+**[00:13:22.050] Sen. Francis "Chiz" G. Escudero**  
 I have not yet recognized you. Let counsel for the prosecutor finish.
 
 **[00:13:25.150] Atty. Amando Virgil D. Ligutan**  
 Point of clarification, they are presenting a video with anecdotes. I'm now questioning the propriety of the defense presenting a video without laying the basis where this video came from. Who is the source of those annotations there too? Because, Your Honor, there's a video. They're confronting this witness with that video by presenting their own annotated, it's like a props, Your Honor, please. This is highly irregular
 
-**[00:13:54.840] Sen. Francis “Chiz” Escudero**  
+**[00:13:54.840] Sen. Francis "Chiz" G. Escudero**  
 in the court of law. Counsel for the respondent, is this the video previously marked in evidence? Your Honor,
 
 **[00:14:02.180] Atty. Mark C. Vinluan**  
 as I mentioned, we marked it in evidence as D-4-3, Your Honor. And this was also marked by the prosecution as their own. They have a separate marking for this, Your Honor.
 
-**[00:14:13.100] Sen. Francis “Chiz” Escudero**  
+**[00:14:13.100] Sen. Francis "Chiz" G. Escudero**  
 This is part of the two-hour and so-and-so minute video?
 
 **[00:14:17.800] Atty. Mark C. Vinluan**  
 Correct, Your Honor. At any rate, Your
 
-**[00:14:19.160] Sen. Francis “Chiz” Escudero**  
+**[00:14:19.160] Sen. Francis "Chiz" G. Escudero**  
 Honor, if I may be allowed to finish... Counsel for the
 
-**[00:14:21.180] Sen. Francis “Chiz” Escudero**  
+**[00:14:21.180] Sen. Francis "Chiz" G. Escudero**  
 Prosecutor, kindly hold on. At
 
 **[00:14:22.620] Atty. Mark C. Vinluan**  
 any rate, Your
 
-**[00:14:23.200] Sen. Francis “Chiz” Escudero**  
+**[00:14:23.200] Sen. Francis "Chiz" G. Escudero**  
 Honor... Council for
 
 **[00:14:24.500] Atty. Mark C. Vinluan**  
 the Respondent.
 
-**[00:14:25.160] Sen. Francis “Chiz” Escudero**  
+**[00:14:25.160] Sen. Francis "Chiz" G. Escudero**  
 The chair is not yet done. And the annotation below the video, is that part of the marked video?
 
 **[00:14:32.260] Atty. Mark C. Vinluan**  
@@ -185,10 +185,10 @@ life? Can you give me the timestamp, Your Honor?
 **[00:15:18.800] Atty. Mark C. Vinluan**  
 Timestamp 51:07. Your Honor, if I may refer to my notes.
 
-**[00:15:25.000] Sen. Francis “Chiz” Escudero**  
+**[00:15:25.000] Sen. Francis "Chiz" G. Escudero**  
 You may do so, sir.
 
-**[00:15:26.140] Sen. Francis “Chiz” Escudero**  
+**[00:15:26.140] Sen. Francis "Chiz" G. Escudero**  
 Anong timestamp, sir?
 
 **[00:15:30.800] Atty. Mark C. Vinluan**  
@@ -200,7 +200,7 @@ To help this Honorable Court, Your Honor, it appears on page 84, more or less, o
 **[00:15:55.570] Atty. Mark C. Vinluan**  
 For the record, Your Honor.
 
-**[00:15:56.750] Sen. Francis “Chiz” Escudero**  
+**[00:15:56.750] Sen. Francis "Chiz" G. Escudero**  
 Noted.
 
 **[00:15:58.000] Atty. Amando Virgil D. Ligutan**  
@@ -215,13 +215,13 @@ Show it.
 **[00:16:09.760] Atty. Mark C. Vinluan**  
 Your Honor, in the interest of time, can we confront the witness with our own copy?
 
-**[00:16:19.410] Sen. Francis “Chiz” Escudero**  
+**[00:16:19.410] Sen. Francis "Chiz" G. Escudero**  
 Your own copy of what, Counsel? Of
 
 **[00:16:21.490] Atty. Mark C. Vinluan**  
 the Articles of Impeachment, Annex G. Niner. Well,
 
-**[00:16:25.990] Sen. Francis “Chiz” Escudero**  
+**[00:16:25.990] Sen. Francis "Chiz" G. Escudero**  
 Counsel, Assisting Counsel for the Prosecutor is there. If in case there are any problems, kindly confirm. If indeed, that is the document being shown to the witness.
 
 **[00:16:56.600] Atty. Mark C. Vinluan**  
@@ -236,7 +236,7 @@ But actually, Your Honor, even without consultation, With the transcript, my ans
 **[00:18:06.170] Atty. Jeremy C. Lotoc**  
 So do
 
-**[00:18:10.950] Sen. Francis “Chiz” Escudero**  
+**[00:18:10.950] Sen. Francis "Chiz" G. Escudero**  
 you confirm that the statements were made by the Vice President, Mr. Witness?
 
 **[00:18:15.330] Atty. Jeremy C. Lotoc**  
@@ -248,7 +248,7 @@ No, no, no. My question is not whether she made the statement. My question is if
 **[00:18:32.850] Atty. Jeremy C. Lotoc**  
 Well, Your Honor, the fact that we have the video on November 26 when the Vice President reiterated. What she uttered in November 23, 2024. At the same time, Your Honor, may we allow
 
-**[00:18:48.310] Sen. Francis “Chiz” Escudero**  
+**[00:18:48.310] Sen. Francis "Chiz" G. Escudero**  
 the witness to answer?
 
 **[00:18:50.790] Atty. Jeremy C. Lotoc**  
@@ -257,19 +257,19 @@ Your Honor, we invited the media personalities who have personal knowledge on th
 **[00:19:14.740] Atty. Mark C. Vinluan**  
 Your Honor, may we make a manifestation?
 
-**[00:19:18.040] Sen. Francis “Chiz” Escudero**  
+**[00:19:18.040] Sen. Francis "Chiz" G. Escudero**  
 Yes, Counsel.
 
 **[00:19:19.060] Atty. Mark C. Vinluan**  
 Your Honor, it appears that the witness is not being responsive to our question. He's talking about something that I did not ask. We are only focusing on this particular statement. We will show other statements later on. And we cannot get an answer from him. If
 
-**[00:19:38.600] Sen. Francis “Chiz” Escudero**  
+**[00:19:38.600] Sen. Francis "Chiz" G. Escudero**  
 he knows. Counsel, Even I am confused with the question happened in real life. I think some of us are too.
 
-**[00:19:47.050] Sen. Francis “Chiz” Escudero**  
+**[00:19:47.050] Sen. Francis "Chiz" G. Escudero**  
 I'll be more specific. If the
 
-**[00:19:48.770] Sen. Francis “Chiz” Escudero**  
+**[00:19:48.770] Sen. Francis "Chiz" G. Escudero**  
 question is kung alam niyo bang nangyari ito sa totoong buhay, ang sagot ng testigo ay sa pagkakaalam niya ay oo, base sa kanilang investigasyon at sinabi ng mga inimbitahan nilang testigo.
 
 **[00:20:02.530] Atty. Mark C. Vinluan**  
@@ -287,7 +287,7 @@ Now, misleading, Your Honor. Because the question was, do you confirm that that 
 **[00:20:58.690] Atty. Amando Virgil D. Ligutan**  
 get the ruling, Your Honor?
 
-**[00:21:00.750] Sen. Francis “Chiz” Escudero**  
+**[00:21:00.750] Sen. Francis "Chiz" G. Escudero**  
 He's a lawyer. Atty. Lotoc is a lawyer and he knows exactly what's going on. Atty. Lotoc, kindly answer?
 
 **[00:21:07.430] Atty. Mark C. Vinluan**  
@@ -302,22 +302,22 @@ The question is, she mentioned there about the threats to his life. My question 
 **[00:21:26.670] Atty. Jeremy C. Lotoc**  
 Well, based on our investigation, nangyari yung live stream. Between 11 p.m. 22 to 1 a.m. 23. And then nalaman namin nung kumalat siya sa social media nung mga hapon na, kaya nag-start kami ng investigation. At that time, hindi pa namin alam yung buong laman ng video na yan kasi nag-start pa lang kami. So I instructed Agent Kalilong na siya maging agent on case. And then kunin niya yung video, the whole video para sa authentication. Atty. Lutong, kindly
 
-**[00:22:02.520] Sen. Francis “Chiz” Escudero**  
+**[00:22:02.520] Sen. Francis "Chiz" G. Escudero**  
 answer the question directly. So I get from your long answer that the answer is no?
 
 **[00:22:07.870] Atty. Jeremy C. Lotoc**  
 Specifically at that live stream moment, no, sir. Hindi pa namin
 
-**[00:22:10.970] Sen. Francis “Chiz” Escudero**  
+**[00:22:10.970] Sen. Francis "Chiz" G. Escudero**  
 alamin. That was the
 
-**[00:22:11.250] Sen. Francis “Chiz” Escudero**  
+**[00:22:11.250] Sen. Francis "Chiz" G. Escudero**  
 question of Atty. Vinluan, if you investigated at that time. So the answer is no?
 
 **[00:22:16.190] Atty. Jeremy C. Lotoc**  
 Yes, sir.
 
-**[00:22:16.950] Sen. Francis “Chiz” Escudero**  
+**[00:22:16.950] Sen. Francis "Chiz" G. Escudero**  
 Okay. Please
 
 **[00:22:17.930] Atty. Mark C. Vinluan**  
@@ -353,7 +353,7 @@ Well, Your Honor, as I've said, I've answered it already. Noong inimbestigahan n
 **[00:24:42.840] Atty. Mark C. Vinluan**  
 no answer will suffice, Your Honor.
 
-**[00:24:45.160] Sen. Francis “Chiz” Escudero**  
+**[00:24:45.160] Sen. Francis "Chiz" G. Escudero**  
 Kindly answer more directly to save on the Court's time, Atty. Lotoc.
 
 **[00:24:49.300] Atty. Jeremy C. Lotoc**  
@@ -374,7 +374,7 @@ have to object now, Your Honor, now. There are several statements made and then 
 **[00:25:43.190] Atty. Mark C. Vinluan**  
 Your Honor, my question is the statements or any part thereof, Your Honor. The witness is smart enough to answer. He can just clarify.
 
-**[00:25:50.350] Sen. Francis “Chiz” Escudero**  
+**[00:25:50.350] Sen. Francis "Chiz" G. Escudero**  
 The objection is sustained but not on that ground but rather on the ground that the witness is incompetent to testify as to the truth of the matter stated by the Vice President. He can only testify as to the fact that those statements were made only as to tenor but not as to the truth given that he only investigated and was not there. You may proceed, Counsel.
 
 **[00:26:15.370] Atty. Mark C. Vinluan**  
@@ -386,13 +386,13 @@ proceed with my next question, Your Honor? Can I counter
 **[00:26:41.780] Atty. Amando Virgil D. Ligutan**  
 -manifestation, Your Honor, please? Counter-manifestation, please. To put into record, Your Honor, please.
 
-**[00:26:46.490] Sen. Francis “Chiz” Escudero**  
+**[00:26:46.490] Sen. Francis "Chiz" G. Escudero**  
 For about 15 seconds, counsel, yes. Okay,
 
 **[00:26:49.110] Atty. Amando Virgil D. Ligutan**  
 The defense is entitled to their own conception of things. They're entitled to their own imagination. That's all.
 
-**[00:26:55.750] Sen. Francis “Chiz” Escudero**  
+**[00:26:55.750] Sen. Francis "Chiz" G. Escudero**  
 Counsel may proceed with his cross.
 
 **[00:26:57.750] Atty. Mark C. Vinluan**  
@@ -431,16 +431,16 @@ ground for the objection? Can we just be informed of the ground for the objectio
 **[00:31:55.740] Atty. Mark C. Vinluan**  
 Can we get the ruling, Your Honor?
 
-**[00:31:57.440] Sen. Francis “Chiz” Escudero**  
+**[00:31:57.440] Sen. Francis "Chiz" G. Escudero**  
 The Chair made an earlier ruling already. The witness is incompetent to testify as to the truth of the matter. But since, Atty. Lotoc, you're a
 
-**[00:32:04.760] Sen. Francis “Chiz” Escudero**  
+**[00:32:04.760] Sen. Francis "Chiz" G. Escudero**  
 lawyer, I will... Give it this time to the Council for the Respondents. Kindly respond. Since you're a
 
-**[00:32:13.070] Sen. Francis “Chiz” Escudero**  
+**[00:32:13.070] Sen. Francis "Chiz" G. Escudero**  
 lawyer, you should know the proper answer to this question. Kindly respond to the
 
-**[00:32:18.110] Sen. Francis “Chiz” Escudero**  
+**[00:32:18.110] Sen. Francis "Chiz" G. Escudero**  
 question of Council for the Respondents.
 
 **[00:32:20.940] Atty. Jeremy C. Lotoc**  
@@ -455,7 +455,7 @@ Council for the Prosecutors. Because I know the Council will ask the same questi
 **[00:33:16.680] Atty. Amando Virgil D. Ligutan**  
 not yet done.
 
-**[00:33:16.960] Sen. Francis “Chiz” Escudero**  
+**[00:33:16.960] Sen. Francis "Chiz" G. Escudero**  
 Kindly let the Council for the Prosecutors finish. Relax.
 
 **[00:33:19.940] Atty. Amando Virgil D. Ligutan**  
@@ -464,7 +464,7 @@ Now, Your Honor, if the same line of question will be asked, Okay. Your Honor. W
 **[00:33:38.360] Atty. Mark C. Vinluan**  
 We have a different question, Your Honor, just to satisfy his query.
 
-**[00:33:41.840] Sen. Francis “Chiz” Escudero**  
+**[00:33:41.840] Sen. Francis "Chiz" G. Escudero**  
 All right. So I guess the objection or manifestation is withdrawn, and counsel for respondent may proceed with the showing or playing of the video.
 
 **[00:33:52.840] Vice President Sara Zimmerman Duterte**  
@@ -575,16 +575,16 @@ That is a foul side remark. Counsel is twisting the answer of the witness. Can I
 **[00:42:16.090] Atty. Amando Virgil D. Ligutan**  
 Can I finish? The witness said that he confirmed as to the fact that the utterances were made. That's why, Your Honor, I object.
 
-**[00:42:25.950] Sen. Francis “Chiz” Escudero**  
+**[00:42:25.950] Sen. Francis "Chiz" G. Escudero**  
 Kindly be more specific.
 
-**[00:42:29.420] Sen. Francis “Chiz” Escudero**  
+**[00:42:29.420] Sen. Francis "Chiz" G. Escudero**  
 Atty. Lotoc, you know what's being asked for.
 
 **[00:42:32.540] Atty. Jeremy C. Lotoc**  
 Yes, sir.
 
-**[00:42:33.260] Sen. Francis “Chiz” Escudero**  
+**[00:42:33.260] Sen. Francis "Chiz" G. Escudero**  
 Finish and complete your answer to avoid the misunderstanding.
 
 **[00:42:36.640] Atty. Jeremy C. Lotoc**  
@@ -599,7 +599,7 @@ Your Honor, the video dated November 26, 2024. The Vice President reiterated and
 **[00:43:02.970] Atty. Mark C. Vinluan**  
 Just, it's answerable by Yes or No, Your Honor.
 
-**[00:43:04.970] Sen. Francis “Chiz” Escudero**  
+**[00:43:04.970] Sen. Francis "Chiz" G. Escudero**  
 How can he be— Counsel, counsels, kindly settle down. This is not a college debate. Atty. Lotoc, the question was simple. Kindly answer the question directly.
 
 **[00:43:17.830] Atty. Jeremy C. Lotoc**  
@@ -614,13 +614,13 @@ Objection. Asked and answered. Second time around.
 **[00:43:48.620] Atty. Jeremy C. Lotoc**  
 Based on our investigation, Your Honor, we do believe that the Vice President—
 
-**[00:43:58.760] Sen. Francis “Chiz” Escudero**  
+**[00:43:58.760] Sen. Francis "Chiz" G. Escudero**  
 Atty. Lotoc, you're a smart man. Just answer the question. Do you have personal knowledge?
 
 **[00:44:08.460] Atty. Mark C. Vinluan**  
 You said that as to the other parts, you do not have personal knowledge. But now, my question to you is as to the part whether VP Sara talked to that person about BBM, the First Lady, and the Speaker: do you have personal knowledge or not? Pwede ko pong i-explain, Your Honor? No, just answer the question yes or no.
 
-**[00:44:29.700] Sen. Francis “Chiz” Escudero**  
+**[00:44:29.700] Sen. Francis "Chiz" G. Escudero**  
 Atty. Lotoc, this is not the first time you attended a trial. I'm sure counsel for the prosecutors and redirect will be able to clarify whatever you want to clarify. But in the meantime, answer the question of counsel for the respondent.
 
 **[00:44:43.980] Atty. Jeremy C. Lotoc**  
@@ -650,7 +650,7 @@ With the first attempt and with the rating of 80%, are you aware of this? I hear
 **[00:45:40.920] Atty. Amando Virgil D. Ligutan**  
 Relevance. Relevance. Objection. Relevance.
 
-**[00:45:43.920] Sen. Francis “Chiz” Escudero**  
+**[00:45:43.920] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the respondent, kindly avoid those disparaging statements given that... There are a lot of lawyers here and you don't know what their grades are. We
 
 **[00:45:53.080] Atty. Mark C. Vinluan**  
@@ -683,7 +683,7 @@ Well, the fact na sinabi niya yan in public, definitely narinig niya ng Presiden
 **[00:47:13.280] Atty. Mark C. Vinluan**  
 May we ask for a more responsive answer?
 
-**[00:47:16.300] Sen. Francis “Chiz” Escudero**  
+**[00:47:16.300] Sen. Francis "Chiz" G. Escudero**  
 kindly answer. The answer is actually quite obvious. It's a simple question. Did the Vice President utter those statements directly towards the persons allegedly threatened?
 
 **[00:47:27.980] Atty. Jeremy C. Lotoc**  
@@ -701,13 +701,13 @@ Yes. That's a
 **[00:47:53.470] Atty. Amando Virgil D. Ligutan**  
 yes. That's so clear.
 
-**[00:47:54.750] Sen. Francis “Chiz” Escudero**  
+**[00:47:54.750] Sen. Francis "Chiz" G. Escudero**  
 Without putting words into the mouth of the witness, I will be the one to ask. Atty. Lotoc, you meant yes, right?
 
 **[00:48:01.670] Atty. Jeremy C. Lotoc**  
 Yes, sir.
 
-**[00:48:03.010] Sen. Francis “Chiz” Escudero**  
+**[00:48:03.010] Sen. Francis "Chiz" G. Escudero**  
 Proceed, counsel.
 
 **[00:48:07.220] Atty. Mark C. Vinluan**  
@@ -752,7 +752,7 @@ you cannot answer the question without us providing the date? Tinignan ko
 **[00:49:59.560] Atty. Jeremy C. Lotoc**  
 kung ilang buwan na yan after noong November 23. Alright.
 
-**[00:50:06.140] Sen. Francis “Chiz” Escudero**  
+**[00:50:06.140] Sen. Francis "Chiz" G. Escudero**  
 Move on, Council. While you're checking on the date, you can go back to that topic.
 
 **[00:50:12.340] Atty. Mark C. Vinluan**  
@@ -791,7 +791,7 @@ What's the
 **[00:51:52.210] Atty. Amando Virgil D. Ligutan**  
 basis for the objection, Your Honor? Incompetent. Incompetent.
 
-**[00:51:57.170] Sen. Francis “Chiz” Escudero**  
+**[00:51:57.170] Sen. Francis "Chiz" G. Escudero**  
 Incompetent.
 
 **[00:51:58.730] Atty. Amando Virgil D. Ligutan**  
@@ -806,7 +806,7 @@ Your Honor, I'm now objecting on the reason that this person is incompetent to a
 **[00:52:20.580] Atty. Mark C. Vinluan**  
 Your Honor, we will be satisfied with just the basis. If he had said 'incompetent,' we would ask for a ruling. He doesn't have to lecture, Your Honor.
 
-**[00:52:28.600] Sen. Francis “Chiz” Escudero**  
+**[00:52:28.600] Sen. Francis "Chiz" G. Escudero**  
 For the record, kindly reform, counsel. I think I know where you're getting at.
 
 **[00:52:32.720] Atty. Mark C. Vinluan**  
@@ -863,7 +863,7 @@ witness is still answering.
 **[00:55:33.110] Atty. Mark C. Vinluan**  
 I didn't even ask a question, your honor.
 
-**[00:55:35.510] Sen. Francis “Chiz” Escudero**  
+**[00:55:35.510] Sen. Francis "Chiz" G. Escudero**  
 You did, counsel, when you gave the date and asked for his opinion. Kindly finish your answer.
 
 **[00:55:41.710] Atty. Jeremy C. Lotoc**  
@@ -872,7 +872,7 @@ Thank you, your honor. As lawyers, we know for a fact that the state of mind can
 **[00:56:23.390] Atty. Mark C. Vinluan**  
 All right, but I'll move on to a different point.
 
-**[00:56:27.090] Sen. Francis “Chiz” Escudero**  
+**[00:56:27.090] Sen. Francis "Chiz" G. Escudero**  
 Before counsel for the respondent continues, what is the pressure of Senator Judge Cayetano? Just
 
 **[00:56:32.470] Sen. Alan Peter Cayetano**  
@@ -944,7 +944,7 @@ Precisely, Your Honor. Ang death kasi, for instance, mamatay ang Vice President,
 **[01:02:03.070] Atty. Jeremy C. Lotoc**  
 It's a matter of national security, Your Honor.
 
-**[01:02:07.450] Sen. Francis “Chiz” Escudero**  
+**[01:02:07.450] Sen. Francis "Chiz" G. Escudero**  
 Council, for the respondent, may proceed with his cross.
 
 **[01:02:12.580] Atty. Mark C. Vinluan**  
@@ -995,7 +995,7 @@ Marami hong questions doon, maraming answers.
 **[01:03:19.450] Atty. Mark C. Vinluan**  
 Exactly. Objection, vague.
 
-**[01:03:21.270] Sen. Francis “Chiz” Escudero**  
+**[01:03:21.270] Sen. Francis "Chiz" G. Escudero**  
 Sustained. Kindly reform, counsel.
 
 **[01:03:23.510] Atty. Mark C. Vinluan**  
@@ -1007,16 +1007,16 @@ In our exhibit D-1-145A, I will read the transcription. This is the transcriptio
 **[01:04:32.600] Atty. Jeremy C. Lotoc**  
 Well, sabi ko nga, narinig ko iyong term na Romanov noong binigkas iyon ni Mayor Baste during the Maisug rally. Other than that, wala kaming validated information about Operation Romanov. But you watched this video, correct? So you heard it also during that time? Iyan ho iyong sabi ni Princess Maui, sir. Nag-invite kami kay Princess Maui. Tinanong ko iyong agent on case kung nag-invite ba tayo kay Princess Maui; ang sabi ng agent on case, hindi raw siya nag-appear. All right, kasi we want to clarify things.
 
-**[01:05:04.880] Sen. Francis “Chiz” Escudero**  
+**[01:05:04.880] Sen. Francis "Chiz" G. Escudero**  
 With the permission of counsel for respondent, what is the pleasure of Senator-Judge Raffy Tulfo?
 
-**[01:05:14.180] Sen. Raffy Tulfo**  
+**[01:05:14.180] Sen. Raffy T. Tulfo**  
 Mr. Presiding Officer, kahapon kasi nabanggit ko yung Romanov and I did mention na para sa akin nagmula yung salitang Romanov. Atty. Mayor
 
-**[01:05:25.830] Sen. Raffy Tulfo**  
+**[01:05:25.830] Sen. Raffy T. Tulfo**  
 Mayor Baste Duterte, when
 
-**[01:05:28.050] Sen. Raffy Tulfo**  
+**[01:05:28.050] Sen. Raffy T. Tulfo**  
 during a rally sa Maisug in Davao. So ang tanong ko ngayon kay Mr. Witness: natatandaan pa ba kung ano iyong sinabi ni Mayor Baste Duterte patungkol doon sa Romanovs that night?
 
 **[01:05:43.510] Atty. Jeremy C. Lotoc**  
@@ -1025,13 +1025,13 @@ Yes, Sir. I will try if I remember it right. Ang sabi niya, Mr. President, sabi 
 **[01:05:56.210] Atty. Jeremy C. Lotoc**  
 If I'm not mistaken, sir, parang ang sinasabi niya kasi mayroong... No, I
 
-**[01:06:02.400] Sen. Raffy Tulfo**  
+**[01:06:02.400] Sen. Raffy T. Tulfo**  
 think when you go to bed tonight, continue.
 
 **[01:06:05.140] Atty. Jeremy C. Lotoc**  
 Yes, sir. Sabi po yan.
 
-**[01:06:06.700] Sen. Raffy Tulfo**  
+**[01:06:06.700] Sen. Raffy T. Tulfo**  
 Okay.
 
 **[01:06:07.240] Atty. Jeremy C. Lotoc**  
@@ -1043,10 +1043,10 @@ Parang sinasabi niya na baka mangyari sa pamilya niyo yun gaya ng nangyari sa in
 **[01:06:22.060] Atty. Jeremy C. Lotoc**  
 Kung tama yung memory ko, sir. Parang ganun po ang sinasabi ni Mayor Bastet.
 
-**[01:06:28.910] Sen. Raffy Tulfo**  
+**[01:06:28.910] Sen. Raffy T. Tulfo**  
 Kaya nga, Mr. President Officer, nagtataka ako na binanggit yan ni Princess Maui doon sa press conference, sa online press conference ni VP Sara, yung Romano na banta for Sara Duterte when in fact, it was Bastet Duterte ang ibitaw ng salita na iyon. Warning sa First Family. So, which is which, Mr. Witness? Para sa'yo, saan ba
 
-**[01:06:56.420] Sen. Raffy Tulfo**  
+**[01:06:56.420] Sen. Raffy T. Tulfo**  
 talaga yung Romanov nag-umpisa? At sino ba talaga dapat mag-ingat doon sa banta ng Romanov?
 
 **[01:07:02.300] Atty. Jeremy C. Lotoc**  
@@ -1055,10 +1055,10 @@ Yeah, and so far as our investigation is concerned, since nag-start yan doon kay
 **[01:07:16.640] Atty. Jeremy C. Lotoc**  
 I think nag-start yan sa kanila, sir. Sa kapatid ng vice-presidente.
 
-**[01:07:23.620] Sen. Raffy Tulfo**  
+**[01:07:23.620] Sen. Raffy T. Tulfo**  
 Thank you, Mr. Witness. No other questions? Mr. Presiding Officer?
 
-**[01:07:28.940] Sen. Francis “Chiz” Escudero**  
+**[01:07:28.940] Sen. Francis "Chiz" G. Escudero**  
 Noted. Entered into the records. And counsel for the respondent may continue with his cross.
 
 **[01:07:33.700] Atty. Mark C. Vinluan**  
@@ -1070,25 +1070,25 @@ Yan yung statement ng Mayor Bastet, sir. But
 **[01:07:45.930] Atty. Mark C. Vinluan**  
 I'm asking, Operation Romanov eh. So hindi naman think about the Romanovs. My question to you is this.
 
-**[01:07:53.110] Sen. Francis “Chiz” Escudero**  
+**[01:07:53.110] Sen. Francis "Chiz" G. Escudero**  
 With the permission of counsel for the respondent, Senator Tulfo seeks recognition again. What is the pleasure of Senator Tulfo? I
 
-**[01:07:59.630] Sen. Raffy Tulfo**  
+**[01:07:59.630] Sen. Raffy T. Tulfo**  
 just want to make it clear, Mr. Presiding Officer, na yung threat na yun, yung Romanov na salita, it was used to warn as a threat to the first family. The word Romanov came from the mouth. Of President, I mean Mayor Bastet Duterte, na para bang binabantaan niya yung first family. You follow me, Mr. Witness? Yes, sir.
 
 **[01:08:28.390] Atty. Jeremy C. Lotoc**  
 Tama po yan.
 
-**[01:08:29.350] Sen. Raffy Tulfo**  
+**[01:08:29.350] Sen. Raffy T. Tulfo**  
 Thank you.
 
-**[01:08:31.220] Sen. Francis “Chiz” Escudero**  
+**[01:08:31.220] Sen. Francis "Chiz" G. Escudero**  
 Noted. Council may proceed.
 
 **[01:08:33.420] Atty. Mark C. Vinluan**  
 Your Honor, that's my question. Can the Witness be allowed to answer that question with a manifestation first before he allows?
 
-**[01:08:42.560] Sen. Francis “Chiz” Escudero**  
+**[01:08:42.560] Sen. Francis "Chiz" G. Escudero**  
 Kindly repeat the question because even I forgot the question,
 
 **[01:08:45.460] Atty. Mark C. Vinluan**  
@@ -1121,7 +1121,7 @@ Alright, so no. At any rate, are you aware of any, if the Vice President was the
 **[01:10:58.940] Atty. Jeremy C. Lotoc**  
 I'm not aware sir.
 
-**[01:11:00.650] Sen. Francis “Chiz” Escudero**  
+**[01:11:00.650] Sen. Francis "Chiz" G. Escudero**  
 Alright, with the permission of council, chair will recognize Senator Judge Pangilinan thereafter, Senator Judge Erwin Tulfo.
 
 **[01:11:09.330] Sen. Francis “Kiko” Pangilinan**  
@@ -1142,7 +1142,7 @@ Ano ang gagawin ninyo kung nakuha ninyo iyong ganoong klaseng information? Ang p
 **[01:11:57.150] Atty. Jeremy C. Lotoc**  
 We validate first the information, sir. And then pag-confirm na, then we will start case build-up, sir. Thank you. Thank
 
-**[01:12:05.070] Sen. Francis “Chiz” Escudero**  
+**[01:12:05.070] Sen. Francis "Chiz" G. Escudero**  
 you. Senator Judge Erwin Tulfo, what is your pleasure, sir?
 
 **[01:12:14.600] Sen. Erwin Tulfo**  
@@ -1208,7 +1208,7 @@ Hindi reliable insofar as the Cybercrime Division is concerned, sir. Thank you,
 **[01:16:27.630] Sen. Erwin Tulfo**  
 Mr. Presiding Officer. The
 
-**[01:16:28.850] Sen. Francis “Chiz” Escudero**  
+**[01:16:28.850] Sen. Francis "Chiz" G. Escudero**  
 interventions of the Senator-Judge are noted. What is the pleasure of Senator-Judge Villanueva?
 
 **[01:16:37.410] Sen. Joel Villanueva**  
@@ -1262,49 +1262,49 @@ That is in so far as the cybercrime division is concerned.
 **[01:22:04.430] Sen. Joel Villanueva**  
 Thank you. Thank you very much. Thank you.
 
-**[01:22:06.070] Sen. Francis “Chiz” Escudero**  
+**[01:22:06.070] Sen. Francis "Chiz" G. Escudero**  
 What is the pleasure of Senator Judge Lacson? Thank you, Senator Judge Villanueva. I
 
-**[01:22:11.330] Sen. Panfilo M. Lacson**  
+**[01:22:11.330] Sen. Panfilo “Ping” M. Lacson**  
 just want to pursue the point raised by Senator Judge Rapitulpo and the others. The gentleman may proceed and he has two minutes. I don't know about the other senator judges, pero until today, when Senator Judge Rapitulpo clarified, Atty. Oplon Romanov, Atty. J.
 
-**[01:22:32.040] Sen. Panfilo M. Lacson**  
+**[01:22:32.040] Sen. Panfilo “Ping” M. Lacson**  
 first family?
 
 **[01:22:34.060] Atty. Jeremy C. Lotoc**  
 Yes, sir.
 
-**[01:22:34.500] Sen. Panfilo M. Lacson**  
+**[01:22:34.500] Sen. Panfilo “Ping” M. Lacson**  
 Ang impression ko since last week, noong pinag-uusapan natin iyong Oplan Romanov, threat ito against the Vice President. And since sabi ninyo, part ng investigation ninyo ang open source, di ba?
 
 **[01:22:46.340] Atty. Jeremy C. Lotoc**  
 Yes, sir.
 
-**[01:22:48.000] Sen. Panfilo M. Lacson**  
+**[01:22:48.000] Sen. Panfilo “Ping” M. Lacson**  
 Iyong speech ni Mayor Baste Duterte sa Maisug, naging part ba ng open source ninyo iyon?
 
 **[01:22:55.010] Atty. Jeremy C. Lotoc**  
 In this
 
-**[01:22:55.670] Sen. Panfilo M. Lacson**  
+**[01:22:55.670] Sen. Panfilo “Ping” M. Lacson**  
 particular investigation that you conducted,
 
 **[01:22:57.770] Atty. Jeremy C. Lotoc**  
 hindi po siya nag-form part as… So kulang
 
-**[01:23:00.190] Sen. Panfilo M. Lacson**  
+**[01:23:00.190] Sen. Panfilo “Ping” M. Lacson**  
 yung inyong open source information.
 
 **[01:23:03.250] Atty. Jeremy C. Lotoc**  
 Hindi po kami naka-focus sa Romanov, Your Honor.
 
-**[01:23:07.410] Sen. Panfilo M. Lacson**  
+**[01:23:07.410] Sen. Panfilo “Ping” M. Lacson**  
 Was it also your impression na iyong threat doon sa Romanov was directed against VP Sara, until today?
 
 **[01:23:17.210] Atty. Jeremy C. Lotoc**  
 I don't…
 
-**[01:23:18.290] Sen. Panfilo M. Lacson**  
+**[01:23:18.290] Sen. Panfilo “Ping” M. Lacson**  
 Please. Be honest. Don't be ashamed.
 
 **[01:23:22.770] Atty. Jeremy C. Lotoc**  
@@ -1313,52 +1313,52 @@ I don't think so, Your Honor. Kasi unang-una, ang context ng Operation Romanov: 
 **[01:23:48.610] Atty. Jeremy C. Lotoc**  
 po, Your Honor, kung bakit we tried to invite Princess Maui to shed us some light para makita namin ano bang ibig sabihin doon. Ano ba iyong puwede naming i-validate na information para makapag-case build-up kami pag mayroon?
 
-**[01:24:02.230] Sen. Panfilo M. Lacson**  
+**[01:24:02.230] Sen. Panfilo “Ping” M. Lacson**  
 So bakit hindi naging part ng investigation ninyo doon sa threat against the life of the President and the First Lady? Kasi family iyong binabanggit ni Mayor Baste, di ba? Hindi kasama iyong Speaker?
 
-**[01:24:15.500] Sen. Panfilo M. Lacson**  
+**[01:24:15.500] Sen. Panfilo “Ping” M. Lacson**  
 Hindi kasama si Speaker Romualdez, hindi iyong Chief Justice?
 
 **[01:24:17.360] Atty. Jeremy C. Lotoc**  
 Opo. Yes, sir.
 
-**[01:24:18.200] Sen. Panfilo M. Lacson**  
+**[01:24:18.200] Sen. Panfilo “Ping” M. Lacson**  
 Pero threat against the family, the First Family?
 
 **[01:24:21.520] Atty. Jeremy C. Lotoc**  
 Yes, sir.
 
-**[01:24:22.100] Sen. Panfilo M. Lacson**  
+**[01:24:22.100] Sen. Panfilo “Ping” M. Lacson**  
 As mentioned by Senator-Judge Raffy Tulfo.
 
-**[01:24:24.100] Sen. Panfilo M. Lacson**  
+**[01:24:24.100] Sen. Panfilo “Ping” M. Lacson**  
 Ang sabi mo, hindi naging part ng investigation ninyo sa report or affidavit of investigation iyong open source ng Maisug?
 
 **[01:24:27.560] Atty. Jeremy C. Lotoc**  
 Hindi po siya nakasama.
 
-**[01:24:28.300] Sen. Panfilo M. Lacson**  
+**[01:24:28.300] Sen. Panfilo “Ping” M. Lacson**  
 Bakit hindi naisama? Open source din iyon. That could reinforce iyong conclusion ninyo na meron talagang serious threat against the President and the others.
 
-**[01:24:44.250] Sen. Panfilo M. Lacson**  
+**[01:24:44.250] Sen. Panfilo “Ping” M. Lacson**  
 Romualdez, Bakit hindi ninyo ginawang part doon sa affidavit of investigation, unless pareho tayo ng impression na until today, ang alam natin sa Romanov ay threat against VP Sara? Iyon ang impression ko since last week.
 
 **[01:25:08.940] Atty. Jeremy C. Lotoc**  
 That's exactly my
 
-**[01:25:11.620] Sen. Panfilo M. Lacson**  
+**[01:25:11.620] Sen. Panfilo “Ping” M. Lacson**  
 question, Atty. Lotoc. So ngayon nyo rin lang na-realize na yun palang Oplan Romanov, etret pala sa first family. First family.
 
 **[01:25:21.590] Atty. Jeremy C. Lotoc**  
 Opo, Your Honor.
 
-**[01:25:22.390] Sen. Panfilo M. Lacson**  
+**[01:25:22.390] Sen. Panfilo “Ping” M. Lacson**  
 Thank you. Noted. Entered into the records.
 
-**[01:25:27.110] Sen. Francis “Chiz” Escudero**  
+**[01:25:27.110] Sen. Francis "Chiz" G. Escudero**  
 I would have recognized Sen. Goff first but since you're there already, Sen. Judge Alan Gaetano. This is
 
-**[01:25:32.830] Sen. Francis “Chiz” Escudero**  
+**[01:25:32.830] Sen. Francis "Chiz" G. Escudero**  
 just a
 
 **[01:25:33.090] Sen. Alan Peter Cayetano**  
@@ -1373,10 +1373,10 @@ The Presidential Security Command, the National Council would have filed a case 
 **[01:28:46.650] Atty. Jeremy C. Lotoc**  
 you, Your Honor.
 
-**[01:28:47.230] Sen. Francis “Chiz” Escudero**  
+**[01:28:47.230] Sen. Francis "Chiz" G. Escudero**  
 Senator Go, thereafter, Senator Padilla.
 
-**[01:28:52.940] Sen. Francis “Chiz” Escudero**  
+**[01:28:52.940] Sen. Francis "Chiz" G. Escudero**  
 Senator Go, you have two minutes, sir.
 
 **[01:28:54.580] Sen. Christopher Bong Go**  
@@ -1541,22 +1541,22 @@ ha? Mag... Based sa findings namin, Sir, yes. Based po sa findings namin. Um, ga
 **[01:38:26.000] Sen. Christopher Bong Go**  
 No more question, Mr. Presiding Officer. Thank
 
-**[01:38:29.100] Sen. Francis “Chiz” Escudero**  
+**[01:38:29.100] Sen. Francis "Chiz" G. Escudero**  
 you, Senator Judge Go. Senator Judge Padilla intimated to the Presiding Officer that he will defer his questions to a later time. Counsel, for the respondent, you may proceed with your cross-examination.
 
 **[01:38:43.460] Atty. Mark C. Vinluan**  
 Just a manifestation, Your Honor, in relation to the query or the manifestation of Senator Judge Villanueva.
 
-**[01:38:51.550] Sen. Francis “Chiz” Escudero**  
+**[01:38:51.550] Sen. Francis "Chiz" G. Escudero**  
 In relation to the query of... No,
 
 **[01:38:54.090] Atty. Mark C. Vinluan**  
 no. His manifestation, Your Honor.
 
-**[01:38:57.190] Sen. Francis “Chiz” Escudero**  
+**[01:38:57.190] Sen. Francis "Chiz" G. Escudero**  
 No need, Counsel. Proceed. Unless he asked you a question. It's the
 
-**[01:39:00.470] Sen. Francis “Chiz” Escudero**  
+**[01:39:00.470] Sen. Francis "Chiz" G. Escudero**  
 seventh court's time. Please proceed with your cross-examination.
 
 **[01:39:04.370] Atty. Mark C. Vinluan**  
@@ -1610,7 +1610,7 @@ I see. So, for this particular portion, you just turned a blind eye and did not.
 **[01:41:38.450] Atty. Amando Virgil D. Ligutan**  
 witness answer.
 
-**[01:41:39.070] Sen. Francis “Chiz” Escudero**  
+**[01:41:39.070] Sen. Francis "Chiz" G. Escudero**  
 There was a question. Counsel, kindly don't argue with the witness.
 
 **[01:41:43.610] Atty. Mark C. Vinluan**  
@@ -1673,19 +1673,19 @@ Your Honor, I move that—
 **[01:44:26.710] Atty. Amando Virgil D. Ligutan**  
 Your Honor, I move that defense counsel, with all due respect, be admonished from stating those unprofessional remarks. We are in front of national TV. If you are not satisfied with his answer, please don't put any value to what the witness answered.
 
-**[01:44:53.080] Sen. Francis “Chiz” Escudero**  
+**[01:44:53.080] Sen. Francis "Chiz" G. Escudero**  
 This is a reminder for counsel for both parties. Kindly avoid side remarks. Henceforth, the Presiding Officer will have it stricken off the record. And
 
-**[01:45:04.160] Sen. Francis “Chiz” Escudero**  
+**[01:45:04.160] Sen. Francis "Chiz" G. Escudero**  
 whatever question you pose and afterwards withdraw, will likewise be stricken off from the record. So as to avoid any attempts at showmanship, usually seen on TV, But that will not be tolerated by this Impeachment Court. Counsel are
 
-**[01:45:22.320] Sen. Francis “Chiz” Escudero**  
+**[01:45:22.320] Sen. Francis "Chiz" G. Escudero**  
 so reminded...
 
 **[01:45:23.340] Atty. Mark C. Vinluan**  
 We will comply, Your Honor.
 
-**[01:45:24.280] Sen. Francis “Chiz” Escudero**  
+**[01:45:24.280] Sen. Francis "Chiz" G. Escudero**  
 Please proceed... To clarify,
 
 **[01:45:25.960] Atty. Mark C. Vinluan**  
@@ -1772,10 +1772,10 @@ Your Honor, but the answer is not responsive. My question is very simple.
 **[01:48:20.810] Atty. Amando Virgil D. Ligutan**  
 Let him finish first with all the respect, Your Honor.
 
-**[01:48:23.590] Sen. Francis “Chiz” Escudero**  
+**[01:48:23.590] Sen. Francis "Chiz" G. Escudero**  
 With the permission of the counsel for the parties. Atty. Lotoc, the question was, sa pagitan ng una at pangalawang sinubmit ninyo sa DOJ, may mga testigo ba kayong dinagdag sa pangalawang ninyong submission sa DOJ? Or the witnesses are the same.
 
-**[01:48:40.350] Sen. Francis “Chiz” Escudero**  
+**[01:48:40.350] Sen. Francis "Chiz" G. Escudero**  
 Nilakip lang iyong mga affidavit na hindi nailakip doon sa unang pagsumite?
 
 **[01:48:45.070] Atty. Jeremy C. Lotoc**  
@@ -1814,10 +1814,10 @@ check, sir?
 **[01:49:46.890] Atty. Mark C. Vinluan**  
 Sure.
 
-**[01:49:47.330] Sen. Francis “Chiz” Escudero**  
+**[01:49:47.330] Sen. Francis "Chiz" G. Escudero**  
 Witness may consult the document before him. Thank you, Your Honor.
 
-**[01:49:53.260] Sen. Francis “Chiz” Escudero**  
+**[01:49:53.260] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the parties may assist him.
 
 **[01:49:58.700] Atty. Jeremy C. Lotoc**  
@@ -1853,7 +1853,7 @@ Your Honor, the process is legal evaluation by the prosecutor and case build-up.
 **[01:51:00.600] Atty. Mark C. Vinluan**  
 about the nature of the affidavit. I'm not talking about...
 
-**[01:51:03.080] Sen. Francis “Chiz” Escudero**  
+**[01:51:03.080] Sen. Francis "Chiz" G. Escudero**  
 Atty. Lotoc, kindly answer the question. It's a general question pertaining to an affidavit in general, not this particular one.
 
 **[01:51:10.100] Atty. Jeremy C. Lotoc**  
@@ -1889,25 +1889,25 @@ isn't it that— Your Honor, Your Honor, again, again. Can I respectfully reques
 **[01:53:03.520] Atty. Amando Virgil D. Ligutan**  
 I just
 
-**[01:53:03.900] Sen. Francis “Chiz” Escudero**  
+**[01:53:03.900] Sen. Francis "Chiz" G. Escudero**  
 be allowed to proceed, Your Honor? Counsel for the respondent, let the counsel for the prosecutors finish with this observation or objection. Can
 
 **[01:53:11.200] Atty. Amando Virgil D. Ligutan**  
 I make a respectful request to the defense to let the witness finish the answer before they propound the next question, Your Honor, please? For orderly proceeding, Your Honor, please.
 
-**[01:53:24.750] Sen. Francis “Chiz” Escudero**  
+**[01:53:24.750] Sen. Francis "Chiz" G. Escudero**  
 Point well taken. Counsel, please proceed accordingly. And may I also remind the witness, Atty. Lotoc, kindly answer yes or no instead of yeah and nah.
 
 **[01:53:34.870] Atty. Jeremy C. Lotoc**  
 Yes, sir. Sorry po.
 
-**[01:53:36.050] Sen. Francis “Chiz” Escudero**  
+**[01:53:36.050] Sen. Francis "Chiz" G. Escudero**  
 So that it's clear for our records.
 
 **[01:53:40.870] Atty. Jeremy C. Lotoc**  
 Yes, Your Honor.
 
-**[01:53:41.350] Sen. Francis “Chiz” Escudero**  
+**[01:53:41.350] Sen. Francis "Chiz" G. Escudero**  
 You may proceed, counsel for the respondent.
 
 **[01:53:42.970] Atty. Mark C. Vinluan**  
@@ -1949,7 +1949,7 @@ Received from DOJ or by DOJ? By DOJ. Again, ang makakasagot niyan, yung nag-proc
 **[01:55:33.160] Atty. Amando Virgil D. Ligutan**  
 only... Again, the witness is still in the process of answering the question.
 
-**[01:55:36.920] Sen. Francis “Chiz” Escudero**  
+**[01:55:36.920] Sen. Francis "Chiz" G. Escudero**  
 Counsel, take it easy. Let the witness complete his answer.
 
 **[01:55:39.920] Atty. Mark C. Vinluan**  
@@ -1970,13 +1970,13 @@ Alright, I'll move on to a new point.
 **[01:56:34.340] Atty. Mark C. Vinluan**  
 Now, Article 4 of... Hi.
 
-**[01:56:40.830] Sen. Francis “Chiz” Escudero**  
+**[01:56:40.830] Sen. Francis "Chiz" G. Escudero**  
 What is the pleasure of Senator Judge Pia Cayetano?
 
 **[01:56:50.460] Sen. Pia S. Cayetano**  
 Mr. President, I wanted to take the floor before the defense went to another point so I wouldn't interrupt his train of thought. The
 
-**[01:56:59.380] Sen. Francis “Chiz” Escudero**  
+**[01:56:59.380] Sen. Francis "Chiz" G. Escudero**  
 lady has two minutes and may proceed when she's ready.
 
 **[01:57:01.910] Sen. Pia S. Cayetano**  
@@ -2003,13 +2003,13 @@ Sabi, bubunutan ko to ng barel. Is that a grave threat? Maybe it's just offensiv
 **[01:59:32.320] Atty. Amando Virgil D. Ligutan**  
 If you may, Your Honor, please.
 
-**[01:59:34.040] Sen. Francis “Chiz” Escudero**  
+**[01:59:34.040] Sen. Francis "Chiz" G. Escudero**  
 Your prosecution, po. Sen. Judge Pia, who do you want to answer first?
 
 **[01:59:41.710] Sen. Pia S. Cayetano**  
 Good question. Pag-iisipan ko ng matagal yan, Mr. President. I give you the decision on that one, Mr. President. Siguro prosecution kasi sila naman ang kailangan mag-prove ng case nila. And then the witness and then the defense counsel.
 
-**[01:59:57.050] Sen. Francis “Chiz” Escudero**  
+**[01:59:57.050] Sen. Francis "Chiz" G. Escudero**  
 Again, an admonition from the chair. Without stating conclusions of fact and law that again is reserved for the impeachment court, you may state your opinions with respect to... The elements of the crime of grave threats specifically identified by the Senator-Judge. And
 
 **[02:00:18.790] Sen. Pia S. Cayetano**  
@@ -2021,13 +2021,13 @@ I just want, I repeat my question, I want to understand your appreciation of the
 **[02:00:32.820] Sen. Pia S. Cayetano**  
 Ano, Mr. President? Will we allow them to cite jurisprudence? I leave it up to you. I just want to understand the appreciation kasi. What do you think?
 
-**[02:00:39.360] Sen. Francis “Chiz” Escudero**  
+**[02:00:39.360] Sen. Francis "Chiz" G. Escudero**  
 Doon sa particular pong katanungang yun ni Sen. Judge Pia Cayetano na dapat ba may takot na naramdaman? Correct me if I'm wrong, Sen. Judge Pia? Yes. Yun taong tinatakot o subject matter ng grave threats o pampublikong pagtanggap pa na nakakatakot yung mga sinabi niya laban doon sa... Taong tinatakot niya.
 
 **[02:01:01.460] Sen. Pia S. Cayetano**  
 Siguro, a simple yes or no with a very short explanation would suffice, Mr. Presiding Officer.
 
-**[02:01:07.420] Sen. Francis “Chiz” Escudero**  
+**[02:01:07.420] Sen. Francis "Chiz" G. Escudero**  
 Atty. Ligutan, you have two
 
 **[02:01:09.060] Atty. Amando Virgil D. Ligutan**  
@@ -2045,7 +2045,7 @@ na nagre-require na may private complainant. Ibig sabihin, hindi po required na 
 **[02:02:34.500] Atty. Amando Virgil D. Ligutan**  
 na iyong recipient mismo nakaramdam ng takot or that sineryoso iyong pagbabanta, Your Honor. To repeat, itong sinabi ng Supreme Court: all that needs to be proven is that they were intended by the accused to have that effect. Iyong sagot sa tanong, hindi po galing sa prosecution, hindi po opinion, galing mismo sa Supreme Court of the Philippines.
 
-**[02:03:27.350] Sen. Francis “Chiz” Escudero**  
+**[02:03:27.350] Sen. Francis "Chiz" G. Escudero**  
 My memory aid correctly. There are only certain private crimes that need a private complainant. And most of these are personal crimes such as concubinage, adultery, seduction, abduction, rape, and acts of lasciviousness. Although these crimes are all entitled people of the Philippines versus the accused, without a private complainant, these crimes cannot be filed by the prosecutor. In court without the cooperation or affidavit of the private complainant. Counsel for respondent will please reply to the query of Senator-Judge Pia Cayetano. You also have two minutes, sir.
 
 **[02:04:03.500] Atty. Mark C. Vinluan**  
@@ -2069,7 +2069,7 @@ of the vice president that is basically our position that is one more thing and 
 **[02:05:56.780] Atty. Mark C. Vinluan**  
 It was a response, Your Honor. That would be all, yeah.
 
-**[02:06:00.990] Sen. Francis “Chiz” Escudero**  
+**[02:06:00.990] Sen. Francis "Chiz" G. Escudero**  
 Noted. Atty. Lotoc, your response to Sen. Judge Pia's question based on your investigation. You may proceed, sir.
 
 **[02:06:08.750] Atty. Jeremy C. Lotoc**  
@@ -2081,7 +2081,7 @@ First, whether there is an actus reus, and then second, whether there is a mens 
 **[02:07:36.000] Atty. Jeremy C. Lotoc**  
 In fact, ang basis po namin diyan, iyong Garma v. People. Ang isa po doon sa sinabi ng Garma v. People, hindi ho kailangan na ma-intimidate o itrato ng recipient na seryoso iyong threat na iyan. Ang sufficient na maipakita lang na iyon iyong intention ng offender: to intimidate and to treat seriously the utterances or threatening remarks na ginawa niya. Iyon po is iyong naging basihan po namin, Your Honor.
 
-**[02:08:08.000] Sen. Francis “Chiz” Escudero**  
+**[02:08:08.000] Sen. Francis "Chiz" G. Escudero**  
 I hope that satisfies Senator-Judge Pia Cayetano.
 
 **[02:08:11.730] Sen. Pia S. Cayetano**  
@@ -2090,7 +2090,7 @@ It actually does, but if I still have time, I have a follow-up question for all.
 **[02:08:19.030] Sen. Pia S. Cayetano**  
 Well, anyway, everyone went overtime, so since my bell hasn't rung—
 
-**[02:08:22.850] Sen. Francis “Chiz” Escudero**  
+**[02:08:22.850] Sen. Francis "Chiz" G. Escudero**  
 No, you don't, but you can ask your final question, ma'am.
 
 **[02:08:25.530] Sen. Pia S. Cayetano**  
@@ -2126,7 +2126,7 @@ have to. Just asking your legal opinion. You're a lawyer. Di may answer? Is it n
 **[02:09:21.580] Atty. Jeremy C. Lotoc**  
 I think— If
 
-**[02:09:22.480] Sen. Francis “Chiz” Escudero**  
+**[02:09:22.480] Sen. Francis "Chiz" G. Escudero**  
 he knows? Just
 
 **[02:09:23.860] Atty. Jeremy C. Lotoc**  
@@ -2141,31 +2141,31 @@ Diba ganun din yung threat? Yung threat, Your Honor, pag ang threat is with a co
 **[02:10:09.380] Atty. Jeremy C. Lotoc**  
 Your Honor, but in so far as the NBI Cybercrime Division is concerned, what we did is we established the elements of the great threats based on the surrounding facts and circumstances and then we conclude that indeed nag-violate ho ang ating Vice Presidente.
 
-**[02:10:32.440] Sen. Francis “Chiz” Escudero**  
+**[02:10:32.440] Sen. Francis "Chiz" G. Escudero**  
 Atty. Lotoc, warning in Filipino is babala.
 
 **[02:10:38.990] Atty. Jeremy C. Lotoc**  
 Yes. Opo.
 
-**[02:10:40.450] Sen. Francis “Chiz” Escudero**  
+**[02:10:40.450] Sen. Francis "Chiz" G. Escudero**  
 Threat in Filipino is banta.
 
 **[02:10:42.850] Atty. Jeremy C. Lotoc**  
 Yes. Opo. Opo.
 
-**[02:10:44.290] Sen. Francis “Chiz” Escudero**  
+**[02:10:44.290] Sen. Francis "Chiz" G. Escudero**  
 Kaya diba babala, bawal magtapon ng basura dito.
 
 **[02:10:48.990] Atty. Jeremy C. Lotoc**  
 Pwede po yun, Sir.
 
-**[02:10:51.270] Sen. Francis “Chiz” Escudero**  
+**[02:10:51.270] Sen. Francis "Chiz" G. Escudero**  
 Diba? Ang tanong ni Sen. Rupia, kailan nagiging banta yun?
 
 **[02:10:56.900] Atty. Jeremy C. Lotoc**  
 Well, ito depende sa konteksto siguro, Your Honor. May warning din po kasi na I warned you. I warn you, sinasabi ko, pag inulit mo ito, ito ang mangyayari sa'yo. May konteksto na ganun, Your Honor, na somehow nag-overlap siya doon sa elements ng great threats na conditional, na sinabi na pag ito ang nangyari, ito ang gagawin ko sa'yo. So, depende sa konteksto, Your Honor.
 
-**[02:11:28.090] Sen. Francis “Chiz” Escudero**  
+**[02:11:28.090] Sen. Francis "Chiz" G. Escudero**  
 So, depende sa konteksto, sa delivery, sa taas ng boses, gaano kagalit, may kapasidad.
 
 **[02:11:35.440] Atty. Jeremy C. Lotoc**  
@@ -2174,7 +2174,7 @@ Yes, po.
 **[02:11:36.000] Atty. Jeremy C. Lotoc**  
 Yes, po, your honor.
 
-**[02:11:40.500] Sen. Francis “Chiz” Escudero**  
+**[02:11:40.500] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Villa?
 
 **[02:11:41.580] Sen. Pia S. Cayetano**  
@@ -2192,10 +2192,10 @@ Yes, ma'am.
 **[02:11:51.490] Sen. Pia S. Cayetano**  
 Okay, so laging contextual. Okay, maraming salamat sa lahat. I just want to emphasize na, Mr. Presiding Officer, I posted my question to each of the councils and the witness precisely so that tayo masabihan na may bias. Isa lang yung binibigyan natin ng opportunity to explain their side. I really genuinely just wanted to know what their appreciation of the definition of grave threats is. Thank you so much.
 
-**[02:12:12.690] Sen. Francis “Chiz” Escudero**  
+**[02:12:12.690] Sen. Francis "Chiz" G. Escudero**  
 We thank the good Senator Judge for intervention. All of the comments are noted.
 
-**[02:12:17.960] Sen. Francis “Chiz” Escudero**  
+**[02:12:17.960] Sen. Francis "Chiz" G. Escudero**  
 Council for the Respondent. Proceed with your cross when you're ready.
 
 **[02:12:22.210] Atty. Mark C. Vinluan**  
@@ -2255,10 +2255,10 @@ ask that the
 **[02:15:32.020] Atty. Mark C. Vinluan**  
 witness answers in
 
-**[02:15:32.960] Sen. Francis “Chiz” Escudero**  
+**[02:15:32.960] Sen. Francis "Chiz" G. Escudero**  
 a more responsive manner? Witness, kindly,
 
-**[02:15:34.000] Sen. Francis “Chiz” Escudero**  
+**[02:15:34.000] Sen. Francis "Chiz" G. Escudero**  
 attorney to talk, kindly answer the question directly so that the court's time is not wasted.
 
 **[02:15:40.210] Atty. Jeremy C. Lotoc**  
@@ -2282,7 +2282,7 @@ Not necessary, sir. No. Alright.
 **[02:15:56.740] Atty. Mark C. Vinluan**  
 Now, I am showing you a news article entitled, 'Palace Dismisses Destab Rumors vs. Marcos Admin.' This was marked as our D-4-66. If I may ask my co-counsel to confront the witness with this.
 
-**[02:16:13.980] Sen. Francis “Chiz” Escudero**  
+**[02:16:13.980] Sen. Francis "Chiz" G. Escudero**  
 We may do so, with the participation, if he so desires, of assisting counsel for the prosecutors.
 
 **[02:16:19.030] Atty. Mark C. Vinluan**  
@@ -2306,10 +2306,10 @@ Before the good counsel proceed, can I make a manifestation? Again, these docume
 **[02:17:25.090] Atty. Amando Virgil D. Ligutan**  
 without proper basis and proper authentication, which I do believe should have been done before a witness is confronted with these documents. As per our rules, Your Honor.
 
-**[02:17:37.270] Sen. Francis “Chiz” Escudero**  
+**[02:17:37.270] Sen. Francis "Chiz" G. Escudero**  
 It's not an objection, counsel for the respondent. The remarks and comments of counsel for the prosecutors are noted.
 
-**[02:17:43.900] Sen. Francis “Chiz” Escudero**  
+**[02:17:43.900] Sen. Francis "Chiz" G. Escudero**  
 But counsel, for clarity, this is a pre-marked exhibit for the respondent, correct? You may proceed, sir.
 
 **[02:17:50.870] Atty. Mark C. Vinluan**  
@@ -2324,7 +2324,7 @@ Again, I don't have personal knowledge, sir.
 **[02:18:12.030] Atty. Amando Virgil D. Ligutan**  
 Can I make a counter-manifestation order? This is dated June 12, 2026, two years after the event. Manifestation, Your Honor, please. Two years after the Vice President uttered the threats.
 
-**[02:18:25.240] Sen. Francis “Chiz” Escudero**  
+**[02:18:25.240] Sen. Francis "Chiz" G. Escudero**  
 Noted. Councilman proceed.
 
 **[02:18:28.280] Atty. Mark C. Vinluan**  
@@ -2357,7 +2357,7 @@ Yes, sir.
 **[02:19:29.040] Atty. Mark C. Vinluan**  
 Alright, let's go to the case of Reyes v. People. You also cited that page 29 of your affidavit of investigation. Did you read this case in full? If I may check my affidavit,
 
-**[02:19:42.830] Sen. Francis “Chiz” Escudero**  
+**[02:19:42.830] Sen. Francis "Chiz" G. Escudero**  
 Your Honor? The witness may do so. Okay,
 
 **[02:20:02.800] Atty. Jeremy C. Lotoc**  
@@ -2426,7 +2426,7 @@ I will introduce a new article.
 **[02:22:18.890] Atty. Amando Virgil D. Ligutan**  
 Objection. Argumentative. You don't argue with a witness. You ask questions. If you're not satisfied with the answer... Move on. Atty.
 
-**[02:22:27.460] Sen. Francis “Chiz” Escudero**  
+**[02:22:27.460] Sen. Francis "Chiz" G. Escudero**  
 Atty. Ligutan, kindly allow counsel for the respondent to finish his question.
 
 **[02:22:31.520] Atty. Mark C. Vinluan**  
@@ -2444,7 +2444,7 @@ Yeah, tell me, sir.
 **[02:23:12.050] Atty. Mark C. Vinluan**  
 No, I'm not on the witness stand. So, you answer the question.
 
-**[02:23:15.430] Sen. Francis “Chiz” Escudero**  
+**[02:23:15.430] Sen. Francis "Chiz" G. Escudero**  
 Mr. Witness, kindly respond to the question. The question is, do you know? So, it's answerable by a yes or no.
 
 **[02:23:22.350] Atty. Jeremy C. Lotoc**  
@@ -2474,7 +2474,7 @@ Your Honor, respectfully, can I now object as to the relevance to an impeachment
 **[02:24:15.060] Atty. Mark C. Vinluan**  
 Just laying the basis, Your Honor. I'll go to that.
 
-**[02:24:15.980] Sen. Francis “Chiz” Escudero**  
+**[02:24:15.980] Sen. Francis "Chiz" G. Escudero**  
 He's on cross. I will give you some leeway, but kindly get to your point, counsel.
 
 **[02:24:22.660] Atty. Mark C. Vinluan**  
@@ -2501,28 +2501,28 @@ Well, there are high crimes, sir, na nasa Revised Penal Code din.
 **[02:25:07.020] Atty. Amando Virgil D. Ligutan**  
 Can you give us an example? That's not a question, Your Honor, please.
 
-**[02:25:12.240] Sen. Francis “Chiz” Escudero**  
+**[02:25:12.240] Sen. Francis "Chiz" G. Escudero**  
 If he knows, counsel.
 
 **[02:25:13.300] Atty. Amando Virgil D. Ligutan**  
 If you know.
 
-**[02:25:14.740] Sen. Francis “Chiz” Escudero**  
+**[02:25:14.740] Sen. Francis "Chiz" G. Escudero**  
 If he knows.
 
 **[02:25:15.600] Atty. Amando Virgil D. Ligutan**  
 It's like a classroom recitation, Your Honor.
 
-**[02:25:18.000] Sen. Francis “Chiz” Escudero**  
+**[02:25:18.000] Sen. Francis "Chiz" G. Escudero**  
 Atty. Lotoc, you are very well aware of the fact that you are here as a witness in an impeachment proceeding and that the crime you investigated is being used to charge the Vice President. And as a lawyer, you also are aware of Article XI of the Constitution with respect to accountability of public officers. So if you know, you may answer. If you don't, you
 
-**[02:25:42.810] Sen. Francis “Chiz” Escudero**  
+**[02:25:42.810] Sen. Francis "Chiz" G. Escudero**  
 may say that you are not competent or that you do not know. So please respond.
 
 **[02:25:50.990] Atty. Jeremy C. Lotoc**  
 Well, since kasi kayo nagbabasa, wala akong binabasa, nagre-relay ako sa memory. I cannot answer for now, Your Honor. I need to recheck the book. It does not
 
-**[02:26:02.070] Sen. Francis “Chiz” Escudero**  
+**[02:26:02.070] Sen. Francis "Chiz" G. Escudero**  
 reflect on your competence or knowledge of the law, Atty. Lotoc. It's okay. You were not asked to prepare for this anyway. Thank you, Your Honor. These are questions on cross. So we're giving the counsel for respondents some leeway. Counsel, please proceed.
 
 **[02:26:18.490] Atty. Mark C. Vinluan**  
@@ -2537,7 +2537,7 @@ Exactly. So, it is a felony because it is defined and punished by the RTC and it
 **[02:26:37.640] Atty. Amando Virgil D. Ligutan**  
 Your Honor, again, objection. What's the relevance? Your Honor! Counsel, let me finish, please. Easy, easy. Now, as to the... What is the penalty for grave threat? That's irrelevant as to the impeachment complaint that we are litigating on the ground of relevance. Unless the council is able to prove the relevance, I will withdraw my objection or order, please.
 
-**[02:27:04.080] Sen. Francis “Chiz” Escudero**  
+**[02:27:04.080] Sen. Francis "Chiz" G. Escudero**  
 So the connection council, again, you're on a short lease, but I know where you're getting at. Get to it, please.
 
 **[02:27:09.680] Atty. Mark C. Vinluan**  
@@ -2561,7 +2561,7 @@ Ano na ba iyon, sir? Prisión correccional. Ano iyong sabi mo, sir? Ano iyong pr
 **[02:27:53.870] Atty. Jeremy C. Lotoc**  
 Prisión correccional.
 
-**[02:27:55.450] Sen. Francis “Chiz” Escudero**  
+**[02:27:55.450] Sen. Francis "Chiz" G. Escudero**  
 Six months to six years.
 
 **[02:27:57.510] Atty. Mark C. Vinluan**  
@@ -2615,28 +2615,28 @@ Alright. Grave threats and inciting to sedition. You said that it is not high cr
 **[02:29:17.670] Atty. Amando Virgil D. Ligutan**  
 The witness didn't say that. Misleading.
 
-**[02:29:21.370] Sen. Francis “Chiz” Escudero**  
+**[02:29:21.370] Sen. Francis "Chiz" G. Escudero**  
 Misleading. Sustained. I'll
 
 **[02:29:24.020] Atty. Mark C. Vinluan**  
 just move on to a new point, Your Honor.
 
-**[02:29:29.970] Sen. Francis “Chiz” Escudero**  
+**[02:29:29.970] Sen. Francis "Chiz" G. Escudero**  
 Counsel may proceed.
 
-**[02:29:35.310] Sen. Francis “Chiz” Escudero**  
+**[02:29:35.310] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Rafi Tulfoy is recognized for his intervention.
 
-**[02:29:41.660] Sen. Francis “Chiz” Escudero**  
+**[02:29:41.660] Sen. Francis "Chiz" G. Escudero**  
 You have two minutes, sir.
 
-**[02:29:44.630] Sen. Raffy Tulfo**  
+**[02:29:44.630] Sen. Raffy T. Tulfo**  
 Thank you, Mr. Presiding Judge. Napag-usapan rin lang itong inciting to sedition. Nag-file ka ng kaso inciting to sedition against VP Sara based on dun sa utterances niya yung sa online presscon plus meron pa bang iba? Yes
 
 **[02:30:01.100] Atty. Jeremy C. Lotoc**  
 po, Your Honor. Yung basis po namin, una yung utterances in October 18, 2024. And then kinumpara po namin siya sa utterances in November 23, 2024.
 
-**[02:30:17.370] Sen. Raffy Tulfo**  
+**[02:30:17.370] Sen. Raffy T. Tulfo**  
 So meron bang elements of sedition doon sa mga utterances niyo?
 
 **[02:30:22.610] Atty. Jeremy C. Lotoc**  
@@ -2645,37 +2645,37 @@ Ang elements na ini-establish po namin which is under the law is whether or not 
 **[02:30:33.420] Atty. Jeremy C. Lotoc**  
 So how
 
-**[02:30:34.380] Sen. Raffy Tulfo**  
+**[02:30:34.380] Sen. Raffy T. Tulfo**  
 would you know kung mag-i-steer yun ng uprising o makukumbine sa mga tao na mag-alsa masa base doon sa utterances ng VP Sara? How did you know?
 
 **[02:30:44.580] Atty. Jeremy C. Lotoc**  
 Pangalawa, if I may explain, sir. Pangalawa ho, if the speeches would tend to disturb the peace of the community and If the speeches would tend to undermine public safety...
 
-**[02:30:58.010] Sen. Raffy Tulfo**  
+**[02:30:58.010] Sen. Raffy T. Tulfo**  
 So how would you know if it will tend to disturb or undermine the peace and order of the community? Paano mo malalaman based doon sa utterances niya?
 
 **[02:31:06.450] Atty. Jeremy C. Lotoc**  
 The fact ko na nag-issue ng statement yung mga government agencies tasked to protect national security at ang sabi ko nila that's an active threat, that's an issue of national security, so definitely na-disturb ko yung ating... How? Well, nag-alala ho ang nasa gobyerno. Kami ho, per se, yung sabi ko kanina… Nag
 
-**[02:31:29.950] Sen. Raffy Tulfo**  
+**[02:31:29.950] Sen. Raffy T. Tulfo**  
 -alala kayo o nag-alala yung taong bayan? Kasi iba yung nag-aalala kayo, kayo nasa gobyerno, kayo naging bisiga versus nag-aalala yung nakarinig at yung mga at that time ay nagsusubaybay doon sa mga sinasabi ng BP. Nag-alala
 
 **[02:31:45.310] Atty. Jeremy C. Lotoc**  
 po ang taong bayan, definitely.
 
-**[02:31:46.690] Sen. Raffy Tulfo**  
+**[02:31:46.690] Sen. Raffy T. Tulfo**  
 How?
 
 **[02:31:47.310] Atty. Jeremy C. Lotoc**  
 Well, marami ho kami nakita sa news. Sa comments ng social media.
 
-**[02:31:52.240] Sen. Raffy Tulfo**  
+**[02:31:52.240] Sen. Raffy T. Tulfo**  
 Comments. So that means you factored in yung comments and reactions sa social media doon sa ginawa niyang press conference, doon sa mga utterances niya kung ano yung reaction ng mga netizens na nakapanood.
 
 **[02:32:05.860] Atty. Jeremy C. Lotoc**  
 Yes po, Your Honor.
 
-**[02:32:07.280] Sen. Raffy Tulfo**  
+**[02:32:07.280] Sen. Raffy T. Tulfo**  
 At ano naman yung mga sinabi doon?
 
 **[02:32:09.540] Atty. Jeremy C. Lotoc**  
@@ -2684,73 +2684,73 @@ Well, yun nga.
 **[02:32:12.980] Atty. Jeremy C. Lotoc**  
 Yung iba nag-worry ano na ba yung mangyayari sa bansa natin, bakit magulo yung mga nasa taas. Ang iba nagsasabi, ano ba ito? Saan ba ito patungo? So
 
-**[02:32:23.560] Sen. Raffy Tulfo**  
+**[02:32:23.560] Sen. Raffy T. Tulfo**  
 hindi pa rin seditious yun. Nag-worry lang sila saan patungo. Ang seditious is, tama ka dyan BP Zarat. Go-go tayo. Gawin natin yan. Nasa likod niyo kami. Yun yung sedition.
 
 **[02:32:34.240] Atty. Jeremy C. Lotoc**  
 Meron nung ganun na comment din po, Your Honor.
 
-**[02:32:36.900] Sen. Raffy Tulfo**  
+**[02:32:36.900] Sen. Raffy T. Tulfo**  
 Meron?
 
 **[02:32:37.340] Atty. Jeremy C. Lotoc**  
 Meron po. In fact, doon…
 
-**[02:32:38.640] Sen. Raffy Tulfo**  
+**[02:32:38.640] Sen. Raffy T. Tulfo**  
 Ano yung
 
-**[02:32:38.980] Sen. Raffy Tulfo**  
+**[02:32:38.980] Sen. Raffy T. Tulfo**  
 comment na yun? Kung meron.
 
 **[02:32:41.740] Atty. Jeremy C. Lotoc**  
 Yung supporter po ng…
 
-**[02:32:43.700] Sen. Raffy Tulfo**  
+**[02:32:43.700] Sen. Raffy T. Tulfo**  
 Ano ang sinabi?
 
 **[02:32:45.500] Atty. Jeremy C. Lotoc**  
 Na… Yung nga, yung sa people power, yung sa nasa likod mo kami, kung ano yung... Nasa
 
-**[02:32:55.970] Sen. Raffy Tulfo**  
+**[02:32:55.970] Sen. Raffy T. Tulfo**  
 likod mo kami, people power, nabanggit yun sa comment section.
 
 **[02:33:00.040] Atty. Jeremy C. Lotoc**  
 Sa ano, Your Honor, during interview with the Vice President, doon sa November 23, 2024.
 
-**[02:33:07.200] Sen. Raffy Tulfo**  
+**[02:33:07.200] Sen. Raffy T. Tulfo**  
 So, meaning, binase mo, isa doon sa mga reasons kung bakit ka nag-file ng kasong sedition, base sa kaniyang utterances, dahil finactor-in mo iyong mga comments noong mga nakapanood?
 
 **[02:33:22.050] Atty. Jeremy C. Lotoc**  
 Yes, sir.
 
-**[02:33:22.690] Sen. Raffy Tulfo**  
+**[02:33:22.690] Sen. Raffy T. Tulfo**  
 Iyong sinasabing supporters?
 
 **[02:33:23.590] Atty. Jeremy C. Lotoc**  
 Yes, sir.
 
-**[02:33:24.410] Sen. Raffy Tulfo**  
+**[02:33:24.410] Sen. Raffy T. Tulfo**  
 Okay. Kasi pag sinabi ng mga nagko-comments, 'Nag-worry kami,' I don't think nandoon iyong elements of sedition. Maliban na pag sinabi na, 'Nasa likod mo kami. Let's do it. Go, go, go. Gagawin namin kung anong gusto mong gawin,' things to that effect.
 
 **[02:33:41.550] Atty. Jeremy C. Lotoc**  
 Was there? Were there? Comments like those? Meron na kami nakita sa mga Facebook comments, although hindi siya nasama, na hindi siya nasama dito sa investigation. At ano nga ulit, alimbawa? Yung mga Facebook comments, Your Honor, na nagsasabi, oh, lusubin na natin ang Malacanang, tapos may ganun na sign.
 
-**[02:34:01.530] Sen. Raffy Tulfo**  
+**[02:34:01.530] Sen. Raffy T. Tulfo**  
 Lusubin na natin ang Malacanang. Yan
 
 **[02:34:03.050] Atty. Jeremy C. Lotoc**  
 yung comments sa Facebook, yung mga nag-comment. At
 
-**[02:34:05.850] Sen. Raffy Tulfo**  
+**[02:34:05.850] Sen. Raffy T. Tulfo**  
 meron kang ebidensya tungkol diya.
 
-**[02:34:07.910] Sen. Raffy Tulfo**  
+**[02:34:07.910] Sen. Raffy T. Tulfo**  
 Hindi mo ito haka-haka lang?
 
 **[02:34:09.670] Atty. Jeremy C. Lotoc**  
 Kung babalikan ko po, iyon nga po ang sabi ko: during those times, siyempre nagba-browse ho kami. Iyon nga lamang, hindi namin naisama sa authentication.
 
-**[02:34:19.550] Sen. Francis “Chiz” Escudero**  
+**[02:34:19.550] Sen. Francis "Chiz" G. Escudero**  
 No further questions, Your Honor. Thank you, Senator-Judge Raffy Tulfo. The Senate President is recognized. He has two minutes as well.
 
 **[02:34:27.270] Sen. Sherwin T. Gatchalian**  
@@ -2825,13 +2825,13 @@ alam ko meron yan, pero nasa level na po yan ng intelligence service namin, Your
 **[02:38:12.600] Sen. Sherwin T. Gatchalian**  
 Thank you, Mr. Presiding Officer.
 
-**[02:38:15.840] Sen. Francis “Chiz” Escudero**  
+**[02:38:15.840] Sen. Francis "Chiz" G. Escudero**  
 Noted. Under the records, we thank the distinguished Senate President. What is the pleasure of Senator-Judge Legarda?
 
 **[02:38:33.340] Sen. Loren Legarda**  
 Mr. President, Mr. Presiding Officer, just a few questions.
 
-**[02:38:37.300] Sen. Francis “Chiz” Escudero**  
+**[02:38:37.300] Sen. Francis "Chiz" G. Escudero**  
 The lady has two minutes. You may proceed when you're ready.
 
 **[02:38:42.460] Sen. Loren Legarda**  
@@ -2972,7 +2972,7 @@ Atty. Lotoc, what I've been trying to ask is not just just the utterances which 
 **[02:49:05.400] Sen. Loren Legarda**  
 In short, para pong nakulangan ako, pero kung sinabi ninyong in-attach ninyo iyong transcript, so be it. But then, if you will read the fifty-plus pages again of your investigation, it seemed to me, at least at this point, that snapshots were taken focusing on October 18 and the utterances. But there seem to be events leading to it that may not have been included.
 
-**[02:49:45.200] Sen. Francis “Chiz” Escudero**  
+**[02:49:45.200] Sen. Francis "Chiz" G. Escudero**  
 With the indulgence of Senator-Judge Legarda, kindly wind up, ma'am.
 
 **[02:49:49.000] Sen. Loren Legarda**  
@@ -2990,10 +2990,10 @@ Should you not have asked the members of media and the others who were part of t
 **[02:51:06.020] Sen. Loren Legarda**  
 Thank you for answering my questions.
 
-**[02:51:08.900] Sen. Francis “Chiz” Escudero**  
+**[02:51:08.900] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Legarda. Senator Judge Pangilinan, you're recognized. Yes, thank you, Mr. President. And you
 
-**[02:51:15.260] Sen. Francis “Chiz” Escudero**  
+**[02:51:15.260] Sen. Francis "Chiz" G. Escudero**  
 may proceed when
 
 **[02:51:15.800] Sen. Francis “Kiko” Pangilinan**  
@@ -3071,7 +3071,7 @@ Thank you. Thank you. Thank
 **[02:54:34.990] Atty. Jeremy C. Lotoc**  
 you for your honor.
 
-**[02:54:37.160] Sen. Francis “Chiz” Escudero**  
+**[02:54:37.160] Sen. Francis "Chiz" G. Escudero**  
 What is the pleasure of Senator Judge Villanueva?
 
 **[02:54:41.080] Sen. Joel Villanueva**  
@@ -3128,7 +3128,7 @@ Yun po ba? Just for purposes of investigating itong inciting to sedition. Is it 
 **[02:59:31.380] Atty. Jeremy C. Lotoc**  
 Well, ang basis po namin, yung people versus nabong if I'm not mistaken, in order to be seditious yung speeches, It is not necessary na mayroong actual sedisyon. The law also penalizes or punishes those statements na mag-i-encourage to overthrow the government or to steer the people against the government or to disturb the peace of the community. Or to undermine public safety and public order. Thank you for the clarification. Thank you. Thank you,
 
-**[03:00:05.100] Sen. Francis “Chiz” Escudero**  
+**[03:00:05.100] Sen. Francis "Chiz" G. Escudero**  
 sir. Senator Judge Hercito, thereafter, Senator Judge Villar, Mark. What is your pleasure, sir?
 
 **[03:00:13.760] Sen. Joseph Victor “JV” Ejercito**  
@@ -3158,7 +3158,7 @@ you for your questions, Mr. Presiding Officer. Thank you,
 **[03:02:09.480] Atty. Jeremy C. Lotoc**  
 Senator Judge. Senator
 
-**[03:02:10.520] Sen. Francis “Chiz” Escudero**  
+**[03:02:10.520] Sen. Francis "Chiz" G. Escudero**  
 Judge Mark Villar, you have two minutes, sir.
 
 **[03:02:13.950] Sen. Mark A. Villar**  
@@ -3236,16 +3236,16 @@ Thank you. Importante po kasi na ma-define po natin kuno po yung grave threat, k
 **[03:06:22.700] Sen. Mark A. Villar**  
 Yes, Your Honor. Thank you very much, sir. Thank you, Your Honor. Thank you,
 
-**[03:06:25.120] Sen. Francis “Chiz” Escudero**  
+**[03:06:25.120] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Mark Villar, counsel for the respondent.
 
 **[03:06:29.380] Atty. Amando Virgil D. Ligutan**  
 Last few
 
-**[03:06:30.660] Sen. Francis “Chiz” Escudero**  
+**[03:06:30.660] Sen. Francis "Chiz" G. Escudero**  
 questions, sir. Apologies. Senator Judge Erwin Tulfo, you
 
-**[03:06:39.960] Sen. Francis “Chiz” Escudero**  
+**[03:06:39.960] Sen. Francis "Chiz" G. Escudero**  
 may proceed when you're ready, sir. You have no more than two minutes.
 
 **[03:06:43.020] Sen. Erwin Tulfo**  
@@ -3278,13 +3278,13 @@ Magiging kaguluhan. Although sabi ko nga po kanina, yung comments sa mga Faceboo
 **[03:09:16.900] Sen. Erwin Tulfo**  
 All right, thank you. Mr. Wittes.
 
-**[03:09:19.180] Sen. Francis “Chiz” Escudero**  
+**[03:09:19.180] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Erwin Tulfo. Counsel for the respondent, for the continuation of your cross, I heard you say... Last few
 
 **[03:09:27.410] Atty. Amando Virgil D. Ligutan**  
 questions, Your Honor.
 
-**[03:09:28.510] Sen. Francis “Chiz” Escudero**  
+**[03:09:28.510] Sen. Francis "Chiz" G. Escudero**  
 After the cross, before we direct, we shall pause for a 15-minute break. Council for the Respondent may proceed.
 
 **[03:09:37.020] Atty. Mark C. Vinluan**  
@@ -3335,13 +3335,13 @@ I cannot speak kung iyong situation na iyan. That's hypothetical, sir.
 **[03:10:52.820] Atty. Mark C. Vinluan**  
 Nothing further, Your Honors.
 
-**[03:10:54.020] Sen. Francis “Chiz” Escudero**  
+**[03:10:54.020] Sen. Francis "Chiz" G. Escudero**  
 Thank you, counsel for the respondent. Again, as stated by the Presiding Officer,
 
-**[03:11:01.090] Sen. Francis “Chiz” Escudero**  
+**[03:11:01.090] Sen. Francis "Chiz" G. Escudero**  
 wala pa kayong balak mag-break talaga.
 
-**[03:11:05.530] Sen. Francis “Chiz” Escudero**  
+**[03:11:05.530] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge Soto, let's give way to seniority. Thereafter, Senator Judge Pangilinan. You may
 
 **[03:11:16.510] Sen. Vicente C. Sotto III**  
@@ -3371,7 +3371,7 @@ you, po,
 **[03:12:20.760] Sen. Vicente C. Sotto III**  
 Your Honor.
 
-**[03:12:21.140] Sen. Francis “Chiz” Escudero**  
+**[03:12:21.140] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Sen. Judge Soto. Sen. Judge Pangilinan?
 
 **[03:12:23.720] Sen. Francis “Kiko” Pangilinan**  
@@ -3458,10 +3458,10 @@ Yes, Your Honor.
 **[03:15:49.520] Sen. Francis “Kiko” Pangilinan**  
 Okay, thank you. No other question for this part.
 
-**[03:15:51.740] Sen. Francis “Chiz” Escudero**  
+**[03:15:51.740] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Chair Declares.
 
-**[03:15:54.940] Sen. Francis “Chiz” Escudero**  
+**[03:15:54.940] Sen. Francis "Chiz" G. Escudero**  
 Do you want to do that now, Sen. Judge Padilla? Yes, Sen. Judge Padilla would like to interject before we go on a break. You may proceed, sir.
 
 **[03:16:06.580] Sen. Robinhood “Robin” Padilla**  
@@ -3557,7 +3557,7 @@ Your Honor, normal ho sa mga NBI agents na makakasuhan, in fact maging sa sino m
 **[03:19:57.130] Sen. Robinhood “Robin” Padilla**  
 Normal po yan yun sa amin. So yes po?
 
-**[03:20:00.770] Sen. Francis “Chiz” Escudero**  
+**[03:20:00.770] Sen. Francis "Chiz" G. Escudero**  
 Atty. Lotoc, kindly answer the question.
 
 **[03:20:02.430] Sen. Robinhood “Robin” Padilla**  
@@ -3734,22 +3734,22 @@ no po, ngayon po, ngayon po, Sir. Mahal naming saksi, ngayon po.
 **[03:27:37.200] Atty. Jeremy C. Lotoc**  
 Kung ako tatanungin, wala pa po akong idea pero baka meron ang intelligence service o ang director po naman. Atty. Loto,
 
-**[03:27:43.040] Sen. Francis “Chiz” Escudero**  
+**[03:27:43.040] Sen. Francis "Chiz" G. Escudero**  
 Atty. Lotoc, kindly answer the question directly. It's answered by yes or no, and I think you know the answer.
 
 **[03:27:50.340] Atty. Jeremy C. Lotoc**  
 Ako personally wala pa po, sir. Yun lang po. Maraming salamat po. Mahalo sa aksi. Thank you, sir.
 
-**[03:27:55.440] Sen. Francis “Chiz” Escudero**  
+**[03:27:55.440] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Sen. Judge Padilla. Chair declares a 15-minute recess. We shall resume at 5.38. At exactly 5.38. Trial is on short recess.
 
-**[03:44:54.800] Sen. Francis “Chiz” Escudero**  
+**[03:44:54.800] Sen. Francis "Chiz" G. Escudero**  
 Atty. Lotoc, you are still testifying and you will be on redirect by counsel for the prosecutors. You are going to testify still under the same oath?
 
 **[03:45:04.900] Atty. Jeremy C. Lotoc**  
 Yes, Your Honor.
 
-**[03:45:05.500] Sen. Francis “Chiz” Escudero**  
+**[03:45:05.500] Sen. Francis "Chiz" G. Escudero**  
 That you took yesterday. Chair notes that the witness understands that he is under the same oath. Counsel for the prosecutors, Atty. Ligutan, you may proceed with your redirect if you have any.
 
 **[03:45:17.500] Atty. Amando Virgil D. Ligutan**  
@@ -3803,31 +3803,31 @@ Yes, sir.
 **[03:47:03.710] Atty. Amando Virgil D. Ligutan**  
 Now, Your Honor, I move that the same video, marked as Exhibit P-Roman Numeral IV-13, be played for consideration of the witness and the Court.
 
-**[03:47:22.500] Sen. Francis “Chiz” Escudero**  
+**[03:47:22.500] Sen. Francis "Chiz" G. Escudero**  
 So directed.
 
-**[03:47:26.550] Sen. Francis “Chiz” Escudero**  
+**[03:47:26.550] Sen. Francis "Chiz" G. Escudero**  
 Is it in a USB? Is that in the USB? Yes,
 
 **[03:47:29.380] Atty. Amando Virgil D. Ligutan**  
 Your Honor.
 
-**[03:47:29.800] Sen. Francis “Chiz” Escudero**  
+**[03:47:29.800] Sen. Francis "Chiz" G. Escudero**  
 So you will again have to break the seal?
 
 **[03:47:32.280] Atty. Amando Virgil D. Ligutan**  
 Yes, Your Honor.
 
-**[03:47:35.060] Sen. Francis “Chiz” Escudero**  
+**[03:47:35.060] Sen. Francis "Chiz" G. Escudero**  
 Mr. Witness, kindly break the seal.
 
 **[03:47:41.000] Atty. Jeremy C. Lotoc**  
 Yes, Your Honor.
 
-**[03:47:42.100] Sen. Francis “Chiz” Escudero**  
+**[03:47:42.100] Sen. Francis "Chiz" G. Escudero**  
 In front of the assisting counsels for both the prosecutor and the respondent.
 
-**[03:47:57.200] Sen. Francis “Chiz” Escudero**  
+**[03:47:57.200] Sen. Francis "Chiz" G. Escudero**  
 Counsel, do you know the time stamp?
 
 **[03:48:02.540] Atty. Amando Virgil D. Ligutan**  
@@ -3845,13 +3845,13 @@ As a democratic country we need to uphold the rule of law.
 **[03:50:14.850] President Ferdinand R. Marcos Jr.**  
 Ako, bilang pinuno ng executive department, at lahat ng mga nanunungkulan sa pamahalaan, ay may sinumpaang tungkulin na tutupdin at pangangalagaan ang Konstitusyon at ang ating mga batas. Kaya hindi tama ang pagpigil sa mga halal ng bayan sa paghahanap ng katotohanan. Hindi na sana hahantong sa ganitong drama kung sasagutin lamang ang mga lehitimong katanungan sa Senado at sa House of Representatives.
 
-**[03:50:47.340] Sen. Francis “Chiz” Escudero**  
+**[03:50:47.340] Sen. Francis "Chiz" G. Escudero**  
 The tech is instructed to kindly pause and cease the playing of the video.
 
 **[03:50:54.200] Atty. Amando Virgil D. Ligutan**  
 May I proceed, Your Honor?
 
-**[03:50:55.520] Sen. Francis “Chiz” Escudero**  
+**[03:50:55.520] Sen. Francis "Chiz" G. Escudero**  
 You may proceed, sir.
 
 **[03:50:56.400] Atty. Amando Virgil D. Ligutan**  
@@ -3893,10 +3893,10 @@ Objection on the
 **[03:52:21.110] Atty. Amando Virgil D. Ligutan**  
 use of the word threat, your honor. Kindly let him finish his
 
-**[03:52:24.370] Sen. Francis “Chiz” Escudero**  
+**[03:52:24.370] Sen. Francis "Chiz" G. Escudero**  
 question, counsel.
 
-**[03:52:29.050] Sen. Francis “Chiz” Escudero**  
+**[03:52:29.050] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the prosecutor, finish your question. Yes, your honor,
 
 **[03:52:31.170] Atty. Amando Virgil D. Ligutan**  
@@ -3908,7 +3908,7 @@ Objection, Your
 **[03:52:51.440] Atty. Amando Virgil D. Ligutan**  
 Honor, leading. Your Honor, that's just the basis, Your Honor. I mean, in fact...
 
-**[03:52:54.880] Sen. Francis “Chiz” Escudero**  
+**[03:52:54.880] Sen. Francis "Chiz" G. Escudero**  
 Witness may answer.
 
 **[03:52:56.440] Atty. Jeremy C. Lotoc**  
@@ -3923,16 +3923,16 @@ It is sealed. I move that the defense may also observe the
 **[03:53:32.100] Atty. Amando Virgil D. Ligutan**  
 unsealing of such document. Let
 
-**[03:53:36.640] Sen. Francis “Chiz” Escudero**  
+**[03:53:36.640] Sen. Francis "Chiz" G. Escudero**  
 the witness be the one to unseal it in full view of councils for both parties. Thereafter, take as instructed to kindly play. The time stamp to be identified by the counsel for the prosecutors. And
 
 **[03:53:50.360] Atty. Amando Virgil D. Ligutan**  
 the time stamp is 10 minutes to 40 seconds to 11 minutes 50 seconds.
 
-**[03:53:59.090] Sen. Francis “Chiz” Escudero**  
+**[03:53:59.090] Sen. Francis "Chiz" G. Escudero**  
 For the record, assisting counsel for the prosecutor accompanied by assisting counsel for the respondent are
 
-**[03:54:14.060] Sen. Francis “Chiz” Escudero**  
+**[03:54:14.060] Sen. Francis "Chiz" G. Escudero**  
 bringing the USB to the tech booth to be played.
 
 **[03:55:10.270] Vice President Sara Zimmerman Duterte**  
@@ -3968,13 +3968,13 @@ Your Honor, I invoke Rule 130, Section 53 of the Rules of Courts. If I may read.
 **[03:57:54.780] Atty. Mark C. Vinluan**  
 Your Honor. Comment. Your Honor, the rules provide that the person should be sufficiently acquainted, Your Honor. Oh, no. And that is not the case here, so such rule does not apply. Your
 
-**[03:58:04.440] Sen. Francis “Chiz” Escudero**  
+**[03:58:04.440] Sen. Francis "Chiz" G. Escudero**  
 Honor. Overruled. Witness may answer if he
 
-**[03:58:06.600] Sen. Francis “Chiz” Escudero**  
+**[03:58:06.600] Sen. Francis "Chiz" G. Escudero**  
 if you know. Atty. Lotoc, kindly answer if you know.
 
-**[03:58:08.640] Sen. Francis “Chiz” Escudero**  
+**[03:58:08.640] Sen. Francis "Chiz" G. Escudero**  
 kindly answer if you know.
 
 **[03:58:10.080] Atty. Amando Virgil D. Ligutan**  
@@ -4010,16 +4010,16 @@ are just preliminary questions. This
 **[03:59:33.140] Atty. Amando Virgil D. Ligutan**  
 is the purpose of redirect. Let's
 
-**[03:59:35.420] Sen. Francis “Chiz” Escudero**  
+**[03:59:35.420] Sen. Francis "Chiz" G. Escudero**  
 move on. Let's move on, Councils. We all know what we're talking about here. Witness may answer.
 
 **[03:59:41.920] Atty. Amando Virgil D. Ligutan**  
 Did you consider that statement, that fact that it was only in response to Princess Maui's statement? If any, if at all.
 
-**[03:59:51.930] Sen. Francis “Chiz” Escudero**  
+**[03:59:51.930] Sen. Francis "Chiz" G. Escudero**  
 Objection leading.
 
-**[03:59:54.150] Sen. Francis “Chiz” Escudero**  
+**[03:59:54.150] Sen. Francis "Chiz" G. Escudero**  
 Witness may answer.
 
 **[03:59:56.970] Atty. Jeremy C. Lotoc**  
@@ -4064,7 +4064,7 @@ Did he, in fact, intervene—the President—in your investigation?
 **[04:01:51.200] Atty. Mark C. Vinluan**  
 Objection, Your Honor. Leading.
 
-**[04:01:58.000] Sen. Francis “Chiz” Escudero**  
+**[04:01:58.000] Sen. Francis "Chiz" G. Escudero**  
 If you know, the witness may answer.
 
 **[04:01:59.320] Atty. Jeremy C. Lotoc**  
@@ -4088,7 +4088,7 @@ Basis of your findings. Objection,
 **[04:02:34.980] Atty. Mark C. Vinluan**  
 Vague?
 
-**[04:02:37.120] Sen. Francis “Chiz” Escudero**  
+**[04:02:37.120] Sen. Francis "Chiz" G. Escudero**  
 Objection, there's an objection.
 
 **[04:02:39.740] Atty. Jeremy C. Lotoc**  
@@ -4187,7 +4187,7 @@ Your Honor, I do remember. Despite that, counsel asked several questions after t
 **[04:07:36.330] Atty. Mark C. Vinluan**  
 Your Honor, he mentioned that he does not have personal knowledge.
 
-**[04:07:42.150] Sen. Francis “Chiz” Escudero**  
+**[04:07:42.150] Sen. Francis "Chiz" G. Escudero**  
 Counsel, if he gives a different answer, then you can address that in your recross. Witness may answer.
 
 **[04:07:52.970] Atty. Amando Virgil D. Ligutan**  
@@ -4199,7 +4199,7 @@ Again, Your Honor—
 **[04:07:59.600] Atty. Mark C. Vinluan**  
 Objection, Your Honor. He won't be competent to answer that because docket numbers are assigned by the DOJ, not by the NBI.
 
-**[04:08:05.310] Sen. Francis “Chiz” Escudero**  
+**[04:08:05.310] Sen. Francis "Chiz" G. Escudero**  
 that's the point. Again, counsel, let him answer. If he answers that he's not competent, then that's his answer. Witness may answer.
 
 **[04:08:13.130] Atty. Jeremy C. Lotoc**  
@@ -4208,7 +4208,7 @@ Well, kung docket number lang ho ang pag-uusapan, hindi ho nawala yung existence
 **[04:08:23.430] Atty. Jeremy C. Lotoc**  
 Hindi rin ho nabago na ang Vice President ay nagsalita na meron na siyang kinausap na tao.
 
-**[04:08:25.830] Sen. Francis “Chiz” Escudero**  
+**[04:08:25.830] Sen. Francis "Chiz" G. Escudero**  
 your answer is not responsive though. Kindly answer the question of the council.
 
 **[04:08:30.810] Atty. Amando Virgil D. Ligutan**  
@@ -4250,13 +4250,13 @@ The same docs that I mentioned, sir.
 **[04:11:57.070] Atty. Amando Virgil D. Ligutan**  
 Your honors, at this juncture we move that the letter dated February 11, 2025 by Director Santiago identified by the witness where the NBI informed the DOJ that it already complied with all the requirements. Be marked as exhibit P-Roman numeral 4-34 for the prosecution.
 
-**[04:12:18.620] Sen. Francis “Chiz” Escudero**  
+**[04:12:18.620] Sen. Francis "Chiz" G. Escudero**  
 This is not yet premarked, counsel. Not
 
 **[04:12:20.740] Atty. Amando Virgil D. Ligutan**  
 yet premarked. Introduced in response to the cross-examination by the defense.
 
-**[04:12:25.940] Sen. Francis “Chiz” Escudero**  
+**[04:12:25.940] Sen. Francis "Chiz" G. Escudero**  
 Comment from the counsel for respondent.
 
 **[04:12:30.740] Atty. Mark C. Vinluan**  
@@ -4277,19 +4277,19 @@ Counsel may proceed.
 **[04:12:43.320] Atty. Amando Virgil D. Ligutan**  
 Right on cue, we have a certified true copy of the same. We invite the defense.
 
-**[04:12:50.200] Sen. Francis “Chiz” Escudero**  
+**[04:12:50.200] Sen. Francis "Chiz" G. Escudero**  
 Assisting counsel for the respondent, kindly confirm.
 
 **[04:13:18.820] Atty. Amando Virgil D. Ligutan**  
 May we have a stipulation from the defense?
 
-**[04:13:25.010] Sen. Francis “Chiz” Escudero**  
+**[04:13:25.010] Sen. Francis "Chiz" G. Escudero**  
 Is the photocopy a faithful reproduction of the original or certified true copy presented by the assisting counsel for the prosecutor?
 
 **[04:13:38.390] Atty. Mark C. Vinluan**  
 For the record, Your Honor, it's a photocopy.
 
-**[04:13:41.530] Sen. Francis “Chiz” Escudero**  
+**[04:13:41.530] Sen. Francis "Chiz" G. Escudero**  
 Is it a certified true copy, counsel?
 
 **[04:13:44.860] Atty. Amando Virgil D. Ligutan**  
@@ -4301,7 +4301,7 @@ Compared with a photocopy, so we are moving for a stipulation that the photocopy
 **[04:13:57.340] Atty. Mark C. Vinluan**  
 Same manifestation, Your Honor.
 
-**[04:13:59.140] Sen. Francis “Chiz” Escudero**  
+**[04:13:59.140] Sen. Francis "Chiz" G. Escudero**  
 Noted.
 
 **[04:13:59.920] Atty. Amando Virgil D. Ligutan**  
@@ -4313,7 +4313,7 @@ I think... First page, the last paragraph, which says: It is to be emphasized th
 **[04:14:47.150] Atty. Amando Virgil D. Ligutan**  
 Okay. Thank you so much. May proceed, Your Honor?
 
-**[04:14:51.400] Sen. Francis “Chiz” Escudero**  
+**[04:14:51.400] Sen. Francis "Chiz" G. Escudero**  
 You may proceed, Counsel.
 
 **[04:14:52.240] Atty. Amando Virgil D. Ligutan**  
@@ -4322,7 +4322,7 @@ Mr. Witness, you were asked whether the NBI already identified the particular in
 **[04:15:39.170] Atty. Mark C. Vinluan**  
 that. Objection, Your Honor, on the use of the word contracted. We never said contracted.
 
-**[04:15:43.550] Sen. Francis “Chiz” Escudero**  
+**[04:15:43.550] Sen. Francis "Chiz" G. Escudero**  
 Reform Council.
 
 **[04:15:45.920] Atty. Amando Virgil D. Ligutan**  
@@ -4355,7 +4355,7 @@ Ibig sabihin, may intention doon ang vice-presidente, base doon sa mga utterance
 **[04:19:23.150] Atty. Mark C. Vinluan**  
 Objection, Your Honor. The answer is already based on his own interpretation. May we move, Your Honor, that it be stricken from the record?
 
-**[04:19:29.630] Sen. Francis “Chiz” Escudero**  
+**[04:19:29.630] Sen. Francis "Chiz" G. Escudero**  
 Whose interpretation should he be answering? Witness will please complete his answer, and then the Chair will consider the objection of counsel for respondent.
 
 **[04:19:40.770] Atty. Jeremy C. Lotoc**  
@@ -4370,7 +4370,7 @@ move to strike it off the record considering that he included conclusions of law
 **[04:19:56.470] Atty. Amando Virgil D. Ligutan**  
 I mean, you have been asking questions on the basis of law and we did not complain. Now I'm asking question to him as a lawyer. Counsel, please,
 
-**[04:20:05.070] Sen. Francis “Chiz” Escudero**  
+**[04:20:05.070] Sen. Francis "Chiz" G. Escudero**  
 motion is denied. Let it remain in the record for whatever purpose it may serve. Let the senator judges give it its due weight according to their discretion. Witness, rather counsel may proceed. Thank you so much.
 
 **[04:20:17.640] Atty. Amando Virgil D. Ligutan**  
@@ -4379,7 +4379,7 @@ Mr. Witness, you were also asked about the NBI's alleged lack of coordination wi
 **[04:20:38.200] Atty. Mark C. Vinluan**  
 Objection, Your Honor. It was not covered by my cross-examination. It was a query from one of the Senator-Judges.
 
-**[04:20:45.140] Sen. Francis “Chiz” Escudero**  
+**[04:20:45.140] Sen. Francis "Chiz" G. Escudero**  
 In the discretion of the court, the counsel can ask questions not covered by the cross-examination. We'll allow it.
 
 **[04:20:53.480] Atty. Amando Virgil D. Ligutan**  
@@ -4442,13 +4442,13 @@ Okay now, again, what was the response? At the vice president to the NBI's offic
 **[04:26:04.140] Atty. Mark C. Vinluan**  
 Objection, Your Honor.
 
-**[04:26:05.200] Sen. Francis “Chiz” Escudero**  
+**[04:26:05.200] Sen. Francis "Chiz" G. Escudero**  
 What is it, counsel?
 
 **[04:26:08.940] Atty. Mark C. Vinluan**  
 That is misleading, your honor, because the subpoena was for her to answer.
 
-**[04:26:15.920] Sen. Francis “Chiz” Escudero**  
+**[04:26:15.920] Sen. Francis "Chiz" G. Escudero**  
 I think he mentioned letter, counsel. I heard letter, if I'm not mistaken.
 
 **[04:26:20.500] Atty. Amando Virgil D. Ligutan**  
@@ -4487,7 +4487,7 @@ Exactly. He's a lawyer.
 **[04:28:27.700] Atty. Mark C. Vinluan**  
 Opinion, Your Honor. He's not an expert on the matter. He's a lawyer.
 
-**[04:28:31.040] Sen. Francis “Chiz” Escudero**  
+**[04:28:31.040] Sen. Francis "Chiz" G. Escudero**  
 Witness may answer if he knows.
 
 **[04:28:33.020] Atty. Jeremy C. Lotoc**  
@@ -4508,13 +4508,13 @@ Objection, Your Honor. That will call for a conclusion of law already. And as a 
 **[04:30:20.500] Atty. Amando Virgil D. Ligutan**  
 The Council will propound the questions on also issues of law felony versus crime. What is the penalty? I'm also asking the same line of questions, Your Honor. What is sauce for the goose should also be sauce for the gander, Your Honor.
 
-**[04:30:35.760] Sen. Francis “Chiz” Escudero**  
+**[04:30:35.760] Sen. Francis "Chiz" G. Escudero**  
 A similar question was asked by the Council for the respondent and the witness may answer if he knows. If he knows.
 
 **[04:30:42.640] Atty. Jeremy C. Lotoc**  
 Yes, Your Honor, as a lawyer.
 
-**[04:30:46.010] Sen. Francis “Chiz” Escudero**  
+**[04:30:46.010] Sen. Francis "Chiz" G. Escudero**  
 She betrayed public
 
 **[04:30:47.090] Atty. Jeremy C. Lotoc**  
@@ -4535,7 +4535,7 @@ Objection, Your Honor. The Vice President. Speculative. Ashkahn answered. The Vi
 **[04:31:20.240] Atty. Amando Virgil D. Ligutan**  
 No more redirect, Your Honor.
 
-**[04:31:23.060] Sen. Francis “Chiz” Escudero**  
+**[04:31:23.060] Sen. Francis "Chiz" G. Escudero**  
 Before recognizing counsel for respondent for recross, the Chair would like to recognize Senate President Gatchalian for his interjection. You may proceed, sir, and you have two minutes.
 
 **[04:31:35.100] Sen. Sherwin T. Gatchalian**  
@@ -4658,10 +4658,10 @@ Alam naman po natin yung background na yung tatay niya na dating presidente ay h
 **[04:37:08.650] Atty. Jeremy C. Lotoc**  
 So, tinignan namin yon na indeed being in that situation, may capability ho aside from the fact na vice-presidente siya.
 
-**[04:37:16.990] Sen. Francis “Chiz” Escudero**  
+**[04:37:16.990] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Mr. Presiding Officer.
 
-**[04:37:20.450] Sen. Francis “Chiz” Escudero**  
+**[04:37:20.450] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Ejercito, thereafter, Senator Judge Ontiveros for their interjections. You may proceed, sir, when you're ready.
 
 **[04:37:29.610] Sen. Joseph Victor “JV” Ejercito**  
@@ -4724,7 +4724,7 @@ That's... much persistence, kung i-establish po natin iyong persistence, Your Ho
 **[04:42:17.080] Sen. Joseph Victor “JV” Ejercito**  
 Maraming salamat, Atty. Lotoc. That's all. No further questions, Mr. Presiding Officer. Thank you, Sen. Judge Ejercito.
 
-**[04:42:23.240] Sen. Francis “Chiz” Escudero**  
+**[04:42:23.240] Sen. Francis "Chiz" G. Escudero**  
 Sen. Judge Ontiveros, you may proceed, ma'am, when you're ready. You have 10 minutes.
 
 **[04:42:31.180] Sen. Risa Hontiveros**  
@@ -4811,52 +4811,52 @@ Opo, Your Honor.
 **[04:46:59.020] Sen. Risa Hontiveros**  
 Salamat po, Mr. Witness. Salamat po, Presiding Officer.
 
-**[04:47:01.930] Sen. Francis “Chiz” Escudero**  
+**[04:47:01.930] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Antiveros. Senator Judge Rafi Tulfo, thereafter, Senator Judge Alan Cayetano, before the recross of counsel for respondent, if any. Senator Judge Tulfo, you may proceed and you have two minutes.
 
-**[04:47:13.250] Sen. Raffy Tulfo**  
+**[04:47:13.250] Sen. Raffy T. Tulfo**  
 Thank you, Mr. Presiding Officer. Mr. Witness, aware ba kayo at one point in time, I just don't remember what date was it, na pinulled out yung certain numbers of security personnel ni BP Sara?
 
 **[04:47:28.950] Atty. Jeremy C. Lotoc**  
 Yes, Your Honor. Based on the news, may nakita po kami nun.
 
-**[04:47:31.650] Sen. Raffy Tulfo**  
+**[04:47:31.650] Sen. Raffy T. Tulfo**  
 When was that? When did that happen?
 
 **[04:47:36.120] Atty. Jeremy C. Lotoc**  
 2024 yata, yung 75 PNP personnel from BPSPG, Sir.
 
-**[04:47:41.180] Sen. Raffy Tulfo**  
+**[04:47:41.180] Sen. Raffy T. Tulfo**  
 Was that before the utterance of PPSPG sa Prescon or after?
 
 **[04:47:45.740] Atty. Jeremy C. Lotoc**  
 Before, Sir. Before? I think that's before, Sir.
 
-**[04:47:49.220] Sen. Raffy Tulfo**  
+**[04:47:49.220] Sen. Raffy T. Tulfo**  
 So would it be possible na because of that, nakapag-isip siya na mayroon threat against her life?
 
-**[04:47:56.690] Sen. Raffy Tulfo**  
+**[04:47:56.690] Sen. Raffy T. Tulfo**  
 iyong security niya being pulled out, and walang binigay na reason kung bakit. Kaya maaaring iniisip niya na, well, medyo, sabi nga, sakali na praning—
 
 **[04:48:07.330] Atty. Jeremy C. Lotoc**  
 Very much possible, sir. Opo.
 
-**[04:48:10.430] Sen. Raffy Tulfo**  
+**[04:48:10.430] Sen. Raffy T. Tulfo**  
 But hindi ninyo ba inimbestigahan bakit na-pull out iyong security details niya?
 
 **[04:48:15.230] Atty. Jeremy C. Lotoc**  
 May nakita kami doon sa November 26 na video. Nalimutan ko lang iyong timestamp niya. May sinasabi siyang issue sa security niya. Doon nga sa BPSPG, parang from military attached unit, ginawang under na ng Presidential Security Command. I'm not familiar with that.
 
-**[04:48:45.660] Sen. Raffy Tulfo**  
+**[04:48:45.660] Sen. Raffy T. Tulfo**  
 Sino pong nag-cause ng pull out? Sino pong nag-utos? Saan galing yung utos?
 
 **[04:48:53.000] Atty. Jeremy C. Lotoc**  
 Atty. Dico Hu, siya masyado. Pero I think part ng reorganization, Your Honor, ng PSG if I'm not mistaken.
 
-**[04:48:59.400] Sen. Raffy Tulfo**  
+**[04:48:59.400] Sen. Raffy T. Tulfo**  
 Part ng reorganization. So, ilan po yung napulo? 75?
 
-**[04:49:05.080] Sen. Raffy Tulfo**  
+**[04:49:05.080] Sen. Raffy T. Tulfo**  
 Hindi ko
 
 **[04:49:06.020] Atty. Jeremy C. Lotoc**  
@@ -4865,10 +4865,10 @@ pa alam kung yan yun. Ang sinasabi ko po, Your Honor, yung dating BPSPG is under
 **[04:49:20.210] Atty. Jeremy C. Lotoc**  
 Presidential Security Command. Yun po yung sinabi ng Vice Presidente during November 26 na security threat dahil doon sa event na yon. Yun po yung tinignan namin. Tinignan din namin yan. Pati nga yung 75 personnel. Kaya lang again, hindi po siya sufficient na mag-establish ng apparent violation of any criminal offense. Kasi nga, para siyang normal na function ng
 
-**[04:49:46.770] Sen. Raffy Tulfo**  
+**[04:49:46.770] Sen. Raffy T. Tulfo**  
 agencies and departments. Yeah, Mr. Huertas, yung sa akin na kasi yung pag-pull out ba ng security, was it sudden? Did it, I mean, ano yung naging dahilan? At kanino galing yung order para i-pull out yung ilang numbers of security details niya, particularly PNP? And then sabi nyo nga, yung sa PSG, nabawasan din ba? Base sa inyong investigation, bakit nga po nangyari yun?
 
-**[04:50:15.490] Sen. Raffy Tulfo**  
+**[04:50:15.490] Sen. Raffy T. Tulfo**  
 Agencies and Departments Anong nag-trigger noon?
 
 **[04:50:17.650] Atty. Jeremy C. Lotoc**  
@@ -4877,7 +4877,7 @@ Opo, iyong sa 75, ang naalala ko po sa news, parang inilipat ho sila, Your Honor
 **[04:50:39.050] Atty. Jeremy C. Lotoc**  
 ng PNP bakit mayroong ganoong pullout. Then, noong nakita ho namin ilan na lang iyong natira sa Vice President, noong chineck ho namin iyong news, iyong per record ng COA, if I'm not mistaken, meron pa siyang 335 na security personnel.
 
-**[04:50:56.980] Sen. Raffy Tulfo**  
+**[04:50:56.980] Sen. Raffy T. Tulfo**  
 Ah, so marami pang naiwan?
 
 **[04:50:58.840] Atty. Jeremy C. Lotoc**  
@@ -4889,16 +4889,16 @@ Yung bilang na yan, mas marami pa doon sa bilang ng mga security personnel ng Pr
 **[04:51:14.080] Atty. Jeremy C. Lotoc**  
 nakita ko namin na hindi sa sufficient para maging valid basis ng investigation. Hindi ko katulad dito sa threat against the president na apparent po yung utterances na nangyayari.
 
-**[04:51:30.620] Sen. Raffy Tulfo**  
+**[04:51:30.620] Sen. Raffy T. Tulfo**  
 Okay, dalawang katulungan na lamang, Mr. Witness. So base sa inyong investigasyon at karanasan, Ilan ba dapat ang security detail ng isang vice president?
 
 **[04:51:40.290] Atty. Jeremy C. Lotoc**  
 Sorry po, Your Honor. Wala po akong idea kung ilan po dapat. Last
 
-**[04:51:44.990] Sen. Raffy Tulfo**  
+**[04:51:44.990] Sen. Raffy T. Tulfo**  
 na lamang. So nung na-pull out yung ilan sa mga security personnel niya, sabi niyo nga 75, right? PNP and then meron pa ating sa PSG. Nagreklamo ba siya?
 
-**[04:51:57.180] Sen. Raffy Tulfo**  
+**[04:51:57.180] Sen. Raffy T. Tulfo**  
 Sa inyong pagkakaalam?
 
 **[04:51:59.660] Atty. Jeremy C. Lotoc**  
@@ -4907,25 +4907,25 @@ Doon sa November 26, Your Honor, I think ang isa sa
 **[04:52:03.220] Atty. Jeremy C. Lotoc**  
 issue niya na may threat sa security is yung paglipat ng BBSPG. From attached unit ng AFP na maging under siya ng Presidential Security Command. Yun po yung narinig namin. Pero yun dito sa 75 personnel, insofar as I'm concerned, wala akong nakita sa reports, sa news, sa social media na nagreklamo siya na nawala yung 75. Pero baka malihaw ako, baka mayroon akong hindi nakita. Pero insofar as I'm concerned, Wala akong nakita sa news na nagreklamo siya doon sa 75 transfer ng PNP personnel from BPSPG dinala doon sa Manila, Your Honor.
 
-**[04:52:44.220] Sen. Raffy Tulfo**  
+**[04:52:44.220] Sen. Raffy T. Tulfo**  
 At hindi na siya nag-request ng augmentation o dagdag doon sa mga nawala na security detail?
 
 **[04:52:50.180] Atty. Jeremy C. Lotoc**  
 Mukhang hindi na po, Your Honor. Wala akong kaming nalaman kung may nirequest ba siyang dagdag.
 
-**[04:52:55.620] Sen. Raffy Tulfo**  
+**[04:52:55.620] Sen. Raffy T. Tulfo**  
 So is it possible na dahil doon sa pag-pull out ng security details, nasabi ko na kanina, tonight, tanong ko na again one more time, na...
 
-**[04:53:03.960] Sen. Raffy Tulfo**  
+**[04:53:03.960] Sen. Raffy T. Tulfo**  
 Yun yun probably ang tinitingnan na reasons ng mga sumusuporta sa kanya, siya or anybody sa circle niya na eto na siguro yun.
 
 **[04:53:15.750] Atty. Jeremy C. Lotoc**  
 Tama po kayo, Your Honor.
 
-**[04:53:17.230] Sen. Raffy Tulfo**  
+**[04:53:17.230] Sen. Raffy T. Tulfo**  
 Thank you.
 
-**[04:53:18.610] Sen. Francis “Chiz” Escudero**  
+**[04:53:18.610] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Alan Caetano, you have two minutes, sir. You may proceed when you're ready.
 
 **[04:53:23.280] Sen. Alan Peter Cayetano**  
@@ -5015,7 +5015,7 @@ Yes, sir. The fact na inuttered niya yun. Oh,
 **[04:57:06.380] Sen. Alan Peter Cayetano**  
 which one nga? So, meron ilan at ano yun? A little bit leeway, Mr. Presiding Officer, kasi hindi natukoy masyado yung tanong.
 
-**[04:57:15.140] Sen. Francis “Chiz” Escudero**  
+**[04:57:15.140] Sen. Francis "Chiz" G. Escudero**  
 Senators, judge, may proceed.
 
 **[04:57:18.150] Sen. Alan Peter Cayetano**  
@@ -5045,7 +5045,7 @@ Ang tinutukoy ko lang po again, Your Honor, yung 23.
 **[04:57:54.850] Sen. Alan Peter Cayetano**  
 Wala po yung 23. I'm sorry. I don't care, Mr. Presiding Officer, kung anong tinutukoy mo. I'm asking you a direct question. November 23, video. Meron o wala siyang admissions against your interest doon?
 
-**[04:58:10.280] Sen. Francis “Chiz” Escudero**  
+**[04:58:10.280] Sen. Francis "Chiz" G. Escudero**  
 Atty. Lotoc, yes, no, I do not know, I do not remember. We're referring to November 23, not 26.
 
 **[04:58:18.860] Atty. Jeremy C. Lotoc**  
@@ -5153,7 +5153,7 @@ No, Your Honor. Yung sinasabi kong may cyber aspect, the utterance was made thro
 **[05:02:39.160] Sen. Alan Peter Cayetano**  
 Through cyber. And the utterance... In accordance with you, constitute grade threat.
 
-**[05:02:45.160] Sen. Panfilo M. Lacson**  
+**[05:02:45.160] Sen. Panfilo “Ping” M. Lacson**  
 Yes, sir.
 
 **[05:02:45.780] Sen. Alan Peter Cayetano**  
@@ -5192,7 +5192,7 @@ Your Honor, yung cyber aspect, based on the law, mag-a-add siya ng one degree hi
 **[05:03:42.770] Sen. Alan Peter Cayetano**  
 So, magde-debate tayo kung anong higher: papabayaan mong mapatay ang Presidente?
 
-**[05:03:48.070] Sen. Francis “Chiz” Escudero**  
+**[05:03:48.070] Sen. Francis "Chiz" G. Escudero**  
 winding up.
 
 **[05:03:49.890] Sen. Alan Peter Cayetano**  
@@ -5216,13 +5216,13 @@ anyone of my colleagues here become president, magbago yung attitude ng NBI. Mas
 **[05:04:25.990] Sen. Alan Peter Cayetano**  
 you, Mr. President.
 
-**[05:04:27.190] Sen. Francis “Chiz” Escudero**  
+**[05:04:27.190] Sen. Francis "Chiz" G. Escudero**  
 Noted. Council correspondent is recognized for his recross, if any.
 
 **[05:04:32.330] Atty. Mark C. Vinluan**  
 Just a few points, Your Honor.
 
-**[05:04:34.110] Sen. Francis “Chiz” Escudero**  
+**[05:04:34.110] Sen. Francis "Chiz" G. Escudero**  
 You may proceed, sir, when you're ready.
 
 **[05:04:36.680] Atty. Mark C. Vinluan**  
@@ -5291,13 +5291,13 @@ the answer.
 **[05:07:19.880] Atty. Jeremy C. Lotoc**  
 Consistent po yung...
 
-**[05:07:22.580] Sen. Francis “Chiz” Escudero**  
+**[05:07:22.580] Sen. Francis "Chiz" G. Escudero**  
 What was that, counsel, for responding?
 
 **[05:07:24.840] Atty. Mark C. Vinluan**  
 We are already satisfied. No need to
 
-**[05:07:26.980] Sen. Francis “Chiz” Escudero**  
+**[05:07:26.980] Sen. Francis "Chiz" G. Escudero**  
 elaborate. I think already answered. Yes.
 
 **[05:07:28.920] Atty. Mark C. Vinluan**  
@@ -5327,7 +5327,7 @@ Yes, sir.
 **[05:08:24.410] Atty. Mark C. Vinluan**  
 Google search mga news articles, websites, videos, correct? Yes, sir. Including mga YouTube videos? Yes, sir. Alright. I'll show you a short video and I'll ask one final question.
 
-**[05:08:39.550] Sen. Francis “Chiz” Escudero**  
+**[05:08:39.550] Sen. Francis "Chiz" G. Escudero**  
 Kindly show the video, Tek.
 
 **[05:08:54.170] Vice President Sara Zimmerman Duterte**  
@@ -5345,31 +5345,31 @@ Hindi ko po na-encounter yan, Sir.
 **[05:09:41.510] Atty. Mark C. Vinluan**  
 Nothing further, Your Honors.
 
-**[05:09:44.770] Sen. Francis “Chiz” Escudero**  
+**[05:09:44.770] Sen. Francis "Chiz" G. Escudero**  
 Before we let go of the witness, the Presiding Officer just has a few points. Number one, to clarify, Atty. Lotoc, sa pagtatanong po ni Senate President Wengat Shalan kanina, sabi niyo po, maliban sa mga salitang binanggit o sinambit na ikalawang Pangulo na may nakausap na siya na gagawa nung kanyang kautosang patayin, diyo mo no, ang tatlong opisyal ng bansa,
 
-**[05:10:08.550] Sen. Francis “Chiz” Escudero**  
+**[05:10:08.550] Sen. Francis "Chiz" G. Escudero**  
 wala po kayong hawak na ibang ebidensyang may kinausap na nga siya.
 
 **[05:10:13.360] Atty. Jeremy C. Lotoc**  
 In so far as the cybercrime division is concerned, sir, opo.
 
-**[05:10:17.480] Sen. Francis “Chiz” Escudero**  
+**[05:10:17.480] Sen. Francis "Chiz" G. Escudero**  
 Pangalawa po, sabi ninyo po, sa ilang katanungang ipinukol sa inyo, na hindi ninyo alam kung totoo o hindi ang ilang mga sinabi ng Ikalawang Pangulo sa video na napanood po ninyo nang isang beses, iyong mahigit dalawang oras. Sa kabuuan po, ang kaya ninyo lang pong sabihin ay sinabi niya iyon. Pero kung totoo man iyon o hindi, wala po kayo sa lugar para sabihin na totoo nga ba lahat ng mga sinabi niya?
 
 **[05:10:45.160] Atty. Jeremy C. Lotoc**  
 Well, una, since Vice President siya, at base doon sa circumstance na galit na galit siya at nagbabato siya ng mga pagmumura, we believe na totoo iyong mga sinasabi niya, Your Honor.
 
-**[05:10:56.400] Sen. Francis “Chiz” Escudero**  
+**[05:10:56.400] Sen. Francis "Chiz" G. Escudero**  
 And, as an advisement perhaps to the Senator-Judges and the public as well, an admission against interest as mentioned in the Rules is nothing really special. An admission against interest under the Rules is simply an exception to the hearsay rule. Where a person is about to die or is unavailable to testify, his statements against his or her interest may be admitted, testified to by another person—not the way we seem to be giving admission against interest na parang umamin na dahil labag sa interest niya iyon. The Rules are specific, and the purpose also is specific: it is an exception to the hearsay rule. If there are no other points or questions to be raised by any of the Senator-Judges—
 
-**[05:11:50.900] Sen. Francis “Chiz” Escudero**  
+**[05:11:50.900] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge Padilla is recognized for his intervention.
 
 **[05:11:55.320] Sen. Robinhood “Robin” Padilla**  
 Puwede po bang magtanong ulit?
 
-**[05:11:56.700] Sen. Francis “Chiz” Escudero**  
+**[05:11:56.700] Sen. Francis "Chiz" G. Escudero**  
 You have two minutes, sir.
 
 **[05:11:57.350] Sen. Robinhood “Robin” Padilla**  
@@ -5426,37 +5426,37 @@ lahat po ng protesta na ganap. Dilawan, Pinklawan, Duterte, ano man po. Wala ako
 **[05:15:12.000] Sen. Robinhood “Robin” Padilla**  
 Insofar as I'm concerned, wala akong nakita, Sir. Wala akong nakita. Okay lang po. Maraming salamat po.
 
-**[05:15:17.020] Sen. Francis “Chiz” Escudero**  
+**[05:15:17.020] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Sen. Judge Padilla. Atty. Lotoc, you are excused and the court thanks you for your time and cooperation with this impeachment court. Thank
 
 **[05:15:26.660] Atty. Jeremy C. Lotoc**  
 you very much, Your Honor.
 
-**[05:15:28.960] Sen. Francis “Chiz” Escudero**  
+**[05:15:28.960] Sen. Francis "Chiz" G. Escudero**  
 May I ask, good, that the Honorable Defensor is standing up. Tomorrow, the subpoena for Atty. Lopez is only for today and tomorrow. The subpoena thus far, yesterday rather, and today. The subpoena for Captain Belio is for... Ah, no subpoena, but she is scheduled to testify tomorrow. So what is your pleasure, Honorable Defensor?
 
 **[05:15:58.650] Rep. Lorenz R. Defensor**  
 Your Honors, before we proceed any further, the prosecution respectfully requests for a five-minute recess. Just five minutes, Your Honor.
 
-**[05:16:12.040] Sen. Francis “Chiz” Escudero**  
+**[05:16:12.040] Sen. Francis "Chiz" G. Escudero**  
 You can do your thing, Honorable Defensor, while I recognize Senator Judge... With the permission of Senator Judge Cayetano, of course.
 
 **[05:16:20.160] Sen. Alan Peter Cayetano**  
 Can they
 
-**[05:16:21.440] Sen. Francis “Chiz” Escudero**  
+**[05:16:21.440] Sen. Francis "Chiz" G. Escudero**  
 do their thing?
 
 **[05:16:22.500] Sen. Alan Peter Cayetano**  
 I was going to suggest that I have a question about tomorrow. Maybe the defense can do their huddle while I ask this question. The question naman is...
 
-**[05:16:33.340] Sen. Francis “Chiz” Escudero**  
+**[05:16:33.340] Sen. Francis "Chiz" G. Escudero**  
 Sen. Cayetano, Alan is recognized.
 
 **[05:16:35.620] Sen. Alan Peter Cayetano**  
 Thank you Mr. Presiding Officer, Mr. Senate President. This is addressed actually to the Presiding Officer, Senate President, and our colleagues. So are we going to have the oral arguments tomorrow? Yes. So I think we all received the...
 
-**[05:16:52.690] Sen. Francis “Chiz” Escudero**  
+**[05:16:52.690] Sen. Francis "Chiz" G. Escudero**  
 Copies have been distributed.
 
 **[05:16:54.590] Sen. Alan Peter Cayetano**  
@@ -5468,19 +5468,19 @@ the parties have been
 **[05:16:56.970] Sen. Alan Peter Cayetano**  
 distributed. More or less it's 33 and 32 pages. So that's 60 pages. I'm beginning to study it today because I had to study about other matters tomorrow. So the second question is while we will have the oral arguments tomorrow, will we decide as a body tomorrow or we have a little bit more time to digest what was discussed tomorrow and then decide? We will
 
-**[05:17:22.210] Sen. Francis “Chiz” Escudero**  
+**[05:17:22.210] Sen. Francis "Chiz" G. Escudero**  
 decide as a body tomorrow because my understanding is the parties will be needing time to analyze whatever data will be produced should the subpoenas be granted.
 
 **[05:17:36.430] Sen. Alan Peter Cayetano**  
 But that is for Article 2.
 
-**[05:17:44.090] Sen. Francis “Chiz” Escudero**  
+**[05:17:44.090] Sen. Francis "Chiz" G. Escudero**  
 That is correct, Your Honor. That is for Article 2.
 
 **[05:17:48.810] Sen. Alan Peter Cayetano**  
 Which we will start hearing in August, right?
 
-**[05:17:52.280] Sen. Francis “Chiz” Escudero**  
+**[05:17:52.280] Sen. Francis "Chiz" G. Escudero**  
 As of now, it is the last one but as we had talked about earlier, the prosecutors can decide to bump it up depending on their strategy to present evidence.
 
 **[05:18:02.500] Sen. Alan Peter Cayetano**  
@@ -5489,13 +5489,13 @@ So I'm not moving that we postpone the oral arguments tomorrow because I think w
 **[05:18:52.200] Sen. Alan Peter Cayetano**  
 Assuming we read it once tonight, maybe once tomorrow.
 
-**[05:18:56.200] Sen. Francis “Chiz” Escudero**  
+**[05:18:56.200] Sen. Francis "Chiz" G. Escudero**  
 The presiding officer yields to the senate president with respect to the calling of a caucus tomorrow and what time. Para siya magpakain hindi ako.
 
 **[05:19:05.680] Sen. Alan Peter Cayetano**  
 Well, let me leave it to the Presiding Officer and Senate President. My proposal is after the oral arguments and after all the senator-judges have asked their questions, just so that we have one more night or one weekend to go through it. If we're not going to vote on it and we have a consensus, then no problem. And there's a precedent because we did this during the time of the late Senate President Enrile when it came to issues of utmost importance that could decide the impeachment-trial results one way or the other. But that does have implications in terms of precedent, especially itong pinag-uusapan natin, AMLA at saka BIR.
 
-**[05:19:54.680] Sen. Francis “Chiz” Escudero**  
+**[05:19:54.680] Sen. Francis "Chiz" G. Escudero**  
 The Senate President is recognized to respond.
 
 **[05:19:57.080] Sen. Sherwin T. Gatchalian**  
@@ -5513,16 +5513,16 @@ During the break. After the oral arguments, we'll pause for a break and have a c
 **[05:21:05.820] Sen. Alan Peter Cayetano**  
 Thank you, Senate President and Senator.
 
-**[05:21:08.160] Sen. Francis “Chiz” Escudero**  
+**[05:21:08.160] Sen. Francis "Chiz" G. Escudero**  
 Is the Honorable Defensor ready after his five-minute huddle?
 
 **[05:21:11.600] Rep. Lorenz R. Defensor**  
 Yes, Your Honor. Your Honor, may I request the Court to recognize the counsel for the panel of prosecutors, Atty. Lorna Patajo Capunan, Your Honor.
 
-**[05:21:22.340] Sen. Francis “Chiz” Escudero**  
+**[05:21:22.340] Sen. Francis "Chiz" G. Escudero**  
 Atty. Kapunan, counsel for the prosecutors is recognized.
 
-**[05:21:28.890] Sen. Francis “Chiz” Escudero**  
+**[05:21:28.890] Sen. Francis "Chiz" G. Escudero**  
 What do you have for us, ma'am?
 
 **[05:21:37.810] Atty. Lorna Patajo-Kapunan**  
@@ -5531,7 +5531,7 @@ Magandang gabi po sa inyong lahat, Atty. Lorna Patau Capunan, counsel for the pr
 **[05:21:50.290] Atty. Lorna Patajo-Kapunan**  
 If I may, Your Honors.
 
-**[05:21:52.300] Sen. Francis “Chiz” Escudero**  
+**[05:21:52.300] Sen. Francis "Chiz" G. Escudero**  
 Please proceed.
 
 **[05:21:53.950] Atty. Lorna Patajo-Kapunan**  
@@ -5546,13 +5546,13 @@ hindi pa tapos ang impeachment trial na ito. We have seen, we have seen.
 **[05:22:22.170] Atty. Lorna Patajo-Kapunan**  
 This is... Mami
 
-**[05:22:24.740] Sen. Francis “Chiz” Escudero**  
+**[05:22:24.740] Sen. Francis "Chiz" G. Escudero**  
 said national bird.
 
 **[05:22:30.140] Atty. Lorna Patajo-Kapunan**  
 Hindi po ba, Senator Lacson? Well, somebody who interviewed you said that you said that. It
 
-**[05:22:36.500] Sen. Panfilo M. Lacson**  
+**[05:22:36.500] Sen. Panfilo “Ping” M. Lacson**  
 must be another... Senator Judge or another person. Talking about birds, okay. Please proceed, ma'am. I never talked about birds.
 
 **[05:22:48.630] Atty. Lorna Patajo-Kapunan**  
@@ -5606,7 +5606,7 @@ To say thank you to Senator Vicente Sotto, for, in his brief statement by virtue
 **[05:32:02.390] Atty. Lorna Patajo-Kapunan**  
 But that's not what this is all about.
 
-**[05:32:04.430] Sen. Francis “Chiz” Escudero**  
+**[05:32:04.430] Sen. Francis "Chiz" G. Escudero**  
 Atty. Kapunan, with your indulgence, kindly take up the matter of the presentation of witnesses, because that is the subject at hand.
 
 **[05:32:10.490] Atty. Lorna Patajo-Kapunan**  
@@ -5621,13 +5621,13 @@ merely corroborative. She would have been presented only to corroborate the fact
 **[05:34:35.400] Atty. Lorna Patajo-Kapunan**  
 learn when to present and not to present a witness, and second, learn when to stop. And I think that should be our takeaway from this manifestation. We have decided from the evidence presented and from everything in consideration that we will not present these two witnesses. And on that note, I will also say we know when to stop. And this is where I stop. Thank you.
 
-**[05:35:11.820] Sen. Francis “Chiz” Escudero**  
+**[05:35:11.820] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator—rather, thank you, counsel.
 
 **[05:35:17.290] Sen. Sherwin T. Gatchalian**  
 Mr. Presiding Officer, maliit lang kasi sa sinabi ni Ma'am Lorna—
 
-**[05:35:23.150] Sen. Francis “Chiz” Escudero**  
+**[05:35:23.150] Sen. Francis "Chiz" G. Escudero**  
 Just a
 
 **[05:35:24.350] Sen. Sherwin T. Gatchalian**  
@@ -5639,13 +5639,13 @@ all, let me thank the prosecution for foregoing the two other witnesses that is 
 **[05:35:44.810] Sen. Sherwin T. Gatchalian**  
 Based on our pretrial order, the prosecution will present 57 witnesses; the respondent will present 45 witnesses. That's a total of 102 witnesses. At the rate we are going, of two days per witness, we will finish in 17 months. That's a year and a half, or a year and five months to be exact. So any chance of shortening the proceedings will be highly appreciated. Thank you, Mr. Presiding Officer.
 
-**[05:36:18.420] Sen. Francis “Chiz” Escudero**  
+**[05:36:18.420] Sen. Francis "Chiz" G. Escudero**  
 Also, thanks to counsel for the private prosecutors. Therefore, tomorrow, what is calendared for our agenda is the disposition of the two requests for subpoena by the panel of prosecutors,
 
-**[05:36:34.420] Sen. Francis “Chiz” Escudero**  
+**[05:36:34.420] Sen. Francis "Chiz" G. Escudero**  
 namely... motion for the issuance of a subpoena for bank records and amlc records and a motion for the issuance of subpoena um as well for the bir records that we returned via a sealed box given that there are no other witnesses to be presented tomorrow um because director matibag was scheduled based on an earlier decision of the court on monday july 20.
 
-**[05:37:03.980] Sen. Francis “Chiz” Escudero**  
+**[05:37:03.980] Sen. Francis "Chiz" G. Escudero**  
 I hope we will have sufficient time to discuss these two subpoenas tomorrow in our trial. To remind, both parties shall be given 10 minutes to discuss the two motions, and this will be discussed jointly already, given that you filed your respective memoranda jointly as well, discussing the two issues. You will be given three minutes by way of rebuttal and three minutes by way of surrebuttal, should it be necessary. Thereafter, the senator judges will proceed to discuss the matter in caucus and thereafter in plenary. Yes, Senator Judge Alan Quetano.
 
 **[05:37:46.340] Sen. Alan Peter Cayetano**  
@@ -5666,25 +5666,25 @@ Sorry, I'll just use myself as an example. I want to draw the line between a fis
 **[05:38:33.500] Sen. Alan Peter Cayetano**  
 Mr. President, Mr. Presiding Officer, you said three minutes rebut. I mean, can we give them more time to rebut each other? I'd rather they be rebutting each other than rebutting us. But I think this will really be an issue that will educate all of us and it'll really be good for the impeachment court and the Filipino people. So may I ask? The honorable defense,
 
-**[05:38:55.990] Sen. Francis “Chiz” Escudero**  
+**[05:38:55.990] Sen. Francis "Chiz" G. Escudero**  
 sir, 15 minutes?
 
 **[05:38:56.950] Rep. Lorenz R. Defensor**  
 Yes, your honor. 15 minutes per argument and 10 minutes per party on rebuttal, your honor.
 
-**[05:39:01.670] Sen. Francis “Chiz” Escudero**  
+**[05:39:01.670] Sen. Francis "Chiz" G. Escudero**  
 So 15 and 10?
 
 **[05:39:03.210] Rep. Lorenz R. Defensor**  
 Yes, your honor.
 
-**[05:39:04.050] Sen. Francis “Chiz” Escudero**  
+**[05:39:04.050] Sen. Francis "Chiz" G. Escudero**  
 How about counsel-correspondent?
 
 **[05:39:05.950] Atty. Mark C. Vinluan**  
 We will just submit, your honor, to the discussion of this honorable court.
 
-**[05:39:09.770] Sen. Francis “Chiz” Escudero**  
+**[05:39:09.770] Sen. Francis "Chiz" G. Escudero**  
 15 minutes for the oral arguments in chief and then 10 minutes by way of rebuttal and surrebuttal and a reminder to the senator judges each senator judge can speak for a maximum only of 10 minutes and for a total of one hour for each side meaning to say decide to grant the motion and decide not to grant the motion So kindly discuss also among yourselves to make use of the time with respect to taking up and tackling your position if you are for or against the motion so that the period of time will be maximized. Senator Judge Soto is recognized. Yes, sir.
 
 **[05:39:53.450] Sen. Vicente C. Sotto III**  
@@ -5729,13 +5729,13 @@ well. But would it be possible that we all agree, let's say, on the AMLA but not
 **[05:42:26.240] Sen. Vicente C. Sotto III**  
 Yes, may I suggest, Mr. Presiding Officer, and of course my esteemed colleague, may I suggest that we decide on how long each senator would be given after we caucus, instead of setting it now. Let's set the prosecution and the defense and the... And then we go into caucus and then we decide in caucus how long will we be giving each member if we should decide to still debate here instead of getting into a consensus in the caucus.
 
-**[05:43:05.780] Sen. Francis “Chiz” Escudero**  
+**[05:43:05.780] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Soto, I completely agree. However, the Presiding Officer was merely citing what's written in our rules right now. We can of course change it by agreeing amongst ourselves to lower it. Or increase it. Hopefully not in the direction of increasing
 
 **[05:43:19.020] Sen. Alan Peter Cayetano**  
 it. Hopefully after the caucus, we will have a win-cheese solution.
 
-**[05:43:24.240] Sen. Francis “Chiz” Escudero**  
+**[05:43:24.240] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Allan. Any other points? Senator Judge Pangilinan is recognized.
 
 **[05:43:31.540] Sen. Francis “Kiko” Pangilinan**  
@@ -5750,32 +5750,32 @@ It was dismissed by the Olongapo Court because on June 24 by Judge Richard Parad
 **[05:44:38.330] Sen. Francis “Kiko” Pangilinan**  
 And so, the motion to quash was dismissed—was granted, rather—and the case was dismissed. In other words, it was not dismissed on the merits. For the record, Mr. President.
 
-**[05:44:54.170] Sen. Francis “Chiz” Escudero**  
+**[05:44:54.170] Sen. Francis "Chiz" G. Escudero**  
 Yes, Honorable Defensor.
 
-**[05:44:56.350] Sen. Francis “Chiz” Escudero**  
+**[05:44:56.350] Sen. Francis "Chiz" G. Escudero**  
 Just to remind you that tomorrow, kindly give us a list of your witnesses for the following week, for the information of the Court as well as the other party.
 
 **[05:45:05.950] Rep. Lorenz R. Defensor**  
 We will, if necessary, Your Honors.
 
-**[05:45:07.790] Sen. Francis “Chiz” Escudero**  
+**[05:45:07.790] Sen. Francis "Chiz" G. Escudero**  
 And will you be needing a subpoena for Director Matibag for Monday?
 
 **[05:45:14.690] Rep. Lorenz R. Defensor**  
 won't need a subpoena anymore for Director Matibag for Monday's testimony, Your Honor.
 
-**[05:45:19.070] Sen. Francis “Chiz” Escudero**  
+**[05:45:19.070] Sen. Francis "Chiz" G. Escudero**  
 Okay, then no need to issue a subpoena. Any other points the counsel for respondent would like to raise?
 
 **[05:45:24.930] Rep. Lorenz R. Defensor**  
 Your Honor, just to, before
 
-**[05:45:26.490] Sen. Francis “Chiz” Escudero**  
+**[05:45:26.490] Sen. Francis "Chiz" G. Escudero**  
 we end, can we request the clerk of
 
 **[05:45:29.430] Rep. Lorenz R. Defensor**  
 court to reseal the evidence
 
-**[05:45:31.870] Sen. Francis “Chiz” Escudero**  
+**[05:45:31.870] Sen. Francis "Chiz" G. Escudero**  
 especially? Yes, after we adjourn, may I request the council, assisting councils for the parties to kindly

@@ -17,52 +17,52 @@ Call call up members. Senator-Judge Aquino, Senator-Judge Cayetano-Allan, Senato
 **[00:08:31.390] Sen. Sherwin T. Gatchalian**  
 With 16 senator-judges present, the chair declares the presence of a quorum. In accordance with the rules of procedure on impeachment trials, the chair now recognizes the newly elected presiding officer to preside over the proceedings of the impeachment court.
 
-**[00:08:48.170] Sen. Francis “Chiz” Escudero**  
+**[00:08:48.170] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Mr. Senate President. If there are no objections, we shall dispense with the reading of the Journal of July 29, 2026 of the Senate, sitting as an impeachment court, and shall consider the same as approved.
 
-**[00:09:04.720] Sen. Francis “Chiz” Escudero**  
+**[00:09:04.720] Sen. Francis "Chiz" G. Escudero**  
 The Clerk of Court will please call the case before the impeachment court.
 
 **[00:09:08.180] Atty. Renato N. Bantug Jr.**  
 Case number 004-2026, in the matter of Impeachment Trial of Vice President Saira Zimmerman Duterte.
 
-**[00:09:15.820] Sen. Francis “Chiz” Escudero**  
+**[00:09:15.820] Sen. Francis "Chiz" G. Escudero**  
 Appearances for the parties.
 
 **[00:09:26.540] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Good morning, Your Honor. Same appearance for the prosecution. We are ready, Your Honor.
 
-**[00:09:31.080] Sen. Francis “Chiz” Escudero**  
+**[00:09:31.080] Sen. Francis "Chiz" G. Escudero**  
 Thank you and good morning. Appearances for the respondent.
 
 **[00:09:34.200] Atty. Michael Wesley Poa**  
 Good morning, Your Honor. Same appearance for the respondent accused.
 
-**[00:09:37.300] Sen. Francis “Chiz” Escudero**  
+**[00:09:37.300] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Your Honor. Will the lead prosecutor kindly call their witness for today?
 
 **[00:09:42.170] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I request that counsel for the panel of prosecutors, Attorney Lorna Capunan, be recognized.
 
-**[00:09:50.170] Sen. Francis “Chiz” Escudero**  
+**[00:09:50.170] Sen. Francis "Chiz" G. Escudero**  
 Attorney Capunan is recognized.
 
-**[00:09:58.280] Sen. Francis “Chiz” Escudero**  
+**[00:09:58.280] Sen. Francis "Chiz" G. Escudero**  
 Atty. Kapunan, the counsel for the panel of prosecutors, kindly call your first witness, ma'am.
 
 **[00:10:06.450] Atty. Lorna Patajo-Kapunan**  
 Good morning, Your Honors. Atty. Lorna Patao Kapunan, counsel for the petitions under the direct control and supervision of the House panel of prosecutors. We'd like to call on our first witness, Your Honors, Mr. Roderick C. Huamil.
 
-**[00:10:25.160] Sen. Francis “Chiz” Escudero**  
+**[00:10:25.160] Sen. Francis "Chiz" G. Escudero**  
 The Clerk of Court, through Sgt. Tarms, is directed to kindly bring and situate at the witness stand the witness of the prosecution for today, Mr. Roderick Wamil.
 
-**[00:11:08.480] Sen. Francis “Chiz” Escudero**  
+**[00:11:08.480] Sen. Francis "Chiz" G. Escudero**  
 Before you sit down, Mr. Wamil, the clerk of court is directed to subscribe the witness, or rather put the witness under oath. Apologies. Please raise your right hand.
 
 **[00:11:18.950] Atty. Renato N. Bantug Jr.**  
 You, Roderick C. Wamil, those were the evidence you shall give in the case now pending between the Philippines and Vice President Cyrus Gibram and Duterte. shall be the truth, the whole truth, and nothing but the truth. So help me God.
 
-**[00:11:35.640] Sen. Francis “Chiz” Escudero**  
+**[00:11:35.640] Sen. Francis "Chiz" G. Escudero**  
 You may sit down, Mr. Romil. Your witness, counsel for the panel of prosecutors, Attorney Caponan, you may proceed when you're ready with your offer.
 
 **[00:11:45.570] Atty. Lorna Patajo-Kapunan**  
@@ -80,13 +80,13 @@ I will not read them anymore, but I'd like to highlight certain
 **[00:12:42.110] Atty. Lorna Patajo-Kapunan**  
 admissions. The
 
-**[00:12:45.030] Sen. Francis “Chiz” Escudero**  
+**[00:12:45.030] Sen. Francis "Chiz" G. Escudero**  
 lady may proceed for the guidance of the senator-judges.
 
 **[00:12:48.030] Atty. Lorna Patajo-Kapunan**  
 Thank you, Your Honor. As can be seen from the screen, first, the OVP, Office of the Vice President, had confidential funds in the fixed amount of 125 per quarter. The first quarter of 2023 is February 6 to March 29, 2023. For the second quarter of 2023, that is April 25 to June 30, 2023. And for the third quarter of 2023, which covers the period July 14 to September 30, 2023. Fixed amounts per quarter of 125 million.
 
-**[00:13:36.530] Sen. Francis “Chiz” Escudero**  
+**[00:13:36.530] Sen. Francis "Chiz" G. Escudero**  
 You're referring to paragraph numbers 2.5, 2.6, and 2.7, counsel?
 
 **[00:13:41.730] Atty. Lorna Patajo-Kapunan**  
@@ -122,31 +122,31 @@ Third, that Ms. Gina Acosta received the amounts of the said checks on December 
 **[00:16:19.230] Atty. Lorna Patajo-Kapunan**  
 Likewise stipulated, Your Honor, that the said amounts were paid by the Philippine Treasury for the account-
 
-**[00:16:27.530] Sen. Francis “Chiz” Escudero**  
+**[00:16:27.530] Sen. Francis "Chiz" G. Escudero**  
 Counsel? Counsel?
 
-**[00:16:28.190] Sen. Francis “Chiz” Escudero**  
+**[00:16:28.190] Sen. Francis "Chiz" G. Escudero**  
 Yes? With respect to the last check, What was the date of encashment? You mentioned July 11, or is it July 16? Or should it be July 16? Kindly check your records. Because the encashment cannot be before the date of the check.
 
-**[00:16:45.280] Sen. Francis “Chiz” Escudero**  
+**[00:16:45.280] Sen. Francis "Chiz" G. Escudero**  
 Respondent, what is it?
 
-**[00:16:52.410] Sen. Francis “Chiz” Escudero**  
+**[00:16:52.410] Sen. Francis "Chiz" G. Escudero**  
 Kindly check the last check. Last three digits, 664.
 
-**[00:16:58.660] Sen. Francis “Chiz” Escudero**  
+**[00:16:58.660] Sen. Francis "Chiz" G. Escudero**  
 Counsel mentioned that it was encashed on July 11, 2023.
 
-**[00:17:04.650] Sen. Francis “Chiz” Escudero**  
+**[00:17:04.650] Sen. Francis "Chiz" G. Escudero**  
 It should be, if I remember correctly, it should be July 16.
 
-**[00:17:12.940] Sen. Francis “Chiz” Escudero**  
+**[00:17:12.940] Sen. Francis "Chiz" G. Escudero**  
 Kindly check the dorsal side of the cheque.
 
 **[00:17:17.220] Atty. Lorna Patajo-Kapunan**  
 July 13, Your Honor.
 
-**[00:17:19.040] Sen. Francis “Chiz” Escudero**  
+**[00:17:19.040] Sen. Francis "Chiz" G. Escudero**  
 Ah, 13, okay. The date of the cheque is July 13, but encashed by the SDO on what date? You said July 11 earlier.
 
 **[00:17:40.110] Atty. Lorna Patajo-Kapunan**  
@@ -158,19 +158,19 @@ Counsel for respondent, maybe you can help us with this?
 **[00:17:45.920] Atty. Michael Wesley Poa**  
 We are verifying, Your Honor.
 
-**[00:17:47.840] Sen. Francis “Chiz” Escudero**  
+**[00:17:47.840] Sen. Francis "Chiz" G. Escudero**  
 Kindly validate, because the date of encashment cannot precede or antedate the date of the check.
 
 **[00:17:59.460] Atty. Lorna Patajo-Kapunan**  
 Honorable Presiding Officer, the date of the check is July 13, but the encashment was July 14. July
 
-**[00:18:06.680] Sen. Francis “Chiz” Escudero**  
+**[00:18:06.680] Sen. Francis "Chiz" G. Escudero**  
 14. Okay. Not July 11. I heard you mention July 11.
 
 **[00:18:09.840] Atty. Lorna Patajo-Kapunan**  
 My bad, Your Honor. You
 
-**[00:18:10.700] Sen. Francis “Chiz” Escudero**  
+**[00:18:10.700] Sen. Francis "Chiz" G. Escudero**  
 may proceed, counsel.
 
 **[00:18:12.240] Atty. Lorna Patajo-Kapunan**  
@@ -182,22 +182,22 @@ And lastly, that Mr. Edward D. Fajarda received the amounts of the checks on Feb
 **[00:18:54.110] Atty. Michael Wesley Poa**  
 Your Honors, I really don't want to make a big issue about this, but just on the first stipulation, Your Honors, please. We remember stipulating only as to the ability of the witness to identify the checks and to the authenticity of the checks. Now, I do understand where the counsel for the prosecution is coming from, but perhaps we could just refer to our records in terms of the stipulations made, Your Honors.
 
-**[00:19:23.250] Sen. Francis “Chiz” Escudero**  
+**[00:19:23.250] Sen. Francis "Chiz" G. Escudero**  
 The Presiding Officer remembers that the authenticity and execution of the checks, as well as all the information contained therein, meaning to say the signatories, the payee, the amount contained therein, the date it was in cash, were all stipulated to by the respondent.
 
-**[00:19:45.160] Sen. Francis “Chiz” Escudero**  
+**[00:19:45.160] Sen. Francis "Chiz" G. Escudero**  
 In not so many words, counsel, you are correct.
 
 **[00:19:48.130] Atty. Lorna Patajo-Kapunan**  
 Yes, Your Honor. As a matter of fact, not only the front side of the check, but the dorsal side.
 
-**[00:19:53.280] Sen. Francis “Chiz” Escudero**  
+**[00:19:53.280] Sen. Francis "Chiz" G. Escudero**  
 Including the dorsal side, meaning to say the checker, the validator, the...
 
 **[00:19:57.000] Atty. Lorna Patajo-Kapunan**  
 Your Honor.
 
-**[00:19:57.480] Sen. Francis “Chiz” Escudero**  
+**[00:19:57.480] Sen. Francis "Chiz" G. Escudero**  
 Yes, they were all stipulated to by the respondent. Thank
 
 **[00:20:00.240] Atty. Lorna Patajo-Kapunan**  
@@ -215,13 +215,13 @@ have 15 boxes.
 **[00:20:20.690] Atty. Lorna Patajo-Kapunan**  
 For this witness alone, he will be identifying 50 exhibits.
 
-**[00:20:28.360] Sen. Francis “Chiz” Escudero**  
+**[00:20:28.360] Sen. Francis "Chiz" G. Escudero**  
 Are you proceeding with your offer already, counsel?
 
 **[00:20:30.820] Atty. Lorna Patajo-Kapunan**  
 No, Your Honor. This is in addition to our proposed stipulation, Your Honor.
 
-**[00:20:35.400] Sen. Francis “Chiz” Escudero**  
+**[00:20:35.400] Sen. Francis "Chiz" G. Escudero**  
 Ah, yes. Okay. Proceed. Okay.
 
 **[00:20:38.160] Atty. Lorna Patajo-Kapunan**  
@@ -242,19 +242,19 @@ And here is where we ask for stipulation, Your Honor. Since these are prosecutio
 **[00:23:34.390] Atty. Lorna Patajo-Kapunan**  
 on the screen are the exhibits we want stipulated, the prosecution exhibit numbers, and the defense exhibit numbers, Your Honor.
 
-**[00:23:47.390] Sen. Francis “Chiz” Escudero**  
+**[00:23:47.390] Sen. Francis "Chiz" G. Escudero**  
 These are only insofar as the common exhibits are concerned, counsel.
 
 **[00:23:50.970] Atty. Lorna Patajo-Kapunan**  
 Yes, Your Honor. These are only common exhibits.
 
-**[00:23:53.450] Sen. Francis “Chiz” Escudero**  
+**[00:23:53.450] Sen. Francis "Chiz" G. Escudero**  
 What does the respondent, counsel for respondent, say?
 
 **[00:23:56.750] Atty. Michael Wesley Poa**  
 Your Honor, may we just ask for, and I apologize for having to request for this, but may we just ask for at least a five-minute suspension so we can also concur with the prosecution panel to check. Exactly what documents they would want to stipulate. Because, Your Honors, we have no problem stipulating, but we also, due to the voluminous nature of the documents, we just want to make sure we're also ensuring the rights for clients, especially, you know, if there are questions on chain of custody, etc.
 
-**[00:24:26.480] Sen. Francis “Chiz” Escudero**  
+**[00:24:26.480] Sen. Francis "Chiz" G. Escudero**  
 With the permission of my fellow senator-judges, this is in the interest of abbreviating the proceedings anyway. Chair declares a five-minute recess.
 
 **[00:24:34.600] Atty. Lorna Patajo-Kapunan**  
@@ -263,10 +263,10 @@ Thank you, Your Honors.
 **[00:24:49.870] Atty. Lorna Patajo-Kapunan**  
 The physical exhibits are here if counsel wants to look at them.
 
-**[00:24:55.230] Sen. Francis “Chiz” Escudero**  
+**[00:24:55.230] Sen. Francis "Chiz" G. Escudero**  
 We are on recess. No need for permission to approach each other.
 
-**[01:08:21.490] Sen. Francis “Chiz” Escudero**  
+**[01:08:21.490] Sen. Francis "Chiz" G. Escudero**  
 Paumanhin sa mga kapwa ko, senator-judge, gayon din sa publiko nagsusubaybay sa medyo mahabang panahong ginugol natin para magkumparahan ng dokumento. I assure you this is time well spent because whatever stipulations and their admissions may be agreed upon by the parties will go a long way insofar as abbreviating the proceedings. Counsel for respondent is recognized for his comment to the request for stipulation by the counsel for the panel of prosecutors.
 
 **[01:08:48.770] Atty. Michael Wesley Poa**  
@@ -278,22 +278,22 @@ I would like to thank the Honorable Court for your patience as well. So upon con
 **[01:09:37.800] Atty. Michael Wesley Poa**  
 Your Honors. Your Honors, just for the information of the Honorable Court, although these are were labeled as common exhibits. We mark them separately and there are issues concerning these acknowledgement receipts that I believe will also be touched upon by other witnesses in the future and for those reasons, Your Honors, we cannot stipulate on the same. How
 
-**[01:09:58.830] Sen. Francis “Chiz” Escudero**  
+**[01:09:58.830] Sen. Francis "Chiz" G. Escudero**  
 many pieces of documentary evidence would constitute these acknowledgement receipts covering this period approximately? Approximately
 
-**[01:10:09.870] Sen. Francis “Chiz” Escudero**  
+**[01:10:09.870] Sen. Francis "Chiz" G. Escudero**  
 At least 900, Your
 
 **[01:10:12.810] Atty. Michael Wesley Poa**  
 Honors.
 
-**[01:10:13.270] Sen. Francis “Chiz” Escudero**  
+**[01:10:13.270] Sen. Francis "Chiz" G. Escudero**  
 So that's about 900 over 3,000 plus, counsel for the panel of prosecutors, correct?
 
 **[01:10:18.850] Atty. Lorna Patajo-Kapunan**  
 Your Honor, please, just a logistics issue. I don't think they can hear us at the sound booth.
 
-**[01:10:27.480] Sen. Francis “Chiz” Escudero**  
+**[01:10:27.480] Sen. Francis "Chiz" G. Escudero**  
 Who can't hear you?
 
 **[01:10:29.020] Atty. Lorna Patajo-Kapunan**  
@@ -302,43 +302,43 @@ The ones flashing our screen. Are they? Okay, okay. Just to address the query of
 **[01:10:50.270] Atty. Lorna Patajo-Kapunan**  
 this particular witness and for this particular period, Your Honor. But for the next witness, Your Honor, they constitute 3,617 acknowledgement receipts.
 
-**[01:11:05.260] Sen. Francis “Chiz” Escudero**  
+**[01:11:05.260] Sen. Francis "Chiz" G. Escudero**  
 In regard to the acknowledgement receipts that the counsel for respondent refuses to stipulate on, is it with this witness or the next witness?
 
 **[01:11:14.380] Atty. Lorna Patajo-Kapunan**  
 This witness, Your Honor. 845 acknowledgement receipts for the period, 11-day period, December 21 to December 31, Your Honor.
 
-**[01:11:27.100] Sen. Francis “Chiz” Escudero**  
+**[01:11:27.100] Sen. Francis "Chiz" G. Escudero**  
 So, in other words, all of the acknowledgement receipts that this witness will testify to was not stipulated to by the counsel for the respondent?
 
 **[01:11:35.560] Atty. Michael Wesley Poa**  
 That's correct, Your Honor.
 
-**[01:11:38.330] Sen. Francis “Chiz” Escudero**  
+**[01:11:38.330] Sen. Francis "Chiz" G. Escudero**  
 With respect to the others, it is so stipulated, counsel?
 
 **[01:11:41.890] Atty. Michael Wesley Poa**  
 Yes, Your Honor. Other documents. Other
 
-**[01:11:44.310] Sen. Francis “Chiz” Escudero**  
+**[01:11:44.310] Sen. Francis "Chiz" G. Escudero**  
 documents that are commonly marked are so stipulated and admitted by the counsel for respondents under Article 1?
 
 **[01:11:53.680] Atty. Michael Wesley Poa**  
 The documents that are in the list of proposed stipulations, Your Honor.
 
-**[01:11:59.890] Sen. Francis “Chiz” Escudero**  
+**[01:11:59.890] Sen. Francis "Chiz" G. Escudero**  
 Julie noted.
 
 **[01:12:01.330] Atty. Lorna Patajo-Kapunan**  
 Thank you, Your Honor.
 
-**[01:12:02.910] Sen. Francis “Chiz” Escudero**  
+**[01:12:02.910] Sen. Francis "Chiz" G. Escudero**  
 Counsel, for the panel of prosecutors, you may proceed when you're ready with your offer. Unless you have other stipulations to ask?
 
 **[01:12:08.730] Atty. Lorna Patajo-Kapunan**  
 We have other stipulations, Your Honor.
 
-**[01:12:11.910] Sen. Francis “Chiz” Escudero**  
+**[01:12:11.910] Sen. Francis "Chiz" G. Escudero**  
 You may proceed, counsel.
 
 **[01:12:13.370] Atty. Lorna Patajo-Kapunan**  
@@ -347,7 +347,7 @@ Secondly, that the Office of the Vice President was allotted confidential funds 
 **[01:12:30.110] Atty. Michael Wesley Poa**  
 We are okay to stipulate with counter stipulation that this was approved by the Office of the President as recommended by the DBM, Your Honor.
 
-**[01:12:38.260] Sen. Francis “Chiz” Escudero**  
+**[01:12:38.260] Sen. Francis "Chiz" G. Escudero**  
 What does counsel for the panel of prosecutors state?
 
 **[01:12:45.320] Atty. Lorna Patajo-Kapunan**  
@@ -362,19 +362,19 @@ Your Honor.
 **[01:12:52.150] Atty. Lorna Patajo-Kapunan**  
 In deference to the President. Yes, Your Honor.
 
-**[01:12:55.630] Sen. Francis “Chiz” Escudero**  
+**[01:12:55.630] Sen. Francis "Chiz" G. Escudero**  
 So yes, the stipulation, proposed stipulation by the counsel for the panel of prosecutors subject to the qualification of the counsel for respondent is deemed admitted to and stipulated on. May I proceed, Counsel?
 
 **[01:13:10.230] Atty. Lorna Patajo-Kapunan**  
 Thirdly, Your Honor, as can be seen on the screen, The DepEd was allotted confidential funds in the fixed amount of 37.5 million quarterly.
 
-**[01:13:22.600] Sen. Francis “Chiz” Escudero**  
+**[01:13:22.600] Sen. Francis "Chiz" G. Escudero**  
 For what year?
 
 **[01:13:25.260] Atty. Lorna Patajo-Kapunan**  
 2023, Your Honor.
 
-**[01:13:29.490] Sen. Francis “Chiz” Escudero**  
+**[01:13:29.490] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the respondent?
 
 **[01:13:31.050] Atty. Michael Wesley Poa**  
@@ -383,19 +383,19 @@ Yes, Your Honor. But again, with counter stipulation that under the General Appr
 **[01:13:39.380] Atty. Lorna Patajo-Kapunan**  
 Yes, Your Honor.
 
-**[01:13:40.700] Sen. Francis “Chiz” Escudero**  
+**[01:13:40.700] Sen. Francis "Chiz" G. Escudero**  
 So stipulated, duly noted. Senator-judges are duly informed.
 
 **[01:13:45.160] Atty. Lorna Patajo-Kapunan**  
 The fourth stipulation is that the Office of the Vice President and the DepEd withdrew their respective confidential funds quarterly allocation in full from the first to the third quarters of 2023.
 
-**[01:14:07.300] Sen. Francis “Chiz” Escudero**  
+**[01:14:07.300] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the respondent, what do you say? We
 
 **[01:14:09.760] Atty. Michael Wesley Poa**  
 are willing to stipulate on that, Your Honor.
 
-**[01:14:11.570] Sen. Francis “Chiz” Escudero**  
+**[01:14:11.570] Sen. Francis "Chiz" G. Escudero**  
 So stipulated. Senator-judges are likewise so informed of the stipulation by the parties in regard to this fact.
 
 **[01:14:19.210] Atty. Lorna Patajo-Kapunan**  
@@ -404,7 +404,7 @@ The fifth, that the Office of the Vice President also received confidential fund
 **[01:14:37.330] Atty. Michael Wesley Poa**  
 No stipulation, Your Honor. I'm sorry, counsel? No stipulation on this matter.
 
-**[01:14:42.120] Sen. Francis “Chiz” Escudero**  
+**[01:14:42.120] Sen. Francis "Chiz" G. Escudero**  
 No stipulation. You may proceed with the other proposed stipulations, counsel.
 
 **[01:14:46.440] Atty. Lorna Patajo-Kapunan**  
@@ -413,7 +413,7 @@ That the documents submitted by the Office of the Vice President and the DepEd w
 **[01:14:56.540] Atty. Michael Wesley Poa**  
 Willing to stipulate, Your Honor.
 
-**[01:14:58.140] Sen. Francis “Chiz” Escudero**  
+**[01:14:58.140] Sen. Francis "Chiz" G. Escudero**  
 What exactly does that mean, counsel, for the panel of prosecutors? The documents submitted by the OVP were all signed by the authorized signatories, meaning those that signed the checks. Those that received the checks. What about the acknowledgement receipts?
 
 **[01:15:14.660] Atty. Lorna Patajo-Kapunan**  
@@ -422,13 +422,13 @@ Also the acknowledgement receipts, Your Honor. The disbursement vouchers, the li
 **[01:15:22.550] Atty. Lorna Patajo-Kapunan**  
 the accomplishment reports, all of which they have already stipulated, Your Honor.
 
-**[01:15:27.610] Sen. Francis “Chiz” Escudero**  
+**[01:15:27.610] Sen. Francis "Chiz" G. Escudero**  
 Okay. Is that clear, counsel, for the respondent? Yes,
 
 **[01:15:30.450] Atty. Michael Wesley Poa**  
 Your Honor.
 
-**[01:15:30.830] Sen. Francis “Chiz” Escudero**  
+**[01:15:30.830] Sen. Francis "Chiz" G. Escudero**  
 So stipulated. Julie noted.
 
 **[01:15:33.640] Atty. Lorna Patajo-Kapunan**  
@@ -449,25 +449,25 @@ Willing to stipulate on that as well. So stipulated, duly noted.
 **[01:16:16.010] Atty. Lorna Patajo-Kapunan**  
 Thank you and we would like to thank counsel for the respondent for the stipulations. We would like to
 
-**[01:16:23.490] Sen. Francis “Chiz” Escudero**  
+**[01:16:23.490] Sen. Francis "Chiz" G. Escudero**  
 thank the parties as well for abbreviating the proceedings and assisting this court in so far shortening. I
 
 **[01:16:29.970] Atty. Lorna Patajo-Kapunan**  
 think it has saved the Senate judges. Ten boxes, Your Honor.
 
-**[01:16:35.740] Sen. Francis “Chiz” Escudero**  
+**[01:16:35.740] Sen. Francis "Chiz" G. Escudero**  
 How many in total again?
 
 **[01:16:37.460] Atty. Lorna Patajo-Kapunan**  
 We have 15 boxes, Your Honor.
 
-**[01:16:39.540] Sen. Francis “Chiz” Escudero**  
+**[01:16:39.540] Sen. Francis "Chiz" G. Escudero**  
 That's two-thirds. Council
 
 **[01:16:41.720] Atty. Lorna Patajo-Kapunan**  
 may
 
-**[01:16:43.640] Sen. Francis “Chiz” Escudero**  
+**[01:16:43.640] Sen. Francis "Chiz" G. Escudero**  
 proceed with their offer for the testimony of this witness unless there are other stipulations. If there are none, you may proceed, Council, when you're ready.
 
 **[01:16:52.270] Atty. Lorna Patajo-Kapunan**  
@@ -494,13 +494,13 @@ Number nine, in accordance with Mr. Wamil's audit and recommendations, an audit 
 **[01:20:35.180] Atty. Lorna Patajo-Kapunan**  
 Likewise, Your Honor, we are offering the testimony of this witness to identify and authenticate documents, and likewise, lassie, to prove such other matters as are relevant and material to the impeachment of Vice President Sara Duterte. and relevant as well to the aforementioned purposes.
 
-**[01:21:02.190] Sen. Francis “Chiz” Escudero**  
+**[01:21:02.190] Sen. Francis "Chiz" G. Escudero**  
 Comment from the counsel for respondents on the offer?
 
 **[01:21:04.910] Atty. Michael Wesley Poa**  
 Subject to cross, Your Honor.
 
-**[01:21:07.200] Sen. Francis “Chiz” Escudero**  
+**[01:21:07.200] Sen. Francis "Chiz" G. Escudero**  
 Subject to cross, counsel may proceed with her direct examination of the witness, Mr. Roderick C. Wamil, when she's ready. Thank
 
 **[01:21:16.240] Atty. Lorna Patajo-Kapunan**  
@@ -626,7 +626,7 @@ If I show you a document now entitled and this for appreciation of the Honorable
 **[01:26:49.870] Atty. Lorna Patajo-Kapunan**  
 on the screen with the permission of the Presiding Officer.
 
-**[01:26:57.210] Sen. Francis “Chiz” Escudero**  
+**[01:26:57.210] Sen. Francis "Chiz" G. Escudero**  
 Counsel may do so and may proceed.
 
 **[01:26:59.660] Atty. Lorna Patajo-Kapunan**  
@@ -638,22 +638,22 @@ Showing to you this document.
 **[01:27:19.650] Atty. Lorna Patajo-Kapunan**  
 We have here, Your Honor, we're being assisted here by...
 
-**[01:27:22.690] Sen. Francis “Chiz” Escudero**  
+**[01:27:22.690] Sen. Francis "Chiz" G. Escudero**  
 Assisting counsel may approach.
 
 **[01:27:24.090] Atty. Lorna Patajo-Kapunan**  
 Our associate attorney, Mark Penny.
 
-**[01:27:26.290] Sen. Francis “Chiz” Escudero**  
+**[01:27:26.290] Sen. Francis "Chiz" G. Escudero**  
 Likewise, assisting counsel for the respondent may approach.
 
 **[01:27:29.190] Atty. Lorna Patajo-Kapunan**  
 Thank you, Your Honor.
 
-**[01:27:29.990] Sen. Francis “Chiz” Escudero**  
+**[01:27:29.990] Sen. Francis "Chiz" G. Escudero**  
 The witness.
 
-**[01:28:23.610] Sen. Francis “Chiz” Escudero**  
+**[01:28:23.610] Sen. Francis "Chiz" G. Escudero**  
 While we're waiting, counsel, attorney Capunan, would you like to identify this document as previously marked so that we can have it on the record and for the reference?
 
 **[01:28:34.120] Atty. Lorna Patajo-Kapunan**  
@@ -770,19 +770,19 @@ Yes, ma'am. Okay.
 **[01:35:21.580] Atty. Lorna Patajo-Kapunan**  
 Now, nine years ka, you said, sa koa ikfaw. With
 
-**[01:35:26.700] Sen. Francis “Chiz” Escudero**  
+**[01:35:26.700] Sen. Francis "Chiz" G. Escudero**  
 the permission of counsel. Mr. Witness, you mentioned, it is mentioned in the JMC that it should be strictly interpreted and you said it's in the JMC. Where?
 
 **[01:35:36.760] Atty. Roderick C. Wamil**  
 Sa last paragraph po ng 1.0, Your Honor.
 
-**[01:35:41.540] Sen. Francis “Chiz” Escudero**  
+**[01:35:41.540] Sen. Francis "Chiz" G. Escudero**  
 Last paragraph ng 1.0? So in the rationale?
 
 **[01:35:46.700] Atty. Roderick C. Wamil**  
 Yes, Your Honor.
 
-**[01:35:47.840] Sen. Francis “Chiz” Escudero**  
+**[01:35:47.840] Sen. Francis "Chiz" G. Escudero**  
 Thank you. You may proceed, counsel.
 
 **[01:35:51.690] Atty. Lorna Patajo-Kapunan**  
@@ -878,7 +878,7 @@ Your Honor, please, these liquidation documents submitted by the Office of the V
 **[01:41:50.210] Atty. Lorna Patajo-Kapunan**  
 I ask Attorney Peña to please show these documents to our witness for purposes of comparison.
 
-**[01:41:58.240] Sen. Francis “Chiz” Escudero**  
+**[01:41:58.240] Sen. Francis "Chiz" G. Escudero**  
 Assisting counsel may approach the witness. Likewise, assisting counsel for the respondent, if they so wish. This is for the information of the Senator-Judges, given that the documents stipulated earlier were merely enumerated, so that the Senator-Judges may be appraised of the documents that have already been admitted to and stipulated to by both parties. Counsel may proceed.
 
 **[01:42:21.800] Atty. Lorna Patajo-Kapunan**  
@@ -887,7 +887,7 @@ Thank you, Your Honor. Since stipulated, there's no need really to compare. I am
 **[01:42:49.740] Atty. Lorna Patajo-Kapunan**  
 And likewise, for the record on the part of the defense, marked as D-1-23-OVP. That's correct, Your Honor. Yes, Your Honor.
 
-**[01:42:59.190] Sen. Francis “Chiz” Escudero**  
+**[01:42:59.190] Sen. Francis "Chiz" G. Escudero**  
 Will the witness please respond?
 
 **[01:43:02.740] Atty. Lorna Patajo-Kapunan**  
@@ -989,13 +989,13 @@ In the middle of this document, there appears a signature under the words, quote
 **[01:49:37.320] Atty. Michael Wesley Poa**  
 Your Honors, kindly we would like to object on that one. Your Honors, that calls for a conclusion of law.
 
-**[01:49:45.700] Sen. Francis “Chiz” Escudero**  
+**[01:49:45.700] Sen. Francis "Chiz" G. Escudero**  
 I'm sorry, counsel?
 
 **[01:49:46.860] Atty. Michael Wesley Poa**  
 That will call for a conclusion of law on the part of the witness, Your Honor. They're asking for what that means for the witness.
 
-**[01:49:52.320] Sen. Francis “Chiz” Escudero**  
+**[01:49:52.320] Sen. Francis "Chiz" G. Escudero**  
 Only insofar as how the witness interprets this provision given that he audited these documents and are part of the submission. Witness may answer.
 
 **[01:50:02.370] Atty. Roderick C. Wamil**  
@@ -1025,7 +1025,7 @@ At ano naman again? Ano ang violation nito sa Joint Circular?
 **[01:51:24.720] Atty. Roderick C. Wamil**  
 May I refer po to the Joint Circular, Your Honor, for the specific provision?
 
-**[01:51:29.020] Sen. Francis “Chiz” Escudero**  
+**[01:51:29.020] Sen. Francis "Chiz" G. Escudero**  
 Witness may refer to the Joint Circular previously, Mark.
 
 **[01:51:54.690] Atty. Roderick C. Wamil**  
@@ -1034,7 +1034,7 @@ The specific provision po is the second sentence po ng item 6.1.5 of the Joint C
 **[01:52:02.860] Atty. Lorna Patajo-Kapunan**  
 Being flashed on the screen, Your Honor, Presiding Officer, with your kind permission.
 
-**[01:52:08.650] Sen. Francis “Chiz” Escudero**  
+**[01:52:08.650] Sen. Francis "Chiz" G. Escudero**  
 You may do so, Counsel.
 
 **[01:52:15.790] Atty. Lorna Patajo-Kapunan**  
@@ -1052,13 +1052,13 @@ In the middle of this document, by the bottom, there appears a signature under t
 **[01:53:59.830] Atty. Lorna Patajo-Kapunan**  
 And this certification...
 
-**[01:54:02.790] Sen. Francis “Chiz” Escudero**  
+**[01:54:02.790] Sen. Francis "Chiz" G. Escudero**  
 Counsel, just to correct you, certified purpose of cash advance duly accomplished. There is no word travel.
 
 **[01:54:15.130] Atty. Lorna Patajo-Kapunan**  
 Yes, Your Honor. Do
 
-**[01:54:16.310] Sen. Francis “Chiz” Escudero**  
+**[01:54:16.310] Sen. Francis "Chiz" G. Escudero**  
 Do you confirm, counsel?
 
 **[01:54:17.050] Atty. Lorna Patajo-Kapunan**  
@@ -1160,7 +1160,7 @@ What relation does this have?
 **[01:58:15.580] Atty. Lorna Patajo-Kapunan**  
 We request permission to have it flashed on the screen as well.
 
-**[01:58:20.160] Sen. Francis “Chiz” Escudero**  
+**[01:58:20.160] Sen. Francis "Chiz" G. Escudero**  
 You may do so, counsel. Clerk of court is so directed.
 
 **[01:58:23.800] Atty. Roderick C. Wamil**  
@@ -1214,7 +1214,7 @@ Katulad nga po nung sinabi ko, ang basis namin to determine if allowable expense
 **[02:00:45.710] Atty. Lorna Patajo-Kapunan**  
 Now, I'm now showing to you a certified copy of the Office of the Vice President certification dated January 10, 2022. Notarized on January 16, 2023. Prosecutions exhibit P-1.6-A. Likewise, a common exhibit with the defense previously stipulated. Being flashed on the screen with the kind permission of this court.
 
-**[02:01:12.820] Sen. Francis “Chiz” Escudero**  
+**[02:01:12.820] Sen. Francis "Chiz" G. Escudero**  
 Counsel Mayduso.
 
 **[02:01:26.100] Atty. Lorna Patajo-Kapunan**  
@@ -1316,7 +1316,7 @@ Yes, ma'am.
 **[02:05:53.810] Atty. Lorna Patajo-Kapunan**  
 Na-point out mo na dito sa Honorable Court now. If I show you a copy of this audit, observation, memorandum that you mentioned, please identify the same.
 
-**[02:06:06.570] Sen. Francis “Chiz” Escudero**  
+**[02:06:06.570] Sen. Francis "Chiz" G. Escudero**  
 Assisting counsel for both parties may approach the witness.
 
 **[02:06:10.350] Atty. Lorna Patajo-Kapunan**  
@@ -1325,7 +1325,7 @@ Your Honor, please again, this is a common exhibit. This is exhibit P-1-12-A, da
 **[02:06:52.030] Atty. Lorna Patajo-Kapunan**  
 For the record, the witness is looking, well, is examining an audit observation memorandum dated September 14, 2023 covering the period December 21 to 31, 2022 or an 11-day period.
 
-**[02:07:13.330] Sen. Francis “Chiz” Escudero**  
+**[02:07:13.330] Sen. Francis "Chiz" G. Escudero**  
 Proceed, counsel.
 
 **[02:07:14.530] Atty. Lorna Patajo-Kapunan**  
@@ -1430,7 +1430,7 @@ Actually, on the afternoon of the same day po na nag-attempt si ICFAO na mag-ser
 **[02:13:01.830] Atty. Lorna Patajo-Kapunan**  
 So, on the same day, hindi nyo na-serve but nag-submit ng Revised Accomplishment Report ang Office of the Vice President. If shown to you a copy of this Accomplishment Report, Prosecution's Exhibit, P-1-17-A.
 
-**[02:13:21.550] Sen. Francis “Chiz” Escudero**  
+**[02:13:21.550] Sen. Francis "Chiz" G. Escudero**  
 Assisting counsels may approach of both parties.
 
 **[02:13:25.110] Atty. Lorna Patajo-Kapunan**  
@@ -1520,25 +1520,25 @@ Happened? Noong sinubmit ba lang Vice President yung sinasabi mong revised accom
 **[02:18:17.150] Atty. Michael Wesley Poa**  
 Objection, Your Honor, leading.
 
-**[02:18:18.710] Sen. Francis “Chiz” Escudero**  
+**[02:18:18.710] Sen. Francis "Chiz" G. Escudero**  
 With the permission of the— with the permission— objection is sustained. With the permission of the—
 
 **[02:18:25.700] Atty. Roderick C. Wamil**  
 parties.
 
-**[02:18:26.400] Sen. Francis “Chiz” Escudero**  
+**[02:18:26.400] Sen. Francis "Chiz" G. Escudero**  
 Earlier, it was agreed by the senator-judges that we would be pausing hopefully in time for lunch, really. And it has gone beyond already 12 o'clock. So before proceeding to the, I presume, a common exhibit previously stipulated to by both parties, you're referring to the AOM of October 3, 2023. Let's pause in the meantime. with the permission of the parties, again, in compliance with the agreement earlier made among the senator-judges. And we shall resume at 1 o'clock in order to afford the parties enough time for lunch.
 
-**[02:19:10.760] Sen. Francis “Chiz” Escudero**  
+**[02:19:10.760] Sen. Francis "Chiz" G. Escudero**  
 And again, with the indulgence of Attorney Kapunan, let's continue with the common exhibit stipulated by the parties. Particularly, I'm referring to AOM dated October 3, 2023. And before we go to the unstipulated portion of the acknowledgement receipts, which might take some time, again, with the permission of the parties, Atty. Kapunan, Atty. Poa, trial is— we are on recess and shall resume at 1 p.m.
 
 **[02:19:41.590] Atty. Lorna Patajo-Kapunan**  
 Thank you, Your Honor.
 
-**[03:11:02.320] Sen. Francis “Chiz” Escudero**  
+**[03:11:02.320] Sen. Francis "Chiz" G. Escudero**  
 So, Mr. Wamil, you shall continue with your testimony under the same oath.
 
-**[03:11:08.500] Sen. Francis “Chiz” Escudero**  
+**[03:11:08.500] Sen. Francis "Chiz" G. Escudero**  
 The status is that we are in the direct examination of the witness, Mr. Wamil, by the counsel for the panel of prosecutors, Attorney Lorna Capunan. Ma'am, you may proceed and continue if you are ready, when you are ready, rather.
 
 **[03:11:34.740] Atty. Lorna Patajo-Kapunan**  
@@ -1565,7 +1565,7 @@ Since hindi naman po na-issue yung aming first AOM dahil hindi nga po nila na-re
 **[03:12:54.990] Atty. Lorna Patajo-Kapunan**  
 Flashed on the screen, Your Honors, Mr. Presiding Officer, with your permission, is this AOM? Referred to by this witness, Mr. Witness, can you walk us, pakisabi sa atin lahat dito, ano ang mga na-observe mo dito sa AOM na sinubmit?
 
-**[03:13:20.340] Sen. Francis “Chiz” Escudero**  
+**[03:13:20.340] Sen. Francis "Chiz" G. Escudero**  
 Witness may refer to the document and may be assisted by assisting counsels for both parties.
 
 **[03:13:33.460] Atty. Roderick C. Wamil**  
@@ -1637,7 +1637,7 @@ Yes, ma'am.
 **[03:18:18.220] Atty. Lorna Patajo-Kapunan**  
 Your Honor, please, again, this is a stipulated document. Assistant
 
-**[03:18:22.850] Sen. Francis “Chiz” Escudero**  
+**[03:18:22.850] Sen. Francis "Chiz" G. Escudero**  
 counsel of both parties may approach the witness to guide him as to the document being identified.
 
 **[03:18:28.030] Atty. Lorna Patajo-Kapunan**  
@@ -1706,7 +1706,7 @@ Hindi rin po necessarily na confidential yung pangalan ng hardware dahil yan nga
 **[03:23:11.320] Atty. Lorna Patajo-Kapunan**  
 At this juncture, Your Honor, may we manifest...
 
-**[03:23:13.180] Sen. Francis “Chiz” Escudero**  
+**[03:23:13.180] Sen. Francis "Chiz" G. Escudero**  
 With the permission of counsel for the panel of prosecutors, yes, what is the pleasure of the counsel?
 
 **[03:23:17.260] Atty. Michael Wesley Poa**  
@@ -1718,13 +1718,13 @@ Unless,
 **[03:23:44.360] Atty. Michael Wesley Poa**  
 Your Honor, he can point to a specific provision in the joint circular.
 
-**[03:23:48.710] Sen. Francis “Chiz” Escudero**  
+**[03:23:48.710] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the panel of prosecutors, Attorney Kapunan may respond.
 
 **[03:23:52.490] Atty. Lorna Patajo-Kapunan**  
 Your Honor, please, Your Honor. First of all, they're asked and answered. Counsel should have timely objected when being asked. Three times he was asked. Secondly, Your Honor, I don't think it is accurate to say that this has no basis because earlier, pinaghirapan po namin pakita yung mga particular provisions ng Joint Circular 2015 para i-point out ano-ano ang mga pwedeng gamitan ng confidential funds at ano-ano ang pwedeng paggamit or bawal na paggamit ng confidential funds. And this witness, Your Honor, based on the circular did say that whatever activity that is must be related to the physical and financial plans submitted by the Office of the Vice President and or the DepEd. For instance, tables and chairs, what particular surveillance activity or operation or terrorist surveillance are tables and chairs and desktops and medicines and supplies related to the payment of rewards, Your Honor. Again, this witness cited the particular provision of the Joint Circular that says the payment of reward should not stop there. It should point, Your Honor, according to the Joint Circular, it should point to particular documents that would show or point to that activity by which the rewards were deserved, Your Honor. So it's very clear in the circular, Your Honor.
 
-**[03:25:39.720] Sen. Francis “Chiz” Escudero**  
+**[03:25:39.720] Sen. Francis "Chiz" G. Escudero**  
 Chair will make a ruling. As an answer that's correctly pointed out by counsel for the panel of prosecutors, aside from that, the witness is competent to testify as to how he evaluated the submissions made by the Office of the Vice President in relation to the liquidation of the confidential funds and not as an expert insofar as whether or not these are confidential, whether or not these are regular, whether or not these are violations of Republic Act 3019. The answer will remain part of the records.
 
 **[03:26:04.190] Atty. Michael Wesley Poa**  
@@ -1745,19 +1745,19 @@ Your Honor, I beg the indulgence of the Honorable Court as well as the distingui
 **[03:29:16.120] Atty. Lorna Patajo-Kapunan**  
 Can I just, my last manifestation, Your Honor, unent this acknowledgement receipt, Your Honor. You will note from the acknowledgement receipt that these are certified true copies. Certified true copies of receipts. submitted to the COA-ICFA, Your Honor. They are not documents from the prosecution. They are documents which this witness, by way of subpoena, dosis tecum, and testificandum, produced before this Court, Your Honor. So the provenance, the source of these documents, and there is a certification issued by his office, show that there should be no doubt as to where these documents came from. As to their existence, Your Honor, there should be no doubt.
 
-**[03:30:09.440] Sen. Francis “Chiz” Escudero**  
+**[03:30:09.440] Sen. Francis "Chiz" G. Escudero**  
 May the Presiding Officer ask, are we talking about the same number of documents to begin with? 847, correct, counsel? 845, Your Honor. 45, counsel for the respondent? I'm
 
 **[03:30:22.180] Atty. Michael Wesley Poa**  
 confirming now, Your Honor.
 
-**[03:30:27.260] Sen. Francis “Chiz” Escudero**  
+**[03:30:27.260] Sen. Francis "Chiz" G. Escudero**  
 Are the common exhibits for both prosecution and respondent 845 documents?
 
 **[03:30:37.550] Atty. Michael Wesley Poa**  
 Your Honor, the problem here is during the marking, there were inconsistencies with the number of ARs that were presented between each party, Your Honor, and that is why we cannot stipulate on the same. Now, as to the question on whether we have the same number for the fourth quarter, we are still verifying, Your Honor, but I am afraid I will waste the courts. time now if we verify further.
 
-**[03:31:03.440] Sen. Francis “Chiz” Escudero**  
+**[03:31:03.440] Sen. Francis "Chiz" G. Escudero**  
 Anyway, counsel, attorney Capunan, unfortunately, if they are not willing to stipulate, the court cannot twist their hand into so stipulating for whatever reason they may have. So, kindly proceed as you intended to.
 
 **[03:31:17.910] Atty. Lorna Patajo-Kapunan**  
@@ -1793,19 +1793,19 @@ Can you share them with us?
 **[03:32:45.350] Atty. Roderick C. Wamil**  
 Your Honor may be allowed. May I be allowed po to share the tabulation?
 
-**[03:32:48.970] Sen. Francis “Chiz” Escudero**  
+**[03:32:48.970] Sen. Francis "Chiz" G. Escudero**  
 Witness may get, may refer to his notes with respect to the tabulation, yes.
 
 **[03:32:54.910] Atty. Lorna Patajo-Kapunan**  
 Your Honor, please, I think defense counsel will note that this is not a pre-marked document during the pre-trial, but we had made a reservation that we will be marking documents in the course of this witness testimony.
 
-**[03:33:12.090] Sen. Francis “Chiz” Escudero**  
+**[03:33:12.090] Sen. Francis "Chiz" G. Escudero**  
 Assisting counsel for the parties may approach the witness and view the document being referred to by the witness.
 
 **[03:33:42.670] Atty. Lorna Patajo-Kapunan**  
 While counsel for the respondents are perusing the document, Your Honor, may we have this marked as Exhibit P-I-29.
 
-**[03:33:57.000] Sen. Francis “Chiz” Escudero**  
+**[03:33:57.000] Sen. Francis "Chiz" G. Escudero**  
 Later on, you may do so. The Clerk of Court is so instructed to... make the corresponding marking after— in due course, rather. Witness may answer the question.
 
 **[03:34:10.530] Atty. Roderick C. Wamil**  
@@ -1853,7 +1853,7 @@ Your Honor, just to manifest for
 **[03:36:00.040] Atty. Michael Wesley Poa**  
 the record while he's producing his notes that when I inspected the document, it seems to be a privately encoded document, a printout without any signature of who prepared it.
 
-**[03:36:13.400] Sen. Francis “Chiz” Escudero**  
+**[03:36:13.400] Sen. Francis "Chiz" G. Escudero**  
 Just a manifestation,
 
 **[03:36:14.760] Atty. Michael Wesley Poa**  
@@ -1862,7 +1862,7 @@ Your Honor,
 **[03:36:15.080] Atty. Roderick C. Wamil**  
 just to put
 
-**[03:36:15.460] Sen. Francis “Chiz” Escudero**  
+**[03:36:15.460] Sen. Francis "Chiz" G. Escudero**  
 Do you confirm, Mr. Witness?
 
 **[03:36:17.500] Atty. Roderick C. Wamil**  
@@ -1877,7 +1877,7 @@ many pages is your tabulation?
 **[03:36:44.130] Atty. Lorna Patajo-Kapunan**  
 Your Honor, please, this P-1-29, which is a tabulation consisting of 19 pages, we will request that they, at the appropriate time, be submarked as P-29-A up to N-series, Your Honor. Now.
 
-**[03:37:10.240] Sen. Francis “Chiz” Escudero**  
+**[03:37:10.240] Sen. Francis "Chiz" G. Escudero**  
 So ordered.
 
 **[03:37:16.620] Atty. Lorna Patajo-Kapunan**  
@@ -1934,19 +1934,19 @@ I think nasa notice of suspension po yung amount. May I be allowed po to refer t
 **[03:39:38.720] Atty. Lorna Patajo-Kapunan**  
 Okay.
 
-**[03:39:40.410] Sen. Francis “Chiz” Escudero**  
+**[03:39:40.410] Sen. Francis "Chiz" G. Escudero**  
 This is a stipulated document, right? Counsel?
 
 **[03:39:45.150] Atty. Lorna Patajo-Kapunan**  
 Yes, Your Honor. The notice of suspension is. We will ask again the question in due course.
 
-**[03:39:51.450] Sen. Francis “Chiz” Escudero**  
+**[03:39:51.450] Sen. Francis "Chiz" G. Escudero**  
 Kindly ask the question again. Counsel for the panel of prosecutors.
 
-**[03:39:59.600] Sen. Francis “Chiz” Escudero**  
+**[03:39:59.600] Sen. Francis "Chiz" G. Escudero**  
 Witness is asking for permission to refer to the notice of suspension to answer your question.
 
-**[03:40:16.010] Sen. Francis “Chiz” Escudero**  
+**[03:40:16.010] Sen. Francis "Chiz" G. Escudero**  
 Assistant Councils, Mayor Putsch.
 
 **[03:40:25.480] Atty. Roderick C. Wamil**  
@@ -1988,7 +1988,7 @@ Yes, ma'am.
 **[03:41:49.690] Atty. Lorna Patajo-Kapunan**  
 Your Honor, can we ask our attorney, Mark Peña, can I mention his name because his mother daw is watching?
 
-**[03:41:57.200] Sen. Francis “Chiz” Escudero**  
+**[03:41:57.200] Sen. Francis "Chiz" G. Escudero**  
 Um, assisting counsels may approach for both
 
 **[03:42:01.040] Atty. Lorna Patajo-Kapunan**  
@@ -2000,19 +2000,19 @@ Your Honor, the witness is being presented for the record 845 acknowledgement re
 **[03:42:32.360] Atty. Lorna Patajo-Kapunan**  
 a box and for purposes of reference, these have been marked as exhibits P-1-8 and series for the prosecution.
 
-**[03:42:44.840] Sen. Francis “Chiz” Escudero**  
+**[03:42:44.840] Sen. Francis "Chiz" G. Escudero**  
 How many boxes, counsel?
 
 **[03:42:47.100] Atty. Lorna Patajo-Kapunan**  
 Three boxes, Your Honor.
 
-**[03:42:50.910] Sen. Francis “Chiz” Escudero**  
+**[03:42:50.910] Sen. Francis "Chiz" G. Escudero**  
 What was the folder earlier given to the witness by Attorney Peña?
 
 **[03:42:58.210] Atty. Lorna Patajo-Kapunan**  
 The folder given, Your Honor, is just one of the folders, Your Honor.
 
-**[03:43:01.950] Sen. Francis “Chiz” Escudero**  
+**[03:43:01.950] Sen. Francis "Chiz" G. Escudero**  
 Inside the box?
 
 **[03:43:03.230] Atty. Lorna Patajo-Kapunan**  
@@ -2021,22 +2021,22 @@ Inside the box.
 **[03:43:05.680] Atty. Lorna Patajo-Kapunan**  
 So for the record, Your Honor, Attorney Peña showed to the witness a sample folder of a folder which is among the 845 documents inside several folders inside three boxes.
 
-**[03:43:29.680] Sen. Francis “Chiz” Escudero**  
+**[03:43:29.680] Sen. Francis "Chiz" G. Escudero**  
 Containing the 845 exhibits.
 
 **[03:43:33.160] Atty. Lorna Patajo-Kapunan**  
 Yes, Your Honor.
 
-**[03:43:37.340] Sen. Francis “Chiz” Escudero**  
+**[03:43:37.340] Sen. Francis "Chiz" G. Escudero**  
 Assisting counsel may show the witness a sample of the 845 acknowledgement receipts contained in a folder.
 
-**[03:44:01.130] Sen. Francis “Chiz” Escudero**  
+**[03:44:01.130] Sen. Francis "Chiz" G. Escudero**  
 So, Mr. Wamil, is this one of the 845 documents that you examined in relation to acknowledgement receipts pertaining to confidential funds allegedly spent for the period covering December 21 to December 31, 2022?
 
 **[03:44:18.940] Atty. Roderick C. Wamil**  
 Yes, sir. Yes, Your Honor.
 
-**[03:44:21.420] Sen. Francis “Chiz” Escudero**  
+**[03:44:21.420] Sen. Francis "Chiz" G. Escudero**  
 Your witness, counsel.
 
 **[03:44:23.000] Atty. Lorna Patajo-Kapunan**  
@@ -2054,25 +2054,25 @@ you please go over briefly the other folders?
 **[03:44:51.180] Atty. Lorna Patajo-Kapunan**  
 Your Honor, please, may we ask for a three-minute recess for this?
 
-**[03:44:54.960] Sen. Francis “Chiz” Escudero**  
+**[03:44:54.960] Sen. Francis "Chiz" G. Escudero**  
 For what purpose, counsel?
 
 **[03:44:56.540] Atty. Lorna Patajo-Kapunan**  
 So you can go over the folders and so I can sit down.
 
-**[03:45:07.030] Sen. Francis “Chiz” Escudero**  
+**[03:45:07.030] Sen. Francis "Chiz" G. Escudero**  
 Trial is suspended for how many minutes, counsel?
 
 **[03:45:12.570] Atty. Lorna Patajo-Kapunan**  
 Three minutes,
 
-**[03:45:14.710] Sen. Francis “Chiz” Escudero**  
+**[03:45:14.710] Sen. Francis "Chiz" G. Escudero**  
 then.
 
 **[03:45:15.190] Atty. Lorna Patajo-Kapunan**  
 Your Honor,
 
-**[03:56:15.960] Sen. Francis “Chiz” Escudero**  
+**[03:56:15.960] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the panel of prosecutors. Yes, ma'am.
 
 **[03:56:22.170] Atty. Lorna Patajo-Kapunan**  
@@ -2081,19 +2081,19 @@ If I may, Your Honor. As can be seen, the examination of the documents took more
 **[03:58:52.420] Atty. Lorna Patajo-Kapunan**  
 845 acknowledgement receipts, Your Honor, all of which are intended to just prove one thing, Your Honor, to prove that certain amounts are covered by acknowledgement receipts which were submitted by way of liquidation for confidential funds and the purpose for which they were spent or discharged or withdrawn. are not in compliance with Joint Circular 2015, Your Honor. That is the result intended from these 845 documents which we will no longer individually present. In lieu thereof, Your Honor, pursuant to Section 3C in conjunction with Section 7 of Rule 130, we will just be presenting the tabulation, Your Honor. Mark. As Exhibit P-1-29 and Series Your Honor, and reserve the right to just highlight certain select acknowledgement receipts which we will ask this witness to testify to as to the contents thereof, Your Honor.
 
-**[04:00:15.600] Sen. Francis “Chiz” Escudero**  
+**[04:00:15.600] Sen. Francis "Chiz" G. Escudero**  
 Comment from counsel for respondent?
 
 **[04:00:17.540] Atty. Michael Wesley Poa**  
 We have no objection to the applicability of the rule invoked, Your Honor, by the distinguished opposing counsel, without prejudice to our right to test the accuracy of the table at the proper time.
 
-**[04:00:28.890] Sen. Francis “Chiz” Escudero**  
+**[04:00:28.890] Sen. Francis "Chiz" G. Escudero**  
 And to individually question its authenticity during cross or during its presentation and to be given copies as well, should you so desire.
 
 **[04:00:38.810] Atty. Michael Wesley Poa**  
 Correct. Subject to cross, Your Honor.
 
-**[04:00:40.750] Sen. Francis “Chiz” Escudero**  
+**[04:00:40.750] Sen. Francis "Chiz" G. Escudero**  
 Counsel may proceed in accordance with Rule 130, Section 3C in relation to Section 7 in relation to given that the documents are indeed voluminous. And for the information of the senator-judges, this does not in any way detract. from the fact that the documents, the acknowledgement receipts do exist, only that they are too voluminous, therefore the witness will be testifying based on his summary of these documents instead of individually. Counsel for the panel of prosecutors may proceed.
 
 **[04:01:13.770] Atty. Lorna Patajo-Kapunan**  
@@ -2159,7 +2159,7 @@ Another, Piatos. Name, Rene Piatos.
 **[04:05:10.880] Atty. Lorna Patajo-Kapunan**  
 Pakibasa? The amount is... Counsel,
 
-**[04:05:15.260] Sen. Francis “Chiz” Escudero**  
+**[04:05:15.260] Sen. Francis "Chiz" G. Escudero**  
 it's Renan Piatos.
 
 **[04:05:17.380] Atty. Lorna Patajo-Kapunan**  
@@ -2201,19 +2201,19 @@ Discrepancy?
 **[04:06:40.420] Atty. Roderick C. Wamil**  
 Hindi po siya discrepancy. Hindi lang talaga siya pasok. Parang the payment was made outside the coverage noong cash advance.
 
-**[04:06:48.320] Sen. Francis “Chiz” Escudero**  
+**[04:06:48.320] Sen. Francis "Chiz" G. Escudero**  
 With the permission of counsel, December 21 to December 31, 2022 yung covered period ng disbursement nung confidential fund. Mr. Wamil, right?
 
 **[04:07:00.790] Atty. Roderick C. Wamil**  
 Yes, Your Honor.
 
-**[04:07:01.510] Sen. Francis “Chiz” Escudero**  
+**[04:07:01.510] Sen. Francis "Chiz" G. Escudero**  
 So when you say hindi pasok, hindi pasok doon sa period na iyon, December 21 to 31, 2022?
 
 **[04:07:08.230] Atty. Roderick C. Wamil**  
 Yes, Your Honor.
 
-**[04:07:09.270] Sen. Francis “Chiz” Escudero**  
+**[04:07:09.270] Sen. Francis "Chiz" G. Escudero**  
 Dahil 2023 ang nakalagay na taon, supposedly. Tama?
 
 **[04:07:14.130] Atty. Roderick C. Wamil**  
@@ -2222,7 +2222,7 @@ Yes, Your Honor.
 **[04:07:15.350] Atty. Lorna Patajo-Kapunan**  
 Okay. You
 
-**[04:07:15.910] Sen. Francis “Chiz” Escudero**  
+**[04:07:15.910] Sen. Francis "Chiz" G. Escudero**  
 may proceed, counsel.
 
 **[04:07:16.630] Atty. Lorna Patajo-Kapunan**  
@@ -2351,13 +2351,13 @@ Exactly, Your Honor, our point, Your Honor.
 **[04:13:32.690] Atty. Lorna Patajo-Kapunan**  
 Pikit.
 
-**[04:13:33.290] Sen. Francis “Chiz” Escudero**  
+**[04:13:33.290] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the panel of prosecutors, I think you know what the counsel for the respondent is talking about.
 
 **[04:13:38.730] Atty. Lorna Patajo-Kapunan**  
 Yes.
 
-**[04:13:39.190] Sen. Francis “Chiz” Escudero**  
+**[04:13:39.190] Sen. Francis "Chiz" G. Escudero**  
 Can they proceed accordingly?
 
 **[04:13:40.510] Atty. Lorna Patajo-Kapunan**  
@@ -2417,7 +2417,7 @@ Yes, ma'am.
 **[04:17:47.660] Atty. Lorna Patajo-Kapunan**  
 and for better appreciation of the Honorable Impeachment Court, we will be flashing the same on the screen.
 
-**[04:18:05.620] Sen. Francis “Chiz” Escudero**  
+**[04:18:05.620] Sen. Francis "Chiz" G. Escudero**  
 You may proceed, counsel.
 
 **[04:18:08.190] Atty. Lorna Patajo-Kapunan**  
@@ -2546,7 +2546,7 @@ po may issue yung notice of suspension ay wala na po akong personal knowledge si
 **[04:25:13.360] Atty. Lorna Patajo-Kapunan**  
 Thank you, Mr. Witness. We have just finished the liquidation of the last quarter of 2022. We are mindful, Your Honor, of the request of the presiding. Judge to end at 2.30. Would you like us to continue? There are three more quarters for the Office of the Vice President and the Department of Education. We can start for ten more minutes or we can end here.
 
-**[04:25:41.090] Sen. Francis “Chiz” Escudero**  
+**[04:25:41.090] Sen. Francis "Chiz" G. Escudero**  
 Let's end at 2.30, counsel. Let's try to use up the time. You can proceed with the first quarter of the OVP. All of these documents are admitted and stipulated to by the counsel for respondent anyway.
 
 **[04:25:52.770] Atty. Lorna Patajo-Kapunan**  
@@ -2573,7 +2573,7 @@ What Mr. Witness were...
 **[04:27:28.010] Atty. Lorna Patajo-Kapunan**  
 if any, were the liquidation documents submitted by the Office of the Vice President as regards the confidential funds received for first quarter and the second quarter of 2023?
 
-**[04:27:42.970] Sen. Francis “Chiz” Escudero**  
+**[04:27:42.970] Sen. Francis "Chiz" G. Escudero**  
 Counsel, just to point it out, I believe that the November 30 response pertains to the last quarter of 2022, not the first quarter of 2023.
 
 **[04:28:03.150] Atty. Lorna Patajo-Kapunan**  
@@ -2762,7 +2762,7 @@ three checks, and
 **[04:37:47.420] Atty. Lorna Patajo-Kapunan**  
 there is one last more.
 
-**[04:37:49.240] Sen. Francis “Chiz” Escudero**  
+**[04:37:49.240] Sen. Francis "Chiz" G. Escudero**  
 One more check, counsel.
 
 **[04:37:50.440] Atty. Lorna Patajo-Kapunan**  
@@ -2795,14 +2795,14 @@ Yes, ma'am.
 **[04:38:43.000] Atty. Lorna Patajo-Kapunan**  
 With the indulgence of counsel,
 
-**[04:38:44.600] Sen. Francis “Chiz” Escudero**  
+**[04:38:44.600] Sen. Francis "Chiz" G. Escudero**  
 you want to wrap up there and continue your direct tomorrow?
 
 **[04:38:48.440] Atty. Lorna Patajo-Kapunan**  
 Yes, Your Honor.
 
-**[04:38:53.410] Sen. Francis “Chiz” Escudero**  
+**[04:38:53.410] Sen. Francis "Chiz" G. Escudero**  
 The witness is excused. Mr. Wamil, kindly be here again tomorrow at 10 a.m. for the continuation of your testimony. You will be testifying under the same oath. Now, for some administrative matters.
 
-**[04:39:08.930] Sen. Francis “Chiz” Escudero**  
+**[04:39:08.930] Sen. Francis "Chiz" G. Escudero**  
 Pursuant to the July 20, 2026 ruling of the Presiding Officer, the BIR, Bureau of Internal Revenue, the Anti-Money Laundering Council, BDO Unibank, Philippine Savings Bank, PS Bank, Metropolitan Bank and Trust Company, Security Bank, Land Bank of the Philippines, and the Bank of the Philippine Islands, through their representatives, submitted. The subpoena documents to the Office of the Clerk of Court on July 30, 2026. During their submission, however, BDO, Unibank, and Security Bank manifested their request for an additional period of 10 days 10 banking days, rather, until August 13 to submit documents which they were not able to submit on time. BDO requested for additional time to retrieve, compile, produce, and submit Item number three in the subpoena, namely all account transactions, records, ledgers, journals, etc., and transaction logs. Meanwhile, security bank manifested that due to the volume, it was unable to complete the printing of documents pertaining to two of the 20 entities, namely GenCorp Industries and Cali88 Foods Corporation. And view of the foregoing. The court resolves to note and grant the request of BDO for an additional 10 days 10 banking days rather or until August 13 to submit the additional documents required by the subpoena duces tecum Likewise, BDO is directed to submit four additional USB flash drives containing the electronic copies of the subpoena documents which were submitted on July 30. The same ruling applies for the other banks and government agencies and offices. The Court also notes and grants the request of Security Bank for an additional 10 working days from July 30 until August 13 to submit to the Clerk of Court the three certified true copies and five USB flash drives containing the complete electronic copies of the bank records pertaining to GenCorp Industries Inc. and Cali Foods 88. For the information of the Senator-judges, the Clerk of Court received the submission coming from the BIR After the BIR Commissioner submitted a presidential authorization providing for the release of the documents from the BIR as required by Section 71 in relation to Section 270 of the National Internal Revenue Code in compliance again with the Court's directive prior to receiving its submission. for the information of the senator-judges and then for the information of the parties. Copies shall be given, if at all, to the parties after the submissions shall have been completed where the parties will be given equal opportunity to review the documents, photocopy the same, and study the same since this is still the last article we will be taking up. So ordered. If there are no other business to be taken up, we will adjourn the trial and for the information of the senator-judges, session shall... be convened at 3 p.m. in the afternoon upon advice of the Senate President, Senator, Senate President Nguyen Nguyen. Trial is adjourned until tomorrow, August 4, at 10 a.m.

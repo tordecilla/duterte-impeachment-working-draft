@@ -1,0 +1,281 @@
+{
+  "description": "A source-linked English audio overview of the day's proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for August 17, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00225",
+          "start_seconds": 3596.5699999999997,
+          "clock": "00:59:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00237",
+          "start_seconds": 3636.06,
+          "clock": "01:00:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00239",
+          "start_seconds": 3668.12,
+          "clock": "01:01:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00923",
+          "start_seconds": 11921.74,
+          "clock": "03:18:41",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S01060",
+          "start_seconds": 12742.6,
+          "clock": "03:32:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01161",
+          "start_seconds": 13325.24,
+          "clock": "03:42:05",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01164",
+          "start_seconds": 13391.64,
+          "clock": "03:43:11",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01333",
+          "start_seconds": 14717.03,
+          "clock": "04:05:17",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        }
+      ],
+      "heading": "The big picture",
+      "id": "P002",
+      "kind": "overview",
+      "text": "Office of the Vice President employee Gina F. Acosta made her first appearance before the Impeachment Court. The prosecution began her direct examination; over defense objection, the court declared her a hostile witness, allowing leading but not misleading questions. Acosta testified about releasing ₱125 million to Colonel Raymond Dante Lachica after an instruction she identified as coming from Vice President Sara Duterte. The examination also brought a dispute over AI-generated images used to compare cash bags, and it ended with Acosta still on direct examination."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00060",
+          "start_seconds": 1038.77,
+          "clock": "00:17:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00062",
+          "start_seconds": 1062.92,
+          "clock": "00:17:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00090B",
+          "start_seconds": 1596.15,
+          "clock": "00:26:36",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00105",
+          "start_seconds": 1720.76,
+          "clock": "00:28:40",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "A preliminary records step",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Before Acosta's examination, the parties streamlined a narrow House-records foundation through stipulations and limited judicial notice. House archives official Marivic M. Pareja was excused without substantive testimony, and the order did not establish the truth or relevance of the documents' contents."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00222",
+          "start_seconds": 3528.12,
+          "clock": "00:58:48",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00224",
+          "start_seconds": 3549.3,
+          "clock": "00:59:09",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00239",
+          "start_seconds": 3668.12,
+          "clock": "01:01:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00566",
+          "start_seconds": 6269.6,
+          "clock": "01:44:29",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S00634",
+          "start_seconds": 6740.72,
+          "clock": "01:52:20",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00643",
+          "start_seconds": 6876.38,
+          "clock": "01:54:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "How the examination proceeded",
+      "id": "P004",
+      "kind": "finding",
+      "text": "The defense argued that the prosecution had not established grounds to treat Acosta as adverse. The chair nevertheless authorized leading, but not misleading, questions. Later, when Acosta said she was confused, Senators Juan Miguel Zubiri and Erwin Tulfo proposed different language approaches; the chair directed counsel to use English or Filipino and translate only if Acosta asked for it."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00923",
+          "start_seconds": 11921.74,
+          "clock": "03:18:41",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00929",
+          "start_seconds": 11960.25,
+          "clock": "03:19:20",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00955",
+          "start_seconds": 12072.25,
+          "clock": "03:21:12",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00969",
+          "start_seconds": 12199.97,
+          "clock": "03:23:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01059B",
+          "start_seconds": 12723.8,
+          "clock": "03:32:03",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S01060",
+          "start_seconds": 12742.6,
+          "clock": "03:32:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The AI-imagery dispute",
+      "id": "P005",
+      "kind": "finding",
+      "text": "While questioning Acosta about the cash, prosecution counsel used AI-generated images to illustrate bundles and traveling bags. Defense challenged the source, foundation, and accuracy of those representations. The chair directed Acosta to answer, while noting the defense's continuing objection to the AI-generated imagery."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01161",
+          "start_seconds": 13325.24,
+          "clock": "03:42:05",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01164",
+          "start_seconds": 13391.64,
+          "clock": "03:43:11",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01223",
+          "start_seconds": 14010.6,
+          "clock": "03:53:30",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01229",
+          "start_seconds": 14056.28,
+          "clock": "03:54:16",
+          "speaker_name": "Gina F. Acosta"
+        }
+      ],
+      "heading": "Acosta's testimony",
+      "id": "P006",
+      "kind": "finding",
+      "text": "Acosta testified that she released ₱125 million to Colonel Raymond Dante Lachica after an instruction she identified as coming from Vice President Sara Duterte. She also said that Lachica later gave her utilization reports after confidential activities or operations were implemented. Those accounts were testimony, not findings by the court."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00150",
+          "start_seconds": 2762.36,
+          "clock": "00:46:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00246",
+          "start_seconds": 3762.58,
+          "clock": "01:02:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Limits on disputed material",
+      "id": "P007",
+      "kind": "finding",
+      "text": "The defense also objected to Davao confidential-fund material as outside the impeachment case. The court allowed that line of questioning only for a stated pattern-or-behavior purpose, saying it would not add to the pending impeachment charges, and noted the continuing objection."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01333",
+          "start_seconds": 14717.03,
+          "clock": "04:05:17",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S01334",
+          "start_seconds": 14724.97,
+          "clock": "04:05:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01335",
+          "start_seconds": 14730.39,
+          "clock": "04:05:30",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01343",
+          "start_seconds": 14795.24,
+          "clock": "04:06:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Where the day stopped",
+      "id": "P008",
+      "kind": "finding",
+      "text": "The prosecution ended for the afternoon with Acosta still on direct examination; defense cross had not begun. The chair suspended her testimony and adjourned early because of inclement weather."
+    },
+    {
+      "citations": [],
+      "heading": "How to use this overview",
+      "id": "P009",
+      "kind": "outro",
+      "text": "The episode page links every substantive point to the timed transcript and the original Senate video. Verify consequential wording against those sources before publication."
+    }
+  ],
+  "title": "Audio overview — August 17, 2026"
+}

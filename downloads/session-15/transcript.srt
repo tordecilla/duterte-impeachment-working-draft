@@ -1,18 +1,18 @@
 1
 00:05:52,780 --> 00:05:56,740
-Atty. Ma. Filomena D. Bantug: Senate President, the Presiding Officer, and the Senator-Judges of the Impeachment Court.
+Atty. Renato N. Bantug Jr.: Senate President, the Presiding Officer, and the Senator-Judges of the Impeachment Court.
 
 2
 00:06:23,990 --> 00:06:24,590
-Atty. Ma. Filomena D. Bantug: The
+Sen. Sherwin T. Gatchalian: The
 
 3
 00:06:27,700 --> 00:06:32,560
-Alfredo Sotto Corpuz: Sergeant
+Sen. Sherwin T. Gatchalian: Sergeant
 
 4
 00:06:41,960 --> 00:06:44,380
-Alfredo Sotto Corpuz: at Arms is directed to make a proclamation.
+Sen. Sherwin T. Gatchalian: at Arms is directed to make a proclamation.
 
 5
 00:06:45,950 --> 00:06:55,490
@@ -20,7 +20,7 @@ Alfredo Sotto Corpuz: All persons are commanded to keep silent under pain of pen
 
 6
 00:06:56,720 --> 00:07:05,880
-Atty. Ma. Filomena D. Bantug: The impeachment trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator-Judge Erwin Tunfo.
+Sen. Sherwin T. Gatchalian: The impeachment trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator-Judge Erwin Tulfo.
 
 7
 00:07:06,180 --> 00:07:06,840
@@ -32,35 +32,35 @@ Sen. Erwin Tulfo: ngalan ng Ama ng Anak na Espiritu Santo, Amen. Aming mapagmaha
 
 9
 00:09:04,650 --> 00:09:07,690
-Atty. Ma. Filomena D. Bantug: Amen. The Clerk of Court will now call the roll.
+Sen. Sherwin T. Gatchalian: Amen. The Clerk of Court will now call the roll.
 
 10
 00:09:08,050 --> 00:09:08,870
-Atty. Ma. Filomena D. Bantug: All call
+Atty. Renato N. Bantug Jr.: Roll call of members
 
 11
 00:09:08,870 --> 00:09:09,010
-Atty. Ma. Filomena D. Bantug: up
+Unknown speaker: ...
 
 12
 00:09:09,010 --> 00:09:09,230
-Atty. Ma. Filomena D. Bantug: members.
+Unknown speaker: ...
 
 13
 00:09:11,000 --> 00:09:55,680
-Atty. Renato N. Bantug Jr.: Senator-Judge Aquino, Senator-Judge Cayetano Alan, Senator-Judge Cayetano Pia, Senator-Judge De La Rosa, Senator-Judge Ejercito, Senator-Judge Estrada, Senator-Judge Goh, Senator-Judge Ontiveros, Senator-Judge Lacson, Senator-Judge Lapid, Senator-Judge Legarda, Senator-Judge Marcoleta, Senator-Judge Marcos. Senator-Judge Padilla, Senator-Judge Pangilinan, Senator-Judge Soto III, Senator-Judge Tulfo Erwin, Senator-Judge Tulfo Raffi, Senator-Judge Villanueva, Senator-Judge Villar Camil, Senator-Judge Villar Marc, Senator-Judge Zubiri, the presiding officer, Senator-Judge Escudero, Senate President, Senator-Judge Gachalian. With
+Atty. Renato N. Bantug Jr.: Senator-Judge Aquino, Senator-Judge Cayetano Alan, Senator-Judge Cayetano Pia, Senator-Judge De La Rosa, Senator-Judge Ejercito, Senator-Judge Estrada, Senator-Judge Goh, Senator-Judge Ontiveros, Senator-Judge Lacson, Senator-Judge Lapid, Senator-Judge Legarda, Senator-Judge Marcoleta, Senator-Judge Marcos. Senator-Judge Padilla, Senator-Judge Pangilinan, Senator-Judge Soto III, Senator-Judge Tulfo Erwin, Senator-Judge Tulfo Raffy, Senator-Judge Villanueva, Senator-Judge Villar Camil, Senator-Judge Villar Marc, Senator-Judge Zubiri, the presiding officer, Senator-Judge Escudero, Senate President, Senator-Judge Gachalian. With
 
 14
 00:09:55,680 --> 00:09:59,380
-Atty. Ma. Filomena D. Bantug: 18 senator-judges present, the chair declares the presence of a quorum.
+Sen. Sherwin T. Gatchalian: With 18 senator-judges present, the chair declares the presence of a quorum.
 
 15
 00:10:01,070 --> 00:10:10,910
-Atty. Ma. Filomena D. Bantug: In accordance with the rules of procedure on impeachment trial, the Chair now recognizes the duly elected presiding officer to preside over the proceedings of the impeachment court.
+Sen. Sherwin T. Gatchalian: In accordance with the rules of procedure on impeachment trial, the Chair now recognizes the duly elected presiding officer to preside over the proceedings of the impeachment court.
 
 16
 00:10:11,830 --> 00:10:29,180
-Sen. Francis “Chiz” Escudero: Thank you, Mr. Senate President. If there are no objections, we shall dispense with the reading of the Journal of August 11, 2026 of the Senate sitting as an impeachment court and shall consider the same as approved. The Clerk of Court will please call the case before the impeachment court.
+Sen. Francis "Chiz" G. Escudero: Thank you, Mr. Senate President. If there are no objections, we shall dispense with the reading of the Journal of August 11, 2026 of the Senate sitting as an impeachment court and shall consider the same as approved. The Clerk of Court will please call the case before the impeachment court.
 
 17
 00:10:29,710 --> 00:10:36,030
@@ -68,7 +68,7 @@ Atty. Renato N. Bantug Jr.: Case number 004-2026 in the matter of impeachment tr
 
 18
 00:10:36,510 --> 00:10:37,730
-Sen. Francis “Chiz” Escudero: Appearances of the parties.
+Sen. Francis "Chiz" G. Escudero: Appearances of the parties.
 
 19
 00:10:41,360 --> 00:10:45,800
@@ -80,7 +80,7 @@ Atty. Kristine R. Ferrer: Same appearance for the respondent, Your Honor. We are
 
 21
 00:10:50,460 --> 00:11:02,930
-Sen. Francis “Chiz” Escudero: Chair would like to direct the Clerk of Court through the OSA to kindly escort the witness, Ms. Aileen, to the witness stand. to continue with her testimony.
+Sen. Francis "Chiz" G. Escudero: Chair would like to direct the Clerk of Court through the OSA to kindly escort the witness, Ms. Aileen, to the witness stand. to continue with her testimony.
 
 22
 00:11:07,870 --> 00:11:08,610
@@ -88,7 +88,7 @@ Rep. Joel R. Chua: Your Honor.
 
 23
 00:11:10,280 --> 00:11:14,940
-Sen. Francis “Chiz” Escudero: While she is being led to the witness stand, yes, what is the pleasure of the Honorable Chua?
+Sen. Francis "Chiz" G. Escudero: While she is being led to the witness stand, yes, what is the pleasure of the Honorable Chua?
 
 24
 00:11:15,180 --> 00:11:26,220
@@ -96,15 +96,15 @@ Rep. Joel R. Chua: Your Honor, I understand that this is a continuation of the d
 
 25
 00:11:26,340 --> 00:11:32,780
-Sen. Francis “Chiz” Escudero: I believe the counsel for the panel of prosecutors, Atty. Lorna, terminated her direct yesterday. We are on cross today.
+Sen. Francis "Chiz" G. Escudero: I believe the counsel for the panel of prosecutors, Atty. Lorna, terminated her direct yesterday. We are on cross today.
 
 26
 00:11:34,310 --> 00:11:35,890
-Sen. Francis “Chiz” Escudero: Is that correct, Attorney Lorna?
+Sen. Francis "Chiz" G. Escudero: Is that correct, Attorney Lorna?
 
 27
 00:11:37,770 --> 00:11:39,130
-Sen. Francis “Chiz” Escudero: How is your platform, ma 'am?
+Sen. Francis "Chiz" G. Escudero: How is your platform, ma 'am?
 
 28
 00:11:42,210 --> 00:16:33,250
@@ -120,7 +120,7 @@ Atty. Lorna Patajo-Kapunan: the parties to separately submit their documents and
 
 31
 00:18:16,120 --> 00:18:28,850
-Sen. Francis “Chiz” Escudero: please. Counsel, before you respond, Attorney Christine, Counsel, Does your manifestation have anything to do with the fact that you've wound up your direct? Does that mean you intend to proceed with your direct again today?
+Sen. Francis "Chiz" G. Escudero: please. Counsel, before you respond, Attorney Christine, Counsel, Does your manifestation have anything to do with the fact that you've wound up your direct? Does that mean you intend to proceed with your direct again today?
 
 32
 00:18:29,390 --> 00:18:31,230
@@ -128,7 +128,7 @@ Atty. Lorna Patajo-Kapunan: No, Your Honor. So your
 
 33
 00:18:31,230 --> 00:18:31,830
-Sen. Francis “Chiz” Escudero: direct is done?
+Sen. Francis "Chiz" G. Escudero: direct is done?
 
 34
 00:18:32,350 --> 00:18:33,470
@@ -136,7 +136,7 @@ Atty. Lorna Patajo-Kapunan: It's a manifestation
 
 35
 00:18:33,470 --> 00:18:35,110
-Sen. Francis “Chiz” Escudero: in regard to the ARs?
+Sen. Francis "Chiz" G. Escudero: in regard to the ARs?
 
 36
 00:18:35,350 --> 00:18:57,810
@@ -144,7 +144,7 @@ Atty. Lorna Patajo-Kapunan: Your Honor, it depends on the discretion of the pres
 
 37
 00:18:58,590 --> 00:19:00,870
-Sen. Francis “Chiz” Escudero: I believe you already did yesterday, counsel.
+Sen. Francis "Chiz" G. Escudero: I believe you already did yesterday, counsel.
 
 38
 00:19:01,250 --> 00:19:32,460
@@ -152,15 +152,15 @@ Atty. Lorna Patajo-Kapunan: Yes, Your Honor, but under the control, we, private 
 
 39
 00:19:32,680 --> 00:21:04,420
-Sen. Francis “Chiz” Escudero: In the interest of moving forward, don't worry, Atty. Sailin. No need to comment. The Chair will make a ruling. Last night, The acknowledgement receipts that came from the counsel for respondents were submitted already to the Clerk of Court for comparison with the ARs of the prosecution. Both are certified through copies, although some ARs are certified by a different certifying officer from COA, but both are certified through copies and we will proceed with the comparison. It was clear from the witness yesterday and it's clear to the court that she based her tabulation on the ARs that she said were all certified by the same person. That's your copy, counsel. And we took note of that and acknowledged that. These are certified true copies from both sides as you will compare to avoid that situation from happening. And we will be ruling on the admissibility of these ARs once it is formally offered based on this comparison. Without need for Silene really to tell us that they look alike or are alike. But counsel, as of yesterday, insofar as the randomly picked or well-chosen ARs yesterday, counsel for the respondent did not raise their copies. Apparently, or we will know now at cross, apparently there is no discrepancy or difference when you are presenting those ARs to the witness.
+Sen. Francis "Chiz" G. Escudero: In the interest of moving forward, don't worry, Atty. Sailin. No need to comment. The Chair will make a ruling. Last night, The acknowledgement receipts that came from the counsel for respondents were submitted already to the Clerk of Court for comparison with the ARs of the prosecution. Both are certified through copies, although some ARs are certified by a different certifying officer from COA, but both are certified through copies and we will proceed with the comparison. It was clear from the witness yesterday and it's clear to the court that she based her tabulation on the ARs that she said were all certified by the same person. That's your copy, counsel. And we took note of that and acknowledged that. These are certified true copies from both sides as you will compare to avoid that situation from happening. And we will be ruling on the admissibility of these ARs once it is formally offered based on this comparison. Without need for Silene really to tell us that they look alike or are alike. But counsel, as of yesterday, insofar as the randomly picked or well-chosen ARs yesterday, counsel for the respondent did not raise their copies. Apparently, or we will know now at cross, apparently there is no discrepancy or difference when you are presenting those ARs to the witness.
 
 40
 00:21:06,040 --> 00:21:42,380
-Sen. Francis “Chiz” Escudero: And again, that is their right. to present their copy because their theory is they're questioning, correct me if I'm wrong, Atty. Sailin, the chain of custody. It might have been broken. But if it's not broken insofar as the ARs and after we compare it, then there is no need to further belabor this point. We will rule on the matter, counsel, at the appropriate time. But I'm telling you already where the court is at this point in time in relation to the ARs that Sailin testified to and where she based her tables and summaries upon. And that is the copies of the prosecutor.
+Sen. Francis "Chiz" G. Escudero: And again, that is their right. to present their copy because their theory is they're questioning, correct me if I'm wrong, Atty. Sailin, the chain of custody. It might have been broken. But if it's not broken insofar as the ARs and after we compare it, then there is no need to further belabor this point. We will rule on the matter, counsel, at the appropriate time. But I'm telling you already where the court is at this point in time in relation to the ARs that Sailin testified to and where she based her tables and summaries upon. And that is the copies of the prosecutor.
 
 41
 00:21:43,950 --> 00:21:45,810
-Sen. Francis “Chiz” Escudero: I hope that settles the issue, counsel.
+Sen. Francis "Chiz" G. Escudero: I hope that settles the issue, counsel.
 
 42
 00:21:46,370 --> 00:22:06,800
@@ -168,7 +168,7 @@ Atty. Lorna Patajo-Kapunan: Thank you, Mr. Presiding Officer. I think with that 
 
 43
 00:22:06,800 --> 00:22:16,060
-Sen. Francis “Chiz” Escudero: subject to the comparison that the clerk will be making of these copies coming from both parties, which you will make known to the parties without need of Silene's presence thereat.
+Sen. Francis "Chiz" G. Escudero: subject to the comparison that the clerk will be making of these copies coming from both parties, which you will make known to the parties without need of Silene's presence thereat.
 
 44
 00:22:16,740 --> 00:22:53,930
@@ -176,7 +176,7 @@ Atty. Lorna Patajo-Kapunan: My last manifestation, Your Honor, and this is for p
 
 45
 00:22:53,930 --> 00:22:58,350
-Sen. Francis “Chiz” Escudero: Before you continue, counsel, the one you mentioned is the one made by Atty. Wamil.
+Sen. Francis "Chiz" G. Escudero: Before you continue, counsel, the one you mentioned is the one made by Atty. Wamil.
 
 46
 00:22:58,970 --> 00:22:59,810
@@ -184,7 +184,7 @@ Atty. Lorna Patajo-Kapunan: Yes, Your Honor.
 
 47
 00:23:00,010 --> 00:23:03,850
-Sen. Francis “Chiz” Escudero: And the subsequent ones will be the ones made by Ms. Aileen.
+Sen. Francis "Chiz" G. Escudero: And the subsequent ones will be the ones made by Ms. Aileen.
 
 48
 00:23:04,070 --> 00:23:04,690
@@ -192,7 +192,7 @@ Atty. Lorna Patajo-Kapunan: Yes, Your Honor.
 
 49
 00:23:04,870 --> 00:23:05,230
-Sen. Francis “Chiz” Escudero: You may proceed.
+Sen. Francis "Chiz" G. Escudero: You may proceed.
 
 50
 00:23:05,770 --> 00:24:47,330
@@ -204,7 +204,7 @@ Atty. Lorna Patajo-Kapunan: for the first quarter, p-1-34 for the second quarter
 
 52
 00:25:32,140 --> 00:25:38,380
-Sen. Francis “Chiz” Escudero: Duly noted, counsel. The markings are mentioned by Atty. Capunan, Atty. Lorna. Duly noted.
+Sen. Francis "Chiz" G. Escudero: Duly noted, counsel. The markings are mentioned by Atty. Capunan, Atty. Lorna. Duly noted.
 
 53
 00:25:39,410 --> 00:25:44,050
@@ -212,7 +212,7 @@ Atty. Lorna Patajo-Kapunan: We need, therefore, reiterate that we have terminate
 
 54
 00:25:44,270 --> 00:25:50,450
-Sen. Francis “Chiz” Escudero: Thank you very much, counsel. Attorney Christine, you may proceed with your cross when you are ready. You may proceed, ma'am.
+Sen. Francis "Chiz" G. Escudero: Thank you very much, counsel. Attorney Christine, you may proceed with your cross when you are ready. You may proceed, ma'am.
 
 55
 00:25:50,810 --> 00:25:51,690
@@ -232,7 +232,7 @@ Atty. Kristine R. Ferrer: August 26. So that is around 12 years already.
 
 59
 00:26:14,050 --> 00:26:16,070
-Atty. Kristine Ferrer Del Campo: Yes po, magti-12 years. Okay.
+Cylene May L. Del Campo: Yes po, magti-12 years. Okay.
 
 60
 00:26:17,150 --> 00:26:33,270
@@ -248,7 +248,7 @@ Atty. Kristine R. Ferrer: Curious lang ako, Ms. Cylene, was that reassignment a 
 
 63
 00:26:43,770 --> 00:26:45,510
-Atty. Kristine Ferrer Del Campo: Yung kay Mr. Wamil
+Cylene May L. Del Campo: Yung kay Mr. Wamil
 
 64
 00:26:45,510 --> 00:26:48,710
@@ -272,7 +272,7 @@ Atty. Kristine R. Ferrer: for the fourth quarter of 2024 for the OVP. Tama?
 
 69
 00:27:10,870 --> 00:27:15,630
-Atty. Kristine Ferrer Del Campo: Yung AOM po is for the fourth quarter of 2022. Ah,
+Cylene May L. Del Campo: Yung AOM po is for the fourth quarter of 2022. Ah,
 
 70
 00:27:15,670 --> 00:27:43,440
@@ -284,7 +284,7 @@ Atty. Lorna Patajo-Kapunan: The question is misleading, Your Honor. It is not Mr
 
 72
 00:27:52,020 --> 00:27:59,400
-Sen. Francis “Chiz” Escudero: The question was if there was an office memorandum reassigning her to take over from Wamil, not Wamil himself. Witness may answer?
+Sen. Francis "Chiz" G. Escudero: The question was if there was an office memorandum reassigning her to take over from Wamil, not Wamil himself. Witness may answer?
 
 73
 00:28:00,630 --> 00:28:04,230
@@ -292,7 +292,7 @@ Cylene May L. Del Campo: Yung sa assignment po kasi namin, ang hawak namin...
 
 74
 00:28:04,230 --> 00:28:04,710
-Sen. Francis “Chiz” Escudero: Just
+Sen. Francis "Chiz" G. Escudero: Just
 
 75
 00:28:04,710 --> 00:28:17,390
@@ -308,7 +308,7 @@ Atty. Kristine R. Ferrer: Particularly the office of the Vice President and the 
 
 78
 00:28:28,510 --> 00:28:30,020
-Sen. Francis “Chiz” Escudero: Ask and answer, Your Honor.
+Sen. Francis "Chiz" G. Escudero: Ask and answer, Your Honor.
 
 79
 00:28:30,020 --> 00:28:35,680
@@ -316,7 +316,7 @@ Atty. Kristine R. Ferrer: Hindi, my question was specific. I'm referring to the 
 
 80
 00:28:35,740 --> 00:28:36,340
-Sen. Francis “Chiz” Escudero: Witness may answer.
+Sen. Francis "Chiz" G. Escudero: Witness may answer.
 
 81
 00:28:36,500 --> 00:28:41,780
@@ -324,7 +324,7 @@ Atty. Kristine R. Ferrer: These are national agencies. Your Honor, please, can t
 
 82
 00:28:41,780 --> 00:28:45,140
-Sen. Francis “Chiz” Escudero: and answer, Your Honor. Witness may answer, Councils.
+Sen. Francis "Chiz" G. Escudero: and answer, Your Honor. Witness may answer, Councils.
 
 83
 00:28:45,140 --> 00:28:49,760
@@ -404,7 +404,7 @@ Atty. Kristine R. Ferrer: Yung mismong document. So walang transmittal na iniwan
 
 102
 00:30:21,180 --> 00:30:23,460
-Atty. Kristine Ferrer Del Campo: Opo, yung mismong documents po yun. Okay,
+Cylene May L. Del Campo: Opo, yung mismong documents po yun. Okay,
 
 103
 00:30:23,620 --> 00:30:24,060
@@ -428,15 +428,15 @@ Atty. Kristine R. Ferrer: rephrase. I will rephrase.
 
 108
 00:30:55,010 --> 00:30:55,530
-Sen. Francis “Chiz” Escudero: Kindly
+Sen. Francis "Chiz" G. Escudero: Kindly
 
 109
 00:30:55,530 --> 00:30:58,650
-Sen. Francis “Chiz” Escudero: rephrase, counsel. May iniwan bang worksheets sa kustodyan?
+Sen. Francis "Chiz" G. Escudero: rephrase, counsel. May iniwan bang worksheets sa kustodyan?
 
 110
 00:30:58,790 --> 00:31:05,290
-Atty. Kristine Ferrer Del Campo: Yes, po. Nakasama po dun sa files yung mga working papers po. Alright.
+Cylene May L. Del Campo: Yes, po. Nakasama po dun sa files yung mga working papers po. Alright.
 
 111
 00:31:05,450 --> 00:31:07,210
@@ -512,7 +512,7 @@ Atty. Lorna Patajo-Kapunan: continuing objection. Excuse me, counsel. We will ha
 
 129
 00:34:36,220 --> 00:34:49,800
-Sen. Francis “Chiz” Escudero: That is up to her, counsel. She may confront the witness with their copy of the AAM. I'm sure she would be competent to testify whether these are the same documents earlier identified as exhibits for the prosecution or not. Counsel, you may proceed.
+Sen. Francis "Chiz" G. Escudero: That is up to her, counsel. She may confront the witness with their copy of the AAM. I'm sure she would be competent to testify whether these are the same documents earlier identified as exhibits for the prosecution or not. Counsel, you may proceed.
 
 130
 00:34:50,000 --> 00:34:55,660
@@ -536,11 +536,11 @@ Atty. Lorna Patajo-Kapunan: We will not agree, Your Honor, to the presentation o
 
 135
 00:35:35,540 --> 00:35:36,640
-Sen. Francis “Chiz” Escudero: Allow her to finish,
+Sen. Francis "Chiz" G. Escudero: Allow her to finish,
 
 136
 00:35:36,780 --> 00:35:37,260
-Sen. Francis “Chiz” Escudero: counsel. They are
+Sen. Francis "Chiz" G. Escudero: counsel. They are
 
 137
 00:35:37,260 --> 00:35:57,690
@@ -548,19 +548,19 @@ Atty. Lorna Patajo-Kapunan: now constrained, Your Honor. I'm sorry. They are now
 
 138
 00:35:58,130 --> 00:36:15,550
-Sen. Francis “Chiz” Escudero: Counsel, that water is already under the bridge. You may request assisting counsel to check the copy being presented to Ms. Aileen and you may make this the subject matter of your redirect later on. Allow counsel to present Thank you, Your Honor. The presenting
+Sen. Francis "Chiz" G. Escudero: Counsel, that water is already under the bridge. You may request assisting counsel to check the copy being presented to Ms. Aileen and you may make this the subject matter of your redirect later on. Allow counsel to present Thank you, Your Honor. The presenting
 
 139
 00:36:15,550 --> 00:36:23,340
-Sen. Francis “Chiz” Escudero: officer will allow the counsel to present that document but notes the continuing objection of Atty. Capone with respect to this matter. Thank
+Sen. Francis "Chiz" G. Escudero: officer will allow the counsel to present that document but notes the continuing objection of Atty. Capone with respect to this matter. Thank
 
 140
 00:36:23,340 --> 00:36:23,480
-Sen. Francis “Chiz” Escudero: you,
+Sen. Francis "Chiz" G. Escudero: you,
 
 141
 00:36:23,540 --> 00:36:24,320
-Sen. Francis “Chiz” Escudero: Your Honor. Okay.
+Sen. Francis "Chiz" G. Escudero: Your Honor. Okay.
 
 142
 00:36:25,440 --> 00:36:37,890
@@ -572,7 +572,7 @@ Atty. Kristine R. Ferrer: So, the first AOM is dated September 14, 2023. It's AO
 
 144
 00:37:01,840 --> 00:37:02,620
-Atty. Ma. Filomena D. Bantug: The
+Atty. Kristine R. Ferrer: The
 
 145
 00:37:02,870 --> 00:37:08,750
@@ -592,7 +592,7 @@ Atty. Kristine R. Ferrer: Okay. Who is JMQ?
 
 149
 00:37:37,950 --> 00:37:45,050
-Cylene May L. Del Campo: Dati pong staff namin sa IGFAO. GAC? Division Chief po ng IGFAO.
+Cylene May L. Del Campo: Dati pong staff namin sa ICFAO. GAC? Division Chief po ng IGFAO.
 
 150
 00:37:45,270 --> 00:37:48,530
@@ -704,7 +704,7 @@ Atty. Kristine R. Ferrer: So, From February 2024, noong umalis na si Mr. Wamil, 
 
 177
 00:40:19,180 --> 00:40:22,920
-Sen. Francis “Chiz” Escudero: the basis for question counsel. So, after
+Sen. Francis "Chiz" G. Escudero: the basis for question counsel. So, after
 
 178
 00:40:22,920 --> 00:40:27,090
@@ -752,7 +752,7 @@ Atty. Kristine R. Ferrer: So, let's go to the DepEd, ano? Sige, doon din tayo sa
 
 189
 00:41:31,450 --> 00:41:32,350
-Atty. Kristine Ferrer Del Campo: Opo. Alright.
+Cylene May L. Del Campo: Opo. Alright.
 
 190
 00:41:36,100 --> 00:41:38,020
@@ -832,7 +832,7 @@ Atty. Kristine R. Ferrer: Your Honor, David po ang pangalan niya para pwede niyo
 
 209
 00:43:16,470 --> 00:43:17,530
-Sen. Francis “Chiz” Escudero: Thank you for that, counsel.
+Sen. Francis "Chiz" G. Escudero: Thank you for that, counsel.
 
 210
 00:43:17,650 --> 00:43:20,690
@@ -848,15 +848,15 @@ Atty. Kristine R. Ferrer: Your Honor, call our assistant? Counsel, Your Honor, A
 
 213
 00:43:24,430 --> 00:43:25,510
-Sen. Francis “Chiz” Escudero: J. De
+Sen. Francis "Chiz" G. Escudero: J. De
 
 214
 00:43:25,510 --> 00:43:25,910
-Sen. Francis “Chiz” Escudero: La Cruz.
+Sen. Francis "Chiz" G. Escudero: La Cruz.
 
 215
 00:43:26,230 --> 00:43:26,870
-Sen. Francis “Chiz” Escudero: So,
+Sen. Francis "Chiz" G. Escudero: So,
 
 216
 00:43:29,220 --> 00:43:33,020
@@ -952,7 +952,7 @@ Atty. Kristine R. Ferrer: tama po. Number four. Punta tayo sa number four. Item 
 
 239
 00:47:48,560 --> 00:47:52,000
-Atty. Kristine Ferrer Del Campo: yung basa ko ng narrative. Opo, nakalagay po yung engagement.
+Cylene May L. Del Campo: yung basa ko ng narrative. Opo, nakalagay po yung engagement.
 
 240
 00:47:52,340 --> 00:47:53,240
@@ -1012,15 +1012,15 @@ Atty. Kristine R. Ferrer: Gusto ko man hong isa-isahin ito, Your Honor, pero I t
 
 254
 00:51:17,610 --> 00:51:18,830
-Sen. Francis “Chiz” Escudero: Mr. Witness. Gusto
+Sen. Francis "Chiz" G. Escudero: Mr. Witness. Gusto
 
 255
 00:51:18,830 --> 00:51:19,650
-Sen. Francis “Chiz” Escudero: mo, attorney?
+Sen. Francis "Chiz" G. Escudero: mo, attorney?
 
 256
 00:51:19,970 --> 00:51:24,590
-Sen. Francis “Chiz” Escudero: Once it is formally offered, that's when we will be able to peruse it.
+Sen. Francis "Chiz" G. Escudero: Once it is formally offered, that's when we will be able to peruse it.
 
 257
 00:51:24,830 --> 00:51:29,450
@@ -1244,7 +1244,7 @@ Atty. Kristine R. Ferrer: Your Honor, this has been marked as Exhibit D-1-116-OV
 
 312
 01:01:07,020 --> 01:01:08,080
-Atty. Kristine Ferrer Del Campo: Opo. Okay,
+Cylene May L. Del Campo: Opo. Okay,
 
 313
 01:01:08,080 --> 01:01:32,620
@@ -1304,7 +1304,7 @@ Atty. Kristine R. Ferrer: Number 5 po, no? Intel fusion with the, for the threat
 
 327
 01:03:19,240 --> 01:03:20,440
-Atty. Kristine Ferrer Del Campo: Opo. Okay,
+Cylene May L. Del Campo: Opo. Okay,
 
 328
 01:03:20,520 --> 01:03:21,160
@@ -1436,7 +1436,7 @@ Atty. Kristine R. Ferrer: kindly turn
 
 360
 01:06:34,200 --> 01:06:35,660
-Sen. Francis “Chiz” Escudero: on the mic for the prosecutor.
+Sen. Francis "Chiz" G. Escudero: on the mic for the prosecutor.
 
 361
 01:06:36,720 --> 01:06:37,460
@@ -1476,7 +1476,7 @@ Atty. Kristine R. Ferrer: Kaya nga po, sinasabi ko, attorney, kaya nga po, kinuk
 
 370
 01:07:05,130 --> 01:07:23,470
-Sen. Francis “Chiz” Escudero: counsel, counsel, if you please. Witness may answer. Objection is overruled. Witness said that she indeed disallowed and or gave AOMs because there was no proof of success. I even remember her saying, wala naman daw na huli. So, please answer, Celine.
+Sen. Francis "Chiz" G. Escudero: counsel, counsel, if you please. Witness may answer. Objection is overruled. Witness said that she indeed disallowed and or gave AOMs because there was no proof of success. I even remember her saying, wala naman daw na huli. So, please answer, Celine.
 
 371
 01:07:24,000 --> 01:07:39,840
@@ -1508,7 +1508,7 @@ Atty. Lorna Patajo-Kapunan: Counsel,
 
 378
 01:07:57,900 --> 01:08:01,420
-Sen. Francis “Chiz” Escudero: kindly wait for Ma'am Attorney Kapunan to finish with her objection.
+Sen. Francis "Chiz" G. Escudero: kindly wait for Ma'am Attorney Kapunan to finish with her objection.
 
 379
 01:08:01,880 --> 01:08:03,040
@@ -1516,7 +1516,7 @@ Atty. Lorna Patajo-Kapunan: Are you referring to
 
 380
 01:08:03,040 --> 01:08:04,940
-Sen. Francis “Chiz” Escudero: I will
+Sen. Francis "Chiz" G. Escudero: I will
 
 381
 01:08:04,940 --> 01:08:05,160
@@ -1528,7 +1528,7 @@ Atty. Kristine R. Ferrer: my question. Counsel,
 
 383
 01:08:07,640 --> 01:08:10,020
-Sen. Francis “Chiz” Escudero: please address the court, not each
+Sen. Francis "Chiz" G. Escudero: please address the court, not each
 
 384
 01:08:10,020 --> 01:08:36,560
@@ -1536,7 +1536,7 @@ Atty. Lorna Patajo-Kapunan: other. Your Honor, please. May I object to this line
 
 385
 01:08:36,640 --> 01:08:44,240
-Sen. Francis “Chiz” Escudero: The objection is noted and counsel has already stated that she will rephrase, kindly rephrase, Attorney Christine.
+Sen. Francis "Chiz" G. Escudero: The objection is noted and counsel has already stated that she will rephrase, kindly rephrase, Attorney Christine.
 
 386
 01:08:46,010 --> 01:08:59,080
@@ -1544,7 +1544,7 @@ Atty. Kristine R. Ferrer: Ang tanong ko kanina, sabi nyo nga, dinisallow nyo yun
 
 387
 01:08:59,720 --> 01:09:00,780
-Atty. Kristine Ferrer Del Campo: Opo. Okay.
+Cylene May L. Del Campo: Opo. Okay.
 
 388
 01:09:00,820 --> 01:09:06,920
@@ -1580,11 +1580,11 @@ Cylene May L. Del Campo: or no?
 
 396
 01:09:51,850 --> 01:09:53,510
-Sen. Francis “Chiz” Escudero: Do you agree?
+Sen. Francis "Chiz" G. Escudero: Do you agree?
 
 397
 01:09:55,070 --> 01:09:56,590
-Sen. Francis “Chiz” Escudero: Kasama po ba yun o hindi?
+Sen. Francis "Chiz" G. Escudero: Kasama po ba yun o hindi?
 
 398
 01:09:57,700 --> 01:10:05,960
@@ -1592,7 +1592,7 @@ Cylene May L. Del Campo: Yung sa crime prevention po, kasama po yun sa... Pero d
 
 399
 01:10:06,160 --> 01:10:11,700
-Sen. Francis “Chiz” Escudero: kasama po ba siya sa surveillance at paggamit ng confidential fund, crime prevention? Yes or no?
+Sen. Francis "Chiz" G. Escudero: kasama po ba siya sa surveillance at paggamit ng confidential fund, crime prevention? Yes or no?
 
 400
 01:10:11,880 --> 01:10:12,720
@@ -1688,7 +1688,7 @@ Atty. Lorna Patajo-Kapunan: I am on cross, Your Honor, please.
 
 423
 01:12:01,620 --> 01:12:03,080
-Sen. Francis “Chiz” Escudero: Never mind
+Sen. Francis "Chiz" G. Escudero: Never mind
 
 424
 01:12:03,080 --> 01:12:10,200
@@ -1700,7 +1700,7 @@ Atty. Kristine R. Ferrer: Please,
 
 426
 01:12:13,280 --> 01:12:23,600
-Sen. Francis “Chiz” Escudero: counsels, let's not allow the generational or seeming generational divide increase the tension in the courtroom. Let's keep it a notch lower.
+Sen. Francis "Chiz" G. Escudero: counsels, let's not allow the generational or seeming generational divide increase the tension in the courtroom. Let's keep it a notch lower.
 
 427
 01:12:26,510 --> 01:12:30,010
@@ -1708,7 +1708,7 @@ Atty. Lorna Patajo-Kapunan: preventing myself from giving her a spanking, Your H
 
 428
 01:12:30,970 --> 01:12:31,550
-Sen. Francis “Chiz” Escudero: That
+Sen. Francis "Chiz" G. Escudero: That
 
 429
 01:12:31,550 --> 01:12:32,430
@@ -1716,7 +1716,7 @@ Atty. Lorna Patajo-Kapunan: is what I would
 
 430
 01:12:32,430 --> 01:12:35,350
-Sen. Francis “Chiz” Escudero: have done in the generational divide,
+Sen. Francis "Chiz" G. Escudero: have done in the generational divide,
 
 431
 01:12:35,590 --> 01:12:35,870
@@ -1724,11 +1724,11 @@ Atty. Lorna Patajo-Kapunan: Your Honor.
 
 432
 01:12:35,870 --> 01:12:40,830
-Sen. Francis “Chiz” Escudero: Your Honor, please. You are all members of the bar and you are all counsels for the parties.
+Sen. Francis "Chiz" G. Escudero: Your Honor, please. You are all members of the bar and you are all counsels for the parties.
 
 433
 01:12:42,130 --> 01:12:47,690
-Sen. Francis “Chiz” Escudero: And we will be treating and looking at each one equally. Ms. Aileen.
+Sen. Francis "Chiz" G. Escudero: And we will be treating and looking at each one equally. Ms. Aileen.
 
 434
 01:12:48,900 --> 01:12:52,600
@@ -1744,7 +1744,7 @@ Atty. Kristine R. Ferrer: end there,
 
 437
 01:13:01,880 --> 01:13:02,080
-Sen. Francis “Chiz” Escudero: counsel.
+Sen. Francis "Chiz" G. Escudero: counsel.
 
 438
 01:13:02,360 --> 01:13:03,900
@@ -1752,7 +1752,7 @@ Atty. Kristine R. Ferrer: Let's end here. You
 
 439
 01:13:03,900 --> 01:13:04,440
-Sen. Francis “Chiz” Escudero: can end there.
+Sen. Francis "Chiz" G. Escudero: can end there.
 
 440
 01:13:05,260 --> 01:13:09,520
@@ -1764,7 +1764,7 @@ Atty. Kristine R. Ferrer: Kahapon niya, hindi ko nga siya kinukulit, diba? Kahit
 
 442
 01:13:22,440 --> 01:13:24,980
-Sen. Francis “Chiz” Escudero: can end our counsel if you respect her. Thank you. Thank
+Sen. Francis "Chiz" G. Escudero: can end our counsel if you respect her. Thank you. Thank
 
 443
 01:13:24,980 --> 01:13:25,880
@@ -1772,11 +1772,11 @@ Atty. Kristine R. Ferrer: you po. Miss
 
 444
 01:13:25,880 --> 01:13:39,800
-Sen. Francis “Chiz” Escudero: Aileen, ayon sa tanong ng counsel, simple lang po naman, nakalagay ba sa Joint Memorandum Circular 2015-01 na kailangan may mahuli para maging successful ang isang
+Sen. Francis "Chiz" G. Escudero: Aileen, ayon sa tanong ng counsel, simple lang po naman, nakalagay ba sa Joint Memorandum Circular 2015-01 na kailangan may mahuli para maging successful ang isang
 
 445
 01:13:42,400 --> 01:13:44,680
-Sen. Francis “Chiz” Escudero: Pagbigay ng reward or information?
+Sen. Francis "Chiz" G. Escudero: Pagbigay ng reward or information?
 
 446
 01:13:45,420 --> 01:13:51,100
@@ -1784,7 +1784,7 @@ Cylene May L. Del Campo: Wala pong nakalagay. Ang nakalagay lang po, proof of su
 
 447
 01:13:51,100 --> 01:13:55,400
-Sen. Francis “Chiz” Escudero: interpretation n'yo po yun na dapat may mahuli para maging successful?
+Sen. Francis "Chiz" G. Escudero: interpretation n'yo po yun na dapat may mahuli para maging successful?
 
 448
 01:13:56,080 --> 01:14:08,920
@@ -1792,7 +1792,7 @@ Cylene May L. Del Campo: Ay based po yun sa aking professional judgment and base
 
 449
 01:14:08,920 --> 01:14:12,460
-Sen. Francis “Chiz” Escudero: hindi po yung nakalagay sa joint circular na maliwanag.
+Sen. Francis "Chiz" G. Escudero: hindi po yung nakalagay sa joint circular na maliwanag.
 
 450
 01:14:12,540 --> 01:14:14,080
@@ -1800,7 +1800,7 @@ Cylene May L. Del Campo: Hindi po. Nakalagay lang po proof of success.
 
 451
 01:14:14,380 --> 01:14:15,340
-Sen. Francis “Chiz” Escudero: Interpretasyon nyo na po yan.
+Sen. Francis "Chiz" G. Escudero: Interpretasyon nyo na po yan.
 
 452
 01:14:16,220 --> 01:14:19,540
@@ -1808,7 +1808,7 @@ Cylene May L. Del Campo: Doon po sa pag-evaluate ko, yun po yung naging basis ko
 
 453
 01:14:19,860 --> 01:14:21,820
-Sen. Francis “Chiz” Escudero: Please proceed, Attorney Christine. Salamat
+Sen. Francis "Chiz" G. Escudero: Please proceed, Attorney Christine. Salamat
 
 454
 01:14:21,820 --> 01:14:21,980
@@ -1852,7 +1852,7 @@ Atty. Kristine R. Ferrer: lang naman yung tanong ko, Celine, no? What if walang 
 
 464
 01:15:28,490 --> 01:15:30,250
-Sen. Francis “Chiz” Escudero: What is the objection of counsel? The
+Sen. Francis "Chiz" G. Escudero: What is the objection of counsel? The
 
 465
 01:15:30,250 --> 01:15:40,510
@@ -1860,15 +1860,15 @@ Atty. Lorna Patajo-Kapunan: question is speculative, Your Honor. This is not bas
 
 466
 01:15:40,530 --> 01:15:40,570
-Sen. Francis “Chiz” Escudero: It's not
+Sen. Francis "Chiz" G. Escudero: It's not
 
 467
 01:15:40,570 --> 01:15:50,030
-Sen. Francis “Chiz” Escudero: a what-if, counsel, because it was stated in the report that there was no untoward incident. Actually, that would have been one of the questions of the presiding officer as well, later on.
+Sen. Francis "Chiz" G. Escudero: a what-if, counsel, because it was stated in the report that there was no untoward incident. Actually, that would have been one of the questions of the presiding officer as well, later on.
 
 468
 01:15:51,730 --> 01:16:00,900
-Sen. Francis “Chiz” Escudero: Sylene, ibahin natin ang payment for reward at payment for information. Ang payment for reward, yun ang hinahanapan mo ng success.
+Sen. Francis "Chiz" G. Escudero: Sylene, ibahin natin ang payment for reward at payment for information. Ang payment for reward, yun ang hinahanapan mo ng success.
 
 469
 01:16:01,710 --> 01:16:02,650
@@ -1876,7 +1876,7 @@ Cylene May L. Del Campo: Opo, tama po.
 
 470
 01:16:02,730 --> 01:16:06,390
-Sen. Francis “Chiz” Escudero: Yung payment of information, hindi mo hinahanapan ng success yun?
+Sen. Francis "Chiz" G. Escudero: Yung payment of information, hindi mo hinahanapan ng success yun?
 
 471
 01:16:06,530 --> 01:16:07,210
@@ -1884,7 +1884,7 @@ Cylene May L. Del Campo: Hindi po.
 
 472
 01:16:07,410 --> 01:16:07,870
-Sen. Francis “Chiz” Escudero: Tama po ba?
+Sen. Francis "Chiz" G. Escudero: Tama po ba?
 
 473
 01:16:08,090 --> 01:16:08,950
@@ -1892,7 +1892,7 @@ Cylene May L. Del Campo: Opo, tama po.
 
 474
 01:16:09,210 --> 01:16:15,110
-Sen. Francis “Chiz” Escudero: So yung reward, kaya yung reward ang dinisallow at yung information, hindi mo dinisallow yung bayad na yun, di ba?
+Sen. Francis "Chiz" G. Escudero: So yung reward, kaya yung reward ang dinisallow at yung information, hindi mo dinisallow yung bayad na yun, di ba?
 
 475
 01:16:15,250 --> 01:16:17,870
@@ -1900,7 +1900,7 @@ Cylene May L. Del Campo: Hindi po. Hindi po na dinisallow yung purchase of infor
 
 476
 01:16:18,450 --> 01:16:22,750
-Sen. Francis “Chiz” Escudero: So ang dinisallow mo lang nga ay yung payment of reward, for rewards rather.
+Sen. Francis "Chiz" G. Escudero: So ang dinisallow mo lang nga ay yung payment of reward, for rewards rather.
 
 477
 01:16:23,090 --> 01:16:23,770
@@ -1912,7 +1912,7 @@ Cylene May L. Del Campo: At yun
 
 479
 01:16:24,070 --> 01:16:26,490
-Sen. Francis “Chiz” Escudero: ang hinahanapan mo ng success, hindi yung information?
+Sen. Francis "Chiz" G. Escudero: ang hinahanapan mo ng success, hindi yung information?
 
 480
 01:16:26,950 --> 01:16:27,610
@@ -1920,7 +1920,7 @@ Cylene May L. Del Campo: Hindi po.
 
 481
 01:16:27,970 --> 01:16:28,590
-Sen. Francis “Chiz” Escudero: Magkaiba yun?
+Sen. Francis "Chiz" G. Escudero: Magkaiba yun?
 
 482
 01:16:28,850 --> 01:16:30,650
@@ -1928,7 +1928,7 @@ Cylene May L. Del Campo: Opo, magkaiba po yun. Okay.
 
 483
 01:16:31,020 --> 01:16:32,460
-Sen. Francis “Chiz” Escudero: You may proceed, counsel.
+Sen. Francis "Chiz" G. Escudero: You may proceed, counsel.
 
 484
 01:16:32,700 --> 01:16:45,040
@@ -1960,11 +1960,11 @@ Atty. Kristine R. Ferrer: mo? So, bawal magbayad ng reward dahil nagkaroon ng ti
 
 491
 01:18:01,940 --> 01:18:02,420
-Sen. Francis “Chiz” Escudero: Are you
+Sen. Francis "Chiz" G. Escudero: Are you
 
 492
 01:18:02,420 --> 01:18:03,040
-Sen. Francis “Chiz” Escudero: done with the question?
+Sen. Francis "Chiz" G. Escudero: done with the question?
 
 493
 01:18:04,360 --> 01:18:04,940
@@ -1972,7 +1972,7 @@ Atty. Kristine R. Ferrer: I
 
 494
 01:18:04,940 --> 01:18:06,520
-Sen. Francis “Chiz” Escudero: think right now she is. I
+Sen. Francis "Chiz" G. Escudero: think right now she is. I
 
 495
 01:18:06,520 --> 01:18:07,540
@@ -1980,7 +1980,7 @@ Atty. Lorna Patajo-Kapunan: make an objection, Your Honor.
 
 496
 01:18:07,680 --> 01:18:08,960
-Sen. Francis “Chiz” Escudero: Yes, what's your objection, counsel? Your
+Sen. Francis "Chiz" G. Escudero: Yes, what's your objection, counsel? Your
 
 497
 01:18:08,960 --> 01:18:54,210
@@ -1988,19 +1988,19 @@ Atty. Lorna Patajo-Kapunan: Honor, the counsel is now asking a misleading questi
 
 498
 01:18:55,210 --> 01:18:55,830
-Sen. Francis “Chiz” Escudero: It's not
+Sen. Francis "Chiz" G. Escudero: It's not
 
 499
 01:18:55,830 --> 01:19:00,150
-Sen. Francis “Chiz” Escudero: disallowed in the AOMs. Again,
+Sen. Francis "Chiz" G. Escudero: disallowed in the AOMs. Again,
 
 500
 01:19:00,250 --> 01:19:25,890
-Sen. Francis “Chiz” Escudero: counsels, kindly address the court or the presiding officer and not talk to each other directly. Ms. Aileen, to abbreviate and save on the court's time, Ms. Aileen, kapag kami nagbigay ng impormasyon, naghahanap ng threat, baka may threat sa Vice President, may nagbigay ng impormasyon, walang threat. Ligtas ng Vice President pag nagpunta siya dyan.
+Sen. Francis "Chiz" G. Escudero: counsels, kindly address the court or the presiding officer and not talk to each other directly. Ms. Aileen, to abbreviate and save on the court's time, Ms. Aileen, kapag kami nagbigay ng impormasyon, naghahanap ng threat, baka may threat sa Vice President, may nagbigay ng impormasyon, walang threat. Ligtas ng Vice President pag nagpunta siya dyan.
 
 501
 01:19:28,540 --> 01:19:54,200
-Sen. Francis “Chiz” Escudero: Hindi magkaklassify yun na pwedeng bigyan ng reward at success. Hindi naman kailangan, diba? Sanay tayo sa reward na nakatakip yung muka, diba? Tinuro kung saan nagtatago yung akusado, tinuro kung saan nagtatago kung sino man. Eto yun, reward. Pero wala bang reward kapag sinabing, okay magpunta dyan, walang problema, wala kayong kailangan nalalahan. Is that information or can that also be reward?
+Sen. Francis "Chiz" G. Escudero: Hindi magkaklassify yun na pwedeng bigyan ng reward at success. Hindi naman kailangan, diba? Sanay tayo sa reward na nakatakip yung muka, diba? Tinuro kung saan nagtatago yung akusado, tinuro kung saan nagtatago kung sino man. Eto yun, reward. Pero wala bang reward kapag sinabing, okay magpunta dyan, walang problema, wala kayong kailangan nalalahan. Is that information or can that also be reward?
 
 502
 01:19:54,980 --> 01:19:56,600
@@ -2008,7 +2008,7 @@ Cylene May L. Del Campo: Magpo-fall po siya sa information.
 
 503
 01:19:57,860 --> 01:20:01,020
-Sen. Francis “Chiz” Escudero: So saan, kailan lang magiging reward yun kapag may naturo?
+Sen. Francis "Chiz" G. Escudero: So saan, kailan lang magiging reward yun kapag may naturo?
 
 504
 01:20:01,880 --> 01:20:03,760
@@ -2016,7 +2016,7 @@ Cylene May L. Del Campo: Opo, kasi yun yung proof of success.
 
 505
 01:20:05,940 --> 01:20:06,600
-Sen. Francis “Chiz” Escudero: Tuloy niyo po.
+Sen. Francis "Chiz" G. Escudero: Tuloy niyo po.
 
 506
 01:20:07,920 --> 01:20:13,920
@@ -2024,7 +2024,7 @@ Cylene May L. Del Campo: Yun yung proof of success nung information na ibigay ka
 
 507
 01:20:14,200 --> 01:20:19,300
-Sen. Francis “Chiz” Escudero: Yun, ulitin ko po ah, yan ang interpretasyon niyo pero wala po yan sa Joint Memorandum Circular.
+Sen. Francis "Chiz" G. Escudero: Yun, ulitin ko po ah, yan ang interpretasyon niyo pero wala po yan sa Joint Memorandum Circular.
 
 508
 01:20:19,650 --> 01:20:25,110
@@ -2032,7 +2032,7 @@ Cylene May L. Del Campo: Yun po lang yung hinihinga under item 4.8.5.b.
 
 509
 01:20:36,030 --> 01:20:38,890
-Sen. Francis “Chiz” Escudero: Doon po
+Sen. Francis "Chiz" G. Escudero: Doon po
 
 510
 01:20:38,950 --> 01:20:45,290
@@ -2040,7 +2040,7 @@ Cylene May L. Del Campo: sa mga ibang na-audit ko, ang ina-attach po talaga nila
 
 511
 01:20:50,850 --> 01:20:52,470
-Sen. Francis “Chiz” Escudero: Merong nahuli o na-apprehend?
+Sen. Francis "Chiz" G. Escudero: Merong nahuli o na-apprehend?
 
 512
 01:20:52,590 --> 01:20:56,510
@@ -2048,7 +2048,7 @@ Cylene May L. Del Campo: May ganun pong mga naka-attach na mga dokumento. At
 
 513
 01:20:56,510 --> 01:21:02,550
-Sen. Francis “Chiz” Escudero: tulad dun sa iba, kapag walang nahuli o na-apprehend sa reward, ine-AOM o dinidisallow o sinuspend n'yo?
+Sen. Francis "Chiz" G. Escudero: tulad dun sa iba, kapag walang nahuli o na-apprehend sa reward, ine-AOM o dinidisallow o sinuspend n'yo?
 
 514
 01:21:03,010 --> 01:21:05,310
@@ -2056,7 +2056,7 @@ Cylene May L. Del Campo: Hinahanapan po namin ng proof of success, opo.
 
 515
 01:21:05,670 --> 01:21:06,730
-Sen. Francis “Chiz” Escudero: Na may nahuli nga?
+Sen. Francis "Chiz" G. Escudero: Na may nahuli nga?
 
 516
 01:21:07,050 --> 01:21:07,570
@@ -2064,7 +2064,7 @@ Cylene May L. Del Campo: Opo.
 
 517
 01:21:07,810 --> 01:21:14,900
-Sen. Francis “Chiz” Escudero: To prove consistency on your part. But do you have any knowledge na yung mga predecessor mo, yan din yung standard na ginamit?
+Sen. Francis "Chiz" G. Escudero: To prove consistency on your part. But do you have any knowledge na yung mga predecessor mo, yan din yung standard na ginamit?
 
 518
 01:21:16,400 --> 01:21:22,220
@@ -2072,7 +2072,7 @@ Cylene May L. Del Campo: Pare-pareho po kami na based sa Joint Circular po ang a
 
 519
 01:21:23,360 --> 01:21:28,780
-Sen. Francis “Chiz” Escudero: So, interpretation mo, yan, at yan yung interpretation din ng mga nauna sayo sa pagkakaalam mo?
+Sen. Francis "Chiz" G. Escudero: So, interpretation mo, yan, at yan yung interpretation din ng mga nauna sayo sa pagkakaalam mo?
 
 520
 01:21:30,170 --> 01:21:31,950
@@ -2080,7 +2080,7 @@ Cylene May L. Del Campo: Sa akin po, yun po yung naging interpretation.
 
 521
 01:21:32,090 --> 01:21:35,070
-Sen. Francis “Chiz” Escudero: Okay. You may proceed, Katerina Christine. Salamat po, Your
+Sen. Francis "Chiz" G. Escudero: Okay. You may proceed, Katerina Christine. Salamat po, Your
 
 522
 01:21:35,070 --> 01:21:37,410
@@ -2220,11 +2220,11 @@ Atty. Kristine R. Ferrer: Ito po yung tinatanong ko po ay mismo yung provision n
 
 556
 01:26:50,190 --> 01:26:52,090
-Sen. Francis “Chiz” Escudero: Asked and answered. That is your answer, counsel.
+Sen. Francis "Chiz" G. Escudero: Asked and answered. That is your answer, counsel.
 
 557
 01:26:55,520 --> 01:26:58,840
-Sen. Francis “Chiz” Escudero: It's not in the memorandum circular, Sylene, right?
+Sen. Francis "Chiz" G. Escudero: It's not in the memorandum circular, Sylene, right?
 
 558
 01:26:59,410 --> 01:27:06,790
@@ -2232,7 +2232,7 @@ Cylene May L. Del Campo: Meron po ang notice of disallowance po kasi ini-issue s
 
 559
 01:27:07,150 --> 01:27:13,090
-Sen. Francis “Chiz” Escudero: Tama po kayo pero walang nakalagay na pwede kang dumiretso doon kapag ka, kung ano man.
+Sen. Francis "Chiz" G. Escudero: Tama po kayo pero walang nakalagay na pwede kang dumiretso doon kapag ka, kung ano man.
 
 560
 01:27:14,360 --> 01:27:17,960
@@ -2240,7 +2240,7 @@ Cylene May L. Del Campo: Opo, basta nakalagay lang po na ini-issue ang ND pag ir
 
 561
 01:27:18,560 --> 01:27:21,240
-Sen. Francis “Chiz” Escudero: Kung sa pananaw mo, irregular na.
+Sen. Francis "Chiz" G. Escudero: Kung sa pananaw mo, irregular na.
 
 562
 01:27:21,440 --> 01:27:21,980
@@ -2248,7 +2248,7 @@ Cylene May L. Del Campo: Opo.
 
 563
 01:27:22,340 --> 01:27:22,960
-Sen. Francis “Chiz” Escudero: Okay.
+Sen. Francis "Chiz" G. Escudero: Okay.
 
 564
 01:27:23,880 --> 01:27:51,190
@@ -2284,11 +2284,11 @@ Atty. Lorna Patajo-Kapunan: Your Honor, please, Mr. Presiding Officer, we object
 
 572
 01:29:36,300 --> 01:29:39,940
-Sen. Francis “Chiz” Escudero: If she knows, I'm overruled. If she knows, if she doesn't, she may say so.
+Sen. Francis "Chiz" G. Escudero: If she knows, I'm overruled. If she knows, if she doesn't, she may say so.
 
 573
 01:29:39,940 --> 01:29:40,180
-Sen. Francis “Chiz” Escudero: Pinal law,
+Sen. Francis "Chiz" G. Escudero: Pinal law,
 
 574
 01:29:40,300 --> 01:29:40,420
@@ -2320,7 +2320,7 @@ Atty. Kristine R. Ferrer: on cross, misleading is
 
 581
 01:30:07,300 --> 01:30:18,060
-Sen. Francis “Chiz” Escudero: not allowed. Not for that ground counsel. Witness would not be competent to answer that. She's not a lawyer nor a member of the bar, an accountant, and is part of ICFAO. Proceed to your next point, counsel, please.
+Sen. Francis "Chiz" G. Escudero: not allowed. Not for that ground counsel. Witness would not be competent to answer that. She's not a lawyer nor a member of the bar, an accountant, and is part of ICFAO. Proceed to your next point, counsel, please.
 
 582
 01:30:18,140 --> 01:30:18,700
@@ -2516,7 +2516,7 @@ Atty. Lorna Patajo-Kapunan: please ask and answer the letter.
 
 630
 01:38:50,530 --> 01:38:52,690
-Sen. Francis “Chiz” Escudero: Okay. Move on, counsel.
+Sen. Francis "Chiz" G. Escudero: Okay. Move on, counsel.
 
 631
 01:38:52,690 --> 01:39:14,430
@@ -2568,15 +2568,15 @@ Atty. Lorna Patajo-Kapunan: professional judgment, Your Honor. There are two dif
 
 643
 01:40:44,410 --> 01:40:55,650
-Sen. Francis “Chiz” Escudero: Besides, besides, counsels, please. Besides, witness already answered that that is not only her personal judgment and or opinion but also that of her superiors who reviewed Yes,
+Sen. Francis "Chiz" G. Escudero: Besides, besides, counsels, please. Besides, witness already answered that that is not only her personal judgment and or opinion but also that of her superiors who reviewed Yes,
 
 644
 01:40:55,850 --> 01:40:56,090
-Sen. Francis “Chiz” Escudero: Your Honor.
+Sen. Francis "Chiz" G. Escudero: Your Honor.
 
 645
 01:40:56,630 --> 01:41:03,470
-Sen. Francis “Chiz” Escudero: her findings resulting in the notice of disallowance. You did not sign the notice of disallowance, correct, Celine?
+Sen. Francis "Chiz" G. Escudero: her findings resulting in the notice of disallowance. You did not sign the notice of disallowance, correct, Celine?
 
 646
 01:41:04,090 --> 01:41:14,090
@@ -2584,7 +2584,7 @@ Cylene May L. Del Campo: Hindi po, pero meron po sa office namin yung second ori
 
 647
 01:41:14,090 --> 01:41:23,160
-Sen. Francis “Chiz” Escudero: So pataas, presumably, pag pinirmahan niyan ultimately at in-issue, nag-agree sila sa findings mo at yun din ang pananaw nila? Opo. You may proceed, counsel.
+Sen. Francis "Chiz" G. Escudero: So pataas, presumably, pag pinirmahan niyan ultimately at in-issue, nag-agree sila sa findings mo at yun din ang pananaw nila? Opo. You may proceed, counsel.
 
 648
 01:41:23,460 --> 01:41:46,250
@@ -2684,7 +2684,7 @@ Atty. Lorna Patajo-Kapunan: Your Honor, please, can counsel for respondent show 
 
 672
 01:45:11,190 --> 01:45:12,870
-Sen. Francis “Chiz” Escudero: Kindly flash it on the screen.
+Sen. Francis "Chiz" G. Escudero: Kindly flash it on the screen.
 
 673
 01:45:13,150 --> 01:45:17,510
@@ -2700,7 +2700,7 @@ Atty. Kristine R. Ferrer: Wala, dun sa ND n'yo, tinanggal na n'yo yung requireme
 
 676
 01:45:27,780 --> 01:45:28,760
-Sen. Francis “Chiz” Escudero: sa screen, counsel.
+Sen. Francis "Chiz" G. Escudero: sa screen, counsel.
 
 677
 01:45:29,460 --> 01:45:30,300
@@ -2716,7 +2716,7 @@ Atty. Kristine R. Ferrer: working on it.
 
 680
 01:45:33,960 --> 01:45:36,720
-Sen. Francis “Chiz” Escudero: Sylene, do you remember? Can you answer? Can you answer, Sylene?
+Sen. Francis "Chiz" G. Escudero: Sylene, do you remember? Can you answer? Can you answer, Sylene?
 
 681
 01:45:37,970 --> 01:45:41,550
@@ -2724,11 +2724,11 @@ Cylene May L. Del Campo: Wala po siya doon, pero pwede ko po bang i-clarify yung
 
 682
 01:45:41,550 --> 01:45:43,090
-Sen. Francis “Chiz” Escudero: Let the
+Sen. Francis "Chiz" G. Escudero: Let the
 
 683
 01:45:43,090 --> 01:45:52,510
-Sen. Francis “Chiz” Escudero: opposing counsel seek that, but the question being as far as kung nandun o wala, so wala na siya doon sa notice of disallowance?
+Sen. Francis "Chiz" G. Escudero: opposing counsel seek that, but the question being as far as kung nandun o wala, so wala na siya doon sa notice of disallowance?
 
 684
 01:45:52,630 --> 01:45:53,390
@@ -2760,7 +2760,7 @@ Cylene May L. Del Campo: mapapakita ko namin sa inyo.
 
 691
 01:46:26,750 --> 01:46:27,890
-Sen. Francis “Chiz” Escudero: Kindly show the witness.
+Sen. Francis "Chiz" G. Escudero: Kindly show the witness.
 
 692
 01:46:33,200 --> 01:46:34,040
@@ -2772,7 +2772,7 @@ Atty. Lorna Patajo-Kapunan: Before she asked the question, Your Honor, for every
 
 694
 01:47:07,330 --> 01:47:16,710
-Sen. Francis “Chiz” Escudero: I remember that manifestation that it was impliedly repealed although it was not specifically mentioned in the repealing clause of the JMC. Yes. Yes, sir, but
+Sen. Francis "Chiz" G. Escudero: I remember that manifestation that it was impliedly repealed although it was not specifically mentioned in the repealing clause of the JMC. Yes. Yes, sir, but
 
 695
 01:47:16,710 --> 01:47:31,270
@@ -2796,7 +2796,7 @@ Atty. Kristine R. Ferrer: this
 
 700
 01:47:40,460 --> 01:47:41,400
-Sen. Francis “Chiz” Escudero: witness answers,
+Sen. Francis "Chiz" G. Escudero: witness answers,
 
 701
 01:47:41,720 --> 01:48:00,610
@@ -2804,7 +2804,7 @@ Atty. Lorna Patajo-Kapunan: May we know this line of questioning because this wi
 
 702
 01:48:00,810 --> 01:48:06,130
-Sen. Francis “Chiz” Escudero: Let's give her some leeway, counsel. We will see where she will lead to.
+Sen. Francis "Chiz" G. Escudero: Let's give her some leeway, counsel. We will see where she will lead to.
 
 703
 01:48:06,470 --> 01:48:10,450
@@ -2904,11 +2904,11 @@ Atty. Kristine R. Ferrer: Okay. So, sa tingin n'yo yung mga konsepto na na-intro
 
 727
 01:51:13,760 --> 01:51:14,640
-Sen. Francis “Chiz” Escudero: Objection, Your Honor.
+Sen. Francis "Chiz" G. Escudero: Objection, Your Honor.
 
 728
 01:51:15,180 --> 01:51:16,320
-Sen. Francis “Chiz” Escudero: What is the objection?
+Sen. Francis "Chiz" G. Escudero: What is the objection?
 
 729
 01:51:17,500 --> 01:51:18,560
@@ -2920,7 +2920,7 @@ Atty. Lorna Patajo-Kapunan: This council is trying to elicit from this witness a
 
 731
 01:52:24,880 --> 01:52:56,560
-Sen. Francis “Chiz” Escudero: understand the point of Atty. Capunan. However, the question is quite simple for the witness. Although this may have indeed been impliedly repealed, again, impliedly repealed by the Joint Memorandum Circular, are the concepts stated herein still applicable today and are you still using it? I'll abbreviate the proceedings. Ms. Aileen, yung... Kawalan ba ng resibo na sinasabing okay lang sa circular na to? Okay pa rin ba hanggang ngayon sa Joint Memorandum Circular o hindi na?
+Sen. Francis "Chiz" G. Escudero: understand the point of Atty. Capunan. However, the question is quite simple for the witness. Although this may have indeed been impliedly repealed, again, impliedly repealed by the Joint Memorandum Circular, are the concepts stated herein still applicable today and are you still using it? I'll abbreviate the proceedings. Ms. Aileen, yung... Kawalan ba ng resibo na sinasabing okay lang sa circular na to? Okay pa rin ba hanggang ngayon sa Joint Memorandum Circular o hindi na?
 
 732
 01:52:56,800 --> 01:53:15,740
@@ -2928,7 +2928,7 @@ Cylene May L. Del Campo: Under po kasi sa Joint Memorandum Circular, under 6.2.3
 
 733
 01:53:15,840 --> 01:53:24,600
-Sen. Francis “Chiz” Escudero: You can request for other documents, but the Joint Circular does not say that you should demand and ask for receipts. Wala dun yan.
+Sen. Francis "Chiz" G. Escudero: You can request for other documents, but the Joint Circular does not say that you should demand and ask for receipts. Wala dun yan.
 
 734
 01:53:24,780 --> 01:54:10,960
@@ -2936,7 +2936,7 @@ Atty. Kristine R. Ferrer: Your Honor, just a quick manifestation, Your Honor. Yo
 
 735
 01:54:10,960 --> 01:54:21,710
-Sen. Francis “Chiz” Escudero: this is part of the seeming generational divide tension that the court is trying to avoid. So let's leave it at that, counsel. Yes, Your Honor. I
+Sen. Francis "Chiz" G. Escudero: this is part of the seeming generational divide tension that the court is trying to avoid. So let's leave it at that, counsel. Yes, Your Honor. I
 
 736
 01:54:21,710 --> 01:54:24,310
@@ -2944,15 +2944,15 @@ Atty. Lorna Patajo-Kapunan: was just going to say that I will accept.
 
 737
 01:54:24,650 --> 01:54:25,270
-Sen. Francis “Chiz” Escudero: Let's leave
+Sen. Francis "Chiz" G. Escudero: Let's leave
 
 738
 01:54:25,270 --> 01:54:25,690
-Sen. Francis “Chiz” Escudero: it at that. I
+Sen. Francis "Chiz" G. Escudero: it at that. I
 
 739
 01:54:25,790 --> 01:54:25,810
-Sen. Francis “Chiz” Escudero: accept
+Sen. Francis "Chiz" G. Escudero: accept
 
 740
 01:54:25,810 --> 01:54:29,330
@@ -2960,7 +2960,7 @@ Atty. Lorna Patajo-Kapunan: what she said, Your Honor. I will refrain from lectu
 
 741
 01:54:30,710 --> 01:54:32,550
-Sen. Francis “Chiz” Escudero: Counsel, please. That's all
+Sen. Francis "Chiz" G. Escudero: Counsel, please. That's all
 
 742
 01:54:32,550 --> 01:54:33,010
@@ -2972,15 +2972,15 @@ Atty. Kristine R. Ferrer: of order,
 
 744
 01:54:33,530 --> 01:54:33,650
-Sen. Francis “Chiz” Escudero: Your Honor.
+Sen. Francis "Chiz" G. Escudero: Your Honor.
 
 745
 01:54:33,650 --> 01:54:34,270
-Sen. Francis “Chiz” Escudero: Counsel, please.
+Sen. Francis "Chiz" G. Escudero: Counsel, please.
 
 746
 01:54:37,320 --> 01:54:39,140
-Sen. Francis “Chiz” Escudero: Kindly proceed, Attorney Christine.
+Sen. Francis "Chiz" G. Escudero: Kindly proceed, Attorney Christine.
 
 747
 01:54:39,760 --> 01:54:41,020
@@ -3048,7 +3048,7 @@ Atty. Lorna Patajo-Kapunan: to the question.
 
 763
 01:56:27,660 --> 01:56:32,140
-Sen. Francis “Chiz” Escudero: What's the base of the objection, counsel? Argumentative. Speculative. Sustained.
+Sen. Francis "Chiz" G. Escudero: What's the base of the objection, counsel? Argumentative. Speculative. Sustained.
 
 764
 01:56:32,700 --> 01:56:34,840
@@ -3056,7 +3056,7 @@ Atty. Kristine R. Ferrer: Okay. Sige po. For
 
 765
 01:56:34,840 --> 01:56:35,960
-Sen. Francis “Chiz” Escudero: being argumentative. Yes,
+Sen. Francis "Chiz" G. Escudero: being argumentative. Yes,
 
 766
 01:56:35,960 --> 01:56:38,560
@@ -3088,7 +3088,7 @@ Atty. Kristine R. Ferrer: Yes, surveillance activities. Familiar ho ba kayo sa m
 
 773
 01:57:06,070 --> 01:57:13,450
-Sen. Francis “Chiz” Escudero: Excuse me, Your Honor, ask and answer it earlier.
+Sen. Francis "Chiz" G. Escudero: Excuse me, Your Honor, ask and answer it earlier.
 
 774
 01:57:13,450 --> 01:57:14,010
@@ -3096,7 +3096,7 @@ Atty. Kristine R. Ferrer: Hindi ho, tinatanong ko, Your Honor, kung familiar ho 
 
 775
 01:57:14,010 --> 01:57:22,970
-Sen. Francis “Chiz” Escudero: may answer. She evaluated those earlier and identified some of the things read by counsel as surveillance. So, she is competent to answer. Cylene, please answer the question.
+Sen. Francis "Chiz" G. Escudero: may answer. She evaluated those earlier and identified some of the things read by counsel as surveillance. So, she is competent to answer. Cylene, please answer the question.
 
 776
 01:57:23,460 --> 01:57:26,100
@@ -3104,11 +3104,11 @@ Cylene May L. Del Campo: Pwede po ulit pa kay ulit yung tanong po?
 
 777
 01:57:27,480 --> 01:57:34,680
-Sen. Francis “Chiz” Escudero: Pamilyar po ba kayo sa mga surveillance operations? Mga klase, uri, I believe, ng surveillance operations?
+Sen. Francis "Chiz" G. Escudero: Pamilyar po ba kayo sa mga surveillance operations? Mga klase, uri, I believe, ng surveillance operations?
 
 778
 01:57:35,260 --> 01:57:39,080
-Atty. Kristine Ferrer Del Campo: May konti po akong alam sa surveillance activities po. Okay.
+Cylene May L. Del Campo: May konti po akong alam sa surveillance activities po. Okay.
 
 779
 01:57:39,400 --> 01:57:44,260
@@ -3144,7 +3144,7 @@ Atty. Lorna Patajo-Kapunan: Your Honor, we object to this line of questioning al
 
 787
 01:58:36,720 --> 01:58:41,780
-Sen. Francis “Chiz” Escudero: We'll note the objection. We'll see where she takes this counsel. We'll give her some leeway if she's on cross.
+Sen. Francis "Chiz" G. Escudero: We'll note the objection. We'll see where she takes this counsel. We'll give her some leeway if she's on cross.
 
 788
 01:58:42,020 --> 01:58:49,780
@@ -3168,7 +3168,7 @@ Atty. Kristine R. Ferrer: Ipa-flash ho natin yan sa screen, please. Section 34.
 
 793
 01:59:05,600 --> 01:59:10,360
-Sen. Francis “Chiz” Escudero: Can counsel just proceed to the question, Your Honor? That's it. That's it, Your Honor.
+Sen. Francis "Chiz" G. Escudero: Can counsel just proceed to the question, Your Honor? That's it. That's it, Your Honor.
 
 794
 01:59:10,360 --> 01:59:47,940
@@ -3180,7 +3180,7 @@ Atty. Lorna Patajo-Kapunan: Counsel? We will object already to this line of ques
 
 796
 02:00:04,800 --> 02:00:09,520
-Sen. Francis “Chiz” Escudero: Let's wait for the question, counsel. I think I know where counsel is leading to. Thank
+Sen. Francis "Chiz" G. Escudero: Let's wait for the question, counsel. I think I know where counsel is leading to. Thank
 
 797
 02:00:09,520 --> 02:00:20,640
@@ -3196,7 +3196,7 @@ Atty. Kristine R. Ferrer: Wala pa.
 
 800
 02:00:26,660 --> 02:00:29,180
-Sen. Francis “Chiz” Escudero: I think she's laying the basis for a question, counsel.
+Sen. Francis "Chiz" G. Escudero: I think she's laying the basis for a question, counsel.
 
 801
 02:00:29,200 --> 02:00:29,320
@@ -3208,7 +3208,7 @@ Atty. Kristine R. Ferrer: the basis ho. Okay. So... What is the question? In fac
 
 803
 02:00:40,760 --> 02:00:42,240
-Sen. Francis “Chiz” Escudero: Patience is a virtue, counsel.
+Sen. Francis "Chiz" G. Escudero: Patience is a virtue, counsel.
 
 804
 02:00:42,240 --> 02:00:57,540
@@ -3216,11 +3216,11 @@ Atty. Kristine R. Ferrer: In fact, Section 34B of the NIRC considers other adequ
 
 805
 02:00:57,540 --> 02:00:59,860
-Sen. Francis “Chiz” Escudero: Is that already the question?
+Sen. Francis "Chiz" G. Escudero: Is that already the question?
 
 806
 02:01:00,000 --> 02:01:02,020
-Sen. Francis “Chiz” Escudero: As an answered counsel, move to your point.
+Sen. Francis "Chiz" G. Escudero: As an answered counsel, move to your point.
 
 807
 02:01:02,440 --> 02:01:07,500
@@ -3248,7 +3248,7 @@ Atty. Kristine R. Ferrer: Oh, base po dyan. Okay. Document is the best evidence,
 
 813
 02:01:29,520 --> 02:01:32,820
-Sen. Francis “Chiz” Escudero: Yes, counsel. Let her proceed, counsel. Thank
+Sen. Francis "Chiz" G. Escudero: Yes, counsel. Let her proceed, counsel. Thank
 
 814
 02:01:32,820 --> 02:01:44,060
@@ -3280,7 +3280,7 @@ Atty. Kristine R. Ferrer: please. Attorney
 
 821
 02:01:58,100 --> 02:01:59,820
-Sen. Francis “Chiz” Escudero: Lorna, yes. What is your objection?
+Sen. Francis "Chiz" G. Escudero: Lorna, yes. What is your objection?
 
 822
 02:02:00,140 --> 02:02:33,030
@@ -3288,7 +3288,7 @@ Atty. Lorna Patajo-Kapunan: This is immaterial, irrelevant, beyond the scope. Th
 
 823
 02:02:33,030 --> 02:02:54,420
-Sen. Francis “Chiz” Escudero: it's 1155, let the court, let the presiding officer go to the point. I think, Atty. Christine is going towards. Atty. Celine, Nasa tax code, para sa anumang dahilan o purpose ay pwede ka mag-present ng adequate records maliban sa resibo. Alam niyo yan bilang accountant?
+Sen. Francis "Chiz" G. Escudero: it's 1155, let the court, let the presiding officer go to the point. I think, Atty. Christine is going towards. Atty. Celine, Nasa tax code, para sa anumang dahilan o purpose ay pwede ka mag-present ng adequate records maliban sa resibo. Alam niyo yan bilang accountant?
 
 824
 02:02:54,990 --> 02:02:55,590
@@ -3296,11 +3296,11 @@ Cylene May L. Del Campo: Apo.
 
 825
 02:02:56,330 --> 02:03:09,550
-Sen. Francis “Chiz” Escudero: Sa trabaho niyo po ba ngayon sa COA sa paghahanap ayon sa pag-cite niyo ng provision kanina ng iba pang dokumento bilang suporta sa paggastos ng confidential fund? Tinignan n
+Sen. Francis "Chiz" G. Escudero: Sa trabaho niyo po ba ngayon sa COA sa paghahanap ayon sa pag-cite niyo ng provision kanina ng iba pang dokumento bilang suporta sa paggastos ng confidential fund? Tinignan n
 
 826
 02:03:09,550 --> 02:03:16,950
-Sen. Francis “Chiz” Escudero: 'yo ba maliban sa official receipt, adequate records na ginagamit din naman sa NIRC kung applicable yan sa COA?
+Sen. Francis "Chiz" G. Escudero: 'yo ba maliban sa official receipt, adequate records na ginagamit din naman sa NIRC kung applicable yan sa COA?
 
 827
 02:03:18,350 --> 02:03:20,070
@@ -3308,7 +3308,7 @@ Cylene May L. Del Campo: Pwede pong pakialit yung tanong.
 
 828
 02:03:20,330 --> 02:03:30,470
-Sen. Francis “Chiz” Escudero: Applicable din ba ang adequate records maliban sa resibo sa COA at hindi lamang dito sa NIRC bilang accountant? Kaya nga siguro required na accountant kayong lahat o abogado, hindi ba?
+Sen. Francis "Chiz" G. Escudero: Applicable din ba ang adequate records maliban sa resibo sa COA at hindi lamang dito sa NIRC bilang accountant? Kaya nga siguro required na accountant kayong lahat o abogado, hindi ba?
 
 829
 02:03:31,950 --> 02:03:32,510
@@ -3316,7 +3316,7 @@ Cylene May L. Del Campo: Opo.
 
 830
 02:03:32,730 --> 02:03:34,350
-Sen. Francis “Chiz” Escudero: So, puwedeng adequate records?
+Sen. Francis "Chiz" G. Escudero: So, puwedeng adequate records?
 
 831
 02:03:34,990 --> 02:03:39,250
@@ -3324,7 +3324,7 @@ Cylene May L. Del Campo: Opo, na ma-assertain namin kung talagang nagamit ito fo
 
 832
 02:03:39,610 --> 02:03:54,750
-Sen. Francis “Chiz” Escudero: May mga
+Sen. Francis "Chiz" G. Escudero: May mga
 
 833
 02:03:54,750 --> 02:04:02,030
@@ -3332,7 +3332,7 @@ Cylene May L. Del Campo: sinasubmit po sila na gaya po ng acknowledgement receip
 
 834
 02:04:05,470 --> 02:04:07,270
-Sen. Francis “Chiz” Escudero: para sa inyo, maliban sa official receipt.
+Sen. Francis "Chiz" G. Escudero: para sa inyo, maliban sa official receipt.
 
 835
 02:04:08,110 --> 02:04:10,350
@@ -3340,7 +3340,7 @@ Cylene May L. Del Campo: Kasama na rin po yung official receipt. Pwede bang
 
 836
 02:04:10,350 --> 02:04:14,730
-Sen. Francis “Chiz” Escudero: gamitin ng other records, adequate records, sa pagbili ng bagay-bagay?
+Sen. Francis "Chiz" G. Escudero: gamitin ng other records, adequate records, sa pagbili ng bagay-bagay?
 
 837
 02:04:16,140 --> 02:04:17,340
@@ -3348,7 +3348,7 @@ Cylene May L. Del Campo: Opo, pwede po.
 
 838
 02:04:17,500 --> 02:04:24,180
-Sen. Francis “Chiz” Escudero: So, tables, chairs, pwedeng adequate records at hindi kailangan official receipt sa lahat ng panon, depende sa kalagayan at sitwasyon.
+Sen. Francis "Chiz" G. Escudero: So, tables, chairs, pwedeng adequate records at hindi kailangan official receipt sa lahat ng panon, depende sa kalagayan at sitwasyon.
 
 839
 02:04:24,780 --> 02:04:35,960
@@ -3356,7 +3356,7 @@ Cylene May L. Del Campo: Pero po kasi, it di... Ito po ay nagpapertain sa purcha
 
 840
 02:04:36,040 --> 02:04:45,110
-Sen. Francis “Chiz” Escudero: Pero possible bang may adequate records yun o wala? Possible bang may iba pang records sa karanasan nyo sa ibang agencies na gumagamit ng intelligence at confidential funds?
+Sen. Francis "Chiz" G. Escudero: Pero possible bang may adequate records yun o wala? Possible bang may iba pang records sa karanasan nyo sa ibang agencies na gumagamit ng intelligence at confidential funds?
 
 841
 02:04:45,730 --> 02:04:50,450
@@ -3380,7 +3380,7 @@ Cylene May L. Del Campo: Opo, pwede po yung acknowledgement receipts dun.
 
 846
 02:04:57,330 --> 02:05:00,050
-Sen. Francis “Chiz” Escudero: At yun ang papasok sa adequate records?
+Sen. Francis "Chiz" G. Escudero: At yun ang papasok sa adequate records?
 
 847
 02:05:00,550 --> 02:05:01,710
@@ -3388,7 +3388,7 @@ Cylene May L. Del Campo: Opo, tama po. Okay.
 
 848
 02:05:02,610 --> 02:05:03,750
-Sen. Francis “Chiz” Escudero: Attorney Christine? Yes,
+Sen. Francis "Chiz" G. Escudero: Attorney Christine? Yes,
 
 849
 02:05:03,790 --> 02:05:04,930
@@ -3396,7 +3396,7 @@ Atty. Kristine R. Ferrer: Your Honor. I'll move on. You
 
 850
 02:05:04,930 --> 02:05:06,350
-Sen. Francis “Chiz” Escudero: want to move on to the next point? Yes, yes po.
+Sen. Francis "Chiz" G. Escudero: want to move on to the next point? Yes, yes po.
 
 851
 02:05:06,650 --> 02:05:07,090
@@ -3408,7 +3408,7 @@ Atty. Kristine R. Ferrer: So, napag-usapan nun natin yung ORs and sales invoices
 
 853
 02:05:25,080 --> 02:05:25,760
-Atty. Kristine Ferrer Del Campo: Opo. Okay.
+Cylene May L. Del Campo: Opo. Okay.
 
 854
 02:05:25,820 --> 02:05:32,220
@@ -3424,7 +3424,7 @@ Atty. Kristine R. Ferrer: Okay. Yung seller's details, no? Nakalagay doon yung r
 
 857
 02:05:45,500 --> 02:05:46,540
-Atty. Kristine Ferrer Del Campo: Opo, tama po. Okay.
+Cylene May L. Del Campo: Opo, tama po. Okay.
 
 858
 02:05:47,080 --> 02:05:56,060
@@ -3448,7 +3448,7 @@ Atty. Lorna Patajo-Kapunan: object to this line of questioning, Your Honor. We a
 
 863
 02:07:15,870 --> 02:07:19,670
-Sen. Francis “Chiz” Escudero: I will give the attorney Christine some leeway on this. Let's see where she will go.
+Sen. Francis "Chiz" G. Escudero: I will give the attorney Christine some leeway on this. Let's see where she will go.
 
 864
 02:07:19,870 --> 02:07:51,410
@@ -3472,7 +3472,7 @@ Atty. Kristine R. Ferrer: ND.
 
 869
 02:08:06,170 --> 02:08:07,330
-Sen. Francis “Chiz” Escudero: Which ND, counsel?
+Sen. Francis "Chiz" G. Escudero: Which ND, counsel?
 
 870
 02:08:07,570 --> 02:08:10,810
@@ -3480,7 +3480,7 @@ Atty. Kristine R. Ferrer: The 2nd ND, Your Honor. The August
 
 871
 02:08:10,810 --> 02:08:11,430
-Sen. Francis “Chiz” Escudero: 8th ND.
+Sen. Francis "Chiz" G. Escudero: 8th ND.
 
 872
 02:08:11,570 --> 02:08:28,300
@@ -3516,11 +3516,11 @@ Atty. Kristine R. Ferrer: Kaya ulit-ulit, sorry. Though this office recognizes t
 
 880
 02:10:24,380 --> 02:10:24,980
-Sen. Francis “Chiz” Escudero: question, Your Honor.
+Sen. Francis "Chiz" G. Escudero: question, Your Honor.
 
 881
 02:10:24,980 --> 02:10:26,800
-Sen. Francis “Chiz” Escudero: There is no question yet, counsel. No, Your Honor,
+Sen. Francis "Chiz" G. Escudero: There is no question yet, counsel. No, Your Honor,
 
 882
 02:10:26,920 --> 02:10:38,110
@@ -3532,7 +3532,7 @@ Atty. Kristine R. Ferrer: saying, Your Honor, this was the 2nd ND.
 
 884
 02:10:40,390 --> 02:10:42,430
-Sen. Francis “Chiz” Escudero: Sorry, this is the 2nd
+Sen. Francis "Chiz" G. Escudero: Sorry, this is the 2nd
 
 885
 02:10:42,430 --> 02:10:42,710
@@ -3540,7 +3540,7 @@ Atty. Kristine R. Ferrer: ND.
 
 886
 02:10:43,410 --> 02:10:44,710
-Sen. Francis “Chiz” Escudero: This is the March 31.
+Sen. Francis "Chiz" G. Escudero: This is the March 31.
 
 887
 02:10:45,110 --> 02:10:54,250
@@ -3560,7 +3560,7 @@ Atty. Kristine R. Ferrer: Yes,
 
 891
 02:10:58,070 --> 02:10:59,410
-Sen. Francis “Chiz” Escudero: Your Honor. I'm referring to
+Sen. Francis "Chiz" G. Escudero: Your Honor. I'm referring to
 
 892
 02:10:59,410 --> 02:10:59,490
@@ -3572,11 +3572,11 @@ Cylene May L. Del Campo: March 31, 2026 ND. Yes po, yun sa ND dated March 31, 20
 
 894
 02:11:06,560 --> 02:11:06,660
-Sen. Francis “Chiz” Escudero: So, she
+Sen. Francis "Chiz" G. Escudero: So, she
 
 895
 02:11:06,660 --> 02:11:11,180
-Sen. Francis “Chiz” Escudero: knows what she was looking at, counsel. It was the presiding officer's mistake when I referred to it as August 8.
+Sen. Francis "Chiz" G. Escudero: knows what she was looking at, counsel. It was the presiding officer's mistake when I referred to it as August 8.
 
 896
 02:11:11,320 --> 02:11:53,380
@@ -3584,7 +3584,7 @@ Atty. Kristine R. Ferrer: Yes, thank you, Your Honor. So, nakalagay ho dyan, no?
 
 897
 02:11:53,900 --> 02:11:56,220
-Sen. Francis “Chiz” Escudero: Mag-submit
+Sen. Francis "Chiz" G. Escudero: Mag-submit
 
 898
 02:11:56,220 --> 02:12:18,270
@@ -3592,7 +3592,7 @@ Atty. Kristine R. Ferrer: kami ng invoice. Sabi nyo. You recognize that there ar
 
 899
 02:12:18,270 --> 02:12:22,890
-Sen. Francis “Chiz” Escudero: -clarify lang po ako? Atty. Sailin, before you answer, yes, Atty. Kapunan, you were saying, Your Honor,
+Sen. Francis "Chiz" G. Escudero: -clarify lang po ako? Atty. Sailin, before you answer, yes, Atty. Kapunan, you were saying, Your Honor,
 
 900
 02:12:23,070 --> 02:12:29,190
@@ -3600,7 +3600,7 @@ Atty. Lorna Patajo-Kapunan: this line of questioning already is, number one, arg
 
 901
 02:12:29,510 --> 02:12:29,990
-Sen. Francis “Chiz” Escudero: No,
+Sen. Francis "Chiz" G. Escudero: No,
 
 902
 02:12:30,110 --> 02:12:31,410
@@ -3608,7 +3608,7 @@ Atty. Kristine R. Ferrer: because this
 
 903
 02:12:31,410 --> 02:12:32,110
-Sen. Francis “Chiz” Escudero: witness
+Sen. Francis "Chiz" G. Escudero: witness
 
 904
 02:12:32,110 --> 02:12:33,230
@@ -3616,7 +3616,7 @@ Atty. Lorna Patajo-Kapunan: has testified.
 
 905
 02:12:34,090 --> 02:12:56,850
-Sen. Francis “Chiz” Escudero: And I think some members of the court would also like to find out what is acceptable and what is not, given the confidential nature of this. I think even one of the senator-judges will be pursuing this point later, so it might abbreviate the proceedings if you are able to answer now. Ano yung katanggap-tanggap na laman ng invoice, Sylene, kung dapat itago na confidential ang ibang mga impormasyon?
+Sen. Francis "Chiz" G. Escudero: And I think some members of the court would also like to find out what is acceptable and what is not, given the confidential nature of this. I think even one of the senator-judges will be pursuing this point later, so it might abbreviate the proceedings if you are able to answer now. Ano yung katanggap-tanggap na laman ng invoice, Sylene, kung dapat itago na confidential ang ibang mga impormasyon?
 
 906
 02:12:57,390 --> 02:13:00,930
@@ -3632,7 +3632,7 @@ Cylene May L. Del Campo: Kasi po ang hinihingan lang po namin ng official receip
 
 909
 02:13:17,660 --> 02:13:18,800
-Sen. Francis “Chiz” Escudero: So sa rental, hindi kailangan?
+Sen. Francis "Chiz" G. Escudero: So sa rental, hindi kailangan?
 
 910
 02:13:19,020 --> 02:13:27,620
@@ -3640,7 +3640,7 @@ Cylene May L. Del Campo: Hindi po. Ang hinihingan lang po namin ng official rece
 
 911
 02:13:27,880 --> 02:13:29,460
-Sen. Francis “Chiz” Escudero: Naginamit sa pagbigay ng reward.
+Sen. Francis "Chiz" G. Escudero: Naginamit sa pagbigay ng reward.
 
 912
 02:13:30,490 --> 02:13:35,090
@@ -3648,7 +3648,7 @@ Cylene May L. Del Campo: Doon po sa third quarter, hindi na siya reward. Naka-re
 
 913
 02:13:35,130 --> 02:13:35,670
-Sen. Francis “Chiz” Escudero: as supply na?
+Sen. Francis "Chiz" G. Escudero: as supply na?
 
 914
 02:13:35,950 --> 02:13:41,910
@@ -3656,7 +3656,7 @@ Cylene May L. Del Campo: Opo, kaya doon po. Pero yung sa rental of safe house, i
 
 915
 02:13:42,230 --> 02:13:46,730
-Sen. Francis “Chiz” Escudero: So sa pananaw mo, hindi kailangan maging confidential yung binilan ng supplies?
+Sen. Francis "Chiz" G. Escudero: So sa pananaw mo, hindi kailangan maging confidential yung binilan ng supplies?
 
 916
 02:13:47,130 --> 02:14:03,950
@@ -3664,7 +3664,7 @@ Cylene May L. Del Campo: Kasi po ang confidential, di ba po pag dumibili tayo ng
 
 917
 02:14:03,950 --> 02:14:04,110
-Sen. Francis “Chiz” Escudero: sa
+Sen. Francis "Chiz" G. Escudero: sa
 
 918
 02:14:04,110 --> 02:14:04,730
@@ -3672,7 +3672,7 @@ Cylene May L. Del Campo: pananong mo nga,
 
 919
 02:14:04,730 --> 02:14:06,690
-Sen. Francis “Chiz” Escudero: hindi dapat confidential yung binilhan?
+Sen. Francis "Chiz" G. Escudero: hindi dapat confidential yung binilhan?
 
 920
 02:14:07,250 --> 02:14:11,570
@@ -3680,7 +3680,7 @@ Cylene May L. Del Campo: Yung pinagbilhan po kasi yung sa paggagamitan yung conf
 
 921
 02:14:11,950 --> 02:14:13,390
-Sen. Francis “Chiz” Escudero: Okay. You may proceed, counsel.
+Sen. Francis "Chiz" G. Escudero: Okay. You may proceed, counsel.
 
 922
 02:14:13,650 --> 02:14:29,920
@@ -3720,7 +3720,7 @@ Atty. Kristine R. Ferrer: yet, Your Honor. Not yet. Counsel, ask and
 
 931
 02:15:15,590 --> 02:15:15,950
-Sen. Francis “Chiz” Escudero: answer.
+Sen. Francis "Chiz" G. Escudero: answer.
 
 932
 02:15:16,090 --> 02:15:17,110
@@ -3728,7 +3728,7 @@ Atty. Kristine R. Ferrer: Ask and answer.
 
 933
 02:15:18,130 --> 02:15:45,390
-Sen. Francis “Chiz” Escudero: Counsel, please. She said that... When it pertains to the purchase of supplies, food, medicines, shares, if at all computers, the name of the entity where they purchased it is not confidential. Pero kung saan ginamit yun, kung sinong pinagbigyan, sinong pinakain, saan pinakain, yun yung confidential. Tama ba, Celine?
+Sen. Francis "Chiz" G. Escudero: Counsel, please. She said that... When it pertains to the purchase of supplies, food, medicines, shares, if at all computers, the name of the entity where they purchased it is not confidential. Pero kung saan ginamit yun, kung sinong pinagbigyan, sinong pinakain, saan pinakain, yun yung confidential. Tama ba, Celine?
 
 934
 02:15:45,650 --> 02:15:46,630
@@ -3736,7 +3736,7 @@ Cylene May L. Del Campo: Opo, tama po.
 
 935
 02:15:47,070 --> 02:15:56,430
-Sen. Francis “Chiz” Escudero: So, yung invoice o resibo ng pagkain, medical supplies, na supplies, kailangan may resibo. Yan ang interpretasyon mo noong Joint Circular.
+Sen. Francis "Chiz" G. Escudero: So, yung invoice o resibo ng pagkain, medical supplies, na supplies, kailangan may resibo. Yan ang interpretasyon mo noong Joint Circular.
 
 936
 02:15:56,570 --> 02:16:02,350
@@ -3744,7 +3744,7 @@ Cylene May L. Del Campo: Opo, para ma-assertin namin na talagang ginamit yun for
 
 937
 02:16:02,650 --> 02:16:15,530
-Sen. Francis “Chiz” Escudero: So, sa bagay nito, ulitin ko, sa pananaw mo, sa interpretasyon mo, sa ginamit mong pag-audit, kapag ka supplies, hindi ka tatanggap ng other adequate document, resibo talaga hahanapin mo.
+Sen. Francis "Chiz" G. Escudero: So, sa bagay nito, ulitin ko, sa pananaw mo, sa interpretasyon mo, sa ginamit mong pag-audit, kapag ka supplies, hindi ka tatanggap ng other adequate document, resibo talaga hahanapin mo.
 
 938
 02:16:15,910 --> 02:16:19,490
@@ -3752,7 +3752,7 @@ Cylene May L. Del Campo: Opo, para mapatunayan na pinambili po talaga ito noong 
 
 939
 02:16:19,950 --> 02:16:25,510
-Sen. Francis “Chiz” Escudero: And this is the same standard you're applying to other government agencies, not only the OVP and the DepEd.
+Sen. Francis "Chiz" G. Escudero: And this is the same standard you're applying to other government agencies, not only the OVP and the DepEd.
 
 940
 02:16:25,710 --> 02:16:26,030
@@ -3784,7 +3784,7 @@ Atty. Kristine R. Ferrer: Hindi naman confidential yun.
 
 947
 02:17:29,840 --> 02:17:32,680
-Sen. Francis “Chiz” Escudero: Ask and answered. Don't argue with the Witness Council. Okay,
+Sen. Francis "Chiz" G. Escudero: Ask and answered. Don't argue with the Witness Council. Okay,
 
 948
 02:17:32,700 --> 02:17:41,060
@@ -3796,7 +3796,7 @@ Atty. Lorna Patajo-Kapunan: Your Honor. Ask and answered. It is not confidential
 
 950
 02:17:45,380 --> 02:17:47,240
-Sen. Francis “Chiz” Escudero: Move on to the next point, counsel. Your Honor, I'm
+Sen. Francis "Chiz" G. Escudero: Move on to the next point, counsel. Your Honor, I'm
 
 951
 02:17:47,240 --> 02:17:48,100
@@ -3808,7 +3808,7 @@ Atty. Kristine R. Ferrer: Your Honor.
 
 953
 02:17:48,780 --> 02:17:49,040
-Sen. Francis “Chiz” Escudero: There is
+Sen. Francis "Chiz" G. Escudero: There is
 
 954
 02:17:49,040 --> 02:17:50,820
@@ -3816,7 +3816,7 @@ Atty. Kristine R. Ferrer: already ruling from the presiding officer.
 
 955
 02:17:50,900 --> 02:17:51,980
-Sen. Francis “Chiz” Escudero: Move to the next point, counsel.
+Sen. Francis "Chiz" G. Escudero: Move to the next point, counsel.
 
 956
 02:17:52,400 --> 02:18:03,080
@@ -3828,7 +3828,7 @@ Cylene May L. Del Campo: Your Honor.
 
 958
 02:18:03,700 --> 02:18:04,840
-Sen. Francis “Chiz” Escudero: Witness may answer?
+Sen. Francis "Chiz" G. Escudero: Witness may answer?
 
 959
 02:18:05,020 --> 02:18:09,620
@@ -3848,7 +3848,7 @@ Atty. Lorna Patajo-Kapunan: already argumentative.
 
 963
 02:18:20,500 --> 02:18:22,740
-Sen. Francis “Chiz” Escudero: Asked and answered, counsel, and argumentative.
+Sen. Francis "Chiz" G. Escudero: Asked and answered, counsel, and argumentative.
 
 964
 02:18:22,820 --> 02:18:28,140
@@ -3856,11 +3856,11 @@ Atty. Lorna Patajo-Kapunan: There is nothing confidential about where you are su
 
 965
 02:18:28,140 --> 02:18:28,400
-Sen. Francis “Chiz” Escudero: Asked and
+Sen. Francis "Chiz" G. Escudero: Asked and
 
 966
 02:18:28,400 --> 02:18:35,280
-Sen. Francis “Chiz” Escudero: answered, counsel, whether you agree or not, whether you agree or not with the answer of Ms. Aileen, that was the answer she gave.
+Sen. Francis "Chiz" G. Escudero: answered, counsel, whether you agree or not, whether you agree or not with the answer of Ms. Aileen, that was the answer she gave.
 
 967
 02:18:35,280 --> 02:18:43,130
@@ -3868,7 +3868,7 @@ Atty. Lorna Patajo-Kapunan: Continuing objection, Your Honor. if it will apply a
 
 968
 02:18:43,130 --> 02:18:43,550
-Sen. Francis “Chiz” Escudero: have a
+Sen. Francis "Chiz" G. Escudero: have a
 
 969
 02:18:43,550 --> 02:18:44,390
@@ -3876,7 +3876,7 @@ Atty. Lorna Patajo-Kapunan: continuing objection
 
 970
 02:18:44,390 --> 02:18:45,830
-Sen. Francis “Chiz” Escudero: to this line of
+Sen. Francis "Chiz" G. Escudero: to this line of
 
 971
 02:18:45,830 --> 02:18:46,710
@@ -3884,7 +3884,7 @@ Atty. Lorna Patajo-Kapunan: questioning, Your Honor.
 
 972
 02:18:46,790 --> 02:18:47,570
-Sen. Francis “Chiz” Escudero: We're not yet there, counsel.
+Sen. Francis "Chiz" G. Escudero: We're not yet there, counsel.
 
 973
 02:18:48,070 --> 02:18:48,550
@@ -3892,7 +3892,7 @@ Atty. Kristine R. Ferrer: Attorney
 
 974
 02:18:48,550 --> 02:18:50,150
-Sen. Francis “Chiz” Escudero: Christine, you may proceed.
+Sen. Francis "Chiz" G. Escudero: Christine, you may proceed.
 
 975
 02:18:50,290 --> 02:19:01,070
@@ -3932,7 +3932,7 @@ Atty. Lorna Patajo-Kapunan: question is vague, Your Honor.
 
 984
 02:19:35,200 --> 02:19:35,740
-Sen. Francis “Chiz” Escudero: The
+Sen. Francis "Chiz" G. Escudero: The
 
 985
 02:19:35,740 --> 02:19:37,000
@@ -3940,7 +3940,7 @@ Atty. Lorna Patajo-Kapunan: question
 
 986
 02:19:37,000 --> 02:19:37,520
-Sen. Francis “Chiz” Escudero: is
+Sen. Francis "Chiz" G. Escudero: is
 
 987
 02:19:37,520 --> 02:19:37,940
@@ -3948,7 +3948,7 @@ Atty. Lorna Patajo-Kapunan: vague.
 
 988
 02:19:38,000 --> 02:19:55,600
-Sen. Francis “Chiz” Escudero: Sylene, ang tanong sa'yo ay may karapatan ba yung ahensya magsabi na ito confidential? Kayo lang ba ang may karapatan? Kasi I can actually answer. Tell me if you agree. You review the submissions of the agencies, correct?
+Sen. Francis "Chiz" G. Escudero: Sylene, ang tanong sa'yo ay may karapatan ba yung ahensya magsabi na ito confidential? Kayo lang ba ang may karapatan? Kasi I can actually answer. Tell me if you agree. You review the submissions of the agencies, correct?
 
 989
 02:19:56,380 --> 02:19:56,860
@@ -3956,7 +3956,7 @@ Cylene May L. Del Campo: Pag
 
 990
 02:19:56,860 --> 02:20:02,500
-Sen. Francis “Chiz” Escudero: may observation kayo, mag-EAOM kayo, and they can say, ah hindi, confidential to. And then you can agree or disagree, correct?
+Sen. Francis "Chiz" G. Escudero: may observation kayo, mag-EAOM kayo, and they can say, ah hindi, confidential to. And then you can agree or disagree, correct?
 
 991
 02:20:02,860 --> 02:20:06,480
@@ -3964,11 +3964,11 @@ Cylene May L. Del Campo: Based on the evaluation po nung magiging response nila.
 
 992
 02:20:06,860 --> 02:20:17,220
-Sen. Francis “Chiz” Escudero: And given the difference in the notice of suspension and notice of disallowance as pointed out by counsel earlier na may mga tinanggal na kayo, may mga binawas kayo, di ba? Kasi napaliwanag nila.
+Sen. Francis "Chiz" G. Escudero: And given the difference in the notice of suspension and notice of disallowance as pointed out by counsel earlier na may mga tinanggal na kayo, may mga binawas kayo, di ba? Kasi napaliwanag nila.
 
 993
 02:20:18,840 --> 02:20:25,720
-Sen. Francis “Chiz” Escudero: So, minsan sinasabi nila sa unang tingin mo, hindi confidential ito, biglang nagpaliwanag sila, confidential yun, binawas nyo o binabawas nyo?
+Sen. Francis "Chiz" G. Escudero: So, minsan sinasabi nila sa unang tingin mo, hindi confidential ito, biglang nagpaliwanag sila, confidential yun, binawas nyo o binabawas nyo?
 
 994
 02:20:25,860 --> 02:20:34,040
@@ -3976,7 +3976,7 @@ Cylene May L. Del Campo: Opo, based po sa evaluation ng response nila, kung na-a
 
 995
 02:20:34,040 --> 02:20:40,280
-Sen. Francis “Chiz” Escudero: -answer o napaliwanag nila o nakumbinsi kayo na confidential ito, therefore, hindi kailangan ng resibo o invoice.
+Sen. Francis "Chiz" G. Escudero: -answer o napaliwanag nila o nakumbinsi kayo na confidential ito, therefore, hindi kailangan ng resibo o invoice.
 
 996
 02:20:40,560 --> 02:20:40,840
@@ -3984,7 +3984,7 @@ Cylene May L. Del Campo: Opo.
 
 997
 02:20:41,100 --> 02:20:47,420
-Sen. Francis “Chiz” Escudero: Tama. But your determination is anyway appealable, if at all, to the Supreme Court, the Commission of the Supreme Court?
+Sen. Francis "Chiz" G. Escudero: Tama. But your determination is anyway appealable, if at all, to the Supreme Court, the Commission of the Supreme Court?
 
 998
 02:20:48,080 --> 02:20:53,340
@@ -3992,7 +3992,7 @@ Cylene May L. Del Campo: Pag yung sa COA po, o pag may decision, may remedy pa p
 
 999
 02:20:53,520 --> 02:20:55,500
-Sen. Francis “Chiz” Escudero: Yes. Okay. Counsel, move on.
+Sen. Francis "Chiz" G. Escudero: Yes. Okay. Counsel, move on.
 
 1000
 02:20:55,780 --> 02:21:07,980
@@ -4004,7 +4004,7 @@ Atty. Lorna Patajo-Kapunan: ND ninyo, di ba po? Your Honor, please, I think this
 
 1002
 02:21:12,780 --> 02:21:13,660
-Sen. Francis “Chiz” Escudero: Already answered, counsel.
+Sen. Francis "Chiz" G. Escudero: Already answered, counsel.
 
 1003
 02:21:14,060 --> 02:21:14,400
@@ -4016,11 +4016,11 @@ Atty. Kristine R. Ferrer: answer is, we want to put it on record, Your Honor, th
 
 1005
 02:21:19,680 --> 02:21:19,720
-Sen. Francis “Chiz” Escudero: Your Honor.
+Sen. Francis "Chiz" G. Escudero: Your Honor.
 
 1006
 02:21:20,220 --> 02:21:22,060
-Sen. Francis “Chiz” Escudero: She agrees, counsel. She
+Sen. Francis "Chiz" G. Escudero: She agrees, counsel. She
 
 1007
 02:21:22,060 --> 02:21:27,500
@@ -4060,7 +4060,7 @@ Atty. Lorna Patajo-Kapunan: Wait for
 
 1016
 02:22:02,490 --> 02:22:05,390
-Sen. Francis “Chiz” Escudero: counsel for the prosecutors. Yes, Atty. Kapuna?
+Sen. Francis "Chiz" G. Escudero: counsel for the prosecutors. Yes, Atty. Kapuna?
 
 1017
 02:22:05,490 --> 02:22:11,030
@@ -4076,7 +4076,7 @@ Atty. Kristine R. Ferrer: Kasi kanina, who determines whether...
 
 1020
 02:22:17,520 --> 02:22:19,920
-Sen. Francis “Chiz” Escudero: The court will allow it. Atty. Celine, please answer.
+Sen. Francis "Chiz" G. Escudero: The court will allow it. Atty. Celine, please answer.
 
 1021
 02:22:20,510 --> 02:22:42,630
@@ -4132,11 +4132,11 @@ Atty. Kristine R. Ferrer: Answered, Your Honor. Wala hong answer, Your Honor.
 
 1034
 02:23:55,470 --> 02:23:55,490
-Sen. Francis “Chiz” Escudero: She did
+Sen. Francis "Chiz" G. Escudero: She did
 
 1035
 02:23:55,490 --> 02:23:56,490
-Sen. Francis “Chiz” Escudero: not answer, counsel. She did
+Sen. Francis "Chiz" G. Escudero: not answer, counsel. She did
 
 1036
 02:23:56,490 --> 02:23:58,110
@@ -4144,7 +4144,7 @@ Atty. Kristine R. Ferrer: not answer. Yes, Your Honor.
 
 1037
 02:23:58,890 --> 02:24:01,790
-Sen. Francis “Chiz” Escudero: Sylene, just answer it. Hindi kayo kasama, di ba?
+Sen. Francis "Chiz" G. Escudero: Sylene, just answer it. Hindi kayo kasama, di ba?
 
 1038
 02:24:01,970 --> 02:24:03,990
@@ -4152,7 +4152,7 @@ Cylene May L. Del Campo: Hindi po. Base lang po kami sa documents.
 
 1039
 02:24:04,510 --> 02:24:06,310
-Sen. Francis “Chiz” Escudero: So, just say that hindi kayo kasama.
+Sen. Francis "Chiz" G. Escudero: So, just say that hindi kayo kasama.
 
 1040
 02:24:06,550 --> 02:24:07,610
@@ -4164,15 +4164,15 @@ Atty. Kristine R. Ferrer: It's 1216, Your Honor. Okay lang po ako. I can
 
 1042
 02:24:14,340 --> 02:24:14,580
-Sen. Francis “Chiz” Escudero: continue. Thank you
+Sen. Francis "Chiz" G. Escudero: continue. Thank you
 
 1043
 02:24:14,580 --> 02:24:16,040
-Sen. Francis “Chiz” Escudero: for pointing that out, counsel.
+Sen. Francis "Chiz" G. Escudero: for pointing that out, counsel.
 
 1044
 02:24:20,450 --> 02:24:21,050
-Sen. Francis “Chiz” Escudero: Your
+Sen. Francis "Chiz" G. Escudero: Your
 
 1045
 02:24:21,050 --> 02:24:27,330
@@ -4180,11 +4180,11 @@ Atty. Lorna Patajo-Kapunan: Honor, may we know if the cross-examination will tak
 
 1046
 02:24:27,330 --> 02:25:11,230
-Sen. Francis “Chiz” Escudero: Let's see. We cannot compel, neither can we force, her pressure counsel to limit her cross-examination. She has enough leeway to test the credibility of the witness. We shall take a lunch break and shall resume at 1 p.m. with the cross-examination of Cylene thereafter the interventions of the senator-judges. The first to register is attorney, rather, Senator-Judge Padilla. Thereafter, Senator-Judge Antiveros. Kindly take note of the sequence. Trial is, we are on recess until 1 o'clock.
+Sen. Francis "Chiz" G. Escudero: Let's see. We cannot compel, neither can we force, her pressure counsel to limit her cross-examination. She has enough leeway to test the credibility of the witness. We shall take a lunch break and shall resume at 1 p.m. with the cross-examination of Cylene thereafter the interventions of the senator-judges. The first to register is attorney, rather, Senator-Judge Padilla. Thereafter, Senator-Judge Antiveros. Kindly take note of the sequence. Trial is, we are on recess until 1 o'clock.
 
 1047
 03:10:16,460 --> 03:10:24,680
-Sen. Francis “Chiz” Escudero: Miss Aileen, you are under the same oath and will continue with your testimony. You are under cross-examination by the counsel for the respondent.
+Sen. Francis "Chiz" G. Escudero: Miss Aileen, you are under the same oath and will continue with your testimony. You are under cross-examination by the counsel for the respondent.
 
 1048
 03:10:25,120 --> 03:10:26,120
@@ -4192,15 +4192,15 @@ Cylene May L. Del Campo: Yes po, Your Honor.
 
 1049
 03:10:28,040 --> 03:10:29,160
-Sen. Francis “Chiz” Escudero: Nakakain na po kayo, ma'am?
+Sen. Francis "Chiz" G. Escudero: Nakakain na po kayo, ma'am?
 
 1050
 03:10:29,760 --> 03:10:31,260
-Atty. Kristine Ferrer Del Campo: Opo, Your Honor. Thank you, ma'am.
+Cylene May L. Del Campo: Opo, Your Honor. Thank you, ma'am.
 
 1051
 03:10:33,350 --> 03:10:34,850
-Sen. Francis “Chiz” Escudero: Attorney Christine, are you ready?
+Sen. Francis "Chiz" G. Escudero: Attorney Christine, are you ready?
 
 1052
 03:10:37,170 --> 03:10:37,950
@@ -4208,7 +4208,7 @@ Atty. Kristine R. Ferrer: Yes, Your Honor.
 
 1053
 03:10:38,230 --> 03:10:41,630
-Sen. Francis “Chiz” Escudero: You may proceed, ma'am, with the continuation of your cross-examination.
+Sen. Francis "Chiz" G. Escudero: You may proceed, ma'am, with the continuation of your cross-examination.
 
 1054
 03:10:42,130 --> 03:10:45,910
@@ -4216,7 +4216,7 @@ Atty. Kristine R. Ferrer: Your Honor, can I have a few manifestations, Your Hono
 
 1055
 03:10:46,450 --> 03:10:47,130
-Sen. Francis “Chiz” Escudero: A few minutes of?
+Sen. Francis "Chiz" G. Escudero: A few minutes of?
 
 1056
 03:10:47,590 --> 03:10:50,050
@@ -4224,7 +4224,7 @@ Atty. Kristine R. Ferrer: A few manifestations lang po, Your Honor.
 
 1057
 03:10:50,410 --> 03:10:51,970
-Sen. Francis “Chiz” Escudero: Yes, ma'am, you may do so.
+Sen. Francis "Chiz" G. Escudero: Yes, ma'am, you may do so.
 
 1058
 03:10:52,090 --> 03:11:39,350
@@ -4232,7 +4232,7 @@ Atty. Kristine R. Ferrer: Actually, Your Honor, we would like to ask this court 
 
 1059
 03:11:39,530 --> 03:11:49,110
-Sen. Francis “Chiz” Escudero: Atty. Kapunan already... Although you are correct, it was already heard since we're on TV, Atty. Caponan withdrew that statement earlier if I remember correctly.
+Sen. Francis "Chiz" G. Escudero: Atty. Kapunan already... Although you are correct, it was already heard since we're on TV, Atty. Caponan withdrew that statement earlier if I remember correctly.
 
 1060
 03:11:49,530 --> 03:11:56,690
@@ -4248,7 +4248,7 @@ Atty. Kristine R. Ferrer: you, po.
 
 1063
 03:11:58,150 --> 03:11:58,890
-Sen. Francis “Chiz” Escudero: Thank you,
+Sen. Francis "Chiz" G. Escudero: Thank you,
 
 1064
 03:11:58,890 --> 03:11:59,530
@@ -4256,11 +4256,11 @@ Atty. Kristine R. Ferrer: Your Honor.
 
 1065
 03:12:00,250 --> 03:12:02,250
-Sen. Francis “Chiz” Escudero: Thank you to both parties.
+Sen. Francis "Chiz" G. Escudero: Thank you to both parties.
 
 1066
 03:12:04,050 --> 03:12:06,170
-Sen. Francis “Chiz” Escudero: So, can you continue, Atty. Christine?
+Sen. Francis "Chiz" G. Escudero: So, can you continue, Atty. Christine?
 
 1067
 03:12:06,370 --> 03:12:07,250
@@ -4268,7 +4268,7 @@ Atty. Kristine R. Ferrer: Yes, Your Honor.
 
 1068
 03:12:08,280 --> 03:12:15,660
-Sen. Francis “Chiz” Escudero: Kindly do so, ma'am. You may proceed when you're ready. Ms. Aileen, kindly answer the cross-examination questions of Attorney Christine.
+Sen. Francis "Chiz" G. Escudero: Kindly do so, ma'am. You may proceed when you're ready. Ms. Aileen, kindly answer the cross-examination questions of Attorney Christine.
 
 1069
 03:12:16,160 --> 03:12:20,660
@@ -4288,7 +4288,7 @@ Atty. Kristine R. Ferrer: Yes, I will ask my counsel to give you a copy of the J
 
 1073
 03:13:01,630 --> 03:13:07,770
-Sen. Francis “Chiz” Escudero: Assisting counsel may approach. Assisting counsel for the prosecutors may likewise approach to view the document.
+Sen. Francis "Chiz" G. Escudero: Assisting counsel may approach. Assisting counsel for the prosecutors may likewise approach to view the document.
 
 1074
 03:13:09,260 --> 03:13:13,600
@@ -4396,7 +4396,7 @@ Atty. Kristine R. Ferrer: That is dated March 1, 2026.
 
 1100
 03:15:44,700 --> 03:15:45,260
-Sen. Francis “Chiz” Escudero: 31.
+Sen. Francis "Chiz" G. Escudero: 31.
 
 1101
 03:15:45,460 --> 03:15:49,420
@@ -4488,7 +4488,7 @@ Atty. Lorna Patajo-Kapunan: that it is part of the submissions or documents subm
 
 1123
 03:19:38,470 --> 03:20:01,360
-Sen. Francis “Chiz” Escudero: I think counsel is quoting paragraph 2 of the notice of disqualification that they took into account based on the results with due consideration. They took into consideration. The Committee on Good Government and Public Accountability report. Witness may answer.
+Sen. Francis "Chiz" G. Escudero: I think counsel is quoting paragraph 2 of the notice of disqualification that they took into account based on the results with due consideration. They took into consideration. The Committee on Good Government and Public Accountability report. Witness may answer.
 
 1124
 03:20:01,720 --> 03:20:05,750
@@ -4496,7 +4496,7 @@ Cylene May L. Del Campo: Yes. Thank you, Your Honor. Pwede pong pakiulit yung ta
 
 1125
 03:20:05,750 --> 03:20:06,290
-Sen. Francis “Chiz” Escudero: Sige.
+Sen. Francis "Chiz" G. Escudero: Sige.
 
 1126
 03:20:06,290 --> 03:20:16,430
@@ -4552,7 +4552,7 @@ Atty. Kristine R. Ferrer: Based dito, no? Dito nga, no? Yung audit ninyo are bas
 
 1139
 03:21:43,190 --> 03:21:45,550
-Atty. Kristine Ferrer Del Campo: Opo, based po dun sa submitted documents. Thank you.
+Cylene May L. Del Campo: Opo, based po dun sa submitted documents. Thank you.
 
 1140
 03:21:47,050 --> 03:21:51,630
@@ -4588,7 +4588,7 @@ Atty. Kristine R. Ferrer: yung tanong ko.
 
 1148
 03:22:44,860 --> 03:22:49,340
-Sen. Francis “Chiz” Escudero: Kindly just answer the question, Ms. Eileen, so that we can move forward faster. Kung ano na po yung tanong.
+Sen. Francis "Chiz" G. Escudero: Kindly just answer the question, Ms. Eileen, so that we can move forward faster. Kung ano na po yung tanong.
 
 1149
 03:22:49,400 --> 03:22:50,000
@@ -4596,7 +4596,7 @@ Atty. Kristine R. Ferrer: Okay po.
 
 1150
 03:22:50,320 --> 03:22:52,480
-Sen. Francis “Chiz” Escudero: Opposing counsel will have her chance at redirect.
+Sen. Francis "Chiz" G. Escudero: Opposing counsel will have her chance at redirect.
 
 1151
 03:22:53,140 --> 03:22:57,380
@@ -4632,7 +4632,7 @@ Cylene May L. Del Campo: Ang paghahanda-tanda ko po is hindi ko makakanya yung t
 
 1159
 03:23:41,270 --> 03:23:47,090
-Sen. Francis “Chiz” Escudero: The court will confirm 1,823 as manifested by the counsel for the panel of prosecutors.
+Sen. Francis "Chiz" G. Escudero: The court will confirm 1,823 as manifested by the counsel for the panel of prosecutors.
 
 1160
 03:23:47,490 --> 03:23:50,790
@@ -4676,7 +4676,7 @@ Atty. Kristine R. Ferrer: will be showing the schedules, Your Honor, to the Witn
 
 1170
 03:24:29,840 --> 03:24:32,780
-Sen. Francis “Chiz” Escudero: When you say schedule, counsel, you mean dates? The
+Sen. Francis "Chiz" G. Escudero: When you say schedule, counsel, you mean dates? The
 
 1171
 03:24:32,780 --> 03:24:36,540
@@ -4684,7 +4684,7 @@ Atty. Kristine R. Ferrer: summaries, Your Honor, that they provided to us yester
 
 1172
 03:24:36,620 --> 03:24:37,120
-Sen. Francis “Chiz” Escudero: With the dates.
+Sen. Francis "Chiz" G. Escudero: With the dates.
 
 1173
 03:24:37,260 --> 03:24:40,760
@@ -4692,7 +4692,7 @@ Atty. Kristine R. Ferrer: They're not schedules, Your Honor. Or summaries, I sta
 
 1174
 03:24:41,200 --> 03:24:42,440
-Sen. Francis “Chiz” Escudero: Tables and summaries. They're tabulations,
+Sen. Francis "Chiz" G. Escudero: Tables and summaries. They're tabulations,
 
 1175
 03:24:42,480 --> 03:24:42,940
@@ -4700,7 +4700,7 @@ Atty. Kristine R. Ferrer: Your Honor.
 
 1176
 03:24:43,120 --> 03:24:44,380
-Sen. Francis “Chiz” Escudero: Yes, tables and summaries. Just
+Sen. Francis "Chiz" G. Escudero: Yes, tables and summaries. Just
 
 1177
 03:24:44,380 --> 03:25:09,520
@@ -4712,7 +4712,7 @@ Atty. Kristine R. Ferrer: be confronting the witness.
 
 1179
 03:25:12,660 --> 03:25:13,440
-Sen. Francis “Chiz” Escudero: Proceed, counsel.
+Sen. Francis "Chiz" G. Escudero: Proceed, counsel.
 
 1180
 03:25:13,740 --> 03:25:14,520
@@ -4740,7 +4740,7 @@ Atty. Kristine R. Ferrer: you produce this? This was marked as Exhibit P-1-33 of
 
 1186
 03:25:57,270 --> 03:25:59,290
-Sen. Francis “Chiz” Escudero: So that's the tabulation for
+Sen. Francis "Chiz" G. Escudero: So that's the tabulation for
 
 1187
 03:25:59,290 --> 03:26:05,070
@@ -4856,7 +4856,7 @@ Atty. Lorna Patajo-Kapunan: signature needed.
 
 1215
 03:28:44,930 --> 03:28:46,690
-Sen. Francis “Chiz” Escudero: Ask and answered. Move on, counsel.
+Sen. Francis "Chiz" G. Escudero: Ask and answered. Move on, counsel.
 
 1216
 03:28:47,100 --> 03:28:53,540
@@ -4868,11 +4868,11 @@ Atty. Lorna Patajo-Kapunan: Your Honor, please.
 
 1218
 03:28:56,400 --> 03:29:03,160
-Sen. Francis “Chiz” Escudero: Attorney Lorna, it's okay. Asked and answered, counsel, move on. She already answered that it's her working paper and therefore did not
+Sen. Francis "Chiz" G. Escudero: Attorney Lorna, it's okay. Asked and answered, counsel, move on. She already answered that it's her working paper and therefore did not
 
 1219
 03:29:03,160 --> 03:29:03,640
-Sen. Francis “Chiz” Escudero: sign it.
+Sen. Francis "Chiz" G. Escudero: sign it.
 
 1220
 03:29:03,880 --> 03:29:04,940
@@ -4960,7 +4960,7 @@ Atty. Lorna Patajo-Kapunan: I may.
 
 1241
 03:31:51,870 --> 03:31:52,750
-Sen. Francis “Chiz” Escudero: Yes, counsel.
+Sen. Francis "Chiz" G. Escudero: Yes, counsel.
 
 1242
 03:31:53,090 --> 03:32:06,410
@@ -4968,7 +4968,7 @@ Atty. Lorna Patajo-Kapunan: Your Honor, please. I think this witness already ans
 
 1243
 03:32:06,410 --> 03:32:33,680
-Sen. Francis “Chiz” Escudero: Only for that particular one, counsel. Yes, Your Honor. Not for all. But I think I saw the documents, counsel. All of the tabulations of the witness, Aileen, For all the quarters in 2023, for both DPED and OVP, does not contain either names nor places in the acknowledgement receipt. Correct, Ma'am Celine?
+Sen. Francis "Chiz" G. Escudero: Only for that particular one, counsel. Yes, Your Honor. Not for all. But I think I saw the documents, counsel. All of the tabulations of the witness, Aileen, For all the quarters in 2023, for both DPED and OVP, does not contain either names nor places in the acknowledgement receipt. Correct, Ma'am Celine?
 
 1244
 03:32:34,060 --> 03:32:36,940
@@ -4980,7 +4980,7 @@ Cylene May L. Del Campo: It only contains
 
 1246
 03:32:37,620 --> 03:32:40,000
-Sen. Francis “Chiz” Escudero: the date, the activity, and the amount.
+Sen. Francis "Chiz" G. Escudero: the date, the activity, and the amount.
 
 1247
 03:32:40,300 --> 03:32:44,020
@@ -4988,7 +4988,7 @@ Cylene May L. Del Campo: Kung ano yung document, acknowledgement receipt. Yes,
 
 1248
 03:32:44,020 --> 03:32:50,330
-Sen. Francis “Chiz” Escudero: the nature of the document. But again, no name. Whether it's an alias or a real name and no address.
+Sen. Francis "Chiz" G. Escudero: the nature of the document. But again, no name. Whether it's an alias or a real name and no address.
 
 1249
 03:32:50,790 --> 03:32:53,910
@@ -5052,11 +5052,11 @@ Atty. Kristine R. Ferrer: answer, Your Honor. Compliance with the provisions of 
 
 1264
 03:36:01,240 --> 03:36:01,820
-Sen. Francis “Chiz” Escudero: ask and
+Sen. Francis "Chiz" G. Escudero: ask and
 
 1265
 03:36:01,820 --> 03:36:03,880
-Sen. Francis “Chiz” Escudero: answer, Your Honor. Thank you.
+Sen. Francis "Chiz" G. Escudero: answer, Your Honor. Thank you.
 
 1266
 03:36:16,400 --> 03:36:28,300
@@ -5096,7 +5096,7 @@ Atty. Kristine R. Ferrer: lalabas kayo doon, you will search for the 3,647 pages
 
 1275
 03:37:31,830 --> 03:37:32,670
-Sen. Francis “Chiz” Escudero: Yes, counsel.
+Sen. Francis "Chiz" G. Escudero: Yes, counsel.
 
 1276
 03:37:32,810 --> 03:37:33,370
@@ -5108,7 +5108,7 @@ Atty. Kristine R. Ferrer: This is speculative.
 
 1278
 03:37:35,910 --> 03:37:46,350
-Sen. Francis “Chiz” Escudero: If the witness knows, masailin. Bakit hindi n'yo inaalam kung sino yung mga totoong pagkakakilanlan ng mga tao nakalagay sa AR? Because
+Sen. Francis "Chiz" G. Escudero: If the witness knows, masailin. Bakit hindi n'yo inaalam kung sino yung mga totoong pagkakakilanlan ng mga tao nakalagay sa AR? Because
 
 1279
 03:37:46,350 --> 03:37:51,450
@@ -5124,7 +5124,7 @@ Atty. Kristine R. Ferrer: follow on that, Your Honor. Precisely, you did not ver
 
 1282
 03:38:06,810 --> 03:38:08,130
-Sen. Francis “Chiz” Escudero: Audited. Ask and answered, Your Honor.
+Sen. Francis "Chiz" G. Escudero: Audited. Ask and answered, Your Honor.
 
 1283
 03:38:08,130 --> 03:38:08,770
@@ -5132,11 +5132,11 @@ Cylene May L. Del Campo: Hindi pa po, Your Honor.
 
 1284
 03:38:08,770 --> 03:38:08,970
-Sen. Francis “Chiz” Escudero: Actually, counsel
+Sen. Francis "Chiz" G. Escudero: Actually, counsel
 
 1285
 03:38:08,970 --> 03:38:13,170
-Sen. Francis “Chiz” Escudero: asked and answered. She said earlier that based
+Sen. Francis "Chiz" G. Escudero: asked and answered. She said earlier that based
 
 1286
 03:38:13,170 --> 03:38:13,950
@@ -5144,7 +5144,7 @@ Atty. Lorna Patajo-Kapunan: on documents,
 
 1287
 03:38:14,050 --> 03:38:22,310
-Sen. Francis “Chiz” Escudero: they presumed the regularity. I think that was the answer to that question. They presumed the regularity of the documents submitted to them.
+Sen. Francis "Chiz" G. Escudero: they presumed the regularity. I think that was the answer to that question. They presumed the regularity of the documents submitted to them.
 
 1288
 03:38:22,570 --> 03:38:30,710
@@ -5152,7 +5152,7 @@ Atty. Kristine R. Ferrer: Okay, I will accept that, Your Honor. I was actually j
 
 1289
 03:38:30,710 --> 03:38:31,570
-Sen. Francis “Chiz” Escudero: proceed, counsel. Yes,
+Sen. Francis "Chiz" G. Escudero: proceed, counsel. Yes,
 
 1290
 03:38:31,570 --> 03:38:38,930
@@ -5216,7 +5216,7 @@ Atty. Lorna Patajo-Kapunan: Your Honor, please, excuse me.
 
 1305
 03:40:44,100 --> 03:40:45,600
-Sen. Francis “Chiz” Escudero: Yes, Counsel, Attorney Governor.
+Sen. Francis "Chiz" G. Escudero: Yes, Counsel, Attorney Governor.
 
 1306
 03:40:45,800 --> 03:40:58,040
@@ -5224,7 +5224,7 @@ Atty. Lorna Patajo-Kapunan: Precisely, this witness asked if aliases are allowed
 
 1307
 03:40:59,340 --> 03:41:05,660
-Sen. Francis “Chiz” Escudero: I'll let it go this time for emphasis, counsel, but I'll move on to your next point after that, Attorney Christina.
+Sen. Francis "Chiz" G. Escudero: I'll let it go this time for emphasis, counsel, but I'll move on to your next point after that, Attorney Christina.
 
 1308
 03:41:05,920 --> 03:41:13,960
@@ -5272,15 +5272,15 @@ Atty. Lorna Patajo-Kapunan: Your Honor, please, the question is misleading. The 
 
 1319
 03:44:24,680 --> 03:44:28,600
-Sen. Francis “Chiz” Escudero: have to admit, you had fun with the names. We had
+Sen. Francis "Chiz" G. Escudero: have to admit, you had fun with the names. We had
 
 1320
 03:44:28,600 --> 03:44:29,140
-Sen. Francis “Chiz” Escudero: so much fun, Your
+Sen. Francis "Chiz" G. Escudero: so much fun, Your
 
 1321
 03:44:29,340 --> 03:44:36,300
-Sen. Francis “Chiz” Escudero: Honor. Exactly. So, let her cross the witness based on those and utilize it as well.
+Sen. Francis "Chiz" G. Escudero: Honor. Exactly. So, let her cross the witness based on those and utilize it as well.
 
 1322
 03:44:36,880 --> 03:44:43,940
@@ -5300,7 +5300,7 @@ Atty. Lorna Patajo-Kapunan: Yes, Counsel. Just for the record, fictitious is her
 
 1326
 03:44:56,510 --> 03:45:17,880
-Sen. Francis “Chiz” Escudero: Well, counsel, actually, that's not entirely accurate because in the complaint, you did allude to the fact that some of the names are fictitious based on the PSA documents that you attached as an annex to the complaint, although you're not yet there. You haven't gotten there yet. Please continue, Atty. Christine. Atty. Kapunan, give her her share of fun with the names.
+Sen. Francis "Chiz" G. Escudero: Well, counsel, actually, that's not entirely accurate because in the complaint, you did allude to the fact that some of the names are fictitious based on the PSA documents that you attached as an annex to the complaint, although you're not yet there. You haven't gotten there yet. Please continue, Atty. Christine. Atty. Kapunan, give her her share of fun with the names.
 
 1327
 03:45:19,000 --> 03:45:22,680
@@ -5308,7 +5308,7 @@ Atty. Lorna Patajo-Kapunan: May I be allowed, Your Honor, to sit down while she'
 
 1328
 03:45:22,680 --> 03:45:26,980
-Sen. Francis “Chiz” Escudero: Yes, Atty. Kapunan, you may do so. Atty. Christine, please proceed. Okay,
+Sen. Francis "Chiz" G. Escudero: Yes, Atty. Kapunan, you may do so. Atty. Christine, please proceed. Okay,
 
 1329
 03:45:27,020 --> 03:45:35,220
@@ -5344,11 +5344,11 @@ Atty. Kristine R. Ferrer: Okay, basta walang findings na ganun, no?
 
 1337
 03:46:05,500 --> 03:46:05,820
-Sen. Francis “Chiz” Escudero: To
+Sen. Francis "Chiz" G. Escudero: To
 
 1338
 03:46:05,820 --> 03:46:17,620
-Sen. Francis “Chiz” Escudero: clarify, let me help you a bit, Atty. Christine. Wala kayong binanggit tungkol sa mga pangalang nakakatuwa o nakakatawa sa dalawang Notice of Disallowance, Celine? Wala, di ba?
+Sen. Francis "Chiz" G. Escudero: clarify, let me help you a bit, Atty. Christine. Wala kayong binanggit tungkol sa mga pangalang nakakatuwa o nakakatawa sa dalawang Notice of Disallowance, Celine? Wala, di ba?
 
 1339
 03:46:17,700 --> 03:46:18,220
@@ -5356,7 +5356,7 @@ Cylene May L. Del Campo: Wala po.
 
 1340
 03:46:18,340 --> 03:46:20,540
-Sen. Francis “Chiz” Escudero: Wala rin sa anumang AOM binanggit yun, di ba?
+Sen. Francis "Chiz" G. Escudero: Wala rin sa anumang AOM binanggit yun, di ba?
 
 1341
 03:46:20,840 --> 03:46:21,780
@@ -5364,7 +5364,7 @@ Cylene May L. Del Campo: Wala din po.
 
 1342
 03:46:23,600 --> 03:46:28,500
-Sen. Francis “Chiz” Escudero: Kahit yung mga lugar kung saan binayaran, wala kayong binanggit sa AOM o sa Notice of Disallowance man?
+Sen. Francis "Chiz" G. Escudero: Kahit yung mga lugar kung saan binayaran, wala kayong binanggit sa AOM o sa Notice of Disallowance man?
 
 1343
 03:46:29,120 --> 03:46:30,080
@@ -5372,15 +5372,15 @@ Cylene May L. Del Campo: Opo, wala po.
 
 1344
 03:46:30,380 --> 03:46:32,480
-Sen. Francis “Chiz” Escudero: Okay. Thank you. Please proceed,
+Sen. Francis "Chiz" G. Escudero: Okay. Thank you. Please proceed,
 
 1345
 03:46:32,600 --> 03:46:32,960
-Sen. Francis “Chiz” Escudero: Atty.
+Sen. Francis "Chiz" G. Escudero: Atty.
 
 1346
 03:46:33,020 --> 03:46:33,260
-Sen. Francis “Chiz” Escudero: Christine.
+Sen. Francis "Chiz" G. Escudero: Christine.
 
 1347
 03:46:33,420 --> 03:46:34,300
@@ -5420,7 +5420,7 @@ Atty. Kristine R. Ferrer: we will flash the TSN. Don't worry, counsel. It's
 
 1356
 03:47:33,440 --> 03:47:34,640
-Sen. Francis “Chiz” Escudero: okay if you don't recall, Sylene.
+Sen. Francis "Chiz" G. Escudero: okay if you don't recall, Sylene.
 
 1357
 03:47:36,390 --> 03:47:39,770
@@ -5432,7 +5432,7 @@ Atty. Lorna Patajo-Kapunan: May we just be
 
 1359
 03:47:40,250 --> 03:47:43,650
-Sen. Francis “Chiz” Escudero: clarified, is counsel referring to a September? September
+Sen. Francis "Chiz" G. Escudero: clarified, is counsel referring to a September? September
 
 1360
 03:47:43,650 --> 03:47:54,030
@@ -5516,7 +5516,7 @@ Atty. Lorna Patajo-Kapunan: Honor, please, if I may interject at this moment. Wh
 
 1380
 03:52:53,030 --> 03:52:55,970
-Sen. Francis “Chiz” Escudero: is the interjection of Atty. Kapunan? Your
+Sen. Francis "Chiz" G. Escudero: is the interjection of Atty. Kapunan? Your
 
 1381
 03:52:55,970 --> 03:53:51,400
@@ -5524,7 +5524,7 @@ Atty. Lorna Patajo-Kapunan: Honor, please, counsel is reading from transcripts. 
 
 1382
 03:53:51,840 --> 03:55:01,820
-Sen. Francis “Chiz” Escudero: I'd like to thank Atty. Kapunan. You did not make an objection, but I would have sustained it. Atty. Christine, counsel, correspondent, this was one of the warnings of the presiding officer. At that time, directed at the prosecution actually, when they asked for the court to take judicial notice of it. Not to use the transcripts to read into the record certain things that is not being testified to by a witness that has personal knowledge over it. If you recall our interjections in relation to the Las Cañas affidavit, this is similar to that. So unless you are referring to the witness herself who testified there, kindly present the witness that you are reading the statements of because this is only as to tenor as to the fact that Camora said this. You can confront the witness through another way without reading certain statements made because the opposing counsel might just do this to you at some point which I will also not allow. To be fair.
+Sen. Francis "Chiz" G. Escudero: I'd like to thank Atty. Kapunan. You did not make an objection, but I would have sustained it. Atty. Christine, counsel, correspondent, this was one of the warnings of the presiding officer. At that time, directed at the prosecution actually, when they asked for the court to take judicial notice of it. Not to use the transcripts to read into the record certain things that is not being testified to by a witness that has personal knowledge over it. If you recall our interjections in relation to the Las Cañas affidavit, this is similar to that. So unless you are referring to the witness herself who testified there, kindly present the witness that you are reading the statements of because this is only as to tenor as to the fact that Camora said this. You can confront the witness through another way without reading certain statements made because the opposing counsel might just do this to you at some point which I will also not allow. To be fair.
 
 1383
 03:55:01,940 --> 03:55:11,640
@@ -5532,7 +5532,7 @@ Atty. Kristine R. Ferrer: Yes, I understand, Your Honor. Thank you, Your Honor. 
 
 1384
 03:55:11,640 --> 03:55:14,020
-Sen. Francis “Chiz” Escudero: made. It's a way and technique, counsel. Anyway,
+Sen. Francis "Chiz" G. Escudero: made. It's a way and technique, counsel. Anyway,
 
 1385
 03:55:14,400 --> 03:55:14,960
@@ -5540,11 +5540,11 @@ Atty. Kristine R. Ferrer: Your Honor.
 
 1386
 03:55:15,020 --> 03:55:18,360
-Sen. Francis “Chiz” Escudero: Atty. Gabunan might just do that with the transcripts at
+Sen. Francis "Chiz" G. Escudero: Atty. Gabunan might just do that with the transcripts at
 
 1387
 03:55:18,360 --> 03:55:20,560
-Sen. Francis “Chiz” Escudero: some point, which I also will not allow. We
+Sen. Francis "Chiz" G. Escudero: some point, which I also will not allow. We
 
 1388
 03:55:20,560 --> 03:55:22,860
@@ -5552,11 +5552,11 @@ Atty. Kristine R. Ferrer: will just ask the question at the right time, Your Hon
 
 1389
 03:55:22,980 --> 03:55:25,580
-Sen. Francis “Chiz” Escudero: Kindly do so at the right time and with the right witness, counsel. At the right time, Your
+Sen. Francis "Chiz" G. Escudero: Kindly do so at the right time and with the right witness, counsel. At the right time, Your
 
 1390
 03:55:25,580 --> 03:55:26,000
-Sen. Francis “Chiz” Escudero: Honor, please.
+Sen. Francis "Chiz" G. Escudero: Honor, please.
 
 1391
 03:55:26,120 --> 03:55:28,060
@@ -5564,19 +5564,19 @@ Atty. Lorna Patajo-Kapunan: At the right time and to the right witness.
 
 1392
 03:55:28,340 --> 03:55:29,000
-Sen. Francis “Chiz” Escudero: Yes. It's not
+Sen. Francis "Chiz" G. Escudero: Yes. It's not
 
 1393
 03:55:29,000 --> 03:55:30,080
-Sen. Francis “Chiz” Escudero: the right witness, Your
+Sen. Francis "Chiz" G. Escudero: the right witness, Your
 
 1394
 03:55:30,080 --> 03:55:33,000
-Sen. Francis “Chiz” Escudero: Honor. Just as the presiding officer stated. Move on, Atty.
+Sen. Francis "Chiz" G. Escudero: Honor. Just as the presiding officer stated. Move on, Atty.
 
 1395
 03:55:33,080 --> 03:55:34,690
-Sen. Francis “Chiz” Escudero: Christine. Okay.
+Sen. Francis "Chiz" G. Escudero: Christine. Okay.
 
 1396
 03:55:37,370 --> 03:55:40,830
@@ -5632,11 +5632,11 @@ Atty. Lorna Patajo-Kapunan: Your Honor, please, what does counsel mean by gaano 
 
 1409
 03:57:21,340 --> 03:57:26,160
-Sen. Francis “Chiz” Escudero: Let me do it, counsel. Is the fact that the
+Sen. Francis "Chiz" G. Escudero: Let me do it, counsel. Is the fact that the
 
 1410
 03:57:27,850 --> 03:57:36,090
-Sen. Francis “Chiz” Escudero: respondent, spent the last quarter confidential funds in 11 days found in any of your AOMs or notices of disallowance?
+Sen. Francis "Chiz" G. Escudero: respondent, spent the last quarter confidential funds in 11 days found in any of your AOMs or notices of disallowance?
 
 1411
 03:57:36,430 --> 03:57:43,430
@@ -5644,7 +5644,7 @@ Cylene May L. Del Campo: Nabanggit lang po siya dun sa AOM na binanggit po dun n
 
 1412
 03:57:43,430 --> 03:57:46,950
-Sen. Francis “Chiz” Escudero: walang finding in relation to it violating the memorandum circular?
+Sen. Francis "Chiz" G. Escudero: walang finding in relation to it violating the memorandum circular?
 
 1413
 03:57:47,350 --> 03:57:51,190
@@ -5652,7 +5652,7 @@ Cylene May L. Del Campo: Wala po. Nakalagay lang po na statement na it was used 
 
 1414
 03:57:51,230 --> 03:57:52,270
-Sen. Francis “Chiz” Escudero: As a statement of fact?
+Sen. Francis "Chiz" G. Escudero: As a statement of fact?
 
 1415
 03:57:52,550 --> 03:57:52,850
@@ -5660,7 +5660,7 @@ Cylene May L. Del Campo: Opo.
 
 1416
 03:57:53,010 --> 03:57:55,380
-Sen. Francis “Chiz” Escudero: Okay. Move on, counsel. Okay.
+Sen. Francis "Chiz" G. Escudero: Okay. Move on, counsel. Okay.
 
 1417
 03:57:59,200 --> 03:58:09,080
@@ -5680,7 +5680,7 @@ Atty. Kristine R. Ferrer: Number 2024-162 dated August 8, 2024. Tama?
 
 1421
 03:58:36,970 --> 03:58:38,130
-Atty. Kristine Ferrer Del Campo: Opo. Okay.
+Cylene May L. Del Campo: Opo. Okay.
 
 1422
 03:58:38,150 --> 03:58:41,090
@@ -5804,11 +5804,11 @@ Atty. Lorna Patajo-Kapunan: you see what he said on TV? Your Honor, please, you 
 
 1452
 04:02:30,960 --> 04:02:43,680
-Sen. Francis “Chiz” Escudero: the presiding officer will allow it because it's part of CROSS to try to test the credibility of the witness in relation to statements made by a co-worker, or at least former, a co-worker still, who...
+Sen. Francis "Chiz" G. Escudero: the presiding officer will allow it because it's part of CROSS to try to test the credibility of the witness in relation to statements made by a co-worker, or at least former, a co-worker still, who...
 
 1453
 04:02:45,670 --> 04:02:56,990
-Sen. Francis “Chiz” Escudero: turned over documents to her pertaining to the OVP and the DepEd. Kindly proceed with your question because I'm sure the witness will ask you to repeat your question again anyway. Yes,
+Sen. Francis "Chiz" G. Escudero: turned over documents to her pertaining to the OVP and the DepEd. Kindly proceed with your question because I'm sure the witness will ask you to repeat your question again anyway. Yes,
 
 1454
 04:02:57,090 --> 04:03:03,390
@@ -5844,7 +5844,7 @@ Atty. Lorna Patajo-Kapunan: answer, sorry. She's answering, Your Honor.
 
 1462
 04:04:36,020 --> 04:04:37,960
-Sen. Francis “Chiz” Escudero: I think witness, let the witness answer, counsel.
+Sen. Francis "Chiz" G. Escudero: I think witness, let the witness answer, counsel.
 
 1463
 04:04:38,240 --> 04:04:51,060
@@ -5860,7 +5860,7 @@ Cylene May L. Del Campo: doon? Hindi po siya nakalagay na word pero yun po yung 
 
 1466
 04:05:24,330 --> 04:05:28,230
-Sen. Francis “Chiz” Escudero: Kindly, Sir, notice of disallowance or I am? No, I'm
+Sen. Francis "Chiz" G. Escudero: Kindly, Sir, notice of disallowance or I am? No, I'm
 
 1467
 04:05:28,230 --> 04:05:30,970
@@ -5868,7 +5868,7 @@ Atty. Kristine R. Ferrer: referring to the NDs, Ms. Witness. The
 
 1468
 04:05:30,970 --> 04:05:32,010
-Sen. Francis “Chiz” Escudero: notice of disallowance?
+Sen. Francis "Chiz" G. Escudero: notice of disallowance?
 
 1469
 04:05:32,010 --> 04:05:52,990
@@ -5988,7 +5988,7 @@ Atty. Lorna Patajo-Kapunan: please, the question is misleading. Counsel is misle
 
 1498
 04:09:20,590 --> 04:09:22,450
-Sen. Francis “Chiz” Escudero: may answer, Counsel. We're not
+Sen. Francis "Chiz" G. Escudero: may answer, Counsel. We're not
 
 1499
 04:09:22,450 --> 04:09:23,270
@@ -5996,7 +5996,7 @@ Atty. Kristine R. Ferrer: dealing
 
 1500
 04:09:23,270 --> 04:09:33,530
-Sen. Francis “Chiz” Escudero: with strictly legal matters here. I doubt if she understands the difference between articles, rather rule 45 and 65 of the rules of court. Because the
+Sen. Francis "Chiz" G. Escudero: with strictly legal matters here. I doubt if she understands the difference between articles, rather rule 45 and 65 of the rules of court. Because the
 
 1501
 04:09:33,530 --> 04:09:34,550
@@ -6004,7 +6004,7 @@ Atty. Kristine R. Ferrer: witness is a layman.
 
 1502
 04:09:34,610 --> 04:09:38,030
-Sen. Francis “Chiz” Escudero: If she knows, whatever you know, Sylene, in relation to the question.
+Sen. Francis "Chiz" G. Escudero: If she knows, whatever you know, Sylene, in relation to the question.
 
 1503
 04:09:39,410 --> 04:09:48,410
@@ -6016,11 +6016,11 @@ Atty. Kristine R. Ferrer: Ang tanong ko doon is, ang maaring maging output, o ri
 
 1505
 04:10:04,650 --> 04:10:05,050
-Sen. Francis “Chiz” Escudero: Witness would
+Sen. Francis "Chiz" G. Escudero: Witness would
 
 1506
 04:10:05,050 --> 04:10:06,690
-Sen. Francis “Chiz” Escudero: not know, Counsel. Witness would not
+Sen. Francis "Chiz" G. Escudero: not know, Counsel. Witness would not
 
 1507
 04:10:06,690 --> 04:10:07,850
@@ -6028,7 +6028,7 @@ Atty. Kristine R. Ferrer: know, incompetent.
 
 1508
 04:10:07,970 --> 04:10:09,190
-Sen. Francis “Chiz” Escudero: Move on, Counsel. Okay,
+Sen. Francis "Chiz" G. Escudero: Move on, Counsel. Okay,
 
 1509
 04:10:09,230 --> 04:10:20,550
@@ -6068,7 +6068,7 @@ Atty. Kristine R. Ferrer: will... I will modify my question.
 
 1518
 04:11:07,070 --> 04:11:08,030
-Sen. Francis “Chiz” Escudero: Rephrase, counsel. Okay.
+Sen. Francis "Chiz" G. Escudero: Rephrase, counsel. Okay.
 
 1519
 04:11:08,150 --> 04:11:13,090
@@ -6172,7 +6172,7 @@ Atty. Lorna Patajo-Kapunan: argumentative already. This witness was asked, what 
 
 1544
 04:15:48,050 --> 04:15:48,350
-Sen. Francis “Chiz” Escudero: witness,
+Sen. Francis "Chiz" G. Escudero: witness,
 
 1545
 04:15:48,490 --> 04:15:48,710
@@ -6180,7 +6180,7 @@ Atty. Kristine R. Ferrer: Your Honor.
 
 1546
 04:15:49,030 --> 04:15:50,950
-Sen. Francis “Chiz” Escudero: Modifier question, counsel. Okay.
+Sen. Francis "Chiz" G. Escudero: Modifier question, counsel. Okay.
 
 1547
 04:15:51,450 --> 04:16:09,720
@@ -6208,15 +6208,15 @@ Atty. Kristine R. Ferrer: Okay, so, do you know that that case involves a former
 
 1553
 04:16:52,490 --> 04:16:53,590
-Sen. Francis “Chiz” Escudero: does not know
+Sen. Francis "Chiz" G. Escudero: does not know
 
 1554
 04:16:53,590 --> 04:16:54,070
-Sen. Francis “Chiz” Escudero: this case. She did not
+Sen. Francis "Chiz" G. Escudero: this case. She did not
 
 1555
 04:16:54,070 --> 04:16:54,570
-Sen. Francis “Chiz” Escudero: read it, counsel.
+Sen. Francis "Chiz" G. Escudero: read it, counsel.
 
 1556
 04:16:55,030 --> 04:17:03,750
@@ -6228,7 +6228,7 @@ Atty. Lorna Patajo-Kapunan: and answered, Your Honor. Okay, hindi. Ask
 
 1558
 04:17:05,550 --> 04:17:05,910
-Sen. Francis “Chiz” Escudero: and answered.
+Sen. Francis "Chiz" G. Escudero: and answered.
 
 1559
 04:17:06,070 --> 04:17:08,030
@@ -6256,7 +6256,7 @@ Atty. Kristine R. Ferrer: Your Honor, she's from COA. So, um,
 
 1565
 04:17:45,450 --> 04:17:52,700
-Sen. Francis “Chiz” Escudero: Assistant Counsel, kindly give the paper that fell. Um, if she knows. Um, Cylene, if you know.
+Sen. Francis "Chiz" G. Escudero: Assistant Counsel, kindly give the paper that fell. Um, if she knows. Um, Cylene, if you know.
 
 1566
 04:17:55,480 --> 04:17:57,980
@@ -6288,7 +6288,7 @@ Atty. Lorna Patajo-Kapunan: siya from executive control. Your Honor, please ask 
 
 1573
 04:18:28,020 --> 04:18:30,920
-Sen. Francis “Chiz” Escudero: her some leeway for emphasis, counsel.
+Sen. Francis "Chiz" G. Escudero: her some leeway for emphasis, counsel.
 
 1574
 04:18:31,580 --> 04:18:32,180
@@ -6296,7 +6296,7 @@ Atty. Kristine R. Ferrer: Please
 
 1575
 04:18:32,180 --> 04:18:36,430
-Sen. Francis “Chiz” Escudero: answer the question, Zailina. Independent from the executive.
+Sen. Francis "Chiz" G. Escudero: answer the question, Zailina. Independent from the executive.
 
 1576
 04:18:36,890 --> 04:18:37,970
@@ -6328,7 +6328,7 @@ Atty. Kristine R. Ferrer: answer, Your Honor.
 
 1583
 04:19:01,620 --> 04:19:05,380
-Sen. Francis “Chiz” Escudero: Ask and answer, then I know where she's going at. Yes. Get to it, counsel.
+Sen. Francis "Chiz" G. Escudero: Ask and answer, then I know where she's going at. Yes. Get to it, counsel.
 
 1584
 04:19:05,660 --> 04:19:18,230
@@ -6348,7 +6348,7 @@ Atty. Lorna Patajo-Kapunan: Your Honor, don't, excuse me, don't answer. The ques
 
 1588
 04:19:40,820 --> 04:20:00,530
-Sen. Francis “Chiz” Escudero: Honor, please. I think she's referring to a notice of disallowance of March 31, 2026, where it's stated in the second paragraph that they after evaluation and with due consideration of the evidence given during the CGGPA hearings. I think that's what you're leading to counsel. It's a valid question. Yes,
+Sen. Francis "Chiz" G. Escudero: Honor, please. I think she's referring to a notice of disallowance of March 31, 2026, where it's stated in the second paragraph that they after evaluation and with due consideration of the evidence given during the CGGPA hearings. I think that's what you're leading to counsel. It's a valid question. Yes,
 
 1589
 04:20:00,530 --> 04:20:06,310
@@ -6356,7 +6356,7 @@ Atty. Kristine R. Ferrer: Your Honor. Actually, I was about to quote the finding
 
 1590
 04:20:06,310 --> 04:20:11,330
-Sen. Francis “Chiz” Escudero: question. Because they quoted it themselves in the notice of disallowance.
+Sen. Francis "Chiz" G. Escudero: question. Because they quoted it themselves in the notice of disallowance.
 
 1591
 04:20:11,510 --> 04:20:22,330
@@ -6536,7 +6536,7 @@ Atty. Lorna Patajo-Kapunan: ask and answer, Your Honor. Your Honor, please. Yes,
 
 1635
 04:26:23,150 --> 04:26:23,930
-Sen. Francis “Chiz” Escudero: Atty. Kapunan.
+Sen. Francis "Chiz" G. Escudero: Atty. Kapunan.
 
 1636
 04:26:24,440 --> 04:26:32,890
@@ -6544,7 +6544,7 @@ Atty. Lorna Patajo-Kapunan: The admonition of this honorable presiding officer, 
 
 1637
 04:26:34,030 --> 04:26:35,730
-Sen. Francis “Chiz” Escudero: Not admonition, request.
+Sen. Francis "Chiz" G. Escudero: Not admonition, request.
 
 1638
 04:26:36,780 --> 04:26:49,660
@@ -6568,7 +6568,7 @@ Atty. Lorna Patajo-Kapunan: This is already immaterial and irrelevant. If they w
 
 1643
 04:27:57,080 --> 04:28:13,580
-Sen. Francis “Chiz” Escudero: It's not an objection. Atty. Christine, I think it's more of a manifestation, but the presiding officer would ask you to move forward. I think the senator-judges and the court see your point and where you're going at in relation to this. You can move on to your next point.
+Sen. Francis "Chiz" G. Escudero: It's not an objection. Atty. Christine, I think it's more of a manifestation, but the presiding officer would ask you to move forward. I think the senator-judges and the court see your point and where you're going at in relation to this. You can move on to your next point.
 
 1644
 04:28:13,800 --> 04:28:27,230
@@ -6588,7 +6588,7 @@ Atty. Kristine R. Ferrer: Can I continue, Your Honor, please?
 
 1648
 04:28:30,910 --> 04:28:33,430
-Sen. Francis “Chiz” Escudero: I'll kindly wind up with this point, Attorney Christine.
+Sen. Francis "Chiz" G. Escudero: I'll kindly wind up with this point, Attorney Christine.
 
 1649
 04:28:33,750 --> 04:28:43,120
@@ -6608,7 +6608,7 @@ Atty. Kristine R. Ferrer: me.
 
 1653
 04:28:56,560 --> 04:28:59,680
-Sen. Francis “Chiz” Escudero: Asked and answered, counsel, only COA-ICFAO can do it.
+Sen. Francis "Chiz" G. Escudero: Asked and answered, counsel, only COA-ICFAO can do it.
 
 1654
 04:29:00,180 --> 04:29:03,960
@@ -6616,7 +6616,7 @@ Atty. Lorna Patajo-Kapunan: This is another point, Your Honor. The presiding off
 
 1655
 04:29:03,980 --> 04:29:31,870
-Sen. Francis “Chiz” Escudero: Counsel, please. Councils, please. I would consider it asked and answered. Only COA-ICFAO can and it's quite obvious. We can even take judicial notice of that as part of the law that the House does not have any power nor jurisdiction nor the Senate for that matter to review the findings of an independent Constitutional Commission which under the law she answered to can only be appealed by via petition for certiorari under 45 citing Rule 65 to the Supreme Court. Move on, counsel.
+Sen. Francis "Chiz" G. Escudero: Counsel, please. Councils, please. I would consider it asked and answered. Only COA-ICFAO can and it's quite obvious. We can even take judicial notice of that as part of the law that the House does not have any power nor jurisdiction nor the Senate for that matter to review the findings of an independent Constitutional Commission which under the law she answered to can only be appealed by via petition for certiorari under 45 citing Rule 65 to the Supreme Court. Move on, counsel.
 
 1656
 04:29:32,050 --> 04:29:34,030
@@ -6632,11 +6632,11 @@ Atty. Kristine R. Ferrer: I was about to elaborate but... Okay, I will take that
 
 1659
 04:29:38,640 --> 04:29:40,880
-Sen. Francis “Chiz” Escudero: The court takes judicial notice and knowledge of that, counsel.
+Sen. Francis "Chiz" G. Escudero: The court takes judicial notice and knowledge of that, counsel.
 
 1660
 04:30:07,820 --> 04:30:35,520
-Sen. Francis “Chiz” Escudero: For the Senate president, we shall convene session at 4 p.m. We will try to finish with this witness the cross, redirect, recross if any, and interventions of senator-judges so that we can let Celine rest already and be done with her testimony within today, hopefully. Hopefully. So for the information of the senator-judges, session will be Called at 4 p.m.
+Sen. Francis "Chiz" G. Escudero: For the Senate president, we shall convene session at 4 p.m. We will try to finish with this witness the cross, redirect, recross if any, and interventions of senator-judges so that we can let Celine rest already and be done with her testimony within today, hopefully. Hopefully. So for the information of the senator-judges, session will be Called at 4 p.m.
 
 1661
 04:30:36,170 --> 04:30:37,010
@@ -6644,7 +6644,7 @@ Atty. Kristine R. Ferrer: Thank you, Your Honor.
 
 1662
 04:30:39,220 --> 04:30:39,960
-Sen. Francis “Chiz” Escudero: Attorney Christine?
+Sen. Francis "Chiz" G. Escudero: Attorney Christine?
 
 1663
 04:30:40,600 --> 04:30:43,680
@@ -6652,11 +6652,11 @@ Atty. Kristine R. Ferrer: Your Honor, I'm done with the cross-examination.
 
 1664
 04:30:44,060 --> 04:30:45,120
-Sen. Francis “Chiz” Escudero: Thank you, Attorney Christine.
+Sen. Francis "Chiz" G. Escudero: Thank you, Attorney Christine.
 
 1665
 04:30:46,700 --> 04:30:47,520
-Sen. Francis “Chiz” Escudero: Attorney Lorna?
+Sen. Francis "Chiz" G. Escudero: Attorney Lorna?
 
 1666
 04:30:48,180 --> 04:30:50,240
@@ -6664,11 +6664,11 @@ Atty. Lorna Patajo-Kapunan: With the permission of this honorable court.
 
 1667
 04:30:51,520 --> 04:30:54,060
-Sen. Francis “Chiz” Escudero: You may proceed when you're ready with your redirect counsel.
+Sen. Francis "Chiz" G. Escudero: You may proceed when you're ready with your redirect counsel.
 
 1668
 04:30:56,830 --> 04:31:06,400
-Sen. Francis “Chiz” Escudero: That we're ending at 4 o'clock does not give you permission to consume the time until 4 o'clock, Attorney Lorna. We still have time for the senator-judges. Please proceed.
+Sen. Francis "Chiz" G. Escudero: That we're ending at 4 o'clock does not give you permission to consume the time until 4 o'clock, Attorney Lorna. We still have time for the senator-judges. Please proceed.
 
 1669
 04:31:10,240 --> 04:31:16,900
@@ -6792,7 +6792,7 @@ Atty. Kristine R. Ferrer: Your Honor, please.
 
 1699
 04:34:42,800 --> 04:34:47,420
-Sen. Francis “Chiz” Escudero: Will allow it. Will allow it. I think that was already answered to by the witness earlier as well.
+Sen. Francis "Chiz" G. Escudero: Will allow it. Will allow it. I think that was already answered to by the witness earlier as well.
 
 1700
 04:34:48,320 --> 04:34:54,460
@@ -6844,11 +6844,11 @@ Atty. Lorna Patajo-Kapunan: documents na sinasubmit ng Office of the Vice Presid
 
 1712
 04:36:14,140 --> 04:36:16,480
-Sen. Francis “Chiz” Escudero: Yes, counsel, respondent, what is your objection? Mr. Speaker, Your
+Sen. Francis "Chiz" G. Escudero: Yes, counsel, respondent, what is your objection? Mr. Speaker, Your
 
 1713
 04:36:16,480 --> 04:36:16,640
-Sen. Francis “Chiz” Escudero: Honor,
+Sen. Francis "Chiz" G. Escudero: Honor,
 
 1714
 04:36:16,780 --> 04:36:18,760
@@ -6856,11 +6856,11 @@ Atty. Kristine R. Ferrer: may nangyari bang misteryo dyan?
 
 1715
 04:36:19,970 --> 04:36:20,930
-Sen. Francis “Chiz” Escudero: Kindly reform, counsel.
+Sen. Francis "Chiz" G. Escudero: Kindly reform, counsel.
 
 1716
 04:36:25,030 --> 04:36:29,690
-Sen. Francis “Chiz” Escudero: I think we all know where you're headed towards, counsel. Kindly reform. You can get it from the witness.
+Sen. Francis "Chiz" G. Escudero: I think we all know where you're headed towards, counsel. Kindly reform. You can get it from the witness.
 
 1717
 04:36:29,990 --> 04:37:01,260
@@ -6876,7 +6876,7 @@ Atty. Lorna Patajo-Kapunan: ang tinanong, ang iniimply, sa question ng defense c
 
 1720
 04:37:27,920 --> 04:37:28,900
-Sen. Francis “Chiz” Escudero: on and finish, counsel.
+Sen. Francis "Chiz" G. Escudero: on and finish, counsel.
 
 1721
 04:37:30,000 --> 04:37:40,840
@@ -6884,7 +6884,7 @@ Atty. Lorna Patajo-Kapunan: This was brought up on cross, Your Honor, implying, 
 
 1722
 04:37:41,140 --> 04:37:42,640
-Sen. Francis “Chiz” Escudero: Proceed to your question, Attorney Capon.
+Sen. Francis "Chiz" G. Escudero: Proceed to your question, Attorney Capon.
 
 1723
 04:37:45,100 --> 04:37:57,740
@@ -6920,7 +6920,7 @@ Atty. Lorna Patajo-Kapunan: -inspect daw ang routes prior to departure and arriv
 
 1731
 04:39:58,790 --> 04:39:59,730
-Sen. Francis “Chiz” Escudero: Let her finish. Is that
+Sen. Francis "Chiz" G. Escudero: Let her finish. Is that
 
 1732
 04:39:59,730 --> 04:40:05,970
@@ -6932,7 +6932,7 @@ Atty. Kristine R. Ferrer: please.
 
 1734
 04:40:06,550 --> 04:40:07,950
-Sen. Francis “Chiz” Escudero: Yes, counsel,
+Sen. Francis "Chiz" G. Escudero: Yes, counsel,
 
 1735
 04:40:08,090 --> 04:40:08,390
@@ -6956,15 +6956,15 @@ Atty. Kristine R. Ferrer: This is three direct.
 
 1740
 04:40:17,590 --> 04:40:18,150
-Sen. Francis “Chiz” Escudero: You opened
+Sen. Francis "Chiz" G. Escudero: You opened
 
 1741
 04:40:18,150 --> 04:40:19,230
-Sen. Francis “Chiz” Escudero: the door, counsel. She can refer
+Sen. Francis "Chiz" G. Escudero: the door, counsel. She can refer
 
 1742
 04:40:19,230 --> 04:40:23,150
-Sen. Francis “Chiz” Escudero: to the record, Your Honor. Counsel, you opened the door. You said,
+Sen. Francis "Chiz" G. Escudero: to the record, Your Honor. Counsel, you opened the door. You said,
 
 1743
 04:40:23,350 --> 04:40:29,290
@@ -6972,15 +6972,15 @@ Atty. Lorna Patajo-Kapunan: in fact, you asked her, is this part of the, Your Ho
 
 1744
 04:40:29,290 --> 04:40:29,410
-Sen. Francis “Chiz” Escudero: Counsel, correspondent,
+Sen. Francis "Chiz" G. Escudero: Counsel, correspondent,
 
 1745
 04:40:29,550 --> 04:40:36,380
-Sen. Francis “Chiz” Escudero: please. You read parts of the PIOR.
+Sen. Francis "Chiz" G. Escudero: please. You read parts of the PIOR.
 
 1746
 04:40:39,900 --> 04:40:40,420
-Sen. Francis “Chiz” Escudero: But
+Sen. Francis "Chiz" G. Escudero: But
 
 1747
 04:40:40,420 --> 04:40:43,260
@@ -6988,15 +6988,15 @@ Atty. Kristine R. Ferrer: Your Honor, please, she can just refer to the records.
 
 1748
 04:40:43,680 --> 04:40:52,260
-Sen. Francis “Chiz” Escudero: Which includes NPA, terrorist groups, and in fact mentions the word criminalities, which I'm not so sure about. But criminalities, correct? She
+Sen. Francis "Chiz" G. Escudero: Which includes NPA, terrorist groups, and in fact mentions the word criminalities, which I'm not so sure about. But criminalities, correct? She
 
 1749
 04:40:52,260 --> 04:40:54,300
-Sen. Francis “Chiz” Escudero: said that. So
+Sen. Francis "Chiz" G. Escudero: said that. So
 
 1750
 04:40:54,300 --> 04:41:03,260
-Sen. Francis “Chiz” Escudero: the question is, you mentioned earlier that these are part of confidential functions, not regular functions of the OVP. Correct?
+Sen. Francis "Chiz" G. Escudero: the question is, you mentioned earlier that these are part of confidential functions, not regular functions of the OVP. Correct?
 
 1751
 04:41:03,560 --> 04:41:09,160
@@ -7004,7 +7004,7 @@ Atty. Lorna Patajo-Kapunan: That was the question of counsel for respondent.
 
 1752
 04:41:09,180 --> 04:41:12,060
-Sen. Francis “Chiz” Escudero: Exactly. She responded to that answer. Now, what is your question? My
+Sen. Francis "Chiz" G. Escudero: Exactly. She responded to that answer. Now, what is your question? My
 
 1753
 04:41:12,060 --> 04:41:23,060
@@ -7032,11 +7032,11 @@ Atty. Kristine R. Ferrer: Honor, please.
 
 1759
 04:41:52,110 --> 04:41:52,630
-Sen. Francis “Chiz” Escudero: Already
+Sen. Francis "Chiz" G. Escudero: Already
 
 1760
 04:41:52,630 --> 04:41:53,410
-Sen. Francis “Chiz” Escudero: answered, counsel.
+Sen. Francis "Chiz" G. Escudero: answered, counsel.
 
 1761
 04:41:53,790 --> 04:42:01,910
@@ -7112,7 +7112,7 @@ Atty. Lorna Patajo-Kapunan: check. Securities. To check. Surveillance. Surveilla
 
 1779
 04:44:53,560 --> 04:44:54,760
-Sen. Francis “Chiz” Escudero: Counsel, respondent, yes.
+Sen. Francis "Chiz" G. Escudero: Counsel, respondent, yes.
 
 1780
 04:44:54,920 --> 04:44:57,680
@@ -7120,7 +7120,7 @@ Atty. Lorna Patajo-Kapunan: Your Honor, please. I haven't finished yet.
 
 1781
 04:44:57,680 --> 04:44:57,900
-Sen. Francis “Chiz” Escudero: Okay.
+Sen. Francis "Chiz" G. Escudero: Okay.
 
 1782
 04:44:59,000 --> 04:45:31,790
@@ -7132,7 +7132,7 @@ Atty. Kristine R. Ferrer: Your Honor, please.
 
 1784
 04:45:34,020 --> 04:45:35,260
-Sen. Francis “Chiz” Escudero: Yes, counsel. The
+Sen. Francis "Chiz" G. Escudero: Yes, counsel. The
 
 1785
 04:45:35,260 --> 04:45:43,280
@@ -7140,7 +7140,7 @@ Atty. Kristine R. Ferrer: report does not say that it was done by the security g
 
 1786
 04:45:44,340 --> 04:46:07,710
-Sen. Francis “Chiz” Escudero: Let's clarify one thing first. The Vice President has no security guards. She has a VPSG, Vice Presidential Security Group, which was, I think, later on placed under the Presidential Security Command, under the unified command of the Presidential Security Command. Yes, Your Honor,
+Sen. Francis "Chiz" G. Escudero: Let's clarify one thing first. The Vice President has no security guards. She has a VPSG, Vice Presidential Security Group, which was, I think, later on placed under the Presidential Security Command, under the unified command of the Presidential Security Command. Yes, Your Honor,
 
 1787
 04:46:07,710 --> 04:46:08,310
@@ -7148,7 +7148,7 @@ Atty. Lorna Patajo-Kapunan: I will reform.
 
 1788
 04:46:08,630 --> 04:46:09,930
-Sen. Francis “Chiz” Escudero: If it
+Sen. Francis "Chiz" G. Escudero: If it
 
 1789
 04:46:09,930 --> 04:46:47,600
@@ -7156,7 +7156,7 @@ Atty. Lorna Patajo-Kapunan: is the VPSG. that does this activity of coat, ocular
 
 1790
 04:46:48,240 --> 04:46:49,700
-Sen. Francis “Chiz” Escudero: Yes, counsel, respondent.
+Sen. Francis "Chiz" G. Escudero: Yes, counsel, respondent.
 
 1791
 04:46:49,860 --> 04:46:59,420
@@ -7164,7 +7164,7 @@ Atty. Kristine R. Ferrer: The witness is incompetent to answer that because that
 
 1792
 04:46:59,420 --> 04:47:02,460
-Sen. Francis “Chiz” Escudero: she knows, counsel, if she knows. Celine, if you know.
+Sen. Francis "Chiz" G. Escudero: she knows, counsel, if she knows. Celine, if you know.
 
 1793
 04:47:16,500 --> 04:47:44,940
@@ -7176,7 +7176,7 @@ Atty. Kristine R. Ferrer: Honor, please. Yes, Counsel. Ms. Liding, Your Honor, s
 
 1795
 04:47:53,880 --> 04:48:19,080
-Sen. Francis “Chiz” Escudero: Anyway, Counsel, the Senate passes the budget of all the offices of government and we are well aware that the office of the Vice President has... Other funds. We need not belabor the point on objections from either side. We are aware of the existence of other funds of the Office of the Vice President as well as the DepEd. In fact, the DepEd is the highest budgetary allocation in any GAAP.
+Sen. Francis "Chiz" G. Escudero: Anyway, Counsel, the Senate passes the budget of all the offices of government and we are well aware that the office of the Vice President has... Other funds. We need not belabor the point on objections from either side. We are aware of the existence of other funds of the Office of the Vice President as well as the DepEd. In fact, the DepEd is the highest budgetary allocation in any GAAP.
 
 1796
 04:48:19,380 --> 04:48:20,600
@@ -7184,7 +7184,7 @@ Atty. Kristine R. Ferrer: Your Honor, please, if I may.
 
 1797
 04:48:20,600 --> 04:48:21,080
-Sen. Francis “Chiz” Escudero: Continue, counsel.
+Sen. Francis "Chiz" G. Escudero: Continue, counsel.
 
 1798
 04:48:21,380 --> 04:48:35,420
@@ -7216,7 +7216,7 @@ Atty. Lorna Patajo-Kapunan: can answer, Your Honor? Yes, yes, move forward, coun
 
 1805
 04:49:26,420 --> 04:49:39,440
-Sen. Francis “Chiz” Escudero: For the personal engagements of the Vice President, is this a proper matter? Is this proper liquidation of the confidential funds of the Vice President?
+Sen. Francis "Chiz" G. Escudero: For the personal engagements of the Vice President, is this a proper matter? Is this proper liquidation of the confidential funds of the Vice President?
 
 1806
 04:49:39,920 --> 04:49:41,400
@@ -7228,7 +7228,7 @@ Cylene May L. Del Campo: yung confidential funds should only be used dun sa allo
 
 1808
 04:49:51,130 --> 04:49:54,650
-Sen. Francis “Chiz” Escudero: You did not answer the question, Sailene. Yes or no?
+Sen. Francis "Chiz" G. Escudero: You did not answer the question, Sailene. Yes or no?
 
 1809
 04:49:56,430 --> 04:49:58,950
@@ -7276,7 +7276,7 @@ Cylene May L. Del Campo: Kung base po dun sa nakalagay sa mandato nila, hindi po
 
 1820
 04:51:42,340 --> 04:51:45,620
-Sen. Francis “Chiz” Escudero: Punta rin naman tayo sa DepEd.
+Sen. Francis "Chiz" G. Escudero: Punta rin naman tayo sa DepEd.
 
 1821
 04:51:48,170 --> 04:52:08,550
@@ -7304,7 +7304,7 @@ Cylene May L. Del Campo: Noong fourth quarter po ng 2022, 125 million. And yung 
 
 1827
 04:53:11,610 --> 04:53:38,980
-Sen. Francis “Chiz” Escudero: Let us now go to, so tama ka wala sa mandato both ng Office of the Vice President at ng DepEd ang confidential activities. Now let's go to yung sinabi ng counsel for the respondent na quoted from the fires, itong report na sinabmit. Meron siyang sinabing activity.
+Sen. Francis "Chiz" G. Escudero: Let us now go to, so tama ka wala sa mandato both ng Office of the Vice President at ng DepEd ang confidential activities. Now let's go to yung sinabi ng counsel for the respondent na quoted from the fires, itong report na sinabmit. Meron siyang sinabing activity.
 
 1828
 04:53:43,460 --> 04:53:44,400
@@ -7336,7 +7336,7 @@ Cylene May L. Del Campo: Kung under the joint circular po, yung allowable lang p
 
 1835
 04:56:35,090 --> 04:56:46,430
-Sen. Francis “Chiz” Escudero: napakabait naman ng Presidente. Yung giving of Vice President, giving of medicines, giving of groceries, giving of ayuda.
+Sen. Francis "Chiz" G. Escudero: napakabait naman ng Presidente. Yung giving of Vice President, giving of medicines, giving of groceries, giving of ayuda.
 
 1836
 04:56:49,560 --> 04:56:57,280
@@ -7348,11 +7348,11 @@ Atty. Lorna Patajo-Kapunan: please.
 
 1838
 04:56:57,980 --> 04:56:59,900
-Sen. Francis “Chiz” Escudero: I'm asking preliminary, Your Honor.
+Sen. Francis "Chiz" G. Escudero: I'm asking preliminary, Your Honor.
 
 1839
 04:57:01,790 --> 04:57:04,070
-Sen. Francis “Chiz” Escudero: Let's hear the counsel for respondent. Yes.
+Sen. Francis "Chiz" G. Escudero: Let's hear the counsel for respondent. Yes.
 
 1840
 04:57:04,670 --> 04:57:12,640
@@ -7360,7 +7360,7 @@ Atty. Lorna Patajo-Kapunan: Your Honor, that's misleading question. And asking f
 
 1841
 04:57:13,320 --> 04:57:17,380
-Sen. Francis “Chiz” Escudero: Sustained. Modify counsel. Your Honor, please. I
+Sen. Francis "Chiz" G. Escudero: Sustained. Modify counsel. Your Honor, please. I
 
 1842
 04:57:17,380 --> 04:57:30,700
@@ -7372,7 +7372,7 @@ Atty. Lorna Patajo-Kapunan: If properly accounted for, could they be gotten from
 
 1844
 04:58:12,030 --> 04:58:13,330
-Sen. Francis “Chiz” Escudero: Counsel, respondent?
+Sen. Francis "Chiz" G. Escudero: Counsel, respondent?
 
 1845
 04:58:13,390 --> 04:58:18,070
@@ -7380,15 +7380,15 @@ Atty. Lorna Patajo-Kapunan: That calls for an opinion, Your Honor. She should ha
 
 1846
 04:58:18,170 --> 04:58:18,910
-Sen. Francis “Chiz” Escudero: Let's let it continue, Your
+Sen. Francis "Chiz" G. Escudero: Let's let it continue, Your
 
 1847
 04:58:19,190 --> 04:58:21,790
-Sen. Francis “Chiz” Escudero: Honor, if she knows, counsel. Celine, if you
+Sen. Francis "Chiz" G. Escudero: Honor, if she knows, counsel. Celine, if you
 
 1848
 04:58:21,790 --> 04:58:21,950
-Sen. Francis “Chiz” Escudero: know.
+Sen. Francis "Chiz" G. Escudero: know.
 
 1849
 04:58:23,630 --> 04:58:30,450
@@ -7436,7 +7436,7 @@ Atty. Kristine R. Ferrer: Your Honor, please.
 
 1860
 05:01:25,630 --> 05:01:26,390
-Sen. Francis “Chiz” Escudero: Counsel for responding.
+Sen. Francis "Chiz" G. Escudero: Counsel for responding.
 
 1861
 05:01:26,450 --> 05:01:32,070
@@ -7444,19 +7444,19 @@ Atty. Lorna Patajo-Kapunan: The submissions of the President would answer that q
 
 1862
 05:01:33,680 --> 05:01:38,000
-Sen. Francis “Chiz” Escudero: It was all submitted to Silene. Let Silene answer. Silene.
+Sen. Francis "Chiz" G. Escudero: It was all submitted to Silene. Let Silene answer. Silene.
 
 1863
 05:01:40,080 --> 05:01:42,700
-Sen. Francis “Chiz” Escudero: Were there any submissions that it
+Sen. Francis "Chiz" G. Escudero: Were there any submissions that it
 
 1864
 05:01:42,700 --> 05:01:43,180
-Sen. Francis “Chiz” Escudero: was
+Sen. Francis "Chiz" G. Escudero: was
 
 1865
 05:01:43,180 --> 05:01:46,100
-Sen. Francis “Chiz” Escudero: coordinated with their respective law enforcement agencies?
+Sen. Francis "Chiz" G. Escudero: coordinated with their respective law enforcement agencies?
 
 1866
 05:01:46,440 --> 05:02:00,920
@@ -7484,11 +7484,11 @@ Atty. Lorna Patajo-Kapunan: national agencies na to? At more important, ano ang 
 
 1872
 05:03:19,460 --> 05:03:19,780
-Sen. Francis “Chiz” Escudero: That's a
+Sen. Francis "Chiz" G. Escudero: That's a
 
 1873
 05:03:19,780 --> 05:03:38,240
-Sen. Francis “Chiz” Escudero: compounded question, counsel. If I may. Sabi nyo sa DPED, may dokumento nagpapakita may coordination sa AFP. Sa Office of the Vice President, may dokumento ba nagpapakita ng koordinasyon sa law enforcement agencies? Sabi nyo, oo. At kung maalala ko, Seline, local police, di ba?
+Sen. Francis "Chiz" G. Escudero: compounded question, counsel. If I may. Sabi nyo sa DPED, may dokumento nagpapakita may coordination sa AFP. Sa Office of the Vice President, may dokumento ba nagpapakita ng koordinasyon sa law enforcement agencies? Sabi nyo, oo. At kung maalala ko, Seline, local police, di ba?
 
 1874
 05:03:38,560 --> 05:03:41,220
@@ -7496,7 +7496,7 @@ Cylene May L. Del Campo: Opo, nakalagay po dun sa PIORs nila.
 
 1875
 05:03:41,380 --> 05:03:53,110
-Sen. Francis “Chiz” Escudero: Now, it's a compound question because now council is asking you, what is the proof of success of these coordinative efforts with law enforcement agencies? May prueba ba ng tagumpay? nung mga operasyon n'yo.
+Sen. Francis "Chiz" G. Escudero: Now, it's a compound question because now council is asking you, what is the proof of success of these coordinative efforts with law enforcement agencies? May prueba ba ng tagumpay? nung mga operasyon n'yo.
 
 1876
 05:03:53,860 --> 05:04:12,180
@@ -7504,7 +7504,7 @@ Cylene May L. Del Campo: Yun pong sa DepEd po, kinonsider ko po as documents evi
 
 1877
 05:04:12,660 --> 05:04:14,840
-Sen. Francis “Chiz” Escudero: Particular dun sa portion na nagbayad ng reward.
+Sen. Francis "Chiz" G. Escudero: Particular dun sa portion na nagbayad ng reward.
 
 1878
 05:04:15,200 --> 05:04:16,160
@@ -7516,23 +7516,23 @@ Cylene May L. Del Campo: sa impormasyon.
 
 1880
 05:04:17,060 --> 05:04:17,860
-Atty. Kristine Ferrer Del Campo: Opo. Tama.
+Cylene May L. Del Campo: Opo. Tama.
 
 1881
 05:04:20,400 --> 05:04:21,020
-Sen. Francis “Chiz” Escudero: Madam
+Sen. Francis "Chiz" G. Escudero: Madam
 
 1882
 05:04:21,920 --> 05:05:03,510
-Sen. Francis “Chiz” Escudero: Witness, Also, counsel referred you to 6.2.3, which is liquidation of cash advances for confidential funds. At binasa niya isa-isa, nagsubmit ng, ito, liquidation report, nagsubmit naman, certified copy, etc., of disbursement vouchers, evidence of documents, physical financial plan, lahat nang binasa. Dito sa 6.2.3 ay sinabi ng counsel for the respondent ay sinubmit naman. Eh kung compliance, post-audit compliance ang COA-ICPAO.
+Sen. Francis "Chiz" G. Escudero: Witness, Also, counsel referred you to 6.2.3, which is liquidation of cash advances for confidential funds. At binasa niya isa-isa, nagsubmit ng, ito, liquidation report, nagsubmit naman, certified copy, etc., of disbursement vouchers, evidence of documents, physical financial plan, lahat nang binasa. Dito sa 6.2.3 ay sinabi ng counsel for the respondent ay sinubmit naman. Eh kung compliance, post-audit compliance ang COA-ICPAO.
 
 1883
 05:05:03,690 --> 05:05:04,230
-Sen. Francis “Chiz” Escudero: Kung
+Sen. Francis "Chiz" G. Escudero: Kung
 
 1884
 05:05:04,230 --> 05:05:26,450
-Sen. Francis “Chiz” Escudero: sinubmit naman itong mga dokumento, bakit meron pa rin AOM? Bakit may AOM leading to notice of suspension, leading to notice of disallowance if in fact As counsel for respondent suggests, hey, kumpleto naman kami ng submissions.
+Sen. Francis "Chiz" G. Escudero: sinubmit naman itong mga dokumento, bakit meron pa rin AOM? Bakit may AOM leading to notice of suspension, leading to notice of disallowance if in fact As counsel for respondent suggests, hey, kumpleto naman kami ng submissions.
 
 1885
 05:05:27,710 --> 05:06:02,150
@@ -7540,15 +7540,15 @@ Cylene May L. Del Campo: Based on the evaluation of each document po, may mga na
 
 1886
 05:06:03,050 --> 05:06:03,610
-Sen. Francis “Chiz” Escudero: So,
+Sen. Francis "Chiz" G. Escudero: So,
 
 1887
 05:06:03,770 --> 05:06:04,090
-Sen. Francis “Chiz” Escudero: yung
+Sen. Francis "Chiz" G. Escudero: yung
 
 1888
 05:06:04,090 --> 05:06:15,540
-Sen. Francis “Chiz” Escudero: sinasabi na mali kayo, sinabi nyo non-compliant, eh, kumpleto naman ang checklist. Hindi tama yun ang sinasabi mo, Madam Witness.
+Sen. Francis "Chiz" G. Escudero: sinasabi na mali kayo, sinabi nyo non-compliant, eh, kumpleto naman ang checklist. Hindi tama yun ang sinasabi mo, Madam Witness.
 
 1889
 05:06:15,960 --> 05:06:24,340
@@ -7556,7 +7556,7 @@ Cylene May L. Del Campo: Meron pong nasabik na dokumento pero after the evaluati
 
 1890
 05:06:24,860 --> 05:07:23,840
-Sen. Francis “Chiz” Escudero: Let's go now to the last 6.2.3 na again, hindi na namang kinote ng 6.2.3.7 refers to other supporting documents the ICVAW deems necessary for the proper evaluation of liquidation documents submitted. What does this mean, other liquidation documents? Ang iniimply ng Office of the Vice President at DepEd Councils na Kasi sinabi n'yo, limited to the documents. Are you constrained? Kayo ba ay bawal tumingin o humingi pa ng iba pang dokumento para patunayan ang tinatawag na supporting documents na inaakalan n'yo yung kailangan or necessary para sa proper evaluation ng liquidation documents submitted.
+Sen. Francis "Chiz" G. Escudero: Let's go now to the last 6.2.3 na again, hindi na namang kinote ng 6.2.3.7 refers to other supporting documents the ICVAW deems necessary for the proper evaluation of liquidation documents submitted. What does this mean, other liquidation documents? Ang iniimply ng Office of the Vice President at DepEd Councils na Kasi sinabi n'yo, limited to the documents. Are you constrained? Kayo ba ay bawal tumingin o humingi pa ng iba pang dokumento para patunayan ang tinatawag na supporting documents na inaakalan n'yo yung kailangan or necessary para sa proper evaluation ng liquidation documents submitted.
 
 1891
 05:07:25,120 --> 05:07:32,620
@@ -7564,11 +7564,11 @@ Cylene May L. Del Campo: Pwede po kami humingi ng additional documents na makaka
 
 1892
 05:07:32,620 --> 05:07:34,220
-Sen. Francis “Chiz” Escudero: Kagaya ng ano? Ano itong other
+Sen. Francis "Chiz" G. Escudero: Kagaya ng ano? Ano itong other
 
 1893
 05:07:34,220 --> 05:07:35,260
-Sen. Francis “Chiz” Escudero: supporting documents?
+Sen. Francis "Chiz" G. Escudero: supporting documents?
 
 1894
 05:07:35,860 --> 05:07:50,440
@@ -7576,7 +7576,7 @@ Cylene May L. Del Campo: Gaya nga po yung hiningi ko dun sa purchase of supplies
 
 1895
 05:07:50,440 --> 05:08:13,400
-Sen. Francis “Chiz” Escudero: sinabihan n'yo sila, noong humingi kayo ng other supporting documents, mga ORs, mga sales invoice, nagsubmit ba ang OVP at ang DepEd nang hinihingi n'yong other documents deemed necessary for the proper evaluation of the liquidation documents submitted? Nagsubmit ba sila?
+Sen. Francis "Chiz" G. Escudero: sinabihan n'yo sila, noong humingi kayo ng other supporting documents, mga ORs, mga sales invoice, nagsubmit ba ang OVP at ang DepEd nang hinihingi n'yong other documents deemed necessary for the proper evaluation of the liquidation documents submitted? Nagsubmit ba sila?
 
 1896
 05:08:13,960 --> 05:08:20,800
@@ -7672,19 +7672,19 @@ Atty. Lorna Patajo-Kapunan: Conclusion of fact, Your Honor, palusot ba yan?
 
 1919
 05:13:50,340 --> 05:13:50,980
-Sen. Francis “Chiz” Escudero: That
+Sen. Francis "Chiz" G. Escudero: That
 
 1920
 05:13:50,980 --> 05:13:51,480
-Sen. Francis “Chiz” Escudero: is my...
+Sen. Francis "Chiz" G. Escudero: is my...
 
 1921
 05:13:54,700 --> 05:14:05,160
-Sen. Francis “Chiz” Escudero: Councils, please. We're like on both sides. I think most of the questions being asked have already been answered by the witness repeatedly.
+Sen. Francis "Chiz" G. Escudero: Councils, please. We're like on both sides. I think most of the questions being asked have already been answered by the witness repeatedly.
 
 1922
 05:14:07,060 --> 05:14:28,970
-Sen. Francis “Chiz” Escudero: Kindly move to your next point, Atty. Gaponan, if you have other points for redirect. so that we can wind up also with every cross and proceed to interjection so that we can finish with this witness. We're going around repeatedly already on the same conclusions of the witness based on her findings. Kindly move on, counsel, please.
+Sen. Francis "Chiz" G. Escudero: Kindly move to your next point, Atty. Gaponan, if you have other points for redirect. so that we can wind up also with every cross and proceed to interjection so that we can finish with this witness. We're going around repeatedly already on the same conclusions of the witness based on her findings. Kindly move on, counsel, please.
 
 1923
 05:14:29,870 --> 05:14:42,070
@@ -7692,11 +7692,11 @@ Atty. Lorna Patajo-Kapunan: Your Honor, please, as I said earlier, the start of 
 
 1924
 05:14:42,070 --> 05:14:42,690
-Sen. Francis “Chiz” Escudero: you very much, counsel.
+Sen. Francis "Chiz" G. Escudero: you very much, counsel.
 
 1925
 05:14:44,560 --> 05:14:47,520
-Sen. Francis “Chiz” Escudero: Council for the Respondent, Rick Ross. Okay,
+Sen. Francis "Chiz" G. Escudero: Council for the Respondent, Rick Ross. Okay,
 
 1926
 05:14:47,520 --> 05:15:30,030
@@ -7812,7 +7812,7 @@ Atty. Kristine R. Ferrer: Okay, so...
 
 1954
 05:18:21,180 --> 05:18:22,120
-Sen. Francis “Chiz” Escudero: Okay.
+Sen. Francis "Chiz" G. Escudero: Okay.
 
 1955
 05:18:22,770 --> 05:18:26,030
@@ -7820,11 +7820,11 @@ Atty. Kristine R. Ferrer: Okay, Your Honor, I'm done, Your Honor. Thank you,
 
 1956
 05:18:26,050 --> 05:18:43,350
-Sen. Francis “Chiz” Escudero: counsel. We now move. Hopefully, we can finish with Cylene today. Cylene, with your patience and indulgence. Senator Padilla. Is he here? Not here? Senator Ontiveros, then, for her interjections.
+Sen. Francis "Chiz" G. Escudero: counsel. We now move. Hopefully, we can finish with Cylene today. Cylene, with your patience and indulgence. Senator Padilla. Is he here? Not here? Senator Ontiveros, then, for her interjections.
 
 1957
 05:18:45,060 --> 05:18:57,950
-Sen. Francis “Chiz” Escudero: With the kind indulgence of Senator Ontiveros, Senator Padilla just arrived. Senator Padilla. You may proceed, sir. You have two minutes. You may proceed when you're ready. Maraming salamat po, ginong Tagapamahal ng Hukom.
+Sen. Francis "Chiz" G. Escudero: With the kind indulgence of Senator Ontiveros, Senator Padilla just arrived. Senator Padilla. You may proceed, sir. You have two minutes. You may proceed when you're ready. Maraming salamat po, ginong Tagapamahal ng Hukom.
 
 1958
 05:18:59,590 --> 05:19:05,310
@@ -7888,7 +7888,7 @@ Sen. Robinhood “Robin” Padilla: Maubos na po yung aking second round na lang
 
 1973
 05:21:27,730 --> 05:21:35,130
-Sen. Francis “Chiz” Escudero: Thank you, Senator Padilla. Senator Ontiveros is recognized for her interjections. You have two minutes, ma'am. You may proceed.
+Sen. Francis "Chiz" G. Escudero: Thank you, Senator Padilla. Senator Ontiveros is recognized for her interjections. You have two minutes, ma'am. You may proceed.
 
 1974
 05:21:42,250 --> 05:22:00,710
@@ -7984,7 +7984,7 @@ Sen. Risa Hontiveros: just to close on this, Mr. Presiding Officer, to wind up, 
 
 1997
 05:25:06,760 --> 05:25:07,940
-Atty. Kristine Ferrer Del Campo: hindi po naging compliant.
+Cylene May L. Del Campo: hindi po naging compliant.
 
 1998
 05:25:08,160 --> 05:25:08,980
@@ -8004,15 +8004,15 @@ Sen. Risa Hontiveros: I-follow up ko itong tanong at pati yung punto ng reimburs
 
 2002
 05:25:38,630 --> 05:25:41,170
-Sen. Francis “Chiz” Escudero: Senator-Judge Villanueva, you have two
+Sen. Francis "Chiz" G. Escudero: Senator-Judge Villanueva, you have two
 
 2003
 05:25:43,090 --> 05:25:47,650
-Sen. Francis “Chiz” Escudero: minutes. You may proceed when you're ready. Unless Senator-Judge Lapid is ready.
+Sen. Francis "Chiz" G. Escudero: minutes. You may proceed when you're ready. Unless Senator-Judge Lapid is ready.
 
 2004
 05:25:50,410 --> 05:25:55,160
-Sen. Francis “Chiz” Escudero: Senator-Judge Villanueva, well, I will give way
+Sen. Francis "Chiz" G. Escudero: Senator-Judge Villanueva, well, I will give way
 
 2005
 05:25:55,160 --> 05:25:57,460
@@ -8088,7 +8088,7 @@ Sen. Manuel “Lito” M. Lapid: proper o co-director?
 
 2023
 05:28:27,400 --> 05:28:33,140
-Atty. Kristine Ferrer Del Campo: Commission, yung sa case po ng ICFAO, diretso na po sa commission proper ang appeal.
+Cylene May L. Del Campo: Commission, yung sa case po ng ICFAO, diretso na po sa commission proper ang appeal.
 
 2024
 05:28:34,670 --> 05:28:35,990
@@ -8176,7 +8176,7 @@ Sen. Manuel “Lito” M. Lapid: Salamat po sa pagklaro ng proseso. Salamat. Sen
 
 2045
 05:31:46,600 --> 05:31:51,680
-Sen. Francis “Chiz” Escudero: -Judge Pangilinan, you may proceed with your interjection when you're ready. You have two minutes, sir.
+Sen. Francis "Chiz" G. Escudero: -Judge Pangilinan, you may proceed with your interjection when you're ready. You have two minutes, sir.
 
 2046
 05:31:53,300 --> 05:31:55,280
@@ -8196,11 +8196,11 @@ Sen. Francis “Kiko” Pangilinan: So ibig sabihin, hindi may babalik sa saving
 
 2050
 05:32:24,400 --> 05:32:25,440
-Sen. Koko Pimentel Pangilinan: Apo. I'm
+Sen. Francis “Kiko” Pangilinan: Apo. I'm
 
 2051
 05:32:25,440 --> 05:32:51,410
-Sen. Kiko Pangilinan: trying to understand bakit. Diba? Ang ikli nung panahon, which you mentioned, maikli yung 11 days, but wala kayong finding, no? Ngayon, kung halimbawa nagsumiti sila ng mga dokumento para mapatunayan na tama lahat mong ginastos nung 21 to 31, di walang issue, hindi ba? Kung nasummit nila yung mga hinihiling ninyong additional documents.
+Sen. Francis “Kiko” Pangilinan: trying to understand bakit. Diba? Ang ikli nung panahon, which you mentioned, maikli yung 11 days, but wala kayong finding, no? Ngayon, kung halimbawa nagsumiti sila ng mga dokumento para mapatunayan na tama lahat mong ginastos nung 21 to 31, di walang issue, hindi ba? Kung nasummit nila yung mga hinihiling ninyong additional documents.
 
 2052
 05:32:51,910 --> 05:32:52,690
@@ -8208,7 +8208,7 @@ Cylene May L. Del Campo: Yes, po.
 
 2053
 05:32:52,850 --> 05:33:04,550
-Sen. Kiko Pangilinan: Okay. Pero dahil hindi nila sinumiti, Hindi n'yo alam kung tama nga ba yung gastos noong December 21 to December 31. Tama?
+Sen. Francis “Kiko” Pangilinan: Okay. Pero dahil hindi nila sinumiti, Hindi n'yo alam kung tama nga ba yung gastos noong December 21 to December 31. Tama?
 
 2054
 05:33:04,830 --> 05:33:07,330
@@ -8216,7 +8216,7 @@ Cylene May L. Del Campo: Opo, dahil hindi po nila na-explain mabuti.
 
 2055
 05:33:07,530 --> 05:33:17,350
-Sen. Kiko Pangilinan: Okay. Of course, hindi n'yo malalaman kung iligal o irregular, pero hindi n'yo rin malalaman kung legal o regular.
+Sen. Francis “Kiko” Pangilinan: Okay. Of course, hindi n'yo malalaman kung iligal o irregular, pero hindi n'yo rin malalaman kung legal o regular.
 
 2056
 05:33:18,010 --> 05:33:22,910
@@ -8280,11 +8280,11 @@ Cylene May L. Del Campo: Opo, tama po.
 
 2071
 05:34:14,020 --> 05:34:18,660
-Sen. Kiko Pangilinan: Okay. Yung usapin ng protective...
+Sen. Francis “Kiko” Pangilinan: Okay. Yung usapin ng protective...
 
 2072
 05:34:24,340 --> 05:34:25,780
-Sen. Kiko Pangilinan: intelligence operations.
+Sen. Francis “Kiko” Pangilinan: intelligence operations.
 
 2073
 05:34:29,190 --> 05:34:32,710
@@ -8316,11 +8316,11 @@ Cylene May L. Del Campo: Opo.
 
 2080
 05:35:03,600 --> 05:35:04,060
-Sen. Kiko Pangilinan: Next
+Sen. Francis “Kiko” Pangilinan: Next
 
 2081
 05:35:04,060 --> 05:35:11,840
-Sen. Francis “Chiz” Escudero: round na lang po. Thank you, Senator-Judge Pangilinan. Senator-Judge Aquino may proceed with his interjection when he's ready. You have 10 minutes, sir.
+Sen. Francis "Chiz" G. Escudero: round na lang po. Thank you, Senator-Judge Pangilinan. Senator-Judge Aquino may proceed with his interjection when he's ready. You have 10 minutes, sir.
 
 2082
 05:35:16,120 --> 05:35:18,520
@@ -8384,11 +8384,11 @@ Sen. Paolo Benigno “Bam” Aquino: Okay. Let me ask about what is fraud, no? A
 
 2097
 05:37:41,780 --> 05:37:42,260
-Sen. Bam Aquino: Ito ba
+Sen. Paolo Benigno “Bam” Aquino: Ito ba
 
 2098
 05:37:42,260 --> 05:37:43,320
-Sen. Bam Aquino: 'y bawal or iligal?
+Sen. Paolo Benigno “Bam” Aquino: 'y bawal or iligal?
 
 2099
 05:37:43,600 --> 05:37:57,940
@@ -8396,7 +8396,7 @@ Cylene May L. Del Campo: Doon po sa joint circular, silent po kasi ang joint cir
 
 2100
 05:37:57,940 --> 05:38:28,460
-Sen. Bam Aquino: So thank you, thank you for that. So... Kung nagamit to sa talagang nakalagay doon, hindi ito fraudulent. Pero kung ito'y hindi naman nagamit doon sa nakalagay at kunyari na bulsa lang, fraudulent yun, correct? Opo, tama. So yung bawat isang pangalan, dapat ba merong ring 1 is to 1 na totoong tao sa likod nun? O pwede kunyari may alokasyon ng 10 million tapos hinati-hati sa tagti 300,000 pero isang tao lang talaga yun, yun po ba fraudulent?
+Sen. Paolo Benigno “Bam” Aquino: So thank you, thank you for that. So... Kung nagamit to sa talagang nakalagay doon, hindi ito fraudulent. Pero kung ito'y hindi naman nagamit doon sa nakalagay at kunyari na bulsa lang, fraudulent yun, correct? Opo, tama. So yung bawat isang pangalan, dapat ba merong ring 1 is to 1 na totoong tao sa likod nun? O pwede kunyari may alokasyon ng 10 million tapos hinati-hati sa tagti 300,000 pero isang tao lang talaga yun, yun po ba fraudulent?
 
 2101
 05:38:29,770 --> 05:38:35,010
@@ -8416,7 +8416,7 @@ Sen. Paolo Benigno “Bam” Aquino: Okay. Are you aware, Madam Witness, na mero
 
 2105
 05:39:06,040 --> 05:39:09,100
-Atty. Kristine Ferrer Del Campo: Hindi po ako familiar dun sa law. Okay.
+Cylene May L. Del Campo: Hindi po ako familiar dun sa law. Okay.
 
 2106
 05:39:09,100 --> 05:39:26,170
@@ -8424,7 +8424,7 @@ Sen. Paolo Benigno “Bam” Aquino: There is a law actually, RA 6085. na nagbab
 
 2107
 05:39:26,390 --> 05:39:32,070
-Sen. Francis “Chiz” Escudero: Thank you, Senator-Judge Aquino. Senator-Judge Erwin Tulfo, you may proceed with your interjections. You have two minutes, sir.
+Sen. Francis "Chiz" G. Escudero: Thank you, Senator-Judge Aquino. Senator-Judge Erwin Tulfo, you may proceed with your interjections. You have two minutes, sir.
 
 2108
 05:39:40,680 --> 05:39:43,060
@@ -8520,7 +8520,7 @@ Sen. Erwin Tulfo: 2022 to 2023 po yun?
 
 2131
 05:42:01,130 --> 05:42:06,130
-Atty. Kristine Ferrer Del Campo: Wala po silang budget for 22. First to third quarters po ng 23 yung sa DepEd. 112.
+Cylene May L. Del Campo: Wala po silang budget for 22. First to third quarters po ng 23 yung sa DepEd. 112.
 
 2132
 05:42:06,310 --> 05:42:08,570
@@ -8540,7 +8540,7 @@ Cylene May L. Del Campo: Sa OVP po is...
 
 2136
 05:42:15,400 --> 05:42:19,960
-Atty. Kristine Ferrer Del Campo: 375 plus 73.287 million po.
+Cylene May L. Del Campo: 375 plus 73.287 million po.
 
 2137
 05:42:20,680 --> 05:42:22,460
@@ -8576,11 +8576,11 @@ Sen. Erwin Tulfo: alright. Maraming salamat po, yun lang po.
 
 2145
 05:42:45,390 --> 05:42:48,890
-Sen. Francis “Chiz” Escudero: Senator-Judge, I heard you too. You may proceed with your interjections.
+Sen. Francis "Chiz" G. Escudero: Senator-Judge, I heard you too. You may proceed with your interjections.
 
 2146
 05:42:50,960 --> 05:42:52,960
-Sen. Francis “Chiz” Escudero: You have two minutes, sir. You may proceed with your interjections.
+Sen. Francis "Chiz" G. Escudero: You have two minutes, sir. You may proceed with your interjections.
 
 2147
 05:42:56,050 --> 05:42:57,850
@@ -8644,7 +8644,7 @@ Sen. Sherwin T. Gatchalian: So yung sa... Sa yung, kasi madalas pag Christmas se
 
 2162
 05:45:34,110 --> 05:45:35,590
-Atty. Kristine Ferrer Del Campo: Hindi po.
+Cylene May L. Del Campo: Hindi po.
 
 2163
 05:45:42,750 --> 05:45:53,070
@@ -8664,7 +8664,7 @@ Sen. Sherwin T. Gatchalian: Tapos, is it our understanding or correct that that 
 
 2167
 05:46:26,660 --> 05:46:30,140
-Atty. Kristine Ferrer Del Campo: Ang reimbursement po, hindi po ito pinapayagan sa Joint Circular.
+Cylene May L. Del Campo: Ang reimbursement po, hindi po ito pinapayagan sa Joint Circular.
 
 2168
 05:46:30,480 --> 05:46:35,180
@@ -8672,7 +8672,7 @@ Sen. Sherwin T. Gatchalian: Hindi po po, ah, so, ito disallowed ka agad? Kasama 
 
 2169
 05:46:35,320 --> 05:46:37,340
-Atty. Kristine Ferrer Del Campo: Kung may reimbursement po, oo po.
+Cylene May L. Del Campo: Kung may reimbursement po, oo po.
 
 2170
 05:46:37,580 --> 05:46:39,980
@@ -8696,19 +8696,19 @@ Sen. Sherwin T. Gatchalian: that's all, Mr. President.
 
 2175
 05:47:10,590 --> 05:47:10,630
-Sen. Francis “Chiz” Escudero: Thank you,
+Sen. Francis "Chiz" G. Escudero: Thank you,
 
 2176
 05:47:10,650 --> 05:47:16,390
-Sen. Francis “Chiz” Escudero: Senator-Judge. Senator-Judge Rafi Tulfo, you may proceed when you're ready, sir. You have two minutes.
+Sen. Francis "Chiz" G. Escudero: Senator-Judge. Senator-Judge Rafi Tulfo, you may proceed when you're ready, sir. You have two minutes.
 
 2177
 05:47:18,540 --> 05:47:21,960
-Sen. Francis “Chiz” Escudero: Thereafter, our Senate President, thereafter, Senator Lacson.
+Sen. Francis "Chiz" G. Escudero: Thereafter, our Senate President, thereafter, Senator Lacson.
 
 2178
 05:47:26,860 --> 05:47:42,160
-Sen. Raffy Tulfo: Madam Witness, pag-usapan natin yung safe houses ng OVP. Based dun sa records ng House of Representatives noong 2022, yung OVP ay gumastos ng 16 million pesos sa confidential funds para sa bayad or rental ng safe houses, correct?
+Sen. Raffy T. Tulfo: Madam Witness, pag-usapan natin yung safe houses ng OVP. Based dun sa records ng House of Representatives noong 2022, yung OVP ay gumastos ng 16 million pesos sa confidential funds para sa bayad or rental ng safe houses, correct?
 
 2179
 05:47:42,540 --> 05:47:43,480
@@ -8716,7 +8716,7 @@ Cylene May L. Del Campo: Opo, tama po.
 
 2180
 05:47:43,950 --> 05:47:45,230
-Sen. Raffy Tulfo: At ilang safe houses ito?
+Sen. Raffy T. Tulfo: At ilang safe houses ito?
 
 2181
 05:47:46,120 --> 05:47:48,160
@@ -8724,11 +8724,11 @@ Cylene May L. Del Campo: Pwede po ba macheck ko yung records kayo?
 
 2182
 05:47:48,200 --> 05:47:48,500
-Sen. Raffy Tulfo: Go ahead po.
+Sen. Raffy T. Tulfo: Go ahead po.
 
 2183
 05:48:01,050 --> 05:48:03,050
-Sen. Raffy Tulfo: Tulungan na lang kita para mas mapabilis. 34?
+Sen. Raffy T. Tulfo: Tulungan na lang kita para mas mapabilis. 34?
 
 2184
 05:48:04,150 --> 05:48:08,150
@@ -8736,7 +8736,7 @@ Cylene May L. Del Campo: Opo. 34 na safe houses. 16 million.
 
 2185
 05:48:08,510 --> 05:48:09,590
-Sen. Raffy Tulfo: 16 million. Ilang araw?
+Sen. Raffy T. Tulfo: 16 million. Ilang araw?
 
 2186
 05:48:10,070 --> 05:48:11,210
@@ -8744,7 +8744,7 @@ Cylene May L. Del Campo: 11 days po.
 
 2187
 05:48:11,330 --> 05:48:52,330
-Sen. Raffy Tulfo: 11 days. Okay. Kasi, Madam Witness, base sa 2022 real estate data, ang real estate property, alam mo, sa Forbes Park, 200... 450,000 a month, i-divide mo yan sa every day, just 15,000 pesos a day. Corinthian, 200,000 a month, divided by that per day, 6,666. Sa Ayala-Alabang, 290,000 per month, per day lalabas yan na 9,666. Ito ba yung mga nerentahan ng OVP na safe houses nila? Galing ba sa mga nasabi ko exclusive subdivisions?
+Sen. Raffy T. Tulfo: 11 days. Okay. Kasi, Madam Witness, base sa 2022 real estate data, ang real estate property, alam mo, sa Forbes Park, 200... 450,000 a month, i-divide mo yan sa every day, just 15,000 pesos a day. Corinthian, 200,000 a month, divided by that per day, 6,666. Sa Ayala-Alabang, 290,000 per month, per day lalabas yan na 9,666. Ito ba yung mga nerentahan ng OVP na safe houses nila? Galing ba sa mga nasabi ko exclusive subdivisions?
 
 2188
 05:48:53,170 --> 05:49:01,830
@@ -8752,7 +8752,7 @@ Cylene May L. Del Campo: Wala pong nilagay na addresses noong kanilang safe hous
 
 2189
 05:49:02,170 --> 05:49:08,510
-Sen. Raffy Tulfo: Pero hindi sinabi whether Forbes Park, Amanpalo, Boracay, mga ganon, Dasmarinas, wala talaga?
+Sen. Raffy T. Tulfo: Pero hindi sinabi whether Forbes Park, Amanpalo, Boracay, mga ganon, Dasmarinas, wala talaga?
 
 2190
 05:49:08,670 --> 05:49:09,310
@@ -8760,7 +8760,7 @@ Cylene May L. Del Campo: Wala po.
 
 2191
 05:49:09,830 --> 05:49:21,830
-Sen. Raffy Tulfo: So, ibangga mo yan sa mga ibang agencies na nagli-liquidate para sa kanilang mga safe houses? Meron bang ganong klase mga amount na diniklara? Meron bang mga amount na ganon?
+Sen. Raffy T. Tulfo: So, ibangga mo yan sa mga ibang agencies na nagli-liquidate para sa kanilang mga safe houses? Meron bang ganong klase mga amount na diniklara? Meron bang mga amount na ganon?
 
 2192
 05:49:22,980 --> 05:49:24,620
@@ -8768,11 +8768,11 @@ Cylene May L. Del Campo: Wala po, hindi po ganun kalaki.
 
 2193
 05:49:24,860 --> 05:49:30,780
-Sen. Raffy Tulfo: So, walang ganun kalaki. So, what do you think of this? Is this excessive, abusive, or out of this world amount?
+Sen. Raffy T. Tulfo: So, walang ganun kalaki. So, what do you think of this? Is this excessive, abusive, or out of this world amount?
 
 2194
 05:49:32,430 --> 05:49:33,910
-Sen. Raffy Tulfo: Base po sa inyong experience.
+Sen. Raffy T. Tulfo: Base po sa inyong experience.
 
 2195
 05:49:35,440 --> 05:49:56,790
@@ -8780,11 +8780,11 @@ Cylene May L. Del Campo: Ito po kasi is hindi namin naging finding. So, kasi po 
 
 2196
 05:49:57,110 --> 05:50:12,670
-Sen. Raffy Tulfo: Kasi lumilitaw, parang 42,780 pesos per day ang bayad ng OVP para sa kunilang mga rental properties noong 2022. So halagang 16 million na spend nila in the 11 days.
+Sen. Raffy T. Tulfo: Kasi lumilitaw, parang 42,780 pesos per day ang bayad ng OVP para sa kunilang mga rental properties noong 2022. So halagang 16 million na spend nila in the 11 days.
 
 2197
 05:50:15,350 --> 05:50:30,110
-Sen. Raffy Tulfo: Now, sa paggamit ng mga aliases. Silent ang joint circular sa paggamit ng mga kenkoy na mga aliases para sa mga informants na tumatanggap ng confidential funds, right?
+Sen. Raffy T. Tulfo: Now, sa paggamit ng mga aliases. Silent ang joint circular sa paggamit ng mga kenkoy na mga aliases para sa mga informants na tumatanggap ng confidential funds, right?
 
 2198
 05:50:30,570 --> 05:50:32,290
@@ -8792,7 +8792,7 @@ Cylene May L. Del Campo: Opo, silent ang joint circular.
 
 2199
 05:50:32,670 --> 05:50:42,650
-Sen. Raffy Tulfo: Silent din ba ang joint circular sa paggamit ng isang signature sa napakaraming pangalan?
+Sen. Raffy T. Tulfo: Silent din ba ang joint circular sa paggamit ng isang signature sa napakaraming pangalan?
 
 2200
 05:50:44,730 --> 05:50:49,030
@@ -8808,11 +8808,11 @@ Cylene May L. Del Campo: Opo.
 
 2203
 05:51:09,150 --> 05:51:10,050
-Sen. Raffy Tulfo: Maraming salamat po.
+Sen. Raffy T. Tulfo: Maraming salamat po.
 
 2204
 05:51:10,510 --> 05:51:15,970
-Sen. Francis “Chiz” Escudero: Thank you, Senator Judge Tulfo. The Senate President is recognized for his interjections. You may proceed, sir. You have two minutes.
+Sen. Francis "Chiz" G. Escudero: Thank you, Senator Judge Tulfo. The Senate President is recognized for his interjections. You may proceed, sir. You have two minutes.
 
 2205
 05:51:16,210 --> 05:51:18,210
@@ -8824,7 +8824,7 @@ Sen. Sherwin T. Gatchalian: Miss Aileen. Tama ba ba narinig ko kahapon na kaya n
 
 2207
 05:51:45,400 --> 05:51:47,100
-Atty. Kristine Ferrer Del Campo: Yes po, Your Honor.
+Cylene May L. Del Campo: Yes po, Your Honor.
 
 2208
 05:51:47,380 --> 05:52:53,250
@@ -8840,7 +8840,7 @@ Sen. Sherwin T. Gatchalian: Pero pag titignan natin yung circumstances, pareho e
 
 2211
 05:53:54,850 --> 05:53:56,030
-Atty. Kristine Ferrer Del Campo: Yes po, tama po.
+Cylene May L. Del Campo: Yes po, tama po.
 
 2212
 05:53:56,030 --> 05:54:06,910
@@ -8848,7 +8848,7 @@ Sen. Sherwin T. Gatchalian: So, puwedeng ma-disallow buong 612.5 million na conf
 
 2213
 05:54:07,050 --> 05:54:08,210
-Atty. Kristine Ferrer Del Campo: Yes po, tama po.
+Cylene May L. Del Campo: Yes po, tama po.
 
 2214
 05:54:08,530 --> 05:54:09,890
@@ -8864,7 +8864,7 @@ Sen. Sherwin T. Gatchalian: officers.
 
 2217
 05:54:12,880 --> 05:54:13,940
-Atty. Kristine Ferrer Del Campo: Opo, tama po.
+Cylene May L. Del Campo: Opo, tama po.
 
 2218
 05:54:14,260 --> 05:54:18,820
@@ -8872,11 +8872,11 @@ Sen. Sherwin T. Gatchalian: Bakit mahalaga ang papel ng special dispersing offic
 
 2219
 05:54:19,360 --> 05:54:37,000
-Atty. Kristine Ferrer Del Campo: Yung special dispersing officer po kasi, siya yung... May responsibility to disperse yung cash advance. And doon po kasi sa nangyari sa DepEd at saka sa OBP. Noong i-transfer po niya ito sa ibang tao, naputol na po yung chain of accountability.
+Cylene May L. Del Campo: Yung special dispersing officer po kasi, siya yung... May responsibility to disperse yung cash advance. And doon po kasi sa nangyari sa DepEd at saka sa OBP. Noong i-transfer po niya ito sa ibang tao, naputol na po yung chain of accountability.
 
 2220
 05:54:38,740 --> 05:55:01,390
-Atty. Kristine Ferrer Del Campo: Nawala na po yung personal knowledge kung talaga bang ibinigay ito. Ginamit ito ng mga security officers na pinagbigyan for confidential activities po talaga. And mababaliwala yung certification na this is for the confidential operations of the agency po and legal and necessary yung naging gastos po.
+Cylene May L. Del Campo: Nawala na po yung personal knowledge kung talaga bang ibinigay ito. Ginamit ito ng mga security officers na pinagbigyan for confidential activities po talaga. And mababaliwala yung certification na this is for the confidential operations of the agency po and legal and necessary yung naging gastos po.
 
 2221
 05:55:01,630 --> 05:55:11,150
@@ -8900,11 +8900,11 @@ Sen. Sherwin T. Gatchalian: you, Mr. President. Senator
 
 2226
 05:55:33,910 --> 05:55:36,750
-Sen. Francis “Chiz” Escudero: -Judge Lacson, you may proceed when you have two minutes, sir.
+Sen. Francis "Chiz" G. Escudero: -Judge Lacson, you may proceed when you have two minutes, sir.
 
 2227
 05:55:37,650 --> 05:55:54,880
-Senator Panfilo Lacson: Thank you. Good afternoon, Sailin. Good afternoon, po. Ayosong pamilyar ka doon sa Article 4, Section 15 ng inyong Joint Circular. Ayan, ipinlas ko lang sa screen para ma-remind ka.
+Sen. Panfilo “Ping” M. Lacson: Thank you. Good afternoon, Sailin. Good afternoon, po. Ayosong pamilyar ka doon sa Article 4, Section 15 ng inyong Joint Circular. Ayan, ipinlas ko lang sa screen para ma-remind ka.
 
 2228
 05:55:56,040 --> 05:55:56,440
@@ -8912,7 +8912,7 @@ Cylene May L. Del Campo: Pay
 
 2229
 05:55:56,440 --> 05:56:07,290
-Sen. Panfilo M. Lacson: attention sa Paragraph 15.2, Paragraph 2, at saka Paragraph 3. Pakibasa mo na lang para hindi mat-chart sa akin.
+Sen. Panfilo “Ping” M. Lacson: attention sa Paragraph 15.2, Paragraph 2, at saka Paragraph 3. Pakibasa mo na lang para hindi mat-chart sa akin.
 
 2230
 05:56:07,880 --> 05:56:25,860
@@ -8920,7 +8920,7 @@ Cylene May L. Del Campo: that expenses were incurred in connection with the agen
 
 2231
 05:56:25,920 --> 05:56:27,760
-Sen. Panfilo M. Lacson: Sige. Sa 3. Paragraph 3.
+Sen. Panfilo “Ping” M. Lacson: Sige. Sa 3. Paragraph 3.
 
 2232
 05:56:28,140 --> 05:56:39,900
@@ -8928,11 +8928,11 @@ Cylene May L. Del Campo: that the details and supporting documents of transactio
 
 2233
 05:56:40,340 --> 05:56:41,000
-Sen. Panfilo M. Lacson: Ang
+Sen. Panfilo “Ping” M. Lacson: Ang
 
 2234
 05:56:41,000 --> 05:56:42,260
-Sen. Panfilo M. Lacson: tanong ko, ginawa nyo ba ito?
+Sen. Panfilo “Ping” M. Lacson: tanong ko, ginawa nyo ba ito?
 
 2235
 05:56:43,790 --> 05:56:50,110
@@ -8940,11 +8940,11 @@ Cylene May L. Del Campo: Yung sa inspection po kasi ng vault, sa IF na po yun. H
 
 2236
 05:56:50,450 --> 05:56:51,150
-Sen. Panfilo M. Lacson: ICFAO ito ah.
+Sen. Panfilo “Ping” M. Lacson: ICFAO ito ah.
 
 2237
 05:56:51,450 --> 05:57:00,480
-Sen. Panfilo M. Lacson: Siya sabi, if the circumstances so demand. Hindi ba dinidemand ng circumstances na Inspection yun yung vault,
+Sen. Panfilo “Ping” M. Lacson: Siya sabi, if the circumstances so demand. Hindi ba dinidemand ng circumstances na Inspection yun yung vault,
 
 2238
 05:57:00,640 --> 05:57:02,020
@@ -8952,7 +8952,7 @@ Cylene May L. Del Campo: dahil maraming
 
 2239
 05:57:02,020 --> 05:57:02,540
-Sen. Panfilo M. Lacson: aliases.
+Sen. Panfilo “Ping” M. Lacson: aliases.
 
 2240
 05:57:03,000 --> 05:57:09,100
@@ -8960,7 +8960,7 @@ Cylene May L. Del Campo: Yung vault po kasi, yung sa vault po kasi, nagpe-pertai
 
 2241
 05:57:09,100 --> 05:57:09,540
-Sen. Panfilo M. Lacson: may vault
+Sen. Panfilo “Ping” M. Lacson: may vault
 
 2242
 05:57:09,540 --> 05:57:10,120
@@ -8968,19 +8968,19 @@ Cylene May L. Del Campo: po sa office. No,
 
 2243
 05:57:10,120 --> 05:57:15,970
-Sen. Panfilo M. Lacson: CEF saka IF ito. Hindi lang intelligence. Parehong treatment, Miss Aileen.
+Sen. Panfilo “Ping” M. Lacson: CEF saka IF ito. Hindi lang intelligence. Parehong treatment, Miss Aileen.
 
 2244
 05:57:17,860 --> 05:57:18,460
-Sen. Panfilo M. Lacson: 415.
+Sen. Panfilo “Ping” M. Lacson: 415.
 
 2245
 05:57:20,090 --> 05:57:26,820
-Sen. Panfilo M. Lacson: Ang tanong ko lang, hindi ba dinidemand o dinemand ng circumstances na inspeksyon ninyo yung vault?
+Sen. Panfilo “Ping” M. Lacson: Ang tanong ko lang, hindi ba dinidemand o dinemand ng circumstances na inspeksyon ninyo yung vault?
 
 2246
 05:57:29,760 --> 05:57:41,620
-Sen. Panfilo M. Lacson: Kasi kung maraming Eliases na nagdududa kayo, diba natural lamang, logically, isipin n'yo, ma-inspection nga yung vault kung meron talagang mga totoong tao sa likod ng mga Elias o Eliases.
+Sen. Panfilo “Ping” M. Lacson: Kasi kung maraming Eliases na nagdududa kayo, diba natural lamang, logically, isipin n'yo, ma-inspection nga yung vault kung meron talagang mga totoong tao sa likod ng mga Elias o Eliases.
 
 2247
 05:57:41,960 --> 05:57:45,740
@@ -8988,7 +8988,7 @@ Cylene May L. Del Campo: Ang pag-inspect po kasi is through the authority po of 
 
 2248
 05:57:46,240 --> 05:57:48,060
-Sen. Panfilo M. Lacson: I know. Hindi kayo kumuha ng authority?
+Sen. Panfilo “Ping” M. Lacson: I know. Hindi kayo kumuha ng authority?
 
 2249
 05:57:50,430 --> 05:57:51,330
@@ -8996,7 +8996,7 @@ Cylene May L. Del Campo: Wala pa po.
 
 2250
 05:57:51,450 --> 05:57:56,830
-Sen. Panfilo M. Lacson: My point is, parang kulang yung ginawa n'yong trabaho para hindi kumpleto.
+Sen. Panfilo “Ping” M. Lacson: My point is, parang kulang yung ginawa n'yong trabaho para hindi kumpleto.
 
 2251
 05:57:57,800 --> 05:58:00,400
@@ -9004,11 +9004,11 @@ Cylene May L. Del Campo: Kasi po may iba po kasing office na... No,
 
 2252
 05:58:00,400 --> 05:58:06,870
-Senator Panfilo Lacson: ICPAU siyang sabi rito. May be inspected by ICPAU if the circumstances so demand.
+Sen. Panfilo “Ping” M. Lacson: ICPAU siyang sabi rito. May be inspected by ICPAU if the circumstances so demand.
 
 2253
 05:58:08,900 --> 05:58:16,100
-Sen. Panfilo M. Lacson: Opo. Anyway, let's leave it at that. Pamilyar ka ba doon sa 2020-005?
+Sen. Panfilo “Ping” M. Lacson: Opo. Anyway, let's leave it at that. Pamilyar ka ba doon sa 2020-005?
 
 2254
 05:58:16,900 --> 05:58:18,760
@@ -9016,7 +9016,7 @@ Cylene May L. Del Campo: Anong circular po yun?
 
 2255
 05:58:18,760 --> 05:58:22,130
-Sen. Panfilo M. Lacson: Yung sa fraud audit.
+Sen. Panfilo “Ping” M. Lacson: Yung sa fraud audit.
 
 2256
 05:58:23,050 --> 05:58:25,930
@@ -9024,7 +9024,7 @@ Cylene May L. Del Campo: Hindi po ako gaanong familiar doon sa Joint Circuit. An
 
 2257
 05:58:26,170 --> 05:58:31,990
-Sen. Panfilo M. Lacson: ipamilyarize kita. Meron kayong office, di ba? Yung fraud audit office.
+Sen. Panfilo “Ping” M. Lacson: ipamilyarize kita. Meron kayong office, di ba? Yung fraud audit office.
 
 2258
 05:58:32,430 --> 05:58:34,230
@@ -9032,11 +9032,11 @@ Cylene May L. Del Campo: Opo, may separate office po sa COA.
 
 2259
 05:58:34,410 --> 05:58:50,530
-Sen. Panfilo M. Lacson: Okay, dito sa paragraph 3.1, yung filing, of course, ito, people's participation ito eh. Kailangan merong formal complaint, pero hindi lang complaint information, indication, or complaint na merong fraud.
+Sen. Panfilo “Ping” M. Lacson: Okay, dito sa paragraph 3.1, yung filing, of course, ito, people's participation ito eh. Kailangan merong formal complaint, pero hindi lang complaint information, indication, or complaint na merong fraud.
 
 2260
 05:58:52,260 --> 05:59:25,020
-Sen. Panfilo M. Lacson: Opo. So, papasok yung fraud audit investigation ng inyong office. Hindi office n'yo. ibang office. Yeah. Pero nakalagay sa 3.1, any person who has knowledge that the transactions of, et cetera, no, eh, puwedeng gumawa ng written information sa inyong, sa office na yon para mapunta doon sa logical conclusion, mapunta sa filing of criminal, filing of criminal charges against whoever, not necessarily the vice president.
+Sen. Panfilo “Ping” M. Lacson: Opo. So, papasok yung fraud audit investigation ng inyong office. Hindi office n'yo. ibang office. Yeah. Pero nakalagay sa 3.1, any person who has knowledge that the transactions of, et cetera, no, eh, puwedeng gumawa ng written information sa inyong, sa office na yon para mapunta doon sa logical conclusion, mapunta sa filing of criminal, filing of criminal charges against whoever, not necessarily the vice president.
 
 2261
 05:59:25,760 --> 06:00:00,540
@@ -9044,31 +9044,31 @@ Cylene May L. Del Campo: Yung sa pag-refer po sa Fraud Audit Office, ito po ay p
 
 2262
 06:00:01,060 --> 06:00:34,330
-Senator Panfilo Lacson: 12 seconds na lang. Isa na lang tanong balikan ko yung sa 4.15. Hindi nyo ba naisip na man lang na kung na-inspect nyo yung vault, kumuha kayo ng mga specimen, yun yung mga question document, yung mga signatures. Makompare nyo sana sa mga ibang officials na mayroon kayo yung specimen signature para ma-determine nyo kung forged yung mga signatures na sinabi sa inyo. Yun lang, Mr. President Officer, Mr. Chairman. Kindly answer the question, Celine.
+Sen. Panfilo “Ping” M. Lacson: 12 seconds na lang. Isa na lang tanong balikan ko yung sa 4.15. Hindi nyo ba naisip na man lang na kung na-inspect nyo yung vault, kumuha kayo ng mga specimen, yun yung mga question document, yung mga signatures. Makompare nyo sana sa mga ibang officials na mayroon kayo yung specimen signature para ma-determine nyo kung forged yung mga signatures na sinabi sa inyo. Yun lang, Mr. President Officer, Mr. Chairman. Kindly answer the question, Celine.
 
 2263
 06:00:35,790 --> 06:00:40,770
-Atty. Kristine Ferrer Del Campo: Opo, i-re-refer po namin sa higher authority po. Thank you po.
+Cylene May L. Del Campo: Opo, i-re-refer po namin sa higher authority po. Thank you po.
 
 2264
 06:00:44,670 --> 06:00:45,150
-Sen. Francis “Chiz” Escudero: The
+Sen. Francis "Chiz" G. Escudero: The
 
 2265
 06:00:45,150 --> 06:00:52,750
-Sen. Francis “Chiz” Escudero: Chair would just like to make some interjections. We will not have a round two anymore because we have to convene session at 4.15.
+Sen. Francis "Chiz" G. Escudero: Chair would just like to make some interjections. We will not have a round two anymore because we have to convene session at 4.15.
 
 2266
 06:00:55,660 --> 06:01:06,640
-Sen. Francis “Chiz” Escudero: So that we can dispense with the witness already. Just a few questions, Sylene. Wala pang NFD lahat ng pondong pinag-uusapan natin. Fourth quarter of 2022,
+Sen. Francis "Chiz" G. Escudero: So that we can dispense with the witness already. Just a few questions, Sylene. Wala pang NFD lahat ng pondong pinag-uusapan natin. Fourth quarter of 2022,
 
 2267
 06:01:07,320 --> 06:01:07,580
-Sen. Francis “Chiz” Escudero: the
+Sen. Francis "Chiz" G. Escudero: the
 
 2268
 06:01:07,580 --> 06:01:10,720
-Sen. Francis “Chiz” Escudero: first three quarters of 2023 for DepEd and OVB.
+Sen. Francis "Chiz" G. Escudero: first three quarters of 2023 for DepEd and OVB.
 
 2269
 06:01:11,080 --> 06:01:12,860
@@ -9076,7 +9076,7 @@ Cylene May L. Del Campo: Opo, wala pa pong NFD.
 
 2270
 06:01:13,080 --> 06:01:15,500
-Sen. Francis “Chiz” Escudero: So wala pang final decision lahat ng ito?
+Sen. Francis "Chiz" G. Escudero: So wala pang final decision lahat ng ito?
 
 2271
 06:01:16,180 --> 06:01:18,080
@@ -9084,7 +9084,7 @@ Cylene May L. Del Campo: Opo, tama po. Pag
 
 2272
 06:01:18,080 --> 06:01:28,810
-Sen. Francis “Chiz” Escudero: sinabi niyong nag-demand kayo ng restitution, ang ibig sabihin lang naman ito, kinargan n'yo na as an unliquidated cash advance yung mga dinis-allow n'yo.
+Sen. Francis "Chiz" G. Escudero: sinabi niyong nag-demand kayo ng restitution, ang ibig sabihin lang naman ito, kinargan n'yo na as an unliquidated cash advance yung mga dinis-allow n'yo.
 
 2273
 06:01:29,430 --> 06:01:30,310
@@ -9092,7 +9092,7 @@ Cylene May L. Del Campo: Opo, tama po.
 
 2274
 06:01:30,470 --> 06:01:40,210
-Sen. Francis “Chiz” Escudero: Yun lang naman po ang ibig sabihin n'yo, di ba? Hindi naman ibig sabihin, isoli mo, bigay mo yung pera sa akin. Ibig sabihin nun, ilalagay namin yan as unliquidated cash advance during the pendency of the notice of disallowance.
+Sen. Francis "Chiz" G. Escudero: Yun lang naman po ang ibig sabihin n'yo, di ba? Hindi naman ibig sabihin, isoli mo, bigay mo yung pera sa akin. Ibig sabihin nun, ilalagay namin yan as unliquidated cash advance during the pendency of the notice of disallowance.
 
 2275
 06:01:40,510 --> 06:01:42,850
@@ -9100,7 +9100,7 @@ Cylene May L. Del Campo: Yes po, kasi may mga remedies pa po sila.
 
 2276
 06:01:42,850 --> 06:01:45,030
-Sen. Francis “Chiz” Escudero: Kasi hindi pa nga final at wala pa ng NFD.
+Sen. Francis "Chiz" G. Escudero: Kasi hindi pa nga final at wala pa ng NFD.
 
 2277
 06:01:45,390 --> 06:01:45,730
@@ -9108,7 +9108,7 @@ Cylene May L. Del Campo: Opo.
 
 2278
 06:01:45,730 --> 06:02:00,360
-Sen. Francis “Chiz” Escudero: Tama po. Pangalawa, ano po ba pagkakaiba ng disbursement sa transfer? Illegal mag-transfer ng pera ang SDO sa isang non-SDO, pero pwede po ba siya mag-disburse sa isang non-SDO o unbounded na tao?
+Sen. Francis "Chiz" G. Escudero: Tama po. Pangalawa, ano po ba pagkakaiba ng disbursement sa transfer? Illegal mag-transfer ng pera ang SDO sa isang non-SDO, pero pwede po ba siya mag-disburse sa isang non-SDO o unbounded na tao?
 
 2279
 06:02:00,720 --> 06:02:08,040
@@ -9116,7 +9116,7 @@ Cylene May L. Del Campo: Hindi din po pwede. Hindi din po niyang ibigay yun sa u
 
 2280
 06:02:09,140 --> 06:02:10,080
-Sen. Francis “Chiz” Escudero: Recipient na po yun eh.
+Sen. Francis "Chiz" G. Escudero: Recipient na po yun eh.
 
 2281
 06:02:10,850 --> 06:02:22,790
@@ -9124,7 +9124,7 @@ Cylene May L. Del Campo: Yung sa disbursement po niya, opo, hindi bounded, pero 
 
 2282
 06:02:22,790 --> 06:02:39,520
-Sen. Francis “Chiz” Escudero: disbursement pwede sa non-bounded na tao, ang transfer ng pondo sa non-bounded hindi pwede. These are technical terms. Opo. Di ba? So kung pinagbigyan ay recipient, pwede yun kahit non-bounded.
+Sen. Francis "Chiz" G. Escudero: disbursement pwede sa non-bounded na tao, ang transfer ng pondo sa non-bounded hindi pwede. These are technical terms. Opo. Di ba? So kung pinagbigyan ay recipient, pwede yun kahit non-bounded.
 
 2283
 06:02:39,940 --> 06:02:44,340
@@ -9132,11 +9132,11 @@ Cylene May L. Del Campo: Opo, kasi siya na yung talagang recipient nung confiden
 
 2284
 06:02:44,340 --> 06:03:05,780
-Sen. Francis “Chiz” Escudero: as a final question, Sarlina, I checked the transcript which the court took judicial notice of. I would like to ask more eyes to look at it. Hindi ko nakita sa transcript na sinabi ni Gina Acosta na binigay niya kay Lachica lahat for the fourth quarter of 2022 and the first three quarters of 2023.
+Sen. Francis "Chiz" G. Escudero: as a final question, Sarlina, I checked the transcript which the court took judicial notice of. I would like to ask more eyes to look at it. Hindi ko nakita sa transcript na sinabi ni Gina Acosta na binigay niya kay Lachica lahat for the fourth quarter of 2022 and the first three quarters of 2023.
 
 2285
 06:03:07,460 --> 06:03:35,470
-Sen. Francis “Chiz” Escudero: Medyo may ganung punto pa si Eduarda. Pero kay Gina Acosta, maliwanag na binigay niya yung 125 ayon sa kanya kay Lachica sa last quarter. Pero hindi ganung kaliwanag na yun din ang ginawa niya for the first three quarters of 2023. Ano po ba particular yung pinagbasihan niyong dokumento nung binanggit niyong dinisallow namin agad dahil sabi niya Acosta, binigay niya lahat kay Lachica. Hindi ko po makita. Baka pwede niyong maituro sa TSN kung saan.
+Sen. Francis "Chiz" G. Escudero: Medyo may ganung punto pa si Eduarda. Pero kay Gina Acosta, maliwanag na binigay niya yung 125 ayon sa kanya kay Lachica sa last quarter. Pero hindi ganung kaliwanag na yun din ang ginawa niya for the first three quarters of 2023. Ano po ba particular yung pinagbasihan niyong dokumento nung binanggit niyong dinisallow namin agad dahil sabi niya Acosta, binigay niya lahat kay Lachica. Hindi ko po makita. Baka pwede niyong maituro sa TSN kung saan.
 
 2286
 06:03:36,300 --> 06:03:45,540
@@ -9144,7 +9144,7 @@ Cylene May L. Del Campo: Yun po kasi ang pinanghawakan namin doon, yung general 
 
 2287
 06:03:45,680 --> 06:04:18,810
-Sen. Francis “Chiz” Escudero: Pero ang tinutukoy po niya ay yung 2025. Yung general statement po ni Eduarda, yun ang tumutukoy sa confidential fund ng DepEd para sa tatlong quarters ng 2023. Pero hindi po pareho yung statement nila ni Gina Acosta. na ganung kaliwanag na yun din yung ginawa niya sa first three quarters of 2023. Ano po ba yung particular na pinagbasihan niya? When you say general statement yung pinagbasihan niyo, yung narinig niyo po ba o yung TSN mismo?
+Sen. Francis "Chiz" G. Escudero: Pero ang tinutukoy po niya ay yung 2025. Yung general statement po ni Eduarda, yun ang tumutukoy sa confidential fund ng DepEd para sa tatlong quarters ng 2023. Pero hindi po pareho yung statement nila ni Gina Acosta. na ganung kaliwanag na yun din yung ginawa niya sa first three quarters of 2023. Ano po ba yung particular na pinagbasihan niya? When you say general statement yung pinagbasihan niyo, yung narinig niyo po ba o yung TSN mismo?
 
 2288
 06:04:19,210 --> 06:04:24,790
@@ -9152,7 +9152,7 @@ Cylene May L. Del Campo: Yun nga po, yung naging admission niya na binibigay niy
 
 2289
 06:04:25,030 --> 06:04:28,390
-Sen. Francis “Chiz” Escudero: Kangilisan, Celine, yung narinig mo nung nandun ka o yung TSN mismo?
+Sen. Francis "Chiz" G. Escudero: Kangilisan, Celine, yung narinig mo nung nandun ka o yung TSN mismo?
 
 2290
 06:04:30,190 --> 06:04:34,390
@@ -9160,7 +9160,7 @@ Cylene May L. Del Campo: Yung narinig ko po nung nandun po ako na sinabi niya na
 
 2291
 06:04:34,390 --> 06:04:39,290
-Sen. Francis “Chiz” Escudero: pinagbasihan yung aktual na TSN na marahil mas maliwanag tungkol sa bagay nito.
+Sen. Francis "Chiz" G. Escudero: pinagbasihan yung aktual na TSN na marahil mas maliwanag tungkol sa bagay nito.
 
 2292
 06:04:40,170 --> 06:04:40,650
@@ -9168,7 +9168,7 @@ Cylene May L. Del Campo: Opo.
 
 2293
 06:04:40,770 --> 06:04:43,250
-Sen. Francis “Chiz” Escudero: So based lang dun sa narinig mo nung nandun ka.
+Sen. Francis "Chiz" G. Escudero: So based lang dun sa narinig mo nung nandun ka.
 
 2294
 06:04:43,490 --> 06:04:43,970
@@ -9176,19 +9176,19 @@ Cylene May L. Del Campo: Opo.
 
 2295
 06:04:44,550 --> 06:04:48,870
-Sen. Francis “Chiz” Escudero: Thank you, Ms. Aileen. Senator Padilla, yes.
+Sen. Francis "Chiz" G. Escudero: Thank you, Ms. Aileen. Senator Padilla, yes.
 
 2296
 06:04:55,430 --> 06:04:57,010
-Sen. Francis “Chiz” Escudero: Senator Padilla, yes.
+Sen. Francis "Chiz" G. Escudero: Senator Padilla, yes.
 
 2297
 06:05:03,450 --> 06:05:10,110
-Sen. Francis “Chiz” Escudero: Sen. Padilla for a brief interjection and Sen. Marcos for a brief interjection to avail of Round 1, then we call it a day.
+Sen. Francis "Chiz" G. Escudero: Sen. Padilla for a brief interjection and Sen. Marcos for a brief interjection to avail of Round 1, then we call it a day.
 
 2298
 06:05:12,370 --> 06:05:19,910
-Sen. Francis “Chiz” Escudero: Sen. Lapid, kindly proceed Sen. Padilla while Sen. Lapid is thinking about it. No, please proceed.
+Sen. Francis "Chiz" G. Escudero: Sen. Lapid, kindly proceed Sen. Padilla while Sen. Lapid is thinking about it. No, please proceed.
 
 2299
 06:05:37,870 --> 06:06:14,670
@@ -9324,7 +9324,7 @@ Sen. Robinhood “Robin” Padilla: Salamat po.
 
 2332
 06:08:42,840 --> 06:08:45,200
-Sen. Francis “Chiz” Escudero: Senator-Judge Marcos, for the last intervention.
+Sen. Francis "Chiz" G. Escudero: Senator-Judge Marcos, for the last intervention.
 
 2333
 06:08:47,810 --> 06:08:53,230
@@ -9392,7 +9392,7 @@ Sen. Imee Marcos: So, puwede, miss, kaya anong dokumento? Parang lumalabo yata y
 
 2349
 06:11:47,420 --> 06:12:07,580
-Sen. Francis “Chiz” Escudero: Thank you. Again, that would be the last round for this witness. Miss Aileen, salamat po sa inyong kooperasyon, salamat sa inyong pasensya, salamat sa pagsagot sa lahat ng tanong mula sa magkabilang panig, gayon din mula sa mga senator-judges. You are excused, ma'am, and thank you very much for your time and cooperation.
+Sen. Francis "Chiz" G. Escudero: Thank you. Again, that would be the last round for this witness. Miss Aileen, salamat po sa inyong kooperasyon, salamat sa inyong pasensya, salamat sa pagsagot sa lahat ng tanong mula sa magkabilang panig, gayon din mula sa mga senator-judges. You are excused, ma'am, and thank you very much for your time and cooperation.
 
 2350
 06:12:08,060 --> 06:12:09,060
@@ -9400,7 +9400,7 @@ Cylene May L. Del Campo: Thank you, po, Your Honor.
 
 2351
 06:12:09,510 --> 06:12:28,310
-Sen. Francis “Chiz” Escudero: Ingat po kayo. As I understand it, we issued subpoenas for Fajarda, Acosta, and Pareja for only up to today. Will we be issuing subpoenas for the three witnesses again for Monday, Tuesday, and Wednesday, Lead Prosecutor?
+Sen. Francis "Chiz" G. Escudero: Ingat po kayo. As I understand it, we issued subpoenas for Fajarda, Acosta, and Pareja for only up to today. Will we be issuing subpoenas for the three witnesses again for Monday, Tuesday, and Wednesday, Lead Prosecutor?
 
 2352
 06:12:28,690 --> 06:12:32,810
@@ -9408,15 +9408,15 @@ Atty. Antonio Eduardo B. Capistrano: We confirm, Your Honor. We just want to put
 
 2353
 06:12:32,810 --> 06:12:33,330
-Sen. Francis “Chiz” Escudero: Can
+Sen. Francis "Chiz" G. Escudero: Can
 
 2354
 06:12:33,330 --> 06:12:33,810
-Sen. Francis “Chiz” Escudero: you place on
+Sen. Francis "Chiz" G. Escudero: you place on
 
 2355
 06:12:33,810 --> 06:12:35,790
-Sen. Francis “Chiz” Escudero: record the order? Yes. We
+Sen. Francis "Chiz" G. Escudero: record the order? Yes. We
 
 2356
 06:12:35,790 --> 06:13:36,820
@@ -9424,7 +9424,7 @@ Atty. Antonio Eduardo B. Capistrano: are moving for the reissuance of subpoena a
 
 2357
 06:13:36,940 --> 06:13:39,040
-Sen. Francis “Chiz” Escudero: because he's already transferred to that office.
+Sen. Francis "Chiz" G. Escudero: because he's already transferred to that office.
 
 2358
 06:13:39,740 --> 06:14:12,990
@@ -9440,7 +9440,7 @@ Atty. Antonio Eduardo B. Capistrano: This is the fourth one, Your Honor. And we 
 
 2361
 06:14:30,860 --> 06:14:52,340
-Sen. Francis “Chiz” Escudero: And the Chair would like to remind the lead counsel to kindly furnish the counsel for the respondent any requested stipulation for documents you may want to prior. to the scheduled trial on Monday. So hopefully within the day or tomorrow. So they can already comment on it in open court on Monday.
+Sen. Francis "Chiz" G. Escudero: And the Chair would like to remind the lead counsel to kindly furnish the counsel for the respondent any requested stipulation for documents you may want to prior. to the scheduled trial on Monday. So hopefully within the day or tomorrow. So they can already comment on it in open court on Monday.
 
 2362
 06:14:52,580 --> 06:14:53,720
@@ -9448,7 +9448,7 @@ Atty. Antonio Eduardo B. Capistrano: We submit, Your Honor.
 
 2363
 06:14:54,500 --> 06:14:57,100
-Sen. Francis “Chiz” Escudero: Any other matter you want to take up, counsel, for respondent?
+Sen. Francis "Chiz" G. Escudero: Any other matter you want to take up, counsel, for respondent?
 
 2364
 06:14:57,240 --> 06:15:21,790
@@ -9456,7 +9456,7 @@ Sheila C. Sison: Your Honor, good afternoon. I confirm receipt of the manifestat
 
 2365
 06:15:22,430 --> 06:15:31,570
-Sen. Francis “Chiz” Escudero: I believe it is in the order stated Pareja, followed by Acosta, followed by Fajarda, and then Ortonio, Your Honor.
+Sen. Francis "Chiz" G. Escudero: I believe it is in the order stated Pareja, followed by Acosta, followed by Fajarda, and then Ortonio, Your Honor.
 
 2366
 06:15:32,240 --> 06:15:33,440
@@ -9464,7 +9464,7 @@ Atty. Antonio Eduardo B. Capistrano: We confirm, Your Honor.
 
 2367
 06:15:33,560 --> 06:15:40,820
-Sen. Francis “Chiz” Escudero: In that order. So the subpoena for Antonio will be issued only on 18 and 19 because surely we cannot take him up on the 17th.
+Sen. Francis "Chiz" G. Escudero: In that order. So the subpoena for Antonio will be issued only on 18 and 19 because surely we cannot take him up on the 17th.
 
 2368
 06:15:40,920 --> 06:18:31,280
@@ -9480,15 +9480,15 @@ Sheila C. Sison: Your Honor, in the interest of fair play, may I request that co
 
 2371
 06:21:14,880 --> 06:22:06,020
-Sen. Francis “Chiz” Escudero: Unfortunately, counsel, no, the presiding officer will not allow that at this time. The presiding officer takes in advisement the manifestation of the lead counsel for the respondent because quite frankly, Honorable Luistro, I asked the clerk of court to monitor the public statements of the counsels of the parties this past week. And one side has been crossing the line many, many times. In fact, the presiding officer has already is already in the process of drafting a ruling and a warning and an order pertaining to this. Because clearly, I can even name all of you who have been commenting on social media in violation of Rule 18 of the Impeachment Rules.
+Sen. Francis "Chiz" G. Escudero: Unfortunately, counsel, no, the presiding officer will not allow that at this time. The presiding officer takes in advisement the manifestation of the lead counsel for the respondent because quite frankly, Honorable Luistro, I asked the clerk of court to monitor the public statements of the counsels of the parties this past week. And one side has been crossing the line many, many times. In fact, the presiding officer has already is already in the process of drafting a ruling and a warning and an order pertaining to this. Because clearly, I can even name all of you who have been commenting on social media in violation of Rule 18 of the Impeachment Rules.
 
 2372
 06:22:08,330 --> 06:22:17,030
-Sen. Francis “Chiz” Escudero: But I will do that on Monday, perhaps, after taking advisement, the manifestation of the Council for Respondent. It's not really so much.
+Sen. Francis "Chiz" G. Escudero: But I will do that on Monday, perhaps, after taking advisement, the manifestation of the Council for Respondent. It's not really so much.
 
 2373
 06:22:18,780 --> 06:23:34,940
-Sen. Francis “Chiz” Escudero: Being cordial or nice or kind but it's a basic violation of Rule 18. I already talked to the parties two weeks ago reminding you that you might want to consider appointing spokespersons who are not part of the panel of prosecutors nor a private prosecutor but you insist on maintaining that. So after two weeks, the court is constrained to make a decision and ruling on that. But we will do that on Monday with the permission of both counsels. Then we will hear you, counsel, and we will hear Attorney Ligutan prior to the court's ruling on the matter. But be advised that again, we have it all on tape. We have been monitoring everything. We may not enumerate it one by one. but we will make the corresponding ruling on Monday. Thank you for bringing that up, counsel. It gives me a reason to actually issue the ruling which we have prepared and have been preparing the past few days. On Monday, Attorney Ligutan, we will hear you before we make the ruling. Thank you. There being no other matter to be taken up by the trial and by the court, we hereby adjourn until Monday, August 17, still at 10 a.m.
+Sen. Francis "Chiz" G. Escudero: Being cordial or nice or kind but it's a basic violation of Rule 18. I already talked to the parties two weeks ago reminding you that you might want to consider appointing spokespersons who are not part of the panel of prosecutors nor a private prosecutor but you insist on maintaining that. So after two weeks, the court is constrained to make a decision and ruling on that. But we will do that on Monday with the permission of both counsels. Then we will hear you, counsel, and we will hear Attorney Ligutan prior to the court's ruling on the matter. But be advised that again, we have it all on tape. We have been monitoring everything. We may not enumerate it one by one. but we will make the corresponding ruling on Monday. Thank you for bringing that up, counsel. It gives me a reason to actually issue the ruling which we have prepared and have been preparing the past few days. On Monday, Attorney Ligutan, we will hear you before we make the ruling. Thank you. There being no other matter to be taken up by the trial and by the court, we hereby adjourn until Monday, August 17, still at 10 a.m.
 
 2374
 06:23:35,140 --> 06:23:37,000

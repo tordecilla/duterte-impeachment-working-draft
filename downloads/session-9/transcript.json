@@ -16,7 +16,7 @@
         "stable_id": "S00001",
         "start_seconds": 250.13,
         "end_seconds": 253.27,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "The sergeant at arms is directed to make a proclamation.",
         "confidence": 0.898822021484375,
         "editorial_flags": []
@@ -34,7 +34,7 @@
         "stable_id": "S00003",
         "start_seconds": 268.32,
         "end_seconds": 275.3,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "The impeachment trial of Vice President Sara Zimmerman Duterte is hereby called to order.",
         "confidence": 0.9987967354910714,
         "editorial_flags": []
@@ -43,7 +43,7 @@
         "stable_id": "S00004",
         "start_seconds": 278.52,
         "end_seconds": 280.44,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Please bow our heads and pray.",
         "confidence": 0.9596354166666666,
         "editorial_flags": []
@@ -52,7 +52,7 @@
         "stable_id": "S00005",
         "start_seconds": 282.36,
         "end_seconds": 346.14,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Heavenly Father, we come to you seeking the gift of your grace as we gather in this August Chamber to fulfill our duties as Senator-Judges. Grant us the gifts of humility, discernment, and wisdom. Keep our sights set firmly on the truth. Guide our hearts towards the pursuit of justice and the preservation of the rule of law. Bigyan mo kami ng tamang pag-unawa. Gawin mong gabay at inspirasyon ang iyong salita sa lahat ng aming gagawin. Tulungan mo kaming maalala na ang batayan ng aming tungkulin sa hukumang ito ay ang Saligang Batas at ang tiwala ng bayang Pilipino. We humbly lift the work of our hands in submission to your will for the defense of all that is good and the service of our nation. This we pray in your holy name. Amen.",
         "confidence": 0.9733721758868243,
         "editorial_flags": [
@@ -63,7 +63,7 @@
         "stable_id": "S00022",
         "start_seconds": 346.15,
         "end_seconds": 347.97,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "The Clerk of Court will now call the roll.",
         "confidence": 0.9658203125,
         "editorial_flags": []
@@ -83,7 +83,7 @@
         "stable_id": "S00027",
         "start_seconds": 397.92,
         "end_seconds": 402.18,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Nineteen senators present, the Chair declares the presence of a quorum.",
         "confidence": 0.9006791548295454,
         "editorial_flags": []
@@ -92,7 +92,7 @@
         "stable_id": "S00028",
         "start_seconds": 411.12,
         "end_seconds": 414.18,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "What is the pleasure of Senator Judge Padilla?",
         "confidence": 0.9580078125,
         "editorial_flags": []
@@ -119,7 +119,7 @@
         "stable_id": "S00032",
         "start_seconds": 420.82,
         "end_seconds": 422.1,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Magandang hapon din po.",
         "confidence": 0.9978434244791667,
         "editorial_flags": []
@@ -137,7 +137,7 @@
         "stable_id": "S00034",
         "start_seconds": 591.0,
         "end_seconds": 596.16,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "The manifestation of Senator Judge Padilla is noted. What is the pleasure of Senator Judge",
         "confidence": 0.97158203125,
         "editorial_flags": []
@@ -155,7 +155,7 @@
         "stable_id": "S00038",
         "start_seconds": 672.01,
         "end_seconds": 676.05,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Judge Cayetano may make his manifestation, for the record, sir.",
         "confidence": 0.9902506510416667,
         "editorial_flags": []
@@ -269,7 +269,7 @@
         "stable_id": "S00060",
         "start_seconds": 1349.11,
         "end_seconds": 1356.09,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "you, Senator Judge Alan Cayetano. Yes, what is the pleasure of Senator Judge Pia Cayetano?",
         "confidence": 0.9833062065972222,
         "editorial_flags": []
@@ -332,7 +332,7 @@
         "stable_id": "S00069",
         "start_seconds": 1642.99,
         "end_seconds": 1662.03,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Chair grants the motion of Senator Pia in order for us to be able to move on with the matter on hand for today, which is the oral arguments of the parties. Chair therefore instructs the tech to kindly play the one-minute video. Senator-Judge Pangilinan is recognized.",
         "confidence": 0.97393798828125,
         "editorial_flags": []
@@ -350,7 +350,7 @@
         "stable_id": "S00071",
         "start_seconds": 1694.03,
         "end_seconds": 1702.98,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "We thank the understanding and magnanimity of Senator Judge Pangilinan. The tech is instructed to play the more or less one minute video.",
         "confidence": 0.9285393314085144,
         "editorial_flags": []
@@ -359,7 +359,7 @@
         "stable_id": "S00072",
         "start_seconds": 1705.4,
         "end_seconds": 1708.5,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Alluded to and requested by Sen. Judge P.",
         "confidence": 0.8671875,
         "editorial_flags": []
@@ -380,7 +380,7 @@
         "stable_id": "S00109B",
         "start_seconds": 1859.6,
         "end_seconds": 1862.23,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Senator-Judge Pia Cayetano is recognized.",
         "confidence": null,
         "editorial_flags": []
@@ -472,7 +472,7 @@
         "stable_id": "S00123",
         "start_seconds": 2025.77,
         "end_seconds": 2030.31,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Thank you, Senator Judge Villa. What is the pleasure of Senator Judge Alan Gaetano? I",
         "confidence": 0.9634847005208333,
         "editorial_flags": []
@@ -490,7 +490,7 @@
         "stable_id": "S00125",
         "start_seconds": 2073.83,
         "end_seconds": 2077.39,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "We have not yet called the journal and called the court.",
         "confidence": 0.9532137784090909,
         "editorial_flags": []
@@ -508,7 +508,7 @@
         "stable_id": "S00127",
         "start_seconds": 2080.35,
         "end_seconds": 2081.79,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Yes, you may do so at the proper time.",
         "confidence": 0.9989149305555556,
         "editorial_flags": []
@@ -517,7 +517,7 @@
         "stable_id": "S00128",
         "start_seconds": 2084.69,
         "end_seconds": 2103.18,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Proceeding now, if there are no objections, the presiding officer will dispense with the reading of the July 14, 2026 Journal of the Senate, setting as an impeachment court, and shall consider the same as approved. Clerk of court will please call the matter before the impeachment court.",
         "confidence": 0.961637708875868,
         "editorial_flags": []
@@ -535,7 +535,7 @@
         "stable_id": "S00130",
         "start_seconds": 2110.54,
         "end_seconds": 2111.98,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Appearances for the parties.",
         "confidence": 0.9944661458333334,
         "editorial_flags": []
@@ -562,7 +562,7 @@
         "stable_id": "S00133",
         "start_seconds": 2136.2,
         "end_seconds": 2158.87,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Before recognizing the counsel for the prosecution for their 15 minutes for... Their presentation and oral argument in relation to their motions for the issuance of subpoena for bank, AMLC, and BIR records. Chair would like to recognize Senator Judge Alan Cayetano for his manifestation earlier. Alan?",
         "confidence": 0.9627624944592199,
         "editorial_flags": []
@@ -571,7 +571,7 @@
         "stable_id": "S00134",
         "start_seconds": 2161.7799999999997,
         "end_seconds": 2165.9,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "The Senator Judge intimated earlier that he had a manifestation before we proceeded.",
         "confidence": 0.9982346754807693,
         "editorial_flags": []
@@ -616,7 +616,7 @@
         "stable_id": "S00140",
         "start_seconds": 2347.45,
         "end_seconds": 2446.45,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Chair notes the observation of Senator Judge Alan Cayetano. However, subject of course to any agreements that will be arrived at in caucus, we are constrained by the motions filed by the parties. There are only two pending motions that this Court should act upon. Number one, a motion for the issuance of a subpoena with respect to bank and AMLC records on the one hand. And number two, a motion for the issuance of subpoena for BIR records. Understandably, there are sub-issues underneath each. But we cannot put a vote each and every sub-issue under each motion. So we will most likely, the Chair would suggest, put it to a vote. By the motions that have been filed by the parties, whether or not to grant it or to deny the motion filed by the prosecutors in this case. Subject, of course, any agreements we might arrive at in caucus, Senator-Judge Alan. And the chair will submit to that. Now, as earlier agreed in yesterday's proceedings, the prosecution will be given 15 minutes for their chief arguments. Likewise, the respondent will be given 15 minutes. And then thereafter, the prosecutor will be given 10 minutes by way of rebuttal and the respondent will be given 10 minutes by way of surrebuttal. May I ask who among the prosecutors or counsel for prosecutors will argue the motion for the issuance of the subpoenas for bank, AMLC, and BIR records?",
         "confidence": 0.9634621283972051,
         "editorial_flags": []
@@ -634,7 +634,7 @@
         "stable_id": "S00142",
         "start_seconds": 2461.44,
         "end_seconds": 2468.06,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "The lead prosecutor may proceed. This is pertaining to the matter on hand.",
         "confidence": 0.9898587740384616,
         "editorial_flags": []
@@ -652,7 +652,7 @@
         "stable_id": "S00144",
         "start_seconds": 2474.18,
         "end_seconds": 2478.2799999999997,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Can we discuss that later before we adjourn, lead prosecutor?",
         "confidence": 0.936376953125,
         "editorial_flags": []
@@ -670,7 +670,7 @@
         "stable_id": "S00146",
         "start_seconds": 2479.76,
         "end_seconds": 2482.74,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Thank you. On the part of the respondent, As",
         "confidence": 0.890380859375,
         "editorial_flags": []
@@ -688,7 +688,7 @@
         "stable_id": "S00147B",
         "start_seconds": 2486.84,
         "end_seconds": 2490.27,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "For the record, kindly state your full name, Atty. Poa.",
         "confidence": null,
         "editorial_flags": []
@@ -717,7 +717,7 @@
         "stable_id": "S00148",
         "start_seconds": 2499.44,
         "end_seconds": 2516.23,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "For the prosecutors, the Honorable Representative from the Akbayan party-list, Chel Diokno, is recognized for his oral arguments on the twin motions that they filed. You are recognized, sir, and you may proceed when you are ready. You have 15 minutes.",
         "confidence": 0.9493626185825893,
         "editorial_flags": [
@@ -815,7 +815,7 @@
         "stable_id": "S00159",
         "start_seconds": 3320.51,
         "end_seconds": 3335.17,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "We will try to do that, Your Honor. You have 1 minute and 39 seconds. And if at all we do so, we shall equally credit it. To the Sir Rebuttal, if any, of the Council for Respondents.",
         "confidence": 0.9499629505893639,
         "editorial_flags": []
@@ -824,7 +824,7 @@
         "stable_id": "S00161",
         "start_seconds": 3335.89,
         "end_seconds": 3344.32,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Atty. Poa, if you are ready, you are recognized to respond to the statements of Congressman Diokno. You have 15 minutes.",
         "confidence": 0.9609810965401786,
         "editorial_flags": [
@@ -924,7 +924,7 @@
         "stable_id": "S00213",
         "start_seconds": 4076.72,
         "end_seconds": 4090.94,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "The gentleman still has two minutes and 48 seconds, which we shall credit, similar to the request of the prosecutor, to your surrebuttal, should you desire to use it, counsel for the respondent.",
         "confidence": 0.8646886488970589,
         "editorial_flags": [
@@ -944,7 +944,7 @@
         "stable_id": "S00215",
         "start_seconds": 4092.2,
         "end_seconds": 4111.82,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Counsel for the—rather, the prosecutor is recognized, Atty. Chel Diokno. You have 11.38 minutes, which we will round off to 12 minutes. Counsel, you may proceed when you're ready for your rebuttal.",
         "confidence": 0.95556640625,
         "editorial_flags": [
@@ -1004,7 +1004,7 @@
         "stable_id": "S00224",
         "start_seconds": 4667.16,
         "end_seconds": 4677.96,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Thank you, Representative, the Honorable Chel Diokno. Atty. Poa, counsel for respondent is recognized for his rebuttal. Sir, you have 13 minutes.",
         "confidence": 0.8782039034193841,
         "editorial_flags": []
@@ -1033,7 +1033,7 @@
         "stable_id": "S00227",
         "start_seconds": 4969.16,
         "end_seconds": 5010.67,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Bago mag-recess ang Senator-Judges para mag-usap sa caucus, nais kong sambitin sa record na binabati ko ang magkabilang panig, partikular si Congressman, the Honorable Chel Diokno, gayon din si Atty. Poa, sa isang mahinahon, malumanay, maginoo, at magalang na diskurso at debate kaugnay sa maituturing nating kontrobersyal na isyung ito. At inaasahan ko, iyan din ang magaganap sa caucus at sa aming pagbabalik matapos nito. Senator-Judge Alan Cayetano is recognized.",
         "confidence": 0.9118991427951391,
         "editorial_flags": [
@@ -1053,7 +1053,7 @@
         "stable_id": "S00229",
         "start_seconds": 5038.36,
         "end_seconds": 5042.04,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "I'm sure they will. They were in fact on the verge of announcing it.",
         "confidence": 0.9300537109375,
         "editorial_flags": []
@@ -1071,7 +1071,7 @@
         "stable_id": "S00231",
         "start_seconds": 5079.28,
         "end_seconds": 5096.02,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "We will hear the lead prosecutor. However, Senator Judge Cayetano, it is the predisposition of the presiding officer, given that we don't have any witnesses today to settle this matter and this issue today. It's the only matter for us to discuss anyway.",
         "confidence": 0.9679683714874031,
         "editorial_flags": []
@@ -1089,7 +1089,7 @@
         "stable_id": "S00233",
         "start_seconds": 5141.53,
         "end_seconds": 5170.42,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "To answer the senator-judge, we have a precedent that I think if I remember correctly, it involves the good gentleman himself. When then-senate president Enrile made a ruling with respect to the request for the issuance of a subpoena against the former Chief Justice Corona and his family. The gentleman agreed with respect to not issuing the subpoena against the Chief Justice, but disagreed with respect to not issuing with the family. I",
         "confidence": 0.9497743055555556,
         "editorial_flags": []
@@ -1118,7 +1118,7 @@
         "stable_id": "S00238B",
         "start_seconds": 5270.24,
         "end_seconds": 5271.75,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "With the permission of Senator-Judge Alan, can we discuss that in caucus?",
         "confidence": null,
         "editorial_flags": [
@@ -1140,7 +1140,7 @@
         "stable_id": "S00240",
         "start_seconds": 5283.92,
         "end_seconds": 5288.73,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "No, not at this time. We can advise them at the appropriate time. Senator-Judge Pangilinan.",
         "confidence": 0.99609375,
         "editorial_flags": [
@@ -1160,7 +1160,7 @@
         "stable_id": "S00244",
         "start_seconds": 5305.59,
         "end_seconds": 5308.53,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Umaasa pa rin ako na magiging mahinahon yung caucus.",
         "confidence": 0.9322464554398149,
         "editorial_flags": []
@@ -1169,7 +1169,7 @@
         "stable_id": "S00245",
         "start_seconds": 5311.12,
         "end_seconds": 5330.88,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Chair declares a recess. We will advise the parties as to what time we will most likely finish once we know that we are in the process of winding up. In the meantime, kindly relax and study the next witnesses you will be presenting. Trial is on recess.",
         "confidence": 0.9781239827473959,
         "editorial_flags": []
@@ -1178,7 +1178,7 @@
         "stable_id": "S00247",
         "start_seconds": 10981.04,
         "end_seconds": 11028.48,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "For the information of the parties as well as the viewing public, in caucus the senator judges agreed to study the matter more given that not everyone has actually completed reading the memoranda given by the parties and submitted by the parties and given that they want more time to look into the complicated issues involved in these two motions for the issuance of subpoena. The Senator-Judges agreed in caucus to decide on the matter on Monday, and that on Monday, Senator-Judges who wish to ask the parties questions will be afforded the time to ask these questions again on both sides.",
         "confidence": 0.9490647379557292,
         "editorial_flags": []
@@ -1187,7 +1187,7 @@
         "stable_id": "S00248",
         "start_seconds": 11030.2,
         "end_seconds": 11057.29,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Following our rules, it shall be 10 minutes per Senator, not exceeding one hour for each side. At this juncture, we now recognize the lead prosecutor, the Honorable Luistro. As I understand, she intended earlier to make a manifestation with respect to their intended witnesses on Monday. Kindly already exclude Monday, Honorable Luistro.",
         "confidence": 0.9615382548398191,
         "editorial_flags": []
@@ -1268,7 +1268,7 @@
         "stable_id": "S00260",
         "start_seconds": 11452.71,
         "end_seconds": 11458.89,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "To clarify, Hon. Luistro, this is for the issuance of subpoena ad testificandum only?",
         "confidence": 0.9020715441022601,
         "editorial_flags": []
@@ -1286,7 +1286,7 @@
         "stable_id": "S00262",
         "start_seconds": 11472.38,
         "end_seconds": 11494.62,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Kindly submit, in writing the motion, in order to be able to specify the documents you want to be the subject matter of the subpoena duces tecum. We will await it within the afternoon, even after adjournment, so that we can sign the subpoena by today or tomorrow, the latest.",
         "confidence": 0.9886914062499998,
         "editorial_flags": []
@@ -1304,7 +1304,7 @@
         "stable_id": "S00264",
         "start_seconds": 11509.96,
         "end_seconds": 11511.98,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "stand corrected. Yes, I have it with me now.",
         "confidence": 0.9998914930555556,
         "editorial_flags": []
@@ -1322,7 +1322,7 @@
         "stable_id": "S00266",
         "start_seconds": 11535.54,
         "end_seconds": 11606.07,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Counsel, before going there, let the Presiding Officer act on these requests for issuance of subpoena first. The Presiding Officer hereby grants the request for issuance of subpoena ad testificandum to Ms. Marivic Pareja, to appear on July 21 and 22; to Ms. Violeta Constantino and Nenita Camposano, also subpoena ad testificandum to appear on July 21 and 22; and subpoena duces tecum to Ms. Lynette Ortiz of the Land Bank of the Philippines, to appear on July 21 and 22. The afore-stated requests for subpoena are hereby granted. The Clerk of Court is directed to prepare the corresponding subpoena ad testificandum or duces tecum, as the case may be, and for the Sergeant-at-Arms to be instructed to serve the foregoing subpoenas. As you were saying, Honorable—",
         "confidence": 0.9042638142903647,
         "editorial_flags": [
@@ -1344,7 +1344,7 @@
         "stable_id": "S00269",
         "start_seconds": 11622.25,
         "end_seconds": 11654.07,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "what is this about um i think if i remember correctly um um representative luistro the presiding officer stated that also yesterday that there are only certain private crimes that require um the complaint of uh of the victim and these mostly are um Private and sexual crimes such as concubinage, adultery, seduction, abduction, rape, and acts of lasciviousness. These are the only private crimes that require the signature or complaint of the private complainant.",
         "confidence": 0.9567670355902778,
         "editorial_flags": []
@@ -1362,7 +1362,7 @@
         "stable_id": "S00271",
         "start_seconds": 11671.11,
         "end_seconds": 11671.71,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Noted.",
         "confidence": 0.9990234375,
         "editorial_flags": []
@@ -1380,7 +1380,7 @@
         "stable_id": "S00273",
         "start_seconds": 11674.76,
         "end_seconds": 11679.48,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Before recognizing the counsel for respondents, Senator Judge Aquino is recognized.",
         "confidence": 0.8642578125,
         "editorial_flags": []
@@ -1398,7 +1398,7 @@
         "stable_id": "S00277",
         "start_seconds": 11705.32,
         "end_seconds": 11707.98,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Not a point of order, but perhaps a clarification.",
         "confidence": 0.9284125434027778,
         "editorial_flags": []
@@ -1407,7 +1407,7 @@
         "stable_id": "S00279",
         "start_seconds": 11708.12,
         "end_seconds": 11725.64,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "But the answer is yes. We will first finish the presentation of the prosecution for all articles before listening and allowing the respondent to present their evidence in chief for all the articles as well. Thereafter, we shall decide by article.",
         "confidence": 0.986431884765625,
         "editorial_flags": []
@@ -1416,7 +1416,7 @@
         "stable_id": "S00280",
         "start_seconds": 11727.71,
         "end_seconds": 11734.25,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "After the formal offer of evidence by both parties shall have been made and the final arguments shall have been made of record as well.",
         "confidence": 0.90736328125,
         "editorial_flags": []
@@ -1425,7 +1425,7 @@
         "stable_id": "S00282",
         "start_seconds": 11734.33,
         "end_seconds": 11734.37,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "All right.",
         "confidence": 0.9970703125,
         "editorial_flags": []
@@ -1443,7 +1443,7 @@
         "stable_id": "S00284",
         "start_seconds": 11736.07,
         "end_seconds": 11738.95,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Council, for the respondent is recognized. What is your pleasure, ma'am?",
         "confidence": 0.9361165364583334,
         "editorial_flags": []
@@ -1461,7 +1461,7 @@
         "stable_id": "S00286",
         "start_seconds": 11741.25,
         "end_seconds": 11741.67,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "afternoon, ma'am.",
         "confidence": 0.9991861979166666,
         "editorial_flags": []
@@ -1479,7 +1479,7 @@
         "stable_id": "S00288",
         "start_seconds": 11777.52,
         "end_seconds": 11781.31,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "And one more—the relative of the family of a victim. That would make it six.",
         "confidence": 0.9619140625,
         "editorial_flags": [
@@ -1555,7 +1555,7 @@
         "stable_id": "S00301",
         "start_seconds": 11987.41,
         "end_seconds": 11995.79,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "No need, counsel. Let the chair react to the statements made by lead counsel for the respondent.",
         "confidence": 0.8807803883272058,
         "editorial_flags": []
@@ -1564,7 +1564,7 @@
         "stable_id": "S00302",
         "start_seconds": 11997.6,
         "end_seconds": 12018.08,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "The presiding officer took the statements as akin to a tender offer of excluded evidence, very similar to that. Although we are not yet at that stage, although evidence has not yet been excluded, the presiding officer took it as that.",
         "confidence": 0.9731028487042683,
         "editorial_flags": []
@@ -1573,7 +1573,7 @@
         "stable_id": "S00303",
         "start_seconds": 12021.34,
         "end_seconds": 12053.6,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Therefore, what is your pleasure? I will give it to the counsel for respondent. Should you decide not to call witnesses in your witness list, do you want the same privilege of being able to make a tender, meaning an explanation of why you won't be calling these witnesses? If not, given the fact that it was given already to the counsel for the, rather to the prosecutors, or we will simply remind Both parties to cease from doing so henceforth.",
         "confidence": 0.9581419391396605,
         "editorial_flags": []
@@ -1591,7 +1591,7 @@
         "stable_id": "S00305",
         "start_seconds": 12054.76,
         "end_seconds": 12056.32,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "give you the Equal Opportunity Council.",
         "confidence": 0.9758707682291666,
         "editorial_flags": []
@@ -1642,7 +1642,7 @@
         "stable_id": "S00309",
         "start_seconds": 12213.96,
         "end_seconds": 12214.04,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "So noted.",
         "confidence": 0.42310047149658203,
         "editorial_flags": []
@@ -1651,7 +1651,7 @@
         "stable_id": "S00310",
         "start_seconds": 12214.05,
         "end_seconds": 12221.53,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "As the Court said, it is akin to and not exactly a tender offer. Therefore, the Court will now remind both parties to kindly limit.",
         "confidence": 0.9427734375,
         "editorial_flags": []
@@ -1660,7 +1660,7 @@
         "stable_id": "S00311",
         "start_seconds": 12223.21,
         "end_seconds": 12242.77,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Any such manifestations on the withdrawal of their witnesses to kindly limit it to the withdrawal of such witnesses, and it applies to both sides, both the prosecution and the respondent side, should that time come on the part of the respondent. So ordered. Any other matters to be taken up?",
         "confidence": 0.9395919500612745,
         "editorial_flags": []
@@ -1678,7 +1678,7 @@
         "stable_id": "S00313",
         "start_seconds": 12247.43,
         "end_seconds": 12248.49,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Quick manifestation,",
         "confidence": 0.997314453125,
         "editorial_flags": []
@@ -1696,7 +1696,7 @@
         "stable_id": "S00315",
         "start_seconds": 12249.369999999999,
         "end_seconds": 12250.45,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "sorry? Quick",
         "confidence": 0.999267578125,
         "editorial_flags": []
@@ -1714,7 +1714,7 @@
         "stable_id": "S00317",
         "start_seconds": 12252.01,
         "end_seconds": 12253.31,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Just to",
         "confidence": 0.655517578125,
         "editorial_flags": []
@@ -1732,7 +1732,7 @@
         "stable_id": "S00319",
         "start_seconds": 12256.03,
         "end_seconds": 12257.83,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Nice ko",
         "confidence": 0.2472381591796875,
         "editorial_flags": []
@@ -1750,7 +1750,7 @@
         "stable_id": "S00321",
         "start_seconds": 12290.5,
         "end_seconds": 12295.15,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Noted. Court already made a ruling. Senator Judge Gaetano?",
         "confidence": 0.9654405381944444,
         "editorial_flags": []
@@ -1786,7 +1786,7 @@
         "stable_id": "S00327",
         "start_seconds": 12459.42,
         "end_seconds": 12469.08,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "As ruled by the Presiding Officer, henceforth, that will no longer be allowed. Senator Judge Pangilin, before Senator Judge Pia Cayetano.",
         "confidence": 0.8996872674851192,
         "editorial_flags": []
@@ -1826,7 +1826,7 @@
         "stable_id": "S00340",
         "start_seconds": 12575.46,
         "end_seconds": 12605.51,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "We thank the good gentleman for his understanding and magnanimity. Given that counsel for respondent did not want the same benefit, it also saves on the Court's time. And as pointed out by Senator-Judge Alan, these words can be best expressed outside this Court so that we can manage the Court's time better, given that both parties have their respective spokespersons to discuss these matters. Counsel for respondent, you wanted to be recognized?",
         "confidence": 0.9824521019345239,
         "editorial_flags": [
@@ -1877,7 +1877,7 @@
         "stable_id": "S00350",
         "start_seconds": 12707.46,
         "end_seconds": 12711.16,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Noted. Senator-Judge Pia Cayetano is recognized. What is your pleasure, ma'am?",
         "confidence": 0.25537109375,
         "editorial_flags": []
@@ -1955,7 +1955,7 @@
         "stable_id": "S00400",
         "start_seconds": 12921.76,
         "end_seconds": 12947.19,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Chair, in humility, accepts the presiding officer's lapses in this regard, as twice pointed out by Senator-Judge Pia Cayetano already. The chair will be more mindful in the future, but I also ask the parties to also be equally. In case the Chair forgets or is unable to point it out on the part of either party, should this happen again. Any other points?",
         "confidence": 0.9430304111578527,
         "editorial_flags": []
@@ -1973,7 +1973,7 @@
         "stable_id": "S00402",
         "start_seconds": 12947.71,
         "end_seconds": 12961.53,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "last manifestation from the Honorable Luistro without prejudice to another manifestation from Council for Responding.",
         "confidence": 0.8766167534722221,
         "editorial_flags": []
@@ -1991,7 +1991,7 @@
         "stable_id": "S00406",
         "start_seconds": 13046.86,
         "end_seconds": 13049.52,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "noted and the ruling of the court stands on the matter",
         "confidence": 0.9218084161931818,
         "editorial_flags": []
@@ -2009,7 +2009,7 @@
         "stable_id": "S00408",
         "start_seconds": 13083.42,
         "end_seconds": 13088.92,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "Same answer noted and the court stands by its ruling. Any other matters to be taken up from the senator judges?",
         "confidence": 0.8971063523065477,
         "editorial_flags": []
@@ -2018,7 +2018,7 @@
         "stable_id": "S00409",
         "start_seconds": 13091.25,
         "end_seconds": 13100.07,
-        "speaker": "Sen. Francis “Chiz” Escudero",
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
         "text": "There being none, no other business to be taken up, the trial is hereby adjourned until 2 p.m. of Monday, July 20, 2026.",
         "confidence": 0.9922383626302084,
         "editorial_flags": []

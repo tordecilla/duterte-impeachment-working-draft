@@ -23,22 +23,22 @@ Roll call of members, the Honorable Senator Judge Aquino. Senator Judge Cayetano
 **[00:06:10.840] Sen. Sherwin T. Gatchalian**  
 14 center judges present, the chair declares the presence of a quorum. In accordance with the rules of procedure on impeachment trials, the chair now recognizes the duly elected presiding officer to preside. over the proceedings of the impeachment court.
 
-**[00:06:27.160] Sen. Francis “Chiz” Escudero**  
+**[00:06:27.160] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Mr. Senate President. Magandang maga po sa ating lahat. If there are no objections, the Chair shall dispense with the reading of the Journal of the Senate sitting as an impeachment court dated July 22, 2026 and shall consider the same as approved.
 
-**[00:06:47.630] Sen. Francis “Chiz” Escudero**  
+**[00:06:47.630] Sen. Francis "Chiz" G. Escudero**  
 The Clerk of Court will please call the case before the impeachment court.
 
 **[00:06:51.170] Atty. Renato N. Bantug Jr.**  
 Case number 004-2026 in the matter of impeachment trial of Vice President Zara Zimmerman Duterte.
 
-**[00:06:59.000] Sen. Francis “Chiz” Escudero**  
+**[00:06:59.000] Sen. Francis "Chiz" G. Escudero**  
 Appearances?
 
 **[00:07:03.730] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Good morning, Your Honor. Respectfully appearing for the prosecution, we are ready, Your Honor, for the presentation of our initial witnesses for Article 1, that is confidential fund misuse, misappropriation, and irregular liquidation.
 
-**[00:07:19.590] Sen. Francis “Chiz” Escudero**  
+**[00:07:19.590] Sen. Francis "Chiz" G. Escudero**  
 Good morning. Appearances for the respondent?
 
 **[00:07:21.680] Atty. Michael Wesley Poa**  
@@ -47,13 +47,13 @@ Good morning, Your Honor. Same appearances for the respondent
 **[00:07:24.170] Atty. Michael Wesley Poa**  
 accused.
 
-**[00:07:24.500] Sen. Francis “Chiz” Escudero**  
+**[00:07:24.500] Sen. Francis "Chiz" G. Escudero**  
 Good morning as well. Will the lead prosecutor kindly call their first witness for this morning?
 
 **[00:07:31.150] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I request that the head prosecutor of Article 1 Confidential Fund, the Honorable Joel Chua, be recognized, Your Honor.
 
-**[00:07:39.970] Sen. Francis “Chiz” Escudero**  
+**[00:07:39.970] Sen. Francis "Chiz" G. Escudero**  
 The Honorable Chua, a member of the panel of prosecutors, is recognized to call their first witness to the stand.
 
 **[00:07:53.930] Rep. Joel R. Chua**  
@@ -62,40 +62,40 @@ Good morning, Your Honor.
 **[00:07:58.180] Rep. Joel R. Chua**  
 Your Honor, same appearance for the prosecution. Your Honor, may we be given a five-minute opening statement. May we request... Representative Laila de Lima to be recognized by the Chair, Your Honor.
 
-**[00:08:13.380] Sen. Francis “Chiz” Escudero**  
+**[00:08:13.380] Sen. Francis "Chiz" G. Escudero**  
 The Chair would like to remind the Honorable de Lima if indeed she will make an opening statement to kindly avoid conclusions of both fact and law as we have previously agreed upon and raised by the defense in previous hearings and as pointed out by several Senator judges. With that conditionality, the Honorable de Lima may proceed with
 
 **[00:08:33.000] Atty. Michael Wesley Poa**  
 her opening statement. Your Honor, may we comment on that matter?
 
-**[00:08:37.420] Sen. Francis “Chiz” Escudero**  
+**[00:08:37.420] Sen. Francis "Chiz" G. Escudero**  
 Yes, what is the pleasure of Attorney
 
 **[00:08:41.080] Atty. Michael Wesley Poa**  
 Paul? Your Honor, I'd like to apologize for having to comment on this matter, but as far as I recall, the presiding officer already made a ruling before against opening statements, Your Honors.
 
-**[00:08:52.660] Sen. Francis “Chiz” Escudero**  
+**[00:08:52.660] Sen. Francis "Chiz" G. Escudero**  
 Again, I will be very conscious, Honorable Delima, with respect to statements of fact and law that are not coming out from the mouth of any witnesses you will be presenting. So kindly...
 
-**[00:09:06.600] Sen. Francis “Chiz” Escudero**  
+**[00:09:06.600] Sen. Francis "Chiz" G. Escudero**  
 Be precise and short with respect to your opening statements. You may proceed, ma'am, subject to those reminders.
 
 **[00:09:14.210] Rep. Leila M. de Lima**  
 Thank you, Mr. Presiding Officer. This is about five minutes or a little more than five minutes. Mr. Senate President, Mr. Presiding Officer, Honorable Senator Judges, mga kababayan, magandang umaga po. Sa ating pagbabudget para sa pamilya, Dahil hindi naman only ang pera, masinop ang ating paggasta sa talagang kailangan at kapagipaginabang natin nilalaan. Ganyan din dapat sa pondo ng bayan. Sa yugtong ito ng paglilitis, pagbuusapan natin ang confidential funds. Ito ang budget para sa mga sensitibo at surveillance-related activities upang suportahan ang mandato ng mga civilian agencies. That a budget is intended for confidential operations does not mean that the conduct of the officials involved in the handling of people's money is exempted from the demands of transparency, scrutiny, and accountability. Public office is a public trust. Yan ang sabi ng Constitution. Sakop nito ang lahat na nasa gobyerno. At ang utos na yan ay hindi pwedeng... Balawalain dahil confidential lang o confidential ang pondo. Ang confidentiality ay para potektahan ang legitimate operasyon at informant. Hindi ito pa hintulot para mag-imbento ng pangalan at dokumento. Hindi ito pa lusot para ibulsa ang pera. Kung confidential ang pondo, lalo pa nga mataas ang pananagutang kaagibat nito. The Constitution entrusts this court with the solemn duty to determine whether the responded Vice President committed culpable violation of the Constitution, graft and corruption, and betrayal of public trust. The evidence will show that she did. This case, Article 1, is about 612.5 million in confidential funds entrusted to VP Sara Duterte. through the Office of the President and the Department of Education. This is not about one missing receipt. This is not about a clerical error or accounting mistake. The evidence will reveal a pattern, a systemic course of conduct that, taken as a whole, demonstrates graft and corruption and betrayal of public trust.
 
-**[00:11:46.180] Sen. Francis “Chiz” Escudero**  
+**[00:11:46.180] Sen. Francis "Chiz" G. Escudero**  
 With the permission of the Honorable Dilema,
 
-**[00:11:50.040] Sen. Francis “Chiz” Escudero**  
+**[00:11:50.040] Sen. Francis "Chiz" G. Escudero**  
 Yes, Counsel for Respondent.
 
 **[00:11:52.080] Atty. Michael Wesley Poa**  
 Again, Your Honors, I think we have to object to the statements being made by the Honorable Dilema with all due respect, of course. Your Honors, they can do that through the offer of their evidence, Your Honor.
 
-**[00:12:02.840] Sen. Francis “Chiz” Escudero**  
+**[00:12:02.840] Sen. Francis "Chiz" G. Escudero**  
 Chair will instruct
 
-**[00:12:03.960] Sen. Francis “Chiz” Escudero**  
+**[00:12:03.960] Sen. Francis "Chiz" G. Escudero**  
 the Honorable Delima to kindly limit her statements. I was listening intently in the beginning. It was okay, Honorable Delima. But later on, you did make conclusions of law already, which the Chair orders to be stricken from the record. You may wind up, Honorable Delima, but kindly avoid conclusions of fact and law. Your Honors, please. If I may just be given
 
 **[00:12:24.660] Atty. Michael Wesley Poa**  
@@ -107,7 +107,7 @@ a
 **[00:12:24.980] Atty. Michael Wesley Poa**  
 few seconds. Your Honors, ang naging problema natin noong huling pagkakataon na pinayagan natin yung ganitong statement, At nasabi na nga ng presiding officer is kahit naman i-strike off the record natin, e narinig na po at nasabi na. So to allow your honors, again, a continuation of such, this really goes into the matter of fair play, Your Honor.
 
-**[00:12:50.420] Sen. Francis “Chiz” Escudero**  
+**[00:12:50.420] Sen. Francis "Chiz" G. Escudero**  
 Honorable Delima, kindly wind up. Again, you were forewarned beforehand to kindly limit your statements. Hence, you are faced again with a similar situation. Kindly wind up, Honorable Delima, and call your witness.
 
 **[00:13:00.900] Rep. Leila M. de Lima**  
@@ -122,7 +122,7 @@ this is supposed to be an overview of the
 **[00:13:08.760] Rep. Leila M. de Lima**  
 case, the overview of the evidence. To
 
-**[00:13:11.540] Sen. Francis “Chiz” Escudero**  
+**[00:13:11.540] Sen. Francis "Chiz" G. Escudero**  
 let the witnesses speak, not the counsels insofar as the evidence is concerned or conclusions of both fact and law. Kindly wind up, Honorable Lima.
 
 **[00:13:21.140] Rep. Leila M. de Lima**  
@@ -140,40 +140,40 @@ Kapag ang isang impeachable officer tulad ng pangalawang Pangulo ay nabuso ang k
 **[00:14:14.570] Rep. Leila M. de Lima**  
 I
 
-**[00:14:14.590] Sen. Francis “Chiz” Escudero**  
+**[00:14:14.590] Sen. Francis "Chiz" G. Escudero**  
 would have to stop you at this point. The continuing objection of the respondent is duly noted. I would have to stop you at this point. My
 
 **[00:14:24.090] Rep. Leila M. de Lima**  
 due apologies,
 
-**[00:14:25.190] Sen. Francis “Chiz” Escudero**  
+**[00:14:25.190] Sen. Francis "Chiz" G. Escudero**  
 but kindly call your witness already.
 
 **[00:14:27.190] Rep. Leila M. de Lima**  
 Thank you, Your Honors. I submit. Thank you very much.
 
-**[00:14:30.330] Sen. Francis “Chiz” Escudero**  
+**[00:14:30.330] Sen. Francis "Chiz" G. Escudero**  
 Kindly call your witness, Representative Chua.
 
 **[00:14:36.590] Rep. Joel R. Chua**  
 Thank you, Your Honor. Your Honor, we are going to present our first witness in the person of Ms. Violeta Constantino.
 
-**[00:14:47.040] Sen. Francis “Chiz” Escudero**  
+**[00:14:47.040] Sen. Francis "Chiz" G. Escudero**  
 The Clerk of Court, through the Sergeant-at-Arms, is instructed to situate Ms. Violeta Constantino to the witness stand.
 
-**[00:15:05.020] Sen. Francis “Chiz” Escudero**  
+**[00:15:05.020] Sen. Francis "Chiz" G. Escudero**  
 Kindly remain standing, ma'am. Clerk of Court is directed to administer the oath to the witness.
 
 **[00:15:12.670] Atty. Renato N. Bantug Jr.**  
 Please raise your right hand, ma'am. You, Violeta Constantino, to swear. that the evidence you shall give in the case now pending between the Philippines and Vice President Sarah Zimmerman Duterte shall be the truth, the whole truth, and nothing but the truth. So help you God.
 
-**[00:15:33.250] Sen. Francis “Chiz” Escudero**  
+**[00:15:33.250] Sen. Francis "Chiz" G. Escudero**  
 Kindly be seated, ma'am.
 
 **[00:15:36.100] Rep. Joel R. Chua**  
 May I proceed, Your Honor?
 
-**[00:15:37.560] Sen. Francis “Chiz” Escudero**  
+**[00:15:37.560] Sen. Francis "Chiz" G. Escudero**  
 You may proceed, Council, when
 
 **[00:15:41.840] Rep. Joel R. Chua**  
@@ -215,13 +215,13 @@ Ito yung panghuli.
 **[00:19:24.180] Rep. Joel R. Chua**  
 Kaanim, iba pang mga bagay-bagay na may kinalaman dito sa impeachment case in relation to Article 1 on confidential funds and in relation to the aforementioned purposes, Your Honor.
 
-**[00:19:40.920] Sen. Francis “Chiz” Escudero**  
+**[00:19:40.920] Sen. Francis "Chiz" G. Escudero**  
 Before the comment, what is the third purpose for the offer again?
 
 **[00:19:46.950] Rep. Joel R. Chua**  
 Your Honor, that all were funded by the Philippine Treasury and drawn against the account of the Office of the Vice President.
 
-**[00:19:57.760] Sen. Francis “Chiz” Escudero**  
+**[00:19:57.760] Sen. Francis "Chiz" G. Escudero**  
 Thank you. Comment from the Council of Respondents?
 
 **[00:20:00.480] Atty. Michael Wesley Poa**  
@@ -230,7 +230,7 @@ Subject to cross, Your Honor.
 **[00:20:07.330] Rep. Joel R. Chua**  
 May we proceed now, Your Honor?
 
-**[00:20:08.720] Sen. Francis “Chiz” Escudero**  
+**[00:20:08.720] Sen. Francis "Chiz" G. Escudero**  
 You may proceed when you're ready.
 
 **[00:20:10.950] Rep. Joel R. Chua**  
@@ -332,34 +332,34 @@ Okay. Madam Witness.
 **[00:24:41.520] Rep. Joel R. Chua**  
 Your Honor.
 
-**[00:24:48.950] Sen. Francis “Chiz” Escudero**  
+**[00:24:48.950] Sen. Francis "Chiz" G. Escudero**  
 Yes, Counsel for Responder, Attorney Paul. What is your pleasure?
 
 **[00:24:52.220] Atty. Michael Wesley Poa**  
 Just to expedite the proceedings, Your Honor, we are willing to stipulate that the witness has the ability to identify these checks.
 
-**[00:25:01.480] Sen. Francis “Chiz” Escudero**  
+**[00:25:01.480] Sen. Francis "Chiz" G. Escudero**  
 Okay.
 
 **[00:25:01.980] Atty. Michael Wesley Poa**  
 Has the ability to identify the checks. And we are also not questioning the authenticity of such checks, Your Honor.
 
-**[00:25:09.080] Sen. Francis “Chiz” Escudero**  
+**[00:25:09.080] Sen. Francis "Chiz" G. Escudero**  
 For the reference of the Senator judges, you're referring, Attorney Poa, to the four checks which are common exhibits of
 
 **[00:25:19.020] Atty. Michael Wesley Poa**  
 both parties. That is correct, Your Honor.
 
-**[00:25:21.180] Sen. Francis “Chiz” Escudero**  
+**[00:25:21.180] Sen. Francis "Chiz" G. Escudero**  
 Can we, just to confirm, Clerk of Court is directed to kindly show on the screen the Checks being stipulated to and admitted by the respondent. It should be exhibit
 
-**[00:25:39.830] Sen. Francis “Chiz” Escudero**  
+**[00:25:39.830] Sen. Francis "Chiz" G. Escudero**  
 P128 to P128A1 for the prosecution and exhibit D1130 and D1130OVP1. Is that it?
 
 **[00:25:54.450] Atty. Michael Wesley Poa**  
 That is correct, Your Honor.
 
-**[00:25:55.800] Sen. Francis “Chiz” Escudero**  
+**[00:25:55.800] Sen. Francis "Chiz" G. Escudero**  
 So this is one of the checks?
 
 **[00:25:57.830] Violeta Constantino**  
@@ -368,13 +368,13 @@ Yes,
 **[00:25:58.470] Violeta Constantino**  
 Your Honor.
 
-**[00:25:59.010] Sen. Francis “Chiz” Escudero**  
+**[00:25:59.010] Sen. Francis "Chiz" G. Escudero**  
 Kindly also show the other exhibits that the respondent is stipulating to so that the senator judges can catch up.
 
-**[00:26:19.670] Sen. Francis “Chiz” Escudero**  
+**[00:26:19.670] Sen. Francis "Chiz" G. Escudero**  
 Given that the respondent stipulated to the aforementioned checks for 125 million each dated December 20, 2022, January 31, 2023, April
 
-**[00:26:38.420] Sen. Francis “Chiz” Escudero**  
+**[00:26:38.420] Sen. Francis "Chiz" G. Escudero**  
 18, 2023, and July 13, 2023, correct?
 
 **[00:26:44.050] Atty. Michael Wesley Poa**  
@@ -383,31 +383,31 @@ That's correct,
 **[00:26:45.110] Atty. Michael Wesley Poa**  
 Your Honor.
 
-**[00:26:46.380] Sen. Francis “Chiz” Escudero**  
+**[00:26:46.380] Sen. Francis "Chiz" G. Escudero**  
 Will you also stipulate, Counsel for Respondent, that these checks were encashed as well?
 
 **[00:26:53.720] Atty. Michael Wesley Poa**  
 Yes, Your Honor. And that these checks were from the Treasury of the Philippines and the payee was Gina Acosta, Your Honor.
 
-**[00:27:03.930] Sen. Francis “Chiz” Escudero**  
+**[00:27:03.930] Sen. Francis "Chiz" G. Escudero**  
 So
 
-**[00:27:04.410] Sen. Francis “Chiz” Escudero**  
+**[00:27:04.410] Sen. Francis "Chiz" G. Escudero**  
 that
 
-**[00:27:04.550] Sen. Francis “Chiz” Escudero**  
+**[00:27:04.550] Sen. Francis "Chiz" G. Escudero**  
 these checks are authentic, that these checks were encashed by Gina Acosta, that these checks cover the face value of 125 million each. encashed on the dates mentioned by the respondent and that it was encashed by Gina Acosta. As
 
 **[00:27:21.780] Atty. Michael Wesley Poa**  
 SDO, Your Honor.
 
-**[00:27:22.720] Sen. Francis “Chiz” Escudero**  
+**[00:27:22.720] Sen. Francis "Chiz" G. Escudero**  
 As SDO.
 
-**[00:27:24.740] Sen. Francis “Chiz” Escudero**  
+**[00:27:24.740] Sen. Francis "Chiz" G. Escudero**  
 Given that the counsel for respondent has stipulated and so admitted these facts, counsel from the panel of prosecutors kindly proceed with the other items given the stipulation by the counsel for respondent. There is no need for the witness to testify in these matters anymore. Thank you, counsel
 
-**[00:27:40.420] Sen. Francis “Chiz” Escudero**  
+**[00:27:40.420] Sen. Francis "Chiz" G. Escudero**  
 for respondent.
 
 **[00:27:41.610] Rep. Joel R. Chua**  
@@ -431,7 +431,7 @@ Sir, pwede po ba ako makahingi ng... Your Honor,
 **[00:28:35.310] Atty. Michael Wesley Poa**  
 Your Honor, may we request...
 
-**[00:28:36.400] Sen. Francis “Chiz” Escudero**  
+**[00:28:36.400] Sen. Francis "Chiz" G. Escudero**  
 Assisting counsel is authorized to approach the witness as well as assisting counsel from the respondent.
 
 **[00:28:42.820] Rep. Joel R. Chua**  
@@ -446,7 +446,7 @@ assisting counsel, Atty.
 **[00:28:45.050] Rep. Joel R. Chua**  
 Christina Pasicolan, will approach the witness. The
 
-**[00:29:02.690] Sen. Francis “Chiz” Escudero**  
+**[00:29:02.690] Sen. Francis "Chiz" G. Escudero**  
 clerk is instructed to kindly magnify the sub-marking being alluded to by the counsel from the panel of prosecutors. Yung nasa baba
 
 **[00:29:15.940] Rep. Joel R. Chua**  
@@ -710,25 +710,25 @@ Nung araw po na-encashment po niya.
 **[00:40:24.860] Rep. Joel R. Chua**  
 Okay. Now, Madam Witness, pupunta na po tayo sa ikatlong cheque. With
 
-**[00:40:30.480] Sen. Francis “Chiz” Escudero**  
+**[00:40:30.480] Sen. Francis "Chiz" G. Escudero**  
 the permission of the Honorable Chua, Attorney Poa, is this part of what you stipulated or no? The verifier's signature, the teller's signature, the approver's signature, as well as the date of encashment. To
 
 **[00:40:45.940] Atty. Michael Wesley Poa**  
 be candid, Your Honor, it wasn't part, but right now, we are willing to stipulate the same.
 
-**[00:40:50.330] Sen. Francis “Chiz” Escudero**  
+**[00:40:50.330] Sen. Francis "Chiz" G. Escudero**  
 So, if you're willing to stipulate, let the presiding officer state it for the record that the signature underneath the, on the dorsal side of the check with number 000024, kindly show it to the screen, 245511 in the amount of 125 million pesos. With the PES Gina F. Acosta dated April 18, 2023, that the signatures of the verifier, the teller, and the approver are all authentic and genuine, and that these were made in the course of their ordinary performance of duties, and the date of encashment is April 25, 2023, correct?
 
 **[00:41:40.200] Atty. Michael Wesley Poa**  
 That's correct.
 
-**[00:41:41.200] Sen. Francis “Chiz” Escudero**  
+**[00:41:41.200] Sen. Francis "Chiz" G. Escudero**  
 And insofar as land bank check number 000024, kindly show it to the screen, 5664, payable to Gina F. Acosta in the amount of 125 million dated July 13, 2023. The signature of the verifier, teller, and approver on the dorsal side are also all authentic and were signed in the course of the performance of their ordinary duties. and that the date of encashment is July 14, 2023, correct?
 
 **[00:42:12.500] Atty. Michael Wesley Poa**  
 Stipulate, Your Honor.
 
-**[00:42:13.800] Sen. Francis “Chiz” Escudero**  
+**[00:42:13.800] Sen. Francis "Chiz" G. Escudero**  
 So stipulated, counsel from the panel of prosecutors, the Honorable Chua, given the stipulation, these are now deemed admissions for the information of the senator judges, and no proof or testimony is necessary to be presented by the panel of prosecutors. You may proceed, Honorable Chua. Okay,
 
 **[00:42:33.840] Rep. Joel R. Chua**  
@@ -743,7 +743,7 @@ that's 1.
 **[00:42:58.900] Rep. Joel R. Chua**  
 For the first check, Your Honor, and for the second check, Your Honor, exhibit P, that's Roman numeral 1, that's 28, that's... B, that's 1. And for the third check, Your Honor, Exhibit P, that's Roman numeral 1, that's 28, that's C, that's 1. And for the fourth check, Your Honor, is Exhibit P, that's Roman numeral 1, that's 28, D, that's 1, Your Honor. Order record, Your Honor.
 
-**[00:43:31.770] Sen. Francis “Chiz” Escudero**  
+**[00:43:31.770] Sen. Francis "Chiz" G. Escudero**  
 Now, Julie noted and entered into the records. You may proceed when you're ready.
 
 **[00:43:35.870] Rep. Joel R. Chua**  
@@ -989,13 +989,13 @@ Ang total po ng apat na cheque, mga ano po siya, kalahating billion po.
 **[00:54:07.720] Rep. Joel R. Chua**  
 Okay. That would be all, Your Honor.
 
-**[00:54:12.350] Sen. Francis “Chiz” Escudero**  
+**[00:54:12.350] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Honorable Chua. Cross from the Council for Respondent. Attorney Poa, you may proceed when you're ready, sir.
 
 **[00:54:20.410] Atty. Michael Wesley Poa**  
 Nothing to cross, Your Honor, from our end. However, Your Honor, may I just make a manifestation just on the markings, Your Honor?
 
-**[00:54:26.530] Sen. Francis “Chiz” Escudero**  
+**[00:54:26.530] Sen. Francis "Chiz" G. Escudero**  
 Council may do
 
 **[00:54:28.050] Atty. Michael Wesley Poa**  
@@ -1010,19 +1010,19 @@ The
 **[00:55:24.500] Atty. Michael Wesley Poa**  
 face of the check was marked as D-1-132-OVP while the dorsal portion was marked as D-1-132-OVP-1. The fourth and last check ending 245664 dated July 13, 2023. The face of the check was marked as D-1-133-OVP while the dorsal portion was marked as T-1-133-OVP-1. That is all, Your Honors. Again, nothing to cross from our end.
 
-**[00:56:02.530] Sen. Francis “Chiz” Escudero**  
+**[00:56:02.530] Sen. Francis "Chiz" G. Escudero**  
 Yeah. Yeah. Just to correct you, the check ending in 5511 is dated April
 
 **[00:56:14.920] Atty. Michael Wesley Poa**  
 18. Correct, Yon. April 18, 2023.
 
-**[00:56:18.000] Sen. Francis “Chiz” Escudero**  
+**[00:56:18.000] Sen. Francis "Chiz" G. Escudero**  
 No, you mentioned 13 earlier.
 
 **[00:56:19.600] Atty. Michael Wesley Poa**  
 So it's 18. Yes, 18, Yon. Thank you.
 
-**[00:56:27.770] Sen. Francis “Chiz” Escudero**  
+**[00:56:27.770] Sen. Francis "Chiz" G. Escudero**  
 Given that there is no cross and therefore no redirect, we now proceed to allow the senator judges for their interventions in the order that they signify their intent to ask questions and make interventions. The Honorable Erwin Tulfo, thereafter, the Honorable Rafi Tulfo, thereafter, the Honorable Senator Judge Aquino. The Honorable Tulfo is recognized for his interjections and interventions. You have two minutes, sir. Thank you, Mr. Presiding Officer.
 
 **[00:56:57.370] Sen. Erwin Tulfo**  
@@ -1061,7 +1061,7 @@ Unusual yung withdrawal. So therefore, kung unusual, Madam Witness, hindi mo kay
 **[00:58:13.120] Sen. Erwin Tulfo**  
 Kasi alam ko sa banko po, nagtatanong ako po, nagbabango ko sa privado, natatanong po yung staff ko, para saan magagamitin ni Sarah ito, ni Seth?
 
-**[00:58:23.140] Sen. Panfilo M. Lacson**  
+**[00:58:23.140] Sen. Panfilo “Ping” M. Lacson**  
 Hindi na
 
 **[00:58:24.220] Sen. Erwin Tulfo**  
@@ -1112,70 +1112,70 @@ So far po kasi nag-convert na po lahat kasi sila sa mga online system like yung 
 **[01:00:00.000] Sen. Erwin Tulfo**  
 Thank you Madam Witness. Thank you Presiding Officer.
 
-**[01:00:02.340] Sen. Francis “Chiz” Escudero**  
+**[01:00:02.340] Sen. Francis "Chiz" G. Escudero**  
 Thank you Senator Judge Erwin Tulfo. Senator Judge Rafi Tulfo is recognized. You may proceed sir when you're ready for interjections and interventions. You have two minutes sir.
 
-**[01:00:20.470] Sen. Raffy Tulfo**  
+**[01:00:20.470] Sen. Raffy T. Tulfo**  
 Madam Witness, magandang umaga po.
 
 **[01:00:22.390] Violeta Constantino**  
 Magandang umaga rin po. Hindi
 
-**[01:00:23.410] Sen. Raffy Tulfo**  
+**[01:00:23.410] Sen. Raffy T. Tulfo**  
 masyado klaro sa amin yung sinabi mong mga bag ang pinaglagyan nitong 125 million. Anong klaseng bag muli?
 
 **[01:00:30.890] Violeta Constantino**  
 Sa pagkakaalala ko po, ito po isang malaking, mahabang bag. Parang diniscribe ko nga po as... Duffel
 
-**[01:00:37.690] Sen. Raffy Tulfo**  
+**[01:00:37.690] Sen. Raffy T. Tulfo**  
 bag? Gym bag?
 
 **[01:00:38.870] Violeta Constantino**  
 Gym bag po. Iba po kasi yung duffel bag sa bangko. So gym
 
-**[01:00:42.190] Sen. Raffy Tulfo**  
+**[01:00:42.190] Sen. Raffy T. Tulfo**  
 bag, ano kalaking?
 
 **[01:00:43.490] Violeta Constantino**  
 Mahaba po.
 
-**[01:00:44.350] Sen. Raffy Tulfo**  
+**[01:00:44.350] Sen. Raffy T. Tulfo**  
 Okay. Ayon sa BSP, ang 1 million approximately 1 kilo. So that's 125 million. So si Gina lamang ang nagbit-bit ng 125 kilos palabas ng bangko?
 
 **[01:00:57.350] Violeta Constantino**  
 Ang alam ko pong assistance na naalala ko po ay nag-provide po kami ng trolley.
 
-**[01:01:03.960] Sen. Raffy Tulfo**  
+**[01:01:03.960] Sen. Raffy T. Tulfo**  
 At mag-isa lang si Gina?
 
 **[01:01:05.820] Violeta Constantino**  
 May kasama po sila eh. Hindi ko lang po ma-recall. So
 
-**[01:01:08.800] Sen. Raffy Tulfo**  
+**[01:01:08.800] Sen. Raffy T. Tulfo**  
 ilang daffle bag po ulit?
 
 **[01:01:10.380] Violeta Constantino**  
 Mga 3 to 4. Bags po.
 
-**[01:01:13.760] Sen. Raffy Tulfo**  
+**[01:01:13.760] Sen. Raffy T. Tulfo**  
 I mean, 3 to 4.
 
 **[01:01:16.620] Violeta Constantino**  
 Gym bags.
 
-**[01:01:18.040] Sen. Raffy Tulfo**  
+**[01:01:18.040] Sen. Raffy T. Tulfo**  
 Gym bags.
 
-**[01:01:20.900] Sen. Raffy Tulfo**  
+**[01:01:20.900] Sen. Raffy T. Tulfo**  
 Dapat sigurado. 3, 4, 5, 6, 7, 8, 9, 10. Kasi... Kung 125 million at tatlong gym bag, eh yung gym bag, ano lang kalaki yun? Mahaba. Mahaba. Kakasya ba dyan 125 kilos?
 
-**[01:01:35.660] Sen. Raffy Tulfo**  
+**[01:01:35.660] Sen. Raffy T. Tulfo**  
 31 million per.
 
 **[01:01:36.660] Violeta Constantino**  
 Baka
 
-**[01:01:37.220] Sen. Raffy Tulfo**  
+**[01:01:37.220] Sen. Raffy T. Tulfo**  
 nagkakamali kayo.
 
 **[01:01:38.640] Violeta Constantino**  
@@ -1184,79 +1184,79 @@ Mga 3 to 4 bags nga po.
 **[01:01:40.880] Violeta Constantino**  
 Dapat
 
-**[01:01:41.060] Sen. Raffy Tulfo**  
+**[01:01:41.060] Sen. Raffy T. Tulfo**  
 precise po kayo. Dapat dina-jet daw nyo yan bago paglabas. 3 bags ang lumabas, ang pinaglagyan.
 
 **[01:01:48.620] Violeta Constantino**  
 Hindi na po namin yan ano po.
 
-**[01:01:50.940] Sen. Raffy Tulfo**  
+**[01:01:50.940] Sen. Raffy T. Tulfo**  
 Okay, sige. Pero dapat, you should be approximate, I mean precise kasi we're talking of impeachment of the vice president dito. Hindi dapat yung parang kalkulasyon-kalkulasyon lamang. As much as possible.
 
 **[01:02:01.980] Violeta Constantino**  
 Opo, mga ganun, four bags.
 
-**[01:02:03.880] Sen. Raffy Tulfo**  
+**[01:02:03.880] Sen. Raffy T. Tulfo**  
 Okay, four bags. Now, wala bang, kasi alam ko pag ganun kalaki amount, kuminsan yung bank ko nag-offer doon sa depositor. na i-deliver yung pera sa lugar na gusto nilang pupuntahan ng pera ngayon through the what we call armored car or armored vehicle. Hindi kayo nag-provide na ganoon?
 
 **[01:02:23.750] Violeta Constantino**  
 Hindi po. Wala po kasi kaming memorandum of agreement regarding po sa services, cash services or cash delivery.
 
-**[01:02:31.150] Sen. Raffy Tulfo**  
+**[01:02:31.150] Sen. Raffy T. Tulfo**  
 So hindi nag-request yung OVP ng cash delivery through armored vehicle papunta doon so back to their office. Okay.
 
-**[01:02:40.730] Sen. Raffy Tulfo**  
+**[01:02:40.730] Sen. Raffy T. Tulfo**  
 Curious lang po, sino itong... Mayroon pa
 
-**[01:02:43.170] Sen. Raffy Tulfo**  
+**[01:02:43.170] Sen. Raffy T. Tulfo**  
 isang pangalan nakapirma sa baba ng cheque, itong Rosaline L. Sanchez. Sa pagkakalam mo. Kasi diba sa baba, nakalagay Rosaline Sanchez and then Lemuel Ortonio, signatory doon sa paglilis ng cheque. Who are they?
 
 **[01:02:57.250] Violeta Constantino**  
 Authorized signatory po. Isa po siya sa authorized signatories po ng Office of the Vice President. Si
 
-**[01:03:03.590] Sen. Raffy Tulfo**  
+**[01:03:03.590] Sen. Raffy T. Tulfo**  
 Rosaline Sanchez, sino po ito?
 
 **[01:03:06.190] Violeta Constantino**  
 Sa
 
-**[01:03:06.710] Sen. Raffy Tulfo**  
+**[01:03:06.710] Sen. Raffy T. Tulfo**  
 pagkakalam niyo po.
 
 **[01:03:07.990] Violeta Constantino**  
 Ang alam ko po, siya po yung sa finance. Sa
 
-**[01:03:12.400] Sen. Raffy Tulfo**  
+**[01:03:12.400] Sen. Raffy T. Tulfo**  
 finance. Okay, nabagit nyo rin po prior dun sa withdrawal, you're given one or two days para makapag-prepare ng cash. Sino po ulit tumatawag sa inyo?
 
 **[01:03:23.520] Violeta Constantino**  
 Si Ms. Queenie Masangkay po.
 
-**[01:03:25.580] Sen. Raffy Tulfo**  
+**[01:03:25.580] Sen. Raffy T. Tulfo**  
 Paano po nalaman na si Ms. Queenie Masangkay tumatawag sa inyo?
 
 **[01:03:28.720] Violeta Constantino**  
 Na-meet ko na rin po siya sa branch nung nag-open po sila ng MDS account po.
 
-**[01:03:35.090] Sen. Raffy Tulfo**  
+**[01:03:35.090] Sen. Raffy T. Tulfo**  
 Okay, last na naman. Usually pag ganun kalaking amount ang mini-withdraw, Sinisiguro nyo na yung pupunta doon sa banko, yun yung authorized na mag-withdraw talaga ng perang yan. Kadalasan tinatawagan pa yung principal. Wala kayong ganong klase ng protocol in place?
 
 **[01:03:52.190] Violeta Constantino**  
 Wala na po kasi may advice na po siya.
 
-**[01:03:54.650] Sen. Raffy Tulfo**  
+**[01:03:54.650] Sen. Raffy T. Tulfo**  
 Wala na? May advice na po
 
 **[01:03:55.890] Violeta Constantino**  
 siya.
 
-**[01:04:00.070] Sen. Francis “Chiz” Escudero**  
+**[01:04:00.070] Sen. Francis "Chiz" G. Escudero**  
 Bago po yung bell, Senator Judge Raffi.
 
-**[01:04:06.200] Sen. Francis “Chiz” Escudero**  
+**[01:04:06.200] Sen. Francis "Chiz" G. Escudero**  
 Next.
 
-**[01:04:08.310] Sen. Francis “Chiz” Escudero**  
+**[01:04:08.310] Sen. Francis "Chiz" G. Escudero**  
 To be recognized for his interjections would be Senator Bam Aquino. You have two minutes, sir.
 
 **[01:04:13.850] Sen. Paolo Benigno “Bam” Aquino**  
@@ -1415,16 +1415,16 @@ Okay. Sige po. Sige po, yun na
 **[01:08:03.980] Sen. Paolo Benigno “Bam” Aquino**  
 po muna. Maraming salamat, Mr. Presiding Officer.
 
-**[01:08:06.200] Sen. Francis “Chiz” Escudero**  
+**[01:08:06.200] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Sen. Bam Aquino. You may avail of the second round, if at all, Sen. Aquino. Sen. Judge Alan Cayetano is recognized thereafter. Sen. Judge Joel Villanueva, you have two minutes.
 
-**[01:08:20.330] Sen. Francis “Chiz” Escudero**  
+**[01:08:20.330] Sen. Francis "Chiz" G. Escudero**  
 I'm sorry, after
 
-**[01:08:21.310] Sen. Francis “Chiz” Escudero**  
+**[01:08:21.310] Sen. Francis "Chiz" G. Escudero**  
 Senator Allen, Senator Riza.
 
-**[01:08:23.250] Sen. Francis “Chiz” Escudero**  
+**[01:08:23.250] Sen. Francis "Chiz" G. Escudero**  
 Thereafter, Senator Judge Joel Villanueva. You
 
 **[01:08:26.010] Sen. Alan Peter Cayetano**  
@@ -1451,16 +1451,16 @@ Pero
 **[01:10:55.830] Sen. Alan Peter Cayetano**  
 pag government, as long as you're dealing with the people you identified with, so whether that's DPWH, whether that's DOTR, basta everything's in order. Magtataka ka lang pag sobrang laki ng amount. But then you'll release it.
 
-**[01:11:12.260] Sen. Francis “Chiz” Escudero**  
+**[01:11:12.260] Sen. Francis "Chiz" G. Escudero**  
 Kindly wind
 
 **[01:11:12.880] Sen. Alan Peter Cayetano**  
 up. Thank you. I was just clarifying that point.
 
-**[01:11:16.280] Sen. Francis “Chiz” Escudero**  
+**[01:11:16.280] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Allen. Senator Judge Risa Antiveros is recognized.
 
-**[01:11:21.850] Sen. Francis “Chiz” Escudero**  
+**[01:11:21.850] Sen. Francis "Chiz" G. Escudero**  
 You may proceed, ma'am, when you're ready. You have two minutes.
 
 **[01:11:32.870] Sen. Risa Hontiveros**  
@@ -1508,7 +1508,7 @@ in your 32 years, sigit tatlong dekada, kung masasabi natin, pambihirang amount 
 **[01:14:42.840] Sen. Risa Hontiveros**  
 Tutuloy ko po sa second round.
 
-**[01:14:44.500] Sen. Francis “Chiz” Escudero**  
+**[01:14:44.500] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Riza. Senator Judge Villanueva, thereafter, our Distinguished Senate President. You may proceed, sir. When you're ready, you have two minutes.
 
 **[01:14:52.650] Sen. Joel Villanueva**  
@@ -1592,7 +1592,7 @@ you.
 **[01:18:14.510] Sen. Joel Villanueva**  
 Thank
 
-**[01:18:15.310] Sen. Francis “Chiz” Escudero**  
+**[01:18:15.310] Sen. Francis "Chiz" G. Escudero**  
 you, Senator Judge Villanueva. The distinguished Senate President is recognized. You have two minutes for your interjection, sir. Thank
 
 **[01:18:21.010] Sen. Sherwin T. Gatchalian**  
@@ -1697,10 +1697,10 @@ Kumlayan po kami doon. Alright.
 **[01:21:01.640] Sen. Sherwin T. Gatchalian**  
 Thank you. Thank you, Mr. Presiding Officer.
 
-**[01:21:07.550] Sen. Francis “Chiz” Escudero**  
+**[01:21:07.550] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Pangilinan is recognized. You may proceed, sir. You have two minutes when you're ready.
 
-**[01:21:15.720] Sen. Francis “Chiz” Escudero**  
+**[01:21:15.720] Sen. Francis "Chiz" G. Escudero**  
 Thank you.
 
 **[01:21:16.980] Sen. Francis “Kiko” Pangilinan**  
@@ -1790,10 +1790,10 @@ I have no other questions, Mr. President, Presiding Officer. Just to manifest th
 **[01:24:17.580] Sen. Francis “Kiko” Pangilinan**  
 itatakal sa ibang articles of incorporation, we will not pursue it at this time. I mean the articles of impeachment rather. Is it Article 2? Then we will not insist and we will not push the issue at this time. For the record,
 
-**[01:24:35.840] Sen. Francis “Chiz” Escudero**  
+**[01:24:35.840] Sen. Francis "Chiz" G. Escudero**  
 Mr. President. Noted. But Chair would also like to place on the record that While indeed the court issued a subpoena vis-a-vis the AMLC, the provision of the law on the confidentiality with respect to bank officers are indeed provided for in the AMLC. That bank officers are those authorized to report both suspicious transactions and those exceeding 500,000 are not allowed to disclose whether or not they report. And thank you, Ms. Constantina, for being very...
 
-**[01:25:13.600] Sen. Francis “Chiz” Escudero**  
+**[01:25:13.600] Sen. Francis "Chiz" G. Escudero**  
 Cooperative and at the same time prudent with respect to your answers regarding the AMLC provision. Dahil kayo po yung madedimanda kung sakasakaling, hindi naman po kami. If there are no other, Senator Judge Aimee, before we go on a second round. Senator Judge Aimee, thereafter, Senator Judge Erwin Tulfo for a second round, Senator Judge Ontiveros for a second round, and Senator Judge Raffi for a second round. Senator Aimee, you may proceed when you're ready. And you have two minutes, ma'am.
 
 **[01:25:42.780] Sen. Imee Marcos**  
@@ -1853,7 +1853,7 @@ tinatanong. Kung nare-recall ninyo, sino naglagay ng pera sa mga bag? Sabi po ni
 **[01:29:36.900] Violeta Constantino**  
 Ang pagkakaalala ko po...
 
-**[01:29:38.460] Sen. Francis “Chiz” Escudero**  
+**[01:29:38.460] Sen. Francis "Chiz" G. Escudero**  
 Sorry
 
 **[01:29:40.360] Violeta Constantino**  
@@ -1871,55 +1871,55 @@ Wala po akong matandaan na hindi ko ma-recall po yung naglagay ng pera sa bags. 
 **[01:30:44.540] Sen. Imee Marcos**  
 Okay, balikan na lang po natin yung transcript sa lower house at baka maipaliwanag ninyo sa amin na maigi. Maraming salamat. The
 
-**[01:30:54.200] Sen. Francis “Chiz” Escudero**  
+**[01:30:54.200] Sen. Francis "Chiz" G. Escudero**  
 lady may avail for round two. With the permission of Senators Erwin Tulfo, Ontiveros, and Rafi Tulfo, Chair would like to acknowledge Senator Luxon for sensitive this first round to ask questions. Thereafter, we will be recognizing in this order Senators Erwin Tulfo, Senator Ontiveros, and Senator Rafi Tulfo. For their second round. Senator Lacson, may proceed. Thank you, Mr.
 
-**[01:31:17.390] Sen. Panfilo M. Lacson**  
+**[01:31:17.390] Sen. Panfilo “Ping” M. Lacson**  
 Presiding Officer. Hindi po ako magtatanong. I will only make a manifestation. I'm only wondering why neither the prosecution nor the defense is presenting a competent witness in the handling of intelligence and confidential fund. Kasi po, in my previous life, sa intelligence, sa law enforcement, ang natatandaan ko, kasi limited yung purpose. ng intelligence at saka confidential fund. Nagtataka lang ako, nakita ko yung regularity ng withdrawals, ng cash, parang every quarter except for December, December 20. So sana kung para ma-educate kami at saka magkaroon kami ng informed decision later on, sana na meron tayong competent witness sa pag-handle ng intelligence fund or confidential fund. Para sa ganun naman, ma-appreciate namin. At matanong din namin sa sarili namin, regular ba yung every quarter? Kasi January, April, tapos July, di ba? Parang regular eh. Ang alam ko, pagka may pangangailangan, dahil merong intelligence gathering operation, may confidential activities, saka palang mangangailangan ng pera. So yun lang, Mr. Presiding Officer.
 
 **[01:32:36.180] Atty. Michael Wesley Poa**  
 The
 
-**[01:32:36.820] Sen. Panfilo M. Lacson**  
+**[01:32:36.820] Sen. Panfilo “Ping” M. Lacson**  
 defense may also...
 
-**[01:32:40.770] Sen. Panfilo M. Lacson**  
+**[01:32:40.770] Sen. Panfilo “Ping” M. Lacson**  
 respond or comment with the prosecution. Thank you. We
 
-**[01:32:45.110] Sen. Francis “Chiz” Escudero**  
+**[01:32:45.110] Sen. Francis "Chiz" G. Escudero**  
 will recognize both sides but recognize first to respond to the inquiry of the manifestation rather of Senator Judge Lacson, the Honorable Chua. You may proceed, sir.
 
 **[01:32:53.810] Rep. Joel R. Chua**  
 Thank you, Your Honor. Your Honor, we will be presenting our witness pero hindi po siya yung tetestigo po pagdating po dyan. In time po, we will be presenting witness or witnesses that will explain. Yung manner po ng confidential funds.
 
-**[01:33:12.210] Sen. Panfilo M. Lacson**  
+**[01:33:12.210] Sen. Panfilo “Ping” M. Lacson**  
 As my staff, wala po sa listahan ng testigo na meron tayong competent witness.
 
-**[01:33:18.370] Sen. Panfilo M. Lacson**  
+**[01:33:18.370] Sen. Panfilo “Ping” M. Lacson**  
 So saan ang galing yung sinasabing yung may pre-presenteo? Yung COA po. COA is not a competent witness sa paghandal ng intelligence and confidential funds. Somebody... Your Honor,
 
 **[01:33:30.010] Rep. Joel R. Chua**  
 meron
 
-**[01:33:30.270] Sen. Panfilo M. Lacson**  
+**[01:33:30.270] Sen. Panfilo “Ping” M. Lacson**  
 po kasi kaming reservation. A retired intelligence officer. You know, somebody like that na maalam. Mag-handle. Nagtataka lang mo bakit masyadong regular, tapos yung una pa, natapat pa na magpapasko?
 
 **[01:33:46.370] Rep. Joel R. Chua**  
 Yes, Your Honor. May pe-present po kami, pero kung makikita po ninyo dun sa aming pre-trial brief, meron po dun reservation. Thank you. Thank you. Confidential pa daw po.
 
-**[01:33:58.350] Sen. Francis “Chiz” Escudero**  
+**[01:33:58.350] Sen. Francis "Chiz" G. Escudero**  
 The Honorable Attorney, or rather, is recognized for your comment to the manifestation of Senator Lacson. Thank
 
 **[01:34:05.210] Atty. Michael Wesley Poa**  
 you,
 
-**[01:34:05.410] Sen. Francis “Chiz” Escudero**  
+**[01:34:05.410] Sen. Francis "Chiz" G. Escudero**  
 Mr. Siding
 
 **[01:34:05.910] Atty. Michael Wesley Poa**  
 Officer. Same comment, actually, with the prosecution, Your Honors. Meron din po kasi tayong mga reservations. So we will present when we feel necessary, Your Honor. Sa ngayon nga, confidential pa din
 
-**[01:34:15.980] Sen. Francis “Chiz” Escudero**  
+**[01:34:15.980] Sen. Francis "Chiz" G. Escudero**  
 yung witness. Senator Erwin Tulfo is recognized for his availment of round 2. You may proceed, sir. You have 2 minutes.
 
 **[01:34:29.290] Sen. Erwin Tulfo**  
@@ -1955,7 +1955,7 @@ think agency na po ang pwedeng sumagot po regarding this.
 **[01:35:49.830] Sen. Erwin Tulfo**  
 Okay. Alright. That's all, Mr. Presiding Officer. Thank you, Senator Judge
 
-**[01:35:55.070] Sen. Francis “Chiz” Escudero**  
+**[01:35:55.070] Sen. Francis "Chiz" G. Escudero**  
 Erwin Tulfo. Senator Judge Risa Antiveras for her second round. You may proceed, ma'am. When you're ready, you have two minutes.
 
 **[01:36:11.110] Sen. Risa Hontiveros**  
@@ -2024,100 +2024,100 @@ Meron naman po kasi silang in-issue advice. So binasin naman po natin yung check
 **[01:39:38.460] Sen. Risa Hontiveros**  
 Alright. So batay dun sa issue advice ni Ms. Jean Acosta, yun na yung pagtitiyak nyo na otorizado ni VP yung pag-withdraw nitong kalahating bilyong piso in cash. Salamat po. Salamat, Mr. Presiding Officer. Last two questions if there's a final round. Salamat po. Thank you, Senator
 
-**[01:39:55.840] Sen. Francis “Chiz” Escudero**  
+**[01:39:55.840] Sen. Francis "Chiz" G. Escudero**  
 Judge Riza. Senator Judge Rafi Tulfo for his availment of round two. You may proceed, sir, when you're ready. You have two minutes.
 
-**[01:40:07.200] Sen. Raffy Tulfo**  
+**[01:40:07.200] Sen. Raffy T. Tulfo**  
 Madam Witness, how are government agency accounts being opened sa land bank? Ano yung proseso po?
 
 **[01:40:14.720] Violeta Constantino**  
 Pakialit po, sir.
 
-**[01:40:15.760] Sen. Raffy Tulfo**  
+**[01:40:15.760] Sen. Raffy T. Tulfo**  
 Ano po yung proseso para yung isang government... ay makapag-open ng account sa land bank?
 
 **[01:40:23.150] Violeta Constantino**  
 Meron pong request na galing po sa kanila. At the same time po, meron din pong approval from the Bureau of Treasury na mag-open po sila ng account sa amin. So once approved na po ito, ay ma-open na po yung account sa land bank. Very
 
-**[01:40:37.890] Sen. Raffy Tulfo**  
+**[01:40:37.890] Sen. Raffy T. Tulfo**  
 good. Now, sa kaso po ng OVP, sino po yung nag-open na account? Sino po yung pumunta sa banko ninyo para i-open yung account ng OVP?
 
 **[01:40:45.610] Violeta Constantino**  
 Ang alam ko po, nag-inquire po yung head po ng agency. Huwag pong
 
-**[01:40:48.830] Sen. Raffy Tulfo**  
+**[01:40:48.830] Sen. Raffy T. Tulfo**  
 alam ko. Sino po talaga? Sigurado dapat kayo.
 
 **[01:40:51.830] Violeta Constantino**  
 Yung head po ng Castivation.
 
-**[01:40:53.790] Sen. Raffy Tulfo**  
+**[01:40:53.790] Sen. Raffy T. Tulfo**  
 Nila? Opo. Okay. Ano po yung mga present ng dokumento para magpapatunay na sila po yung authorized talaga na mag-open account on behalf of the OBP?
 
 **[01:41:05.240] Violeta Constantino**  
 Gaya po, nasabi ko nga po kanina, yung pong request nila na mag-open account. At at the same time, yung approval po ng Bureau of Treasury na sila po ay allowed po mag-open ang account sa amin.
 
-**[01:41:17.500] Sen. Raffy Tulfo**  
+**[01:41:17.500] Sen. Raffy T. Tulfo**  
 I don't know kung nasa niyo po yung question kanina. Sino po yung person na pumunta doon para mag-presenta na ako'y from OBP at nagpakita ng dokumento at ako'y authorized person to represent the OBP for this account?
 
 **[01:41:28.780] Violeta Constantino**  
 Yung head po ng cash division po ng OBP. And
 
-**[01:41:31.180] Sen. Raffy Tulfo**  
+**[01:41:31.180] Sen. Raffy T. Tulfo**  
 what is your name again? Anong pangalan niya po?
 
 **[01:41:35.720] Violeta Constantino**  
 Hindi ko na po ma-recall yung head po. Yung isa po kasi staff niya po yan, si
 
-**[01:41:40.060] Sen. Raffy Tulfo**  
+**[01:41:40.060] Sen. Raffy T. Tulfo**  
 Miss Queenie. So pagdating niya po doon sa banko, meron po siyang siguradong, siguradong binabanggit ng mga taong point person na para pumunta sa banko para mag-withdraw at sino yung mga signatories, et cetera, et cetera. Tama?
 
 **[01:41:57.880] Violeta Constantino**  
 Pakiulit po ang tanong, Your Honor.
 
-**[01:42:00.160] Sen. Raffy Tulfo**  
+**[01:42:00.160] Sen. Raffy T. Tulfo**  
 Kasi po yung sa cash division, Hindi mo na maalala ang pangalan ng tao ulit?
 
 **[01:42:04.530] Violeta Constantino**  
 Yung head
 
-**[01:42:04.950] Sen. Raffy Tulfo**  
+**[01:42:04.950] Sen. Raffy T. Tulfo**  
 ng cash division, hindi ko na po ma-recall. Okay, sige. Yung head ng cash division, pumunta doon ng
 
-**[01:42:09.670] Sen. Raffy Tulfo**  
+**[01:42:09.670] Sen. Raffy T. Tulfo**  
 copy ng account. Doon, nagkakaroon na agad ng arrangement para sabihin sa inyo na ang pwede lang mag-withdraw ay si ganito at kasama si ganito.
 
 **[01:42:20.320] Violeta Constantino**  
 Wala pong ganong arrangement.
 
-**[01:42:22.100] Sen. Raffy Tulfo**  
+**[01:42:22.100] Sen. Raffy T. Tulfo**  
 Wala?
 
 **[01:42:22.860] Violeta Constantino**  
 Wala pong ganun. O
 
-**[01:42:23.880] Sen. Raffy Tulfo**  
+**[01:42:23.880] Sen. Raffy T. Tulfo**  
 dapat merong arrangement para malaman ninyo kung sino yung point person ng OBP para tumawag sa inyo at sino ka yung nagde-designate ng point person to coordinate from the OBP to land bank.
 
 **[01:42:37.320] Violeta Constantino**  
 I'm sorry po, ang pagka-intindi ko po kung sino po yung in-issue nila ng cheque, ganun po ba?
 
-**[01:42:43.040] Sen. Raffy Tulfo**  
+**[01:42:43.040] Sen. Raffy T. Tulfo**  
 No, sino yung taong nagsasabi sa land bank na ito lamang ang recognize namin na tumawag. at the day of the withdrawal. At ito lamang ang pwedeng pumirma sa cheque, et cetera, et cetera.
 
 **[01:42:54.510] Violeta Constantino**  
 There
 
-**[01:42:54.970] Sen. Raffy Tulfo**  
+**[01:42:54.970] Sen. Raffy T. Tulfo**  
 has to be one person.
 
 **[01:42:56.390] Violeta Constantino**  
 As to authorized signatories po, aware naman po yung agency kung sino po yung mga authorized pumirma. Ngayon po, kung sino po
 
-**[01:43:04.130] Sen. Raffy Tulfo**  
+**[01:43:04.130] Sen. Raffy T. Tulfo**  
 yung... No, no,
 
-**[01:43:04.390] Sen. Raffy Tulfo**  
+**[01:43:04.390] Sen. Raffy T. Tulfo**  
 no, sorry. You're listening but you're not hearing me. Sino po yung tao na nagsabi sa land bank na, hey, land bank, ito lamang mga tao ang pwedeng kumontak sa inyo ang pwedeng mag-withdraw, period. Sino yun?
 
 **[01:43:17.270] Violeta Constantino**  
@@ -2126,7 +2126,7 @@ Ang pagkakalam ko po, yun pong sina Asic or Tonio po.
 **[01:43:28.470] Violeta Constantino**  
 Sila po kasi yung officers po. So did they go
 
-**[01:43:31.910] Sen. Raffy Tulfo**  
+**[01:43:31.910] Sen. Raffy T. Tulfo**  
 personally sa land bank or through telephone lamang?
 
 **[01:43:35.360] Violeta Constantino**  
@@ -2135,7 +2135,7 @@ Sa pagkakaalala ko po, meron po silang written communication po sa amin.
 **[01:43:41.700] Violeta Constantino**  
 So how did you know
 
-**[01:43:42.660] Sen. Raffy Tulfo**  
+**[01:43:42.660] Sen. Raffy T. Tulfo**  
 na sila talaga yun nasa written communication?
 
 **[01:43:45.390] Violeta Constantino**  
@@ -2144,31 +2144,31 @@ Nakipresent po sila ng mga IDs nila. Doon po sa pagkakalala ko po. So they
 **[01:43:48.870] Violeta Constantino**  
 went
 
-**[01:43:49.090] Sen. Raffy Tulfo**  
+**[01:43:49.090] Sen. Raffy T. Tulfo**  
 to land back personally?
 
 **[01:43:50.830] Violeta Constantino**  
 Yes.
 
-**[01:43:51.810] Sen. Raffy Tulfo**  
+**[01:43:51.810] Sen. Raffy T. Tulfo**  
 And then they presented documents to prove na they are that person?
 
 **[01:43:55.470] Violeta Constantino**  
 Opo. Sorry po, pwede pong mag-bat
 
-**[01:43:59.070] Sen. Raffy Tulfo**  
+**[01:43:59.070] Sen. Raffy T. Tulfo**  
 in.
 
 **[01:44:00.310] Violeta Constantino**  
 Bali po doon sa pagkakalala ko po, sa binibigyan ng dokumento, mayroon na rin pong photocopy ng mga IDs po nila.
 
-**[01:44:07.410] Sen. Francis “Chiz” Escudero**  
+**[01:44:07.410] Sen. Francis "Chiz" G. Escudero**  
 Thank
 
-**[01:44:07.870] Sen. Francis “Chiz” Escudero**  
+**[01:44:07.870] Sen. Francis "Chiz" G. Escudero**  
 you. Thank you, Senator
 
-**[01:44:10.810] Sen. Francis “Chiz” Escudero**  
+**[01:44:10.810] Sen. Francis "Chiz" G. Escudero**  
 Judge Tulfo. Senator Judge Pangilinan is recognized.
 
 **[01:44:27.610] Sen. Francis “Kiko” Pangilinan**  
@@ -2216,31 +2216,31 @@ Hindi ko na lang po alam sa side nila.
 **[01:46:02.860] Sen. Francis “Kiko” Pangilinan**  
 Two days before. Oh, yeah. Pero posible. Two days before, December 18. 17, hindi pa nahahanda yung cheque, pero ihahanda nila, pininotify na kayo.
 
-**[01:46:14.760] Sen. Francis “Chiz” Escudero**  
+**[01:46:14.760] Sen. Francis "Chiz" G. Escudero**  
 Okay.
 
 **[01:46:16.620] Sen. Francis “Kiko” Pangilinan**  
 Maraming salamat. Thank you.
 
-**[01:46:18.180] Sen. Francis “Chiz” Escudero**  
+**[01:46:18.180] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Pangilinan. Senator Judge Antiveros, for the final round, for your last two questions, I believe, or no more? No more? If there are no other interventions or interjections from the Senator Judges, the Presiding Officer would like... Would like to excuse you already, Ma'am Violeta Constantino.
 
-**[01:46:37.450] Sen. Francis “Chiz” Escudero**  
+**[01:46:37.450] Sen. Francis "Chiz" G. Escudero**  
 Thank
 
-**[01:46:37.930] Sen. Francis “Chiz” Escudero**  
+**[01:46:37.930] Sen. Francis "Chiz" G. Escudero**  
 you very much, Ma'am, for your time. Salamat po sa inyong kooperasyon. Magandang umaga po.
 
-**[01:46:45.710] Sen. Francis “Chiz” Escudero**  
+**[01:46:45.710] Sen. Francis "Chiz" G. Escudero**  
 Mananghalian po muna kayo dyan bago kayo umuwi.
 
-**[01:46:59.280] Sen. Francis “Chiz” Escudero**  
+**[01:46:59.280] Sen. Francis "Chiz" G. Escudero**  
 Yes, Senator Judge Pangilinan.
 
 **[01:47:07.180] Sen. Francis “Kiko” Pangilinan**  
 Very
 
-**[01:47:07.300] Sen. Francis “Chiz” Escudero**  
+**[01:47:07.300] Sen. Francis "Chiz" G. Escudero**  
 Yes. The gentleman may proceed.
 
 **[01:47:12.000] Sen. Francis “Kiko” Pangilinan**  
@@ -2252,22 +2252,22 @@ ng
 **[01:47:27.960] Sen. Francis “Kiko” Pangilinan**  
 AMLA records. Pero ang AMLA mismo, hindi siya at least the position of the impeachment court. It's not covered by the confidentiality of record. That was
 
-**[01:47:38.940] Sen. Francis “Chiz” Escudero**  
+**[01:47:38.940] Sen. Francis "Chiz" G. Escudero**  
 what the chair said earlier. That was contained in the ruling of the
 
 **[01:47:42.900] Sen. Francis “Kiko” Pangilinan**  
 court.
 
-**[01:47:43.200] Sen. Francis “Chiz” Escudero**  
+**[01:47:43.200] Sen. Francis "Chiz" G. Escudero**  
 Yes. Thank you, Senator.
 
 **[01:47:44.450] Sen. Francis “Kiko” Pangilinan**  
 Thank you, Mr. President.
 
-**[01:47:44.980] Sen. Francis “Chiz” Escudero**  
+**[01:47:44.980] Sen. Francis "Chiz" G. Escudero**  
 Thank you.
 
-**[01:47:46.220] Sen. Francis “Chiz” Escudero**  
+**[01:47:46.220] Sen. Francis "Chiz" G. Escudero**  
 With the permission of the parties, it's 11.42 so that we can cut clean. We can pause for lunch and resume at 12.15 for a 30-minute lunch break.
 
 **[01:48:02.200] Atty. Michael Wesley Poa**  
@@ -2279,16 +2279,16 @@ Your
 **[01:48:10.240] Atty. Michael Wesley Poa**  
 Your Honor, if I may be recognized.
 
-**[01:48:11.760] Sen. Francis “Chiz” Escudero**  
+**[01:48:11.760] Sen. Francis "Chiz" G. Escudero**  
 Counsel for Respondent is recognized.
 
 **[01:48:13.480] Atty. Michael Wesley Poa**  
 Mukhang naiwan po yata ng witness natin itong certification. If I may just turn it over.
 
-**[01:48:20.320] Sen. Francis “Chiz” Escudero**  
+**[01:48:20.320] Sen. Francis "Chiz" G. Escudero**  
 Yes.
 
-**[01:48:22.840] Sen. Francis “Chiz” Escudero**  
+**[01:48:22.840] Sen. Francis "Chiz" G. Escudero**  
 Kindly give it to the Council for the panel of prosecutors. Your Honor,
 
 **[01:48:28.100] Rep. Joel R. Chua**  
@@ -2297,52 +2297,52 @@ may we know what is
 **[01:48:28.800] Rep. Joel R. Chua**  
 the content of the document? Thank you.
 
-**[01:48:35.040] Sen. Francis “Chiz” Escudero**  
+**[01:48:35.040] Sen. Francis "Chiz" G. Escudero**  
 Based on popular request, 1230 then. We resume at 12.30 for the next witness of the prosecution in the person of Ms. Nanita Campuzano.
 
 **[01:48:46.680] Atty. Michael Wesley Poa**  
 That's okay with us, sir.
 
-**[01:48:47.900] Sen. Francis “Chiz” Escudero**  
+**[01:48:47.900] Sen. Francis "Chiz" G. Escudero**  
 From the panel of prosecutors, that's okay?
 
 **[01:48:51.480] Rep. Joel R. Chua**  
 Yes, that's okay with us, sir.
 
-**[01:48:53.260] Sen. Francis “Chiz” Escudero**  
+**[01:48:53.260] Sen. Francis "Chiz" G. Escudero**  
 Then we shall go on recess and shall resume at 12.30.
 
-**[02:37:01.220] Sen. Francis “Chiz” Escudero**  
+**[02:37:01.220] Sen. Francis "Chiz" G. Escudero**  
 Representative Chua, kindly call your next witness so that she can situate herself at the witness stand.
 
 **[02:37:09.570] Rep. Joel R. Chua**  
 Your Honor,
 
-**[02:37:10.650] Sen. Francis “Chiz” Escudero**  
+**[02:37:10.650] Sen. Francis "Chiz" G. Escudero**  
 we
 
 **[02:37:11.630] Rep. Joel R. Chua**  
 are calling our next witness in the person of Ms. Ninita Camposano.
 
-**[02:37:17.540] Sen. Francis “Chiz” Escudero**  
+**[02:37:17.540] Sen. Francis "Chiz" G. Escudero**  
 Ms. Ninita Camposano, you are directed to kindly proceed to the witness stand.
 
-**[02:37:28.380] Sen. Francis “Chiz” Escudero**  
+**[02:37:28.380] Sen. Francis "Chiz" G. Escudero**  
 Please remain standing. Clerk of Court is directed to subscribe the witness. Put the witness under oath, rather.
 
 **[02:37:38.590] Atty. Renato N. Bantug Jr.**  
 Ms. Camposano, please raise your right hand. You, Ninita Camposano, do swear that the evidence you shall give in the case now pending between the Philippines and Vice President Sara Givermanto-Terte shall be the truth, the whole truth, and nothing but the truth. So help you God.
 
-**[02:38:01.460] Sen. Francis “Chiz” Escudero**  
+**[02:38:01.460] Sen. Francis "Chiz" G. Escudero**  
 Kindly speak to the mic, ma'am. Does the stenographer can get your answer?
 
 **[02:38:06.840] Nenita Camposano**  
 Yes, Your Honor.
 
-**[02:38:08.230] Sen. Francis “Chiz” Escudero**  
+**[02:38:08.230] Sen. Francis "Chiz" G. Escudero**  
 You may be seated, ma'am.
 
-**[02:38:14.980] Sen. Francis “Chiz” Escudero**  
+**[02:38:14.980] Sen. Francis "Chiz" G. Escudero**  
 Representative Chua, you are a witness. You may proceed when you're ready with your offer.
 
 **[02:38:18.880] Rep. Joel R. Chua**  
@@ -2384,25 +2384,25 @@ Kaanim, iba pang mga bagay-bagay na may kinalaman at mahalaga. dito sa impeachme
 **[02:42:24.040] Atty. Michael Wesley Poa**  
 Counsel for the Respondent, Attorney Poa. Thank you and good afternoon, Your Honors. Your Honors, again, for the purpose of expediency, Your Honors, the defense is willing to stipulate on the checks. As well as the details on the face of the check, which would be the dates, the payee, the signatures therein, as well as the dorsal portion and that the checks were verified. It went through the teller and that they were approved, Your Honor.
 
-**[02:42:51.700] Sen. Francis “Chiz” Escudero**  
+**[02:42:51.700] Sen. Francis "Chiz" G. Escudero**  
 How about the qualification of the witness as to being able to identify the checks that she was the former department manager and worked at Land Bank from May 22? 2022 to September 2024.
 
 **[02:43:06.240] Atty. Michael Wesley Poa**  
 As the former branch manager, we are willing to stipulate as well as her ability to identify these checks, Your Honor. Having
 
-**[02:43:12.840] Sen. Francis “Chiz” Escudero**  
+**[02:43:12.840] Sen. Francis "Chiz" G. Escudero**  
 so stipulated, Chair would like for the information of the Senator-Judges, kindly flash as I read the details of the check so that we are in agreement as to what is being stipulated to by the respondent.
 
-**[02:43:32.590] Sen. Francis “Chiz” Escudero**  
+**[02:43:32.590] Sen. Francis "Chiz" G. Escudero**  
 First is land bank check number 000000453 payable to Edward D. Fajarda in the amount of 37.5 million dated February 20, 2023 and encast on February 22, 2023. Second is land bank check number 000000964 payable to Edward D. Fajarda in the amount of 37,500,000 pesos dated April 19, 2023 and then cashed on April 26, 2023. And finally, Landbank check number 0000002250 payable to Edward D. Fajarda in the amount of 37.5 million dated July 11, 2023 and encashed on July 13, 2023. The respondent is stipulating as to the authenticity due execution and all the information contained in the face of the check. as well as the dorsal side of the check, including the verification made by the responsible bank officers as regards the payee and the disbursement of the amounts mentioned on the face of the check, as well as all of the stampings in the dorsal side of the check. This is a common exhibit of both parties. On the part, again for the record, on the part of the defense, it's...
 
-**[02:45:17.130] Sen. Francis “Chiz” Escudero**  
+**[02:45:17.130] Sen. Francis "Chiz" G. Escudero**  
 P Roman numeral number 128E to P Roman numeral number 28E-1. And P Roman numeral number 28F to P Roman numeral number 128F1. P Roman numeral number 28G to P Roman numeral number 28G-1. And on the part of the defense, the respondent rather, it is exhibit D Roman numeral number 1112DE. To D, Roman numeral number 1112DE1 for check ending 453. And D, Roman numeral number 1113DE and D, Roman numeral number 1113DE-1 for check ending in 964. And D, Roman numeral number 1114DE to D, Roman numeral number 1114DE-1 for check ending 2250. Do you confirm, Sir? We
 
 **[02:46:11.890] Atty. Michael Wesley Poa**  
 confirm that, Your Honor. Do
 
-**[02:46:12.970] Sen. Francis “Chiz” Escudero**  
+**[02:46:12.970] Sen. Francis "Chiz" G. Escudero**  
 you confirm, Representative Chua? We confirm, Your Honor. You may proceed accordingly, Sir, given the stipulation and admission of the Council for Respondent in so far as the other matters you wish this witness to prove. You may proceed, Sir. Thank
 
 **[02:46:28.190] Rep. Joel R. Chua**  
@@ -2411,22 +2411,22 @@ you, Your Honor. Your Honor, one more stipulation if the Council, one more propo
 **[02:46:39.710] Rep. Joel R. Chua**  
 If they are willing to stipulate that the three land bank checks were funded by the Philippine Treasury for the account of the Department of Education, Office of the Secretary. We stipulate, Your Honor.
 
-**[02:46:53.330] Sen. Francis “Chiz” Escudero**  
+**[02:46:53.330] Sen. Francis "Chiz" G. Escudero**  
 Okay.
 
-**[02:46:53.790] Sen. Francis “Chiz” Escudero**  
+**[02:46:53.790] Sen. Francis "Chiz" G. Escudero**  
 So stipulated. So, we
 
 **[02:46:56.230] Rep. Joel R. Chua**  
 will now proceed. You
 
-**[02:46:57.870] Sen. Francis “Chiz” Escudero**  
+**[02:46:57.870] Sen. Francis "Chiz" G. Escudero**  
 may now proceed to the other matters, Counsel, in your reminder of the stipulations and admissions so that we save on the court's time. Yes,
 
 **[02:47:03.970] Rep. Joel R. Chua**  
 Your Honor.
 
-**[02:47:04.770] Sen. Francis “Chiz” Escudero**  
+**[02:47:04.770] Sen. Francis "Chiz" G. Escudero**  
 Now, Madam
 
 **[02:47:06.270] Rep. Joel R. Chua**  
@@ -2444,19 +2444,19 @@ Okay. Now, Madam Witness, sabi mo tatawag sa inyo ang Cash Division ng DepEd. Ye
 **[02:47:57.270] Nenita Camposano**  
 Ang tumatawag po sa akin ay si Miss Sonia De Leon po, ang Chief Admin po ng... Cash Division and Department of Education.
 
-**[02:48:07.250] Sen. Francis “Chiz” Escudero**  
+**[02:48:07.250] Sen. Francis "Chiz" G. Escudero**  
 With the permission of Representative Chua, can you pronounce the name more distinctly, ma'am? Ano pong pangalan? Sonia?
 
 **[02:48:13.830] Nenita Camposano**  
 Sonia De Leon. De
 
-**[02:48:15.530] Sen. Francis “Chiz” Escudero**  
+**[02:48:15.530] Sen. Francis "Chiz" G. Escudero**  
 Leon?
 
 **[02:48:16.720] Nenita Camposano**  
 Yes, sir. Yes, Your Honor.
 
-**[02:48:18.560] Sen. Francis “Chiz” Escudero**  
+**[02:48:18.560] Sen. Francis "Chiz" G. Escudero**  
 D-E-L-E-O-N.
 
 **[02:48:20.060] Nenita Camposano**  
@@ -2654,7 +2654,7 @@ Tatlong ano po yan? Tatlong 37.5. So, mga 112.5 million.
 **[02:56:27.620] Rep. Joel R. Chua**  
 Okay. No further question, Your Honor.
 
-**[02:56:32.490] Sen. Francis “Chiz” Escudero**  
+**[02:56:32.490] Sen. Francis "Chiz" G. Escudero**  
 Finished with direct cross-counsel for respondent. Attorney po? Your Honor, just one or
 
 **[02:56:38.070] Atty. Michael Wesley Poa**  
@@ -2693,10 +2693,10 @@ Yes, Sir.
 **[02:57:24.740] Atty. Michael Wesley Poa**  
 No further questions. Redirect? No redirect, Your Honor.
 
-**[02:57:28.940] Sen. Francis “Chiz” Escudero**  
+**[02:57:28.940] Sen. Francis "Chiz" G. Escudero**  
 Any Senator Judge who wish to intervene or make interjections?
 
-**[02:57:35.390] Sen. Francis “Chiz” Escudero**  
+**[02:57:35.390] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Kiko Pangilinan. Thereafter, Senator Judge Risa Ontiveros. Thereafter, Senator Judge Aimee Marcos. Thereafter, Senator Judge Joel Villanueva. You may proceed, Senator Judge Pangilinan. You have two minutes. Thank you, Ms.
 
 **[02:57:51.300] Sen. Francis “Kiko” Pangilinan**  
@@ -2789,7 +2789,7 @@ Well,
 **[03:00:57.560] Sen. Francis “Kiko” Pangilinan**  
 suffice it to say that what you're saying is in your previous experience, it has happened. Pero dito sa DepEd, it has never happened. In DepEd, a land bag. Okay. Wala na po akong ibang tanong. Maraming salamat. Thank
 
-**[03:01:11.100] Sen. Francis “Chiz” Escudero**  
+**[03:01:11.100] Sen. Francis "Chiz" G. Escudero**  
 you, Senator Judge Kiko. Senator Judge Risa Ontiveros is recognized for her interjections. You may proceed, ma'am, when you're ready. You have two minutes.
 
 **[03:01:25.400] Sen. Risa Hontiveros**  
@@ -2843,7 +2843,7 @@ Unusual yung 37.5 po. So
 **[03:03:54.210] Sen. Risa Hontiveros**  
 nananatili para sa inyo unusual yung halagang 37.5 million pesos dahil halos times four nung usual na sinabi nyong 10 million pesos at most. Yes ma. Alright. Salamat po Madam Witness. Salamat po Mr. Presiding Officer.
 
-**[03:04:09.250] Sen. Francis “Chiz” Escudero**  
+**[03:04:09.250] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Marcos is recognized for interjection. Thereafter, Senator Judge Villanueva. Thereafter, the Senate President. And thereafter, Senator Judge Rafi Tulfo. You may proceed when you're ready ma'am. You have two minutes.
 
 **[03:04:24.690] Sen. Imee Marcos**  
@@ -2852,16 +2852,16 @@ Yes, just clarifying po, Ms. Camposano. You mentioned doon sa House Blue Ribbon.
 **[03:05:27.220] Rep. Joel R. Chua**  
 Without your respect, Your Honor. Your Honor, may I be recognized?
 
-**[03:05:31.120] Sen. Francis “Chiz” Escudero**  
+**[03:05:31.120] Sen. Francis "Chiz" G. Escudero**  
 What is the pleasure of the Honorable Sir?
 
 **[03:05:33.840] Rep. Joel R. Chua**  
 Your Honor, we would just like to request for the TSN so that our witness will be confronted. With the TSN that is being mentioned by the Honorable Amy Marcos.
 
-**[03:05:46.950] Sen. Francis “Chiz” Escudero**  
+**[03:05:46.950] Sen. Francis "Chiz" G. Escudero**  
 If she
 
-**[03:05:46.970] Sen. Francis “Chiz” Escudero**  
+**[03:05:46.970] Sen. Francis "Chiz" G. Escudero**  
 remembers, by the way, Senator Judge Marcos, it's the House Good Government Committee. Yes, this is
 
 **[03:05:54.350] Sen. Imee Marcos**  
@@ -2900,7 +2900,7 @@ Not na... Not usual, unusual siya sa Department of Education dahil during my tim
 **[03:08:16.560] Sen. Imee Marcos**  
 Yes, okay. Pero nangyayari po. Maraming salamat, yun lang po.
 
-**[03:08:20.380] Sen. Francis “Chiz” Escudero**  
+**[03:08:20.380] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Marcos. Senator Judge Villanueva is recognized. You may proceed, sir. When you're ready, you have two minutes.
 
 **[03:08:26.640] Sen. Joel Villanueva**  
@@ -2975,7 +2975,7 @@ letter na sila po ang mga authorized nating signatories.
 **[03:12:07.040] Sen. Joel Villanueva**  
 At itong requirements nito na comply bago nyo po ni-release yung... Yes. Maraming salamat, Madam Buites.
 
-**[03:12:13.220] Sen. Francis “Chiz” Escudero**  
+**[03:12:13.220] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Villanueva. Our distinguished Senate President, Senator Gachalian. You may proceed, sir. When you're ready, you have two
 
 **[03:12:19.040] Sen. Sherwin T. Gatchalian**  
@@ -3158,88 +3158,88 @@ Wala po. Thank
 **[03:16:38.250] Sen. Sherwin T. Gatchalian**  
 you, Mr. President.
 
-**[03:16:39.740] Sen. Francis “Chiz” Escudero**  
+**[03:16:39.740] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senate President Gachalian. Next to make his interjections would be Senator Rafi Tulfo. You're recognized, sir. You may proceed when you're ready. You have two minutes, sir.
 
-**[03:17:00.340] Sen. Raffy Tulfo**  
+**[03:17:00.340] Sen. Raffy T. Tulfo**  
 Madam Witness, ayon sa COA Circular 2015-01, pagdating sa disbursement ng confidential file, ang authorized lang dapat talaga yung head ng agency or yung designated person.
 
-**[03:17:17.320] Sen. Raffy Tulfo**  
+**[03:17:17.320] Sen. Raffy T. Tulfo**  
 ng
 
-**[03:17:17.840] Sen. Raffy Tulfo**  
+**[03:17:17.840] Sen. Raffy T. Tulfo**  
 agency na yon. You agree? And in this case, ang SDO is Edward Fajarda. Alam na natin, kanina pa natin pag-usapan. Correct?
 
 **[03:17:26.370] Nenita Camposano**  
 Yes.
 
-**[03:17:27.230] Sen. Raffy Tulfo**  
+**[03:17:27.230] Sen. Raffy T. Tulfo**  
 Now, anong mga dokumentong sinamiti sa land bank, the land bank, para magpapatunay na in fact talagang si Edward Fajarda ang designated SDO?
 
 **[03:17:38.930] Nenita Camposano**  
 Wala po. Wala? Wala po.
 
-**[03:17:41.610] Sen. Raffy Tulfo**  
+**[03:17:41.610] Sen. Raffy T. Tulfo**  
 Anong sinabing wala? So, Walang dokumentong isinumite na dinedesignate si Fajarda ng head ng agency na yan para sabihin ito ang SDO. Ito yung maging katransaksyon nyo? Wala? Wala. Laway lang?
 
 **[03:17:58.670] Nenita Camposano**  
 Nagpunta po doon si Mr. Fajarda na siya yung payee at nagpresent po siya ng identification. Of
 
-**[03:18:05.250] Sen. Raffy Tulfo**  
+**[03:18:05.250] Sen. Raffy T. Tulfo**  
 course, pero dapat meron siyang dokumentong pinipresent na siya ang dinedesignate ng head ng agency na yun bilang SDO. Right?
 
 **[03:18:13.090] Nenita Camposano**  
 Wala po silang naipresent
 
-**[03:18:14.510] Sen. Raffy Tulfo**  
+**[03:18:14.510] Sen. Raffy T. Tulfo**  
 sa amin. And then you honor it? Face value? Nagpakita lang siya ng dokumento? Ako si Fajarda at ako yung designated SDO? Just like that? And you said okay?
 
 **[03:18:24.460] Nenita Camposano**  
 Yes, sir.
 
-**[03:18:25.360] Sen. Raffy Tulfo**  
+**[03:18:25.360] Sen. Raffy T. Tulfo**  
 Wow. No.
 
-**[03:18:28.750] Sen. Raffy Tulfo**  
+**[03:18:28.750] Sen. Raffy T. Tulfo**  
 Under the COA circular, it should only be the head of that agency who happens to be the VP. Or kung ayaw ni VP, mag-designate siya ng
 
-**[03:18:37.510] Sen. Raffy Tulfo**  
+**[03:18:37.510] Sen. Raffy T. Tulfo**  
 tao na maging SDO niya at meron siyang dokumento pipirman para ini-endorse niya ang SDO na iyon.
 
-**[03:18:44.680] Sen. Raffy Tulfo**  
+**[03:18:44.680] Sen. Raffy T. Tulfo**  
 Who happens to be Paharda? And you said, wala. So sinabi ni Paharda, hello, ako si Paharda, akong designated na SDO ng DepEd. And agad-agad, pininiwalaan niyo.
 
 **[03:18:55.520] Nenita Camposano**  
 During the first encashment, na-mention po ni Ma'am Sonia na mag-e-encash si Mr. Paharda. Pero parang hindi naman yan na-mention na SDO.
 
-**[03:19:05.100] Sen. Raffy Tulfo**  
+**[03:19:05.100] Sen. Raffy T. Tulfo**  
 No, Ma'am. Ang ibig sabihin dapat, someone should have endorsed Paharda as the SDO for the DepEd.
 
-**[03:19:12.690] Sen. Raffy Tulfo**  
+**[03:19:12.690] Sen. Raffy T. Tulfo**  
 Sabi mo wala. So pumunta lang si Paharda doon, nag-present. Presenta yung sarili niya. Sinabi niya, akong SDO ng Deped. And then sabi niya, okay, sige.
 
-**[03:19:21.470] Sen. Raffy Tulfo**  
+**[03:19:21.470] Sen. Raffy T. Tulfo**  
 So
 
-**[03:19:21.910] Sen. Raffy Tulfo**  
+**[03:19:21.910] Sen. Raffy T. Tulfo**  
 hindi kayo sumunod doon sa pata kanan ng Kuwa Circular?
 
 **[03:19:25.820] Nenita Camposano**  
 Wala pong nag-present sa amin, sir.
 
-**[03:19:27.940] Sen. Raffy Tulfo**  
+**[03:19:27.940] Sen. Raffy T. Tulfo**  
 Wala. Okay. So paano naman kung si Paharda talagang authorized na mag-withdraw o magkipag-transact ng limpak-limpak na salapi?
 
 **[03:19:40.180] Nenita Camposano**  
 As pay of the cheque, in honor na po namin yun.
 
-**[03:19:44.500] Sen. Raffy Tulfo**  
+**[03:19:44.500] Sen. Raffy T. Tulfo**  
 As pay of the cheque. So, sino ang tumatawag sa inyo para sabihin na si Fahada pupunta dyan at mag-withdraw ng such and such amount of money two days before?
 
 **[03:19:53.660] Nenita Camposano**  
 Si Miss Sonia De Leon po.
 
-**[03:19:55.760] Sen. Raffy Tulfo**  
+**[03:19:55.760] Sen. Raffy T. Tulfo**  
 Sino po si Sonia De Leon?
 
 **[03:19:57.000] Nenita Camposano**  
@@ -3248,79 +3248,79 @@ Siya po
 **[03:19:57.200] Nenita Camposano**  
 ang head ng cash division ng DepEd.
 
-**[03:20:01.260] Sen. Raffy Tulfo**  
+**[03:20:01.260] Sen. Raffy T. Tulfo**  
 Okay, siya yung kilala niyong head cash division ng DepEd. Pero, you know what?
 
-**[03:20:06.180] Sen. Raffy Tulfo**  
+**[03:20:06.180] Sen. Raffy T. Tulfo**  
 Nagtataka pa rin ako na...
 
-**[03:20:08.660] Sen. Raffy Tulfo**  
+**[03:20:08.660] Sen. Raffy T. Tulfo**  
 Wala kayong hawak na dokumento na nagsasabing si Fajarda ang designated SDO coming from the head of that agency na
 
-**[03:20:20.090] Sen. Raffy Tulfo**  
+**[03:20:20.090] Sen. Raffy T. Tulfo**  
 pirmado.
 
 **[03:20:21.190] Nenita Camposano**  
 Wala.
 
-**[03:20:22.050] Sen. Raffy Tulfo**  
+**[03:20:22.050] Sen. Raffy T. Tulfo**  
 Wala, sir. Thank
 
-**[03:20:24.980] Sen. Francis “Chiz” Escudero**  
+**[03:20:24.980] Sen. Francis "Chiz" G. Escudero**  
 you,
 
-**[03:20:25.220] Sen. Raffy Tulfo**  
+**[03:20:25.220] Sen. Raffy T. Tulfo**  
 Madam.
 
-**[03:20:26.360] Sen. Francis “Chiz” Escudero**  
+**[03:20:26.360] Sen. Francis "Chiz" G. Escudero**  
 Thank
 
-**[03:20:27.040] Sen. Francis “Chiz” Escudero**  
+**[03:20:27.040] Sen. Francis "Chiz" G. Escudero**  
 you, Senator Judge Raffi. Actually, the Chair would like to make a brief interjection. The payee of the check is Fajarda. Correct, ma'am?
 
 **[03:20:40.910] Nenita Camposano**  
 Yes, sir.
 
-**[03:20:41.770] Sen. Francis “Chiz” Escudero**  
+**[03:20:41.770] Sen. Francis "Chiz" G. Escudero**  
 So kung sino, kung kanino nakapangalan yung cheque, doon yung ibibigay.
 
 **[03:20:46.070] Nenita Camposano**  
 Yes.
 
-**[03:20:46.490] Sen. Francis “Chiz” Escudero**  
+**[03:20:46.490] Sen. Francis "Chiz" G. Escudero**  
 Yung cash o kapalit yung cheque.
 
-**[03:20:48.850] Sen. Francis “Chiz” Escudero**  
+**[03:20:48.850] Sen. Francis "Chiz" G. Escudero**  
 Kung
 
-**[03:20:49.250] Sen. Francis “Chiz” Escudero**  
+**[03:20:49.250] Sen. Francis "Chiz" G. Escudero**  
 SDO man siya o hindi. Pero sa ayon sa COA Circular, SDO lamang ang pwedeng pangalanan ng mga ganyan cheque. Hindi nyo na
 
-**[03:20:57.230] Sen. Francis “Chiz” Escudero**  
+**[03:20:57.230] Sen. Francis "Chiz" G. Escudero**  
 po alam yung bagay na yun.
 
 **[03:20:58.800] Nenita Camposano**  
 Nag-ano lang po kami sa pay-in ng cheque, sir.
 
-**[03:21:01.100] Sen. Francis “Chiz” Escudero**  
+**[03:21:01.100] Sen. Francis "Chiz" G. Escudero**  
 Kung kaninong pangalan yung nakalagay doon, yun po ang sinusunod lang niya. Yes, Representative Chua.
 
 **[03:21:06.170] Rep. Joel R. Chua**  
 Yes, Your Honor. Thank you, Your Honor. Your Honor, the witness has no knowledge as to the designation of Mr. Pajarda and as to the purpose of the fund, Your Honor.
 
-**[03:21:20.370] Sen. Francis “Chiz” Escudero**  
+**[03:21:20.370] Sen. Francis "Chiz" G. Escudero**  
 As to being SDO, yes. I believe
 
-**[03:21:22.350] Sen. Francis “Chiz” Escudero**  
+**[03:21:22.350] Sen. Francis "Chiz" G. Escudero**  
 you will be presenting another
 
-**[03:21:23.750] Sen. Francis “Chiz” Escudero**  
+**[03:21:23.750] Sen. Francis "Chiz" G. Escudero**  
 witness for that.
 
 **[03:21:24.750] Rep. Joel R. Chua**  
 Yes, we are going to present another witness for that, Your Honor. Thank you, Your Honor.
 
-**[03:21:28.250] Sen. Francis “Chiz” Escudero**  
+**[03:21:28.250] Sen. Francis "Chiz" G. Escudero**  
 Jury noted. Senator Judge Aquino is recognized. You may proceed, sir. When you're ready, you have two minutes. Yes, before my line
 
 **[03:21:34.030] Sen. Paolo Benigno “Bam” Aquino**  
@@ -3437,7 +3437,7 @@ All right.
 **[03:25:05.780] Sen. Paolo Benigno “Bam” Aquino**  
 Maraming salamat, Mr. Chairman.
 
-**[03:25:09.410] Sen. Francis “Chiz” Escudero**  
+**[03:25:09.410] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Ejercito is recognized for his interjection. You may proceed, sir. When you're ready, you have two minutes.
 
 **[03:25:15.190] Sen. Joseph Victor “JV” Ejercito**  
@@ -3476,52 +3476,52 @@ That's all.
 **[03:26:41.920] Sen. Joseph Victor “JV” Ejercito**  
 Thank you.
 
-**[03:26:42.680] Sen. Francis “Chiz” Escudero**  
+**[03:26:42.680] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Jajercito. If there are no other Senator Judges who wish to make interventions, Chair would like to make a few.
 
-**[03:26:50.850] Sen. Francis “Chiz” Escudero**  
+**[03:26:50.850] Sen. Francis "Chiz" G. Escudero**  
 Ms. Camposano, ma'am? Tama po bang translation ito? Unusual sa Tagalog, kakaiba. Yes, Your Honor.
 
-**[03:27:00.140] Sen. Francis “Chiz” Escudero**  
+**[03:27:00.140] Sen. Francis "Chiz" G. Escudero**  
 Suspicious, tama po ba? Kaduda-duda.
 
 **[03:27:02.880] Nenita Camposano**  
 Yes, Your Honor.
 
-**[03:27:04.380] Sen. Francis “Chiz” Escudero**  
+**[03:27:04.380] Sen. Francis "Chiz" G. Escudero**  
 Sangayon sa AMLOC, yung kaduda-duda dapat i-report, pero yung kakaiba, hindi kailangan i-report. Yes, Your Honor. Tama po. Sabi niyo po kasi kanina, yung unusual, hindi kailangan i-report, pero yung suspicious, kailangan i-report. Sangayon sa batas. Hindi ko po sinasabing suspicious ito. Sinasabi ko lang, yun yung sinasabi ng batas.
 
 **[03:27:26.640] Nenita Camposano**  
 Yes, sir. Ang suspicious transaction po ay kailangan natin i-report sa STR, sa AMLC. And yung unusual, kung unusual lang naman siya, wala naman pong suspicious doon sa transaction, hindi po siya kailangan i-report.
 
-**[03:27:44.510] Sen. Francis “Chiz” Escudero**  
+**[03:27:44.510] Sen. Francis "Chiz" G. Escudero**  
 Isa na lang po katanungan, curious lang po ako. Sabi niyo po, para pangalagaan ang kaligtasan ng inyong empleyado, hindi pwedeng...
 
-**[03:27:53.240] Sen. Francis “Chiz” Escudero**  
+**[03:27:53.240] Sen. Francis "Chiz" G. Escudero**  
 ihatid
 
-**[03:27:53.680] Sen. Francis “Chiz” Escudero**  
+**[03:27:53.680] Sen. Francis "Chiz" G. Escudero**  
 ng sino mang empleyado ng bangko yung pinagbigyan ng pera, gaano mang kalito, gaano kalaki, dahil kapag kahawak niya na yun, kanya na yun. Tama po ba? Opo. Ibig sabihin po ba nun, pag na-withdraw na yung pera at hawak nun ang depositor yung pera, pag may nang hold up ng bangko, matapos niyang mahawakan yung pera, sa noho yung mawawalan, di na kayo. Ganun po ba yan? Hindi. Sa praktika lang usapan. Gayun din, paglabas niya ng bangko niyo, nahold up siya doon, hawak niya na eh. Wala na kayong pakialam, di ba? Kaya kayo may pulisiyeng gano 'n
 
-**[03:28:30.140] Sen. Francis “Chiz” Escudero**  
+**[03:28:30.140] Sen. Francis "Chiz" G. Escudero**  
 na bawal magatid. Dahil nga, pag hawak na niya, kanya na yun. Opo. Kanya na yun, pananagutan niya na yun, wala na kayong pakialam. Ano man ang mangyari doon?
 
 **[03:28:39.360] Nenita Camposano**  
 Yes, Your Honor.
 
-**[03:28:40.400] Sen. Francis “Chiz” Escudero**  
+**[03:28:40.400] Sen. Francis "Chiz" G. Escudero**  
 Mawala man yun, nakawin man yun, hold upin man yun, labas na kayo doon.
 
 **[03:28:44.220] Nenita Camposano**  
 Yes, Your Honor.
 
-**[03:28:45.280] Sen. Francis “Chiz” Escudero**  
+**[03:28:45.280] Sen. Francis "Chiz" G. Escudero**  
 That would be all, Ms. Campuzano. Are there any other interjections or interventions by any of the Senator judges?
 
 **[03:28:51.790] Sen. Sherwin T. Gatchalian**  
 One quick question. The
 
-**[03:28:53.270] Sen. Francis “Chiz” Escudero**  
+**[03:28:53.270] Sen. Francis "Chiz" G. Escudero**  
 Senate President is recognized. One quick question, Mr. Presiding Officer.
 
 **[03:28:56.910] Sen. Sherwin T. Gatchalian**  
@@ -3545,13 +3545,13 @@ Yes, Your Honor. Thank
 **[03:29:50.420] Sen. Sherwin T. Gatchalian**  
 you, Mr. President.
 
-**[03:29:52.340] Sen. Francis “Chiz” Escudero**  
+**[03:29:52.340] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Lacson is recognized for his intervention. You may proceed, sir, when you're ready. Thank
 
-**[03:29:57.060] Sen. Panfilo M. Lacson**  
+**[03:29:57.060] Sen. Panfilo “Ping” M. Lacson**  
 you, Mr. President.
 
-**[03:30:00.000] Sen. Panfilo M. Lacson**  
+**[03:30:00.000] Sen. Panfilo “Ping” M. Lacson**  
 lang. Binabasa ko po yung anti-money laundering act. Wala namang po kaduda-duda nun eh. Either covered or suspicious. Pag covered, may threshold. Maski hindi suspicious, kailangan report. Kung above the threshold amount. Which is 500. Wala po sa batas yung kaduda-duda eh. Either it's suspicious or covered. Transaction.
 
 **[03:30:29.230] Nenita Camposano**  
@@ -3560,37 +3560,37 @@ Ano kasi yun sir? Pagka ang covered transaction, automatic pong nakareport siya 
 **[03:30:56.670] Nenita Camposano**  
 Suspicious pa rin po siya. So that's when kami magre-report a suspicious transaction.
 
-**[03:31:02.250] Sen. Panfilo M. Lacson**  
+**[03:31:02.250] Sen. Panfilo “Ping” M. Lacson**  
 Pero there's no such thing in the law na doubtful or kaduda-duda.
 
-**[03:31:08.700] Sen. Panfilo M. Lacson**  
+**[03:31:08.700] Sen. Panfilo “Ping” M. Lacson**  
 Unusual. It's just covert or suspicious. So
 
 **[03:31:13.500] Nenita Camposano**  
 parang pinag-nagduda ka and in-investigate.
 
-**[03:31:18.220] Sen. Panfilo M. Lacson**  
+**[03:31:18.220] Sen. Panfilo “Ping” M. Lacson**  
 Walang middle layer, ibig sabihin.
 
 **[03:31:20.620] Nenita Camposano**  
 Yes. Pag
 
-**[03:31:21.780] Sen. Panfilo M. Lacson**  
+**[03:31:21.780] Sen. Panfilo “Ping” M. Lacson**  
 above the threshold, tapos covert institution, like casinos, real estate. automatic i-report yun kasi covered institution. Ngayon, ordinary depositor, pumunta sa banko, nag-deposit o nag-withdraw ng more than 500, that's above the threshold. It becomes a covered transaction.
 
 **[03:31:41.420] Nenita Camposano**  
 So
 
-**[03:31:41.800] Sen. Panfilo M. Lacson**  
+**[03:31:41.800] Sen. Panfilo “Ping” M. Lacson**  
 wala akong kaduda-duda.
 
-**[03:31:45.900] Sen. Panfilo M. Lacson**  
+**[03:31:45.900] Sen. Panfilo “Ping” M. Lacson**  
 Suspicious. Suspicious lang. Wala yung middle. It's either you categorize it into covered or suspicious. Huwag na ho tayo mag-uusap ng kaduda-duda. Or unusual pala, sorry. Huwag na natin pag-usapan yung unusual.
 
-**[03:32:03.290] Sen. Panfilo M. Lacson**  
+**[03:32:03.290] Sen. Panfilo “Ping” M. Lacson**  
 Either kaduda-duda lang or covered. Yes, sir. Thank you.
 
-**[03:32:11.030] Sen. Francis “Chiz” Escudero**  
+**[03:32:11.030] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Villanueva for his second round. No,
 
 **[03:32:16.020] Sen. Joel Villanueva**  
@@ -3605,34 +3605,34 @@ So kaya po siya unusual, sir? Yun
 **[03:33:22.770] Sen. Joel Villanueva**  
 nga po. Kaya tinatanong ko po kayo, whenever you say this, na it's unusual, dahil pumapasok po siya sa kategoryang ito.
 
-**[03:33:29.190] Sen. Francis “Chiz” Escudero**  
+**[03:33:29.190] Sen. Francis "Chiz" G. Escudero**  
 Yes, sir.
 
 **[03:33:29.770] Sen. Joel Villanueva**  
 Salamat po. Senator
 
-**[03:33:32.580] Sen. Francis “Chiz” Escudero**  
+**[03:33:32.580] Sen. Francis "Chiz" G. Escudero**  
 Judge Lacson is recognized.
 
-**[03:33:35.780] Sen. Panfilo M. Lacson**  
+**[03:33:35.780] Sen. Panfilo “Ping” M. Lacson**  
 Medyo na-confuse lang ako kanina. I did not mean kaduda-duda, but yung unusual na sinasabi kong wala.
 
-**[03:33:41.540] Sen. Panfilo M. Lacson**  
+**[03:33:41.540] Sen. Panfilo “Ping” M. Lacson**  
 Thank
 
-**[03:33:42.540] Sen. Panfilo M. Lacson**  
+**[03:33:42.540] Sen. Panfilo “Ping” M. Lacson**  
 you. Kasi yung kaduda-duda na mistook ko as unusual.
 
-**[03:33:50.410] Sen. Francis “Chiz” Escudero**  
+**[03:33:50.410] Sen. Francis "Chiz" G. Escudero**  
 Ako na po yung nag-translate nun. Suspicious equals kaduda-duda, unusual kakaiba.
 
-**[03:33:58.680] Sen. Francis “Chiz” Escudero**  
+**[03:33:58.680] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Lauren Legarde is recognized for her interjection.
 
-**[03:34:03.080] Sen. Francis “Chiz” Escudero**  
+**[03:34:03.080] Sen. Francis "Chiz" G. Escudero**  
 You
 
-**[03:34:03.520] Sen. Francis “Chiz” Escudero**  
+**[03:34:03.520] Sen. Francis "Chiz" G. Escudero**  
 may proceed, Ma'am Munoz. You have two minutes.
 
 **[03:34:07.450] Sen. Loren Legarda**  
@@ -3695,7 +3695,7 @@ Yes, ma'am. Okay.
 **[03:38:29.600] Sen. Loren Legarda**  
 Thank
 
-**[03:38:30.000] Sen. Francis “Chiz” Escudero**  
+**[03:38:30.000] Sen. Francis "Chiz" G. Escudero**  
 you. Thank you, ma'am. Senator Judge Padilla first. Apologies, Senator Allen. Senator Judge Padilla, for his interjections thereafter, Senator Judge Alan Cayetano. You have two minutes, sir. You may proceed with your ready. Maraming salamat po. Isang mabilis lang
 
 **[03:38:44.900] Sen. Robinhood “Robin” Padilla**  
@@ -3743,7 +3743,7 @@ head ng agency.
 **[03:39:34.760] Sen. Robinhood “Robin” Padilla**  
 So hindi po siya pangkaraniwan kasi depende? Tama po. Salamat po.
 
-**[03:39:39.020] Sen. Francis “Chiz” Escudero**  
+**[03:39:39.020] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Padilla. Senator Judge Alan Cayetano is recognized for his interjections. You have two minutes, sir. You may proceed when you're ready.
 
 **[03:39:47.520] Sen. Alan Peter Cayetano**  
@@ -3791,72 +3791,72 @@ Yes, in
 **[03:42:03.130] Sen. Alan Peter Cayetano**  
 fact, here in the Senate, in COCUS, ako lang halos ang nag-object. I think dalawa lang kami o tatlo. Ang sinabi ko nun sa chairman namin ng Committee on Finance, if the Vice President needs that amount, let's put it all in OVP. Same amount na nire-request niya kasi at least dun usually naman talaga meron kasi nga or pwede. Kasi vice president siya. And then kung siya ay nasa security council or kung siya ay nasa any law enforcement. Ang argument ko nun, if you put it in DepEd, paano pag napalitan yung sekretary, will we continue it, etc. So anyway, I just agree with the other senators here that as we go along, let's help the public understand the difference between covered, suspicious, and... usual, unusual. Para lang walang conclusions that are made that are prejudicial to either the prosecution or the defense. Thank you. Thank you, Senator
 
-**[03:43:05.280] Sen. Francis “Chiz” Escudero**  
+**[03:43:05.280] Sen. Francis "Chiz" G. Escudero**  
 Judge Cayetano.
 
-**[03:43:08.350] Sen. Francis “Chiz” Escudero**  
+**[03:43:08.350] Sen. Francis "Chiz" G. Escudero**  
 There being no other senator judges who wish to make interjections, Ms. Camposano, you are excused, ma'am. Thank you very much for your time and your cooperation. Salamat po sa inyong pagkikilahok. sa pagdinig na ito ng impeachment court. Your excuse, ma'am.
 
-**[03:43:29.010] Sen. Francis “Chiz” Escudero**  
+**[03:43:29.010] Sen. Francis "Chiz" G. Escudero**  
 On the part of the prosecution, may I know who are your witnesses for next week's trial?
 
 **[03:43:37.550] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 The lead
 
-**[03:43:38.510] Sen. Francis “Chiz” Escudero**  
+**[03:43:38.510] Sen. Francis "Chiz" G. Escudero**  
 prosecutor is recognized.
 
 **[03:43:40.250] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, and in response to your question, we are requesting for the issuance of Sabina Ducez-Tecum and Sabina A. Testificant for the following witnesses. One, Roderick C. Wamil. Former State Auditor of COA ICFAO. Address is Commission and Audit, Central Office Compound, Commonwealth Avenue, Quezon City. 2. Ms. Sylene May L. Del Campo. Present State Auditor of COA ICFAO with same address. 3. Ms. Marivic Pareja. Director of House of Representative, Legislative Information, Resources Management Department, Batasan Pambansa Complex, Batasan Hills, Quezon City. Your Honor, these three witnesses are intended to be presented on August 3, August 4, and August 5, trial schedules.
 
-**[03:44:43.710] Sen. Francis “Chiz” Escudero**  
+**[03:44:43.710] Sen. Francis "Chiz" G. Escudero**  
 In that order,
 
 **[03:44:44.590] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Honorable
 
-**[03:44:46.070] Sen. Francis “Chiz” Escudero**  
+**[03:44:46.070] Sen. Francis "Chiz" G. Escudero**  
 Bistro. So first, Roderick, next, Cylene, and third would be Maravick.
 
 **[03:44:51.260] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 That's correct, Your Honor.
 
-**[03:44:52.480] Sen. Francis “Chiz” Escudero**  
+**[03:44:52.480] Sen. Francis "Chiz" G. Escudero**  
 The Clerk of Court is directed to issue the corresponding subpoena at testificandum, subpoena dosis tecum to the aforementioned witnesses at the aforestated addresses of the witnesses mentioned by the lead prosecutor. So, ordered.
 
-**[03:45:08.370] Sen. Francis “Chiz” Escudero**  
+**[03:45:08.370] Sen. Francis "Chiz" G. Escudero**  
 Chair would like to dispose of one other administrative matter.
 
-**[03:45:13.460] Sen. Francis “Chiz” Escudero**  
+**[03:45:13.460] Sen. Francis "Chiz" G. Escudero**  
 Last July 15, the Honorable Aquino asked a question before this Court regarding the procedure. If after each article we will hear both the prosecution and the defense and the presiding officer responded in the negative, citing as basis the precedent in the Corona impeachment trial, the only trial that actually went through the whole course, wherein the prosecution finished presentation of their evidence with respect to all of the articles of impeachment that they did not withdraw. Thereafter, the defense presented their evidence with respect to the articles of impeachment that were not withdrawn by the prosecution. Sometime last week, the presiding officer, based on some of the suggestions by some of the senator judges, called for a sidebar with the lead prosecutor and the lead counsel for respondent to throw a question at them if they're open to changing the procedure. to the one suggested in open court by Senator Bam Aquino. However, subject to one condition, that both parties should be agreeable, that both parties should agree. We are in receipt of a manifestation. Actually, just a reminder to the Council, to the panel of prosecutors, you filed a manifestation, not a manifestation.
 
-**[03:46:35.570] Sen. Francis “Chiz” Escudero**  
+**[03:46:35.570] Sen. Francis "Chiz" G. Escudero**  
 The manifestation dated 7-27, and the response of the respondents dated 7-28. wherein it is clear based on your written manifestations that there is no agreement between the two parties. Therefore, we shall proceed as originally ruled by the Chair from the inquiry of Senator Bam Aquino. We shall finish with the presentation of the evidence in chief of the prosecutors for all the articles of impeachment that they will not withdraw. I'm saying that only because of the corona impeachment experience we had wherein some articles were withdrawn by the prosecution. Thereafter, we will hear the evidence in chief of the respondent for all the articles that remain or all the articles that evidence will be presented by the prosecution. So ordered. If there are no other matters, Senator Judge Zubiri is recognized.
 
-**[03:47:34.430] Sen. Juan Miguel “Migz” Zubiri**  
+**[03:47:34.430] Sen. Juan Miguel “Migz” F. Zubiri**  
 Mr. President, Mr. Presiding Officer. There is just a request from most of our colleagues here that if we can adjust our schedule in the mornings to 10.30 in the morning till 3.30 in the afternoon. Because like the minority leader who comes from Bicutan, inaabutan po siya ng traffic pag maaga. Ganun din ang haba ng biyahe niya. So baka pwede naman ma-adjust natin ng 10.30 ng umaga. At then 3.30 ng hapon tayo matapos. At 4 o'clock tayo mag-session. Kasi anyway, ililipat lang naman natin yung mga lamesa. Madali naman yan gawin. You don't need one hour to... That is the first question. I have a second question. The second question is, may we start our legislative session today earlier? We will respond to both. Thank you, Mr. President. Senator
 
-**[03:48:26.940] Sen. Francis “Chiz” Escudero**  
+**[03:48:26.940] Sen. Francis "Chiz" G. Escudero**  
 Lapid would like to amend that a bit. If we can start at 10.30 and end at 2.30 so that we can begin our session regularly at 3.00.
 
-**[03:48:39.620] Sen. Francis “Chiz” Escudero**  
+**[03:48:39.620] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge
 
-**[03:48:41.000] Sen. Panfilo M. Lacson**  
+**[03:48:41.000] Sen. Panfilo “Ping” M. Lacson**  
 Mr. Senate President, Mr. Presiding Officer, i-caucus na lang po natin yung first manifestation ni Majority Leader.
 
-**[03:48:47.960] Sen. Francis “Chiz” Escudero**  
+**[03:48:47.960] Sen. Francis "Chiz" G. Escudero**  
 So if you will hold the caucus first, we have to adjourn today at a specific time. So will it be 10:00 or 10:30?
 
-**[03:48:54.920] Sen. Panfilo M. Lacson**  
+**[03:48:54.920] Sen. Panfilo “Ping” M. Lacson**  
 I would prefer 10.00 o'clock so 
 I would suggest na ikokus natin.
 
-**[03:48:58.690] Sen. Francis “Chiz” Escudero**  
+**[03:48:58.690] Sen. Francis "Chiz" G. Escudero**  
 10.00 for this Monday, August 3. Then we adjust after the caucus.
 
-**[03:49:04.730] Sen. Francis “Chiz” Escudero**  
+**[03:49:04.730] Sen. Francis "Chiz" G. Escudero**  
 But for this afternoon, upon the authorization of the Senate President, we shall convene at 3pm, the regular session of the Senate for today.
 
-**[03:49:15.500] Sen. Francis “Chiz” Escudero**  
+**[03:49:15.500] Sen. Francis "Chiz" G. Escudero**  
 There being no other matters to be taken up, the trial is adjourned until August 3 at 10am in the morning and session for this afternoon shall be convened. At 3pm for the information of all the senators. Trial is adjourned.

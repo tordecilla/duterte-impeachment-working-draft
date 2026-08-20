@@ -32,16 +32,16 @@ Senate President Gatchalian With
 **[00:08:29.690] Sen. Sherwin T. Gatchalian**  
 20 Senators present, the Chair declares the presence of a quorum. In accordance with the Rules of Procedure on Impeachment Trials The Chair now recognizes the newly elected Presiding Officer to preside over the proceedings of the Impeachment Court.
 
-**[00:08:44.900] Sen. Francis “Chiz” Escudero**  
+**[00:08:44.900] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Mr. Senate President. Before recognizing Senator Judge Padilla, Chair would first like to dispense with the Journal. If there are no objections, we dispense with the reading of the Journal of July 15, 2026 of the Senate sitting as an Impeachment Court and shall consider the same as approved.
 
-**[00:09:10.020] Sen. Francis “Chiz” Escudero**  
+**[00:09:10.020] Sen. Francis "Chiz" G. Escudero**  
 The Clerk of Court will please call the
 
 **[00:09:11.940] Atty. Renato N. Bantug Jr.**  
 matter before the Impeachment Court. Case number 004-2026 in the matter of Impeachment Trial of Vice President Sarah Zimmerman Duterte. Appearances for the parties.
 
-**[00:09:24.600] Sen. Francis “Chiz” Escudero**  
+**[00:09:24.600] Sen. Francis "Chiz" G. Escudero**  
 Appearances for the prosecution.
 
 **[00:09:32.790] Rep. Gerville “Jinky Bitrics” R. Luistro**  
@@ -77,7 +77,7 @@ That a senator does not obey the law. A senator-judge. Here, I can give you
 **[00:12:27.050] Sen. Robinhood “Robin” Padilla**  
 a copy, my dear colleagues, to prove
 
-**[00:13:20.320] Sen. Francis “Chiz” Escudero**  
+**[00:13:20.320] Sen. Francis "Chiz" G. Escudero**  
 Senators Erwin Tulfo, Sen. Judge Alan Quetano, thereafter Sen. Judge Tito Soto are recognized. What is your pleasure, Sen. Judge Erwin Tulfo?
 
 **[00:13:34.620] Sen. Erwin Tulfo**  
@@ -110,7 +110,7 @@ And this is not also the time, Mr. President, Mr. Presiding Officer, na hanapin 
 **[00:18:43.140] Sen. Erwin Tulfo**  
 President. This is not the right forum for us to defend ourselves. Bring it somewhere else, bring it to the press, bring it to the social media, but not here. Thank you, Mr. President.
 
-**[00:18:54.960] Sen. Francis “Chiz” Escudero**  
+**[00:18:54.960] Sen. Francis "Chiz" G. Escudero**  
 The remarks of the gentleman are noted. Earlier, Senator Judge Allen asked to be recognized. Are you yielding in favor of Senator Judge Padilla? And thereafter, Senator Judge Soto, thereafter, Senator Judge Padilla before the chair makes a ruling on the matter. Yes, Senator Judge Allen Cayetano is recognized. You may proceed, sir.
 
 **[00:19:15.640] Sen. Alan Peter Cayetano**  
@@ -125,7 +125,7 @@ When Sen. Mark Coleta brought that up here, nagkaroon ng commotion. Sen. Miriam 
 **[00:22:00.020] Sen. Alan Peter Cayetano**  
 Secretary Vince Dizon, tatlong bes na nag-verify sa tagig, sinabi na tatlong beses na walang ghost, ngayon i-verify ulit. I wasn't going to bring that up, but then i-question ninyo si Senator Padilla. It was all over the news na hindi niya inintindi or he snubbed the ombudsman. I was going to stand up before Senator Erwin stood up just to say, may registered mail. So nung una pa lang, five minutes si Senator Tulfo, so I'll take the five minutes also if you don't mind.
 
-**[00:22:27.340] Sen. Francis “Chiz” Escudero**  
+**[00:22:27.340] Sen. Francis "Chiz" G. Escudero**  
 The gentleman may proceed and kindly be mindful of the time. Yes, I will now. So
 
 **[00:22:31.480] Sen. Alan Peter Cayetano**  
@@ -134,13 +134,13 @@ I'm just saying, Senator Padilla just stood up to say, sumusunod siya sa batas, 
 **[00:22:47.570] Sen. Alan Peter Cayetano**  
 na narinig dito. It's our job to clear or prosecute the vice president. Hindi po. It's our job to try and to decide. It's the prosecution's job to try to prosecute and it's the defense's job to convince us na wala. Our job is to try and to decide. And when you decide, you acquit or you convict. Why is that important? These are legal terms. Hindi pwede yung nanonood na Law student ngayon sasabihin, trabaho pala ng judge to clear or to prosecute. Thank you, Mr. Presiding Officer, Mr. Senate President.
 
-**[00:23:23.550] Sen. Francis “Chiz” Escudero**  
+**[00:23:23.550] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Alan Cayetano. His remarks are noted. Senator Judge Soto thereafter, Senator Judge Padilla thereafter, the Presiding Officer shall make a ruling. You may proceed, sir. You have two minutes. Thank
 
 **[00:23:36.900] Sen. Vicente C. Sotto III**  
 you, Mr. President, the Presiding Officer. I do not have four years of law. But I have 29 years of lawmaking, and I move that the manifestations that we have heard be referred to the Senate proper.
 
-**[00:23:56.460] Sen. Francis “Chiz” Escudero**  
+**[00:23:56.460] Sen. Francis "Chiz" G. Escudero**  
 We will act on it at the proper time, Your Honor. Thank you. Your remarks are noted. Senator Judge Padilla is recognized. You may proceed, sir. You have two minutes.
 
 **[00:24:17.420] Sen. Robinhood “Robin” Padilla**  
@@ -155,7 +155,7 @@ That's all.
 **[00:25:17.150] Sen. Robinhood “Robin” Padilla**  
 I'm very sorry. Due process, mga mahal kong kaibigan, mga mahal kong kababayan, maging prosecution, maging defense, sa ating lahat, huwag nating kalimutan, pantay-pantay tayo sa batas. Maraming salamat po.
 
-**[00:25:35.550] Sen. Francis “Chiz” Escudero**  
+**[00:25:35.550] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Pagninan, what is your pleasure, sir?
 
 **[00:25:38.230] Sen. Francis “Kiko” Pangilinan**  
@@ -173,52 +173,52 @@ The senator feels threatened or anything happens, whether pinatayan ng aircon, w
 **[00:27:50.110] Sen. Alan Peter Cayetano**  
 Lorenzo
 
-**[00:28:04.990] Sen. Francis “Chiz” Escudero**  
+**[00:28:04.990] Sen. Francis "Chiz" G. Escudero**  
 C.
 
 **[00:28:13.030] Sen. Francis “Kiko” Pangilinan**  
 Thank you, Mr. President. Rule 6 of our impeachment rules, Mr. President, which was quoted by Senator Cayetano as being suppletory, refers to evidence, rulings on evidence. In the impeachment trial, it does not refer to privileged speeches. Therefore, the suppletory nature of the Rules of Court, as well as the Senate rules, refers to matters pertaining to evidence and no other, Mr. President. But in the spirit of liberality, we will allow that. That's precisely why we did not object when he spoke last week. But let us not abuse the liberality of this Court, Mr. President.
 
-**[00:29:00.880] Sen. Francis “Chiz” Escudero**  
+**[00:29:00.880] Sen. Francis "Chiz" G. Escudero**  
 With the permission of Senator Judge Erwin Tulfo, the Chair will make a ruling, because I believe it is also his position not to prolong this matter in discussing collateral matters not pertaining to the articles of impeachment that we are hearing and trying before the impeachment court. The chair rules that the manifestation of Senator Judge Padilla shall remain in the records. We cite as a precedent to the precedent mentioned by Senator Judge Pangilinan. Where the speech of former senator, the late former senator Rene Cayetano was not expunged from the record but referred to the Senate impeachment, Senate rather, as a legislative body where it may be taken up. I ask the indulgence of the parties to this case. Wala po kasi kaming session. Ito lang po ang pagkakataong nakakapagsalita at nakikita-kita kami habang recess kami. Pero umaasa ako. Within hearing distance of my colleagues, na kapag ka nag-resume na po ang Senado sa susunod na linggo matapos ang Sona ng Pangulo, may pagkakataon na po ang bawat miyembro ng Senado bilang Senador,
 
-**[00:30:11.900] Sen. Francis “Chiz” Escudero**  
+**[00:30:11.900] Sen. Francis "Chiz" G. Escudero**  
 hindi
 
-**[00:30:12.600] Sen. Francis “Chiz” Escudero**  
+**[00:30:12.600] Sen. Francis "Chiz" G. Escudero**  
 bilang
 
-**[00:30:12.960] Sen. Francis “Chiz” Escudero**  
+**[00:30:12.960] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge, na may labas.
 
-**[00:30:15.180] Sen. Francis “Chiz” Escudero**  
+**[00:30:15.180] Sen. Francis "Chiz" G. Escudero**  
 Yung mga hinahing o anumang nais nilang sabihin kaugnay sa anumang nagaganap o nangyayaring hindi tama sa kanila o ginagawa laban sa kanila.
 
-**[00:30:24.120] Sen. Francis “Chiz” Escudero**  
+**[00:30:24.120] Sen. Francis "Chiz" G. Escudero**  
 And that, I think, is the proper forum for us to Ventilate, discuss, look into, and if necessary, investigate the allegations and their accusations against senator-judges in their capacity likewise as senators. So ordered.
 
 **[00:30:40.500] Sen. Alan Peter Cayetano**  
 What
 
-**[00:30:40.940] Sen. Francis “Chiz” Escudero**  
+**[00:30:40.940] Sen. Francis "Chiz" G. Escudero**  
 is the pleasure of senator-judge? I will
 
 **[00:30:42.580] Sen. Alan Peter Cayetano**  
 just manifest. I correct myself. It was stamped, not registered mail. And since I agree with the ruling, I will not anymore argue the other rule that correlates with Rule 6. Thank you. Thank
 
-**[00:30:52.980] Sen. Francis “Chiz” Escudero**  
+**[00:30:52.980] Sen. Francis "Chiz" G. Escudero**  
 you, sir. Noted that
 
-**[00:30:53.940] Sen. Francis “Chiz” Escudero**  
+**[00:30:53.940] Sen. Francis "Chiz" G. Escudero**  
 it was stamped.
 
-**[00:30:56.920] Sen. Francis “Chiz” Escudero**  
+**[00:30:56.920] Sen. Francis "Chiz" G. Escudero**  
 The Senate President thereafter, Senator Judge Erwin Tulfo.
 
 **[00:31:03.000] Sen. Sherwin T. Gatchalian**  
 Thank you, Mr. Presiding Officer.
 
-**[00:31:04.840] Sen. Francis “Chiz” Escudero**  
+**[00:31:04.840] Sen. Francis "Chiz" G. Escudero**  
 Hopefully, we can move on after the manifestations to the gentlemen.
 
 **[00:31:08.640] Sen. Sherwin T. Gatchalian**  
@@ -230,40 +230,40 @@ Importante yung oras ng trial sa mga darating ng panahon. Nasabi ko nga nung mga
 **[00:32:22.660] Sen. Sherwin T. Gatchalian**  
 Pag-participate ho dito sa ating impeachment, pero dadating rin po tayo doon sa pagtatalakay nitong mahalagang issue pagbukas po ng Senado. Maraming salamat, Mr. Presiding Officer.
 
-**[00:32:32.860] Sen. Francis “Chiz” Escudero**  
+**[00:32:32.860] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Erwin Tulfo, briefly, sir, so that we can proceed to the matter on hand.
 
 **[00:32:39.340] Sen. Erwin Tulfo**  
 Very quickly, Mr. Presiding Officer, can we start now?
 
-**[00:32:42.760] Sen. Francis “Chiz” Escudero**  
+**[00:32:42.760] Sen. Francis "Chiz" G. Escudero**  
 Sir? I was about to, sir.
 
 **[00:32:44.820] Sen. Erwin Tulfo**  
 Thank you, sir. We wasted 26 minutes for nothing. Thank you po.
 
-**[00:32:50.770] Sen. Francis “Chiz” Escudero**  
+**[00:32:50.770] Sen. Francis "Chiz" G. Escudero**  
 Proceeding now to the matter on hand.
 
-**[00:32:53.610] Sen. Francis “Chiz” Escudero**  
+**[00:32:53.610] Sen. Francis "Chiz" G. Escudero**  
 The Presiding Officer already made the ruling, referring it to the Senate as a legislative body, Senator Judge Soto, without expunging it from the records. Let it remain there. We will now proceed to the matter at hand. We now resume consideration of the Prosecution's requests for the issuance of Sabinas D. Tecum No. 1. For the banks and the anti-money laundering council on the other, on one hand, and to the Bureau of Internal Revenue on the other. And as previously agreed and discussed, not only in caucus but also directly by the presiding officer with some members, chair will now recognize, as I understand, Senator Judge... Ikaw
 
-**[00:33:41.880] Sen. Francis “Chiz” Escudero**  
+**[00:33:41.880] Sen. Francis "Chiz" G. Escudero**  
 ba una? Senator Judge Allan or Senator Judge Villanueva? Or Senator Judge Villa? Who would want... No one's raising their hand, that's why I don't know... Senator Judge Villanueva is recognized.
 
-**[00:33:54.870] Sen. Francis “Chiz” Escudero**  
+**[00:33:54.870] Sen. Francis "Chiz" G. Escudero**  
 You may proceed, sir. Thereafter, Senator Judge Pia Cayetano. Thereafter, Senator Judge Alan Cayetano. You may proceed, sir.
 
 **[00:34:02.670] Sen. Joel Villanueva**  
 Thank you, Mr. President. Thank you, Mr. Presiding Officer. As much as I am more than willing to give way to our dear colleagues. But, Mr. President, before I make a... I inquire... and pose some questions to the prosecution and the defense. May I also raise something, Mr. Presiding Officer? Gusto ko lang pong malinawan tungkol po dun sa procedural aspect ginawang Pangulo dun sa motion na ito. Kasi sa regular courts, hindi naman po unusual na ang isa pong motion ay i-grant in part At i-deny in part, depende po sa legal and factual basis ng bawat relief na hinihingi po, ginong Pangulo. So, pwede ko po bang malinawan lang, Mr. Presiding Officer, tama po bang sabihin ganon din yung kapangyarihan ng ating impeachment court? Maaari po ba na suriin ang bawat hinihingi sabina ng magkahiwalay? At magpasya po batay sa legal at factual basis ng bawat isa sa halip po na tratuhin ang buong motion bilang isang all or nothing proposition.
 
-**[00:35:29.640] Sen. Francis “Chiz” Escudero**  
+**[00:35:29.640] Sen. Francis "Chiz" G. Escudero**  
 Tatratuhin ang hukumang ito bilang nag-iisang motion ang tag-isang motion na inihain ng Prosecution. They only file two motions, Sen. Judge Villanueva, and the Court will act on these two motions separately. Regardless of the number of issues or sub-issues underneath each motion, the reason is simple. Because the court should be a passive body. By amending the motion into several parts and voting on it separately, we are essentially acting as if we were one of the parties. In voting for or against the grant of the motion, we should take into consideration all of the factors that may be raised for or against it. And it may be cited by the Senator Judge in explaining his vote or voting for or against it. Pangalawa po, bilang mga hukom, hindi tayo pwedeng masyadong aktibong makilahok sa paraan ng mga musyon which is essentially a relief being asked for by a party sa pamamagitan ng paghahati ng mga musyon na iyon para pagbotohan ng hiwa-hiwalay. And there is precedent insofar
 
-**[00:36:34.830] Sen. Francis “Chiz” Escudero**  
+**[00:36:34.830] Sen. Francis "Chiz" G. Escudero**  
 as this position taken by the Presiding Officer is concerned.
 
-**[00:36:39.420] Sen. Francis “Chiz” Escudero**  
+**[00:36:39.420] Sen. Francis "Chiz" G. Escudero**  
 In the impeachment of the former Chief Justice, late former Chief Justice Corona, where then-Senate President, Presiding Officer Enrile ruled that the ruling of the Chair on motions are indivisible and may only be appealed en toto and not in part.
 
 **[00:36:57.070] Sen. Joel Villanueva**  
@@ -272,13 +272,13 @@ Thank you, Mr. Presiding Officer. And it's clear to me now, despite the fact, Mr
 **[00:38:16.410] Sen. Joel Villanueva**  
 I think it's important that we distinguish between two separate procedural questions. Una, kung dapat po bang i-produce ang hinihinging records. At pangalawa, Kung ang mga records na iyon ay magiging admissible at kung anong evidentiary weight ang dapat ibigay sa kanila. So, let me start by asking our lead prosecutor, to our dear congressman, would it be correct, sir, to say that the issuance of a subpoena merely compels The production of records and does not by itself amount to a ruling that those records are admissible, relevant, or entitled to evidentiary weight, Your Honor.
 
-**[00:39:23.230] Sen. Francis “Chiz” Escudero**  
+**[00:39:23.230] Sen. Francis "Chiz" G. Escudero**  
 Before the member of the panel for prosecutors answers, he's not the lead prosecutor. The question is addressed to the honorable representative, Chael Jocna, who is a member. who is part of the panel of prosecutors who will be answering your questions. And for the record too, on the part of the respondent, I think it's Atty. Powa who
 
 **[00:39:42.760] Sen. Alan Peter Cayetano**  
 will
 
-**[00:39:43.160] Sen. Francis “Chiz” Escudero**  
+**[00:39:43.160] Sen. Francis "Chiz" G. Escudero**  
 be answering. That's correct. So that we don't need to identify each one each time anymore for the record. The Honorable Jocno may respond to the question of Senator Judge Villanueva. You may proceed sir when you're ready. Thank you, Your
 
 **[00:39:53.980] Rep. Jose Manuel “Chel” I. Diokno**  
@@ -344,7 +344,7 @@ Which means that we must work within the limits imposed by the Constitution, the
 **[00:57:44.240] Sen. Joel Villanueva**  
 po, Atty. Mr. Presiding Officer, just a few seconds. Just to put on record, ang Senado po ay nasa plenaryo na po iyong Proposed Bright Act natin na maraming sumuportang mga kasamahan natin. Ito kasama po dito yung amendments to AMLA to put in black and white the circumstances under Which bank records financial transactions may be lawfully accessed by competent authorities? Subject always, of course, Mr. President, to appropriate safeguards and due process. So, gusto ko lang pong banggitin that, indeed, confidentiality is an important legal protection pero hindi din po ito dapat maging dahilan naman para manatiling mailap po ang pananagutan. Ang mabuting batas ay Kayang pangalagaan ang privacy ng hindi po nasasakripisyo ang accountability. Our laws must be able to protect both, Mr. President, Mr. Presiding Officer. Maraming salamat po, Ginong Pangulo. Maraming salamat po, our Councils. Thank you.
 
-**[00:58:48.590] Sen. Francis “Chiz” Escudero**  
+**[00:58:48.590] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator Judge Villanueva. Your remarks and responses thereto are duly noted and entered into the records. Senator Judge Pia Cayetano is next, I believe. You may proceed, ma'am, when you're ready.
 
 **[00:59:20.270] Sen. Pia S. Cayetano**  
@@ -371,7 +371,7 @@ Bawal na paraan. Kung ano yung information mo, bawal ipakita yun. And this is wh
 **[01:03:24.570] Sen. Pia S. Cayetano**  
 Basically, because ang nangyari is we had our own discussion and I want to mention the provisions of law that we discussed. I don't have to mention names.
 
-**[01:03:35.490] Sen. Francis “Chiz” Escudero**  
+**[01:03:35.490] Sen. Francis "Chiz" G. Escudero**  
 The lady may proceed.
 
 **[01:03:37.010] Sen. Pia S. Cayetano**  
@@ -389,7 +389,7 @@ Applicable po ba ang kaso na ito? Yield versus yoke, no? As far as the prosecuti
 **[01:08:10.260] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you, Your Honor. If I may be recognized?
 
-**[01:08:13.220] Sen. Francis “Chiz” Escudero**  
+**[01:08:13.220] Sen. Francis "Chiz" G. Escudero**  
 The member of the panel of prosecutors may proceed to give his answer thereafter. The counsel for respondent may do so as well.
 
 **[01:08:21.580] Rep. Jose Manuel “Chel” I. Diokno**  
@@ -416,13 +416,13 @@ Mr. Presiding Officer, before we recognize the defense, just a quick follow-up q
 **[01:11:19.420] Sen. Pia S. Cayetano**  
 Bigyan ko ng time na bulungan muna siya ng kasama. I'm sorry. Okay na kayo? No, it's okay.
 
-**[01:11:24.040] Sen. Francis “Chiz” Escudero**  
+**[01:11:24.040] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Pia, would you like the Council for Respondents to answer?
 
 **[01:11:27.880] Sen. Pia S. Cayetano**  
 Not yet, Mr. President. Ah, not yet. Okay. My request was if I'll just ask a follow-up question.
 
-**[01:11:31.240] Sen. Francis “Chiz” Escudero**  
+**[01:11:31.240] Sen. Francis "Chiz" G. Escudero**  
 You may
 
 **[01:11:31.480] Sen. Pia S. Cayetano**  
@@ -434,7 +434,7 @@ Thank you. Thank you for that. I appreciate his honor's response. May I simply p
 **[01:11:48.400] Sen. Pia S. Cayetano**  
 It requires that pasukin yung bahay, halughugin yung gamit, pero hindi kaya invasive din yung paghalughug ng records. Is that not extremely parallel? I mean, is it not very similar in the sense that what is being questioned now are the very essence of somebody's savings, earnings? So, which we have to agree, I think there's no doubt that that is protected, but in fact, his honor is saying that it would fall under the police power. So, imbis na papasukin mo sa bahay na nandun yung mga dokumento, you will do the same by asking these agencies whether it is the BIR, the banks, or AMLA to now reveal. These documents. So that's my question. Is it in the prosecutions, is it the point of view of the prosecution na iba yun? Hindi ba invasive yun? Kayo gumamit ng word na invasionary, but I'll use invasive, I think. Anyway, please answer and then we'll give the floor to the defense, Mr. Presiding Officer.
 
-**[01:12:58.420] Sen. Francis “Chiz” Escudero**  
+**[01:12:58.420] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the panel for prosecutors, may I answer?
 
 **[01:13:06.320] Rep. Jose Manuel “Chel” I. Diokno**  
@@ -443,7 +443,7 @@ Yung pong search warrant, kung ano man na makuhang ebidensya doon, ay directly a
 **[01:13:35.660] Rep. Jose Manuel “Chel” I. Diokno**  
 Which of those documents may be relevant in terms of the evidence that they need to present? Yun pong nakikita po natin sa SABPINA, it is not in any way invasive because as I mentioned earlier and as pointed out by Senator Enrile when he was the presiding officer in the corona trial, we are simply having those documents produced. The admissibility of those documents Will only be determined after if offered by the parties. Kaya po sa aming mga pananaw ay malaking malaki ang pagkaiba ng search warrant sa subpina.
 
-**[01:14:17.530] Sen. Francis “Chiz” Escudero**  
+**[01:14:17.530] Sen. Francis "Chiz" G. Escudero**  
 Your Honor, may I be— With the permission of the Lady Senator-Judge, counsel for respondent may now give his answer to her query. You may proceed, Sir. Thank you, Your Honors.
 
 **[01:14:27.130] Atty. Michael Wesley Poa**  
@@ -461,16 +461,16 @@ So, pero dito, hinihingi natin 20 years worth of records. And then, papano po yu
 **[01:18:29.800] Rep. Jose Manuel “Chel” I. Diokno**  
 If Your Honor, please may be allowed to respond.
 
-**[01:18:34.800] Sen. Francis “Chiz” Escudero**  
+**[01:18:34.800] Sen. Francis "Chiz" G. Escudero**  
 Hold on, hold on, counsel for the panel of prosecutors. Senator Judge P is the one asking the questions.
 
-**[01:18:42.720] Sen. Francis “Chiz” Escudero**  
+**[01:18:42.720] Sen. Francis "Chiz" G. Escudero**  
 Unless it's not a debate between the two councils, you're merely responding to answers from questions by senator-judges.
 
 **[01:18:50.060] Sen. Pia S. Cayetano**  
 I actually prefer not, pero alam mo na, baka sabihin naman na may bias tayo pag di ko naman pinayagan. I defer to— Senator
 
-**[01:18:59.120] Sen. Francis “Chiz” Escudero**  
+**[01:18:59.120] Sen. Francis "Chiz" G. Escudero**  
 Judge Pia, you asked a question, they answered. It is not for the opposing council to answer points raised. They had that chance when they did their oral arguments, rebuttal and surrebuttal. You may proceed with your questions, Senator Pia.
 
 **[01:19:12.520] Sen. Pia S. Cayetano**  
@@ -497,13 +497,13 @@ Your Honor, may I at least be given just one minute to respond to that, Your Hon
 **[01:21:13.850] Sen. Pia S. Cayetano**  
 Judge Villanueva, I
 
-**[01:21:14.470] Sen. Francis “Chiz” Escudero**  
+**[01:21:14.470] Sen. Francis "Chiz" G. Escudero**  
 give you the same opportunity, I'm assuming.
 
 **[01:21:17.230] Atty. Michael Wesley Poa**  
 Yes, Your Honors. Again, hindi ko po tinutuligsa o ino-oppose yung mga na-mention na case ng aking Distinguished Opposing Counsel. However, those cases do not involve impeachment. And why is that relevant? Because in impeachment, as we have said, merong allegation of unexplained wealth, pero wala naman pong nakasuporta ng mga documents para makita natin ano ba yung basis na naging allegation. Pangalawa po, again, in impeachment, according to the case of the Territory v. House of Representatives, meron po tayong tinitingnan kung ano ba talagang impeachable offense. At yun po ay, again, offenses or acts or omissions committed While the public officer is occupying the impeachable office and in relation to such office, that enough, Your Honors, is very clear under the decision. That is all, Your Honors.
 
-**[01:22:11.360] Sen. Francis “Chiz” Escudero**  
+**[01:22:11.360] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Council for Respondents. Senator Judge Pia, may proceed.
 
 **[01:22:48.910] Sen. Pia S. Cayetano**  
@@ -545,7 +545,7 @@ Also include a discussion on why
 **[01:29:15.460] Sen. Pia S. Cayetano**  
 this is or is not a phishing expedition. Yun nga, napaka-importante po kasi ito dahil it is ingrained in a complaint na yung allegations mo ng ultimate facts, mapuprove mo ngayon yun with the evidence. Hindi pwede na wala kang ebidensya, hihingin mo lang ng hihingin by way of Supina. Clear po yun sa batas. Kaya nga gusto kong ipaliwanag niyo sa akin. Educate me why this applies, why this is not a fishing expedition, why the case I cited does not apply because I assume that's the position of the prosecution. And then for the defense, ano naman po yung position niyo? Salamat.
 
-**[01:29:56.700] Sen. Francis “Chiz” Escudero**  
+**[01:29:56.700] Sen. Francis "Chiz" G. Escudero**  
 The counsel for respondent will give his answer first. First, with respect to the question of Senator Judge Pia on ultimate facts as well as on fishing expedition thereafter, counsel for the panel of prosecutors. You may proceed, sir, when you're ready.
 
 **[01:30:11.060] Atty. Michael Wesley Poa**  
@@ -560,7 +560,7 @@ Naghanap ng mga ebidensya na sakaling makasuporta doon sa aligasyon na iyon. Tha
 **[01:35:03.990] Rep. Jose Manuel “Chel” I. Diokno**  
 Thank you, Your Honors. The question propounded to this representation first is, what are the ultimate facts alleged in the articles of impeachment? Yun po ay nakasaad sa page 7 of the articles. And if I may be allowed to just read them briefly.
 
-**[01:35:21.910] Sen. Francis “Chiz” Escudero**  
+**[01:35:21.910] Sen. Francis "Chiz" G. Escudero**  
 You may do so, counsel.
 
 **[01:35:23.450] Rep. Jose Manuel “Chel” I. Diokno**  
@@ -569,7 +569,7 @@ Thank you, your honor. Respondent Vice President Sara Z. Duterte committed culpa
 **[01:37:22.670] Rep. Jose Manuel “Chel” I. Diokno**  
 ang sinasabi natin na unexplained wealth. On to the issue of fishing expedition. Yun pong fishing expedition po ay alimbawa may sabina na baka sakali meron tayong makita. Yun po ang ibig sabihin ng fishing expedition. When the party requesting information does not know what might be produced and just as an off chance tries to use that instrument in order to gain evidence that may be used against the other party. Dito po, malaki ang pagkaiba ng sitwasyon. Maalala po ninyo, during the hearings before the Committee on Justice, the Executive Director of the Anti-Money Laundering Council testified and produced documents Showing that from 2007 up to the present, 6.7 billion pesos ang dumaan po sa account ni Vice President Sarah Duterte. On that basis, and if we go deeper into that report, it says that during the period from 2007 to 2013, during the time that she served as Mayor and Vice Mayor, umabot po sa halos o lampas tatlong bilyong piso ang dumaan. Sa kanyang mga accounts. So may basihan po tayo para ipalabas ang bank records. We are not just guessing that there is something there because the AMLA itself has confirmed that there were covered and suspicious transaction reports submitted to them in those amounts that I mentioned. Malayo po ang phishing expeditions sa ginagawa ng prosecution dito po. If we had no basis at all, if we did not know what was in the AMLA reports, ayun po, maaaring sabihin na phishing expedition. But in this particular case, we know because these are matters of record presented before the Committee on Justice. Second po, ang phishing expedition, maaaring magamit yan sa ibang mga aligasyon tulad ng baka meron kang hindi na-declare sa iyong salhen. But when it comes to issues of unexplained wealth, it's very clear. The decisions of the court are very clear. To know whether a government official has amassed unexplained wealth, we must look at the entire incumbency of that official. Starting from day one, we look at their salen, we look at all the income that he or she has earned, both lawful and not, and from there we make a determination. Whether there was unexplained wealth or not. For these reasons, Your Honors, the fishing expedition argument in our view is totally untenable.
 
-**[01:40:15.730] Sen. Francis “Chiz” Escudero**  
+**[01:40:15.730] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Pia, do you have further questions?
 
 **[01:40:33.020] Sen. Pia S. Cayetano**  
@@ -587,34 +587,34 @@ Ang nakasaad sa law, I don't even want to use my understanding of the law becaus
 **[01:42:47.720] Sen. Pia S. Cayetano**  
 And during our caucus, isa din sa lumabas na discussion, pero allowed ang AMLC and the specific officers to share that information. But the specific provision of the law, and please both councils, please respond, please elaborate on how this supports or does not support your case, ang specific provision dun sa batas, Eh, yung sharing of information na yun, sabi, Oy, kayo, AMLC Council, mag-develop kayo ng rules kung paano kayo makakapag-properly share sa agencies. I believe, I believe, and again, you feel free to elaborate on this or correct me, that's referring to the bank institutions, the AMLC hierarchy, and the agencies they deal with, not in court because Ulitin ko, nakasulat dun, confidential. So, I will leave this here, that if it is confidential, it does not allow that this be divulged in the manner it was divulged, then how do you use that? Because that is precisely the doctrine of the fruit of the poison tree. Please, take your time to tell us why. That information is not the fruit of the poison tree and obviously for the side of the defense, they will tell us why they believe that it is the product of the fruit of the poison tree. Thank you, Mr. President.
 
-**[01:44:26.150] Sen. Francis “Chiz” Escudero**  
+**[01:44:26.150] Sen. Francis "Chiz" G. Escudero**  
 Council for the panel of prosecutors will please respond.
 
 **[01:44:30.090] Rep. Jose Manuel “Chel” I. Diokno**  
 Your Honor, Section 8A of the Anti-Money Laundering Law is really intended to prohibit or prevent leaks by officials of the Anti-Money Laundering Council. But it was never intended to prevent subpoenas coming from courts, including the impeachment court. Almost every week, the Sandigan Bayan issues subpoenas for AMLA records. And despite what would appear to be a very categorical prohibition contained in that section, every time subpoenas are issued by the Sandigan Bayan, they are honored by the AMLA, and no one is questioning them. Ganun din po itong impeachment court. The subpoena issued by this impeachment court is for the purpose of determining accountability based on the power that is expressly given by the Constitution. Ang amin pong paniwala is that confidentiality cannot trump accountability. Thank you.
 
-**[01:45:31.890] Sen. Francis “Chiz” Escudero**  
+**[01:45:31.890] Sen. Francis "Chiz" G. Escudero**  
 Counsel for Respondent, may I reply?
 
 **[01:45:34.770] Atty. Michael Wesley Poa**  
 Thank you, Your Honor. I cannot verify if indeed the Sandigan Bayan Act as mentioned by opposing council issues subpoenas against AMLA every week. So that I will not comment on because I cannot verify that. What is clear to us, Your Honors, as we have demonstrated last week, is that 8 is an absolute prohibition. And again, this was the latest amendment of the law back in 2021. And for us, your honors, that is why when this was presented, the House Committee on Justice, we had our objections to such matter. And in fact, your honors, it is the subject of our petition, the Supreme Court, and aside from that, a subject of our motion for exclusion before this honorable court. Ngayon po, sa atin, talagang yung tinutumbok natin is it is, in fact, within the fruit of the poisonous tree. In fact, I'm surprised, Your Honors, because, Your Honors, nanabanggit na rin po ng aking Distinguished Opposing Counsel na nakita na nila, may records na sila. In fact, if I'm not mistaken, it was also attached to the Articles of Impeachment. So kung meron na pala, bakit pa nila pinapasabi na ngayon sa Impeachment Court? Is it because, I don't want to speculate, maybe I just won't go there. But ang sa akin lang po is, we have questioned this all throughout. Why? Because to us, unang-una, bawal siya. Pangalawa, hindi siya relevant. Bakit hindi siya relevant? Your Honors, transactions do not equate to wealth. Transactions do not equate to net worth. Especially if tinatali natin siya sa SAL-N. Because transactions happen over the course of the year, and in this case, years. But when you talk about SAL-N, we talk about net worth on a specific date and time. December 31, 2021
 
-**[01:47:58.510] Sen. Francis “Chiz” Escudero**  
+**[01:47:58.510] Sen. Francis "Chiz" G. Escudero**  
 Just for the record and for the information of the senator judges, I'm not sure about the Sandigan Bayan issuing a subpoena every week as well against AMLA. But I'm well aware, the court is well aware of cases decided by the Supreme Court precisely on subpoenas issued by the Sandigan Bayan vis-a-vis the AMLC. Senator Judge Pia, can you wind up?
 
-**[01:48:19.870] Sen. Francis “Chiz” Escudero**  
+**[01:48:19.870] Sen. Francis "Chiz" G. Escudero**  
 You're done? At this juncture, Chairwoman, I recognize Senator Judge Alan Cayetano for his interjection and questions. You may proceed, sir, when you're ready.
 
 **[01:48:30.870] Sen. Alan Peter Cayetano**  
 Before I ask questions, Mr. Presiding Officer, may I thank you, the Senate President Wynne Gatchalian, former Senate President Tito Soto, and the whole Court, because in our caucus, you did three things. One, you allowed us to have the weekend to Review all of the laws so that we can ask more intelligent questions. Two, you allowed to hear the discussions mostly by Senator Pia, Senator Pangilinan, Senator Lacson, and Senator, former Senator Soto. And then number three, we discussed how a complex or what word did you use a while ago, Mr. Presiding Officer, that it's two motions but there are
 
-**[01:49:19.770] Sen. Francis “Chiz” Escudero**  
+**[01:49:19.770] Sen. Francis "Chiz" G. Escudero**  
 There may be issues underneath. Issues and
 
 **[01:49:22.010] Sen. Alan Peter Cayetano**  
 sub-issues. So after we ask questions and after you make a ruling, instead of asking for a division of the house just in case we do not agree, I'll make a manifestation and then if others agree on how we can... Manifest or submit in writing in what parts of the ruling we agree or disagree for the record. May
 
-**[01:49:46.630] Sen. Francis “Chiz” Escudero**  
+**[01:49:46.630] Sen. Francis "Chiz" G. Escudero**  
 I proceed, Mr. President? Surely noted, Your Honor. You may proceed, sir. Good
 
 **[01:49:50.780] Sen. Alan Peter Cayetano**  
@@ -674,7 +674,7 @@ But in the court of appeals, Villanueva v. Court of Appeals, in that case, the S
 **[01:59:37.330] Rep. Jose Manuel “Chel” I. Diokno**  
 If I may be recognized, Your Honor? Yes,
 
-**[01:59:39.210] Sen. Francis “Chiz” Escudero**  
+**[01:59:39.210] Sen. Francis "Chiz" G. Escudero**  
 counsel for the panel of prosecutors may respond.
 
 **[01:59:41.750] Rep. Jose Manuel “Chel” I. Diokno**  
@@ -713,16 +713,16 @@ Isn't the remedy for all these other positions that weren't impeachable is throu
 **[02:05:12.640] Rep. Jose Manuel “Chel” I. Diokno**  
 I would have to respectfully disagree. Ang pinag-uusapan po natin kasi dito ay betrayal of public trust. And I think it's very clear that when we speak of betrayal of public trust, essentially we are looking at whether the public official is fit or unfit to continue in service. Kung siya po ay nakapag-amas ng unexplained wealth nung siya ay vice mayor o mayor na umabot sa bilyong-bilyones, I think that would have a very big impact on the Court's decision. Whether that person should continue in office or whether they are fit to have that office. With
 
-**[02:05:48.380] Sen. Francis “Chiz” Escudero**  
+**[02:05:48.380] Sen. Francis "Chiz" G. Escudero**  
 the permission of Senator Judge Alan Gaetano, with your indulgence, sir, a request was conveyed to the Presiding Officer to declare a very brief break. This is not a break for all of us but a very brief break of five minutes so that
 
-**[02:06:08.850] Sen. Francis “Chiz” Escudero**  
+**[02:06:08.850] Sen. Francis "Chiz" G. Escudero**  
 Council may answer to the call of nature. That was the message conveyed to the Presiding Officer, including Senator Judge Cayetano. So Chair declares a five-minute break. We shall resume at 4.05.
 
-**[02:13:12.160] Sen. Francis “Chiz” Escudero**  
+**[02:13:12.160] Sen. Francis "Chiz" G. Escudero**  
 Resumed. We shall resume the interventions of Senator Judge Alan Cayetano.
 
-**[02:13:19.710] Sen. Francis “Chiz” Escudero**  
+**[02:13:19.710] Sen. Francis "Chiz" G. Escudero**  
 Portaining to the issue at hand on the twin request for subpoena by the prosecution. You may proceed, Senator Judge Allan, when you're ready.
 
 **[02:13:45.500] Sen. Alan Peter Cayetano**  
@@ -746,28 +746,28 @@ Rasho, Your Honors. In fact, that's why the Supreme Court, when it started the d
 **[02:19:04.020] Sen. Alan Peter Cayetano**  
 So since we're talking about subpoenas, we'll go to the end and the means, the justified means.
 
-**[02:19:09.260] Sen. Francis “Chiz” Escudero**  
+**[02:19:09.260] Sen. Francis "Chiz" G. Escudero**  
 With the permission of Senator Judge Allen, I would just like to get the assent of the counsel from the panel of prosecutors. The document sought to be distributed by the Council correspondent is a July 2025 discussion on the Duterte v. H.O.R. on the one-year bar rule. Again, it's dated last year. With the permission of the prosecution, we shall distribute it without prejudice to the Council for the panel of prosecutors to also
 
-**[02:19:47.190] Sen. Francis “Chiz” Escudero**  
+**[02:19:47.190] Sen. Francis "Chiz" G. Escudero**  
 Furnish whenever it shall so desire because this issue as pointed out by Senator Judge Cayetano will linger until the end of the proceedings without prejudice to the counsel from the panel of prosecutors to so furnish also senator judges with their rejoinder to this document being furnished to the senator judges. Is that okay?
 
 **[02:20:07.620] Rep. Jose Manuel “Chel” I. Diokno**  
 Your Honor, I believe that first of all may we request for a copy of that document. I believe that document refers to the office of the spokesperson of the Supreme Court. In which case, Your Honor, we would have to interpose an objection. Because any interpretation by the office of the spokesperson is not binding on the Supreme Court. What we must look at are the actual text of the decision.
 
-**[02:20:34.180] Sen. Francis “Chiz” Escudero**  
+**[02:20:34.180] Sen. Francis "Chiz" G. Escudero**  
 Well, Counsel, you can say that in your rejoinder. Point that out in your rejoinder and point that out in... Your submission. We will do that, your honor. So ordered,
 
-**[02:20:45.680] Sen. Francis “Chiz” Escudero**  
+**[02:20:45.680] Sen. Francis "Chiz" G. Escudero**  
 clerk of court is directed to kindly distribute the copies to the senator judges without
 
-**[02:20:50.160] Sen. Francis “Chiz” Escudero**  
+**[02:20:50.160] Sen. Francis "Chiz" G. Escudero**  
 prejudice to the panel of prosecutors submitting a rejoinder to this document.
 
-**[02:20:54.320] Sen. Francis “Chiz” Escudero**  
+**[02:20:54.320] Sen. Francis "Chiz" G. Escudero**  
 Senator Alan
 
-**[02:20:55.100] Sen. Francis “Chiz” Escudero**  
+**[02:20:55.100] Sen. Francis "Chiz" G. Escudero**  
 Judge, Senator Judge Alan Cayetano, you may proceed, sir. Yes, and presiding officer,
 
 **[02:21:00.040] Sen. Alan Peter Cayetano**  
@@ -854,22 +854,22 @@ If your honor, please. First of all, I would have to raise an issue with respect
 **[02:31:10.770] Sen. Alan Peter Cayetano**  
 counsel, even your students, colleagues, recognize that you are a brilliant man, you're very well learned sa law, but minsan mabilis kasi actually that's not where I was going. Binaliktad ko lang. So two of my colleagues started with or in your discussions ano yung fishing expedition going down to ultimate facts and evidentiary. Ako, I wanted to distinguish when is it a fishing expedition and when it's not. So I just wanted to know as a fact. Or can we take judicial notice that there was no authentic records in the Sabalia and Cabrera?
 
-**[02:31:57.580] Sen. Francis “Chiz” Escudero**  
+**[02:31:57.580] Sen. Francis "Chiz" G. Escudero**  
 It was
 
 **[02:31:58.440] Sen. Alan Peter Cayetano**  
 just preliminary because I wanted to compare it with other impeachment complaints. And I wanted to ask the question, when is it a phishing expedition or hindi? So these are legitimate questions. So factually, yung Sabalia and Cabrera ba may authentic records attached? Ang information ko wala. But I don't want to... I
 
-**[02:32:24.760] Sen. Francis “Chiz” Escudero**  
+**[02:32:24.760] Sen. Francis "Chiz" G. Escudero**  
 believe, Sen. Judge Allan, that the Zabalia and Cabrera complaints were attached as an annex, if I'm not mistaken, to the respondent's answer. Would that be correct, Atty. Paul? And
 
 **[02:32:37.020] Sen. Alan Peter Cayetano**  
 to be fair,
 
-**[02:32:37.640] Sen. Francis “Chiz” Escudero**  
+**[02:32:37.640] Sen. Francis "Chiz" G. Escudero**  
 it was... As well as the annexes? Yes, Your Honor. In fact, the Presiding Officer noticed that it lacked a page in one of the annexes to the, I think, Zabalia complaint, which you, I think, pointed out. So that's
 
-**[02:32:49.680] Sen. Francis “Chiz” Escudero**  
+**[02:32:49.680] Sen. Francis "Chiz" G. Escudero**  
 a fact. So it's in the records, Sen. Judge Allan.
 
 **[02:32:52.960] Sen. Alan Peter Cayetano**  
@@ -1034,7 +1034,7 @@ connect AMLA and the bank accounts, that's precisely what the defense and other 
 **[02:57:17.700] Rep. Jose Manuel “Chel” I. Diokno**  
 If we bring Your Honor's logic to its conclusion, that would mean that the Committee on Justice would have to conduct a full-blown trial, get all the evidence at that level, so that we do not have to fish anymore when we get to this Court, when that is not the contemplation of the procedure for impeachment under the Constitution. I won't argue what the House...
 
-**[02:57:41.380] Sen. Francis “Chiz” Escudero**  
+**[02:57:41.380] Sen. Francis "Chiz" G. Escudero**  
 With the permission of the gentleman here on the floor, Sen. Gaetano, Last two questions. Thank you very much.
 
 **[02:57:50.320] Sen. Alan Peter Cayetano**  
@@ -1064,7 +1064,7 @@ Actually, two questions. The corporations, do you not have to pierce the corpora
 **[03:03:40.380] Sen. Alan Peter Cayetano**  
 The question was, because a law student asked me, Sir, bakit dinala yung box dito sa senate? Ba't nalang hindi nila binuksan sa house? So sinagot ko sa kanila, ano ba turo ng professor niyo? Sir, hindi naman nakalagay impeachment trial in cases of impeachment. So the House was actually empowered to open the box there. So I just want to know the position of both parties kasi nahihiwagaan ako sa box na iyon. Si Neil dinala dito, ibabalik sa inyo, then magsusupina tayo. But doon sa—grumaduate na yung nagtanong sa akin doon, they discussed it daw in class and they're— Their professor and their class, ang consensus is that the house could have opened it because the wording in the BIR case or the bank accounts? Bank accounts ata. Yung in cases of impeachment yung nakalagay dun sa bank accounts.
 
-**[03:04:43.770] Sen. Francis “Chiz” Escudero**  
+**[03:04:43.770] Sen. Francis "Chiz" G. Escudero**  
 Secrecy of bank deposits.
 
 **[03:04:45.290] Sen. Alan Peter Cayetano**  
@@ -1073,13 +1073,13 @@ Yes. So ang question niya, let me rephrase, is that, did you do that there? Kasi
 **[03:04:54.700] Sen. Alan Peter Cayetano**  
 Do you think nag-comply yung requirements dun sa companies and should we give notice to the companies? And secondly about bank account, could you have opened it already in the house? Yung BIR din ba?
 
-**[03:05:12.990] Sen. Francis “Chiz” Escudero**  
+**[03:05:12.990] Sen. Francis "Chiz" G. Escudero**  
 Council for the panel of prosecutors may respond thereafter. Council for respondents. Thank you, Your Honor. And we would like to thank Senator Judge Allen for his
 
 **[03:05:21.720] Rep. Jose Manuel “Chel” I. Diokno**  
 If Your Honor please, the doctrine of piercing the corporate veil applies when we are determining liability of the company or corporation involved. In this particular case, that doctrine has no application at all. We are asking for those records to be produced so that we can determine the extent of participation of the Vice President. As she herself had admitted those business interests in her SALN, kaya po namin hinihingi po iyon. Kaya sa tingin po namin ay wala pong aplikasyon ang piercing the corporate veil. Second, as far as opening the box is concerned, while it is true that under Republic Act 1405 there's no qualification that impeachment trial lang po ang pwede, as I understand it, it was the better judgment of the committee, out of sheer discretion and prudence, not to, because at that time we were already being bombarded with petitions left and right seeking to restrain our proceedings, and we felt that it would be more prudent to bring the matter to this honorable Court. Thank you, Your Honor.
 
-**[03:06:34.960] Sen. Francis “Chiz” Escudero**  
+**[03:06:34.960] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the respondent.
 
 **[03:06:38.560] Atty. Michael Wesley Poa**  
@@ -1088,7 +1088,7 @@ On the first point, Your Honors, on piercing of the corporate veil, para sa amin
 **[03:07:40.920] Atty. Michael Wesley Poa**  
 Pagdating sa preliminary investigation, hindi pa po applicable yung mga exceptions under the Bank Secrecy Act and there has to be a pending case before such bank documents are in fact subpoenaed. That is our position, Your Honors.
 
-**[03:07:55.100] Sen. Francis “Chiz” Escudero**  
+**[03:07:55.100] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Councils, for the parties. Chair will now make a ruling, but prior to that ruling, Chair would like to inquire very, very briefly from the Councils. First, for the Council for Respondent, may the Court know when the Respondent was married to her spouse, and what is the property regime governing their marriage?
 
 **[03:08:18.750] Atty. Michael Wesley Poa**  
@@ -1097,13 +1097,13 @@ Your Honor, I believe they were married, but let me just... Checked the facts ju
 **[03:08:31.110] Atty. Michael Wesley Poa**  
 2007, Your Honor, can I get back to you on the specific date for that? The
 
-**[03:08:35.190] Sen. Francis “Chiz” Escudero**  
+**[03:08:35.190] Sen. Francis "Chiz" G. Escudero**  
 date
 
 **[03:08:35.610] Atty. Michael Wesley Poa**  
 would not
 
-**[03:08:35.970] Sen. Francis “Chiz” Escudero**  
+**[03:08:35.970] Sen. Francis "Chiz" G. Escudero**  
 be necessary because 2007 would mean they would be covered under the Family Code. So may the Chair ask, what is the property regime governing their marriage?
 
 **[03:08:46.770] Atty. Michael Wesley Poa**  
@@ -1112,91 +1112,91 @@ As far as I know, there are no property regime arrangements or prenup. That's wh
 **[03:08:57.840] Atty. Michael Wesley Poa**  
 The absolute
 
-**[03:08:58.800] Sen. Francis “Chiz” Escudero**  
+**[03:08:58.800] Sen. Francis "Chiz" G. Escudero**  
 community
 
 **[03:08:59.180] Atty. Michael Wesley Poa**  
 of property.
 
-**[03:09:00.100] Sen. Francis “Chiz” Escudero**  
+**[03:09:00.100] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Council. Chair will now make its ruling.
 
-**[03:09:04.470] Sen. Francis “Chiz” Escudero**  
+**[03:09:04.470] Sen. Francis "Chiz" G. Escudero**  
 The Impeachment Court will now resolve the Prosecution's renewed request for the issuance of subpoena dos estecum dated July 6, 2026. You may seat, Councils.
 
-**[03:09:14.650] Sen. Francis “Chiz” Escudero**  
+**[03:09:14.650] Sen. Francis "Chiz" G. Escudero**  
 Directed to the concerned banking institutions and anti-money laundering Council. The Court begins with the standards governing the issuance of subpoena dos estecum. These are set forth in Section 3,
 
-**[03:09:25.230] Sen. Francis “Chiz” Escudero**  
+**[03:09:25.230] Sen. Francis "Chiz" G. Escudero**  
 Rule 21 of the Rules of Court. which provides among others that in the case of a subpoena du sistecum, it shall contain a reasonable description of the books, documents, or things demanded which must appear to the court as prima facie relevant. Settled jurisprudence has affirmed and clarified these requirements in the 2021 case of Republic v. Sandigan Bayan dated 2015-21 where the Supreme Court stated, quote, a subpoena du sistecum may be issued if the tests of relevancy and definiteness are satisfied. The Court must ensure that, number one, the books, documents, or other things requested must appear prima facie relevant to the issue subject of the controversy, the test of relevancy, and number two, such books must be reasonably described by the parties to be readily identified, the test of definiteness. In the case of BSB Group Inc. v. GOJ, year number 168644, The Court stated that evidence is relevant when it bears such a direct relation to the fact and issue as to induce a belief in its existence or non-existence and when it relates to a collateral fact from which the existence or non-existence of the principal fact may logically be inferred. These requirements are intended to ensure that the subpoena is not used, as mentioned earlier and discussed earlier, as a tool For a fishing expedition as held in Apostol v. Lubingan Rafael, GR No. 260640, dated October 1, 2025. We are also aware of the ruling of the Supreme Court, NHC-Libanau v. Philippine National Oil Company, GR No. L13463, A general inquisitorial examination of all the books, papers, and documents of an adversary, conducted with a view to ascertain whether something of value may or may not show up, will not be enforced. However, after a careful examination of the records requested, the Court finds that the requested documents meet the requirements set forth above. They are reasonably described, readily identifiable, prima facie relevant, and material to the allegations under Article 2. This is not the first time that bank records have been examined by an impeachment trial. During the impeachment trial of former Chief Justice Corona, the Senate Citizens and Impeachment Court granted the prosecution's request for the production of bank records. In granting that request, the Court cited Section 2 of Republic Act No. 1405, which expressly recognizes cases of impeachment as an exception to the confidentiality of bank deposits and the rights to privacy of depositors. As to the requested period from 2007 to 2021, the defense's objection is overruled. The respondent's invocation of what they referred to as offenses in term, quote-unquote, in their memorandum Doctrine in Duterte v. H.O.R. does not avail. First, the documents requested under the subpoena do sistecom will not be used to allege additional independent impeachable offenses. The court will not allow this in adherence to the doctrine laid down in Duterte v. H.O.R. as this will violate the respondent's right to be informed of the nature and cause of the accusations against her and her rights to due process at every stage of the proceedings. Rather, The Court will only allow these records to be used to establish a factual baseline against which the respondent's assets, financial transactions, and business interests during her present term may be assessed.
 
-**[03:12:51.590] Sen. Francis “Chiz” Escudero**  
+**[03:12:51.590] Sen. Francis "Chiz" G. Escudero**  
 Establishing such a factual baseline is recognized in settled jurisprudence involving allegations that a public officer's wealth is manifestly disproportionate to the lawful income and financial capacity of the officer and the officer's spouse. As held by the Supreme Court in Concerned Taxpayer v. Doblada Jr., dated 8 June 2005, In determining whether the properties acquired were manifestly out of proportion to the lawful income of the spouses, necessarily requires comparing their value with the spouses' salaries, benefits, other lawful income, and revenues from legitimately acquired properties or businesses. Further, In the case of Ombudsman V. Bernardo , Respondent's beginning net worth must be considered for purposes of determining whether his disposable income was more than sufficient to justify his property acquisitions and foreign travels for the covered period, and whether he possesses the financial capability to acquire or purchase properties as reported in his SAL-N.
 
-**[03:13:57.870] Sen. Francis “Chiz” Escudero**  
+**[03:13:57.870] Sen. Francis "Chiz" G. Escudero**  
 Such net worth of the respondent as declared in the statement filed by him or her from the first day of his employment with the government shall be considered as his true net worth of such date for purposes of determining his capacity for future property acquisitions during his tenure as a public officer. Any unexplained increase in his net worth thereafter may fall within the ambit of the presumption provided for in Republic Act No. 1379. The production, therefore, of the records from 2007 to 2021 is authorized strictly for that limited purpose only. Their admissibility and evidentiary use shall remain subject to the prosecution establishing their connection to the alleged unexplained wealth during the respondent's present term in relation only to Article 2 of the Articles of Impeachment. Now, with regard to the bank records held separately by Attorney Manassas Carpio and Joint Chief Carpio, and jointly by him and the respondent. The defense's objection is likewise overruled. The respondent's reliance on Republic v. Eugenio is unavailing. That case involved only an ordinary civil inquiry into spousal assets that were not statutorily aggregated. On the other hand, Section 8 of Republic Act No. 6713 requires public officials to disclose their assets, including that of their spouses. Their financial interests are therefore statutorily intertwined for purposes of disclosure. Respondent likewise insists on the separate legal personality and distinct right to privacy of attorney Carpio, but this is likewise untenable. Article 75 of the Family Code explicitly provides, which is why the Presiding Officer earlier asked the property regime governing them, in the absence of a marriage settlement or when the regime agreed upon is void. The system of absolute community of properties established in this Code shall govern. Under this regime, Article 91 dictates that community property shall consist of all the property owned by the spouses at the time of the celebration of marriage or acquired thereafter. Furthermore, the Family Code imposes a strict statutory presumption under Article 93 which mandates that property acquired during the marriage is presumed to belong to the community unless it is proved that it is one of those excluded therefrom. The law is clear on the matter. The legal necessity of examining the financial records of Atty. Carpio is firmly cemented by the default property regime of absolute community of property governing his marriage to the respondent. Absent any proof of a different property regime governing their marriage, any funds deposited in the bank accounts of Atty. Carpio are legally presumed to form a single, indivisible mass of community property jointly owned with the respondent vice president. Because Philippine civil law legally merges their assets, properties, and income into a single absolute community, it is a legal and mathematical impossibility to determine the respondent's true net worth or lawful income without examining the bank accounts of her husband. Investigating Mr. Carpio's financial records is therefore not an unwarranted intrusion into a third party's privacy, but an absolute legal prerequisite in determining the actual aggregated wealth of the respondent. The defense likewise invokes the Data Privacy Act, classifying the records as sensitive personal information, requiring strict scrutiny, citing Zoleta v. Ombudsman. The Court, however, in Zoleta did not really use the phrase strict scrutiny but said strict adherence to the Data Privacy Act. Accordingly, Section 16 of the Data Privacy Act expressly states that the right to privacy does not apply When personal information is needed pursuant to a subpoena. Furthermore, Rule 5, Section 22 of the DPA, Data Privacy Act Implementing Rules, expressly permits the processing of sensitive information, personal information, when provided to government or public authority pursuant to a constitutional or statutory mandate, and when necessary for the protection of lawful rights, interests, and court proceedings. Now as to the 21 listed corporate entities and partnership. The requests are granted with respect only to 19 corporate entities and partnership. The respondent's connection to these entities is prima facie shown by the General Information Sheets in the Articles of Partnership which have been pre-marked in evidence and by her admitted SAL-Ns from 2022 to 2025. The request, therefore, is not considered as a fishing expedition and subpoenas may issue For their peso-denominated accounts strictly only in relation to Article 2. However, the requests directed to banking institutions concerning JTC Group of Companies and Pikimong Philippines Corporation are denied. Their general information sheets do not identify the respondent or her spouse as shareholders, and the prosecution at this time failed to show either a direct business interest Or a clear and convincing basis to disregard their separate juridical personalities. As held in Pantranco Employees Association v. NLRC, GR 170689, and Lanuza v. BF Corporation, GR 174938, the corporate veil may not be pierced on mere suspicion or speculation. Misuse of the corporation as an alter ego, conduit, or instrument of fraud must be clearly established. Absent such proof, these entities cannot be subjected.
 
-**[03:19:37.440] Sen. Francis “Chiz” Escudero**  
+**[03:19:37.440] Sen. Francis "Chiz" G. Escudero**  
 As to the request for subpoena against the partnership of Carpio Lawyers, the same is granted with the following reservation in adherence to Subido v. Pagantes or Tessa Mendoza and Binay Law Offices v. Court of Appeals
 
-**[03:19:57.190] Sen. Francis “Chiz” Escudero**  
+**[03:19:57.190] Sen. Francis "Chiz" G. Escudero**  
 The Chair notes the practical reality that an examination of a law firm's bank accounts may incidentally disclose sensitive information relating to its clients and legal engagements. The Court acknowledges that the partnership and or the clients of Carpe lawyers may seek appropriate remedies and to challenge compliance with applicable legal requirements. Particularly in light of the potential legal implications including concerns relating to attorney-client privilege which may also be raised during the trial proper. Furthermore, the court must draw a legal firm line regarding foreign currency deposits. Foreign currency deposits are governed by Republic Act No. 6426, particularly Section 8, which recognizes only one exception to confidentiality, the written permission of the depositor. This is also guided by the President arising from the 2012 Corona Impeachment Trial. On February 19, 2012, the Supreme Court issued a temporary restraining order in PS Bank v. Senate Impeachment Court and joining the Senate from opening the Chief Justice's Corona dollar accounts in the absence of a written waiver of the depositor. Accordingly, Insofar as the request covers foreign currency deposits of the respondent, her spouse, separately or jointly, as well as the corporation and partnership, it is denied. Such accounts shall be excluded unless and until written consent of the respective depositors is produced. The Court now turns to the records held by the
 
-**[03:21:29.860] Sen. Francis “Chiz” Escudero**  
+**[03:21:29.860] Sen. Francis "Chiz" G. Escudero**  
 AMLC or Anti-Money Laundering
 
-**[03:21:31.860] Sen. Francis “Chiz” Escudero**  
+**[03:21:31.860] Sen. Francis "Chiz" G. Escudero**  
 Council.
 
-**[03:21:33.640] Sen. Francis “Chiz” Escudero**  
+**[03:21:33.640] Sen. Francis "Chiz" G. Escudero**  
 As to the requests directed to the Anti-Money Laundering Council, the same are granted with respect to the 19 To the respondent, her spouse and the 19 entities and one partnership for which a prima facie connection has been shown through the pre-marked general information sheets, articles of partnership, and the respondent's admitted silence. However, the requests as to JTC Group of Companies and Pikimong-Pikimong Philippines Corporation are denied. For failure at this stage to establish a prima facie link, the respondent of her spouse and said entities or any sufficient basis to disregard their separate juridical personalities as previously stated. The defense vigorously argues that AMLC is absolutely shielded from this Court's compulsory process by the confidentiality provisions of Section 80 of the Anti-Money Laundering Act as amended and warrants that compliance would expose AMLC officers to criminal sanctions for breach of confidentiality. The Court, however, finds this argument unavailing. Section 8A regulates unauthorized and arbitrary disclosures by AMLAC personnel. It does not and constitutionally cannot nullify the lawful subpoena powers of the Senate sitting as an impeachment court where compliance with the lawful constitutional subpoena is a justifying circumstance that, if at all, would extinguish any penal liability under Article 11, Paragraph 6 of the Revised Penal Code for any person acting in obedience to an order issued by superior or some lawful purpose. In the landmark case of Republic v. Sandigan Bayan, GR 2322724, the Supreme Court explicitly rejected the AMLC's attempt to quash the subpoena d'Usistecum, ruling verbatim, The Anti-Money Laundering Council is not merely a repository of reports and information on covert and suspicious transactions. It was created precisely to investigate and institute
 
-**[03:23:30.660] Sen. Francis “Chiz” Escudero**  
+**[03:23:30.660] Sen. Francis "Chiz" G. Escudero**  
 Charges against those suspected to commit money laundering activities. The criminal prosecution of such activities would be unduly hampered if we were to prohibit it from disclosing such information. For the Anti-Money Laundering Council to refuse disclosing the information required of it would be to go against its very function under the law. Further, as held by the Supreme Court in Sabio v. Gordon
 
-**[03:23:57.170] Sen. Francis “Chiz” Escudero**  
+**[03:23:57.170] Sen. Francis "Chiz" G. Escudero**  
 By parity, explain that statutory provisions on confidentiality and exemptions from inquiry cannot be invoked to deny access to information by Congress in aid of legislation. It is therefore the position of this Court that, if the Sandigan Bayan pursuant to its Sabino powers cannot be denied AMLC records, as well as the legislature in aid of legislation, it most certainly cannot be denied to the Senate, sitting as an impeachment court. The defense also vehemently objects to the production of AMLC documents by pointing out to the agency's own printed footnotes,
 
-**[03:24:42.950] Sen. Francis “Chiz” Escudero**  
+**[03:24:42.950] Sen. Francis "Chiz" G. Escudero**  
 which restrict the reports for intelligence purposes only, and explicitly state they are not to be used as evidence in any formal proceedings. The court, however, overrules
 
-**[03:24:55.070] Sen. Francis “Chiz” Escudero**  
+**[03:24:55.070] Sen. Francis "Chiz" G. Escudero**  
 this objection.
 
-**[03:24:59.370] Sen. Francis “Chiz” Escudero**  
+**[03:24:59.370] Sen. Francis "Chiz" G. Escudero**  
 The admissibility and evidentiary weight of documents in an impeachment trial are determined by the Constitution, the rules of court, and the judgment of the impeachment court, not by unilateral disclaimers printed by an executive agency on its letterhead. An administrative footnote or internal intelligence-sharing protocol cannot rise to the level of a constitutional or statutory exclusionary rule. While the MLC's internal protocols are validly designed to prevent premature leaks during ongoing investigations, they cannot legally operate to tie the hands of the impeachment court once the documents are lawfully subpoenaed. Because the requested suspicious transaction reports and covered transaction reports satisfy the threshold of prima facie relevance in tracing the alleged accumulation of unexplained wealth under Article II, they shall be produced.
 
-**[03:25:53.040] Sen. Francis “Chiz” Escudero**  
+**[03:25:53.040] Sen. Francis "Chiz" G. Escudero**  
 The defense further invokes the five-year record retention period under the AMLA regulations.
 
-**[03:26:00.980] Sen. Francis “Chiz” Escudero**  
+**[03:26:00.980] Sen. Francis "Chiz" G. Escudero**  
 The five-year period is a minimum mandatory retention requirement imposed on covered institutions. It is not an absolute prohibition against keeping or producing all the records. Accordingly, let AMLC invoke this limitation in its return, which this Court shall take into account and inform the parties thereon accordingly.
 
-**[03:26:24.710] Sen. Francis “Chiz” Escudero**  
+**[03:26:24.710] Sen. Francis "Chiz" G. Escudero**  
 As for the partnership of Carpe Lawyers, Section 1 of Republic Act No. 10365 amending Section 387 of Republic Act No. 9160 treats as covered persons those including lawyers who manage client money or assets, manage bank savings and securities accounts, organize contributions for companies, or create, operate, or manage judicial persons or arrangements. Section 2C of AMLC Regulatory Actions B No. 1, Series of 2018, adopted on May 10, 2018, and filed on June 13, 2018, expressly reiterates this activity-based rule. The Court recognizes the statutory exception for lawyers acting as independent legal professionals, where the information concerns their clients or disclosure would compromise client confidences or the attorney-client relationship. Absent any showing, however, That the particular record contained such information or would compromise a protected confidence, the exception cannot be invoked merely because the entity concerned is a law partnership. It protects client confidences. It does not confer a blanket immunity upon every financial record bearing the law firm's name. The request for nations of subpoenas for the identified financial records therefore pertaining to carpe lawyers is granted. Subject to the remedies in law, Endored their legal right to assert a specific claim of privilege over a particular document at the proper time. No generalized blanket invocation of attorney-client privilege should exclude compliance at this time. Therefore, to summarize, the court rules as follows. The request for subpoenas directed to the concerned banking institutions covering the accounts of respondent, attorney Manassas Carpio, separately or jointly, the partnership of Carpio lawyers and the 19 listed corporate entities is granted. The banks are ordered to submit to the Clerk of Court the documents on July 30, 2026 at 9 AM with the attendance of parties and councils. The request insofar as it seeks the records pertaining to JTC Group of Companies and Pikimong-Pikimong Philippines Corporation is denied for failing to establish prima facie relevance. The subpoenas granted shall apply only to peso-denominated accounts relevant to Article 2. Foreign currency deposits are excluded absent the written consent of the respective depositors. The subpoena directed to the Anti-Money laundering council covering respondent Atty. Manassas Carpio separately and jointly with the respondent, the partnership of Carpio and lawyers, and the 19 listed corporations and entities is granted. The request insofar as it seeks records pertaining to JTC Group of Companies and Pikimong-Pikimong Philippines Corporation is denied. For failing to establish prima facie relevance.
 
-**[03:29:22.840] Sen. Francis “Chiz” Escudero**  
+**[03:29:22.840] Sen. Francis "Chiz" G. Escudero**  
 Finally, the Court is cognizant of the Supreme Court ruling in Almonte v. Vasquez, GR 95367, where it stated that a government privilege against disclosure is recognized with respect to State secrets, and it is not amiss to state that even matters of national security have been inquired into inappropriate in-camera proceedings by the Court. Therefore, The Court ex abundante ad cautela or out of an abundance of caution hereby directs, in order to prevent the unwarranted exposure of sensitive AMLC methodologies and information, to submit the records strictly in camera The parties are directed to be represented by council on the aforementioned time and date for the proper inspection, comparison, photocopying, and or marking of these documents as the case may be. So ordered.
 
-**[03:30:26.130] Sen. Francis “Chiz” Escudero**  
+**[03:30:26.130] Sen. Francis "Chiz" G. Escudero**  
 Moving now on...
 
-**[03:30:33.000] Sen. Francis “Chiz” Escudero**  
+**[03:30:33.000] Sen. Francis "Chiz" G. Escudero**  
 The Impeachment Court will now resolve the Prosecution's request for the issuance of subpoena dated July 6, 2026, directed to the Commission on Internal Revenue. At the outset, the Presiding Officer reiterates and adopts by reference the Court's citation of applicable rules regarding the issuance of subpoena due sa STECOM which forms an integral part of this Order. The foregoing standards are deemed reproduced and shall govern the Court's disposition of the present subpoena requests.
 
-**[03:30:58.630] Sen. Francis “Chiz” Escudero**  
+**[03:30:58.630] Sen. Francis "Chiz" G. Escudero**  
 After examining the records sought, the Court finds that the requested documents meet the requirements set forth. They are reasonably described, readily identifiable, and prima facie relevant and material to the allegations under Article 2. However, the Court, similarly, requests insofar as it seeks the records of JTC Group of Companies, Philippines Inc., and Pikimong-Pikimong Philippines Corporation. The prosecution failed to establish a prima facie nexus between these entities to either the respondent or
 
-**[03:31:29.750] Sen. Francis “Chiz” Escudero**  
+**[03:31:29.750] Sen. Francis "Chiz" G. Escudero**  
 to her spouse. The records sought therefore do not at this time satisfy the requirement of prima facie relevance under Rule 21 of the Rules of Civil Procedure. The Court also resolves the respondent's objection to the requested period from 2007 to 2021. They anchored their opposition on the Supreme Court's pronouncement in Duterte v. House that the basis of any charge must be for impeachable acts or omissions committed in relation to their office and during the current term of the impeachable officer.
 
-**[03:31:59.360] Sen. Francis “Chiz” Escudero**  
+**[03:31:59.360] Sen. Francis "Chiz" G. Escudero**  
 The argument, as stated earlier, fails because first, the documents requested under the subpoenaed dosis tecum will not be used to allege additional impeachable offenses. This Court will not allow it. For the same reasons discussed in the Court's earlier order, consistent with the same jurisprudence which are hereby adopted by reference, The Court likewise holds that the requested records are sought to establish respondents' financial baseline and capacity only, not to inquire into or prosecute alleged impeachable acts occurring outside the present articles of impeachment. Accordingly, these records are required to establish a factual baseline against which the respondents' assets, financial transactions, and business interests during her present term may be assessed. We are also not without precedent. During the Corona Impeachment Trial, DeSalle Enns, prior to his appointment as Chief Justice in 2010, were presented on the January 18, 2012 hearing of the Court. Likewise, evidence and testimony concerning properties and transactions before his appointment as Associate Justice were presented before the Court on March 13, 2012.
 
-**[03:33:09.250] Sen. Francis “Chiz” Escudero**  
+**[03:33:09.250] Sen. Francis "Chiz" G. Escudero**  
 Therefore, the production of records from 2007 to 2021 is therefore allowed and authorized strictly for purposes of establishing a comparative baseline only. They shall not be used as proof of another independent impeachable offense. Their admissibility and evidentiary use shall remain subject to the prosecution establishing their connection to the alleged unexplained wealth during the respondent's present term. The defense's invocation of the Raise of the Privacy Act is likewise unavailing. As previously stated, Section 16B of that law expressly states that the right to privacy does not apply when personal information is needed pursuant to a subpoena. Furthermore, Rule 5, Section 22F of its Implementing Rules expressly permits the processing of sensitive personal information provided to government public authority pursuant to a constitutional or statutory mandate and when necessary for the protection of lawful rights and interests and court proceedings. The court is likewise unconvinced by respondents' argument that the issuance of the subpoena will usurp the authority of the BAR under Section 5 of the NIRC. This court is not determining the tax deficiencies or civil liabilities which remain within the province of the BAR. It is exercising its constitutional mandate to determine public accountability under the articles of impeachment. Neither does dependency of a BAR audit suspend or limit the Senate's exclusive jurisdiction to try impeachment cases. The Respondent invoked Section 270 of the National Internal Revenue Code to prevent the production of the requested records. The objection is overruled in part. The Supreme Court expressly ruled in DEPAD v. Spouses Olivan, GR 168771 that Section 270 of the NIRC obviously does not address the confidentiality of ITRs. It merely penalizes the unauthorized disclosure of taxpayer information, except as otherwise provided for by law. It does not bar the production of documents. However, the respondent correctly invokes Section 71 and other provisions of the NIRC which recognizes only three instances in which a taxpayer's records may be opened for inspection. Number one, upon order of the President or authorization of the President. Number two, upon the request of a foreign tax authority with the approval of the President. Or number three, upon the taxpayer's waiver. Nevertheless, The existence of these statutory limitations does not at this stage preclude the issuance of the requested subpoena. The issuance of subpoena is merely a preliminary procedural step and does not by itself authorize the disclosure, inspection, or admission of the requested tax records into evidence. In fact, this issuance is the order that shall set, if at all, things in motion. Upon service, the BIR Commissioner may refuse compliance or comply by invoking any of the exceptions under the NIRC as previously mentioned. Without a satisfactory showing of faithful compliance with any of the enumerated exceptions, this Court shall not receive any subpoenaed records from the BIR, similar to what was done when the sealed box ordered by this Court to be returned to them. There is also a precedent during the 2012 corona impeachment trial. The Senate issued the subpoena and thereafter awaited the return of the BAR Commissioner. The requested records were produced only after the requisite presidential authorization had been obtained, one of the recognized exceptions under Section 71 of the NIRC. The respondent, however, is not without recourse nor remedy. In the event the requested tax records are lawfully produced pursuant to any of the statutory exceptions, The Respondent may, at the appropriate stage of the proceedings, raise any and all objections concerning their relevance, materiality, authenticity, admissibility, and other evidentiary infirmities. The issuance of subpoena should not be construed as a ruling on the admissibility of the documents ultimately produced. On this basis, the subpoena shall therefore be issued and we shall await the return of the BIR Commissioner, at which time the Court shall take such action as may be deemed necessary and appropriate. Accordingly, in view of the foregoing, the request for nations of subpoena directed to Commissioner Carlito Martin R. Mendoza of the BIR is hereby granted. The request insofar as it seeks the records pertaining to JTC Group of Companies Inc. and Pikimong-Pikimong Philippines Corporation is hereby denied for failure to satisfy the requirement of prima facie evidence. The Commissioner is directed to make the appropriate return to this Court in accordance with the law On July 30, 2026 at 9 AM before the Clerk of Court, the Court shall await the return before taking any further action as may be warranted. The parties are likewise directed to be represented by Council on the aforementioned time and date for inspection, comparison, photocopying, and or marking as the case may be. So ordered.
 
-**[03:38:18.780] Sen. Francis “Chiz” Escudero**  
+**[03:38:18.780] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Alan Cayetano is recognized. Thank you for that
 
 **[03:38:23.620] Sen. Alan Peter Cayetano**  
@@ -1214,31 +1214,31 @@ will not manifest anymore but may I submit in writing which parts of the ruling 
 **[03:39:47.020] Sen. Alan Peter Cayetano**  
 nakalagay all records filed with, submitted to, or maintained by the BR for taxable year 207 to 25, including but not limited to. So sinabi 1, 2, 3. 1 and 2, pero not limited to. The other one, 4, page 4 of the request number 004-2026. Sorry, that's the case number. So the other one is to the, this one's to the anti-money laundering. Nakalagay po sa page 4 and all other relevant documents. So I just like to ask, was your narration exclusive? Because you did say that It's specific enough, but I don't think specific yung all other relevant. The test of if it's definite is that wala nang iisipin yung pinadalan mo ng supina. So kung anong nirerate, yun ang kukunin.
 
-**[03:40:43.460] Sen. Francis “Chiz” Escudero**  
+**[03:40:43.460] Sen. Francis "Chiz" G. Escudero**  
 That is a common practice perhaps used by lawyers, but the understanding of the court, and let this be part of the ruling of the court, is that only the documents specifically mentioned Thank you for that. will not include that catch-all phrase because I doubt too if the banks, the BIL, AMLC, would be able to supply in such others unless it was specified. So
 
 **[03:41:02.130] Sen. Alan Peter Cayetano**  
 with the permission of the court, I'll submit my— Permission
 
-**[03:41:05.670] Sen. Francis “Chiz” Escudero**  
+**[03:41:05.670] Sen. Francis "Chiz" G. Escudero**  
 granted and any other senator-judge who wish to submit their written explanation in regard to the twin orders may do so.
 
-**[03:41:15.860] Sen. Francis “Chiz” Escudero**  
+**[03:41:15.860] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Marcos and Legarda are both raising their hands so the same applies to them.
 
-**[03:41:23.070] Sen. Francis “Chiz” Escudero**  
+**[03:41:23.070] Sen. Francis "Chiz" G. Escudero**  
 Submit.
 
-**[03:41:25.380] Sen. Francis “Chiz” Escudero**  
+**[03:41:25.380] Sen. Francis "Chiz" G. Escudero**  
 Senator Judges Marcos, Legarda, and Villar Camille. Are manifesting that they will be submitting their manifestations in regard to the twin rulings of the court and the same is allowed and will be made part of the records.
 
-**[03:41:48.200] Sen. Francis “Chiz” Escudero**  
+**[03:41:48.200] Sen. Francis "Chiz" G. Escudero**  
 For the information of the court, yes, Senator Judge Pia Cayetano is recognized. What is your pleasure, ma'am?
 
 **[03:41:54.620] Sen. Pia S. Cayetano**  
 Mr. Presiding Officer, I'll just make a short manifestation because The
 
-**[03:41:58.620] Sen. Francis “Chiz” Escudero**  
+**[03:41:58.620] Sen. Francis "Chiz" G. Escudero**  
 lady may proceed.
 
 **[03:41:59.630] Sen. Pia S. Cayetano**  
@@ -1259,22 +1259,22 @@ taken
 **[03:43:33.860] Sen. Pia S. Cayetano**  
 under Judge P. Aquetano.
 
-**[03:43:50.260] Sen. Francis “Chiz” Escudero**  
+**[03:43:50.260] Sen. Francis "Chiz" G. Escudero**  
 Chair would now like to take up some administrative matters. We are in receipt of a motion to set conference for the transfer of markings and comparison of video exhibits filed by the prosecution. Since this was received only last Friday, the court was not able to act on it on their requested dates. Court therefore sets this to July 21, tomorrow at 9 am. Due notice is given to both parties for this purpose. Likewise, the Court is
 
-**[03:44:19.990] Sen. Francis “Chiz” Escudero**  
+**[03:44:19.990] Sen. Francis "Chiz" G. Escudero**  
 in receipt, the Presiding Officer rather, as well as the Senate President, of a letter of manifestation signed by Senator Judge Mark Coleta, citing a rule in the Arab Impeachment Trial and wanting his vote to be considered. Chair, the Presiding Officer in this Court will not act on it at this time, but instead, since we will be resuming next week, will be referring this matter to the Senate as a legislative body, given that it's the Senate that will be amending the rules, to allow participation through a vote because apparently, as pointed out by Senator Judge Mark Coleta, during the Estrada impeachment trial, a rule was adopted, which we are confirming, that allows the Senate President to provide a mechanism by which a Senator who cannot vote Under any unavoidable circumstances to cast this vote on any matter. But since this impinges upon the rules of the impeachment court, this matter should properly be taken up by the Senate as a legislative body.
 
-**[03:45:34.900] Sen. Francis “Chiz” Escudero**  
+**[03:45:34.900] Sen. Francis "Chiz" G. Escudero**  
 And whatever decision the Senate will have as a legislative body, the court shall implement it. But let it be placed on record that personally,
 
-**[03:45:46.240] Sen. Francis “Chiz” Escudero**  
+**[03:45:46.240] Sen. Francis "Chiz" G. Escudero**  
 Once we convene the Senate as a legislative body, I am inclined to agree with the suggestion of Senator Mark Coleta for as long as there is no suspension, according to him. Yes,
 
 **[03:45:58.720] Sen. Alan Peter Cayetano**  
 Senator Judge
 
-**[03:45:59.100] Sen. Francis “Chiz” Escudero**  
+**[03:45:59.100] Sen. Francis "Chiz" G. Escudero**  
 Gaetano.
 
 **[03:45:59.520] Sen. Alan Peter Cayetano**  
@@ -1283,16 +1283,16 @@ I will not object to that at this point in time. Just as an additional informati
 **[03:46:16.930] Sen. Alan Peter Cayetano**  
 As a court, we can also communicate whether it's with the Sandigan Bayan. But if you're going to say it's going to be through the rules, that's not in conflict. But maybe we can take it up whether in caucus once the Senate convenes.
 
-**[03:46:31.830] Sen. Francis “Chiz” Escudero**  
+**[03:46:31.830] Sen. Francis "Chiz" G. Escudero**  
 The point of Senator Judge Allen is well taken. We shall do so at the appropriate time. Now, on other matter, Senator Judge Padilla is recognized. What is your pleasure, sir?
 
 **[03:46:46.480] Sen. Robinhood “Robin” Padilla**  
 Mahal na tagapamahalang hukom, patungkol po dun sa nangyaring ruling, nais ko lang po sanang magmanipesto.
 
-**[03:46:55.820] Sen. Francis “Chiz” Escudero**  
+**[03:46:55.820] Sen. Francis "Chiz" G. Escudero**  
 The gentleman may proceed.
 
-**[03:46:58.980] Sen. Francis “Chiz” Escudero**  
+**[03:46:58.980] Sen. Francis "Chiz" G. Escudero**  
 Ginong tagapangulo
 
 **[03:47:02.730] Sen. Robinhood “Robin” Padilla**  
@@ -1322,52 +1322,52 @@ Ito ay oras na para samantalahin natin ang pagkakataong ito na ipasayang FOI. Ka
 **[03:50:57.220] Sen. Robinhood “Robin” Padilla**  
 For the record,
 
-**[03:51:00.180] Sen. Francis “Chiz” Escudero**  
+**[03:51:00.180] Sen. Francis "Chiz" G. Escudero**  
 there is a pending bill as well requiring all public officials filing a SAL-N. To execute a waiver in favor of relevant government agencies together with their salen on top and in addition of the FOI bill filed by the Honorable Padilla, na tinatalakay din po natin sa ngayon.
 
-**[03:51:20.950] Sen. Francis “Chiz” Escudero**  
+**[03:51:20.950] Sen. Francis "Chiz" G. Escudero**  
 Before proceeding
 
-**[03:51:22.070] Sen. Francis “Chiz” Escudero**  
+**[03:51:22.070] Sen. Francis "Chiz" G. Escudero**  
 on one more matter, may I inquire from the lead prosecutor or someone from the panel of prosecutors who their intended witnesses will be for tomorrow and Tuesday?
 
-**[03:51:36.330] Sen. Francis “Chiz” Escudero**  
+**[03:51:36.330] Sen. Francis "Chiz" G. Escudero**  
 Tomorrow and Wednesday, forgive me.
 
 **[03:51:43.950] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, our intended witness for tomorrow is Atty. Melvin Matibag, the NBI Director. And for Wednesday, Your Honor, it will be Marivic Pareja of the Legislative Archive Office of the House of Representatives, Your Honor.
 
-**[03:51:59.230] Sen. Francis “Chiz” Escudero**  
+**[03:51:59.230] Sen. Francis "Chiz" G. Escudero**  
 And on Wednesday, the bank officials?
 
 **[03:52:05.050] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 In addition, Your Honor, but considering that we only have Tuesday and Wednesday for trial, But after Marivic-Pareja, we will also be presenting the two land bank officials, Your Honor.
 
-**[03:52:17.970] Sen. Francis “Chiz” Escudero**  
+**[03:52:17.970] Sen. Francis "Chiz" G. Escudero**  
 Yes, because we issued a subpoena ad testificandum against these two bank officials to attend tomorrow and Wednesday.
 
 **[03:52:28.820] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Yes, Your Honor.
 
-**[03:52:30.430] Sen. Francis “Chiz” Escudero**  
+**[03:52:30.430] Sen. Francis "Chiz" G. Escudero**  
 So for the information of the two bank officials, if they are listening, they may simply attend the Wednesday trial. Not the trial tomorrow, although the subpoena indicates tomorrow and Wednesday. Would that be okay, counsel? Yes, Your Honor. So,
 
-**[03:52:50.510] Sen. Francis “Chiz” Escudero**  
+**[03:52:50.510] Sen. Francis "Chiz" G. Escudero**  
 Atty. Melvin Matibag tomorrow, and if at all, Ms. Marivic Pareja and Ms. Marivic Pareja, the two bank officials, on Wednesday.
 
-**[03:52:58.600] Sen. Francis “Chiz” Escudero**  
+**[03:52:58.600] Sen. Francis "Chiz" G. Escudero**  
 Counsel for the respondent, ma'am.
 
 **[03:53:00.480] Sheila C. Sison**  
 Good afternoon, Your Honor.
 
-**[03:53:01.200] Sen. Francis “Chiz” Escudero**  
+**[03:53:01.200] Sen. Francis "Chiz" G. Escudero**  
 What is your pleasure, ma'am?
 
 **[03:53:02.000] Sheila C. Sison**  
 May I be recognized, Your Honor?
 
-**[03:53:03.340] Sen. Francis “Chiz” Escudero**  
+**[03:53:03.340] Sen. Francis "Chiz" G. Escudero**  
 Yes, ma'am. This is regarding what matter, ma'am?
 
 **[03:53:06.000] Sheila C. Sison**  
@@ -1376,19 +1376,19 @@ Just two administrative matters, Your Honor. The first one is with respect to th
 **[03:53:09.990] Sheila C. Sison**  
 motion to set conference for the transfer of marking and comparison of video exhibits. We would also like to request that the respondent be allowed to also mark additional documents at the appointed time tomorrow. In effect, we're asking for the same latitude. In fact, some of the documents that we intend to mark tomorrow would be also our copies of some of the listed items in this motion, Your Honor.
 
-**[03:53:42.720] Sen. Francis “Chiz” Escudero**  
+**[03:53:42.720] Sen. Francis "Chiz" G. Escudero**  
 Of course. That motion orally made by counsel for respondent is hereby granted. The respondent, in similar fashion to the prosecution, may also mark, or change the markings, or mark any pieces of evidence they wish to do so in order to facilitate the trial. So ordered.
 
 **[03:54:02.880] Sheila C. Sison**  
 Yes. Thank you, Your Honor. And just to place on record, the additional marking of evidence and whatever transfer of markings that the prosecution will do tomorrow is without prejudice to Section 3, Administrative Matter No. 2026-001 of this Impeachment Court, with respect to the guidelines for the conduct of the pre-trial conference, which explicitly states that the marking is without prejudice to any questions on admissibility, relevance, etc., Your Honor.
 
-**[03:54:35.760] Sen. Francis “Chiz” Escudero**  
+**[03:54:35.760] Sen. Francis "Chiz" G. Escudero**  
 That is the understanding, counsel. Yes. And the second matter concerns that?
 
 **[03:54:41.200] Sheila C. Sison**  
 Second matter, Your Honor, with respect to the earlier ruling given by this Court on the two requests for subpoena, Your Honor, defense requests for a certified true copy of that ruling, Your Honor. Thank you.
 
-**[03:54:52.320] Sen. Francis “Chiz” Escudero**  
+**[03:54:52.320] Sen. Francis "Chiz" G. Escudero**  
 The Chair will address that. It will be included in the Journal. However, the Journal will have to await the manifestations to be submitted by any Senator-Judge who may agree or disagree with the ruling. So, we might not be able to approve the Journal tomorrow, although we will do as best as we can. But as soon as the Journal is approved, we shall make it available. The TSN can be made available perhaps by tomorrow.
 
 **[03:55:19.440] Sheila C. Sison**  
@@ -1397,13 +1397,13 @@ Thank you, Your Honor. That's all, Your Honor.
 **[03:55:21.400] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Your Honor, may I make a short manifestation with regards to the order of presentation, Your Honor, earlier mentioned by the prosecution?
 
-**[03:55:29.140] Sen. Francis “Chiz” Escudero**  
+**[03:55:29.140] Sen. Francis "Chiz" G. Escudero**  
 Of witnesses?
 
 **[03:55:30.780] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 Yes, Your Honor.
 
-**[03:55:32.140] Sen. Francis “Chiz” Escudero**  
+**[03:55:32.140] Sen. Francis "Chiz" G. Escudero**  
 Subject to the limitation mentioned by Senator Judge Allen the other week, if you remember? Yes,
 
 **[03:55:38.720] Rep. Gerville “Jinky Bitrics” R. Luistro**  
@@ -1412,29 +1412,29 @@ Your Honor,
 **[03:55:39.200] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 I understand.
 
-**[03:55:39.940] Sen. Francis “Chiz” Escudero**  
+**[03:55:39.940] Sen. Francis "Chiz" G. Escudero**  
 The lady may proceed. We
 
 **[03:55:41.680] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 are maintaining the presentation of NBI Director tomorrow. That is Tuesday, July 21. And then following the NBI Director, Your Honor, will be the two Land Bank Managers in the person of Violeta San Constantino of Shaw Branch Manager and Danita Camposano of DepEd Branch Manager. As to the presentation of the Legislative Archive Officer, we will be determining the appropriate timeline to present her, Your Honor.
 
-**[03:56:14.140] Sen. Francis “Chiz” Escudero**  
+**[03:56:14.140] Sen. Francis "Chiz" G. Escudero**  
 So the court recalls or withdraws the earlier statement that the two bank officials may appear on Wednesday. The subpoena stands, therefore, requiring their appearance to respond to the subpoena at testificandum tomorrow, July 21 and July 22.
 
 **[03:56:32.260] Rep. Gerville “Jinky Bitrics” R. Luistro**  
 We confirm, Your Honor.
 
-**[03:56:33.580] Sen. Francis “Chiz” Escudero**  
+**[03:56:33.580] Sen. Francis "Chiz" G. Escudero**  
 So noted. Any
 
-**[03:56:36.410] Sen. Francis “Chiz” Escudero**  
+**[03:56:36.410] Sen. Francis "Chiz" G. Escudero**  
 other matters that any of the parties wish to raise?
 
-**[03:56:42.250] Sen. Francis “Chiz” Escudero**  
+**[03:56:42.250] Sen. Francis "Chiz" G. Escudero**  
 There being none, since
 
-**[03:56:47.150] Sen. Francis “Chiz” Escudero**  
+**[03:56:47.150] Sen. Francis "Chiz" G. Escudero**  
 we did not have a break, Trial is hereby adjourned until July 21, Tuesday at
 
-**[03:56:56.880] Sen. Francis “Chiz” Escudero**  
+**[03:56:56.880] Sen. Francis "Chiz" G. Escudero**  
 2pm.
