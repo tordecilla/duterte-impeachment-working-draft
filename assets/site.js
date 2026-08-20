@@ -8,6 +8,34 @@ const repositoryFromPage = () => {
 };
 
 const repository = repositoryFromPage();
+const navToggle = document.querySelector('.nav-toggle');
+const primaryNav = document.querySelector('#primary-nav');
+navToggle?.addEventListener('click', () => {
+  const open = navToggle.getAttribute('aria-expanded') === 'true';
+  navToggle.setAttribute('aria-expanded', String(!open));
+  primaryNav?.classList.toggle('is-open', !open);
+});
+const witnessFilter = document.querySelector('#session-witness-filter');
+const articleFilter = document.querySelector('#session-article-filter');
+const witnessCards = [...document.querySelectorAll('.session-tile[data-witnesses]')];
+const witnessFilterResult = document.querySelector('#session-witness-filter-result');
+const witnessFilterEmpty = document.querySelector('#session-witness-empty');
+const applySessionFilters = () => {
+  const needle = witnessFilter?.value.trim().toLocaleLowerCase() || '';
+  const article = articleFilter?.value || '';
+  let count = 0;
+  witnessCards.forEach((card) => {
+    const witnessMatch = !needle || card.dataset.witnesses.includes(needle);
+    const articleMatch = !article || card.dataset.articles.split(/\s+/).includes(article);
+    const match = witnessMatch && articleMatch;
+    card.hidden = !match;
+    if (match) count += 1;
+  });
+  if (witnessFilterResult) witnessFilterResult.textContent = needle || article ? `${count} matching session${count === 1 ? '' : 's'}` : '';
+  if (witnessFilterEmpty) witnessFilterEmpty.hidden = count !== 0;
+};
+witnessFilter?.addEventListener('input', applySessionFilters);
+articleFilter?.addEventListener('change', applySessionFilters);
 const issueUrl = (title, body, labels) => repository
   ? `https://github.com/${repository}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}&labels=${encodeURIComponent(labels)}`
   : '';
