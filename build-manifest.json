@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-08-18T22:10:16+08:00",
+  "generated_at": "2026-08-20T13:57:22+08:00",
   "complete_artifacts_only": true,
-  "through_date": null,
+  "through_date": "20260812",
+  "articles_of_impeachment": {
+    "source_pdf": "https://docs.congress.hrep.online/legisdocs/first_20/CR00261.pdf",
+    "pages": [
+      71,
+      93
+    ]
+  },
   "sessions": [
+    {
+      "id": 15,
+      "youtube_id": "qvNG9-cWI3E",
+      "revision": 2,
+      "segments": 2374,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
     {
       "id": 1,
       "youtube_id": "75V_BfpyqCA",

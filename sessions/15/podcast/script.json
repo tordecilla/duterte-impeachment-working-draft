@@ -1,0 +1,271 @@
+{
+  "title": "Audio overview — August 12, 2026",
+  "description": "A source-linked English audio overview of the August 12 proceedings in the Impeachment Trial of Vice President Sara Duterte.",
+  "language": "en",
+  "segments": [
+    {
+      "id": "P001",
+      "kind": "intro",
+      "heading": "Introduction",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for August 12, 2026. This is a working reference, not an official Senate record.",
+      "citations": []
+    },
+    {
+      "id": "P002",
+      "kind": "finding",
+      "heading": "The central testimony",
+      "text": "The session centered on the continued cross-examination of Commission on Audit, or COA, state auditor Cylene May L. Del Campo. Del Campo testified about a document-based compliance audit: she described reward payments without supporting documents, purchases for which COA sought receipts or sales invoices, and reimbursements she said did not comply with the Joint Circular.",
+      "citations": [
+        {
+          "segment_id": "S01800",
+          "start_seconds": 18327.71,
+          "clock": "05:05:27",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S01808",
+          "start_seconds": 18455.86,
+          "clock": "05:07:35",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S01820",
+          "start_seconds": 18757.11,
+          "clock": "05:12:37",
+          "speaker_name": "Cylene May L. Del Campo"
+        }
+      ]
+    },
+    {
+      "id": "P003",
+      "kind": "finding",
+      "heading": "What the audit examined",
+      "text": "Del Campo said auditors looked at whether acknowledgement receipts supported the activities accomplishment report, and she referred to the Joint Circular's requirement for documents evidencing payment. That was witness testimony about COA's compliance review, not a finding by the Impeachment Court.",
+      "citations": [
+        {
+          "segment_id": "S01202",
+          "start_seconds": 12840.73,
+          "clock": "03:34:00",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S01232B",
+          "start_seconds": 13121.35,
+          "clock": "03:38:41",
+          "speaker_name": "Cylene May L. Del Campo"
+        }
+      ]
+    },
+    {
+      "id": "P004",
+      "kind": "finding",
+      "heading": "Audit matters still in process",
+      "text": "The witness said a 2022 notice of disallowance had been affirmed by the Commission Proper, but a motion for reconsideration was pending. She said the 2023 OVP notice remained appealable, and separate Department of Education matters were under review and evaluation. She also said COA was studying whether a Fraud Audit Office referral was necessary.",
+      "citations": [
+        {
+          "segment_id": "S02017",
+          "start_seconds": 20419.24,
+          "clock": "05:40:19",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S02019",
+          "start_seconds": 20436.32,
+          "clock": "05:40:36",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S02025",
+          "start_seconds": 20471.91,
+          "clock": "05:41:11",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S02027",
+          "start_seconds": 20502.07,
+          "clock": "05:41:42",
+          "speaker_name": "Cylene May L. Del Campo"
+        },
+        {
+          "segment_id": "S02164",
+          "start_seconds": 21565.76,
+          "clock": "05:59:25",
+          "speaker_name": "Cylene May L. Del Campo"
+        }
+      ]
+    },
+    {
+      "id": "P005",
+      "kind": "finding",
+      "heading": "The defense response",
+      "text": "For the defense, counsel Kristine R. Ferrer challenged the audit process. She raised the absence of a notice of suspension for the first three quarters and argued that the Office of the Vice President had no opportunity to comment before the notice of disallowance was issued. That was a defense argument, not a ruling by the court.",
+      "citations": [
+        {
+          "segment_id": "S00513",
+          "start_seconds": 5063.8,
+          "clock": "01:24:23",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00517",
+          "start_seconds": 5113.58,
+          "clock": "01:25:13",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00520",
+          "start_seconds": 5130.2,
+          "clock": "01:25:30",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "kind": "finding",
+      "heading": "The receipt dispute",
+      "text": "A separate dispute concerned competing acknowledgement receipts. Private prosecutor Atty. Lorna Patajo-Kapunan asked that the witness identify and authenticate the parties' documents in the Clerk of Court's presence. The defense questioned the receipts' chain of custody. Presiding Officer Sen. Francis Chiz Escudero directed the Clerk to compare the copies and reserved their formal evidentiary treatment.",
+      "citations": [
+        {
+          "segment_id": "S00029",
+          "start_seconds": 702.21,
+          "clock": "00:11:42",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00030",
+          "start_seconds": 995.38,
+          "clock": "00:16:35",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00031",
+          "start_seconds": 1050.77,
+          "clock": "00:17:30",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00040",
+          "start_seconds": 1172.68,
+          "clock": "00:19:32",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S00041",
+          "start_seconds": 1266.04,
+          "clock": "00:21:06",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P007",
+      "kind": "finding",
+      "heading": "Questions from senator-judges",
+      "text": "Senator-judges pressed the witness on evidence supporting activities reported in protective-intelligence records and purchases, on the compliance rules under the Joint Circular, and on names appearing in the records. These were questions during examination, not independent findings of the court.",
+      "citations": [
+        {
+          "segment_id": "S01881",
+          "start_seconds": 19360.82,
+          "clock": "05:22:40",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01886",
+          "start_seconds": 19403.4,
+          "clock": "05:23:23",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01906",
+          "start_seconds": 19560.9,
+          "clock": "05:26:00",
+          "speaker_name": "Sen. Manuel “Lito” M. Lapid"
+        },
+        {
+          "segment_id": "S01986",
+          "start_seconds": 20139.55,
+          "clock": "05:35:39",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        }
+      ]
+    },
+    {
+      "id": "P008",
+      "kind": "finding",
+      "heading": "What the chair directed",
+      "text": "Escudero allowed the defense to present a document while recording the prosecution's continuing objection. He later ended the current questioning round for time and said the court would hear counsel before ruling on the defense's Rule 18 manifestation on August 17.",
+      "citations": [
+        {
+          "segment_id": "S00116",
+          "start_seconds": 2043.78,
+          "clock": "00:34:03",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00130",
+          "start_seconds": 2175.55,
+          "clock": "00:36:15",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S02168",
+          "start_seconds": 21645.15,
+          "clock": "06:00:45",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S02278",
+          "start_seconds": 22874.88,
+          "clock": "06:21:14",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S02280",
+          "start_seconds": 22938.78,
+          "clock": "06:22:18",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P009",
+      "kind": "finding",
+      "heading": "What happens next",
+      "text": "The court ended Del Campo's examination. Prosecution counsel Antonio Eduardo B. Capistrano then sought the reissuance of subpoenas for additional witnesses on upcoming trial dates. The court adjourned until August 17 at 10 A M.",
+      "citations": [
+        {
+          "segment_id": "S02256",
+          "start_seconds": 22307.42,
+          "clock": "06:11:47",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        },
+        {
+          "segment_id": "S02263",
+          "start_seconds": 22355.79,
+          "clock": "06:12:35",
+          "speaker_name": "Atty. Antonio Eduardo B. Capistrano"
+        },
+        {
+          "segment_id": "S02265",
+          "start_seconds": 22419.74,
+          "clock": "06:13:39",
+          "speaker_name": "Atty. Antonio Eduardo B. Capistrano"
+        },
+        {
+          "segment_id": "S02280",
+          "start_seconds": 22938.78,
+          "clock": "06:22:18",
+          "speaker_name": "Sen. Francis “Chiz” Escudero"
+        }
+      ]
+    },
+    {
+      "id": "P010",
+      "kind": "outro",
+      "heading": "Source links",
+      "text": "The episode page links each substantive point to the timed transcript and the original Senate video. Check consequential wording against those sources before relying on it.",
+      "citations": []
+    }
+  ]
+}
