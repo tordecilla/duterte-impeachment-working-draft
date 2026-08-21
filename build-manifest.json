@@ -1,14 +1,8 @@
 {
-  "generated_at": "2026-08-21T12:32:30+08:00",
+  "generated_at": "2026-08-21T12:53:01+08:00",
   "complete_artifacts_only": true,
-  "through_date": "20260817",
-  "articles_of_impeachment": {
-    "source_pdf": "https://docs.congress.hrep.online/legisdocs/first_20/CR00261.pdf",
-    "pages": [
-      71,
-      93
-    ]
-  },
+  "through_date": null,
+  "articles_of_impeachment": null,
   "sessions": [
     {
       "id": 16,
