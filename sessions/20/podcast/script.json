@@ -1,0 +1,566 @@
+{
+  "description": "A source-linked English audio overview of the September 1 proceedings in the Impeachment Trial of Vice President Sara Duterte.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for September 1, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00305",
+          "start_seconds": 3572.56,
+          "clock": "00:59:32",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S00429",
+          "start_seconds": 4739.89,
+          "clock": "01:18:59",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00819",
+          "start_seconds": 10906.87,
+          "clock": "03:01:46",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S00835",
+          "start_seconds": 11040.29,
+          "clock": "03:04:00",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S01301",
+          "start_seconds": 15294.12,
+          "clock": "04:14:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01304",
+          "start_seconds": 15313.04,
+          "clock": "04:15:13",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01326",
+          "start_seconds": 15517.81,
+          "clock": "04:18:37",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        }
+      ],
+      "heading": "The day's evidence",
+      "id": "P002",
+      "kind": "finding",
+      "text": "Two Philippine Army officers testified about certifications for 2023 youth and information activities that Dep-Ed later used in answering C O A questions about confidential funds. Both described their documents as records that Army activities occurred, not certifications of Dep-Ed spending."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00060",
+          "start_seconds": 1076.95,
+          "clock": "00:17:56",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00073",
+          "start_seconds": 1348.29,
+          "clock": "00:22:28",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00077",
+          "start_seconds": 1485.81,
+          "clock": "00:24:45",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00148",
+          "start_seconds": 2129.34,
+          "clock": "00:35:29",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        }
+      ],
+      "heading": "The prosecution's case",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Prosecution counsel Reynaldo Robles said Dep-Ed submitted Army certifications to C O A as support for fifteen point five four million pesos reportedly paid as rewards. The prosecution argued that documents about programs conducted by the Army and local governments had been used to justify Dep-Ed spending. Colonel Manaros M. Boransing the Second supervised the First Infantry Division's civil-military activities."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00150",
+          "start_seconds": 2185.45,
+          "clock": "00:36:25",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S00300",
+          "start_seconds": 3496.05,
+          "clock": "00:58:16",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S00305",
+          "start_seconds": 3572.56,
+          "clock": "00:59:32",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S00787B",
+          "start_seconds": 10568.97,
+          "clock": "02:56:08",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S00833",
+          "start_seconds": 11026.53,
+          "clock": "03:03:46",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S00835",
+          "start_seconds": 11040.29,
+          "clock": "03:04:00",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        }
+      ],
+      "heading": "What Boransing certified",
+      "id": "P004",
+      "kind": "finding",
+      "text": "Boransing described Y L S as a longstanding inter-agency Army program. He testified that his division received no Dep-Ed funds for its 2023 Y L S and I E C activities. He said the certification stated no purpose, and he did not know it would be used in Dep-Ed's C O A response. It certified that the activities occurred and that the participating agencies did their part."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00870",
+          "start_seconds": 11438.45,
+          "clock": "03:10:38",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S00871",
+          "start_seconds": 11444.49,
+          "clock": "03:10:44",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00872",
+          "start_seconds": 11464.08,
+          "clock": "03:11:04",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S00878",
+          "start_seconds": 11516.14,
+          "clock": "03:11:56",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00883",
+          "start_seconds": 11564.1,
+          "clock": "03:12:44",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S00885",
+          "start_seconds": 11571.84,
+          "clock": "03:12:51",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        },
+        {
+          "segment_id": "S01008",
+          "start_seconds": 12512.67,
+          "clock": "03:28:32",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01009",
+          "start_seconds": 12524.25,
+          "clock": "03:28:44",
+          "speaker_name": "Col. Manaros M. Boransing II"
+        }
+      ],
+      "heading": "The limits of Boransing's testimony",
+      "id": "P005",
+      "kind": "finding",
+      "text": "Questioned by senator-judges, Boransing said his division received no confidential or surveillance information from Dep-Ed. He described its inputs as open-source information about students and available schools. He said he was not an intelligence officer and could not assess whether a standard activity certification established a link among informer information, a successful activity, and a reported reward. He also said he did not know how much Dep-Ed spent on the activities."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00405",
+          "start_seconds": 4470.43,
+          "clock": "01:14:30",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00406",
+          "start_seconds": 4490.59,
+          "clock": "01:14:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00407",
+          "start_seconds": 4499.64,
+          "clock": "01:14:59",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00409",
+          "start_seconds": 4508.8,
+          "clock": "01:15:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00410",
+          "start_seconds": 4526.74,
+          "clock": "01:15:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00417",
+          "start_seconds": 4633.09,
+          "clock": "01:17:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00418",
+          "start_seconds": 4652.12,
+          "clock": "01:17:32",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00424",
+          "start_seconds": 4699.6,
+          "clock": "01:18:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00425",
+          "start_seconds": 4714.43,
+          "clock": "01:18:34",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00428",
+          "start_seconds": 4726.91,
+          "clock": "01:18:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00462",
+          "start_seconds": 4998.9,
+          "clock": "01:23:18",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00464",
+          "start_seconds": 5025.16,
+          "clock": "01:23:45",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00466",
+          "start_seconds": 5035.04,
+          "clock": "01:23:55",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Documents and the court's correction",
+      "id": "P006",
+      "kind": "finding",
+      "text": "The parties stipulated to identified C O A memoranda, Dep-Ed correspondence, A F P certifications, and related records. The chair ordered that those documents needed no further proof beyond completing the witness narration. When Robles called the questioned expenditure disallowed, the chair sustained an objection and said the record contained no evidence of a C O A disallowance."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01222",
+          "start_seconds": 14551.3,
+          "clock": "04:02:31",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01226",
+          "start_seconds": 14740.8,
+          "clock": "04:05:40",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01240",
+          "start_seconds": 14851.2,
+          "clock": "04:07:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01243",
+          "start_seconds": 14865.11,
+          "clock": "04:07:45",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01247",
+          "start_seconds": 14902.88,
+          "clock": "04:08:22",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01192",
+          "start_seconds": 14264.34,
+          "clock": "03:57:44",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S01198",
+          "start_seconds": 14280.34,
+          "clock": "03:58:00",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S01202",
+          "start_seconds": 14285.6,
+          "clock": "03:58:05",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The defense position and burden of proof",
+      "id": "P007",
+      "kind": "finding",
+      "text": "The defense agreed to stipulate that the three proposed A F P witnesses would testify that no confidential funds were transferred agency-to-agency for the activities. It refused to stipulate that no confidential information was shared, or that the officers did not know how the documents would be used. Lead defense counsel Sheila C. Sison pointed to language about Dep-Ed collaboration and information. After the prosecution invoked a prima facie presumption of misappropriation, the presiding officer clarified that the burden of proof remained with the prosecution."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01279",
+          "start_seconds": 15053.06,
+          "clock": "04:10:53",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S01289",
+          "start_seconds": 15217.33,
+          "clock": "04:13:37",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01299B",
+          "start_seconds": 15286.2,
+          "clock": "04:14:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01302",
+          "start_seconds": 15301.89,
+          "clock": "04:15:01",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01304",
+          "start_seconds": 15313.04,
+          "clock": "04:15:13",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01326",
+          "start_seconds": 15517.81,
+          "clock": "04:18:37",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01362",
+          "start_seconds": 15744.1,
+          "clock": "04:22:24",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01363",
+          "start_seconds": 15784.65,
+          "clock": "04:23:04",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01368",
+          "start_seconds": 15848.04,
+          "clock": "04:24:08",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01371",
+          "start_seconds": 15894.03,
+          "clock": "04:24:54",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        }
+      ],
+      "heading": "Panopio's account",
+      "id": "P008",
+      "kind": "finding",
+      "text": "Colonel Magtangol G. Panopio testified about his December 5, 2023 certification. He said he learned during an October 2024 congressional hearing that Dep-Ed had used it as a liquidation document. That surprised him because it certified Y L S activities, not money or funds. Panopio said information from teachers could combine open-source and confidential material used to plan where activities were needed."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01398",
+          "start_seconds": 16171.27,
+          "clock": "04:29:31",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01402",
+          "start_seconds": 16192.130000000001,
+          "clock": "04:29:52",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01403",
+          "start_seconds": 16207.86,
+          "clock": "04:30:07",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01407",
+          "start_seconds": 16234.61,
+          "clock": "04:30:34",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01412",
+          "start_seconds": 16270.29,
+          "clock": "04:31:10",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01413",
+          "start_seconds": 16291.22,
+          "clock": "04:31:31",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01414",
+          "start_seconds": 16292.22,
+          "clock": "04:31:32",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01415",
+          "start_seconds": 16296.69,
+          "clock": "04:31:36",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01456",
+          "start_seconds": 16663.62,
+          "clock": "04:37:43",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01457",
+          "start_seconds": 16692.06,
+          "clock": "04:38:12",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01342",
+          "start_seconds": 15586.23,
+          "clock": "04:19:46",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01343",
+          "start_seconds": 15608.31,
+          "clock": "04:20:08",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01344",
+          "start_seconds": 15650.97,
+          "clock": "04:20:50",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        },
+        {
+          "segment_id": "S01347",
+          "start_seconds": 15665.04,
+          "clock": "04:21:05",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01348",
+          "start_seconds": 15681.03,
+          "clock": "04:21:21",
+          "speaker_name": "Col. Magtangol G. Panopio"
+        }
+      ],
+      "heading": "What Panopio's document did not cover",
+      "id": "P009",
+      "kind": "finding",
+      "text": "Panopio maintained that his certification did not address how Dep-Ed funded the activities or whether its spending was proper. He agreed that Y L S and I E C were community-relations activities, not intelligence-gathering operations. He said the reported reward amount had no relation to his document. Senator-judge Panfilo Lacson noted similar language in two Army certifications. Panopio denied coordinating with Colonel Carlos Sangdaan and attributed the resemblance to common military doctrine and reporting formats."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01202",
+          "start_seconds": 14285.6,
+          "clock": "03:58:05",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01222",
+          "start_seconds": 14551.3,
+          "clock": "04:02:31",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01226",
+          "start_seconds": 14740.8,
+          "clock": "04:05:40",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01240",
+          "start_seconds": 14851.2,
+          "clock": "04:07:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01247",
+          "start_seconds": 14902.88,
+          "clock": "04:08:22",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01511",
+          "start_seconds": 16968.98,
+          "clock": "04:42:48",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01513",
+          "start_seconds": 17022.62,
+          "clock": "04:43:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01516",
+          "start_seconds": 17067.94,
+          "clock": "04:44:27",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S01521",
+          "start_seconds": 17082.7,
+          "clock": "04:44:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "What happens next",
+      "id": "P010",
+      "kind": "outro",
+      "text": "The court excused both Army witnesses. The parties remained divided over Dep-Ed collaboration, information sharing, and the certifications' later use. Prosecution counsel said attorney Michael Wesley Poa would testify first when trial resumed on September second, with a P S A representative to follow if time permitted."
+    }
+  ],
+  "title": "Army certifications and DepEd confidential funds — September 1, 2026"
+}

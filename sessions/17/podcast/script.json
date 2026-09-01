@@ -1,0 +1,546 @@
+{
+  "description": "A source-linked English audio overview of the day’s proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft’s audio overview of the Impeachment Trial of Vice President Sara Duterte for August 24, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00004",
+          "start_seconds": 312.9,
+          "clock": "00:05:12",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00009",
+          "start_seconds": 505.1,
+          "clock": "00:08:25",
+          "speaker_name": "Atty. Renato N. Bantug Jr."
+        },
+        {
+          "segment_id": "S00010",
+          "start_seconds": 546.54,
+          "clock": "00:09:06",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00011",
+          "start_seconds": 573.9,
+          "clock": "00:09:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00014",
+          "start_seconds": 599.13,
+          "clock": "00:09:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00708",
+          "start_seconds": 9331.21,
+          "clock": "02:35:31",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00709",
+          "start_seconds": 9346.03,
+          "clock": "02:35:46",
+          "speaker_name": "Gina F. Acosta"
+        }
+      ],
+      "heading": "The day’s central witness",
+      "id": "P002",
+      "kind": "finding",
+      "text": "Senate President Sherwin T. Gatchalian called the impeachment court to order before Presiding Officer Francis “Chiz” G. Escudero resumed the examination of Gina F. Acosta, the Office of the Vice President’s special disbursing officer for confidential funds. Her testimony about how the cash moved, and what records supported it, became the day’s central story."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01526",
+          "start_seconds": 15366.27,
+          "clock": "04:16:06",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01373",
+          "start_seconds": 13994.66,
+          "clock": "03:53:14",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01456",
+          "start_seconds": 14697.16,
+          "clock": "04:04:57",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01551",
+          "start_seconds": 15503.17,
+          "clock": "04:18:23",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01556",
+          "start_seconds": 15542.84,
+          "clock": "04:19:02",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01681",
+          "start_seconds": 16673.43,
+          "clock": "04:37:53",
+          "speaker_name": "Gina F. Acosta"
+        }
+      ],
+      "heading": "Four quarterly ₱125 million withdrawals",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Acosta described four quarterly withdrawals of 125 million pesos. She said the Vice President instructed her to release the encashed confidential funds to security officer Col. Lachica, who would implement the confidential activities. She said the final quarter of 2022 was released to him in full. In later quarters, the money could be released in several tranches. For one such quarter, she kept the balance in the office vault after an initial release and later released it based on Lachica’s fund-utilization report and object-of-expenditures request."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00215",
+          "start_seconds": 2595.9700000000003,
+          "clock": "00:43:15",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00221",
+          "start_seconds": 2624.96,
+          "clock": "00:43:44",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00229",
+          "start_seconds": 2661.21,
+          "clock": "00:44:21",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00233",
+          "start_seconds": 2691.98,
+          "clock": "00:44:51",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00235",
+          "start_seconds": 2716.7799999999997,
+          "clock": "00:45:16",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00257",
+          "start_seconds": 2918.4700000000003,
+          "clock": "00:48:38",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00259",
+          "start_seconds": 2932.9700000000003,
+          "clock": "00:48:52",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00261",
+          "start_seconds": 2943.59,
+          "clock": "00:49:03",
+          "speaker_name": "Gina F. Acosta"
+        }
+      ],
+      "heading": "The internal handoff document",
+      "id": "P004",
+      "kind": "finding",
+      "text": "For the handoff, Acosta said she used an internal Office of the Vice President document called an object of expenditures. It listed proposed expenses totaling 125 million pesos, was stamped “received,” and was signed by Lachica. She also said Lachica took that document back after she completed the liquidation. She said her liquidation, in turn, rested on documents he supplied after carrying out the confidential activities."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00404",
+          "start_seconds": 4184.3,
+          "clock": "01:09:44",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00418",
+          "start_seconds": 4337.28,
+          "clock": "01:12:17",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00436",
+          "start_seconds": 4432.5,
+          "clock": "01:13:52",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00437",
+          "start_seconds": 4483.6900000000005,
+          "clock": "01:14:43",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00623",
+          "start_seconds": 6154.25,
+          "clock": "01:42:34",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01321",
+          "start_seconds": 13610.87,
+          "clock": "03:46:50",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01323",
+          "start_seconds": 13653.23,
+          "clock": "03:47:33",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01653",
+          "start_seconds": 16426.55,
+          "clock": "04:33:46",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S01821",
+          "start_seconds": 17865.87,
+          "clock": "04:57:45",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Reliance on Lachica’s records",
+      "id": "P005",
+      "kind": "finding",
+      "text": "Acosta said she was not present for the ground operations and relied on Lachica’s statements and documents. The liquidation used acknowledgement receipts rather than official receipts. She noticed that some lacked dates or names. Senator-judge Raffy Tulfo raised records showing different purported informants with one signature. Acosta said she accepted Lachica’s explanation that the transactions were sensitive and confidential, and treated unusual recipient names as aliases."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00097",
+          "start_seconds": 1483.04,
+          "clock": "00:24:43",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00106",
+          "start_seconds": 1557.04,
+          "clock": "00:25:57",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00132",
+          "start_seconds": 1795.41,
+          "clock": "00:29:55",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00246",
+          "start_seconds": 2832.9700000000003,
+          "clock": "00:47:12",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00409",
+          "start_seconds": 4231.33,
+          "clock": "01:10:31",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00486",
+          "start_seconds": 4963.32,
+          "clock": "01:22:43",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00639",
+          "start_seconds": 6245.9400000000005,
+          "clock": "01:44:05",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S01137",
+          "start_seconds": 12170.04,
+          "clock": "03:22:50",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S01139",
+          "start_seconds": 12177.33,
+          "clock": "03:22:57",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S01153",
+          "start_seconds": 12258.68,
+          "clock": "03:24:18",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S01183",
+          "start_seconds": 12438.11,
+          "clock": "03:27:18",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        }
+      ],
+      "heading": "The prosecution’s challenge",
+      "id": "P006",
+      "kind": "finding",
+      "text": "The prosecution argued that Acosta remained the accountable and bonded officer, while Lachica was neither accountable nor bonded. It said the Joint Circular did not allow the handoff, the internal paper did not expressly acknowledge receipt of the cash, and the available records did not establish who ultimately received the money or how it was used. In the prosecution’s view, reliance on one person’s account and documents was a failure of internal control."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00746",
+          "start_seconds": 9475.83,
+          "clock": "02:37:55",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00748",
+          "start_seconds": 9493.73,
+          "clock": "02:38:13",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00752",
+          "start_seconds": 9518.18,
+          "clock": "02:38:38",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00758",
+          "start_seconds": 9540.73,
+          "clock": "02:39:00",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00760",
+          "start_seconds": 9555.5,
+          "clock": "02:39:15",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00772",
+          "start_seconds": 9621.56,
+          "clock": "02:40:21",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00774",
+          "start_seconds": 9635.02,
+          "clock": "02:40:35",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00776",
+          "start_seconds": 9642.26,
+          "clock": "02:40:42",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00859",
+          "start_seconds": 10239.6,
+          "clock": "02:50:39",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00860",
+          "start_seconds": 10253.369999999999,
+          "clock": "02:50:53",
+          "speaker_name": "Gina F. Acosta"
+        },
+        {
+          "segment_id": "S00863",
+          "start_seconds": 10270.86,
+          "clock": "02:51:10",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00869",
+          "start_seconds": 10319.57,
+          "clock": "02:51:59",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00876",
+          "start_seconds": 10375.94,
+          "clock": "02:52:55",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00878",
+          "start_seconds": 10384.42,
+          "clock": "02:53:04",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        }
+      ],
+      "heading": "The defense theory",
+      "id": "P007",
+      "kind": "finding",
+      "text": "The defense drew a different line between financial custody and field operations. It argued that the Joint Circular did not require a special disbursing officer to conduct confidential operations, possess operational training, or hold a security clearance. The defense further argued that Acosta could rely on a security officer designated by the head of agency. It emphasized that she examined the acknowledgement receipts, tallied the amounts, checked their stated purposes, coordinated with Lachica, and was satisfied from the submitted documents that the funds related to confidential activities."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01219",
+          "start_seconds": 12867.76,
+          "clock": "03:34:27",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01272",
+          "start_seconds": 13233.8,
+          "clock": "03:40:33",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01283",
+          "start_seconds": 13306.03,
+          "clock": "03:41:46",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01288",
+          "start_seconds": 13322.06,
+          "clock": "03:42:02",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01321",
+          "start_seconds": 13610.87,
+          "clock": "03:46:50",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01323",
+          "start_seconds": 13653.23,
+          "clock": "03:47:33",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01324",
+          "start_seconds": 13660.96,
+          "clock": "03:47:40",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01325",
+          "start_seconds": 13661.94,
+          "clock": "03:47:41",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01348",
+          "start_seconds": 13783.5,
+          "clock": "03:49:43",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01350",
+          "start_seconds": 13816.93,
+          "clock": "03:50:16",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01713",
+          "start_seconds": 17043.93,
+          "clock": "04:44:03",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01715",
+          "start_seconds": 17083.49,
+          "clock": "04:44:43",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01928",
+          "start_seconds": 18782.96,
+          "clock": "05:13:02",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01929",
+          "start_seconds": 18808.24,
+          "clock": "05:13:28",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01933",
+          "start_seconds": 18860.77,
+          "clock": "05:14:20",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        }
+      ],
+      "heading": "What senator-judges tested",
+      "id": "P008",
+      "kind": "finding",
+      "text": "The senator-judges tested that defense from several angles. Francis “Kiko” Pangilinan asked how Acosta could safeguard money without knowing the operations, and whether Lachica was truly the final recipient contemplated by the Joint Circular. Erwin Tulfo and Raffy Tulfo pressed the lack of a fidelity bond, the aliases, and repeated signatures. Gatchalian asked how Acosta could assure the public that the cash had not been pocketed, and why liquidation reports preceded complete acknowledgement receipts."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01937",
+          "start_seconds": 18916.03,
+          "clock": "05:15:16",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01941",
+          "start_seconds": 18936.94,
+          "clock": "05:15:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01945",
+          "start_seconds": 19109.21,
+          "clock": "05:18:29",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S01956",
+          "start_seconds": 19295.56,
+          "clock": "05:21:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01963",
+          "start_seconds": 19319.12,
+          "clock": "05:21:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01968",
+          "start_seconds": 19327.0,
+          "clock": "05:22:07",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01970",
+          "start_seconds": 19415.08,
+          "clock": "05:23:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01984",
+          "start_seconds": 19651.06,
+          "clock": "05:27:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Where the session stopped",
+      "id": "P009",
+      "kind": "finding",
+      "text": "Escudero excused Acosta after the final questions. The court expected Limuel Ortoño, an assistant chief of staff at the Office of the Vice President, as the prosecution’s next witness, ordered Senate medical verification before deciding whether to excuse Edward D. Fajarda, and issued subpoenas for three Armed Forces of the Philippines witnesses. After the defense objected to the short notice, Escudero said the defense would receive time to prepare before cross-examination. A ruling on a separate August 12 manifestation was deferred to the following day."
+    }
+  ],
+  "title": "Audio overview — August 24, 2026"
+}

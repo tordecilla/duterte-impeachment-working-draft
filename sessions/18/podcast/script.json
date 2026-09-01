@@ -1,0 +1,879 @@
+{
+  "description": "A source-linked English audio overview of the day's proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for August 25, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00168",
+          "start_seconds": 2428.23,
+          "clock": "00:40:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00172",
+          "start_seconds": 2465.2799999999997,
+          "clock": "00:41:05",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00282",
+          "start_seconds": 3262.23,
+          "clock": "00:54:22",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00381",
+          "start_seconds": 3974.25,
+          "clock": "01:06:14",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00382",
+          "start_seconds": 3993.59,
+          "clock": "01:06:33",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00533",
+          "start_seconds": 4961.14,
+          "clock": "01:22:41",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00618",
+          "start_seconds": 5837.03,
+          "clock": "01:37:17",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00781",
+          "start_seconds": 7070.88,
+          "clock": "01:57:50",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        }
+      ],
+      "heading": "The big picture",
+      "id": "P002",
+      "kind": "overview",
+      "text": "The August 25 sitting centered on the prosecution's direct examination of Lemuel G. Ortoño, Assistant Secretary and Assistant Chief of Staff of the Office of the Vice President, about the request, release, use, liquidation, and audit treatment of OVP confidential funds. The prosecution used OVP and Commission on Audit records to argue that the supporting documents contained recurring totals, incomplete detail, and changing explanations. The defense emphasized that Ortoño did not prepare many of the records and reserved its factual challenge for cross-examination. The court declared Ortoño a hostile witness and made procedural and evidentiary rulings during direct examination, but it made no merits finding; cross-examination and the remaining examination stages were left for August 26."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00538",
+          "start_seconds": 5009.72,
+          "clock": "01:23:29",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00539",
+          "start_seconds": 5020.04,
+          "clock": "01:23:40",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00547",
+          "start_seconds": 5058.98,
+          "clock": "01:24:18",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00548",
+          "start_seconds": 5066.38,
+          "clock": "01:24:26",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00550",
+          "start_seconds": 5077.58,
+          "clock": "01:24:37",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00578",
+          "start_seconds": 5435.48,
+          "clock": "01:30:35",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00579",
+          "start_seconds": 5446.08,
+          "clock": "01:30:46",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00952",
+          "start_seconds": 10852.44,
+          "clock": "03:00:52",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00953",
+          "start_seconds": 10868.2,
+          "clock": "03:01:08",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00986",
+          "start_seconds": 11163.16,
+          "clock": "03:06:03",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00996",
+          "start_seconds": 11220.96,
+          "clock": "03:07:00",
+          "speaker_name": "Lemuel G. Ortoño"
+        }
+      ],
+      "heading": "Witnesses and evidence",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Lemuel G. Ortoño, Assistant Secretary and Assistant Chief of Staff of the Office of the Vice President, testified that he signed four Land Bank checks and accompanied special disbursing officer Gina F. Acosta when they were encashed. He also helped prepare OVP audit replies, but lacked personal knowledge of the actual spending and submitted sealed protective-intelligence reports without reading them."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00621",
+          "start_seconds": 5864.36,
+          "clock": "01:37:44",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00622",
+          "start_seconds": 5880.16,
+          "clock": "01:38:00",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00650",
+          "start_seconds": 6071.27,
+          "clock": "01:41:11",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00785",
+          "start_seconds": 7091.57,
+          "clock": "01:58:11",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00786",
+          "start_seconds": 7102.3099999999995,
+          "clock": "01:58:22",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00790",
+          "start_seconds": 7123.18,
+          "clock": "01:58:43",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00791",
+          "start_seconds": 7131.08,
+          "clock": "01:58:51",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00857",
+          "start_seconds": 7543.83,
+          "clock": "02:05:43",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00858",
+          "start_seconds": 7559.4,
+          "clock": "02:05:59",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00860",
+          "start_seconds": 7566.77,
+          "clock": "02:06:06",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00861",
+          "start_seconds": 7580.35,
+          "clock": "02:06:20",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00874",
+          "start_seconds": 7618.07,
+          "clock": "02:06:58",
+          "speaker_name": "Lemuel G. Ortoño"
+        }
+      ],
+      "heading": "Witnesses and evidence",
+      "id": "P004",
+      "kind": "finding",
+      "text": "The first liquidation report reflected ₱125 million spent by December 31, 2022, and Ortoño said the period from December 21 through December 31 was 11 days. He also agreed that the first three accomplishment reports used the same six categories and ₱125 million totals, but could not say that a later missing medical-and-food-aid amount had been redistributed because he did not prepare the report."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01027",
+          "start_seconds": 11535.15,
+          "clock": "03:12:15",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01331",
+          "start_seconds": 14545.02,
+          "clock": "04:02:25",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01332",
+          "start_seconds": 14576.95,
+          "clock": "04:02:56",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01342",
+          "start_seconds": 14640.95,
+          "clock": "04:04:00",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01367",
+          "start_seconds": 14773.82,
+          "clock": "04:06:13",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01369",
+          "start_seconds": 14787.64,
+          "clock": "04:06:27",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01372",
+          "start_seconds": 14801.02,
+          "clock": "04:06:41",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01373",
+          "start_seconds": 14811.64,
+          "clock": "04:06:51",
+          "speaker_name": "Lemuel G. Ortoño"
+        }
+      ],
+      "heading": "Witnesses and evidence",
+      "id": "P005",
+      "kind": "finding",
+      "text": "Ortoño said the medical-and-food-aid support he saw consisted of acknowledgement receipts rather than official receipts. He also testified that Gina F. Acosta requested a ₱150,000 emergency advance relayed by Colonel Raymond Dante Lachica, that he was never reimbursed, and that the advance did not appear in OVP records."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00168",
+          "start_seconds": 2428.23,
+          "clock": "00:40:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00172",
+          "start_seconds": 2465.2799999999997,
+          "clock": "00:41:05",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "What happened",
+      "id": "P006",
+      "kind": "finding",
+      "text": "The court declared Ortoño a hostile witness because of his continuing coterminous service under Vice President Sara Zimmerman Duterte, the respondent, and permitted leading, but not misleading, questions."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00282",
+          "start_seconds": 3262.23,
+          "clock": "00:54:22",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00381",
+          "start_seconds": 3974.25,
+          "clock": "01:06:14",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00382",
+          "start_seconds": 3993.59,
+          "clock": "01:06:33",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00533",
+          "start_seconds": 4961.14,
+          "clock": "01:22:41",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00618",
+          "start_seconds": 5837.03,
+          "clock": "01:37:17",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00781",
+          "start_seconds": 7070.88,
+          "clock": "01:57:50",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00947",
+          "start_seconds": 10826.52,
+          "clock": "03:00:26",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00963",
+          "start_seconds": 10943.68,
+          "clock": "03:02:23",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00964",
+          "start_seconds": 10959.44,
+          "clock": "03:02:39",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00986",
+          "start_seconds": 11163.16,
+          "clock": "03:06:03",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00996",
+          "start_seconds": 11220.96,
+          "clock": "03:07:00",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01191",
+          "start_seconds": 13047.16,
+          "clock": "03:37:27",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01192",
+          "start_seconds": 13074.52,
+          "clock": "03:37:54",
+          "speaker_name": "Lemuel G. Ortoño"
+        }
+      ],
+      "heading": "What happened",
+      "id": "P007",
+      "kind": "finding",
+      "text": "Direct examination moved through the confidential-fund request and plans, disbursement vouchers and checks, liquidation and accomplishment reports, audit memoranda, OVP replies, certifications, and protective-intelligence reports."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01523",
+          "start_seconds": 15853.01,
+          "clock": "04:24:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01540",
+          "start_seconds": 16171.72,
+          "clock": "04:29:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01542",
+          "start_seconds": 16180.01,
+          "clock": "04:29:40",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "What happened",
+      "id": "P008",
+      "kind": "finding",
+      "text": "The prosecution completed direct examination near the end of the sitting; defense cross-examination had not begun."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00168",
+          "start_seconds": 2428.23,
+          "clock": "00:40:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00172",
+          "start_seconds": 2465.2799999999997,
+          "clock": "00:41:05",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The court's directions",
+      "id": "P009",
+      "kind": "finding",
+      "text": "The court declared Ortoño hostile based on his continuing coterminous service and adverse interest, allowing leading but not misleading questions; this governed the examination method and did not adopt the prosecution's proposed conclusions."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01152",
+          "start_seconds": 12706.86,
+          "clock": "03:31:46",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01153",
+          "start_seconds": 12750.52,
+          "clock": "03:32:30",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The court's directions",
+      "id": "P010",
+      "kind": "finding",
+      "text": "Presiding Officer Sen. Francis \"Chiz\" G. Escudero sustained the defense objection to questioning about Vice Presidential Security and Protection Group salaries as irrelevant to the particular confidential-fund question and directed the prosecution to move on."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01181",
+          "start_seconds": 13021.02,
+          "clock": "03:37:01",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01188",
+          "start_seconds": 13032.74,
+          "clock": "03:37:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01189",
+          "start_seconds": 13038.53,
+          "clock": "03:37:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The court's directions",
+      "id": "P011",
+      "kind": "finding",
+      "text": "Presiding Officer Sen. Francis \"Chiz\" G. Escudero sustained an objection to an argumentative question and said the witness's preceding answer stood."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01532",
+          "start_seconds": 15949.869999999999,
+          "clock": "04:25:49",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S01533",
+          "start_seconds": 15963.57,
+          "clock": "04:26:03",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S01534",
+          "start_seconds": 15992.869999999999,
+          "clock": "04:26:32",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        }
+      ],
+      "heading": "Senator-judge observation",
+      "id": "P012",
+      "kind": "finding",
+      "text": "Sen. Alan Peter Cayetano supported Presiding Officer Sen. Francis \"Chiz\" G. Escudero's control of inflammatory labels and urged the parties and senator-judges to choose words carefully because charged labels can shape public perception even after being withdrawn or stricken."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01581",
+          "start_seconds": 16723.23,
+          "clock": "04:38:43",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S01582",
+          "start_seconds": 16744.19,
+          "clock": "04:39:04",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S01583",
+          "start_seconds": 16855.09,
+          "clock": "04:40:55",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Senator-judge question",
+      "id": "P013",
+      "kind": "finding",
+      "text": "Sen. Juan Miguel “Migz” F. Zubiri asked how the impeachment calendar would fit with budget and legislative work and whether proceedings might extend beyond the December break; Presiding Officer Sen. Francis \"Chiz\" G. Escudero expressed only a tentative hope of finishing before year-end, with scheduling dependent on the budget calendar."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00282",
+          "start_seconds": 3262.23,
+          "clock": "00:54:22",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00294",
+          "start_seconds": 3323.92,
+          "clock": "00:55:23",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00381",
+          "start_seconds": 3974.25,
+          "clock": "01:06:14",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00382",
+          "start_seconds": 3993.59,
+          "clock": "01:06:33",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00384",
+          "start_seconds": 4008.35,
+          "clock": "01:06:48",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00387",
+          "start_seconds": 4027.44,
+          "clock": "01:07:07",
+          "speaker_name": "Lemuel G. Ortoño"
+        }
+      ],
+      "heading": "The prosecution's position",
+      "id": "P014",
+      "kind": "finding",
+      "text": "The prosecution argued that the OVP requested confidential funds before preparing the supporting physical and financial plan; Ortoño answered that the August 22 request had no attachments and the plan shown to him was prepared later."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00785",
+          "start_seconds": 7091.57,
+          "clock": "01:58:11",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00786",
+          "start_seconds": 7102.3099999999995,
+          "clock": "01:58:22",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00790",
+          "start_seconds": 7123.18,
+          "clock": "01:58:43",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00791",
+          "start_seconds": 7131.08,
+          "clock": "01:58:51",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01191",
+          "start_seconds": 13047.16,
+          "clock": "03:37:27",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01192",
+          "start_seconds": 13074.52,
+          "clock": "03:37:54",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01466",
+          "start_seconds": 15545.8,
+          "clock": "04:19:05",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01468",
+          "start_seconds": 15554.98,
+          "clock": "04:19:14",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01472",
+          "start_seconds": 15569.94,
+          "clock": "04:19:29",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01474",
+          "start_seconds": 15575.79,
+          "clock": "04:19:35",
+          "speaker_name": "Lemuel G. Ortoño"
+        }
+      ],
+      "heading": "The prosecution's position",
+      "id": "P015",
+      "kind": "finding",
+      "text": "The prosecution argued that OVP records contained recurring totals, sparse operational detail, and different explanations for the same confidential fund; these remained advocacy propositions rather than court findings."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00952",
+          "start_seconds": 10852.44,
+          "clock": "03:00:52",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00953",
+          "start_seconds": 10868.2,
+          "clock": "03:01:08",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00958",
+          "start_seconds": 10890.59,
+          "clock": "03:01:30",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00959",
+          "start_seconds": 10900.62,
+          "clock": "03:01:40",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00961",
+          "start_seconds": 10916.49,
+          "clock": "03:01:56",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00963",
+          "start_seconds": 10943.68,
+          "clock": "03:02:23",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00964",
+          "start_seconds": 10959.44,
+          "clock": "03:02:39",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S00965",
+          "start_seconds": 10966.92,
+          "clock": "03:02:46",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        }
+      ],
+      "heading": "The prosecution's position",
+      "id": "P016",
+      "kind": "finding",
+      "text": "The prosecution emphasized that Ortoño signed OVP audit replies as an organizational representative even though he disclaimed personal knowledge of the actual spending."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00091",
+          "start_seconds": 1812.4,
+          "clock": "00:30:12",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00092",
+          "start_seconds": 1849.07,
+          "clock": "00:30:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00093",
+          "start_seconds": 1857.23,
+          "clock": "00:30:57",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The defense's position",
+      "id": "P017",
+      "kind": "finding",
+      "text": "The defense characterized the prosecution's eleven-part offer as unproved conclusions, speculation, theories, and advocacy that it intended to test on cross-examination."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00079",
+          "start_seconds": 1373.07,
+          "clock": "00:22:53",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00080",
+          "start_seconds": 1392.67,
+          "clock": "00:23:12",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00082",
+          "start_seconds": 1402.71,
+          "clock": "00:23:22",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00084",
+          "start_seconds": 1427.32,
+          "clock": "00:23:47",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00914",
+          "start_seconds": 10450.99,
+          "clock": "02:54:10",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00915",
+          "start_seconds": 10473.43,
+          "clock": "02:54:33",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00916",
+          "start_seconds": 10498.119999999999,
+          "clock": "02:54:58",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00917",
+          "start_seconds": 10539.25,
+          "clock": "02:55:39",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00919",
+          "start_seconds": 10544.49,
+          "clock": "02:55:44",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ],
+      "heading": "The defense's position",
+      "id": "P018",
+      "kind": "finding",
+      "text": "The defense stipulated to limited employment facts and specified documents, but not to the prosecution's ultimate inferences about what those documents proved."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00702",
+          "start_seconds": 6412.72,
+          "clock": "01:46:52",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00866",
+          "start_seconds": 7603.87,
+          "clock": "02:06:43",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00914",
+          "start_seconds": 10450.99,
+          "clock": "02:54:10",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00921",
+          "start_seconds": 10595.69,
+          "clock": "02:56:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The defense's position",
+      "id": "P019",
+      "kind": "finding",
+      "text": "The defense repeatedly objected that Ortoño was being asked to interpret records he did not prepare; Presiding Officer Sen. Francis \"Chiz\" G. Escudero acknowledged that limitation and said the documents spoke for themselves."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01542",
+          "start_seconds": 16180.01,
+          "clock": "04:29:40",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01583",
+          "start_seconds": 16855.09,
+          "clock": "04:40:55",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "What remains unresolved",
+      "id": "P020",
+      "kind": "finding",
+      "text": "Defense cross-examination had not begun; possible redirect, recross, and senator-judge interventions also remained for August 26."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01542",
+          "start_seconds": 16180.01,
+          "clock": "04:29:40",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01583",
+          "start_seconds": 16855.09,
+          "clock": "04:40:55",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "What remains unresolved",
+      "id": "P021",
+      "kind": "finding",
+      "text": "The court had not ruled on defense counsel Sheila C. Sison's August 12 manifestation and scheduled that ruling after a short explanation by Atty. Amando Virgil D. Ligutan the next morning."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01543",
+          "start_seconds": 16218.7,
+          "clock": "04:30:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "What remains unresolved",
+      "id": "P022",
+      "kind": "finding",
+      "text": "The clerk's comparison of acknowledgement receipts was not stated in the transcript; the court directed that the findings be furnished to the parties and senator-judges."
+    },
+    {
+      "citations": [],
+      "heading": "How to use this overview",
+      "id": "P023",
+      "kind": "outro",
+      "text": "The episode page links every substantive point to the timed transcript and the original Senate video. Verify consequential wording against those sources before publication."
+    }
+  ],
+  "title": "Audio overview — August 25, 2026"
+}

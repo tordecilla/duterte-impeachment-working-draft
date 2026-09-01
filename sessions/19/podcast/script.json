@@ -1,0 +1,265 @@
+{
+  "description": "A source-linked English audio overview of the August 26 impeachment-trial sitting.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft’s audio overview of the August 26, 2026 sitting of the Impeachment Trial of Vice President Sara Duterte."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00082",
+          "start_seconds": 1395.45,
+          "clock": "00:23:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00205",
+          "start_seconds": 4490.37,
+          "clock": "01:14:50",
+          "speaker_name": "Lemuel G. Ortonio"
+        },
+        {
+          "segment_id": "S01166",
+          "start_seconds": 16477.18,
+          "clock": "04:34:37",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01317",
+          "start_seconds": 18126.23,
+          "clock": "05:02:06",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S01334",
+          "start_seconds": 18337.92,
+          "clock": "05:05:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The day’s proceedings",
+      "id": "P002",
+      "kind": "overview",
+      "text": "The court opened with Presiding Officer Senator Francis Chiz Escudero’s Rule 18 ruling on public comments about the merits of the case. It then heard defense cross-examination of Office of the Vice President official Lemuel Ortoño, senator-judge questions on confidential-fund records and the pending Commission on Audit process, and closing orders for the following week’s witnesses and bank records."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00031",
+          "start_seconds": 628.91,
+          "clock": "00:10:28",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00052",
+          "start_seconds": 933.59,
+          "clock": "00:15:33",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00069",
+          "start_seconds": 1238.17,
+          "clock": "00:20:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Why Rule 18 was addressed",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Defense counsel Sheila Sison asked the Chair to include a public interview that repeated the earlier discussion of the word scam. Prosecutor Amando Virgil Ligutan said that his Facebook post about misleading questions on cross-examination was a general teaching point, not a comment on the case. The Chair said overlapping voices meant the transcript could not settle whether the courtroom exchange concerned leading or misleading questions and said the video would be checked."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00082",
+          "start_seconds": 1395.45,
+          "clock": "00:23:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00083",
+          "start_seconds": 1591.2,
+          "clock": "00:26:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The Rule 18 direction",
+      "id": "P004",
+      "kind": "finding",
+      "text": "Escudero said the immediate August 12 counsel dispute, prior advice to designate panel spokespersons, and his independent findings of seeming Rule 18 violations required prospective, stricter enforcement. He directed senator-judges to keep their examination of evidence under oath and on the record, and strictly enjoined people covered by Rule 18 from public comments on the merits of the pending trial."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00130",
+          "start_seconds": 3830.73,
+          "clock": "01:03:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00194",
+          "start_seconds": 4340.49,
+          "clock": "01:12:20",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00205",
+          "start_seconds": 4490.37,
+          "clock": "01:14:50",
+          "speaker_name": "Lemuel G. Ortonio"
+        }
+      ],
+      "heading": "Cross-examination of Ortoño",
+      "id": "P005",
+      "kind": "finding",
+      "text": "The Chair ruled that the Rules of Court allow leading questions on cross-examination. During defense questioning, Lemuel Ortoño testified that 2023 confidential funds were not used for the Office of the Vice President’s socio-economic program itself, but for the safe implementation of its programs."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00911",
+          "start_seconds": 13746.04,
+          "clock": "03:49:06",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S00912",
+          "start_seconds": 13751.3,
+          "clock": "03:49:11",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S00918",
+          "start_seconds": 13807.24,
+          "clock": "03:50:07",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00920",
+          "start_seconds": 13827.24,
+          "clock": "03:50:27",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00921",
+          "start_seconds": 13845.1,
+          "clock": "03:50:45",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        }
+      ],
+      "heading": "Aliases exchange",
+      "id": "P006",
+      "kind": "finding",
+      "text": "In an exchange about names in confidential-fund records, Senator Robin Padilla invoked Ninoy Aquino’s use of an alias. Senator Bam Aquino identified that alias as Marcial Bonifacio, contrasted the historical example with the records under discussion, and asked whether the prosecution was advancing an aliases theory. Prosecutor Mae Sancho Divinagracia answered that it was not."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01114",
+          "start_seconds": 16122.81,
+          "clock": "04:28:42",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01166",
+          "start_seconds": 16477.18,
+          "clock": "04:34:37",
+          "speaker_name": "Lemuel G. Ortoño"
+        },
+        {
+          "segment_id": "S01168",
+          "start_seconds": 16500.62,
+          "clock": "04:35:00",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01176",
+          "start_seconds": 16576.25,
+          "clock": "04:36:16",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        }
+      ],
+      "heading": "Audit and record questions",
+      "id": "P007",
+      "kind": "finding",
+      "text": "Ortoño said the motion for reconsideration in the Commission on Audit matter remained pending and that there was no final finding. Senator Camille Villar asked how the OVP audit response was prepared; Ortoño said he coordinated with the chief of staff, Vice President, special disbursing officer, and security officer before submitting a drafted response for final approval. Senator Ping Lacson asked about the security classification of OVP programs and proposed that the court obtain underlying documents so senator-judges could assess the confidential-fund activities."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01292",
+          "start_seconds": 17640.55,
+          "clock": "04:54:00",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S01296",
+          "start_seconds": 17797.49,
+          "clock": "04:56:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01317",
+          "start_seconds": 18126.23,
+          "clock": "05:02:06",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S01334",
+          "start_seconds": 18337.92,
+          "clock": "05:05:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01340",
+          "start_seconds": 18411.96,
+          "clock": "05:06:51",
+          "speaker_name": "Atty. Sheila C. Sison"
+        }
+      ],
+      "heading": "What the court set next",
+      "id": "P008",
+      "kind": "finding",
+      "text": "Senator Migz Zubiri urged a final Commission on Audit finding during the trial; Escudero replied that COA is an independent constitutional commission. Before adjournment, the court arranged subpoenas for Colonels Boransing and Panopio for September 1, set possible additional witnesses for September 2, adopted its earlier limitations for a supplemental subpoena to financial institutions, and heard the defense reserve comments and objections to that subpoena."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01360",
+          "start_seconds": 18579.49,
+          "clock": "05:09:39",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01361",
+          "start_seconds": 18610.89,
+          "clock": "05:10:10",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01372",
+          "start_seconds": 18687.88,
+          "clock": "05:11:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Adjournment",
+      "id": "P009",
+      "kind": "finding",
+      "text": "Senator Bam Aquino asked about possible consequences for failing to follow the Rule 18 decision. The Chair said corresponding guidelines would be issued in a clear table. The court adjourned until 10 a.m. on Tuesday, September 1."
+    },
+    {
+      "citations": [],
+      "heading": "Source links",
+      "id": "P010",
+      "kind": "outro",
+      "text": "The episode page links each substantive point to the timed reviewed transcript and the original Senate video."
+    }
+  ],
+  "title": "Audio overview — August 26, 2026"
+}

@@ -1,0 +1,4578 @@
+# September 1, 2026
+
+Impeachment Trial of Vice President Sara Duterte
+
+Source: https://www.youtube.com/watch?v=_jrMVFEwOvM
+Status: Reviewed working draft, revision 2
+
+**[00:04:58.060] Atty. Renato N. Bantug Jr.**  
+The Senate President, the Presiding Officer, and Senator-Judges of the Impeachment Court.
+
+**[00:05:39.290] Sen. Sherwin T. Gatchalian**  
+The Sergeant-at-Arms is directed to make a proclamation.
+
+**[00:05:44.040] Alfredo Sotto Corpuz**  
+All persons are commanded to keep silent under pain of penalty while the Impeachment Court is in session for the trial of Vice President Sara Zimmerman Duterte.
+
+**[00:05:54.860] Sen. Sherwin T. Gatchalian**  
+The Impeachment Trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator-Judge Juan Miguel Juan Miguel Zubiri.
+
+**[00:06:06.390] Sen. Juan Miguel “Migz” F. Zubiri**  
+Let's
+
+**[00:06:15.830] Sen. Juan Miguel “Migz” F. Zubiri**  
+put ourselves in the presence of our Lord.
+
+**[00:06:40.520] Sen. Juan Miguel “Migz” F. Zubiri**  
+We also pray that you guide our witnesses and both sides of the court as they illuminate the way towards un-unassailable facts of this trial. Keep us all in the right path. Keep us from straying forward towards rather misrepresentation and diversion from the truth. Habang patuloy ang paglilitis na ito, dasal po namin na hindi itong maging dahilan para magkawatak-watak ang mamayang Pilipino. Sa halip, Sana'y maging mitsa ito ng tunay ng pagkakaisa tungo sa malinis at tapat na pamahamahala sa aming mahal na bansa. This we ask in Jesus' name we pray. Amen.
+
+**[00:07:39.900] Atty. Renato N. Bantug Jr.**  
+Senator-Judge, Lacson, Senator-Judge, Lapid, Senator-Judge, Legarda, Senator-Judge, Marcoleta, Senator-Judge, Marcos, Senator-Judge, Padilla, Senator-Judge, Pangilinan, Senator-Judge, Sotto III, Senator-Judge, Tulfo Erwin, Senator-Judge, Tulfo, Raffy, Senator-Judge, Villanueva, Senator-Judge, Villar, Camille, Senator-Judge, Villar, Mark. Senator-Judge Zubiri, the Presiding Officer, Senator-Judge Escudero, the Senate President, Senator-Judge Gatchalian.
+
+**[00:08:08.690] Sen. Sherwin T. Gatchalian**  
+With 15 senator-judges present, the chair declares the presence of a quorum. In accordance with the rules of procedure on impeachment trials, the chair now recognizes the duly elected presiding officer to preside over the proceedings of the impeachment court.
+
+**[00:08:26.720] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Mr. Senate President. If there are no objections, we shall dispense with the reading of the August 26th
+
+**[00:08:34.510] Sen. Francis "Chiz" G. Escudero**  
+What is the pleasure of Senator-Judge Sotto?
+
+**[00:08:38.470] Sen. Vicente C. Sotto III**  
+Thank you, Mr. President.
+
+**[00:08:41.710] Sen. Vicente C. Sotto III**  
+It's about the journal, and you're about to approve the journal?
+
+**[00:08:46.350] Sen. Francis "Chiz" G. Escudero**  
+Yes, we are about to, unless you have any amendments, Senator.
+
+**[00:08:48.350] Sen. Vicente C. Sotto III**  
+Yes,
+
+**[00:08:48.790] Sen. Vicente C. Sotto III**  
+as
+
+**[00:08:49.230] Sen. Vicente C. Sotto III**  
+a matter of fact, well, you may not call it an amendment, but nevertheless, just for the record, because I was disturbed by a newspaper account saying that the Prosecution counsel was not allowed to answer. and that she was cut off a number of times. I browsed through the journal and she was able to, Atty. Divinagracia, I believe, she was able to answer most of the questions. There was one or two instances where she was cut off. But I think she was pertaining to, so just for the record, to complete it, she was pertaining to Republic Act 6085. And I think the court allowed her to answer this, but probably she was not able to elaborate more. But just for the record, so that for the public and for us, the general rule, Mr. President, that she mentioned is Republic Act 6085, regulating the use of aliases. It's only allowed in the Philippines only for pseudonyms, solely for literary, cinema, television, and other entertainment purposes. Therefore, if there is a person behind the alias, then it is an alias. If there is no person behind the name, it is a fictitious name or a fake name. So, just for the record, Mr. President, thank you.
+
+**[00:10:22.590] Sen. Francis "Chiz" G. Escudero**  
+We note the manifestation of Senator-Judge Sotto and confirm that indeed, Attorney Mae was able to explain, to give an answer to the query, if I remember, of Senator-Judge Padilla, although she was not able to give that much detail that the good Senator-Judge made. The manifestation is duly noted.
+
+**[00:10:44.850] Sen. Francis "Chiz" G. Escudero**  
+To reiterate, if there are no objections, we shall dispense with the reading of the August 26, 2026 Journal of the Senate, sitting as an impeachment court, and consider the same as approved.
+
+**[00:10:56.710] Sen. Francis "Chiz" G. Escudero**  
+The Clerk of Court will please call the matter of the impeachment trial, will please call the case, rather, before the impeachment court.
+
+**[00:11:03.070] Atty. Renato N. Bantug Jr.**  
+Case number 004-2026 in the matter of impeachment trial of Vice President Sara Zimmerman Duterte.
+
+**[00:11:10.070] Sen. Francis "Chiz" G. Escudero**  
+Appearances of the parties.
+
+**[00:11:12.010] Rep. Joel R. Chua**  
+Same appearance for the public prosecutor, Your Honor. We're ready.
+
+**[00:11:16.370] Atty. Sheila C. Sison**  
+Good morning, Your Honor. Same appearance for the respondent accused.
+
+**[00:11:20.110] Sen. Francis "Chiz" G. Escudero**  
+Good morning, counsels. Who shall our first witness be, Honorable Chua?
+
+**[00:11:25.520] Rep. Joel R. Chua**  
+Your Honor, we will be present. For our next witness, Your Honor, may we request that Atty. Ray Robles be recognized. Our next witness is Colonel Boransing, Your Honor.
+
+**[00:11:38.620] Sen. Francis "Chiz" G. Escudero**  
+Atty. Robles is recognized as part of the counsel for the panel of prosecutors. Good morning, Your Honor. Good morning. Do you confirm, Attorney Robles, that your witness shall be Colonel Boransing?
+
+**[00:11:57.370] Atty. Reynaldo Robles**  
+Yes, Your Honor. Just for the record, Your Honor, I am Attorney Reynaldo Robles of the law firm of Chan Robles & Associates. I'm appearing as counsel for the prosecutors under the control and supervision of the honorable panel of prosecutors. Before the
+
+**[00:12:14.050] Sen. Francis "Chiz" G. Escudero**  
+chair instructs the clerk to call Colonel Boransing, chair would like to issue a directive cum ruling with respect to what came out in the recent days and or last week. After Mr. Ortonio testified before this court, an image of him allegedly wearing an earpiece was widely circulated on the internet.
+
+**[00:12:40.860] Sen. Francis "Chiz" G. Escudero**  
+Take this opportunity after verification that it was an AI-generated image and simply false. The chair wishes to remind and take this opportunity the parties that every witness must testify nevertheless solely from his or her own knowledge. free from coaching or influence from counsel or any other person. Again, to reiterate, hindi totoo yung lumalabas ng mga litrato na di umano merong earpiece si Mr. Ortonio, yun po ay AI. What he had was a front-fold helix, an ear piercing in the front-fold helix of his ear, not an earpiece.
+
+**[00:13:21.970] Sen. Francis "Chiz" G. Escudero**  
+The underlying principle being cited by the Presiding Officer will be Section 21E of AM No. 24-1102 by the Supreme Court prohibiting the use of cellphones, tablets, or some other similar gadgets during video conferencing by analogy. Also, basis would be the U.S. case of Villarreal v. Texas wherein a witness must provide his own account rather than one scripted or choreographed by any party, council, or any interested party. Also citing the case of Sky Development Inc. v. VistaView, docket number 3D101274 of the U.S. Supreme Court. Accordingly, no witness while testifying shall possess, have access to, or use any earpiece, headset, cellphone, smartwatch, smart glasses, or any other similar device. Capable of transmitting or receiving information or communication. Witnesses are also prohibited from receiving or attempting to receive any communication, suggestion, answer, signal, message, or prompt for any person, whether inside or outside this court, regardless of the means employed. The prohibition shall remain in force during recesses and until the witness is formally discharged by the court. Consultation on unrelated matters, the use of any necessary medical accessibility, interpretation, or other device shall be subject to the court's prior approval. The clerk, therefore, is hereby directed to inform each witness of these directives prior to testifying, number two, secure all prohibited communication devices in the witness's possession before he or she is sworn in, and number three, to obtain the witness express confirmation on the record that he or she understands and shall comply with this directive. Any violations shall be brought to the attention of the chair and dealt with accordingly under the court's disciplinary powers. The directive shall take effect immediately and shall apply to the witness henceforth this court will be receiving. So ordered.
+
+**[00:15:31.920] Atty. Sheila C. Sison**  
+Your Honor.
+
+**[00:15:33.120] Sen. Francis "Chiz" G. Escudero**  
+Yes, Attorney Sheila.
+
+**[00:15:34.790] Atty. Sheila C. Sison**  
+I request that attorney Lyndon Miguel Bacuel be recognized as well for today's anchor.
+
+**[00:15:39.930] Sen. Francis "Chiz" G. Escudero**  
+Attorney who? Attorney Sheila?
+
+**[00:15:41.410] Atty. Sheila C. Sison**  
+Lyndon Miguel Bacuel.
+
+**[00:15:50.880] Atty. Sheila C. Sison**  
+Thank you, Your Honor.
+
+**[00:15:52.060] Sen. Francis "Chiz" G. Escudero**  
+Attorney Lyndon, you are recognized.
+
+**[00:15:55.630] Sen. Francis "Chiz" G. Escudero**  
+Good morning, Your Honor. Good morning.
+
+**[00:15:59.670] Sen. Francis "Chiz" G. Escudero**  
+I have been informed by the clerk that both panels now have a platform for their use according to their decision whether or not to use it as may be appropriate.
+
+**[00:16:10.850] Sen. Francis "Chiz" G. Escudero**  
+It's up to you, Attorney Ray, if you want to use it too, and Attorney Lindon if you want to use it, but it's there behind you in case. Clerk of Court is directed to call the witness of the prosecution, Colonel Boransing, and direct him to please and situate him to the witness stand.
+
+**[00:16:29.280] Sen. Francis "Chiz" G. Escudero**  
+Is Colonel Boransing here? Yes, sir. After you.
+
+**[00:16:58.120] Atty. Renato N. Bantug Jr.**  
+Sir, please raise your right hand. You, Manaros M. Boransing II?
+
+**[00:17:03.860] Col. Manaros M. Boransing II**  
+I, Manaros M. Boransing II, do swear.
+
+**[00:17:07.520] Atty. Renato N. Bantug Jr.**  
+That the evidence you shall give,
+
+**[00:17:10.100] Col. Manaros M. Boransing II**  
+That the evidence that I will,
+
+**[00:17:12.430] Atty. Renato N. Bantug Jr.**  
+In the case now pending,
+
+**[00:17:14.060] Col. Manaros M. Boransing II**  
+In the case now pending,
+
+**[00:17:15.130] Atty. Renato N. Bantug Jr.**  
+Between the Philippines and Vice President Sara Zimmerman Duterte,
+
+**[00:17:18.620] Col. Manaros M. Boransing II**  
+Between the Philippines and Vice President Sara Zimmerman Duterte,
+
+**[00:17:21.990] Atty. Renato N. Bantug Jr.**  
+Shall be the truth, the whole truth, and nothing but the truth.
+
+**[00:17:25.220] Col. Manaros M. Boransing II**  
+Shall be the truth, the whole truth, and nothing but the truth. So help me God.
+
+**[00:17:33.350] Sen. Francis "Chiz" G. Escudero**  
+You heard in open court earlier since you were seated in the gallery the reminder of the chair that any listening or similar devices are prohibited while you are on the witness stand during recess while you're taking lunch until after your discharge, sir. Do
+
+**[00:17:49.190] Sen. Francis "Chiz" G. Escudero**  
+you understand those instructions?
+
+**[00:17:50.610] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[00:17:51.570] Sen. Francis "Chiz" G. Escudero**  
+Thank you, sir. Let
+
+**[00:17:53.870] Sen. Francis "Chiz" G. Escudero**  
+us
+
+**[00:17:54.030] Sen. Francis "Chiz" G. Escudero**  
+hear your offer, Attorney Ray.
+
+**[00:17:56.950] Atty. Reynaldo Robles**  
+Thank you very much, Your Honor. The prosecution is most respectfully offering the testimony of the witness to prove the following facts. Number one, at the time relevant to our examination, Colonel Manaros Boransing II was the Assistant Chief of Staff for Civil-Military Operations of the 1st Tabak Division of the Philippine Army and was the officer responsible for supervising and monitoring the Youth Leadership Summits and Information Education Campaign activities of his division from January to December 2023. Sa panahong mahalaga sa kasong ito, si Col. Manaros Boransing ay nagsilbing Assistant Chief of Staff for Civil-Military Operations ng 1st Infantry Tabac Division, Philippine Army. Siya ang opisyal na may tungkuling mga siwa at mag-monitor ng mga civil-military operations ng kanilang dibisyon, kasama dito ang mga youth leadership summits at information-educating campaign activities. Second, the Philippine Army 1st Infantry Tabac Division, without any participation or confidential funding, From the Department of Education, conducted 8 Youth Leadership Summits and 53 Information Education Campaign activities in 2023. Mula Enero hanggang Disyembre 2023, ang 1st Infantry Tabak Division ay nagsagawa ng 8 Leadership Summits at 53 Information Education Campaign activities.
+
+**[00:20:12.070] Sen. Francis "Chiz" G. Escudero**  
+With
+
+**[00:20:13.070] Sen. Francis "Chiz" G. Escudero**  
+the indulgence of Attorney Robles, Choose your language, counsel. English if you want to use English, Filipino if you want to use Filipino. You don't need to translate it in Filipino anymore.
+
+**[00:20:23.550] Atty. Reynaldo Robles**  
+Yes, Your Honor.
+
+**[00:20:24.870] Sen. Francis "Chiz" G. Escudero**  
+To save on the
+
+**[00:20:25.290] Atty. Reynaldo Robles**  
+first time. As you can see, Your Honor, I actually prepared my formal offer in straight English, Your Honor.
+
+**[00:20:32.770] Sen. Francis "Chiz" G. Escudero**  
+You may read it in Filipino if you want, counsel.
+
+**[00:20:36.390] Atty. Reynaldo Robles**  
+Yes, Your Honor.
+
+**[00:20:37.030] Sen. Francis "Chiz" G. Escudero**  
+And just simply flash it in English for those who want to see.
+
+**[00:20:40.090] Atty. Reynaldo Robles**  
+Yes, Your Honor. But I was just saying, over the weekend, Your Honor, When some of my friends and relatives learned that I was going to be presenting, I was told that kung pwede daw po Tagalog kasi tayo-tayo lang daw yung nakakaintindihan kaya gusto nila sana kung pwede. Kaya po pinipilit i-translate po.
+
+**[00:21:00.630] Sen. Francis "Chiz" G. Escudero**  
+Then use Filipino, counsel. Sige po. You don't have to say it in English. Again, to save on the court's time, we don't need to translate each and every statement made or given in court. Sige po. Kindly use Filipino if that is your desire.
+
+**[00:21:11.480] Atty. Reynaldo Robles**  
+Sige po. We'll go to the third offer. Sa kahilingan ni Yusek Nolasco-Mempin, noon ay Undersecretary for Administration ng DepEd, lumagda at nagpalabas si Col. Boransing ng certification dated January 1, 2024. Ang kanyang pag-unawa ay simple at malinaw. Pinapatunayan lamang niya ang tagumpay ng naisagawa ng 1st Infantry Tabac Division na walong leadership youth leadership summits at 53 information education campaign activities noong 2023. Hindi niya pinapatunayan kung sino ang nagbigay ng informasyon. Hindi niya pinapatunayan na may informer na binayaran. Hindi niya pinapatunayan na ang kanilang informasyon ang dahilan ng tagumpay ng aktibidad. At lalong hindi niya pinapatunayan na may kaugnayan ang mga ito sa confidential funds ng DepEd.
+
+**[00:22:24.070] Atty. Reynaldo Robles**  
+Number four,
+
+**[00:22:28.290] Atty. Reynaldo Robles**  
+isinumite ng DepEd sa COA Intelligence and Confidential Funds Auditing Office bilang bahagi ng mga dokumentong di umanay nagpapatunay sa tagumpay ng information gathering or surveillance activity na nagmula raw sa impormasyong binigay ng mga informers. Ginamit ito upang suportahan ang kabuang halagang 15,540,000 pesos na ibinayad umano bilang rewards mula sa confidential funds ng DepEd. Mga gastusing kinwestiyon ng COA sa Audit Observation Memorandum No. 2024-015 na may petsang January 1, 2024. Ngunit walang kaalaman si Colonel Boransing na gagamitin ang kanyang certification para sa layuning ito. Wala rin pinakitang ugnayan sa pagitan ng mga reward di umano na ibinayad ng DepEd. at ang matagumpay na pagsasagawa ng YLS at IEC activities ng Philippine Army.
+
+**[00:23:49.550] Atty. Reynaldo Robles**  
+Number 5. Ang YLS at IEC activities ay bahagi ng isang Army-wide program at ng taonang programs, projects, and activities ng Philippine Army. Isinagawa na ang mga ito bago pa man. Italaga si Vice President Duterte bilang kalihim ng DepEd noong July 2022. Maging ang mga lugar kung saan isinagawa ang mga aktividad noong 2023 ay pinili ng mga operating line units ng 1st Infantry Tabac Division ayon sa kanikanilang areas of operation. Walang partisipasyon ang DepEd sa pag-
+
+**[00:24:40.030] Atty. Reynaldo Robles**  
+6.
+
+**[00:24:45.810] Atty. Reynaldo Robles**  
+Humingi ang DepEd ng sertifikasyon tungkol sa mga programa ng Philippine Army, ngunit isinumite ito sa COA, ginamit ang dokumento na parabang pinapatunayan ito ang information gathering at surveillance activities ng DepEd, at ang diumanoy pagbabayad sa mga informers nito. Ang patunay sa trabaho ng Philippine Army ay ipinresenta bilang patunay sa paggastos ng DepEd. Ang tagumpay ng mga programang pinlano, pinondohan at sinagawa ng Philippine Army at mga LGU ay ginamit upang bigyang katwiran ang 15.54 million na di umano'y binayad mula sa confidential funds ng DepEd.
+
+**[00:25:43.890] Atty. Reynaldo Robles**  
+Bilang panghuli, ang testigo ay magpapatunay at kikilala din sa mga kaugnay na mga dokumento at videos at ibang mga bagay kaugnay ng paratang na maanumalyang paggamit sa confidential funds ng respondent dito sa impeachment case na ito. That is our offer, Your Honor. Comment, Atty. Linden?
+
+**[00:26:07.280] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, the purposes of the testimony of Col. Boransing are not facts but conclusions devoid of any factual or legal basis, Your Honor.
+
+**[00:26:21.710] Atty. Lindon Miguel C. Bacquel**  
+Subject to cross-examination, Your Honor.
+
+**[00:26:23.890] Sen. Francis "Chiz" G. Escudero**  
+Duly noted. Comment is duly noted. It's an offer, counsel. Attorney Rey, your witness, you may proceed when you're ready with your direct examination.
+
+**[00:26:33.430] Atty. Reynaldo Robles**  
+Thank you very much, Your Honor. Colonel Boransing, magandang umakap po.
+
+**[00:26:37.710] Col. Manaros M. Boransing II**  
+Yes, sir. Good morning, sir.
+
+**[00:26:39.170] Atty. Reynaldo Robles**  
+I hope you had a pleasant trip. Malayo po yung pinanggalingan niyo.
+
+**[00:26:43.760] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[00:26:46.550] Atty. Reynaldo Robles**  
+Sir, could you tell us what is your current position sa Armed Forces?
+
+**[00:26:52.910] Col. Manaros M. Boransing II**  
+Yes, sir. I'm currently the commander of the Task Force Zamboanga under the 1st Infantry Tabac Division, Philippine Army, sir.
+
+**[00:27:04.660] Atty. Reynaldo Robles**  
+Natanggap niyo po ba yung subpoena na pinadala ng Impeachment Court para tumistigo kayo kaugnay noong certification na inisyo niyo?
+
+**[00:27:13.730] Col. Manaros M. Boransing II**  
+Yes, sir. I receive it. I received it at August 25 at 1 p.m.
+
+**[00:27:20.070] Atty. Reynaldo Robles**  
+By the way, sir, is this the first time you're testifying on this matter?
+
+**[00:27:25.920] Col. Manaros M. Boransing II**  
+I was called last October 2024 to the lower house, the Congress, for an investigation in aid of a legislation.
+
+**[00:27:38.680] Atty. Reynaldo Robles**  
+Also on this matter, sir?
+
+**[00:27:40.340] Col. Manaros M. Boransing II**  
+Specifically on this matter, sir.
+
+**[00:27:42.220] Atty. Reynaldo Robles**  
+Would you know, sir, which committee of the lower house and on what day?
+
+**[00:27:48.340] Col. Manaros M. Boransing II**  
+I'm sorry, sir, I can't recall.
+
+**[00:27:52.810] Atty. Reynaldo Robles**  
+If I show you, sir, the TSN for the hearing, will you be able to determine whether or not that would be the hearing which you attended? Yes, sir. At this juncture, Your Honor, we request for authority for our assisting counsel, Attorney Robert John Zalazar.
+
+**[00:28:13.650] Atty. Reynaldo Robles**  
+to present to the witness the document that we intend to show him.
+
+**[00:28:19.210] Sen. Francis "Chiz" G. Escudero**  
+Continuing authority to both assisting counsels are granted to approach the witness. Yes, Attorney Linden?
+
+**[00:28:26.530] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, we object to the presentation of the document being confronted to the witness considering that he testified that he cannot recall.
+
+**[00:28:38.090] Atty. Reynaldo Robles**  
+That's why we're confronting him
+
+**[00:28:38.790] Atty. Reynaldo Robles**  
+with the
+
+**[00:28:38.990] Atty. Reynaldo Robles**  
+document.
+
+**[00:28:41.140] Sen. Francis "Chiz" G. Escudero**  
+Overall counsel, we'll allow it.
+
+**[00:28:43.900] Atty. Reynaldo Robles**  
+At this juncture, Your
+
+**[00:28:44.780] Atty. Reynaldo Robles**  
+Honor, we also request for the benefit of the honorable senator-judges and for the viewing public for us to be allowed to flash the document on the screen.
+
+**[00:28:58.690] Sen. Francis "Chiz" G. Escudero**  
+Counsel is allowed to do so. Chair would like to inform the senator-judges as well as counsel for the parties and the public. that the court has already taken judicial notice of the proceedings of the house, particularly the Committee on Good Government and Public Accountability, but only as to the existence of that hearing and the statements made in that hearing, not as to the truth of the statements made therein. So you may do so, counsel.
+
+**[00:29:26.970] Atty. Reynaldo Robles**  
+Thank you very much, Your Honor. For the record, we are confronting the witness with the transcript of stenographic notes previously marked as exhibit. P-Roman numeral number 1-1-C for the prosecution.
+
+**[00:29:42.190] Atty. Reynaldo Robles**  
+As
+
+**[00:29:42.750] Atty. Reynaldo Robles**  
+stated earlier, Your Honor, this is among the documents for which judicial notice was graciously granted by the Honorable Presiding Officer.
+
+**[00:29:52.150] Atty. Reynaldo Robles**  
+Nakita niyo po, Colonel, itong dokumento?
+
+**[00:29:55.330] Col. Manaros M. Boransing II**  
+Yes, sir. And that was the committee, the Committee on Good Government. public accountability. I also saw my specific statements and it's what was...
+
+**[00:30:08.120] Atty. Reynaldo Robles**  
+Naalala niyo po ngayon kung ano yung petsa?
+
+**[00:30:10.680] Col. Manaros M. Boransing II**  
+Yes, sir. October 17, 2024, sir. Okay.
+
+**[00:30:14.920] Atty. Reynaldo Robles**  
+Thank you po. So, balik po muna tayo. You are the commanding officer of the 1st Tabac Division or Task Force Zamboanga? Yes, sir. Task Force Zamboanga, sir. Before your position ngayon sir, bago po kayo na-promote, ano po yung position nyo sa Armed Forces?
+
+**[00:30:35.650] Col. Manaros M. Boransing II**  
+I was the Deputy Brigade Commander of the 102nd Infantry Iksuon Brigade also under the 1st Infantry Tabac Division from November 2025 to May 2026.
+
+**[00:30:49.690] Atty. Reynaldo Robles**  
+Yun pong certification na sinabi niyong tinestiguhan niyo sa House of Representatives, kailan niyo po in-issue?
+
+**[00:30:56.890] Col. Manaros M. Boransing II**  
+I issued it, I signed it, January 1, 2024, when I was then the Assistant Chief of Staff for Civil-Military Operations, G7 of the 1st Infantry Tobacco Division.
+
+**[00:31:07.690] Atty. Reynaldo Robles**  
+Sige po, yun ang pag-usapan natin kasi this is the position relevant to the testimony we intend to request from you. Yes, sir. As Assistant Chief of Staff, for... Civil-military operations po ba? Tama? Yes, sir. Of the 1st Infantry Tabac Division.
+
+**[00:31:30.880] Atty. Reynaldo Robles**  
+I-clarify ko lang po dun sa hierarchy, no? Kasi assistant chief of staff po kayo. Meron po bang chief of staff for civil-military operations?
+
+**[00:31:43.740] Col. Manaros M. Boransing II**  
+In the 1st Infantry Tabac Division, sir, we have our commander,
+
+**[00:31:47.360] Atty. Reynaldo Robles**  
+a
+
+**[00:31:47.960] Col. Manaros M. Boransing II**  
+major general. We have the assistant division commander. Then we have the chief of staff sir
+
+**[00:32:05.000] Atty. Reynaldo Robles**  
+So ang
+
+**[00:32:05.720] Atty. Reynaldo Robles**  
+question ko po, just to clarify lang po kasi medyo nakakalito po yung terminology, no? Yes, sir.
+
+**[00:32:22.250] Col. Manaros M. Boransing II**  
+The commander, sir, but I advise him and do the planning for him, sir.
+
+**[00:32:27.130] Atty. Reynaldo Robles**  
+So you are the staff officer in charge? Yes, sir.
+
+**[00:32:30.450] Atty. Reynaldo Robles**  
+So,
+
+**[00:32:31.400] Atty. Reynaldo Robles**  
+would it be, who is in the 1st Infantry Division, who has among the staff officer the effective oversight and supervision over all civil-military operations of the division?
+
+**[00:32:44.640] Col. Manaros M. Boransing II**  
+It is the Assistant Chief of Staff for Civil-Military Operations, G7.
+
+**[00:32:48.920] Atty. Reynaldo Robles**  
+Andthat was your position at that time, sir?
+
+**[00:32:51.420] Col. Manaros M. Boransing II**  
+That was my... position a few years ago, sir.
+
+**[00:32:52.140] Atty. Reynaldo Robles**  
+Sige po, sir. Now, anyway, napag-usapan na rin po natin yung certification na in-issue nyo.
+
+**[00:33:00.190] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[00:33:01.550] Atty. Reynaldo Robles**  
+If that certification is shown to you, will you be able to recognize it?
+
+**[00:33:07.860] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[00:33:11.030] Atty. Reynaldo Robles**  
+Attorney RJ, Colonel, I'm showing you a document which
+
+**[00:33:17.270] Atty. Reynaldo Robles**  
+is captioned as a certification with the date 1st January 2024.
+
+**[00:33:27.020] Atty. Reynaldo Robles**  
+Pwede po bang pakitignan niyo lang po? For the record, Your Honor, this is the document previously marked as Exhibit P-RN No. 1-22-A for the prosecution.
+
+**[00:33:43.110] Atty. Reynaldo Robles**  
+Nakita niyo na po, Colonel. Yes, sir. Ano po ang kaugnayan nito dun sa certification na in-issue niyo?
+
+**[00:33:49.910] Col. Manaros M. Boransing II**  
+That's a copy of the certification I issued.
+
+**[00:33:54.860] Atty. Reynaldo Robles**  
+Ang nakalagang, meron po dito sa ibaba, bandang ibaba, bandang kanan, meron pong parang pirma sa taas ng printed na Manaros M. Boransing II, Colonel, Philippine Army. Kanino po pirma yun?
+
+**[00:34:13.620] Col. Manaros M. Boransing II**  
+The one I, the document I saw, it's my signature but the one in the PowerPoint has, doesn't have my signature, sir.
+
+**[00:34:24.090] Atty. Reynaldo Robles**  
+So, anyway, Your Honor, we will be following the document because that is the one marked in evidence.
+
+**[00:34:29.230] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[00:34:31.480] Atty. Reynaldo Robles**  
+According to our legal staff, it's because of data privacy that's why they had to mask your signature.
+
+**[00:34:39.460] Col. Manaros M. Boransing II**  
+Thank you very much, sir.
+
+**[00:34:41.180] Atty. Reynaldo Robles**  
+Okay. Dito po sa certification niyo, sir, meron kayong binanggit na pinapatunayan niyo conduct of eight activities. for youth leadership summit, YLS, with 531 participants and an information education campaign with 53 activities and 9,428 participants in different schools in the area of operations of this command. Ang tanong ko po sa inyo, sir, bago ito, tanongin ko muna kayo, ano po ba yung duties and responsibilities nyo dati po nung kayo ay assistant? Chief of Staff for Civil-Military Operations.
+
+**[00:35:29.340] Col. Manaros M. Boransing II**  
+Yes, sir. As the Assistant Chief of Staff for Civil-Military Operations, I primarily advise the commander of the 1st Infantry Division on matters pertaining to Civil-Military Operations in our area of operations. I also draft the plans, operational plans. for civil-military operations in the 1st Infantry Tabac area of operations. I supervise the implementation of the plans and I also get all the data on our sub-units, subordinate units' implementations of those plans. Okay,
+
+**[00:36:12.060] Atty. Reynaldo Robles**  
+thank you po. Ngayon po, balikan ko po yung nakalagay sa certification niyo. May terms po kasi na kung pwedeng ipakipaliwanag niyo po. Ano po iyong ibig sabihin nitong Youth Leadership Summit or YLS?
+
+**[00:36:25.450] Col. Manaros M. Boransing II**  
+Yes, sir. The Youth Leadership Summit is a long-time Philippine Army program or Armed Forces of the Philippines program. It is implemented via inter-agency.
+
+**[00:36:44.270] Col. Manaros M. Boransing II**  
+Coordinate, we lead, but it is composed of all stakeholders in the area of operations. It was conceptualized and implemented primarily to stop the recruitment of youth, either students in school or out of school youth, to groups who are violent extremists. And this was started, I think, in 2002, sir, by the Philippine Army and adopted. and it has been done and it has been successful in answering the deceptions by different violent extremist groups. These are implemented in areas of where the communist-inspired insurgents are and also in Muslim areas where terrorists or other groups are operating. Thank you, Sir.
+
+**[00:37:42.040] Atty. Reynaldo Robles**  
+Nabanggit niyo po, long time. project na po ito ng Philippine Army.
+
+**[00:37:47.020] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[00:37:49.510] Atty. Reynaldo Robles**  
+Tama po ba yung narinig ko na 2002 pa po ito nag-umpisa?
+
+**[00:37:53.060] Col. Manaros M. Boransing II**  
+The first official, according to the Army's historical records, the first record was 2002 in the Southern Tagalog, sir. Yes, sir.
+
+**[00:38:04.390] Atty. Reynaldo Robles**  
+Ano po ang kaugnayan nito sa regular plans, programs, and activities ng unit nyo?
+
+**[00:38:10.540] Col. Manaros M. Boransing II**  
+It is part of the regular program. of the Philippine Army if it is requested by our subordinate unit, Sir.
+
+**[00:38:20.880] Atty. Reynaldo Robles**  
+Yun pong banggit niyo kanina, multi-stakeholder po ito, pero sino po ang lead or primary agency na nag-implement nito?
+
+**[00:38:31.060] Col. Manaros M. Boransing II**  
+the Philippine Army coordinates, Sir, but as much as possible, it is, we try to make it that it's a whole of society and a whole of government effort. So we may instigate it or start the planning and the organization but it is co-equal implementation.
+
+**[00:38:52.190] Atty. Reynaldo Robles**  
+Would it
+
+**[00:38:52.230] Atty. Reynaldo Robles**  
+be correct to say that it is a project of the Army? We will invite stakeholders.
+
+**[00:39:00.270] Atty. Lindon Miguel C. Bacquel**  
+Rejection, Your Honor. Leading.
+
+**[00:39:03.460] Atty. Reynaldo Robles**  
+What does counsel say?
+
+**[00:39:05.960] Sen. Francis "Chiz" G. Escudero**  
+Your
+
+**[00:39:06.560] Atty. Reynaldo Robles**  
+Honor, anyway, we'll reform the question. Kindly reform. What is the lead agency insofar as these projects are concerned?
+
+**[00:39:15.770] Col. Manaros M. Boransing II**  
+Well sir, it's the army and we try to have the local government unit involved as
+
+**[00:39:24.670] Col. Manaros M. Boransing II**  
+much as possible. Sir,
+
+**[00:39:26.350] Atty. Reynaldo Robles**  
+ang tanong ko po, kanino po nagkagaling yung pondo o budget para sa activity ng YLS?
+
+**[00:39:34.870] Col. Manaros M. Boransing II**  
+It comes from several sources, sir. Each participant, each contingent is funded by their agency. But the youth, we coordinate that it's the provincial local government and the municipal or city local government who fund their participation. But for the other lecturers and participants from the other government agencies and other stakeholders, they fund their own expenses for the youth. Tama po
+
+**[00:40:05.260] Col. Manaros M. Boransing II**  
+ba sa Tagalog? Kanya-kanyang bayad?
+
+**[00:40:07.220] Atty. Reynaldo Robles**  
+Ganun po ba? Yes, sir.
+
+**[00:40:14.660] Atty. Reynaldo Robles**  
+YLS. Kailan po ito hinahanda?
+
+**[00:40:44.400] Atty. Reynaldo Robles**  
+First or second quarter of which year? Halimbawa po ngayong taon nito itong project, kailan po isusubmit
+
+**[00:40:50.700] Col. Manaros M. Boransing II**  
+yung budget? Year minus one, sir. So if the budget is for 2027, it's 2026, sir. 2026. So
+
+**[00:41:00.000] Atty. Reynaldo Robles**  
+one year before. Ano po ang kasama pag nag-susubmit kayo ng proposal para sa activities?
+
+**[00:41:06.980] Atty. Reynaldo Robles**  
+Could you clarify? Ang tanong ko po ganito. Sapat na po ba yung general description ng project or kailangang nandun yung mga detalye?
+
+**[00:41:19.480] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. Leading. Your Honor.
+
+**[00:41:23.830] Atty. Lindon Miguel C. Bacquel**  
+Leading questions are not allowed in direct, Your Honor.
+
+**[00:41:28.090] Atty. Reynaldo Robles**  
+Counsel, kindly reform. Yes. Ano po ang kailangang isama dun sa proposal para sa project?
+
+**[00:41:37.930] Col. Manaros M. Boransing II**  
+Sir, as I said earlier, sir, I'm not really a
+
+**[00:41:43.450] Col. Manaros M. Boransing II**  
+I'm not an expert on government budget process. But as far as you
+
+**[00:41:49.670] Atty. Reynaldo Robles**  
+know?
+
+**[00:41:50.390] Col. Manaros M. Boransing II**  
+Well, I think it follows the current government policy and on SOP on what needs to be submitted for PAPs to be
+
+**[00:42:05.050] Atty. Reynaldo Robles**  
+approved. And as far as you know, what needs to be submitted?
+
+**[00:42:08.780] Col. Manaros M. Boransing II**  
+Well, on our part, sir, and our subordinate units, we submit the specific, if you want to have a youth leadership summit, the number of participants and the general area or province where it will be conducted, sir.
+
+**[00:42:24.300] Atty. Reynaldo Robles**  
+Okay, po. So, who
+
+**[00:42:30.760] Atty. Reynaldo Robles**  
+decides who will be the participants to the summit?
+
+**[00:42:35.890] Col. Manaros M. Boransing II**  
+It is also, it will be the interagency group. or what we call as a technical working group, sir. It's composed of the Army, the PNP, the local DepEd, and other stakeholders, sir. It varies from area, sir. So it depends on the area, sir. Okay.
+
+**[00:42:59.510] Atty. Reynaldo Robles**  
+Sir, how frequently do you conduct these YLS summits in your area of operations?
+
+**[00:43:07.910] Col. Manaros M. Boransing II**  
+If I may, Sir, I think for 2023, Sir, there were eight, but this is because we usually per year we have more in the previous years, but because the threat was waning down in our area of operation, it was lessened. In previous years, Sir, I think I saw one of the records that it was many more. So it depends on the threat level, Sir.
+
+**[00:43:33.590] Atty. Reynaldo Robles**  
+Noon pong kanina po binanggit niyo na 2002 pa. Nagsimula yung... Pero dito sa unit po nyo, sa 1st Tabac Division, sa pagkakaalam nyo, sabi nyo, based on records, kailan po kayo nag-upisa ng Youth Leadership Summit?
+
+**[00:43:49.240] Col. Manaros M. Boransing II**  
+I cannot recall, Sir, because we do not have a records way back to 2002, Sir. But I recall, Sir, in 2005, we had a Youth Leadership Summit in Hulo, Sulu, Sir.
+
+**[00:44:05.810] Atty. Reynaldo Robles**  
+As
+
+**[00:44:06.070] Col. Manaros M. Boransing II**  
+early
+
+**[00:44:06.350] Atty. Reynaldo Robles**  
+as 2005, for your
+
+**[00:44:07.890] Col. Manaros M. Boransing II**  
+unit, sir? Yes, sir. Sulu was then under the first infantry division, sir.
+
+**[00:44:12.570] Atty. Reynaldo Robles**  
+So, magbuhat po noong 2005, gaano po kadalas niyong ginagawa?
+
+**[00:44:20.040] Col. Manaros M. Boransing II**  
+I cannot answer, sir. I don't have the relevant data, sir.
+
+**[00:44:23.520] Atty. Reynaldo Robles**  
+Can you just give
+
+**[00:44:23.540] Atty. Reynaldo Robles**  
+a general idea? Was it yearly, quarterly, every three years?
+
+**[00:44:28.200] Col. Manaros M. Boransing II**  
+It's definitely annually, sir. Annually? Yes, sir. And it is based on the threat level, sir.
+
+**[00:44:34.540] Atty. Reynaldo Robles**  
+Okay. Thank you, sir. Meron din po kayong binanggit dun sa certification niyo, yung Information Education Campaign or IEC. Ano po itong IEC?
+
+**[00:44:46.010] Col. Manaros M. Boransing II**  
+So the Information Education Communication Campaign, Sir, it involves informing the communities and the other stakeholders on the army programs, government programs, and the threat that is in the community, Sir.
+
+**[00:45:06.320] Atty. Reynaldo Robles**  
+Okay, sir. Yun pong IEC activity, campaign activities nyo, sir, sino po ang nagpo-pondo?
+
+**[00:45:17.680] Col. Manaros M. Boransing II**  
+Again, sir, it's an interagency effort, sir. We have army funds, but we coordinate with the Philippine Information Agency, the local governments, and other national government agencies, sir, for printing of
+
+**[00:45:38.310] Col. Manaros M. Boransing II**  
+tarpaulins, handouts, and for ABPs or audio-visual representation, Sir.
+
+**[00:45:43.670] Atty. Reynaldo Robles**  
+So, Sir, normally, pag ganyang multi-party activity, meron pong lead. Sino po yung lead dito sa IEC activities na?
+
+**[00:45:55.730] Col. Manaros M. Boransing II**  
+It's case-to-case basis, Sir. Like, for instance, Sir, last year, Sir, or in 2023, there were some briefings about the The threat of terrorism in Lanao del Sur and the Zamboanga Peninsula. So if the target audience, excuse me, is the school, sir, it will be the school but many stakeholders will be presenting during the forum, sir.
+
+**[00:46:28.020] Atty. Reynaldo Robles**  
+Is this a project of the Philippine Army?
+
+**[00:46:30.300] Col. Manaros M. Boransing II**  
+It's case-to-case basis, sir. Sometimes the school or the community requests for it. Sometimes it is the Army. Sometimes it is the LGU, sir.
+
+**[00:46:37.920] Atty. Reynaldo Robles**  
+Sige po. Doon po sa kaso na it's the Philippine Army which is taking the lead, sino po ang nag... Kailan po piniprepare yung pondok?
+
+**[00:46:50.520] Col. Manaros M. Boransing II**  
+Again, sir, we follow the budget process of the government. So it's one year before, sir. So
+
+**[00:46:56.020] Atty. Reynaldo Robles**  
+ganun din po, one year before. bago yung actual holding.
+
+**[00:47:05.520] Atty. Reynaldo Robles**  
+Sino po ang nagdi-desisyon kung kailan at saan gaganapin? Of course,
+
+**[00:47:11.980] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, compound, Your Honor.
+
+**[00:47:13.840] Atty. Reynaldo Robles**  
+Sige, Your Honor. Kindly Reform Council. Sino po ang nagdi-desisyon kung saan gaganapin yung IEC activity?
+
+**[00:47:22.920] Col. Manaros M. Boransing II**  
+The IEC activities, again, sir, we coordinate with the local government units for their offices and their communities. With DepEd, if the schools are the ones to be delivered for information, education, communication campaigns, sir. So it depends, sir, on the specific area and circumstances, sir.
+
+**[00:47:51.360] Atty. Reynaldo Robles**  
+Pero sabi niyo po kasama ito sa budget process din, tama po?
+
+**[00:47:54.920] Atty. Lindon Miguel C. Bacquel**  
+Yes, sir. Objection, Your Honor, argumentative.
+
+**[00:47:56.980] Atty. Reynaldo Robles**  
+Your Honor, I'm asking him to confirm. I have a follow-up question. Overruled, witness may answer?
+
+**[00:48:02.480] Col. Manaros M. Boransing II**  
+Yes, sir. At least for the Army-funded materials, sir, and coordination parts, sir, it is the Army, sir, so that decides. So it is like, for instance, sir, if the threat is to the whole province, then it's the whole province, sir.
+
+**[00:48:21.060] Atty. Reynaldo Robles**  
+So kailan po isinusubmit yung proposal for your IEC activities?
+
+**[00:48:26.000] Col. Manaros M. Boransing II**  
+Again, sir, we follow the government budget process, sir. It's a year before, sir. A
+
+**[00:48:30.380] Atty. Reynaldo Robles**  
+year before.
+
+**[00:48:31.140] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[00:48:32.870] Atty. Reynaldo Robles**  
+Ngayon, punta po tayo dun sa pagtestigo nyo sa Committee on Good Government and Public Accountability noong October 17, 2024.
+
+**[00:48:44.690] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[00:48:45.530] Atty. Reynaldo Robles**  
+Pwede po bang mabanggit nyo kung ano yung naging pag-uusap dun sa hearing na yon?
+
+**[00:48:51.170] Atty. Lindon Miguel C. Bacquel**  
+Vague, Your Honor.
+
+**[00:48:53.830] Atty. Lindon Miguel C. Bacquel**  
+Your
+
+**[00:48:54.310] Atty. Lindon Miguel C. Bacquel**  
+Honor. Witness may answer.
+
+**[00:48:56.330] Sen. Francis "Chiz" G. Escudero**  
+I think he knows what he's being asked given that he testified earlier. He recalls the hearing and having attended hearing. Witness
+
+**[00:49:03.800] Col. Manaros M. Boransing II**  
+may answer.
+
+**[00:49:04.560] Sen. Francis "Chiz" G. Escudero**  
+It's
+
+**[00:49:05.000] Col. Manaros M. Boransing II**  
+kind of a very long hearing, sir. I cannot specify. Maybe you can ask a specific question. Okay.
+
+**[00:49:11.760] Atty. Reynaldo Robles**  
+What I'll do, sir, is I'll show you a specific portion because I have questions relating there too. And then I will ask my questions so that you will recall what transpired. Is that fair? It is, sir. Thank you. Your Honor, at this juncture, may we request to refresh the memory of the witness. that we be allowed to play the video contained in the USB previously marked as Exhibit P-RN No. 1-1-C-I for the prosecution. This is part of the videos for which the Honorable... court has graciously extended judicial notice. How long is the video
+
+**[00:50:00.670] Sen. Francis "Chiz" G. Escudero**  
+counsel?
+
+**[00:50:01.150] Atty. Reynaldo Robles**  
+Your Honor, about 4 minutes and 30 seconds. In all? We are specifically requesting for the playing of Exhibit P-RN No. 1-1-5 or Part 5 starting from 39 minutes 34 seconds to 44 minutes. and seven seconds. Technical, can we play the video? Video number one.
+
+**[00:50:30.070] Sen. Francis "Chiz" G. Escudero**  
+The clerk of court through the tech is authorized to so play the video.
+
+**[00:50:44.240] Rep. Joel R. Chua**  
+Colonel Boransing.
+
+**[00:50:51.250] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Out of eight youth leadership summit, ilan po yung naatendan nyo?
+
+**[00:50:57.320] Rep. Joel R. Chua**  
+Colonel Boransing, you're recognized.
+
+**[00:50:59.680] Col. Manaros M. Boransing II**  
+Yes, Mr. Chair. I was only able to attend one.
+
+**[00:51:03.780] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+So that means that you have no personal knowledge as well.
+
+**[00:51:07.410] Col. Manaros M. Boransing II**  
+of all
+
+**[00:51:08.050] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+the eight youth leadership summit that happened.
+
+**[00:51:12.370] Col. Manaros M. Boransing II**  
+I have personal knowledge of this, ma'am. Mr. Chair, if I may explain lang po the structure of my position is I am the G7 of the Infantry Division. So, the Infantry Division has three infantry brigades. They control three... One has four provinces, the other has one province, and the other brigade has one province. So I am in charge of supervising. I am the Civil Military Operations Officer, Mr. Chair. So I closely monitor, we all closely monitor the program of the Youth Leadership Summit to ensure that it... To ensure that it is multi-stakeholder and it fits the objectives of the program. So we have personal knowledge. We can't go around in each barangay. But they have, since we used budget from the Philippine Army, we have after-activity reports, fund utilization reports, pictures and documentations.
+
+**[00:52:28.440] Col. Manaros M. Boransing II**  
+We have to ensure this because we have a yearly inspection from higher headquarters. So we may not have been there, but we have personal knowledge. We are the program managers of this book. You
+
+**[00:52:41.800] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+mentioned a while ago, Colonel Boransing, you were using the fund of the Philippine Army. You confirm that?
+
+**[00:52:49.940] Col. Manaros M. Boransing II**  
+Yes, Mr. Chair.
+
+**[00:52:51.920] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Are you
+
+**[00:52:52.080] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+sure?
+
+**[00:52:52.760] Col. Manaros M. Boransing II**  
+Yes, Mr. Chair.
+
+**[00:52:53.960] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+48 YLS.
+
+**[00:52:56.820] Col. Manaros M. Boransing II**  
+that were
+
+**[00:52:57.700] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+conducted. You used the fund of the Philippine Army. For
+
+**[00:53:01.520] Col. Manaros M. Boransing II**  
+our participants, we used the Philippine Army. For the students, they used the local government unit funds, Mr. Chair.
+
+**[00:53:10.760] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Okay, that is clear. Mr. Chair, I just wish to manifest the statement of Colonel Boransing that during the Youth Leadership Summit For the military, they are using their military fund and for the children or the youth, they are using the LGU fund.
+
+**[00:53:50.580] Col. Manaros M. Boransing II**  
+municipal LGU funds. And for the participants from the other stakeholders from DepEd, from Vidaya, from the police, of course, they use their own funds. So it's really a multi-stakeholder. In
+
+**[00:54:05.480] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+other words, Mr. Chair, a lot of offices and agencies are using their respective funds for intelligence in conducting the Youth Leadership Summit. This is your statement. Colonel Boransing.
+
+**[00:54:20.230] Col. Manaros M. Boransing II**  
+I didn't say intelligence funds, ma'am. What I said was, like for instance, for their billeting for the hotel, they have to pay from their own agency funds. For their food, they have to pay. What
+
+**[00:54:34.050] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+is clear, there are different offices who shoulder their respective expenses for the purpose of Youth Leadership Summit. Yes, Mr.
+
+**[00:54:46.480] Col. Manaros M. Boransing II**  
+Chair, yes.
+
+**[00:54:47.060] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+In other words, it is not only the DepEd
+
+**[00:54:51.340] Col. Manaros M. Boransing II**  
+who spends
+
+**[00:54:53.520] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+its confidential fund.
+
+**[00:54:56.120] Col. Manaros M. Boransing II**  
+I have no knowledge of what their source of funding is.
+
+**[00:55:00.640] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+But in as far as you are concerned, kanya-kanyang gastos ang iba't-ibang opisina. And
+
+**[00:55:07.880] Col. Manaros M. Boransing II**  
+for
+
+**[00:55:08.780] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+the children, the youth, you said it is being shouldered by the LGU. Tama?
+
+**[00:55:14.200] Col. Manaros M. Boransing II**  
+Yes, Mr.
+
+**[00:55:14.720] Col. Manaros M. Boransing II**  
+Chair.
+
+**[00:55:15.020] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Thank you, Colonel.
+
+**[00:55:17.580] Atty. Reynaldo Robles**  
+Colonel Boransing. Thank you.
+
+**[00:55:21.800] Atty. Reynaldo Robles**  
+Your Honor, can we proceed with our examination of the retention?
+
+**[00:55:26.740] Sen. Francis "Chiz" G. Escudero**  
+Yes, Counsel,
+
+**[00:55:27.940] Sen. Francis "Chiz" G. Escudero**  
+you may proceed. Thank
+
+**[00:55:28.980] Atty. Reynaldo Robles**  
+you. Colonel, just to clarify, noong po bang tumistigo kayo, was it under oath? It was. And do you confirm the veracity of the statements you made in that hearing? Yes, sir. Okay, thank you. Puntahan po natin yung pinag-usapan doon sa video. Yung pong funding. Doon po ba sa certification nyo, aling YLS at IEC activities ang binabanggit nyo?
+
+**[00:56:00.940] Col. Manaros M. Boransing II**  
+I don't get the question, sir. Is it for a
+
+**[00:56:02.620] Col. Manaros M. Boransing II**  
+specific period or in general? I
+
+**[00:56:05.880] Col. Manaros M. Boransing II**  
+don't get the question, sir.
+
+**[00:56:07.320] Atty. Reynaldo Robles**  
+Ano pong panahon ang covered noong certification nyo?
+
+**[00:56:11.530] Col. Manaros M. Boransing II**  
+It was stated in certification sir, January 1 to December 31, 2023.
+
+**[00:56:16.390] Atty. Reynaldo Robles**  
+Yun po ang pag-usapan natin. YLS at IEC activities niyo, ng unit niyo noong 2023.
+
+**[00:56:25.540] Atty. Reynaldo Robles**  
+Para po, para maliwanag, saan po nanggaling yung funding para doon sa YLS at IEC activities niyo noong 2023?
+
+**[00:56:39.780] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. Asked and answered. No,
+
+**[00:56:41.720] Atty. Reynaldo Robles**  
+Your Honor. This is a different question. The witness was answering before about activities in general. I am asking for a specific period. We'll
+
+**[00:56:52.300] Sen. Francis "Chiz" G. Escudero**  
+allow it. Witness may answer.
+
+**[00:56:55.380] Col. Manaros M. Boransing II**  
+Yes, sir. For the 2023 Youth Leadership Summit, sir, the funding for the whole activity itself came from various government agencies. So for the army participants and for the coordinations, it was for the army participants, it was from the army in the budget of the army. For the students and out-of-school youth participants, it was funded from the provincial, city, or municipal local government funds. For the other participants from other agencies or civilian stakeholders, it was from their own funding.
+
+**[00:57:41.060] Col. Manaros M. Boransing II**  
+Kanya
+
+**[00:57:41.280] Col. Manaros M. Boransing II**  
+-kanya ang bayad.
+
+**[00:57:42.040] Atty. Reynaldo Robles**  
+Yes, sir. So, ang sunod ko po question, nasagot nyo na kung kanino galing yung pondo para dun sa participants. Ang sabi nyo, local government units. Yes, sir.
+
+**[00:57:56.310] Atty. Reynaldo Robles**  
+Ito po yung tanong ko.
+
+**[00:58:01.210] Atty. Reynaldo Robles**  
+Gano po kalaki ang funding by way of confidential funds? na ipinrovide ng DepEd para sa YLS at IEC activities niyo noong 2023?
+
+**[00:58:16.050] Col. Manaros M. Boransing II**  
+There was no funding released to the 1st Infantry Division from DepEd sir, of any source
+
+**[00:58:28.010] Atty. Reynaldo Robles**  
+sir. How about funding by way of confidential funds? provided by the offices identified with the respondent Vice President Sara Duterte, particularly the OVP, Office of the Vice President, or the Vice President Security and Protection Group, or VPSPG. Were there funding provided for those offices for your YLS and IEC activities in 2023?
+
+**[00:58:58.260] Col. Manaros M. Boransing II**  
+For 2023, sir, there were no funds from
+
+**[00:59:08.250] Col. Manaros M. Boransing II**  
+I
+
+**[00:59:10.530] Atty. Reynaldo Robles**  
+was asking you about confidential funds. Now let me ask you about funds in general, confidential or otherwise. How much funding was provided or downloaded to your unit by the DepEd for your conduct of the YLS and IEC activities in 2023?
+
+**[00:59:32.560] Col. Manaros M. Boransing II**  
+As I earlier said, Sir, no funds whatsoever or any amount was downloaded to the 1st Infantry Tobacco Division for 2023 for the Youth Leadership Summit and Information Education Communication Campaign, Sir,
+
+**[00:59:50.130] Col. Manaros M. Boransing II**  
+by
+
+**[00:59:51.030] Col. Manaros M. Boransing II**  
+any government agencies.
+
+**[00:59:52.790] Atty. Reynaldo Robles**  
+Okay. Dun po sa, para lang maliwanag, itatanong ko na rin po sa inyo, although in general, nasagot nyo na rin. How much funding other than confidential funds was provided or downloaded to your unit by the offices identified with the respondent vice president like the OVP or VPSPG for your conduct of the YLS and IEC activities in 2023?
+
+**[01:00:21.280] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. Asked and answered.
+
+**[01:00:23.220] Atty. Reynaldo Robles**  
+It's a
+
+**[01:00:23.420] Atty. Reynaldo Robles**  
+different question, Your Honor.
+
+**[01:00:24.600] Sen. Francis "Chiz" G. Escudero**  
+Asked and answered, counsel. Objection is sustained. Move on, counsel.
+
+**[01:00:29.350] Atty. Reynaldo Robles**  
+Sir, referring to the YLS and IEC activities you conducted in 2023, who decided when and where to conduct those activities?
+
+**[01:00:45.690] Atty. Lindon Miguel C. Bacquel**  
+As you answered, Your Honor.
+
+**[01:00:47.550] Sen. Francis "Chiz" G. Escudero**  
+Alalawit, counsel. I don't recall witness having answered that.
+
+**[01:00:53.280] Col. Manaros M. Boransing II**  
+Yes, sir. So, it is the interagency technical working group, sir, that decides the specific, but it has already been
+
+**[01:01:03.600] Col. Manaros M. Boransing II**  
+program for like for instance a single province sir but the specific municipality will be decided by the interagency technical working group composed as you said
+
+**[01:01:14.260] Atty. Reynaldo Robles**  
+it's already been
+
+**[01:01:15.020] Col. Manaros M. Boransing II**  
+programmed correct yes sir but for the specific barangay sityo it's not written there it's written like for instance the province sir or the municipality sir so
+
+**[01:01:28.780] Atty. Reynaldo Robles**  
+As you stated earlier, is this part of the budget process you mentioned earlier to be submitted one year before?
+
+**[01:01:36.530] Col. Manaros M. Boransing II**  
+Yes, sir. At least for the Army participation, sir. Okay. Thank you.
+
+**[01:01:42.180] Sen. Francis "Chiz" G. Escudero**  
+With your indulgence, counsel, when did the Interagency Committee decide on the venue of the YLS and the IEC? Yes, sir.
+
+**[01:01:53.960] Sen. Francis "Chiz" G. Escudero**  
+Good
+
+**[01:01:54.480] Sen. Francis "Chiz" G. Escudero**  
+morning, sir. Sabi niyo sir kasi yung AFP nag-decide the year before pero wala pang specific barangay and that the areas are chosen by the Interagency Committee. When did the Interagency Committee decide kung saan gagawin yung YLS at IEC ng 2023?
+
+**[01:02:14.190] Col. Manaros M. Boransing II**  
+In way of answering, sir, if I may, sir, show a specific example, sir. So like, for instance, sir, in Lanao del Sur, sir, there was a youth leadership summit there conducted December 2023, sir. So a few months before, sir, a interagency meeting was initiated by the 103rd Infantry Brigade in Marawi City, sir. And then they looked at the threat levels where Those killed, terrorists killed or surrendered or captured, where, which specific municipalities are they coming from?
+
+**[01:02:52.210] Sen. Francis "Chiz" G. Escudero**  
+What date was this agreed upon and when was the wireless?
+
+**[01:02:56.030] Col. Manaros M. Boransing II**  
+If I could...
+
+**[01:02:57.190] Sen. Francis "Chiz" G. Escudero**  
+This example you're citing, sir. Yes, sir. You may refer to your notes, sir. You may refer to your notes. Just to give us an idea.
+
+**[01:03:09.700] Sen. Francis "Chiz" G. Escudero**  
+Ano po yung binabanggit nyo sa Marawi? Kailan ginawa? At saka kailan pinagpasyahan yun?
+
+**[01:03:45.110] Col. Manaros M. Boransing II**  
+This one, sir, in Lanao del Sur, sir, it's, it was in August 7 to 9, 2023, and the specific venue is Barangay Poblasyon, Madaya, Maging, Lanao del Sur. So we have here a preparation phaser, which was done July 15, when they met with the president of, we have an organized alumni youth leadership summit at, they met in Campo Ranaw, sir. with the army officer, sir. And the topic discussed was the preparation for the requirements of the YLS summit, sir. So the
+
+**[01:04:25.620] Sen. Francis "Chiz" G. Escudero**  
+month before, sir?
+
+**[01:04:26.920] Col. Manaros M. Boransing II**  
+Yes, sir. It depends on the specific circumstances of the area, sir. It could be a month, it could be two months before, sir.
+
+**[01:04:37.060] Sen. Francis "Chiz" G. Escudero**  
+You're talking nine YLS activities in 2023, correct, sir?
+
+**[01:04:42.200] Col. Manaros M. Boransing II**  
+Eight, sir.
+
+**[01:04:49.580] Sen. Francis "Chiz" G. Escudero**  
+Your Honor,
+
+**[01:04:54.280] Atty. Reynaldo Robles**  
+that's a different area for General Bajau.
+
+**[01:04:58.050] Sen. Francis "Chiz" G. Escudero**  
+So,
+
+**[01:05:02.120] Sen. Francis "Chiz" G. Escudero**  
+all eight, meron kayong agreement with an interagency committee. Kasama ba ang deped doon sa interagency committee?
+
+**[01:05:10.960] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:05:11.620] Atty. Reynaldo Robles**  
+Okay. Your Witness Council. Thank you, Your Honor. Balik po tayo doon sa naging hiri noong October 17, 2024 sa Committee on Good Government and Public Accountability. Naalala niyo po, tinanong kayo doon sa certification na inisyo niyo, yung pinakita natin kanina. Yes, sir. In fairness, so that I can ask my question, and marami po kasing naging tanong doon, I will show you the video before asking you questions. Your Honor. Can we be allowed to play Exhibit P-RN No. 1-1-6? This is part 6 of the video to which the Honorable Court has already extended judicial notice starting from 27 minutes 21 seconds to 31 minutes and 9 seconds, which is around 3 or 4 minute video.
+
+**[01:06:14.160] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, counsel.
+
+**[01:06:15.580] Atty. Reynaldo Robles**  
+The tech is so
+
+**[01:06:16.560] Sen. Francis "Chiz" G. Escudero**  
+instructed to
+
+**[01:06:17.320] Atty. Reynaldo Robles**  
+comply. Kindly play video number 4.
+
+**[01:06:28.110] Rep. Joel R. Chua**  
+Please continue, Congressman Ajo.
+
+**[01:06:30.910] Rep. Romeo M. Acop**  
+Thank you. So, Usec Memphid, wala pong ibinaba na pondo sa Armed Forces of the Philippines or sa Philippine Army units. Wala.
+
+**[01:06:43.230] Nolasco A. Mempin**  
+As para sa inyo, sir, wala po daw po, sir.
+
+**[01:06:45.670] Rep. Romeo M. Acop**  
+Yung mga units ng Philippine Army which conducted the summit, wala rin po kayong pondong natanggap galing sa Deped. Would that be correct?
+
+**[01:06:58.080] Maj. Gen. Adonis R. Bajao**  
+Yes, correct, sir.
+
+**[01:06:59.540] Rep. Romeo M. Acop**  
+That's correct. Now, may I ask, bakit kayo nag-issue ng certification?
+
+**[01:07:07.980] Rep. Romeo M. Acop**  
+Hindi, that's not you kasi hindi naman ikaw nag-certify.
+
+**[01:07:13.750] Rep. Romeo M. Acop**  
+Why did you issue
+
+**[01:07:15.690] Rep. Joel R. Chua**  
+certification? Sino po ang sasabot? Colonel Boransing, you are recognized.
+
+**[01:07:21.360] Col. Manaros M. Boransing II**  
+Mr. Chair, sir, as I earlier mentioned, sir, because almost all of our activities on the ground are multi-stakeholder, when we appear in activities of one or many agencies, many agencies ask for certifications of attendance as I have asked the Secretariat to issue us with a certificate of attendance that we attended this activity.
+
+**[01:07:45.590] Col. Manaros M. Boransing II**  
+We assume that the certification was also for for that purpose. So a lot of other national government agencies and local government units asked for certifications in that manner also. So
+
+**[01:08:04.140] Rep. Romeo M. Acop**  
+you're trying to tell us that it was USEC Memphine which required the submission of those certifications. Siya po ba ang nag-require sa inyo?
+
+**[01:08:17.900] Col. Manaros M. Boransing II**  
+Yes, he asked, Mr. Chair, yes, sir.
+
+**[01:08:21.160] Rep. Romeo M. Acop**  
+Was it through a written document or what?
+
+**[01:08:26.850] Col. Manaros M. Boransing II**  
+He called our commander, sir.
+
+**[01:08:30.210] Rep. Romeo M. Acop**  
+Ganun na po ba ngayon sa our forces of the Philippines?
+
+**[01:08:34.920] Col. Manaros M. Boransing II**  
+Well, sir, the other AGCs also, like for instance, the Department of, the Regional Offices of the Department of Agriculture. testa, they also text me during our activities. So I think it's a accepted mode of unofficial communication, sir.
+
+**[01:08:53.200] Rep. Romeo M. Acop**  
+For your information, yun pong purpose ng confidential fund ng Kwan ng DepEd in its accomplishment report ay apat po. For your information. Number one, counter-insurgency programs. Number two is abuse prevention and control within schools. Number three, anti-illegal activities, operations, and anti-extremism and terrorism programs.
+
+**[01:09:21.580] Rep. Romeo M. Acop**  
+Di
+
+**[01:09:23.300] Rep. Romeo M. Acop**  
+po ba? Nowhere could I find, dito po sa accomplishment report na sinabmit ng Office of the Department of Education, what I see na Yung activity ng Armed Forces of the Philippines is enumerated. Wala eh. Wala akong makita.
+
+**[01:09:51.840] Rep. Romeo M. Acop**  
+And yet, yung mga ginawa niyong activities, eh nandun na yun sa liquidation ng contingency fund ng DepEd.
+
+**[01:10:06.650] Rep. Romeo M. Acop**  
+Bakit ganun,
+
+**[01:10:11.240] Rep. Romeo M. Acop**  
+Yosef Membin? Did you not ask why?
+
+**[01:10:16.380] Rep. Joel R. Chua**  
+Please
+
+**[01:10:17.100] Rep. Joel R. Chua**  
+continue.
+
+**[01:10:19.540] Atty. Reynaldo Robles**  
+Colonel, I would like to ask you about what you said about the certification you issued. You were asked, sir, why you issued the certification and just to recapitulate or restate, you said essentially that the certificate was issued as a form or certificate of attendance to stakeholders who participated in the activities and you even cited the fact that you also requested for a similar certificate of attendance from the committee secretary. Would that more or less be a correct restatement of what you said? Yes, sir. Okay.
+
+**[01:11:01.080] Atty. Reynaldo Robles**  
+So, do you affirm that answer before this court that you gave?
+
+**[01:11:07.000] Atty. Lindon Miguel C. Bacquel**  
+As an answer, Your Honor.
+
+**[01:11:09.390] Atty. Reynaldo Robles**  
+No, Your Honor, it's a different question.
+
+**[01:11:11.370] Sen. Francis "Chiz" G. Escudero**  
+He did answer that in the video but does he confirm it today?
+
+**[01:11:15.590] Atty. Reynaldo Robles**  
+Do you confirm that? Give me
+
+**[01:11:16.970] Atty. Reynaldo Robles**  
+answer. The truth and veracity of that statement? Yes, sir. Okay. Now, based
+
+**[01:11:25.900] Atty. Reynaldo Robles**  
+on the record, as already also stated in the video, the certificate you issued, sir, was used by the DepEd and submitted to the COA for the purpose of showing proof of success of information gathering or surveillance activity to justify the payment of... 15.54 million in confidential funds as rewards. Objection, Your
+
+**[01:11:57.610] Atty. Lindon Miguel C. Bacquel**  
+Honor. Your Honor, I haven't
+
+**[01:11:58.910] Atty. Reynaldo Robles**  
+asked my question.
+
+**[01:12:00.420] Sen. Francis "Chiz" G. Escudero**  
+Finish your question, counsel.
+
+**[01:12:02.620] Atty. Reynaldo Robles**  
+When was the first time that you learned about this?
+
+**[01:12:06.600] Sen. Francis "Chiz" G. Escudero**  
+What's the objection, counsel?
+
+**[01:12:09.990] Atty. Lindon Miguel C. Bacquel**  
+I withdraw my objection, Your Honor. The prosecution changes its question.
+
+**[01:12:15.730] Sen. Francis "Chiz" G. Escudero**  
+If he knows, witness may answer if he knows.
+
+**[01:12:18.750] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:12:23.010] Atty. Reynaldo Robles**  
+Kailan niyo po
+
+**[01:12:24.110] Atty. Reynaldo Robles**  
+nalaman
+
+**[01:12:24.790] Atty. Reynaldo Robles**  
+na ginamit yung certification na in-issue niyo para ipasa o ilusot sa COA yung 15.54 million ng confidential funds na ipinambayad umunan ng rewards ng Department of Education? Kailan niyo po nalaman?
+
+**[01:12:46.310] Atty. Lindon Miguel C. Bacquel**  
+No basis, Your Honor. Part of the record already. The witness has yet to testify as regards any submission of any document to the court. Neither
+
+**[01:12:53.640] Sen. Francis "Chiz" G. Escudero**  
+have I heard that, counsel, but with the indulgence of the counsel for the parties, I notice that the certifications are all common exhibits of both parties.
+
+**[01:13:06.970] Atty. Reynaldo Robles**  
+Yes, Your Honor.
+
+**[01:13:07.970] Sen. Francis "Chiz" G. Escudero**  
+There is no request for stipulation on the part of the prosecution insofar as the certifications are concerned. Is that correct?
+
+**[01:13:15.180] Atty. Reynaldo Robles**  
+Yes, Your Honor, but these have been previously testified on already by the COA witness, as Your Honor, particularly Mr. Guamil.
+
+**[01:13:25.220] Sen. Francis "Chiz" G. Escudero**  
+Agreed, counsel. Agreed, counsel. All I'm asking is if there are...
+
+**[01:13:28.440] Atty. Reynaldo Robles**  
+So there is basis for us to confront the witness because that is part of the record already, Your Honor.
+
+**[01:13:33.440] Sen. Francis "Chiz" G. Escudero**  
+That's not the issue of the Presiding Officer, counsel. I'm looking at the possibility of shortening the proceedings if indeed these are common exhibits insofar as... I can enumerate all of the certifications if
+
+**[01:13:44.690] Atty. Reynaldo Robles**  
+the
+
+**[01:13:44.930] Sen. Francis "Chiz" G. Escudero**  
+respondent is willing to stipulate on the certifications including the AOMs and the DepEd response. If the respondent is willing. If not, then we proceed as you intend to, Attorney Ray. Attorney Linton, are you willing to stipulate as to the common exhibits pertaining to the COA AOMs on DepEd, the responses and transmitted letters of DepEd? and the certifications issued among others by Colonel Boransing and others pertaining to YLS and IECs. Is that possible?
+
+**[01:14:24.830] Atty. Lindon Miguel C. Bacquel**  
+We can stipulate on that, Your Honor.
+
+**[01:14:27.230] Sen. Francis "Chiz" G. Escudero**  
+I will enumerate, counsel then.
+
+**[01:14:30.430] Sen. Francis "Chiz" G. Escudero**  
+The COA AOM dated 2024-015 dated February 1, 2024. The COA AOM dated Co-AOM number 2024-171 dated August 8, 2024. Do you stipulate, counsel? Yes, Your Honor.
+
+**[01:14:50.590] Sen. Francis "Chiz" G. Escudero**  
+DepEd reply dated April 17 to AOM number 2024-2015. Do you stipulate, counsel?
+
+**[01:14:59.640] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor. For the record, that's Defense Exhibits D-I-79-DE, Your Honor.
+
+**[01:15:06.260] Sen. Francis "Chiz" G. Escudero**  
+Yes.
+
+**[01:15:08.800] Sen. Francis "Chiz" G. Escudero**  
+Do you transmit the letter of DepEd? Response to AUM number 2024-171. If I'm not mistaken, that's D-1-92-DE. Correct, Your Honor. Distributed counsel? Yes, Your Honor.
+
+**[01:15:26.740] Sen. Francis "Chiz" G. Escudero**  
+The certifications issued by various officers of the Armed Forces of the Philippines. Coming from Colonel Boransing, dated January 1, 2024. Colonel Sang Daan dated December 30, 2023 by Lt. Col. Magtanggol Panopio dated December 5, 2023 The certification issued by Lt. Col. Mendoza dated September 25, 2023 by Lt. Col. Jai Chris J. Mendoza dated December 10, 2023 and certification by General Bajao, dated December 12, 2023, and finally by Colonel Darren Comia, dated July 1, 2024.
+
+**[01:16:21.020] Sen. Francis "Chiz" G. Escudero**  
+I can name the exhibits in Seriatim II, counsel, if you want.
+
+**[01:16:25.280] Atty. Lindon Miguel C. Bacquel**  
+We can stipulate, Your Honor. In addition, Your Honor, for the record, in D-I-92-D, it is a transmitted letter of a reply. Dated August 22, 2024. Not dated August
+
+**[01:16:41.850] Sen. Francis "Chiz" G. Escudero**  
+27. August 22, Your Honor. August 22.
+
+**[01:16:45.930] Atty. Lindon Miguel C. Bacquel**  
+Which is attached to D-I-92-D, Your Honor.
+
+**[01:16:52.190] Sen. Francis "Chiz" G. Escudero**  
+This is the one signed by Yusek Sevilla.
+
+**[01:16:55.790] Atty. Lindon Miguel C. Bacquel**  
+That's the D-I-92-DE, Your Honor. The reply dated August 22, 2024, which is attached to the D-I-92-DE, is separately marked as D-I-93-DE, Your Honor.
+
+**[01:17:13.090] Sen. Francis "Chiz" G. Escudero**  
+Yes, and do you stipulate as well with that? Yes, Your Honor. Finally, the letter addressed by Major General Bajau to Yusek Mempin. which is your D-I-84-DE and D-I-85-DE.
+
+**[01:17:32.120] Atty. Lindon Miguel C. Bacquel**  
+We can stipulate on that, Your Honor. Moreover, Your Honor, may we also request stipulation on the data on joint 7ID DepEd anti-insurgency campaign from 01 January 2023 to 31 December 2023. Dated
+
+**[01:17:51.160] Sen. Francis "Chiz" G. Escudero**  
+December 5, 2023.
+
+**[01:17:53.260] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor.
+
+**[01:17:54.180] Sen. Francis "Chiz" G. Escudero**  
+Which is Prosecutions Exhibit P-I-22-P-I-22-C-1. De-stipulate it, Attorney Ray.
+
+**[01:18:05.480] Atty. Reynaldo Robles**  
+Your Honor, let me check. P-I-P
+
+**[01:18:10.040] Sen. Francis "Chiz" G. Escudero**  
+-I-22-C-1. Data on Joint 7-ID
+
+**[01:18:19.600] Sen. Francis "Chiz" G. Escudero**  
+DepEd anti-insurgency campaign from January 1, 2023 to December 31, 2023, dated December 5, 2023, signed by Major Rogelio Dombrique Jr. and Lieutenant Colonel Magtanggol Panopio.
+
+**[01:18:34.430] Atty. Reynaldo Robles**  
+We're willing to stipulate, Your Honor. Yes, Your Honor.
+
+**[01:18:36.510] Atty. Lindon Miguel C. Bacquel**  
+For the record, Your Honor, that document is Defense Exhibits D-I-83-DE,
+
+**[01:18:45.010] Atty. Reynaldo Robles**  
+Your Honor. This is a common exhibit, Your Honor.
+
+**[01:18:46.910] Sen. Francis "Chiz" G. Escudero**  
+Yes. So stipulated. The aforementioned documents are still stipulated by the parties, meaning to say no proof need be presented in regard to these documents other than to complete the narration of the witness. It's ordered.
+
+**[01:18:59.890] Atty. Reynaldo Robles**  
+Thank you, Your Honor. Dito po sa mga dokumento na ngayon lamang po pinagkasunduan ng prosecution at counsel for the respondent, isa po dito yung sulat na isinumite ng DepEd sa COA bilang tugon. sa Audit Observation Memo 2024-05. Ito po ay sulat dated 17 April 2024. Naka-address kay Hon. Nilda B. Plaras ng COA. At pirmado po ni Atty. Michael Wesley T. Poa, Undersecretary and Chief of Staff. Ang tanong ko po, kailan niyo po nalaman na inilakip o sinama sa sulat na ito yung certification na in-issue nyo para patunayan daw na yung aktibidad na sinesertifyan nyo ay patunay ng matagumpay na pag-gastos or pagbigay ng reward para sa surveillance activity and information gathering ng DepEd para sa halagang 15,540,000 pesos. Kailan nyo po nalaman yun?
+
+**[01:20:20.120] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, before the witness answers, Your Honor, can the witness be directed not to, during the examination, not to confer with other people or his staff, Your Honor? Seated behind.
+
+**[01:20:38.480] Sen. Francis "Chiz" G. Escudero**  
+Conferring with which witness,
+
+**[01:20:40.080] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, is he referring to? This witness.
+
+**[01:20:43.620] Sen. Francis "Chiz" G. Escudero**  
+Who are you conferring with, Colonel Bransing?
+
+**[01:20:46.940] Col. Manaros M. Boransing II**  
+He's our army lawyer, sir. I was just asking about the stipulations, explanation.
+
+**[01:20:55.620] Sen. Francis "Chiz" G. Escudero**  
+Kindly avoid that, Colonel Bransing.
+
+**[01:20:57.560] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:20:58.360] Sen. Francis "Chiz" G. Escudero**  
+As earlier ordered by the Chair, while you are testifying, you are not to consult or get any coaching from anyone, whether it's a party in interest and or...
+
+**[01:21:15.050] Sen. Francis "Chiz" G. Escudero**  
+The counsels for either party. We will, as best as we can, Colonel, we will look out, the court will look out for your rights and interests and will also invoke it. You may invoke it anytime you need to or the court may do so should the parties fail to invoke it for you. Thank you, Your Honor. It's ordered. Thank you for that, Attorney Linden. We
+
+**[01:21:40.050] Atty. Lindon Miguel C. Bacquel**  
+also object to the question, Your Honor, for being compound and vague, Your Honor. Now I
+
+**[01:21:44.920] Sen. Francis "Chiz" G. Escudero**  
+forgot the question already. Kindly repeat the question, Atty. Ray.
+
+**[01:21:49.460] Atty. Reynaldo Robles**  
+Base po dito sa dokumento, which were already subject to stipulation by the parties, pinagkasunduan na po. I remember. If
+
+**[01:21:58.020] Sen. Francis "Chiz" G. Escudero**  
+you know, overall, if you know, Col. Bransing, if you know that that document was used or was submitted to COA in relation to an AUM, if you know.
+
+**[01:22:08.600] Col. Manaros M. Boransing II**  
+Yes, Your Honor. The question was when I... Kailan
+
+**[01:22:11.320] Atty. Reynaldo Robles**  
+mo unang
+
+**[01:22:11.780] Atty. Reynaldo Robles**  
+nalaman?
+
+**[01:22:12.300] Col. Manaros M. Boransing II**  
+October 17, 2023, during the hearing
+
+**[01:22:15.880] Col. Manaros M. Boransing II**  
+in
+
+**[01:22:16.320] Col. Manaros M. Boransing II**  
+the lower house.
+
+**[01:22:16.380] Col. Manaros M. Boransing II**  
+Yun lamang po nung mismong hearing
+
+**[01:22:18.280] Atty. Reynaldo Robles**  
+na iyon? Yes, Sir. Okay. So, ang tanong ko po, kasama po ba yung ginawang paghabit ng DepEd doon sa purpose ng pag-issue nyo ng certification?
+
+**[01:22:32.170] Atty. Reynaldo Robles**  
+If we could...
+
+**[01:22:35.340] Atty. Reynaldo Robles**  
+I'd like to clarify the question, sir. Sige po, palitan ko na lang yung tanong.
+
+**[01:22:40.770] Atty. Reynaldo Robles**  
+Ano po ang kaugnayan noong certification na in-issue nyo doon sa umano'y matagumpay na paggastos ng 15.54 million confidential funds ng DepEd para umano sa pagbabayad ng rewards?
+
+**[01:22:59.710] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. No basis.
+
+**[01:23:04.100] Atty. Lindon Miguel C. Bacquel**  
+If the witness
+
+**[01:23:04.880] Sen. Francis "Chiz" G. Escudero**  
+knows, counsel, I
+
+**[01:23:06.650] Col. Manaros M. Boransing II**  
+have no knowledge, sir.
+
+**[01:23:10.450] Sen. Francis "Chiz" G. Escudero**  
+I would have expected that.
+
+**[01:23:12.170] Col. Manaros M. Boransing II**  
+Wala kayong kaalaman po? Yes, sir. I haven't even read the COA document, sir.
+
+**[01:23:18.900] Atty. Reynaldo Robles**  
+Hindi niyo po nakita yung COA document? No, sir. Noong maalaman niyo po na ginamit yung certification niyo para dun sa pag-clear ng confidential funds, na dinisallow ng COA.
+
+**[01:23:38.560] Atty. Reynaldo Robles**  
+Could you tell us ano po yung naging reaction nyo? Objection, Your Honor. Misleading.
+
+**[01:23:45.160] Sen. Francis "Chiz" G. Escudero**  
+Objection is sustained, counsel.
+
+**[01:23:48.680] Atty. Reynaldo Robles**  
+Your Honor, there's nothing misleading with the question. I'm just asking for the reaction of the witness when he learned. Counsel, I
+
+**[01:23:55.040] Sen. Francis "Chiz" G. Escudero**  
+don't believe this was disallowed by COA, counsel. There is no evidence to that effect.
+
+**[01:24:00.500] Atty. Reynaldo Robles**  
+I'm sorry. I'll reform. So, yung pong... Nung pong nalaman niyo na ginamit yung certification niyo para sagutin yung papagfaflag ng COA dun sa audit observation nila dun sa 15,540,000 pesos na ginastos umano sa pagbabayad ng reward, ano po yung naging reaction niyo?
+
+**[01:24:31.260] Col. Manaros M. Boransing II**  
+Frankly, sir, I did not have any reaction, sir.
+
+**[01:24:36.540] Col. Manaros M. Boransing II**  
+because we conducted the Youth Leadership Summit in coordination and with the help of all the stakeholders. And we had our own problems in our area of operations 2023.
+
+**[01:24:52.640] Col. Manaros M. Boransing II**  
+During that time, we just had the bombing in Marawi City. So frankly speaking, we had more, at least for us, more important things.
+
+**[01:25:00.680] Atty. Reynaldo Robles**  
+Okay lang po ba yun sa inyo? Argumentative, Your Honor. Move on, counsel.
+
+**[01:25:13.930] Atty. Reynaldo Robles**  
+What explanation did DepEd officials,
+
+**[01:25:20.310] Atty. Reynaldo Robles**  
+naalala niyo po kung ano yung paliwanag ng DepEd officials, yung binigay nila dun sa hearing kung saan kayo nag-attend?
+
+**[01:25:26.990] Atty. Lindon Miguel C. Bacquel**  
+Call for hearsay, Your Honor.
+
+**[01:25:27.890] Atty. Reynaldo Robles**  
+Dun sa issue na ito.
+
+**[01:25:29.050] Atty. Lindon Miguel C. Bacquel**  
+Call for hearsay, Your Honor.
+
+**[01:25:31.230] Atty. Reynaldo Robles**  
+Well, anyway, we'll just confront the witness with the video. You
+
+**[01:25:34.650] Sen. Francis "Chiz" G. Escudero**  
+may do so, counsel. Thank you, Your Honor.
+
+**[01:25:39.270] Atty. Reynaldo Robles**  
+We request that we play, we be allowed to play your honor, exhibit P-1- Roman numeral number 1-1-6, part 6, starting at 17 minutes 43 seconds to 27 minutes 16 seconds. Technical, can we play video number 2?
+
+**[01:26:02.810] Sen. Francis "Chiz" G. Escudero**  
+Thank you, sir. Directed.
+
+**[01:26:17.930] Rep. Joel R. Chua**  
+Indulgence. With the indulgence of Congressman Flores,
+
+**[01:26:22.940] Rep. Joel R. Chua**  
+Congressman Acop, the chair recognizes Congressman Acop.
+
+**[01:26:26.300] Rep. Romeo M. Acop**  
+I would just like to ask some clarificatory questions regarding the interpolation of the Honorable Wistro.
+
+**[01:26:34.560] Rep. Romeo M. Acop**  
+May no who can answer me? Sino ang makakasagot? Kanino bang program itong sinasabi natin na Youth Leadership Summit? Is it a program of the DepEd? The Armed Forces of the Philippines? Kanino?
+
+**[01:26:52.660] Rep. Romeo M. Acop**  
+Sino ang makapagsasabi sa akin?
+
+**[01:26:54.520] Rep. Joel R. Chua**  
+Major General Bajao?
+
+**[01:26:56.380] Maj. Gen. Adonis R. Bajao**  
+Bajao, Sir.
+
+**[01:26:57.220] Rep. Joel R. Chua**  
+Bajao? May Ipirecognize, Mr. Chair. Ipirecognize.
+
+**[01:27:00.140] Maj. Gen. Adonis R. Bajao**  
+Your Honor, it's a Philippine Army-wide program, a three-day activity po.
+
+**[01:27:06.350] Rep. Romeo M. Acop**  
+It's an activity included in the budget of the Armed Forces of the Philippines, tama? Yes,
+
+**[01:27:12.170] Maj. Gen. Adonis R. Bajao**  
+Your Honor.
+
+**[01:27:12.630] Rep. Romeo M. Acop**  
+It's one of the PPAs insofar as your budget is concerned.
+
+**[01:27:17.290] Maj. Gen. Adonis R. Bajao**  
+Yes, Sir.
+
+**[01:27:18.010] Rep. Romeo M. Acop**  
+So in other words, when you conduct these events, You do not need the help of other agencies or the funding of other agencies.
+
+**[01:27:27.690] Maj. Gen. Adonis R. Bajao**  
+I would disagree with that, Your Honor, because we can only spend for our own troops, but the need of other participants and the subject matter experts have to be carried by participating agencies. What
+
+**[01:27:45.840] Rep. Romeo M. Acop**  
+is the legal basis why the program of the Armed Forces of the Philippines is participated on by other agencies of government. What is the legal basis?
+
+**[01:28:00.610] Maj. Gen. Adonis R. Bajao**  
+Your Honor, we just operate in the context of the Peace and Order Councils. Our participation in the POC would also reflect on the participation of other agencies when we conduct this activity, sir.
+
+**[01:28:16.770] Rep. Romeo M. Acop**  
+Direct question, Nalan General. Did you receive any funds from the confidential funds of the OVP in the conduct of these events?
+
+**[01:28:26.710] Maj. Gen. Adonis R. Bajao**  
+No, sir.
+
+**[01:28:27.350] Rep. Romeo M. Acop**  
+No.
+
+**[01:28:27.950] Maj. Gen. Adonis R. Bajao**  
+No, sir.
+
+**[01:28:29.030] Rep. Romeo M. Acop**  
+There's no funds coming from, there are no funds coming from the Office of the Vice President. Yes, sir. No funds coming from them. Thank you.
+
+**[01:28:42.080] Rep. Romeo M. Acop**  
+May I ask Yusek Mempin?
+
+**[01:28:49.590] Nolasco A. Mempin**  
+Yes, sir.
+
+**[01:28:50.410] Rep. Joel R. Chua**  
+Yusek Mempin, you are recognized.
+
+**[01:28:52.490] Rep. Romeo M. Acop**  
+Why would certifications be addressed to you?
+
+**[01:28:59.170] Nolasco A. Mempin**  
+Your Honor, Mr. Chair, as I mentioned a while ago, I was asked by the Office of the Secretary to get a report from the Office of the Secretary.
+
+**[01:29:20.210] Nolasco A. Mempin**  
+And
+
+**[01:29:20.810] Rep. Romeo M. Acop**  
+who in the Office of the Secretary asked you that?
+
+**[01:29:25.880] Rep. Romeo M. Acop**  
+Hindi namang pwedeng magsalita yung office of the secretary, di po ba? So there must be somebody from the office of the secretary who asked you to do that. And may I know who that is?
+
+**[01:29:37.440] Nolasco A. Mempin**  
+It's our former chief of staff.
+
+**[01:29:41.100] Rep. Romeo M. Acop**  
+And who might that be?
+
+**[01:29:45.980] Rep. Romeo M. Acop**  
+And who might that be?
+
+**[01:29:47.920] Nolasco A. Mempin**  
+Former USEC attorney Mike Powa po, sir. The
+
+**[01:29:52.260] Rep. Romeo M. Acop**  
+USEC Powa? Would you agree to the answer of the USEC MP?
+
+**[01:30:00.000] Atty. Michael Wesley Poa**  
+Mr. Chair, Congressman Acop, yes, I confirm that. That you
+
+**[01:30:05.580] Rep. Romeo M. Acop**  
+asked him to ask for the certifications from the different unit commanders of the Philippine Army?
+
+**[01:30:12.960] Atty. Michael Wesley Poa**  
+If I may explain, Your Honor, the answer is yes.
+
+**[01:30:17.580] Rep. Romeo M. Acop**  
+Yes po.
+
+**[01:30:20.660] Rep. Romeo M. Acop**  
+So
+
+**[01:30:21.260] Rep. Romeo M. Acop**  
+tama yung sagot sa akin ni
+
+**[01:30:27.840] Rep. Romeo M. Acop**  
+Yusec Memphian,
+
+**[01:30:28.840] Rep. Romeo M. Acop**  
+na
+
+**[01:30:29.480] Rep. Romeo M. Acop**  
+kayo po ang humingi sa kanya.
+
+**[01:30:31.480] Atty. Reynaldo Robles**  
+Your Honor, I request the technical to pause because I have a question or two for the witness.
+
+**[01:30:38.760] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, counsel.
+
+**[01:30:40.160] Atty. Reynaldo Robles**  
+Thank you, Your Honor. Colonel, narinig niyo po yung usapan dun sa naging hearing. Yes, sir.
+
+**[01:30:45.660] Atty. Reynaldo Robles**  
+In your case, sino po ang humingi nung certification?
+
+**[01:30:51.320] Col. Manaros M. Boransing II**  
+I was directed by our then commander. of the 1st Infantry Tabac Division, Major General Viray, to draft the certification. He was called by USEC Undersecretary, Med Pincer.
+
+**[01:31:09.670] Atty. Reynaldo Robles**  
+So more or less tama po yung pinag-usapan dito? Yes, sir.
+
+**[01:31:12.450] Atty. Reynaldo Robles**  
+It's according to what you experienced? Yes, sir. Okay. So can we proceed with the playing of the video?
+
+**[01:31:17.810] Sen. Francis "Chiz" G. Escudero**  
+How many more
+
+**[01:31:18.190] Sen. Francis "Chiz" G. Escudero**  
+minutes is that, counsel?
+
+**[01:31:19.530] Atty. Reynaldo Robles**  
+About 3 or 4 minutes, Your Honor. Proceed.
+
+**[01:31:26.860] Rep. Romeo M. Acop**  
+na humingi siya ng certification doon sa mga units ng Philippine Army na nag-conduct ng YLS.
+
+**[01:31:36.340] Atty. Michael Wesley Poa**  
+Your Honor, if I may qualify, hindi po specifically on YLS. What I asked for was for any accomplishment kasi po yung ayon doon sa AOM na natanggap namin. Pag nagbigay daw po ng rewards, you needed evidence of success of the information you received from the rewards. I mean, you received through the giving out of rewards. So, because of this, I coordinated with Usec Mempin to provide any proof of accomplishment para po doon sa rewards na na-disburse ng confidential funds.
+
+**[01:32:19.950] Rep. Romeo M. Acop**  
+Thank you. May I ask, you have been in the Army, Yosec Menfin, di ba?
+
+**[01:32:26.010] Nolasco A. Mempin**  
+Yes, Your Honor, Mr. Chair. Ano po ang part ng
+
+**[01:32:28.990] Rep. Romeo M. Acop**  
+programang wireless na may kasamang rewards?
+
+**[01:32:40.260] Nolasco A. Mempin**  
+Could
+
+**[01:32:40.860] Rep. Romeo M. Acop**  
+you please tell me which part of that program would require the giving or the awarding of rewards?
+
+**[01:32:49.010] Rep. Romeo M. Acop**  
+Which part of the program would require
+
+**[01:32:53.870] Rep. Romeo M. Acop**  
+the gathering of information. Kasi yun po yung purpose ng confidential fund ng DepEd. Apat po yun.
+
+**[01:33:05.570] Rep. Romeo M. Acop**  
+Now, which part of this?
+
+**[01:33:09.050] Nolasco A. Mempin**  
+Your Honor, Mr. Chair, for the conduct of YLF per se, there's no... in that particular, any areas of that for the rewards, giving of rewards, Your Honor, Mr. Chair.
+
+**[01:33:22.470] Rep. Romeo M. Acop**  
+Basahin ko man ng ilang beses yung programa na yun, walang nagsasabi doon na pwedeng gamitin yung confidential fund ng isang agency. Would you agree with me?
+
+**[01:33:37.900] Nolasco A. Mempin**  
+Yes, Your Honor, Mr. Chair.
+
+**[01:33:39.640] Rep. Romeo M. Acop**  
+Yes. So, Yosef Pua, mali po yun.
+
+**[01:33:45.610] Rep. Romeo M. Acop**  
+Kasi kitang-kita naman na natin eh, that you asked for these documents to support your liquidation insofar as the Confidential Fund of the Department of Education is concerned.
+
+**[01:33:57.980] Rep. Romeo M. Acop**  
+Kasi hindi naman kaya basically primordial nakasama doon po sa mga events na iyon eh. And yet, you are submitting or you submitted to COA documents to support your liquidation of the Confidential Fund of the Department of Education. Wala eh. Kahit na anong basa ko.
+
+**[01:34:22.010] Rep. Romeo M. Acop**  
+Kasi, for your information, Yosef Powa, naging controller ako ng pulis eh. Kaya alam ko kung ano ang sinasabi nitong mga membro ng Philippine Army ngayon eh.
+
+**[01:34:35.930] Rep. Romeo M. Acop**  
+Alam ko rin na ginagamit nyo lang yun para i-justify yung expenditure nyo ng confidential fund ng Department of Education.
+
+**[01:34:49.140] Sen. Francis "Chiz" G. Escudero**  
+Counsel, can you already pause it here?
+
+**[01:34:52.130] Atty. Reynaldo Robles**  
+to justify. Attorney Ray. Your Honor, just one minute more, Your Honor.
+
+**[01:34:57.750] Sen. Francis "Chiz" G. Escudero**  
+This
+
+**[01:34:58.190] Sen. Francis "Chiz" G. Escudero**  
+is already Congressman Acop speaking.
+
+**[01:35:01.090] Atty. Reynaldo Robles**  
+Yes, Your Honor. There was an answer. I don't want to end it here because if I remember, there is a response from USEC POA and I don't want to cut it here because makasabihin po nila pinuputol ko yung sagot niya.
+
+**[01:35:15.220] Sen. Francis "Chiz" G. Escudero**  
+Mag-object na nga si Attorney Lindon. Anyway,
+
+**[01:35:18.080] Atty. Reynaldo Robles**  
+Your Honor, I can end it here.
+
+**[01:35:19.760] Sen. Francis "Chiz" G. Escudero**  
+End it here, counsel. You can present this part when you call or after you call Attorney Poa, if you want.
+
+**[01:35:26.600] Atty. Reynaldo Robles**  
+Well, Your Honor, I don't know what the objection of counsel would be but we can address it because the only reason that these are not accepted as proof of the truth is if the respondent will have no opportunity to present the witness to correct, Your Honor. These are senior personnel of the DepEd. They are senior aides. And they were making public statements under oath, Your Honor.
+
+**[01:35:54.360] Sen. Francis "Chiz" G. Escudero**  
+Yes, counsel. But we are dealing with Colonel Boransing here.
+
+**[01:35:58.940] Sen. Francis "Chiz" G. Escudero**  
+He has no relation anymore to the statements of the late Congressman.
+
+**[01:36:02.940] Atty. Reynaldo Robles**  
+I was just going to ask him in relation to the explanation given by DepEd, in relation to the certification issue, Your Honor.
+
+**[01:36:10.720] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, counsel. I think he has heard enough in relation to that.
+
+**[01:36:13.820] Atty. Reynaldo Robles**  
+Sige
+
+**[01:36:14.060] Atty. Reynaldo Robles**  
+po. Ang pagkaka, kung nakapanood niyo po, Colonel, ang paliwanag po noong USEC ng DepEd na sinasabi niya na hiningan daw po sila ng certification, nagkaroon ng AOM, hiningan sila ng proof ng success noong paggastos nila ng reward at naisip daw niya yung certification nyo kasi nakalagay doon na may coordination ng DepEd, baka daw po sakaling nagamit yun at yun ang naging nabigay sa inyo yung information dahil sa kanilang confidential information, confidential operation, at yun ang dahilan kung bakit niya in-attach yung certification doon sa sagot sa AOM.
+
+**[01:37:01.980] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, can the prosecution be directed to just ask the question?
+
+**[01:37:08.640] Sen. Francis "Chiz" G. Escudero**  
+Kindly simplify the question, counsel. I know where you're getting at. Ask the question directly.
+
+**[01:37:12.800] Atty. Reynaldo Robles**  
+Sige po. I'll just... Okay. Let me just ask a few preliminary questions before I ask our ultimate question, Your Honor. Colonel, para lang po sa kaalaman ng lahat, tanong ko lang po, ano po yung area ng operations ng 1st Infantry Division?
+
+**[01:37:34.540] Col. Manaros M. Boransing II**  
+Currently, sir, or 2023, sir?
+
+**[01:37:37.240] Atty. Reynaldo Robles**  
+Yung pong 2023?
+
+**[01:37:38.820] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:37:41.530] Col. Manaros M. Boransing II**  
+The area of operation of the 1st Infantry Division during 2023 are the provinces of Lanao del Norte, Lanao del Sur, Zamboanga del Sur, Zamboanga del Norte, Zamboanga Sibugay, Misamis Occidental, and parts of Misamis Oriental, Sir.
+
+**[01:38:11.100] Atty. Reynaldo Robles**  
+I understand that's called Zamboanga Peninsula?
+
+**[01:38:13.860] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:38:14.780] Atty. Reynaldo Robles**  
+Ngano po katagal na kayong naka-station dyan, yung unit niyo?
+
+**[01:38:19.000] Col. Manaros M. Boransing II**  
+I couldn't, I'd have to look at the historical records for the specific date but I think the 1st Infantry Division transferred there after I think late 70s or early 80s, sir.
+
+**[01:38:35.500] Atty. Reynaldo Robles**  
+So
+
+**[01:38:35.760] Atty. Reynaldo Robles**  
+dekada na po?
+
+**[01:38:37.420] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:38:38.020] Atty. Reynaldo Robles**  
+Tama po ba?
+
+**[01:38:38.720] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:38:39.240] Atty. Reynaldo Robles**  
+So, siguro kung late 70s or 80s, mga 50 years?
+
+**[01:38:45.590] Atty. Reynaldo Robles**  
+So you
+
+**[01:38:48.570] Atty. Reynaldo Robles**  
+have been embedded there for 50 years. Ang tanong ko po, kung mayroon pong ahensya ng gobyerno na magko-conduct ng intelligence or confidential information sa area of operations nyo, ano po ba yung karaniwang SOP?
+
+**[01:39:10.130] Col. Manaros M. Boransing II**  
+May I clarify sir, SOP of the army or the police?
+
+**[01:39:13.830] Atty. Reynaldo Robles**  
+Ano po yung SOP na ginagawa ng mga ahensya ng gobyerno? Lalong pag sila ay magko-conduct ng intelligence or confidential information sa area ng kagaya niyong army unit.
+
+**[01:39:32.710] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. Speculative, incompetent.
+
+**[01:39:35.900] Atty. Reynaldo Robles**  
+No, Your Honor, I'm just asking about this standard operating procedure, Your Honor.
+
+**[01:39:40.440] Atty. Reynaldo Robles**  
+The witness is supposed to know, Your Honor.
+
+**[01:39:42.740] Atty. Lindon Miguel C. Bacquel**  
+The prosecution is asking the SOP of other agencies, Your Honor.
+
+**[01:39:47.320] Atty. Reynaldo Robles**  
+No, I'm asking the supposed SOP of other agencies.
+
+**[01:39:53.160] Sen. Francis "Chiz" G. Escudero**  
+What
+
+**[01:39:53.680] Sen. Francis "Chiz" G. Escudero**  
+are you leading at counsel? Still in relation to the document being submitted as part of DepEd's liquidation?
+
+**[01:40:00.680] Atty. Reynaldo Robles**  
+Yes, Your Honor. In relation to the explanation given by the DepEd during the hearing on 17 October 2024.
+
+**[01:40:13.550] Sen. Francis "Chiz" G. Escudero**  
+With the indulgence of counsels. Colonel Boransing, sinumiti po, sinimuti po ng DepEd bilang bahagi ng sagot nila sa AOM, yung certification na pinirmahan po ninyo, maliban doon sa ibang certifications na in-stipulate kanina, bilang patunay na naging matagumpay yung kanilang confidential operations. Una, nalalaman niyo po ba yan?
+
+**[01:40:44.330] Col. Manaros M. Boransing II**  
+No, sir. I am not an intelligence officer, sir. So, I'm not privy to any intelligence officers.
+
+**[01:40:52.670] Sen. Francis "Chiz" G. Escudero**  
+Pangalawa. Binanggit nyo po kanina na walang binigay at wala kayong tinanggap na pera mula sa DepEd. Wala rin binigay na pera ang DepEd sa AFP o sa 1st Infantry "Tabak" Division o sa unit ninyo. Tama po ba?
+
+**[01:41:04.160] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:41:04.900] Sen. Francis "Chiz" G. Escudero**  
+But would you know if DepEd spent on that activity on their own people because you collaborated with DepEd on that activity? Would you know? Sabi nyo kanina kasi KKB eh.
+
+**[01:41:16.320] Col. Manaros M. Boransing II**  
+Yes, sir. What I know is they arrived there. They were there during the youth leadership summits and traveling, as I know in the government, entails expenses and permission to leave the post, sir.
+
+**[01:41:30.990] Sen. Francis "Chiz" G. Escudero**  
+Alam niyo ba na confidential funds ang ginastos para dun sa expenses na iyon o hindi pa?
+
+**[01:41:35.950] Col. Manaros M. Boransing II**  
+I have no knowledge about the source of funds, sir.
+
+**[01:41:38.650] Sen. Francis "Chiz" G. Escudero**  
+So you can confirm that no money was given to the AFP or any of its units or...
+
+**[01:41:46.860] Sen. Francis "Chiz" G. Escudero**  
+anyone for anyone in your unit but that DepEd must have spent money on the activities.
+
+**[01:41:53.450] Col. Manaros M. Boransing II**  
+I can only speak for the 1st Infantry "Tabak" Division Philippine Army, sir. No funds were downloaded to our specific unit, sir.
+
+**[01:42:02.890] Sen. Francis "Chiz" G. Escudero**  
+But it is very possible that DepEd spent on the YLS and the IECs.
+
+**[01:42:08.250] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:42:10.170] Sen. Francis "Chiz" G. Escudero**  
+Final question. Did you spend intelligence or confidential funds for these activities on the part of the AFP?
+
+**[01:42:18.100] Sen. Francis "Chiz" G. Escudero**  
+Or
+
+**[01:42:18.620] Sen. Francis "Chiz" G. Escudero**  
+was this part of your regular programming, as you said earlier, chargeable against your regular budget?
+
+**[01:42:23.790] Col. Manaros M. Boransing II**  
+It's part of the regular budget, sir. But if I may explain, sir, so that the...
+
+**[01:42:28.590] Sen. Francis "Chiz" G. Escudero**  
+You may, sir.
+
+**[01:42:29.950] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:42:31.050] Col. Manaros M. Boransing II**  
+The conduct of the Youth Leadership Summit is part of the campaign, sir. So it involves civil-military operations, combat operations, and intelligence operations. Although I cannot comment about the intelligence operations, sir, but they are interlinked and mutually supporting. So, all Army and AFP operations are intelligence-driven, sir.
+
+**[01:42:56.990] Sen. Francis "Chiz" G. Escudero**  
+So, it's possible that intelligence funds were spent by the AFP in regard or in relation to these activities?
+
+**[01:43:04.850] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:43:05.800] Sen. Francis "Chiz" G. Escudero**  
+Your witness, counsel.
+
+**[01:43:07.320] Atty. Reynaldo Robles**  
+Thank you, Your Honor.
+
+**[01:43:07.920] Sen. Francis "Chiz" G. Escudero**  
+You may proceed
+
+**[01:43:08.340] Sen. Francis "Chiz" G. Escudero**  
+from there.
+
+**[01:43:09.870] Atty. Reynaldo Robles**  
+Ang tanong ko po, balikan ko lang po yung tanong. Di po ba kanina nasabi nyo na ilang dekada na po kayo dyan sa Zamboanga Peninsula?
+
+**[01:43:24.260] Atty. Reynaldo Robles**  
+Ang tanong ko lamang po kung merong ahensya ng gobyerno na magkoconduct ng intelligence or confidential information sa area ninyo, meron po bang SOP na dapat sundan?
+
+**[01:43:42.350] Atty. Lindon Miguel C. Bacquel**  
+Vague, Your Honor.
+
+**[01:43:46.230] Atty. Lindon Miguel C. Bacquel**  
+Vague, incompetent.
+
+**[01:43:48.500] Sen. Francis "Chiz" G. Escudero**  
+What's your response, Atty. Rey, to the objection?
+
+**[01:43:51.340] Atty. Reynaldo Robles**  
+Your Honor, it's a simple question, Your Honor. If there is an SOP followed by military units.
+
+**[01:44:00.800] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, the witness already mentioned that he is not an intelligence officer. I'm not talking about...
+
+**[01:44:06.060] Sen. Francis "Chiz" G. Escudero**  
+If he knows, counsel, if he knows. If he doesn't, then let that be his response. Colonel Boransing, you may answer, sir.
+
+**[01:44:11.700] Col. Manaros M. Boransing II**  
+Thank you, Your Honor. I... I wouldn't know, sir, because, again, sir, I'm not an intelligence officer. I'm
+
+**[01:44:17.860] Col. Manaros M. Boransing II**  
+a civil-military officer.
+
+**[01:44:20.000] Atty. Reynaldo Robles**  
+May coordination po bang ginawa yung DepEd noong umano'y nag-conduct sila ng intelligence or confidential information noong 2023 sa area ninyo?
+
+**[01:44:31.060] Atty. Lindon Miguel C. Bacquel**  
+Pleading, Your Honor.
+
+**[01:44:32.920] Sen. Francis "Chiz" G. Escudero**  
+Reform counsel.
+
+**[01:44:35.310] Atty. Reynaldo Robles**  
+So, meron po bang SOP pag magko-conduct ng operations sa area ng isang Kagayan yung division ng Army.
+
+**[01:44:47.790] Atty. Lindon Miguel C. Bacquel**  
+Leading, leading, Your Honor, as you've answered.
+
+**[01:44:51.780] Atty. Lindon Miguel C. Bacquel**  
+So, what
+
+**[01:44:53.540] Atty. Reynaldo Robles**  
+is the SOP, sir?
+
+**[01:44:53.960] Sen. Francis "Chiz" G. Escudero**  
+Just to get over the hump, counsel, please reform. What is the
+
+**[01:44:57.940] Atty. Reynaldo Robles**  
+SOP, sir? As you've answered, Your Honor. Wala pang sagot, sir.
+
+**[01:45:02.650] Sen. Francis "Chiz" G. Escudero**  
+I'll allow it, counsel. Again, just to get over this hump.
+
+**[01:45:05.950] Atty. Reynaldo Robles**  
+Yes, sir. Thank you, Your Honor.
+
+**[01:45:09.210] Col. Manaros M. Boransing II**  
+I don't know, sir.
+
+**[01:45:11.760] Col. Manaros M. Boransing II**  
+It's not my field of expertise, sir. Again, I'm an infantry operations officer and a civil-military operations officer. It's a completely different field, sir.
+
+**[01:45:20.300] Atty. Reynaldo Robles**  
+We submit, sir. We will move on to another point.
+
+**[01:45:26.300] Sen. Francis "Chiz" G. Escudero**  
+Is there a chance you will finish your direct, counsel, before lunch?
+
+**[01:45:30.640] Atty. Reynaldo Robles**  
+I'll try to finish, Your Honor.
+
+**[01:45:32.560] Sen. Francis "Chiz" G. Escudero**  
+Kindly do so. Kindly try to do so without pressuring you, counsel.
+
+**[01:45:35.540] Atty. Reynaldo Robles**  
+I have several pages...
+
+**[01:45:37.170] Sen. Francis "Chiz" G. Escudero**  
+Please proceed
+
+**[01:46:04.300] Atty. Reynaldo Robles**  
+Sabi po kanina noong Usec ng DepEd. Kaya daw po niya isinama yung certification nyo doon sa kanilang sagot sa AOM ay baka dakaw sakali doon sa information na ipinrovide ng DepEd ay galing sa confidential operations. Kaya niya ginamit yung certification niya. Ngayon, ito po yung tanong ko.
+
+**[01:46:36.390] Atty. Reynaldo Robles**  
+Sino po sa DepEd? or related parties, ang nag-relay sa, o anong informasyon ang binigay nila sa inyo patungkol doon?
+
+**[01:46:49.840] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. The question is premised on hearsay, Your Honor. No, it's hearsay.
+
+**[01:46:56.060] Atty. Reynaldo Robles**  
+It's not hearsay, Your Honor. They're claiming that to be the fact, Your Honor. I'm just asking him if that is the fact, did they receive any information and from whom?
+
+**[01:47:05.410] Atty. Lindon Miguel C. Bacquel**  
+Hearsay, Your Honor, and misleading, Your Honor.
+
+**[01:47:07.620] Sen. Francis "Chiz" G. Escudero**  
+Counsel, I even doubt if Colonel Boransing would understand or... Let's see, Colonel Boransing, do you understand the question? Can you answer?
+
+**[01:47:18.160] Col. Manaros M. Boransing II**  
+I was about to ask clarifications.
+
+**[01:47:21.160] Sen. Francis "Chiz" G. Escudero**  
+That was uh, I would have sustained on that. Kindly clarify your question, counsel.
+
+**[01:47:26.380] Atty. Reynaldo Robles**  
+Sino po sa DepEd ang nag-relay ng information sa inyo tungkol umano sa kanilang confidential information?
+
+**[01:47:41.810] Atty. Reynaldo Robles**  
+Na nakuha nila para daw sabihan kayo kung saan at kailan dapat niyong ganapin yung YLS at IEC activities niyo.
+
+**[01:47:53.890] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. No basis, compound, misleading.
+
+**[01:47:58.590] Atty. Reynaldo Robles**  
+There's basis, Your Honor, because that's the claim.
+
+**[01:48:00.870] Sen. Francis "Chiz" G. Escudero**  
+I would have to sustain, counsel, for being compound. And again, The witness might have difficulty answering the question. Kindly simplify your question.
+
+**[01:48:14.340] Atty. Reynaldo Robles**  
+I will reform the question. Mayroon po ba kayong natanggap o sino po sa DepEd ang nagbigay ng information sa inyo tungkol sa kung saan dapat nyo i-conduct yung inyong YLS at IEC operations?
+
+**[01:48:33.950] Atty. Lindon Miguel C. Bacquel**  
+Same objection, Your Honor. No basis, Your Honor. Witness has yet been qualified to... answer that question, Your Honor.
+
+**[01:48:39.920] Col. Manaros M. Boransing II**  
+I'm the Civil-Military Operations Chief.
+
+**[01:48:44.220] Sen. Francis "Chiz" G. Escudero**  
+With the counsel's indulgence, Colonel Boransing, sa pagpili po ba ng area kung saan nyo ko-conduct ang YLS at saka IEC, meron bang input ang DepEd kaugnay niyan gamit ang di umano confidential information mula sa kanila o mula sa informants nila? Meron po ba o wala dun sa walong area?
+
+**[01:49:07.070] Col. Manaros M. Boransing II**  
+Sir, in the eight areas, sir, where the Youth Leadership Summit were conducted, sir, there were some inputs from the DepEd, sir, because some of the areas are schools, sir, and many of the participants are students, sir. So definitely, sir, they were involved in the planning and the choosing of the areas, sir.
+
+**[01:49:30.530] Sen. Francis "Chiz" G. Escudero**  
+Sino yung nagbigay po ng inputs? Anong level sa DepEd?
+
+**[01:49:34.270] Col. Manaros M. Boransing II**  
+If I could look at my records, sir.
+
+**[01:49:37.230] Sen. Francis "Chiz" G. Escudero**  
+You can look at your records, sir.
+
+**[01:49:50.570] Sen. Francis "Chiz" G. Escudero**  
+Let's still refer to Lanao del Sur as an example, Colonel Boransing.
+
+**[01:49:54.430] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:49:55.600] Sen. Francis "Chiz" G. Escudero**  
+The one you did in Marawi.
+
+**[01:50:07.810] Sen. Francis "Chiz" G. Escudero**  
+While we're waiting, Attorney Ray, kindly speak closer to the mic so that our TSN people can more accurately get your statements and words.
+
+**[01:50:25.620] Sen. Francis "Chiz" G. Escudero**  
+Yes, Colonel Boransing. Sino po si Deped?
+
+**[01:50:31.800] Col. Manaros M. Boransing II**  
+Your Honor, it's not specified here, the specific name. What's specified here is it was conducted in the municipal gymnasium of Maging Lanao del Sur, sir.
+
+**[01:50:44.220] Sen. Francis "Chiz" G. Escudero**  
+Do you remember if it was a local Deped official in the area or a national Deped official that gave you inputs?
+
+**[01:50:53.280] Col. Manaros M. Boransing II**  
+It's usually the school principal, the superintendent of a particular school district, the regional officers of the DepEd, sir, that we coordinate with.
+
+**[01:51:09.820] Sen. Francis "Chiz" G. Escudero**  
+Usually walang national DepEd official?
+
+**[01:51:14.120] Col. Manaros M. Boransing II**  
+National meeting, sir, from the head office.
+
+**[01:51:17.120] Sen. Francis "Chiz" G. Escudero**  
+From the central office.
+
+**[01:51:19.540] Col. Manaros M. Boransing II**  
+In my experience in 2023, sir, there was none, sir.
+
+**[01:51:23.900] Sen. Francis "Chiz" G. Escudero**  
+Still speaking of your experience in 2023, would you characterize inputs given by DepEd insofar as the conduct of these YLS and IECs to be confidential in nature or the product of confidential activities?
+
+**[01:51:41.350] Col. Manaros M. Boransing II**  
+I cannot comment on if it's a product of a confidential activity, sir, but what they... provided us were more of information on the schools schedules of specific schedules of the school year where the students may be allowed to join the youth leadership summit and of course permission to talk with the students.
+
+**[01:52:05.200] Sen. Francis "Chiz" G. Escudero**  
+Is it possible that some confidential information were obtained and that was the product of the confidential information they contained?
+
+**[01:52:12.520] Col. Manaros M. Boransing II**  
+I have no knowledge about that sir.
+
+**[01:52:15.790] Sen. Francis "Chiz" G. Escudero**  
+Your witness, Attorney Robles.
+
+**[01:52:17.740] Atty. Reynaldo Robles**  
+Thank you, Your Honor. Can I proceed now?
+
+**[01:52:21.640] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, Counsel.
+
+**[01:52:23.500] Atty. Reynaldo Robles**  
+Colonel, yung pong unit niyo, CMO, Civil-Military Operations unit, kayo po yung sabi niyo kanina, ang directang nakatutok sa YLS at IEC activities.
+
+**[01:52:42.840] Atty. Reynaldo Robles**  
+Pag nagko-conduct po kayo ng YLS, at IEC activities. Ano pong operations ang ginagawa ng unit nyo para masigurado na maayos at matiwasay na maida-daos yung activities nyo?
+
+**[01:53:05.300] Col. Manaros M. Boransing II**  
+Yes, sir. I think it's basically organizational in nature. Planning, implementation, after-activity reviews and calling the subject-matter experts, asking permission from the parents and school of the youth, and then making sure that they enjoy themselves while conducting the activities.
+
+**[01:53:29.840] Atty. Reynaldo Robles**  
+Mayroon po bang ibang units ng division nyo na tumutulong para siguraduhin na maayos at mapayapang maidaos yung inyong YLS at IEC activities.
+
+**[01:53:45.870] Atty. Lindon Miguel C. Bacquel**  
+Leading, Your Honor.
+
+**[01:53:47.790] Atty. Reynaldo Robles**  
+Alin pong mga units ng inyong division ang tumutulong para masiguradong mapayapa at maayos na maisagawa ang inyong YLS activities.
+
+**[01:54:00.330] Atty. Lindon Miguel C. Bacquel**  
+Relevance, Your Honor.
+
+**[01:54:02.750] Sen. Francis "Chiz" G. Escudero**  
+Witness may answer. Overruled.
+
+**[01:54:04.220] Col. Manaros M. Boransing II**  
+Yes,
+
+**[01:54:05.000] Col. Manaros M. Boransing II**  
+Sir.
+
+**[01:54:05.220] Col. Manaros M. Boransing II**  
+Thank you, Your Honor, Sir.
+
+**[01:54:06.420] Col. Manaros M. Boransing II**  
+These youth leadership summits are usually conducted in high-threat areas. because these students and out-of-school youth are usually the target of recruitment for violent extremism. And we use the whole of government and whole of society approach to prevent this. So while conducting this, we try to find a safe place in coordination with DepEd and other stakeholders, but definitely it's in an area of a higher threat level. So while we are conducting the Youth Leadership Summit,
+
+**[01:54:42.250] Col. Manaros M. Boransing II**  
+Our infantry units are conducting security operations to ensure that our participants, the activity is not attacked. And of course, the intelligence units also conduct intelligence operations.
+
+**[01:54:58.090] Atty. Reynaldo Robles**  
+So meron po pala kayong intelligence unit, tama po?
+
+**[01:55:01.630] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:55:03.630] Atty. Reynaldo Robles**  
+Ilan pong officers ng inyong infantry division yung tumutulong? sa intelligence operations na ginagawa nyo para matiyak
+
+**[01:55:16.060] Atty. Reynaldo Robles**  
+na
+
+**[01:55:17.030] Atty. Reynaldo Robles**  
+diktas at matagumpay na maisagawa itong YLS at IEC activities ninyo?
+
+**[01:55:27.060] Col. Manaros M. Boransing II**  
+It's case-to-case basis, Sir. Like for instance, Sir, if it's in Lanao del Sur, it involves a lot more troops. Mga,
+
+**[01:55:36.340] Atty. Reynaldo Robles**  
+when you say a lot more troops, gaano po kadami?
+
+**[01:55:40.240] Col. Manaros M. Boransing II**  
+Well, again, sir, it depends on the specific area, sir. If
+
+**[01:55:44.960] Atty. Reynaldo Robles**  
+it's anywhere
+
+**[01:55:46.380] Col. Manaros M. Boransing II**  
+from 100 to 200, sir. It depends on the threat level, sir.
+
+**[01:55:55.970] Atty. Reynaldo Robles**  
+Yes, sir. So, hindi lang naman, tama po ba na sabi niyo, whole of government approach? So, basically, hindi lang po CMO at saka intelligence operatives niyo. Lahat din po ng sundalo nyo are involved. Is that what you're trying to say?
+
+**[01:56:15.330] Atty. Lindon Miguel C. Bacquel**  
+Leading, Your Honor.
+
+**[01:56:17.200] Sen. Francis "Chiz" G. Escudero**  
+Witness, may answer?
+
+**[01:56:17.650] Atty. Reynaldo Robles**  
+When you say who will approach...
+
+**[01:56:20.960] Col. Manaros M. Boransing II**  
+As I earlier said, sir, a army campaign involves mutually supporting efforts, sir. So, from combat operations to civil-military operations and intelligence operations. So, lahat po kasama po, sir.
+
+**[01:56:38.100] Atty. Reynaldo Robles**  
+Considering what you've said, sir,
+
+**[01:56:42.220] Atty. Reynaldo Robles**  
+In the YLS and IEC activities that you've conducted through the years, ano po yung naging risulta as a result of your efforts?
+
+**[01:56:56.240] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[01:56:58.350] Sen. Francis "Chiz" G. Escudero**  
+Witness may answer. They've been doing it for over two decades.
+
+**[01:57:03.070] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:57:05.190] Col. Manaros M. Boransing II**  
+I can only, maybe, let me start with 2023, sir. It involves the certification, sir. in our area of operations, specifically for the...
+
+**[01:57:16.960] Atty. Reynaldo Robles**  
+Colonel, let me just stop you. I'll ask you about 2023 later. But my question is, in the years that you've been conducting the YLS and IEC activities, you said that there were efforts also by CMO and intelligence. Ano po yung nagiging resulta noong pagtutulungan niyo?
+
+**[01:57:42.150] Col. Manaros M. Boransing II**  
+It definitely has prevented our recruitment, sir, at least in my personal experience, sir. A lot of these children, youth, are usually misinformed. And this was during the time of, there was no internet yet or texting. So sometimes we were the only representatives of the government that this, we usually have the Youth Leadership Summit and far-flung areas and when the inter-agency technical working group goes up, it's most of the time the first time that they have seen representatives from the government. So, yeah, it's a big part of why the threat level all over the country has gone down. So,
+
+**[01:58:34.930] Atty. Reynaldo Robles**  
+ano po yung sabi niyo, successful po?
+
+**[01:58:37.960] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:58:39.140] Atty. Reynaldo Robles**  
+Ngayon, ang tanong ko po sa inyo,
+
+**[01:58:42.790] Atty. Reynaldo Robles**  
+Anyway, ang tanong ko po, just an estimate, sir. Ayokong tanong yung exact figures. Ganon po kadaming tao ang strength or number of personnel ng isang division?
+
+**[01:58:54.520] Atty. Lindon Miguel C. Bacquel**  
+Relevance, Your Honor.
+
+**[01:58:55.500] Atty. Reynaldo Robles**  
+We'll show the relevance, Your Honor.
+
+**[01:58:58.430] Sen. Francis "Chiz" G. Escudero**  
+I'll allow it, counsel. Kindly move on, counsel.
+
+**[01:59:02.170] Sen. Francis "Chiz" G. Escudero**  
+Witness may answer.
+
+**[01:59:03.490] Col. Manaros M. Boransing II**  
+Yes, sir. I think it's a public record how many soldiers we have for specific division, but more or less 5,000, sir.
+
+**[01:59:12.900] Atty. Reynaldo Robles**  
+5,000?
+
+**[01:59:13.540] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[01:59:14.060] Atty. Reynaldo Robles**  
+So, ito po yung mga naging kasagutan nyo. Meron po kayong around 5,000 troops in the area, estimate.
+
+**[01:59:25.930] Atty. Reynaldo Robles**  
+Dekada na po kayong naandun. May sarili kayong civilian military operations team. Meron kayong intelligence operatives. At taon-taon ginagawa nyo na ito at sabi nyo ngayon, successful naman. Ang tanong ko po,
+
+**[01:59:48.180] Atty. Reynaldo Robles**  
+anong nangyari noong 2023?
+
+**[01:59:52.460] Atty. Reynaldo Robles**  
+Bakit biglang kailangang gumastos ng confidential funds ang DepEd? para lang matsabi sa inyo
+
+**[02:00:01.720] Atty. Reynaldo Robles**  
+kung
+
+**[02:00:02.660] Atty. Reynaldo Robles**  
+saan nyo dapat gawin iyong inyong YLS at IEC activities, Sir.
+
+**[02:00:12.210] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. Big misleading, no basis, Your Honor.
+
+**[02:00:17.330] Atty. Lindon Miguel C. Bacquel**  
+And witness would be incompetent to answer if indeed, because earlier he said he is not aware if indeed DepEd spent confidential funds or not.
+
+**[02:00:27.800] Sen. Francis "Chiz" G. Escudero**  
+But that DepEd spent for their participants, right, Colonel?
+
+**[02:00:33.920] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[02:00:34.500] Atty. Reynaldo Robles**  
+That's the claim of the DepEd, sir. We're trying to ask him.
+
+**[02:00:40.300] Sen. Francis "Chiz" G. Escudero**  
+Again, the presiding officer sustained the objection on the ground that the witness is incompetent.
+
+**[02:00:47.530] Atty. Reynaldo Robles**  
+Thank you, Your Honor.
+
+**[02:00:48.110] Atty. Reynaldo Robles**  
+We'll just move to
+
+**[02:00:48.910] Atty. Reynaldo Robles**  
+another point, Your Honor. To answer on the supposed claim of the respondent.
+
+**[02:00:52.550] Sen. Francis "Chiz" G. Escudero**  
+Please proceed, counsel. Move on.
+
+**[02:00:58.000] Atty. Reynaldo Robles**  
+Okay. Colonel.
+
+**[02:01:01.370] Atty. Reynaldo Robles**  
+Just right in time. I'll ask my final question, Your Honor. Ngayon pong nalaman niyo na kung saan po ginamit yung certification niyo. Ginamit po sa pagsagot sa AOM ng COA para maipasa yung pinlag na 15.54 million na pinaggamitan daw ng confidential funds at ibinayad sa rewards.
+
+**[02:01:31.920] Atty. Reynaldo Robles**  
+Kung kayo po ay hihingan ng certification ngayon, sa tingin niyo po ba dapat niyong in-issue yan?
+
+**[02:01:38.580] Atty. Lindon Miguel C. Bacquel**  
+Argumentative, Your Honor. Speculative, argumentative.
+
+**[02:01:41.860] Sen. Francis "Chiz" G. Escudero**  
+If it's his final question, counsel, I will allow it. If you know, Colonel Boransing, if you can answer.
+
+**[02:01:53.450] Col. Manaros M. Boransing II**  
+I'd like to clarify.
+
+**[02:01:55.600] Atty. Reynaldo Robles**  
+Yes. Knowing what you know now, that it was used for this purpose, would you have issued it if you were requested to do that?
+
+**[02:02:05.110] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, we register a
+
+**[02:02:08.130] Atty. Lindon Miguel C. Bacquel**  
+continuing objection.
+
+**[02:02:09.750] Sen. Francis "Chiz" G. Escudero**  
+Continuing objection is noted. Witness may answer in the manner he deems fit.
+
+**[02:02:15.880] Col. Manaros M. Boransing II**  
+Yes, sir. As I answered during the congressional hearing and you could check it in YouTube, sir, it's very speculative. It did not happen that I had prior knowledge and it's hard to speculate what I would have done. Yes, sir. So, I can't answer.
+
+**[02:02:33.390] Atty. Reynaldo Robles**  
+That's your answer. So, thank you very much, Colonel. Thank you very much. Thank you.
+
+**[02:02:39.760] Sen. Francis "Chiz" G. Escudero**  
+An appropriate time to pause? Attorney Lindon?
+
+**[02:02:43.880] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor.
+
+**[02:02:44.780] Atty. Reynaldo Robles**  
+Yes, Your Honor.
+
+**[02:02:50.400] Sen. Francis "Chiz" G. Escudero**  
+Let's pause for a lunch break and shall resume at 12.45.
+
+**[02:02:59.810] Sen. Francis "Chiz" G. Escudero**  
+Colonel, you... Kindly take your lunch, sir. Relax. But the admonition and reminder of the chair applies during recess. You can speak to your counsel as long as it is not about what you just testified on and will be testifying on.
+
+**[02:03:12.290] Col. Manaros M. Boransing II**  
+Thank you, Your Honor.
+
+**[02:03:13.290] Sen. Francis "Chiz" G. Escudero**  
+Thank you.
+
+**[02:03:18.530] Sen. Francis "Chiz" G. Escudero**  
+Trial is in recess.
+
+**[02:53:13.580] Sen. Francis "Chiz" G. Escudero**  
+Let us
+
+**[02:53:13.900] Sen. Francis "Chiz" G. Escudero**  
+resume.
+
+**[02:53:17.070] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate Colonel Boransing to the witness stand.
+
+**[02:53:21.810] Sen. Francis "Chiz" G. Escudero**  
+Clerk of Court, Trawasa.
+
+**[02:53:31.340] Sen. Francis "Chiz" G. Escudero**  
+Magandang hapon po muli, Colonel. Magpapatuloy po kayo sa inyong testimonya sa ilalim ng nauna niyo pong panunumpa kaninang umaga. Naunawa niyo po iyon?
+
+**[02:53:41.540] Col. Manaros M. Boransing II**  
+Yes, Your Honor, Sir. Thank you, Sir.
+
+**[02:53:44.400] Sen. Francis "Chiz" G. Escudero**  
+Direct was finished before lunch. We now proceed to the cross-examination by counsel for the respondent, Attorney Lindon. You may proceed, sir, when you're ready.
+
+**[02:53:53.930] Atty. Lindon Miguel C. Bacquel**  
+Nothing to cross-examine, Your Honor.
+
+**[02:53:59.130] Sen. Francis "Chiz" G. Escudero**  
+Given
+
+**[02:54:00.700] Sen. Francis "Chiz" G. Escudero**  
+that there is no cross, we proceed to the interventions of senator-judges. Senator-Judge Tulfo, Erwin, for his interjection. Annika, kindly. And thereafter, Senator-Judge Risa Hontiveros. Aniga, kindly. And then, Senator-Judge Villanueva, kindly write down and then relay it to the chair. Senator-Judge Tulfo, you may proceed. You have two minutes, sir.
+
+**[02:54:24.410] Sen. Erwin Tulfo**  
+Thank you, Mr. Presiding Officer, sir.
+
+**[02:54:28.270] Sen. Erwin Tulfo**  
+Colonel Boransing, kung wala po kayong natanggap na pondo from DepEd o para sa 8 Youth Leadership at sa 53 Information Education Campaign noong 2023, Kaya anong pondo po? Saan kayo kumuha ng budget para dito?
+
+**[02:54:47.370] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[02:54:47.950] Col. Manaros M. Boransing II**  
+Sir, good afternoon, sir. The funds for the army participants, sir, for coordination and other expenses of the army participants to the Youth Leadership Summit is programmed by the army, sir, through its budget, sir.
+
+**[02:55:08.420] Sen. Erwin Tulfo**  
+Pero nasa civil-military operations po kayo di po ba? Tama po ba ito?
+
+**[02:55:12.630] Col. Manaros M. Boransing II**  
+Yes, Your Honor, sir.
+
+**[02:55:13.390] Sen. Erwin Tulfo**  
+Alright. Wala po talaga yung natanggap na kahit na anong suporta, not financially, like yung venue man lang, sinagot ma rin ng DepEd o pagkain o learning modules sa mga events po na ito?
+
+**[02:55:27.790] Col. Manaros M. Boransing II**  
+Sir, some of the venues are schools, sir.
+
+**[02:55:31.870] Sen. Erwin Tulfo**  
+Okay.
+
+**[02:55:32.450] Col. Manaros M. Boransing II**  
+So in that sense, sir, tumulong, sir, and making available some of their subject matter experts, sir.
+
+**[02:55:39.740] Sen. Erwin Tulfo**  
+Okay. Sino po sa DepEd or any ranking officials na nag-request para mag-issue po ang office ninyo na certification patungkol po sa YLS and IEC activities?
+
+**[02:55:52.040] Col. Manaros M. Boransing II**  
+Sir, it was then Undersecretary Mempin, Sir.
+
+**[02:55:56.690] Sen. Erwin Tulfo**  
+Undersecretary na DepEd,
+
+**[02:55:57.870] Sen. Erwin Tulfo**  
+Mempin?
+
+**[02:55:58.470] Col. Manaros M. Boransing II**  
+Yes, Sir, during that time, Sir.
+
+**[02:56:00.010] Sen. Erwin Tulfo**  
+Alam mo ba yung dokumento na pinirmahan mo ay gagamitin sa COA audit para sa liquidation ng DepEd Confidential Fund?
+
+**[02:56:08.970] Col. Manaros M. Boransing II**  
+No, sir. I did not know that, sir.
+
+**[02:56:10.590] Sen. Erwin Tulfo**  
+During that time, you did not know?
+
+**[02:56:11.890] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[02:56:12.330] Sen. Erwin Tulfo**  
+But if you, ika nga, no, na gagamitin yun sa ganun, papipirma ka ba?
+
+**[02:56:20.110] Col. Manaros M. Boransing II**  
+As I earlier said, it's hard to speculate, sir, as what I would have done if I had known, sir, since hindi naman po, sir.
+
+**[02:56:32.970] Sen. Erwin Tulfo**  
+I understand. Nakatanggap po ako ang inyong division o sino mang opisyal. sa inyong dibisyon bilang reward money or monetary incentive from DepEd regarding student profiling or anti-insurgency campaign.
+
+**[02:56:47.020] Col. Manaros M. Boransing II**  
+Sir, we checked sir, wala pong na-release from any government agencies, specifically yung DepEd sir, doon sa 1st Infantry "Tabak" Division, sir.
+
+**[02:56:58.700] Sen. Erwin Tulfo**  
+Okay, one last two questions. Did you clear from your higher authorities in the issuance of the certification for the DepEd's 2023 Confidential Fund allocation? Ito po ba ay sinabi ninyo, nagpaalam kayo?
+
+**[02:57:13.540] Col. Manaros M. Boransing II**  
+Yes, sir. For the issuance of the certificate, sir, it's written there for the commander, sir. So I ask the permission of our commander, sir.
+
+**[02:57:25.200] Sen. Erwin Tulfo**  
+Who
+
+**[02:57:25.760] Sen. Erwin Tulfo**  
+is?
+
+**[02:57:27.040] Col. Manaros M. Boransing II**  
+Our then commander, sir, 2024, sir, first quarter when the certificate was issued was the retired Major General Gabriel C. Viray III, sir.
+
+**[02:57:38.420] Sen. Erwin Tulfo**  
+Did he ask you, para saan ito? Sino humihingi? Did he ask you questions like that?
+
+**[02:57:43.920] Col. Manaros M. Boransing II**  
+He was the one who was, he told me to issue, to write the certification, sir, for DepEd, sir. But there was no reason given, sir.
+
+**[02:57:55.470] Sen. Erwin Tulfo**  
+Would you have any idea kung may mga other civil-military operations units sa AFP or sa Army na hiningan din ang kalintula, the certification and DepEd during that time?
+
+**[02:58:10.210] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[02:58:11.090] Col. Manaros M. Boransing II**  
+I only found out during the hearing in the lower house in Congress, October 17, 2024, that the other officers' presence were also, they also issued the certificate, sir, for their unit, sir.
+
+**[02:58:29.230] Sen. Erwin Tulfo**  
+From the different CMOs?
+
+**[02:58:30.870] Col. Manaros M. Boransing II**  
+From the different infantry divisions, sir.
+
+**[02:58:34.470] Sen. Erwin Tulfo**  
+So, would you happen to know ilan yung infantry divisions na hiningan din ng certifications ng DepEd?
+
+**[02:58:40.410] Col. Manaros M. Boransing II**  
+Sir, as those present during the hearing, sir, from the 5th Infantry Division, sir, Colonel Sangdaan.
+
+**[02:58:49.350] Sen. Erwin Tulfo**  
+Okay.
+
+**[02:58:51.900] Col. Manaros M. Boransing II**  
+7th Infantry Division was Colonel Panopio, who will be the next witness, I think, and Major General Bajao for the 9th Infantry Division, Sir. I only knew because they were also present during the Congressional hearing, Sir.
+
+**[02:59:06.520] Sen. Erwin Tulfo**  
+Okay. So, mga CMOs lahat ito, nasa Civil-Military Operations unit sila?
+
+**[02:59:12.660] Col. Manaros M. Boransing II**  
+Staff, Sir. Staff. We are the General Staff, the Assistant Chief of Staff. for Civil-Military Operations, G7 of Infantry Division, Sir.
+
+**[02:59:24.050] Sen. Erwin Tulfo**  
+Would you happen to know kung nagbigay din sila certifications na they did not receive any funds?
+
+**[02:59:31.210] Col. Manaros M. Boransing II**  
+They issued almost the same certification, Sir, because it was discussed during the Congressional hearing, Sir.
+
+**[02:59:37.970] Sen. Erwin Tulfo**  
+Thank you. I have no more questions, Presiding Officer.
+
+**[02:59:41.630] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Erwin Tulfo. Senator-Judge Risa Hontiveros, you may proceed, ma'am, when you're ready. You have two minutes.
+
+**[02:59:55.800] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Magandang hapon po, Colonel.
+
+**[03:00:00.000] Col. Manaros M. Boransing II**  
+Yes, ma'am.
+
+**[03:00:20.000] Sen. Risa Hontiveros**  
+[unclear] mga dekada at budget ng Army at ng LGUs ang gamit po para doon. Tama po ba?
+
+**[03:00:25.760] Col. Manaros M. Boransing II**  
+Yes, ma'am.
+
+**[03:00:26.520] Sen. Risa Hontiveros**  
+Alright. So, at nagagawa niyo po yan. Nagagawa po yan ng Army kahit walang confidential funds na ginastos para dyan ang DepEd. Tama rin po ba yun?
+
+**[03:00:40.940] Col. Manaros M. Boransing II**  
+I cannot comment on that, Your Honor. I can only say that there were no funds released to the 1st Infantry "Tabak" Division in 2023 from DepEd.
+
+**[03:00:53.720] Sen. Risa Hontiveros**  
+So no funds of whatever source kahit pa confi o intel funds, at least sa pagkaalam ninyo, ay ginastos ng DepEd para dun sa YLS at IEC campaign ng Philippine Army.
+
+**[03:01:07.700] Col. Manaros M. Boransing II**  
+For the 1st Infantry "Tabak" Division, Philippine Army, ma'am.
+
+**[03:01:11.060] Sen. Risa Hontiveros**  
+For your specific division.
+
+**[03:01:12.440] Col. Manaros M. Boransing II**  
+Yes,
+
+**[03:01:12.780] Col. Manaros M. Boransing II**  
+ma'am.
+
+**[03:01:13.060] Sen. Risa Hontiveros**  
+Okay, sir. And then, so lumalabas po dito sa pagpersensya inyo bilang witness na ginamit po ng DepEd ang certification n'yo bilang justification sa kung paano daw ginastos ng department ang kanilang confidential and intelligence funds. Pero kayo po mismo, Colonel, may sinabi ba kayo sa certification ninyo kung magkano, di umano, ang ginastos ng DepEd para dun sa activities ng Philippine Army?
+
+**[03:01:46.870] Col. Manaros M. Boransing II**  
+Your Honor, there was no mention of any funds in the certification that we issued.
+
+**[03:01:53.650] Sen. Risa Hontiveros**  
+So, no mention of funds, whether regular funds or confidential and intelligence funds ng DepEd dun sa certification ninyo.
+
+**[03:02:01.510] Col. Manaros M. Boransing II**  
+Yes,
+
+**[03:02:01.930] Col. Manaros M. Boransing II**  
+ma'am. No mention of any funds in the certification.
+
+**[03:02:04.390] Sen. Risa Hontiveros**  
+Alright. So, bilang signatory po nung inyong certification, pinapatutuhanan nyo ba na tama ang paggamit ng DepEd sa kanilang confidential and intelligence funds?
+
+**[03:02:18.210] Col. Manaros M. Boransing II**  
+No, ma'am. The certification was there.
+
+**[03:02:29.010] Sen. Risa Hontiveros**  
+So
+
+**[03:02:29.690] Sen. Risa Hontiveros**  
+yung certification nyo ay purely tungkol sa participation ng department at iba pang stakeholders. Wala kayong pinatutuhanan doon na gumastos sila ng pondo whether regular or confidential and intelligence funds para doon sa activities ng Philippine Army.
+
+**[03:02:45.170] Col. Manaros M. Boransing II**  
+Yes, ma'am.
+
+**[03:02:46.270] Sen. Risa Hontiveros**  
+And lastly, Colonel, Mr. Presiding Officer, so To confirm lang po, Colonel, wala po kayong nalalaman tungkol sa paano ginastos ng Department of Education ang kanilang confidential and intelligence funds dito sa YLS at IEC campaign activities ng Philippine Army, tama po?
+
+**[03:03:08.730] Col. Manaros M. Boransing II**  
+Yes, Your Honor, I do not have any personal knowledge.
+
+**[03:03:12.930] Sen. Risa Hontiveros**  
+Marami salamat po, Colonel. Marami salamat, Mr. Presiding Officer.
+
+**[03:03:15.930] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Risa Hontiveros. Senator-Judge Villanueva, you may proceed when you're ready. You have two minutes, sir. Thereafter, the Senate President. Thereafter, Senator Lacson.
+
+**[03:03:23.790] Sen. Joel Villanueva**  
+Thank you, Mr. President, Presiding Officer.
+
+**[03:03:28.890] Sen. Joel Villanueva**  
+Colonel, nung hiningan po kayo ng DepEd ng certification, may hiningi po ba sa inyo o meron po kayong hiningi o may alam po kayo na sinabi, ano ang purpose? nitong certification. Bakit kailangan mag-issue ng certification?
+
+**[03:03:46.530] Col. Manaros M. Boransing II**  
+Your Honor, there was no mention of the purpose of the certification, Sir.
+
+**[03:03:52.090] Sen. Joel Villanueva**  
+So when you were asked to give a certification, ano ho yung nasa isip niyong gawin lang?
+
+**[03:04:00.290] Col. Manaros M. Boransing II**  
+Precisely what we issued, Sir, it's a certificate that the activities were conducted and the agencies in the certification did the part to make those activities successful.
+
+**[03:04:23.870] Sen. Joel Villanueva**  
+So ang eksaktong intensyon po ninyo sa pag-issue ng certification ay para lamang sabihin may activities?
+
+**[03:04:32.530] Col. Manaros M. Boransing II**  
+For them, I think We assume that it would be used for their attendance as we issued with the other agencies involved, sir.
+
+**[03:04:49.490] Sen. Joel Villanueva**  
+Sabi niyo po, for attendance, meron po ba kayong tingin niyo, ano po yung limitasyon na inyong nasa isip nung ginawa po ninyo yung inyong certification?
+
+**[03:05:00.210] Col. Manaros M. Boransing II**  
+Limitation, sir?
+
+**[03:05:01.250] Sen. Joel Villanueva**  
+Opo, ano po yung limitasyon ng inyong certification? Gumawa po kayo ng certification, ano po yung mga limitasyon nun? Kasi, Kagaya, inuulit ko lang po yung tanong ko, ma'am.
+
+**[03:05:13.430] Sen. Joel Villanueva**  
+Yung gumawa po kayo ng certification, nasa isip po ninyo, ito lang ang limitasyon yan. Yung pag-attend lang, yung activities na aming gagawin, hindi kasama dyan. Ano-ano yung mga limitasyon na nasa isip nyo nung ginawa nyo yung certification?
+
+**[03:05:32.360] Col. Manaros M. Boransing II**  
+The request was for... the specific agencies to be mentioned in the certificate, sir, and also the number of youth leadership summits and IEC activities conducted and that it resulted to no recruitment in our area of operations, sir.
+
+**[03:05:56.200] Sen. Joel Villanueva**  
+So yun lang po yun. Colonel! Based on your experience as AFP sa civil-military operations, paano niyo po dinidistinguish ang isang regular activity kagaya po ng YLS at IEC from an actual intelligence gathering activity?
+
+**[03:06:17.840] Col. Manaros M. Boransing II**  
+Sir, as earlier said sir, intelligence operations are not my field of expertise so I cannot comment. We are an end user. of intelligence from our various intelligence units.
+
+**[03:06:32.130] Sen. Joel Villanueva**  
+Thank you, sir. So, dito po sa IES at YLS, hindi po kayo kumukuha ng mga information, confidential information, hindi po ba ito nagaganap sa mga ganitong activities?
+
+**[03:06:44.950] Col. Manaros M. Boransing II**  
+It is being conducted, sir. We have what we call as an intelligence preparation of the battlefield. and part of that is identification of possible recruits by violent extremist groups and the areas are identified by our intelligence units of intelligence officers.
+
+**[03:07:08.760] Sen. Joel Villanueva**  
+Again sir, this happens during the activities?
+
+**[03:07:11.440] Col. Manaros M. Boransing II**  
+Before sir.
+
+**[03:07:12.560] Sen. Joel Villanueva**  
+Before, so nothing during the activity?
+
+**[03:07:15.880] Col. Manaros M. Boransing II**  
+Nothing, sir.
+
+**[03:07:16.780] Sen. Joel Villanueva**  
+Okay. So tama po ba na hindi porket ang isang activity ay related to counterinsurgency, ay automatic po na intelligence or confidential activity ito?
+
+**[03:07:28.930] Col. Manaros M. Boransing II**  
+As I earlier said, sir, in army operations, be it counterinsurgency, external security operations, it's all driven by intelligence. If we do not have intelligence, we'll...
+
+**[03:07:44.750] Col. Manaros M. Boransing II**  
+Tagalog po is parang suntok sa buwan po. So the Army and AFP always conducts operations which is intelligence-driven po.
+
+**[03:07:53.150] Sen. Joel Villanueva**  
+Opo. Pero ang pinag-uusapan lang natin dito, Colonel, yung activities. Ito pong IES at YLS.
+
+**[03:07:58.970] Col. Manaros M. Boransing II**  
+Yes, sir. There is intelligence operations involved, sir. Because we have to identify our target audience.
+
+**[03:08:07.150] Sen. Joel Villanueva**  
+Yes, but not during the conduct of activity. Before. Yun yung sabi niyo kanina.
+
+**[03:08:14.060] Col. Manaros M. Boransing II**  
+Yes, sir. The activity itself is leadership summit, sir, with the youth, sir. And there is no intelligence operations when we do the specific activities.
+
+**[03:08:27.140] Sen. Joel Villanueva**  
+Yun po yung gusto kong tumbukin. Salamat po, Colonel. Ang AFP intelligence funds, binabanggit niyo po kanina, medyo gusto kong i-clarify, nagagamit po ba yung intel funds dito sa ganitong activity, IES? YLS.
+
+**[03:08:41.550] Col. Manaros M. Boransing II**  
+Sir, it's not my field of expertise, sir. As I said, I am a end-user of intelligence or information gathered by our intelligence operations.
+
+**[03:08:53.170] Sen. Joel Villanueva**  
+Sa inyo pong pagkakaalam, nabibigyan po ba kayo ng panggastos sa ganitong uri ng aktibidades? Hindi po siguro sa itong mga binanggit po ninyo.
+
+**[03:09:04.690] Col. Manaros M. Boransing II**  
+What is the source of fund?
+
+**[03:09:06.370] Sen. Joel Villanueva**  
+Yes. Opo, yung source of fund.
+
+**[03:09:08.470] Col. Manaros M. Boransing II**  
+We
+
+**[03:09:08.590] Col. Manaros M. Boransing II**  
+have from the Army, sir.
+
+**[03:09:10.480] Sen. Joel Villanueva**  
+Not from the intelligence funds.
+
+**[03:09:13.580] Col. Manaros M. Boransing II**  
+As far as for the civil and military operations po, we do not receive intelligence funds.
+
+**[03:09:18.700] Sen. Joel Villanueva**  
+Especially in these activities. The two activities, the IES and the YLS.
+
+**[03:09:23.820] Col. Manaros M. Boransing II**  
+For our part sir, we do not receive anything.
+
+**[03:09:27.100] Sen. Joel Villanueva**  
+Sir, without disclosing classified or operational details, ordinarily po, ano po ba ang kailangang makita para ma-establish na ang information supplied by a particular informer? actually contributed to the success of a specific information gathering or surveillance activity? Kagaya po nito, bago niyo gawin, ano po yung kailangang makita para ma-establish?
+
+**[03:09:51.710] Col. Manaros M. Boransing II**  
+To answer the first question po, Your Honor, I am not competent to answer because intelligence is not my field of expertise. What we do receive from our intelligence units is intelligence with regards to which or who among the youth which are probably going to be recruited by the violent extremist groups. I
+
+**[03:10:20.720] Sen. Joel Villanueva**  
+will wind up, Mr. President. Yung certification na in-issue nyo, naniniwala kayo, should not be used doon po sa ginawa na pag...
+
+**[03:10:33.990] Sen. Joel Villanueva**  
+support doon sa paggamit ng intelligence funds. Naniniwala po kayo?
+
+**[03:10:38.450] Col. Manaros M. Boransing II**  
+I do not have any opinion about that, sir. I just issued the certification, sir.
+
+**[03:10:44.490] Sen. Joel Villanueva**  
+So, would a standard certification stating only that youth leadership summit or IEC was successfully conducted by itself establish that connection between the informer, the information supplied? the successful activity and the reward supposedly paid.
+
+**[03:11:04.080] Col. Manaros M. Boransing II**  
+Again, sir, I am not an intelligence officer. I cannot answer.
+
+**[03:11:09.980] Sen. Francis "Chiz" G. Escudero**  
+Thank
+
+**[03:11:10.500] Sen. Joel Villanueva**  
+you. Thank you, Your Honor. Thank you.
+
+**[03:11:11.860] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Villanueva. Our distinguished Senate President followed by, forgive me, Senator Lacson, Senator Rafi Tulfo, then Senator Lacson, then Senator Aquino. The Senate President is recognized. You have two
+
+**[03:11:24.900] Sen. Sherwin T. Gatchalian**  
+minutes, sir. Thank you very much, Mr. Presiding Officer. Magandang hapon na, Colonel. Colonel, anong klaseng... This is for the YLS tsaka IEC dito sa dalawang activities ninyo. Anong klaseng confidential information ang binigay sa inyo ng DepEd para maisagawa itong dalawang activities?
+
+**[03:11:48.090] Col. Manaros M. Boransing II**  
+Good afternoon, sir. Your Honor, I... Again sir, I cannot answer sir this because I am not an intelligence officer.
+
+**[03:11:56.140] Sen. Sherwin T. Gatchalian**  
+Pero may binigay ba ang DepEd na confidential or surveillance information in relation to these two activities sa inyo?
+
+**[03:12:04.040] Col. Manaros M. Boransing II**  
+Sir, I am an infantry and civil military operations officer po. Kung meron pong darating na intelligence, hindi po binibigay sa amin. Whatever intelligence from other agencies or ano, it has to be processed by our intelligence units po before maibigay po sa amin na end user po.
+
+**[03:12:24.120] Sen. Sherwin T. Gatchalian**  
+Pero kasi narinig ko kanina partner niyo ang DepEd, di ba? Yes,
+
+**[03:12:27.980] Col. Manaros M. Boransing II**  
+sir.
+
+**[03:12:28.280] Sen. Sherwin T. Gatchalian**  
+So, and this is in relation to their confidential funds. So ang gusto kong malaman, sa pagsasagawa nitong dalawang activities, meron bang sinusupply sa inyong surveillance information, confidential information para mabuo itong dalawang activities sa inyo mismo?
+
+**[03:12:44.100] Col. Manaros M. Boransing II**  
+For the 1st Infantry (Tabak) Division, sir, no, sir.
+
+**[03:12:47.940] Sen. Sherwin T. Gatchalian**  
+Wala silang binibigay confidential or surveillance information.
+
+**[03:12:51.840] Col. Manaros M. Boransing II**  
+No, sir. What they give are open source information about their students. I mean, who are the potential leaders that can undergo the Youth Leadership Summit.
+
+**[03:13:08.420] Col. Manaros M. Boransing II**  
+school is available or good for the conduct.
+
+**[03:13:11.860] Sen. Sherwin T. Gatchalian**  
+Actually, that's my next question. Anong klaseng, kung wala silang binibigay confidential information, anong klaseng information ang binibigay sa inyo ng DepEd para magawa itong dalawang activities?
+
+**[03:13:22.640] Col. Manaros M. Boransing II**  
+Yes, sir. They're a very crucial part in the Youth Leadership Summit, Your Honor, since although not all the target audience are in school, some or more than half are out of school youth.
+
+**[03:13:37.030] Col. Manaros M. Boransing II**  
+They are the ones who know the students. They spend more time with the students than even us, their parents. And they play a very big role in telling us who among them have the potential for leadership in their community.
+
+**[03:13:56.250] Sen. Sherwin T. Gatchalian**  
+But in your professional analysis, are these considered confidential information or surveillance information?
+
+**[03:14:05.270] Col. Manaros M. Boransing II**  
+Not intelligence officer, sir. I cannot correctly answer you. I'm not a subject matter expert on that, sir.
+
+**[03:14:12.470] Sen. Sherwin T. Gatchalian**  
+I heard kanina sa sagot niyo kay Senator Joel na pag pumipili kayo ng lugar, you also use intelligence from the AFP. Tama po ba? Yes,
+
+**[03:14:23.790] Col. Manaros M. Boransing II**  
+sir.
+
+**[03:14:24.210] Sen. Sherwin T. Gatchalian**  
+And sa mga huling itong YLS niyo at IEC, when you choose... Mga locations, kasi crucial na locations. Ang gamit nyo rin ay intelligence galing sa AFP, galing sa military.
+
+**[03:14:40.380] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[03:14:41.320] Sen. Sherwin T. Gatchalian**  
+Tama. And this enables you to identify ano yung mga crucial na school. Tama po ba? Ganun ba yung procedure ninyo?
+
+**[03:14:48.380] Col. Manaros M. Boransing II**  
+Yes, sir. And of course, the primary criteria is the safety of the students, the youth, so the venue. wherever it is, has to be safe from attacks and other
+
+**[03:15:01.400] Sen. Sherwin T. Gatchalian**  
+things. In your past experience, kasi matagal na ito, narinig ko 2002, meron bang sinusupply ang DepEd na confidential information, surveillance information, para magsagawa ng ganitong activity, itong dalawang activity ninyo?
+
+**[03:15:18.720] Col. Manaros M. Boransing II**  
+Again sir, I cannot answer. In
+
+**[03:15:21.200] Sen. Sherwin T. Gatchalian**  
+the past? I
+
+**[03:15:22.880] Col. Manaros M. Boransing II**  
+have never, throughout my
+
+**[03:15:29.780] Col. Manaros M. Boransing II**  
+32 years of service. I have never been an intelligence officer, sir, so I am not part of the intelligence structure of the AFP.
+
+**[03:15:37.940] Sen. Sherwin T. Gatchalian**  
+But in organizing these two events, in the past, this is prior to 2022-2023, in the past, pag nag-organize nyo itong YLS at itong IEC, may binibigay bang DepEd na Ito confidential information, surveillance information so that you will know how to organize or go about itong dalawang activities in the past.
+
+**[03:16:02.880] Col. Manaros M. Boransing II**  
+Sa inyo po
+
+**[03:16:05.460] Sen. Sherwin T. Gatchalian**  
+kasi kayo yung in charge of these activities.
+
+**[03:16:24.020] Col. Manaros M. Boransing II**  
+your question,
+
+**[03:16:25.000] Sen. Francis "Chiz" G. Escudero**  
+sir. Thank
+
+**[03:16:25.480] Sen. Sherwin T. Gatchalian**  
+you, Mr. President, Officer.
+
+**[03:16:27.360] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senate President Gatchalian. Senator-Judge Raffy Tulfo is recognized. You have two minutes, sir. You may proceed when you're ready.
+
+**[03:16:40.860] Sen. Raffy T. Tulfo**  
+Thank you, President, Officer. Tanong ko muna sa prosecution kung pwede. My first question. Ah, pwede siya, no? Luistro na lang. Muna.
+
+**[03:16:48.980] Sen. Francis "Chiz" G. Escudero**  
+The Honorable Luistro is recognized as requested by Senator-Judge Rafi Tulfo.
+
+**[03:17:04.900] Sen. Raffy T. Tulfo**  
+Good afternoon, Your Honor. Good afternoon, Cong. Luistro. Yung 15.5 million something na confidential funds na binigay rewards para dun sa DepEd sa YLS, was that in form of cash or medicine?
+
+**[03:17:23.200] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+We
+
+**[03:17:25.450] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+believe, Your Honor, that that is in payment of rewards.
+
+**[03:17:30.490] Sen. Raffy T. Tulfo**  
+Kaya nga, cash or medicine? Kasi yun sa OVP. No
+
+**[03:17:33.950] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+indication, Your Honor, whether it is cash or in the form of medicine.
+
+**[03:17:37.890] Sen. Raffy T. Tulfo**  
+Okay, thank you. Okay, Mr. Witness.
+
+**[03:17:42.670] Sen. Raffy T. Tulfo**  
+Is it possible na baka yung binigay na reward sa mga informant ay ng sinasabi ng DepEd ay mga operatiba nyo rin?
+
+**[03:17:53.770] Col. Manaros M. Boransing II**  
+Good afternoon, sir. Your Honor, I would not have any knowledge about that, sir. Again, I am not an intelligence officer, sir.
+
+**[03:18:02.230] Sen. Raffy T. Tulfo**  
+In case that happened, is it legal or illegal na bibili yung DepEd ng intelligence information from your people?
+
+**[03:18:12.420] Col. Manaros M. Boransing II**  
+I would not know, sir. I'm not an expert on intelligence officer, sir. Or the rules governing, the legal rules governing the gathering of information, sir.
+
+**[03:18:26.500] Sen. Raffy T. Tulfo**  
+The reason why I ask that, kasi kung medicine ang binigay na reward money tulad ng sa OVP para sa intel information, eh tatanungin ko sana, kumusta naman yung mga medical benefits nyo sa military?
+
+**[03:18:41.180] Col. Manaros M. Boransing II**  
+To that question, sir. In general.
+
+**[03:18:44.460] Col. Manaros M. Boransing II**  
+We are
+
+**[03:18:44.960] Col. Manaros M. Boransing II**  
+covered by PhilHealth, sir. Kung battle casualties po, sir, wounded, the Army has program for it po. Sagot lahat ng Army po.
+
+**[03:18:54.760] Sen. Raffy T. Tulfo**  
+Ibig sabihin lahat ng gamot libre?
+
+**[03:18:56.600] Col. Manaros M. Boransing II**  
+If you are wounded po, sir. Kung may sakit po, if you are sick but it's work-related po, job-related po, mayroon pong reimbursement po.
+
+**[03:19:08.990] Sen. Raffy T. Tulfo**  
+Pag hindi job-related?
+
+**[03:19:10.650] Col. Manaros M. Boransing II**  
+I mean, usually sir, 24 hours naman po yung sundalo.
+
+**[03:19:16.970] Col. Manaros M. Boransing II**  
+Usually, pag magkasakit po kami, work-related po sir.
+
+**[03:19:20.830] Sen. Raffy T. Tulfo**  
+Okay, thank you. Before 2022, ano po ang role ng DepEd sa pagkakandak ng Youth Leadership Summit?
+
+**[03:19:29.270] Col. Manaros M. Boransing II**  
+They are, in my experience sir, if I may sir, they are... A core group of the interagency technical working group because precisely yung youth po, yung target audience po namin are under their, most of the year is under their jurisdiction or in their schools po.
+
+**[03:19:51.160] Sen. Raffy T. Tulfo**  
+So before 2022, yung input ba ng DepEd sa YLS program is confidential in nature na?
+
+**[03:19:58.740] Col. Manaros M. Boransing II**  
+Again, sir, I cannot comment on that, sir, since I am not an intelligence officer and I am not privy to those information, sir.
+
+**[03:20:07.100] Sen. Raffy T. Tulfo**  
+Okay. Yung pag-secure ninyo doon sa YLS, kasama na ba doon ay pag-secure ng mga VIP or pag-secure kay VP Sara kung siya ba'y
+
+**[03:20:18.380] Sen. Raffy T. Tulfo**  
+atin? At umaten ba siya? Umaten ba siya sa mga YLS? For
+
+**[03:20:21.740] Col. Manaros M. Boransing II**  
+the 1st Infantry (Tabak) Division Youth Leadership Summit for 2023 po, sir, Wala po, Sir. Hindi po nag-attend si Vice President, Sir.
+
+**[03:20:34.230] Sen. Raffy T. Tulfo**  
+So doon sa mga insidente na halimbawa siya ma-attend, kasama na ba doon sa trabaho ninyo na i-secure siya kasama sa intel activities niyo to make sure na maging safe siya at walang puwedeng gumawa sa kanya at walang untowards incident na mangyari?
+
+**[03:20:48.990] Col. Manaros M. Boransing II**  
+I couldn't comment on that, Sir, since hindi po siya nakapunta doon sa Youth Leadership Summit.
+
+**[03:20:56.185] Sen. Raffy T. Tulfo**  
+No, in case
+
+**[03:20:57.100] Sen. Raffy T. Tulfo**  
+na pupunta siya at alam niyo pupunta siya, kasama na ba doon sa trabaho ninyo na to make sure na siya ay secured at lahat ng mga estudyante na magdadalo ay secured at walang mangyaring
+
+**[03:21:07.020] Sen. Raffy T. Tulfo**  
+untoward incident?
+
+**[03:21:07.920] Col. Manaros M. Boransing II**  
+Sir, again, sir, I cannot comment on that, sir, since nasa civil-military operations po ako, sir. But if, so far...
+
+**[03:21:15.000] Sen. Raffy T. Tulfo**  
+No, general question
+
+**[03:21:16.480] Sen. Raffy T. Tulfo**  
+to eh.
+
+**[03:21:16.940] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[03:21:20.940] Col. Manaros M. Boransing II**  
+Like, for instance, sir, nasa...
+
+**[03:21:41.640] Col. Manaros M. Boransing II**  
+Pwede mag
+
+**[03:21:42.600] Sen. Raffy T. Tulfo**  
+-request siya o
+
+**[03:21:43.300] Sen. Raffy T. Tulfo**  
+hindi kasama na dun sa pupuntahan niya eventual na YLS para masiguro na hindi lang siya pati mga estudyante, gumagamit kaya ng intel ninyo. na walang mangyaring untoward incident, walang pupunta mga terorista.
+
+**[03:21:55.850] Col. Manaros M. Boransing II**  
+I couldn't comment, sir, since hindi po siya nag-visit sa any of the unit's activities. Geez!
+
+**[03:22:01.970] Sen. Raffy T. Tulfo**  
+Ang tanong ko lang, sir, kasama
+
+**[03:22:04.130] Sen. Raffy T. Tulfo**  
+sa trabaho niyo, ita-execute lahat ng BIP, lalo pag BP ang pupunta, di ba? Masiguro na safe siya
+
+**[03:22:09.870] Sen. Raffy T. Tulfo**  
+doon sa venue.
+
+**[03:22:11.720] Col. Manaros M. Boransing II**  
+I can't comment, sir, because hindi po nangyari, sir. Pangalawa, sir, is we provide security primarily for the students po, sir. For the students.
+
+**[03:22:19.370] Sen. Raffy T. Tulfo**  
+Ah,
+
+**[03:22:19.770] Col. Manaros M. Boransing II**  
+hindi
+
+**[03:22:19.970] Sen. Raffy T. Tulfo**  
+nyo na kasama sa trabaho ninyo na para ma-secure siya, para kasama na nyo ng mga security niya, ng mga intel officers niya, tama? Siguro.
+
+**[03:22:36.860] Col. Manaros M. Boransing II**  
+Can I
+
+**[03:22:37.360] Col. Manaros M. Boransing II**  
+be answered? Sorry, sir. What we secure, sir, since this Youth Leadership Summit activities are conducted in areas which have a high threat level, we secure the route going to and from and the activity site and even the activity site itself. So if there is anybody, we make sure that not only VIPs but all po participants and sino pong pupunta mag-attend sir are secure sir. So if it happens to be a VIP, then kasama na po sila sa security po.
+
+**[03:23:12.440] Sen. Raffy T. Tulfo**  
+Yun ang tanong ko. Salamat po sa tat-sagot ngayon. Now,
+
+**[03:23:17.170] Sen. Raffy T. Tulfo**  
+Sinasabi niyo na never kayo nakatanggap ng confi funds from DepEd para sa mga YLS activities ninyo. Isa na lang ito. Natanong. And then I'll wrap up. Sige. Never kayo nakatanggap.
+
+**[03:23:32.130] Col. Manaros M. Boransing II**  
+Yes, sir. For the year 2023, which is the period cited in the certification, sir.
+
+**[03:23:39.250] Sen. Raffy T. Tulfo**  
+Now, nung humingi sa inyo ng certification, Para dun sa AOM ng DepEd, tinanong ka kanina kung anong reaction nyo. Ano ulit yung sagot nyo? Wala kang reaction.
+
+**[03:23:51.300] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[03:23:52.240] Sen. Raffy T. Tulfo**  
+Pero, did you at least, or any from you in the military saying, bakit nyo kayo may dinamit yan? Ba't kayo humingi ng certification? Eh, yung certification na yan na gamit yung tuloy kami, samantalang wala namang kinalaman kami dyan sa Confifans yung wala, hindi naman kami tumanggap.
+
+**[03:24:09.780] Sen. Raffy T. Tulfo**  
+Why did you do that?
+
+**[03:24:11.510] Col. Manaros M. Boransing II**  
+For me, personally, sir, I had no reaction, sir. We were preoccupied with very important security matters in our area of operations, sir.
+
+**[03:24:24.320] Sen. Raffy T. Tulfo**  
+Thank you, that's all. Thank you. Thank you, Senator-Judge
+
+**[03:24:27.060] Sen. Francis "Chiz" G. Escudero**  
+Rafi Tulfo. Senator-Judge Lacson is recognized. You may proceed, sir, when you're ready. You have two minutes. Thank
+
+**[03:24:32.720] Sen. Panfilo “Ping” M. Lacson**  
+you, sir, Presiding Officer. You belong to PMA Class 1998. Yes, sir. So, Dr. Nuncabalier. Yes, sir. For clarity, being the assistant chief of staff or CMO of the 1st Infantry (Tabak) Division, you are not in a position to know kung meron talagang na-release na confidential or intelligence funds from DepEd or any civilian agency for that matter sa 1st Infantry Division?
+
+**[03:25:04.860] Col. Manaros M. Boransing II**  
+Yes, sir. During the hearing of the 2024, October 17, 2024, we checked if any, usually if there are funds transferred, it's agency to agency, sir. And there were no records, sir.
+
+**[03:25:17.870] Sen. Panfilo “Ping” M. Lacson**  
+That brings me to my next question. Kung meron mang na-release na fund, hindi sa iyo ma-release, but through the Assistant Chief of Staff or Intelligence? Yes, sir. Or even directly to the Commanding General of the 1st Infantry Division? I'm not
+
+**[03:25:33.780] Col. Manaros M. Boransing II**  
+an expert.
+
+**[03:25:35.380] Sen. Panfilo “Ping” M. Lacson**  
+Kaya nga, you
+
+**[03:25:36.120] Sen. Panfilo “Ping” M. Lacson**  
+wouldn't know. Yes, sir. That's my question.
+
+**[03:25:38.320] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[03:25:38.940] Sen. Panfilo “Ping” M. Lacson**  
+So, as far as I'm concerned, I don't think you're a competent witness here, aside or save for the certification that you issued.
+
+**[03:25:48.180] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[03:25:48.960] Sen. Panfilo “Ping” M. Lacson**  
+Ito mong certification, sarili mong wordings ito? Ikaw mismo yung nag-craft?
+
+**[03:25:53.980] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[03:25:56.100] Sen. Panfilo “Ping” M. Lacson**  
+Kasi ang napansin ko lang ditong relevant, yung nag-certify ka,
+
+**[03:26:01.290] Sen. Panfilo “Ping” M. Lacson**  
+which resulted in zero reported CTG, which is a statement of fact, di ba? Wala nangyari. Yes, sir. Alam mo ba na nag-certify ka na gagamitin liquidating instrument ito para sa confidential fund?
+
+**[03:26:13.870] Col. Manaros M. Boransing II**  
+No,
+
+**[03:26:14.130] Col. Manaros M. Boransing II**  
+sir.
+
+**[03:26:14.690] Sen. Panfilo “Ping” M. Lacson**  
+You're not aware?
+
+**[03:26:15.790] Col. Manaros M. Boransing II**  
+No, Your Honor. Thank
+
+**[03:26:16.830] Sen. Panfilo “Ping” M. Lacson**  
+you, Mr. Presiding Officer.
+
+**[03:26:18.350] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Lacson. Senator-Judge Aquino is recognized. You have two minutes, sir. You may proceed when you're ready.
+
+**[03:26:27.050] Sen. Paolo Benigno “Bam” Aquino**  
+Marami salamat. Marami po sa mga tanong ko, natanong na rin ng mga kasama ko. Ito lang po yung natitira.
+
+**[03:26:34.190] Sen. Paolo Benigno “Bam” Aquino**  
+Colonel, magkano po yung event? Yung YLS?
+
+**[03:26:40.790] Col. Manaros M. Boransing II**  
+Sir, good afternoon, sir. I assume you're asking about how much the army budgets for each YLS? It depends, sir. There is like for instance, per record, yung sa Lanao del Sur na YLS is 60,000. Meron pong 30,000. per activity po, sir.
+
+**[03:27:02.170] Sen. Paolo Benigno “Bam” Aquino**  
+Pesos?
+
+**[03:27:02.790] Col. Manaros M. Boransing II**  
+Yes,
+
+**[03:27:03.210] Col. Manaros M. Boransing II**  
+sir. It depends on the unit. Usually, it's the infantry battalion, our most tactical unit, who does the programming. So, he submits a request of the activity and how
+
+**[03:27:18.050] Sen. Paolo Benigno “Bam” Aquino**  
+many. Colonel, if I may cut you lang, yung 8 na YLS na pinag-uusapan natin, magkano po yung total nun? Kahit estimate po.
+
+**[03:27:29.640] Col. Manaros M. Boransing II**  
+I have the records in my cellphone, sir. But basing, I think for the Army, it's around 30,000 per activity.
+
+**[03:27:39.940] Sen. Paolo Benigno “Bam” Aquino**  
+Pesos? Yes,
+
+**[03:27:40.880] Col. Manaros M. Boransing II**  
+sir.
+
+**[03:27:41.160] Sen. Paolo Benigno “Bam” Aquino**  
+So hindi ho lalampas ng 500,000 pesos yung dinasusunod po sa YLS?
+
+**[03:27:45.820] Col. Manaros M. Boransing II**  
+No, sir. It's more for coordinations.
+
+**[03:27:49.980] Col. Manaros M. Boransing II**  
+Karamihan po, sir, is representation ang account code niya, sir.
+
+**[03:27:53.020] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. But yung ibang ahensya, ano po yung kanilang counterpart? So may pakain ba ito? Meron bang logistics na minibigay dun sa mga bata? Transportation allowance?
+
+**[03:28:03.990] Col. Manaros M. Boransing II**  
+Your Honor, for the local government units, for the participants, yung youth po, they provide the meals, they provide t-shirts, parang uniform nila during that time, and some...
+
+**[03:28:22.250] Col. Manaros M. Boransing II**  
+funds for team building the activities, Sir.
+
+**[03:28:24.850] Sen. Paolo Benigno “Bam” Aquino**  
+Hindi nyo na po alam kung magkano yung ginastos dyan?
+
+**[03:28:27.010] Col. Manaros M. Boransing II**  
+Hindi po, Sir. Okay. So
+
+**[03:28:28.690] Sen. Paolo Benigno “Bam” Aquino**  
+ang pinakamalaking gastos would be the LGU. Tama po ba yan?
+
+**[03:28:31.950] Col. Manaros M. Boransing II**  
+Yes, Sir.
+
+**[03:28:32.670] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. And then kayo po, coordination lang, so hindi lalampas ng 50 mil. Yung DepEd po, ano yung kanilang gastos po dyan? Apart from the confidential funds na pinag-uusapan po natin.
+
+**[03:28:44.250] Col. Manaros M. Boransing II**  
+Hindi po ako... I really don't know po sir how much they spend.
+
+**[03:28:50.200] Sen. Paolo Benigno “Bam” Aquino**  
+Let me rephrase, ano yung activities po ng DepEd? For
+
+**[03:28:53.040] Col. Manaros M. Boransing II**  
+coordination sir, then the use sometimes of their facility, and they provide subject matter experts on specific topics po.
+
+**[03:29:02.760] Sen. Paolo Benigno “Bam” Aquino**  
+Honorarium po siguro yun? Naggastos siguro? O libre po yun?
+
+**[03:29:06.140] Col. Manaros M. Boransing II**  
+Hindi po ako, hindi ko po alam sir.
+
+**[03:29:08.360] Sen. Paolo Benigno “Bam” Aquino**  
+Okay, so in short, yung Army, ang ginagastos dito, Less than 50,000, around 50,000 pesos. Just a rough
+
+**[03:29:16.050] Col. Manaros M. Boransing II**  
+estimate, sir.
+
+**[03:29:16.790] Sen. Paolo Benigno “Bam” Aquino**  
+Yung LGU po, pakain, for about 60 youth, tama po ba? Ano yung pinakamaraming kabataan? Ah, 500.
+
+**[03:29:24.430] Col. Manaros M. Boransing II**  
+That's the total of 8 YLS activities, sir.
+
+**[03:29:28.710] Sen. Paolo Benigno “Bam” Aquino**  
+So, for one activity, it's about... 70? 60 to 70?
+
+**[03:29:31.880] Col. Manaros M. Boransing II**  
+Meron pong minsan 30, minsan is more than 100. It depends on what level they are. YLS for provincial, regional level, and municipal level, sir.
+
+**[03:29:43.960] Sen. Paolo Benigno “Bam” Aquino**  
+Okay, so sabihin mo nang tag-300 per head yung mga bata, yung transportation at pagkain, another 30-40,000. Kayo po, another 50,000. Siguro po, per event, malaki na siguro yung... 100,000 o 150,000. Estimate ko po ito. Would you agree with me? Hindi ko
+
+**[03:30:05.960] Col. Manaros M. Boransing II**  
+pa talaga alam sir kasi hindi namin nakita po yung the budget or the expenses of the other agencies, sir.
+
+**[03:30:13.400] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. But definitely for the Army, 60,000 malaki.
+
+**[03:30:17.700] Col. Manaros M. Boransing II**  
+Yes, sir. One activity in Lana del Sur was budgeted for 60,000.
+
+**[03:30:22.800] Sen. Paolo Benigno “Bam” Aquino**  
+Leo kayo nagtaka na 15 million yung ginastos para sa information? for events that don't cost more than maybe 200,000, 150,000 to 200,000 per event?
+
+**[03:30:34.250] Col. Manaros M. Boransing II**  
+I did not know the amount or that there was any funds by the DepEd po, Sir.
+
+**[03:30:42.070] Sen. Paolo Benigno “Bam” Aquino**  
+Nalaman niyo po, noong sa hearing,
+
+**[03:30:43.610] Col. Manaros M. Boransing II**  
+nabanggit na.
+
+**[03:30:44.470] Col. Manaros M. Boransing II**  
+October 17 po. But it was in between, we were called in the middle of a long
+
+**[03:30:56.060] Col. Manaros M. Boransing II**  
+series of hearings po, sir. So it was the information that was being medyo ng information overload po kami.
+
+**[03:31:06.240] Sen. Paolo Benigno “Bam” Aquino**  
+Siguro po, Colonel, let me ask you po right now. More or less, alam naman po natin yung gastos per event. Hindi yan naabot ng 1 million. Hindi yan naabot ng 500,000. At ngayon po, yung informasyon na 15 million po ang ginastos para sa purchase of information. for surveillance to secure the event. Ano pong reaction niyo po right now? Now that hindi na po kayo na information overload, pwede niyo na pong isipin, no? Meron mo ba kayong reaction dito?
+
+**[03:31:37.020] Col. Manaros M. Boransing II**  
+Well, sir, I, as an active member of the Armed Forces, I do not think I should react. The impeachment court is still ongoing, sir. As the presiding officer said, the COA decision is not yet final. And it, I think it is not appropriate for an active member of the armed forces to give his opinion on such a political issue po.
+
+**[03:32:03.310] Sen. Paolo Benigno “Bam” Aquino**  
+We'll give you leeway, Colonel, because you're serving our country. Pero kadalasan po kasi ang hinahanap ko rin kung ano yung natural na reaction ng mga individual na may mga gantong paratang, na may mga gantong lumalabas na informasyon. Kasi yung natural na reaction, yun yung magsasabi kung meron ba talagang tinatago o wala. Kung mas natural yung reaction, ibig sabihin walang tinatago. Kung hindi natural yung reaction, eh dun ho siguro parang may question. But in your case, because you're an active officer, I will not press you on that anymore.
+
+**[03:32:38.030] Sen. Paolo Benigno “Bam” Aquino**  
+Sige po, yun lang po, Mr. Presiding Officer.
+
+**[03:32:39.990] Sen. Francis "Chiz" G. Escudero**  
+Maraming salamat.
+
+**[03:32:50.510] Sen. Francis "Chiz" G. Escudero**  
+The clerk is instructed to kindly inform Colonel Panopio that he is up next.
+
+**[03:32:56.940] Sen. Francis “Kiko” Pangilinan**  
+Good afternoon, Colonel. Magandang hapon.
+
+**[03:33:02.450] Sen. Francis “Kiko” Pangilinan**  
+Yung isang taon na nagkaroon ng YLS at education campaign, info education campaign, meron bang coordination between your office and the DepEd security officer Nolasco? No,
+
+**[03:33:19.390] Col. Manaros M. Boransing II**  
+sir.
+
+**[03:33:19.730] Sen. Francis “Kiko” Pangilinan**  
+Wala. Was there any coordination between your office and the DepEd in relation to the gathering of confidential information for the YLS and the IEC?
+
+**[03:33:31.620] Col. Manaros M. Boransing II**  
+No, sir. Okay.
+
+**[03:33:34.150] Sen. Francis “Kiko” Pangilinan**  
+You were the one who certified, you prepared the certification that was submitted by DepEd in order to liquidate the use of its confidential funds.
+
+**[03:33:48.380] Sen. Francis “Kiko” Pangilinan**  
+Yun yung mga testimonya earlier. In issuing the certification, however, as you have testified, your certification does not in any way cover the use of the DepEd Confidential Funds.
+
+**[03:34:07.760] Col. Manaros M. Boransing II**  
+Yes, sir. The certification does not mention any fund support, fund release, or anything about funds, sir.
+
+**[03:34:17.030] Sen. Francis “Kiko” Pangilinan**  
+Yes, but it was submitted by the DepEd to liquidate as part of its liquidation of the use of confidential funds. At least that's what you've learned after in the hearings.
+
+**[03:34:31.130] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[03:34:31.650] Sen. Francis “Kiko” Pangilinan**  
+Okay. Nabanggit mo rin kanina na yung coordination ng office ninyo sa DepEd sa regional, provincial, and up to the district level and up to, diba?
+
+**[03:34:44.570] Sen. Francis “Kiko” Pangilinan**  
+Tama.
+
+**[03:34:45.430] Sen. Francis “Kiko” Pangilinan**  
+And... Tungkol, ang usapin po ninyo ay tungkol sa schedule of classes. Tama po ba? Consent ng parents doon sa participation ng mga bata. You said that earlier.
+
+**[03:34:58.690] Col. Manaros M. Boransing II**  
+Yes, sir. Among others, sir, there are also some YLS that we use, we ask permission for them to use their classrooms when they do not have any classroom.
+
+**[03:35:11.750] Sen. Francis “Kiko” Pangilinan**  
+So, in other words, as you have Again, you were the one who certified as to the success of these events. And yet, the information that was or the inputs that was provided you by DepEd are really not, I mean, like you said, open source. Hindi naman siya confidential information. Hindi po ba?
+
+**[03:35:35.340] Col. Manaros M. Boransing II**  
+Yes, sir. Yes, sir.
+
+**[03:35:37.660] Sen. Francis “Kiko” Pangilinan**  
+Yes, okay.
+
+**[03:35:40.020] Sen. Francis “Kiko” Pangilinan**  
+So, would you say that And I share the, not in a pejorative or demeaning way, but I share the point raised earlier by Senator Lacson that you would have actually been not the right person to certify on confidential funds for liquidation by the DepEd. I mean, you don't have the information necessary to identify how the confidential funds were spent. hindi po ba?
+
+**[03:36:11.490] Col. Manaros M. Boransing II**  
+I'm not an intelligence officer, sir, so I'm not the expert to do so.
+
+**[03:36:17.810] Sen. Francis "Chiz" G. Escudero**  
+Yes, thank you. No further questions. Thank you, Senator Judge Raffi. Before Senator Judge Raffi, Senator Migs would like to avail of his first round. With the indulgence of Senator Zubiri, Senator Raffi, with this question.
+
+**[03:36:32.560] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir.
+
+**[03:36:37.270] Sen. Raffy T. Tulfo**  
+Mr. President and officers, sa prosecution na lang, kahit na sino sa inyo, puwedeng sagutin yung tanong ko.
+
+**[03:36:42.310] Sen. Francis "Chiz" G. Escudero**  
+Attorney Ray, would you like to... Take a crack at it? Yes, Your Honor, if I can. Go
+
+**[03:36:47.020] Sen. Raffy T. Tulfo**  
+ahead, sir. Doon po sa 15.5 million confidential pagginamit para sa mga YLS, paano na liquidation, paano na dispersion, yung ba para sa pagbayad sa reward money sa mga informants?
+
+**[03:37:03.500] Atty. Reynaldo Robles**  
+Yung sa mga ARs po na sinubmit, lumalabas po na binigay nila ng rewards, tapos nung hiningan po sila ng Proof of success, ito po yung mga certification na ibinigay nila.
+
+**[03:37:19.740] Sen. Raffy T. Tulfo**  
+So yung 15.5 lahat yung para reward money? Opo. Ilan tao at magkano bawat isang tao? Hindi
+
+**[03:37:26.000] Atty. Reynaldo Robles**  
+ko po masabi ngayon pero madami po supposedly.
+
+**[03:37:29.660] Sen. Raffy T. Tulfo**  
+So maraming tao and then again mga aliases. Ah walang binigay kayo ng alias ano?
+
+**[03:37:39.850] Atty. Reynaldo Robles**  
+May mga acknowledgement receipts naman po, pero kasama po ito dun sa pinag-uusapan natin na may mga pangalan na unusual.
+
+**[03:37:49.530] Sen. Raffy T. Tulfo**  
+O nga pangalan na unusual. So ibig sabihin, again, itong 15.5, walang mga safe houses dito, walang mga gamit, basta puro reward
+
+**[03:37:57.530] Atty. Reynaldo Robles**  
+money lang.
+
+**[03:37:57.670] Atty. Reynaldo Robles**  
+Ito po para sa rewards lang. Iba pa po yung sa safe house, iba pa po yung purchase. So
+
+**[03:38:03.210] Sen. Raffy T. Tulfo**  
+puro reward money lang ito
+
+**[03:38:04.830] Atty. Reynaldo Robles**  
+sa napakaraming
+
+**[03:38:06.530] Sen. Raffy T. Tulfo**  
+tao at ilan sa mga pangalan doon ay unusual. Yung mga names.
+
+**[03:38:10.320] Atty. Reynaldo Robles**  
+Opo, para lang po yun sa first and second quarter. Pwede ko ba
+
+**[03:38:13.480] Sen. Raffy T. Tulfo**  
+magbigay ng couple of examples? Magkano halimbawa isang informant?
+
+**[03:38:17.140] Atty. Reynaldo Robles**  
+Ang nakalagay po sa pagkakaalala ko, 200,000, 100,000. Baut informant. Normally po, mga dun sa range na yun. Thank you, Mr. President.
+
+**[03:38:28.960] Sen. Raffy T. Tulfo**  
+Thank you, Senator Migs. Thank you.
+
+**[03:38:31.160] Sen. Francis "Chiz" G. Escudero**  
+Senator Zabiri is recognized. You may proceed, sir. You have two minutes when you're ready.
+
+**[03:38:36.780] Sen. Juan Miguel “Migz” F. Zubiri**  
+Thank you, Mr. Presiding Officer. Mine is not, I will not ask any questions to witness. Mine is just to state a manifestation. Thank you for your service, sir. Maraming salamat sa inyong serbisyo sa inyong bayan. And thank you for answering us here with honesty and candor. Aboy po, sir. Thank you very much, sir.
+
+**[03:38:54.410] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Briefly, from the preside, yes, Senator-Judge Erwin Tulfo. Thank you, sir.
+
+**[03:39:01.230] Sen. Panfilo “Ping” M. Lacson**  
+First interjection by second round.
+
+**[03:39:04.240] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir, when you're ready.
+
+**[03:39:06.430] Sen. Erwin Tulfo**  
+Thank you, Mr. Presiding Officer. Mr. Witness, Colonel Boransing, narinig ko po, graduate po kayo ng PMA, Class 98, ano po?
+
+**[03:39:16.570] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[03:39:17.330] Sen. Erwin Tulfo**  
+Alright. Ano po ang assignment niyo when you joined, or when you, as second lieutenant, ano po ang assignment ninyo?
+
+**[03:39:28.710] Col. Manaros M. Boransing II**  
+I was assigned to the 57th Infantry Battalion in Maguindanao in 1998, sir.
+
+**[03:39:34.030] Sen. Erwin Tulfo**  
+So, nasa operations po kayo?
+
+**[03:39:36.790] Col. Manaros M. Boransing II**  
+Yes, I am an infantry officer, sir.
+
+**[03:39:39.850] Sen. Erwin Tulfo**  
+Wala po bang basic na training pag infantry officer ka sa mga intelligence gathering, sir? Meron din naman kahit pa paano? Yes, sir.
+
+**[03:39:51.960] Col. Manaros M. Boransing II**  
+Meron po, sir. Yes, sir.
+
+**[03:39:53.300] Sen. Erwin Tulfo**  
+Hindi ka ba na-assign as intelligence officer through your career from second lieutenant to full colonel? Hindi ka ba na-assign sa intelligence sa G2 or S2? Yung mga ganun. Di ba kasi G2 yata intelligence, sir?
+
+**[03:40:10.240] Col. Manaros M. Boransing II**  
+No po, sir. I'm purely operations and civil-military operations officer.
+
+**[03:40:14.240] Sen. Erwin Tulfo**  
+So, sa mga G3 ka. Pero meron po kayo kahit papano background, kahit sa academy siguro, I believe, naturuan din kayo ng mga intelligence gathering, dissemination, intelligence information, dissemination, tama po ba yan?
+
+**[03:40:28.080] Col. Manaros M. Boransing II**  
+Yes, sir. It's more of combat intelligence. As an infantry officer, you're trained to... the basics of combat intelligence.
+
+**[03:40:36.600] Sen. Erwin Tulfo**  
+Kasi medyo naguguluhan lang po sabi niyo wala ho kayong background sa intelligence but then I'm sure as a military officer required po kayo na katpapano lalang infantry officer you have to have a intelligence background katpapano po.
+
+**[03:40:50.200] Col. Manaros M. Boransing II**  
+Yes sir. Naguluhan
+
+**[03:40:51.420] Sen. Erwin Tulfo**  
+lang po ako. I'm
+
+**[03:40:52.300] Col. Manaros M. Boransing II**  
+sorry. Correct
+
+**[03:40:52.780] Sen. Erwin Tulfo**  
+me if I'm wrong.
+
+**[03:40:53.700] Col. Manaros M. Boransing II**  
+Yes sir. But our intelligence units po sir there is a specialized
+
+**[03:41:00.060] Col. Manaros M. Boransing II**  
+Apo, sir, military intelligence po, sir. They are the ones in charge and I think Senator Lacson is very familiar with it. Sa amin po, sir, as infantry operations is basic lang po na combat intelligence.
+
+**[03:41:12.880] Col. Manaros M. Boransing II**  
+Pag
+
+**[03:41:13.320] Col. Manaros M. Boransing II**  
+may makita ka, malalaman mo ba ang kalaban yan or hindi, sir? Pag saan po yung maganda na approach pag meron kang pupuntahan, sir? But with regards to intelligence operations, sir, may specialized units po tayo and specialized officers for that. Pero
+
+**[03:41:29.710] Sen. Erwin Tulfo**  
+you can differentiate kung yung information na natanggap mo, intelligence information, kung ito po ba ay may value o walang value. You know that, right? Meron kasi. Basic training po as an officer. Tama po ba?
+
+**[03:41:44.860] Col. Manaros M. Boransing II**  
+Hindi rin po sir. It depends on what level sir. Because we have what we call as an intelligence cycle sir.
+
+**[03:41:50.280] Sen. Erwin Tulfo**  
+And
+
+**[03:41:50.640] Col. Manaros M. Boransing II**  
+I may be familiar with it but I am not experienced with it sir.
+
+**[03:41:54.860] Sen. Erwin Tulfo**  
+When you're a platoon leader, sir, wala ka natatanggap mga intelligence na sa operation kayo na I'm sure nag-command po kayo ng isang platoon, may mga intelligence information ka natatanggap. At your level, alam mo na kung ano ipapadating sa higher headquarters o hindi? Alam mo kung ano itatapon o hindi? Tama po ba, sir?
+
+**[03:42:13.220] Col. Manaros M. Boransing II**  
+Yes, sir. What we usually do is we call the battalion intelligence officers. If there is a captured
+
+**[03:42:23.490] Col. Manaros M. Boransing II**  
+It is the intelligence officer who assesses kung anong information niya po. Hindi po kami, sir.
+
+**[03:42:30.830] Sen. Erwin Tulfo**  
+Pati yung questioning, intelligence officer mo na.
+
+**[03:42:33.230] Col. Manaros M. Boransing II**  
+Yes, sir. Yung batalyon S2. Yes, sir.
+
+**[03:42:36.690] Sen. Erwin Tulfo**  
+Alright. Salamat po, Colonel. No further questions. Thank you, Senator-Judge
+
+**[03:42:40.790] Sen. Francis "Chiz" G. Escudero**  
+Erwin Tulfo. Just a couple of questions from the presiding officer. Colonel, continue na lang po. Yes, sir. Sabi niyo po kanina yung certification na iniso niyo parang certificate of participation lang. Tama po ba? Yes, sir. Pero nilagay niyo po dun sa certification niya, if I may quote, successfully collaborated with the Department of Education, and then in a later part of the paragraph, which resulted in zero reported CTG recruitment. So it's not a mere certificate of participation, but actually showed proof of success of your undertaking?
+
+**[03:43:15.930] Col. Manaros M. Boransing II**  
+Yes, sir. If I may, sir, the certificate states that as a result of the YLS, there was no CTG recruitment and on record, sir, there was no during that year, sir.
+
+**[03:43:32.110] Sen. Francis "Chiz" G. Escudero**  
+So it was a success. YLS, i.e., IEMC was a success?
+
+**[03:43:37.730] Col. Manaros M. Boransing II**  
+To a certain degree, sir. Yes, sir.
+
+**[03:43:39.750] Sen. Francis "Chiz" G. Escudero**  
+Next, you mentioned that the target of CTGs are the youth. Kasama po ba dito elementary at high school?
+
+**[03:43:49.250] Col. Manaros M. Boransing II**  
+Yes, sir. We have so many instances po, sir, of underage fighters or child warriors being recruited, especially those po ng mga indigenous people po, sir.
+
+**[03:44:04.650] Sen. Francis "Chiz" G. Escudero**  
+Hindi niyo po nabanggit ang CHED. Hindi po ba kasama ang college students sa inyong YLS at saka IEC?
+
+**[03:44:11.470] Col. Manaros M. Boransing II**  
+Usually, sir, for those eight po, sir, Kasi hanggang grade 12 na po ngayon, sir. And we usually have the senior high, junior high, and some grade 7, sir, as long as
+
+**[03:44:27.950] Sen. Francis "Chiz" G. Escudero**  
+allowed. Let me cut you short, sir. So walang college?
+
+**[03:44:30.890] Col. Manaros M. Boransing II**  
+For those 8 po, sir, wala, sir.
+
+**[03:44:32.750] Sen. Francis "Chiz" G. Escudero**  
+Ang pinakabata would be grade 7? Yes, sir. Pinakamatanda would be grade 12? Yes,
+
+**[03:44:38.970] Col. Manaros M. Boransing II**  
+sir.
+
+**[03:44:41.520] Sen. Francis "Chiz" G. Escudero**  
+And for the counsels, Atty. Ray, Atty. Linden, I would like to ask a question just to confirm. It's a common exhibit of both parties. The August 8th credit notice of the COA. You're familiar with it, Atty. Ray?
+
+**[03:45:01.580] Atty. Reynaldo Robles**  
+Yes, Your Honor.
+
+**[03:45:02.440] Sen. Francis "Chiz" G. Escudero**  
+Atty. Linden?
+
+**[03:45:03.800] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor. For the record, Your Honor, its defense exhibits D-I-100-DE and the prosecution also P-I
+
+**[03:45:12.960] Sen. Francis "Chiz" G. Escudero**  
+-21C, yes.
+
+**[03:45:14.620] Atty. Lindon Miguel C. Bacquel**  
+The prosecution also marked the very certified, our certified copy as P-I-21-E, Your Honor.
+
+**[03:45:24.180] Sen. Francis "Chiz" G. Escudero**  
+Yes. My question, if both the councils will confirm, is this 75 million was
+
+**[03:45:33.340] Sen. Francis "Chiz" G. Escudero**  
+A credit notice was given by the COA covering this 75 million which covers the fund that Colonel Boransing is talking about, the 15.4 million. Would that be correct, Atty. Ray?
+
+**[03:45:45.400] Atty. Reynaldo Robles**  
+Yes, Your Honor.
+
+**[03:45:46.300] Sen. Francis "Chiz" G. Escudero**  
+Atty. Lindon? Yes, Your Honor. And this means that from the point of view of COA, they accepted the liquidation submitted by the DepEd in regard to the 75 million. which includes, as I said, the 15.54 million. Would that be a correct statement, Atty. Ray?
+
+**[03:46:07.220] Atty. Reynaldo Robles**  
+Yes, Your Honor, with the qualification, Your Honor. During the testimony of witness, COA witness, Cylene May L. Del Campo, he specifically said that when they learned that the confidential funds were transferred by the SDOs of the DepEd and the OVP, then they... She said now that there is a problem with the liquidation. I will go there, counsel. And they are now considering conducting fraud audit in that regard.
+
+**[03:46:37.490] Sen. Francis "Chiz" G. Escudero**  
+I will go there, counsel.
+
+**[03:46:37.830] Sen. Francis "Chiz" G. Escudero**  
+But we're not yet there. The fact is, right now, a notice, a credit notice was given by COA covering these funds.
+
+**[03:46:46.890] Atty. Reynaldo Robles**  
+Right now. Yes, Your Honor.
+
+**[03:46:48.410] Sen. Francis "Chiz" G. Escudero**  
+Do you confirm, Atty. Lindon? We
+
+**[03:46:50.980] Atty. Lindon Miguel C. Bacquel**  
+confirm,
+
+**[03:46:51.420] Sen. Francis "Chiz" G. Escudero**  
+Your Honor. There is. It's a common evidence. And to your point, Attorney Ray, under PD 1445, Section 52,
+
+**[03:47:05.020] Sen. Francis "Chiz" G. Escudero**  
+the COA has three years to change their findings.
+
+**[03:47:10.080] Atty. Reynaldo Robles**  
+Yes, Your Honor.
+
+**[03:47:10.840] Sen. Francis "Chiz" G. Escudero**  
+From the time they issued it. Do you also confirm, Attorney Lindon? We confirm, Your Honor. However, no such change in their findings have been done by COA as of this date.
+
+**[03:47:21.830] Atty. Reynaldo Robles**  
+Yes, Your Honor. That's why we were noting that according to the witness, the leadership of COA and the COA-ICFAO are now studying, referring this matter to the COA Fraud Audit Unit. But no action has been
+
+**[03:47:36.830] Sen. Francis "Chiz" G. Escudero**  
+taken thus
+
+**[03:47:37.330] Atty. Reynaldo Robles**  
+far? So far, Your Honor. Okay.
+
+**[03:47:38.590] Sen. Francis "Chiz" G. Escudero**  
+Atty. Lindon, no action has been taken?
+
+**[03:47:40.370] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor. May we just manifest that the counsel for the prosecution is testifying, Your Honor.
+
+**[03:47:47.210] Atty. Reynaldo Robles**  
+No, Your Honor. That is a fact on record, Your Honor.
+
+**[03:47:49.850] Sen. Francis "Chiz" G. Escudero**  
+Well, it was on the record. Indeed, the witness said that. But the witness also, Attorney Rey, cannot speak for COA. I think her level is... She's expressing her opinion, but not on behalf of COA. But COA has that power to still change their findings, but they have not done so.
+
+**[03:48:06.530] Atty. Reynaldo Robles**  
+We submit, Your Honor. That's the fact, Your Honor.
+
+**[03:48:08.970] Sen. Francis "Chiz" G. Escudero**  
+Okay. Thank you very much. Yes, Attorney... Attorney, rather. Senator-Judge... Pia Cayetano first, ladies first, before Senator-Judge Cayetano.
+
+**[03:48:20.480] Sen. Francis "Chiz" G. Escudero**  
+You have two minutes, Senator-Judge Pia.
+
+**[03:48:24.620] Sen. Pia S. Cayetano**  
+Thank you. Good afternoon, Colonel Boransing.
+
+**[03:48:27.460] Col. Manaros M. Boransing II**  
+Yes, ma'am.
+
+**[03:48:28.160] Sen. Pia S. Cayetano**  
+Yeah, I'd just like to be educated. You mentioned that itong klaseng activities niyo have been ongoing since the early 2000s, I think like 20 years ago, is that correct?
+
+**[03:48:38.480] Col. Manaros M. Boransing II**  
+2002, sir.
+
+**[03:48:39.600] Sen. Pia S. Cayetano**  
+2002, yes. I'm just very curious, no?
+
+**[03:48:44.170] Sen. Pia S. Cayetano**  
+And you also mentioned, before I ask, I posed my main question, that they've been recruiting even kids from the indigenous communities. You just mentioned it during one of the questions of the senator-judges.
+
+**[03:48:58.880] Sen. Pia S. Cayetano**  
+Would your approach to educating the young, the children, the students, did it adapt over the years to to cover the use of technology in the recruitment, in the whatever propaganda education of other groups, exactly what you're trying to counter. Nag-adapt ko ba kayo?
+
+**[03:49:24.200] Col. Manaros M. Boransing II**  
+Yes, ma'am. We have adapted specifically violent extremism. There are some reports that there used to be or there are reports of recruitment through social media. So the armed forces and with the other stakeholders are preparing for this, but I'm not the subject matter expert on that, but we have adopted. But for the youth leadership seminar, YLS seminar, yes, it has changed through the years. It's adapting. Specifically, we have new instructors that we invite. and we also invite from TESDA and other agencies to give the youth hope mainly that the world is bigger than your sitio or your barangay and there are scholarships, there are ways to earn a living and I think basically that is one thing that the Youth Leadership Summit gives to this disadvantaged youth.
+
+**[03:50:37.900] Col. Manaros M. Boransing II**  
+Yes, sir.
+
+**[03:50:38.710] Sen. Pia S. Cayetano**  
+So it seems to me what you're trying to portray or share with us is it's a whole of government approach. Kasi nabanggit mo na yung TESDA about opportunities for the youth. But would you say, your answer is yes. Yes. Sorry, I cut you off. So would you say that... In developing these topics, again, going back to my specific point na adapting to the use of technology, kung 20 years ago, you'd literally be saying na may physical body na magre-recruit sa inyo, ganito. Ngayon, baka online yan, baka nga through the use of games, di ba, like different. Would you say now that that is Army-led, PNP-led, DepEd-led? I'm just curious, who would know best on how these children are being targeted?
+
+**[03:51:25.080] Col. Manaros M. Boransing II**  
+I think it's not the Army, Your Honor, you're correct. We just try to instigate to coordinate and to start the convergence and I can speak for Zamboanga Peninsula where I have been going around and all the LGUs have been very active with regards to
+
+**[03:51:51.610] Col. Manaros M. Boransing II**  
+recruitment or violence online or and it's uh and we are trying to support them as the armed force it's not our expertise we just to help we just help where we can
+
+**[03:52:06.080] Sen. Pia S. Cayetano**  
+So I guess yung conclusion natin is whole-of-government approach.
+
+**[03:52:08.600] Sen. Pia S. Cayetano**  
+And whole of society because I think you need the parents involved there as well, right?
+
+**[03:52:12.640] Col. Manaros M. Boransing II**  
+The parents po, the whole of society, whole of government.
+
+**[03:52:15.440] Sen. Pia S. Cayetano**  
+Okay, thank you. Yun lang actually.
+
+**[03:52:16.960] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Thank you, Senator-Judge Pia. Finally, Senator-Judge Alan Cayetano, you are recognized sir. You may proceed when you're ready. You have two minutes.
+
+**[03:52:23.500] Sen. Alan Peter Cayetano**  
+Thank you, Mr. Presiding Officer, for the prosecution.
+
+**[03:52:28.530] Sen. Francis "Chiz" G. Escudero**  
+Atty. Rey, if you may, if you will, please.
+
+**[03:52:31.470] Sen. Alan Peter Cayetano**  
+I'll emphasize lang before I ask. This is a clarification because when I clarified with Congressman Diokno, some interpreted it as someone won or lost the debate. It's not a debate and the senator-judges are not supposed to argue with you nor you to us. But I just want to clarify your theory. So is your theory
+
+**[03:52:57.020] Sen. Alan Peter Cayetano**  
+that basta't hindi yung SDO ang mag-release noong funds, meron na siyang fraud or meron na siyang... Can you categorize it? It's just a violation or meron na siyang fraud?
+
+**[03:53:10.270] Atty. Reynaldo Robles**  
+Well, Your Honor, I think we have to refer to the joint circular in that regard. It's very clear in the joint circular that it's the SDO who's supposed to be disbursing the funds. And in fact, in the joint circular... The SDO is not even supposed to transfer possession of the funds to another accountable officer. So I would submit, Your Honor, that the answer is yes. If the SDO transferred the funds to another person who is not an accountable officer and an SDO and not bonded, that would be illegal, Your Honor.
+
+**[03:53:42.280] Sen. Alan Peter Cayetano**  
+Okay. Two follow-up questions. So one, when someone is the accountable officer, so like in this case, confidential funds or let's say sa intelligence funds, so let's say the good colonel was the SDO, pero hindi siya yung operative sa field, hindi ba i-release din niya sa isang operative na yung operative na yun ang pwede namang magbigay dun sa tao sa field? So in this case, what's the difference of an SDO giving it to Colonel La Chica and then La Chica, following the operation.
+
+**[03:54:14.850] Atty. Reynaldo Robles**  
+Hindi po kasi ganun eh. Yun pong confidential fund, ina-advance ng SDO sa pondo ng DepEd. Pag pinasa niya sa iba, ina-advance niya sa susunod na tao. Tapos ia-advance pa sa susunod na tao, wala na pong proper accountability. So sa tingin ko po at nakalagay sa Joint Circular, bawal po 'yun.
+
+**[03:54:38.660] Sen. Alan Peter Cayetano**  
+Okay. So, isn't it true that what it means by being accountable is that pagka may mali, may fraud, hindi napunta sa tama, ikaw yung accountable?
+
+**[03:54:48.800] Atty. Reynaldo Robles**  
+Opo, tatlo po kasi yung accountable officer na nakalagay dun sa Joint Circular. Makikita niyo po dun yung SDO, yung accountant, and the head of agency. Yun po yung tatlong accountable officer.
+
+**[03:55:05.400] Sen. Alan Peter Cayetano**  
+Okay, so the last clarification. Assuming the SDO nga gave it to someone, whether it's a security officer, whatever the designation, so that may operations sa field, you'd categorize it as illegal? So can you elaborate what's the difference between irregular, illegal, unlawful?
+
+**[03:55:31.260] Sen. Francis "Chiz" G. Escudero**  
+With the indulgence of Senator-Judge Cayetano,
+
+**[03:55:36.980] Sen. Francis "Chiz" G. Escudero**  
+We might be treading on the counsel testifying already on facts that are not yet testified to by any witness they have called. However, to answer the question of Senator-Judge Cayetano, the COA stated that they issued a notice of disallowance on the three-quarters of the OVP confidential fund when they learned that it was given by Gina Acosta to Colonel La Chica. That was the basis of their issuance of a notice of disqualification.
+
+**[03:56:13.770] Sen. Alan Peter Cayetano**  
+Yes, but maybe I'll explain myself without arguing, Mr. Presiding Officer, Senator-Judge Escudero, and to the prosecution, because this is an impeachment. And although it's not a criminal case in the sense that there's a criminal penalty, if found guilty, the vice president will not be allowed to run anymore. And she will be removed by office, although she was voted by millions of people. So for a senator-judge like me, it is important to know whether it was an irregularity wherein we should caution or reprimand, or whether it is automatically fraud. And also for non-lawyers, it would be good to know at some point whether there's a presumption that shifts. For example, the prosecution made it very clear at one point earlier on kapag hindi ma-account, nagsishift na yung burden. So that's very clear. Halimbawa hindi na-account, nagsishift ngayon sa prosecution, it's not a conclusive presumption, meaning they can show na hindi na-account. That's what I meant in asking these questions, Mr. Presiding Officer, na assuming na nagkamali yung SDO o akala nila pwede at naibigay sa iba, in the eyes of the prosecution, is that per se already fraud or you're just saying it's irregular, illegal?
+
+**[03:57:44.340] Atty. Reynaldo Robles**  
+We submit, Your Honor, that the prima facie presumption that there was misappropriation kicks in.
+
+**[03:57:50.100] Sen. Alan Peter Cayetano**  
+So, meaning prima facie, that on its face, so now the burden for you shifts to the prosecution to show na ay hindi irregular or may mali pero hindi ito fraud.
+
+**[03:58:00.340] Atty. Reynaldo Robles**  
+That's our theory, Your Honor.
+
+**[03:58:01.570] Sen. Alan Peter Cayetano**  
+That's all, Mr. Presiding Officer. I just wanted that to be clear to all of us.
+
+**[03:58:05.600] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Cayetano. But also for the record, to clarify, the burden of proof never shifts. The burden of evidence may shift, but the burden of proof does not. The burden of proof still lies to the prosecution, but depending on how the issue is presented, the burden of evidence may shift, but the burden of proof never shifts. If there are no other interjections, Colonel Boransing, you are excused, sir. Maraming salamat po sa inyong panahon, kooperasyon at pagtugon sa aming katanungan at salamat din po sa panahon. And thank you for your service, sir. You are excused, sir. Thank you, sir.
+
+**[03:58:43.700] Sen. Francis "Chiz" G. Escudero**  
+Kindly call your next witness, Attorney Ray.
+
+**[03:58:47.000] Atty. Reynaldo Robles**  
+Your Honor, before we proceed, with a desire to try to expedite the proceedings, Your Honor,
+
+**[03:58:55.240] Atty. Reynaldo Robles**  
+We are supposed to present Colonel Magtangol Panopio and we have also previously requested for a subpoena for Major General Adonis Bajao. But we have reason to believe that when they're presented as witnesses, they will testify essentially in more or less the same manner as the previous witness.
+
+**[03:59:18.420] Sen. Francis "Chiz" G. Escudero**  
+Including Colonel Panopio?
+
+**[03:59:19.820] Atty. Reynaldo Robles**  
+Including Colonel Panopio. There is one other witness who was also summoned to the Committee on Good Government and Public Accountability on October 17, 2024, Lieutenant Colonel Carlos Sangdaan, who we are also contemplating as witness. We would like to request if the counsel for the respondent would be willing to consider stipulating that when presented as witnesses, they will testify essentially more or less in the same manner as Colonel Boransing. We have a formal offer here, Your Honor.
+
+**[04:00:03.120] Sen. Francis "Chiz" G. Escudero**  
+Let me change it a bit before Attorney Sheila. Attorney Ray, the counsel for the respondent already stipulated as to the documents you will be asking these witnesses to identify.
+
+**[04:00:18.250] Atty. Reynaldo Robles**  
+Yes, Your Honor.
+
+**[04:00:19.250] Sen. Francis "Chiz" G. Escudero**  
+Namely, Major General Bajao and Colonel Panopio as well as the other certifications.
+
+**[04:00:29.830] Sen. Francis "Chiz" G. Escudero**  
+So you mean to tell me they will testify as to the fact that they executed the certification?
+
+**[04:00:34.830] Atty. Reynaldo Robles**  
+Yes, Your Honor.
+
+**[04:00:35.810] Sen. Francis "Chiz" G. Escudero**  
+And that they did not know that it will be attached to the response of the DepEd to the COA AOM?
+
+**[04:00:47.030] Atty. Reynaldo Robles**  
+Yes, Your Honor. That was what they said in the House hearing.
+
+**[04:00:49.460] Sen. Francis "Chiz" G. Escudero**  
+Those two points?
+
+**[04:00:51.660] Atty. Reynaldo Robles**  
+And also...
+
+**[04:00:51.900] Sen. Francis "Chiz" G. Escudero**  
+What would be the third point?
+
+**[04:00:53.470] Atty. Reynaldo Robles**  
+There were no confidential or other funds or confidential information which were downloaded by the DepEd to their respective units.
+
+**[04:01:02.920] Sen. Francis "Chiz" G. Escudero**  
+Can I change that to they are not aware of any? Not that there was none, but that they were not aware of any.
+
+**[04:01:09.480] Atty. Reynaldo Robles**  
+We will submit, Your Honor.
+
+**[04:01:10.920] Sen. Francis "Chiz" G. Escudero**  
+Atty. Sheila?
+
+**[04:01:12.920] Atty. Sheila C. Sison**  
+Your Honor, before I respond to the proposal for stipulation on the other intended witnesses from the Armed Forces of the Philippines or the Philippine Army, may I just also counter-propose? If the prosecution is willing to also stipulate, I know that the prosecution had already responded to the query earlier of the presiding officer on the existence of the credit notice for first quarter and second quarter of 2023 issued by the Commission on Audit in respect of the audit observation memorandum. against the Department of Education under the Vice President's term, which on our original document was actually marked as both the prosecution and defense exhibits. Are they willing to stipulate that there is in fact a credit notice issued by the Commission and Audit dated August 8, 2024 on the entire? 75 million for the first and second quarter of 2023, which was actually the subject matter of the testimony of the last witness, Commander, Major General Boransing, Your Honor.
+
+**[04:02:29.500] Atty. Reynaldo Robles**  
+Yes, Your Honor, that's a matter of record.
+
+**[04:02:31.300] Atty. Sheila C. Sison**  
+Thank you for that, Your Honor. Now, as to the proposal to stipulate, whether the three other witnesses are AFP officers that they will Testify on the fact that there were no confidential funds that were transferred agency to agency, then we can stipulate on that. But we will never stipulate that there were no confidential information or intelligence information shared by the Department of Education under the Vice President's term as its Secretary using the confidential funds because I have here copies of the Eight certifications that the prosecution had earlier stipulated on because the testimony of Colonel Boransing only covered one certification and not the entire number of youth leadership summits that were conducted by the AFP. That's number one clarification. And number two, in all these certifications and the documents will speak for themselves under the original document evidence rule that states here, For example, in the certification of Colonel Manaros M. Boransing II, the document itself stated that it has successfully collaborated with the Department of Education. That resulted in zero reported CTG recruitment, etc., etc. In the ultimate portion of this certification, it says here, that the certification is issued this 1st of January 2024 at Kuta Major, El Sang-an, Barangay Upper Pulacan, Labangan, Zamboanga, Del Sur, for whatever legal purpose it may serve. Also, Your Honor, I'm not yet done, Your Honor, if I may just finish before the prosecution may be allowed to speak. The certification issued by Lieutenant Colonel Carlos B. Sangdaan, Jr., specifically stated that these collaborative efforts with the Department of Education, Region 1, NICA Regional Office, etc., etc., were conducted to insulate the students from exploitation by the communist terrorist groups and inform them of the ills of terrorism in close partnership with the Department of Education. Now, in the certification, dated December 5, 2023, of Lieutenant Colonel Magtangol Panopio, who is one of the witnesses scheduled to testify today by the prosecution, it says here in paragraph 2 of the certification that these collaborative efforts with the Department of Education were conducted to insulate the students from recruitment by the CPP, NPA, and DF.
+
+**[04:05:30.060] Atty. Sheila C. Sison**  
+And the third paragraph—I am not yet finished, Your Honor—the identification of the areas...
+
+**[04:05:37.380] Sen. Francis "Chiz" G. Escudero**  
+Atty. Sheila, kindly wind up
+
+**[04:05:39.090] Atty. Sheila C. Sison**  
+Yes your honor, this is the last your honor
+
+**[04:05:40.800] Atty. Sheila C. Sison**  
+The identification of the areas where these summits are to be conducted was made possible through the information we primarily got from the DepEd, et cetera. And the certification was also issued for whatever legal purpose it may serve. On that note, Your Honor, that is the only condition that we will be willing to stipulate, Your Honor.
+
+**[04:06:03.360] Sen. Francis "Chiz" G. Escudero**  
+Your time will come to present on that side, counsel.
+
+**[04:06:06.340] Atty. Sheila C. Sison**  
+Yes, Your Honor. I understand, but this was also already stipulated on by the prosecution.
+
+**[04:06:11.580] Sen. Francis "Chiz" G. Escudero**  
+So may I clarify, are both parties willing to dispense with Colonel Panopio, General Bajao?
+
+**[04:06:24.200] Sen. Francis "Chiz" G. Escudero**  
+And dalawa lang po, ano, Atty. Ray?
+
+**[04:06:28.040] Atty. Reynaldo Robles**  
+Colonel Panopio, Colonel Sangdaan, and Major General Bajao.
+
+**[04:06:32.720] Sen. Francis "Chiz" G. Escudero**  
+And you are willing to dispense with their testimony if, number one, both parties will stipulate that indeed they issued a certification following the best—
+
+**[04:06:43.560] Sen. Francis "Chiz" G. Escudero**  
+Original
+
+**[04:06:44.200] Sen. Francis "Chiz" G. Escudero**  
+document rule, rather. Then, document speaks for itself. Number two, that no confidential funds were downloaded by the DepEd to the AFP or any of the units that these military personnel are so certifying to. Correct, Atty. Sheila?
+
+**[04:07:01.080] Atty. Sheila C. Sison**  
+If I may suggest, Your Honor, we can only stipulate if the proposal is that there were no confidential funds that were transferred from the Department of Education to the Philippine Army or the AFP to conduct this YLS. To conduct the YLS and the IEC.
+
+**[04:07:20.220] Atty. Sheila C. Sison**  
+Your Honor, I would caution against the use of 'downloaded' because that is prone to misinterpretation.
+
+**[04:07:27.500] Sen. Francis "Chiz" G. Escudero**  
+Okay, transferred. And number three?
+
+**[04:07:29.360] Atty. Sheila C. Sison**  
+I would prefer to be precise, Your Honor.
+
+**[04:07:31.200] Sen. Francis "Chiz" G. Escudero**  
+That they were not aware that their certifications would be used by the DepEd in answering the COA AOM.
+
+**[04:07:42.380] Atty. Sheila C. Sison**  
+No, Your Honor.
+
+**[04:07:43.780] Sen. Francis "Chiz" G. Escudero**  
+You're not willing to stipulate that?
+
+**[04:07:45.110] Atty. Sheila C. Sison**  
+We're not willing to stipulate, Your Honor, because according to the certifications, and three of those I have read earlier, the certifications were issued page by page for whatever legal purpose it may serve. And therefore, when the AFP officers issued the certification, they did so with eyes wide open that this will be used for whatever legal purpose it may serve under the original document.
+
+**[04:08:08.520] Sen. Francis "Chiz" G. Escudero**  
+Let me clarify, Atty. Sheila, that at the time they issued the certification, they were not aware that it will be used as an attachment in DepEd's response.
+
+**[04:08:22.880] Atty. Sheila C. Sison**  
+I'm sorry, Your Honor. No stipulation on that point, Your Honor.
+
+**[04:08:26.420] Sen. Francis "Chiz" G. Escudero**  
+Then you can just concentrate on that point, Atty. Ray.
+
+**[04:08:29.460] Atty. Reynaldo Robles**  
+Another point for possible stipulation. Yes. That the witness will testify that they did not receive any information about any confidential information from the DepEd being...
+
+**[04:08:44.480] Sen. Francis "Chiz" G. Escudero**  
+Well, if he knows, counsel, I'm sure Attorney Sheila is not willing to stipulate on that.
+
+**[04:08:48.740] Atty. Sheila C. Sison**  
+Certainly no, Your Honor.
+
+**[04:08:49.840] Sen. Francis "Chiz" G. Escudero**  
+So you have two points.
+
+**[04:08:51.100] Atty. Sheila C. Sison**  
+That's a
+
+**[04:08:51.480] Atty. Sheila C. Sison**  
+conclusion.
+
+**[04:08:51.920] Sen. Francis "Chiz" G. Escudero**  
+So make your offer on those two points. At least it abbreviates the proceedings.
+
+**[04:08:55.400] Atty. Reynaldo Robles**  
+Yes, sir.
+
+**[04:08:56.580] Sen. Francis "Chiz" G. Escudero**  
+Kindly make your offer. Hold on. The clerk of court is directed to kindly place the witness.
+
+**[04:09:05.540] Atty. Reynaldo Robles**  
+Just one final point, Your Honor. Is counsel willing to stipulate that the witness appeared during the hearing on October 17, 2024 before the Committee on Good Government and Public Accountability?
+
+**[04:09:17.740] Atty. Sheila C. Sison**  
+May I know which witness, Your Honor? The four witnesses that he stated earlier?
+
+**[04:09:22.870] Atty. Reynaldo Robles**  
+All of them.
+
+**[04:09:25.470] Atty. Sheila C. Sison**  
+Boransing, Panopio, Bajao, and Sangdaan.
+
+**[04:09:29.050] Sen. Francis "Chiz" G. Escudero**  
+Yes.
+
+**[04:09:29.790] Atty. Sheila C. Sison**  
+Sangdaan. That's fine, Your Honor.
+
+**[04:09:31.130] Sen. Francis "Chiz" G. Escudero**  
+So stipulated, noted.
+
+**[04:09:32.860] Atty. Reynaldo Robles**  
+Thank you, Your Honor.
+
+**[04:09:34.100] Sen. Francis "Chiz" G. Escudero**  
+Kindly place the witness under oath. Yes, Atty. Sheila?
+
+**[04:09:36.070] Atty. Sheila C. Sison**  
+May I ask that Atty. Lindon Miguel Bacquel be again recognized?
+
+**[04:09:39.180] Sen. Francis "Chiz" G. Escudero**  
+Yes, Atty. Lindon. See you again. Kindly place the witness under oath.
+
+**[04:09:45.090] Atty. Renato N. Bantug Jr.**  
+Please raise your right hand. You, Magtangol Panopio, do swear that the evidence you shall give. In the case now pending, between the Philippines and Vice President Sara Zimmerman Duterte, shall be the truth, the whole truth, and nothing but the truth. So help you God.
+
+**[04:10:01.410] Col. Magtangol G. Panopio**  
+I do.
+
+**[04:10:02.990] Sen. Francis "Chiz" G. Escudero**  
+May I ask the clerk if the witness was informed of the court's earlier ruling on the hearing device while he was waiting?
+
+**[04:10:12.540] Sen. Francis "Chiz" G. Escudero**  
+No?
+
+**[04:10:14.600] Sen. Francis "Chiz" G. Escudero**  
+No?
+
+**[04:10:19.680] Sen. Francis "Chiz" G. Escudero**  
+Colonel Panopio, you are not allowed to bring a cellular phone or any form or... or any form of hearing device while you are testifying before this impeachment court so that there will be no coaching in regard to your testimony.
+
+**[04:10:34.480] Sen. Francis "Chiz" G. Escudero**  
+Do
+
+**[04:10:34.920] Sen. Francis "Chiz" G. Escudero**  
+you
+
+**[04:10:34.980] Sen. Francis "Chiz" G. Escudero**  
+understand that, sir?
+
+**[04:10:35.630] Col. Magtangol G. Panopio**  
+I understand, Your Honor.
+
+**[04:10:36.620] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Your offer, Attorney Ray?
+
+**[04:10:38.660] Atty. Reynaldo Robles**  
+Yes, Your Honor. I will limit it to the points still in dispute.
+
+**[04:10:41.840] Sen. Francis "Chiz" G. Escudero**  
+On the two points.
+
+**[04:10:43.150] Atty. Reynaldo Robles**  
+Yes, Your Honor. We are presenting the testimony of the witness to prove that he issued
+
+**[04:10:53.060] Atty. Reynaldo Robles**  
+a certification dated December 5, 2023, regarding the conduct by his unit of youth leadership summit and information education campaign within the area of their operations. And that at the time he issued the SED certification, he was not aware that it's going to be used by the Department of Education for the purpose of liquidating the expenditure of confidential funds particularly for the payment of rewards in the amount of 15,540,000 pesos and that the witness did not receive or is not aware of the receipt by him or by his unit of confidential information supposedly gathered by the Department of Education in relation to their conduct of the Youth Leadership Summit and Information Education Campaign in 2023.
+
+**[04:12:08.910] Sen. Francis "Chiz" G. Escudero**  
+Attorney Lindon, subject to cross?
+
+**[04:12:11.090] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor.
+
+**[04:12:12.010] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, counsel.
+
+**[04:12:13.450] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[04:12:15.760] Atty. Reynaldo Robles**  
+Colonel Panopio, base po sa mga records na pinagkasunduan na ng prosecution at ng counsel for the respondent, naisama po dun sa sulat ng dated April 17, 2024 ng Department Education yung certificates dated December 5, 2023 na in-issue nyo tungkol doon sa YLS at IEC activities ng inyong unit noong 2023 para umano i-liquidate. ang paggastos ng confidential funds ng Department of Education ang maabot sa halagang 15,540,000 na umano'y pinambayad ng rewards. Ang tanong ko po sa inyo, when for the very first time did you learn of this fact?
+
+**[04:13:20.200] Col. Magtangol G. Panopio**  
+Please clarify, Your Honor, yung pong paggamit ng confidential funds o pag-liquidate, Your Honor.
+
+**[04:13:26.360] Atty. Reynaldo Robles**  
+Alam niyo po ba, kailan niyo po nalaman na ginamit yung dokumentong in-issue niyo? para dun yung certification na inisyo n'yo pang-liquidate.
+
+**[04:13:37.330] Col. Magtangol G. Panopio**  
+Your Honor, nalaman po namin yan nung nagharap kami sa Congress nung nagkaroon po ng congressional hearing tungkol sa Confidential Intelligence Fund ng Department of Education, Your Honor.
+
+**[04:13:48.270] Atty. Reynaldo Robles**  
+Kailan po 'yun kung maalala n'yo?
+
+**[04:13:52.620] Col. Magtangol G. Panopio**  
+Sometime 2024,
+
+**[04:13:56.760] Col. Magtangol G. Panopio**  
+Your Honor.
+
+**[04:13:58.140] Atty. Reynaldo Robles**  
+Pag pinakita ko po ba sa inyo yung transcript ng stenographic note, Noong hearing na yon, makikilala niyo po ba kung doon o sa ibang petsa, ginanap yung hearing na yon?
+
+**[04:14:10.270] Col. Magtangol G. Panopio**  
+Opo, makikilala ko po.
+
+**[04:14:11.650] Atty. Reynaldo Robles**  
+Attorney R.J., Your Honor, we are confronting the witness.
+
+**[04:14:15.490] Atty. Lindon Miguel C. Bacquel**  
+Your Honor.
+
+**[04:14:16.690] Sen. Francis "Chiz" G. Escudero**  
+Would you like to stipulate, counsel?
+
+**[04:14:18.710] Atty. Lindon Miguel C. Bacquel**  
+I believe that this has already been stipulated earlier.
+
+**[04:14:21.110] Sen. Francis "Chiz" G. Escudero**  
+Already stipulated, counsel, that he testified. Okay. So...
+
+**[04:14:25.170] Atty. Reynaldo Robles**  
+ang tanong ko po, ang sabi po niyo, noon sa unang pagkakataon, nyo lamang nalaman na ginamit yung certification nyo pang-liquidate ng confidential funds. Ano po yung naging reaction nyo nung nalaman nyo yun?
+
+**[04:14:45.140] Atty. Lindon Miguel C. Bacquel**  
+Vague, Your Honor.
+
+**[04:14:46.200] Sen. Francis "Chiz" G. Escudero**  
+Colonel Panopio, the date of the hearing is October 17, 2024. So doon n'yo po unang nalaman.
+
+**[04:14:52.160] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:14:54.120] Sen. Francis "Chiz" G. Escudero**  
+Na ginamit yung inyong certification bilang isa sa mga liquidation documents ng DepEd sa COA AOM.
+
+**[04:15:01.890] Col. Magtangol G. Panopio**  
+Doon ko lang po formally nalaman yung information na yun, Your Honor.
+
+**[04:15:06.550] Sen. Francis "Chiz" G. Escudero**  
+Did you have any reaction, Colonel, upon hearing or knowing that?
+
+**[04:15:13.040] Col. Magtangol G. Panopio**  
+Medyo nagulat po kami kasi yung po ang aming certification is only for the certification that we conducted the Youth Leadership Summit. Hindi po namin sinacertify anything about money or funds, Your Honor.
+
+**[04:15:30.140] Sen. Francis "Chiz" G. Escudero**  
+That's your answer, counsel.
+
+**[04:15:31.240] Atty. Reynaldo Robles**  
+Thank you, Your Honor.
+
+**[04:15:33.970] Atty. Reynaldo Robles**  
+Ano po ang paliwanan? o dahilan na binigay sa inyo, kung meron man, kung bakit ginamit sa ganun paraan ng DepEd yung certification niyo?
+
+**[04:15:44.120] Atty. Lindon Miguel C. Bacquel**  
+Vague, Your Honor.
+
+**[04:15:45.120] Atty. Reynaldo Robles**  
+It's clear, Your Honor.
+
+**[04:15:46.400] Sen. Francis "Chiz" G. Escudero**  
+If he knows. Do you know? Did DepEd ever explain to you why they did that?
+
+**[04:15:52.310] Col. Magtangol G. Panopio**  
+I think, Your Honor, I can't answer for the DepEd. I can only answer for our office, Your Honor.
+
+**[04:15:57.490] Sen. Francis "Chiz" G. Escudero**  
+So you don't know?
+
+**[04:15:58.690] Col. Magtangol G. Panopio**  
+I don't know, Your Honor.
+
+**[04:15:59.610] Atty. Reynaldo Robles**  
+tanong ko po, may kaugnayan po ba? Ano po ang kaugnayan? noong certification na in-issue nyo doon sa paggasta ng DepEd ng confidential funds na naghahalagang 15,540,000 pesos noong 2023, di umanoy sa pagbabayad ng mga rewards.
+
+**[04:16:22.590] Atty. Lindon Miguel C. Bacquel**  
+Reaction, Your Honor. Witness is incompetent to answer the question. The question is speculative and it calls for an opinion, Your Honor.
+
+**[04:16:30.890] Sen. Francis "Chiz" G. Escudero**  
+Atty. Ray, I would have to sustain the objection. Witness would be incompetent to answer that question. Kindly modify or move to another point.
+
+**[04:16:42.110] Atty. Reynaldo Robles**  
+Yung pong sino
+
+**[04:16:46.130] Atty. Reynaldo Robles**  
+po sa DepEd ang nag-coordinate sa inyo noong 2023 para ipaalam sa inyo ang resulta daw noong kanilang confidential operations sa area niyo?
+
+**[04:17:01.010] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. No basis, Your Honor.
+
+**[04:17:02.530] Atty. Reynaldo Robles**  
+I'm asking the witness, Your Honor, if there is anyone from the DepEd who gave them that information.
+
+**[04:17:11.200] Sen. Francis "Chiz" G. Escudero**  
+Counsel, I'm constrained to sustain the objection, counsel. Attorney Lindon is correct.
+
+**[04:17:20.320] Sen. Francis "Chiz" G. Escudero**  
+Kindly reform, modify, or move to another point.
+
+**[04:17:23.580] Atty. Reynaldo Robles**  
+Sino po ang humingi? Sino po ang nagpa-issue sa inyo noong certification na in-issue niyo?
+
+**[04:17:33.100] Col. Magtangol G. Panopio**  
+Yung po certification ay in compliance with the order of my commander to issue certifications to DepEd in coordination with then USEC Nolasco Mempin, Your Honor.
+
+**[04:17:43.160] Atty. Reynaldo Robles**  
+So tama po ba sabi n'yo? Inutusan kayo? Inorderan kayo?
+
+**[04:17:48.010] Col. Magtangol G. Panopio**  
+It is part of my job as the Assistant Chief of Staff for Civil-Military Operations to issue certificates to our partners, especially on activities conducted by the division, Your Honor.
+
+**[04:17:59.250] Atty. Reynaldo Robles**  
+What explanation was given to you? When you were asked to issue that certification.
+
+**[04:18:05.320] Atty. Lindon Miguel C. Bacquel**  
+Vague, Your Honor.
+
+**[04:18:06.460] Atty. Reynaldo Robles**  
+It's clear. If he knows.
+
+**[04:18:08.540] Atty. Lindon Miguel C. Bacquel**  
+Explanation, Your Honor.
+
+**[04:18:09.520] Atty. Reynaldo Robles**  
+If he knows.
+
+**[04:18:10.030] Sen. Francis "Chiz" G. Escudero**  
+If you know, Colonel.
+
+**[04:18:10.790] Col. Magtangol G. Panopio**  
+Yes, Your Honor. Our activities in the Armed Forces of the Philippines takes collaboration with other agencies. So it is, I think, normal for our agency to issue certifications that such activities happen in collaboration with different agencies of the government, Your Honor.
+
+**[04:18:29.160] Atty. Reynaldo Robles**  
+So ano po ang para saan po? yung pag-issue nyo ng certification na iyon.
+
+**[04:18:37.810] Col. Magtangol G. Panopio**  
+Ang certification na ito po ay nagpapatunay na yung mga Youth Leadership Summit ay totoong na isakatuparan sa aming area of operations during the year 2023, Your Honor.
+
+**[04:18:49.710] Atty. Reynaldo Robles**  
+Bukod pa rin, meron pa uho bang ibang dahilan kung bakit nyo inissue yung certification?
+
+**[04:18:55.680] Col. Magtangol G. Panopio**  
+As far as I'm concerned, Your Honor, ang alam ko lang po ay pagpapatunay na ang mga activities ng Youth Leadership Summit sa area ng 7th Infantry Division ay naisakatuparan sa taong iyon, Your Honor.
+
+**[04:19:06.320] Atty. Reynaldo Robles**  
+Ano po ang kaugnayan nung certification na in-issue nyo dun sa umano'y pagbabayad ng reward ng DepEd gamit ang confidential funds? Kung mayroon man.
+
+**[04:19:18.830] Atty. Lindon Miguel C. Bacquel**  
+No basis, Your Honor.
+
+**[04:19:19.440] Sen. Francis "Chiz" G. Escudero**  
+If he knows, counsel.
+
+**[04:19:20.860] Col. Magtangol G. Panopio**  
+I have no information on that, Your Honor.
+
+**[04:19:24.320] Atty. Reynaldo Robles**  
+Anything else?
+
+**[04:19:26.660] Atty. Reynaldo Robles**  
+I think that will be all for the witness, Your Honor.
+
+**[04:19:30.340] Atty. Lindon Miguel C. Bacquel**  
+Nothing to cross, Your Honor.
+
+**[04:19:32.670] Sen. Francis "Chiz" G. Escudero**  
+There being no cross, any senator-judge who wishes to make an interjection? Senator-Judge Lacson.
+
+**[04:19:41.490] Sen. Francis "Chiz" G. Escudero**  
+Thereafter, our Senate President, then Senator-Judge Hontiveros.
+
+**[04:19:46.230] Sen. Panfilo “Ping” M. Lacson**  
+Follow-up lang po doon sa tanong ko kanina kay Colonel Boransing. Kasi hawak ko rito yung dalawang certifications. One issued by Lieutenant Colonel Panopio. Now, full-Colonel ka na, no?
+
+**[04:20:00.050] Col. Magtangol G. Panopio**  
+Yes, sir.
+
+**[04:20:00.630] Sen. Panfilo “Ping” M. Lacson**  
+Okay. The other, issued by Lieutenant Colonel Sangdaan.
+
+**[04:20:08.310] Sen. Panfilo “Ping” M. Lacson**  
+Parang merong paragraph dito, yung specifically the second paragraph, parang template. Ito. This collaborative, ito yung sa iyo ah, this collaborative efforts with the DepEd and the local government units were conducted. Sa kabila, this collaborative efforts with the DepEd were conducted to insulate the students, were conducted to insulate the students from recruitment, tong kabila, from exploitation, tapos, and inform them of the ills of terrorism and communism, and inform them of the ills of terrorism and communism. Nag-uusap pa kayong dalawa?
+
+**[04:20:50.970] Col. Magtangol G. Panopio**  
+Yung pong mga, Your Honor, yung pong mga term na yun ay commonly na ginagamit namin sa military. So more or less, magkataparehas po kami ng wordings, Your Honor. Pero hindi po kami nag-usap ni Colonel Sangdaan.
+
+**[04:21:05.040] Sen. Panfilo “Ping” M. Lacson**  
+I'm just wondering, that's why I want it clarified. Kasi kanina tinanong ko si Colonel Boransing, siya yung nag-craft ng language. Yung sa kanya, in fairness, iba. Pero napansin ko lang sa inyong dalawa, parang nag-copyahan kayo.
+
+**[04:21:21.030] Col. Magtangol G. Panopio**  
+I think, Your Honor, we are following the doctrine and format of our report because it is written in the YLS handbook. and all other activities, Your Honor. Halos magpaparehas po talaga yung mga statement.
+
+**[04:21:33.630] Sen. Panfilo “Ping” M. Lacson**  
+Pag-issue ng certification?
+
+**[04:21:35.740] Col. Magtangol G. Panopio**  
+I am not aware of the certification of Fifth Infantry Division, Your Honor. I'm just aware of the certification of the Seventh Infantry.
+
+**[04:21:41.760] Sen. Panfilo “Ping” M. Lacson**  
+Well, I'm telling you, it is almost similar. It's almost a template. Kaya nga ako nagtatanong, dahil bakit yung kay Colonel Boransing iba? Entirely different.
+
+**[04:21:51.080] Col. Magtangol G. Panopio**  
+Yes, sir. Maybe because we are... Near with 5th Infantry Division, we are adjacent unit with 5th Infantry Division and the 7th Infantry Division.
+
+**[04:21:59.940] Sen. Panfilo “Ping” M. Lacson**  
+Dahil magkapit-bahay kayo.
+
+**[04:22:00.540] Col. Magtangol G. Panopio**  
+Yes, Your Honor. In Region 2 and Region 3, Your Honor.
+
+**[04:22:04.080] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Just to remind our senator-judges that we will try to adjourn today by about 2.30 so that we can convene the session at 3 according to the Senate President. The Senate President is recognized.
+
+**[04:22:18.880] Sen. Sherwin T. Gatchalian**  
+Thank you, Mr. Presiding Officer.
+
+**[04:22:21.060] Sen. Sherwin T. Gatchalian**  
+Magandang hapon, Colonel.
+
+**[04:22:23.080] Col. Magtangol G. Panopio**  
+Magandang hapon po.
+
+**[04:22:24.100] Sen. Sherwin T. Gatchalian**  
+Colonel, meron dito, binabasa ko yung certification na ibinigay niyo at dito sa third paragraph nakasulat dito the identification of the areas where these summits are to be conducted was made possible through the information we primarily got from DepEd and goes on and then Sa next sentence, also because of this exchange of information, we were able to perform our civil-military combat and intelligence operation in our AOR with a focus on protecting the schools. Nasa screen.
+
+**[04:23:04.650] Sen. Sherwin T. Gatchalian**  
+Colonel, anong ibig sabihin nitong information? Ito ba ay confidential information, surveillance information na nanggaling sa DepEd?
+
+**[04:23:17.900] Col. Magtangol G. Panopio**  
+Your Honor, when we conduct YLS, we are following different phases. During the planning phases, we are coordinating with different agencies like the LGUs, the schools, and the community kung saan po namin kakandakin yung YLS. So, yung pong information na galing sa iba-ibang agency ay tumutulong sa amin upang i-determine saan po namin kakandakin specifically. yung Youth Leadership Summit, Your Honor.
+
+**[04:23:48.630] Sen. Sherwin T. Gatchalian**  
+Pero dito sa inyong letter, itong galing sa DepEd, ito ba ay confidential information or surveillance information?
+
+**[04:23:58.090] Col. Magtangol G. Panopio**  
+The information given to...
+
+**[04:24:00.430] Sen. Sherwin T. Gatchalian**  
+Yung galing sa DepEd lang ah, based on dito sa letter n'yo. This is in relation to the YLS and the IEC.
+
+**[04:24:08.040] Col. Magtangol G. Panopio**  
+May I clarify, Your Honor, but when you say na galing sa DepEd, I assume that it came from the teachers on the ground as members of the DepEd who provided us the information on how and where to conduct the YLS, Your Honor. So I think yung information na ito ay masasabi natin na somehow meron pong confidential or meron din pong open source. But based on experience, it is mixed, Your Honor.
+
+**[04:24:38.060] Sen. Sherwin T. Gatchalian**  
+Saan galing ito primarily from DepEd? Itong DepEd, napakalaking organization. May teacher, may superintendent. So itong we primarily got from DepEd, saan siya galing? Sinong personality?
+
+**[04:24:54.030] Col. Magtangol G. Panopio**  
+Yes, Your Honor. During collaborations in the ground, Your Honor, different teachers as a teaching force in different schools, doon po kami nakikipag-coordinate. So I think the teachers on the ground, are the personalities being mentioned in that certification, Your Honor?
+
+**[04:25:12.000] Sen. Sherwin T. Gatchalian**  
+So in this particular certification, in relation to the YLS saka IEC, teachers ang tinutukoy nyo dito?
+
+**[04:25:20.130] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:25:21.570] Sen. Sherwin T. Gatchalian**  
+Wala ng iba?
+
+**[04:25:23.960] Sen. Sherwin T. Gatchalian**  
+Walang principal, walang superintendent, walang regional director?
+
+**[04:25:28.020] Col. Magtangol G. Panopio**  
+As to the direct and specific person being coordinated, I cannot say it is teachers only but I cannot speculate but More or less, they are coordinating to different levels from higher to lower echelon of the school, Your Honor.
+
+**[04:25:47.080] Sen. Sherwin T. Gatchalian**  
+Dito sa certification na ito, from higher level all the way to down?
+
+**[04:25:57.650] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:25:58.670] Sen. Sherwin T. Gatchalian**  
+At meron kayong personal information na higher level all the way to the teachers?
+
+**[04:26:05.900] Sen. Sherwin T. Gatchalian**  
+Kayo mismo, kasi kayo gumawa ng certification. I want to understand what went into this certification.
+
+**[04:26:12.460] Col. Magtangol G. Panopio**  
+In the ground, Your Honor, there are different levels of coordination. For example, yung pong mga battalion commanders, company commanders, and platoon leaders, they will coordinate directly on the ground while those who are in the higher echelon of command, they might coordinate to the district supervisor or even the higher levels to coordinate the conduct of YLS, Your Honor. Ibig sabihin po, may kanya-kanya pong level ng coordinations.
+
+**[04:26:37.580] Sen. Sherwin T. Gatchalian**  
+And itong mga information na binibigay sa inyo, anong klaseng information?
+
+**[04:26:43.410] Sen. Sherwin T. Gatchalian**  
+Nasabi niyo kanina, may open source, may confidential. Ano bang klaseng information ang binibigay sa inyo to conduct itong dalawang activities?
+
+**[04:26:53.730] Col. Magtangol G. Panopio**  
+Your Honor, yung mga information usually, kung ano po yung nangyayari sa community. Halimbawa, on ills of the, yung pong HADR or di kaya yung parenting, and then meron din po sa terrorism and communism. Iba-iba po. Meron din pong drug abuse and other family matters, Your Honor.
+
+**[04:27:14.260] Sen. Sherwin T. Gatchalian**  
+And these are confidential information? Yung binibigay sa inyo?
+
+**[04:27:19.540] Col. Magtangol G. Panopio**  
+It is an open source information because it is known in the community. So I cannot determine whether it is confidential or open regarding na lang po ito sa pag-take ng recipient or... kung sino pong nagbigay ng information, Your Honor.
+
+**[04:27:33.510] Sen. Sherwin T. Gatchalian**  
+Kanina nabanggit niyo na merong open source, may confidential. Ano yung confidential na kukuha niyo? Nagaling sa DepEd, ha? I'm particularly in sources, DepEd lang.
+
+**[04:27:43.610] Col. Magtangol G. Panopio**  
+Siguro po yung mga, I can speak it only, Your Honor, maybe the personal circumstances like teenage pregnancies or other personal informations na maging confidential because it is their personal life, Your Honor.
+
+**[04:27:57.710] Sen. Sherwin T. Gatchalian**  
+So, it's about the personal life of the students. Yun ang example niyo.
+
+**[04:28:04.070] Col. Magtangol G. Panopio**  
+Yes, that's my example only, Your Honor.
+
+**[04:28:06.170] Sen. Sherwin T. Gatchalian**  
+Okay. And then, paano niyong ginagamit itong mga confidential information na galing sa DepEd in your selection of schools for the two activities?
+
+**[04:28:20.550] Col. Magtangol G. Panopio**  
+Pinaplano po namin yan kung saan po may mataas na mga pangangilangan niyong community. And of course, this is only in collaboration with the LGUs. Pag may nag-request po ng LGUs, we will conduct the YLS in that particular area. Because it is a planned activities of the divisions, specifically on our AOR, but we will ascertain kung saan pong lugar kung mayroong request yung LGUs or other government agencies, Your Honor.
+
+**[04:28:46.010] Sen. Sherwin T. Gatchalian**  
+Maraming salamat, Mr. President.
+
+**[04:28:47.470] Sen. Francis "Chiz" G. Escudero**  
+Senator-Judge Hontiveros is recognized. You have two minutes, ma'am.
+
+**[04:28:57.690] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer, at magandang hapon po, Colonel.
+
+**[04:29:01.090] Col. Magtangol G. Panopio**  
+Magandang hapon po.
+
+**[04:29:02.660] Sen. Risa Hontiveros**  
+So sir, ginamit din po ng DepEd yung certification ninyo para i-liquidate yung paggastos nila di umano ng kanilang confidential and intelligence funds. May sinabi po ba ang certification ninyo tungkol sa kung paano ginastosan ng DepEd yung mga YLS at saka ibang activities nila?
+
+**[04:29:31.270] Col. Magtangol G. Panopio**  
+Hindi po sakop ng certification namin yung area na yun, Your Honor.
+
+**[04:29:36.170] Sen. Risa Hontiveros**  
+Ibig sabihin, hindi sakop ng certification nyo yung area ng ano yung ginastos ng DepEd para sa mga YLS at iba pa?
+
+**[04:29:44.030] Col. Magtangol G. Panopio**  
+Yes, Your Honor. About sa conduct of activity only, Your Honor.
+
+**[04:29:47.490] Sen. Risa Hontiveros**  
+Okay, so tungkol lamang sa conduct of the activity.
+
+**[04:29:52.130] Sen. Risa Hontiveros**  
+So, bilang signatory dun sa certification, may pinatutunayan ba kayo doon? tungkol sa kawastusan ng paggastos ng deped ng kanilang confidential and intelligence funds?
+
+**[04:30:07.860] Col. Magtangol G. Panopio**  
+I think wala pong pinapatunayan sa paggastos ng pera, Your Honor.
+
+**[04:30:11.000] Col. Magtangol G. Panopio**  
+It is only stating that we conducted the YLS in our area of operation, Your Honor.
+
+**[04:30:16.260] Sen. Risa Hontiveros**  
+So simpleng ang certification ay may laman na may... dinaos na ganitong mga gawain. Wala pong sinasabi kung paano o anong pondo ang ginastos ng particular ng DepEd dyan, whether regular funds nila or confidential and intelligence funds nila. Wala po yun sa certification.
+
+**[04:30:34.610] Col. Magtangol G. Panopio**  
+Wala po yun sa certification, Your Honor.
+
+**[04:30:36.530] Sen. Risa Hontiveros**  
+Alright po. So, to confirm... Muli, finally, Colonel, wala po kayong alam na sinabi doon sa certification tungkol sa paggastos ng DepEd sa confidential and intelligence funds dyan sa mga gawain ng YLS at saka IEC campaign activities.
+
+**[04:30:56.640] Col. Magtangol G. Panopio**  
+Wala po yun sa certification ko, Your Honor.
+
+**[04:31:00.010] Sen. Risa Hontiveros**  
+Maraming salamat po, Colonel.
+
+**[04:31:01.470] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Hontiveros. Senator-Judge Erwin Tulfo. Again, sir, kindly be mindful. We're trying to convene at three.
+
+**[04:31:10.290] Sen. Erwin Tulfo**  
+Thank you, Mr. Presiding Officer. Three quick questions lang po. Colonel, yung activities ninyo, YLS, IEC, I know this is centered on community relations, di po ba? Not to gather information but to win the hearts and minds of the community. Tama po?
+
+**[04:31:31.220] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:31:32.220] Sen. Erwin Tulfo**  
+Alright. So wala po talagang kayo idea. It's not intelligence gathering.
+
+**[04:31:36.690] Col. Magtangol G. Panopio**  
+It is not, Your Honor.
+
+**[04:31:37.910] Col. Magtangol G. Panopio**  
+It is not.
+
+**[04:31:38.610] Sen. Erwin Tulfo**  
+Then, did you ask any intelligence unit in your division na baka sila po ang nag-feed ng information sa DepEd against anti-insurgency? Could it be possible? Or na baka may mga student leaders na member po ng ikang insurgence? Would you happen to know? Did you ask?
+
+**[04:32:00.840] Col. Magtangol G. Panopio**  
+May I clarify that question, Your Honor?
+
+**[04:32:02.950] Sen. Erwin Tulfo**  
+Question is, Did you bother to ask kung hindi po kayo nag-feed ng intel info sa DepEd? Baka sila nagbibigay ng info para sa mga estudyante na they believe na member ng mga insurgency groups?
+
+**[04:32:21.540] Col. Magtangol G. Panopio**  
+I can only speak for the civil-military operations activities, Your Honor. Yung pong activities ng intelligence community, they have their own, Your Honor.
+
+**[04:32:28.950] Sen. Erwin Tulfo**  
+Tama po. So, I was just asking, sir, baka kung alam mo na baka nagko-coordinate din sila sa intelligence units. But you said na you don't know. Panghuli na lamang po, sir, can you confirm ba na or would you happen to know, sir, the difference between a confidential fund and intelligence fund?
+
+**[04:32:48.500] Col. Magtangol G. Panopio**  
+With respect to the topic for the day, I don't have any idea, Your Honor.
+
+**[04:32:52.400] Sen. Erwin Tulfo**  
+You don't have any idea between the Confidential Intelligence Fund. Well, sir, Confidential Fund is a fund to be used by a civilian agency, not military, not police, to gather information. Your Intelligence Fund po used by the AFP and the PNP to gather intel information for national security. All right. Yun na lamang po. Maraming salamat, Mr. Witness, Mr. Presiding Officer. Thank you po.
+
+**[04:33:16.660] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Erwin Tulfo. Senator-Judge Raffi,
+
+**[04:33:23.440] Sen. Francis "Chiz" G. Escudero**  
+You have 10 minutes.
+
+**[04:33:32.620] Sen. Raffy T. Tulfo**  
+Magandang hapon po, Colonel.
+
+**[04:33:34.700] Col. Magtangol G. Panopio**  
+Magandang hapon po.
+
+**[04:33:35.700] Sen. Raffy T. Tulfo**  
+Gano'n po kayo tagal nagpa-participate sa YLS?
+
+**[04:33:41.960] Col. Magtangol G. Panopio**  
+Noong, as staff, Your Honor, or as an officer?
+
+**[04:33:46.610] Sen. Raffy T. Tulfo**  
+It doesn't matter, as staff, or officer, sige, as officer.
+
+**[04:33:49.490] Col. Magtangol G. Panopio**  
+I've been participating in YLS for quite some time, Your Honor.
+
+**[04:33:53.840] Sen. Raffy T. Tulfo**  
+Yung quite some time?
+
+**[04:33:55.320] Col. Magtangol G. Panopio**  
+Mga more or less, mga, say, five years, Your Honor.
+
+**[04:33:59.090] Sen. Raffy T. Tulfo**  
+Five years. So, before BP Sara, ang naging Deputy Secretary, nandoon na kayo, opisyo na kayo ng YLS at nagpaparticipate na kayo?
+
+**[04:34:07.200] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:34:08.340] Sen. Raffy T. Tulfo**  
+Okay.
+
+**[04:34:11.600] Sen. Raffy T. Tulfo**  
+Kumusta naman yung mga naging YLS ninyo at that time before BP, Sara, ang Deputy Secretary?
+
+**[04:34:18.330] Col. Magtangol G. Panopio**  
+I can say that our YLS is successful because we're able to gain the or finish the or attain the objective of YLS which is insulating the youth from illegal activities and building their intelligence and being a nation builder, Your Honor.
+
+**[04:34:38.550] Sen. Raffy T. Tulfo**  
+Very good. So, ibig sabihin successful even before the time of Sara as the Deputy Secretary sa mga previous. So, inabutan mo yung previous Deputy Secretary?
+
+**[04:34:48.450] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:34:49.450] Sen. Raffy T. Tulfo**  
+Sila ba ay nagpa-participate din doon sa YLS program ninyo?
+
+**[04:34:55.270] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:34:56.230] Sen. Raffy T. Tulfo**  
+Thank you very much.
+
+**[04:34:57.860] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Raffi, Senator-Judge Villanueva. Then, Senator-Judge Hontiveros again. Again, a kind reminder to our colleagues and Senator-Judge Pangilinan with one question after Senator-Judge Hontiveros. Kindly proceed, Senator-Judge Villanueva.
+
+**[04:35:16.040] Sen. Joel Villanueva**  
+Thank you, Mr. Presiding Officer. Sir, Colonel Panopio, same question po kay Colonel Boransing. Naalaman niyo po kung bakit kayo pinag-i-issue ng certification at binanggit po ba yung purpose?
+
+**[04:35:33.600] Col. Magtangol G. Panopio**  
+Katulad po ng sagot ka kanina, it is our, I think, normal duty to issue certificate as to the conduct of activity because we are collaborating with different government agencies, Your Honor.
+
+**[04:35:45.750] Sen. Joel Villanueva**  
+Ulitin ko po yung tanong ko. Alam niyo ho, yung purpose nung hiningan kayo ng certification, sinabi sa inyo, ito yung purpose para hingan ka ng certification. Wala pong sinabi.
+
+**[04:35:56.810] Col. Magtangol G. Panopio**  
+Wala pong sinabi, Your Honor. Specifically.
+
+**[04:35:59.980] Sen. Joel Villanueva**  
+Thank you. Colonel, regardless kung ano yung designation niyo, noong nag-issue po kayo ng certification, noong nag-issue po kayo, did your actual duties in issuing that certification include collecting, analyzing, validating, or disseminating intelligence-related information?
+
+**[04:36:21.770] Col. Magtangol G. Panopio**  
+As CMO officer, we are only gathering and collecting information in relation to civil-military operations, Your Honor.
+
+**[04:36:29.820] Sen. Joel Villanueva**  
+So it's just that? no analyzing, validating, disseminating intelligence-related information.
+
+**[04:36:37.560] Col. Magtangol G. Panopio**  
+None, Your Honor. It is only for civil-military operations, Your Honor.
+
+**[04:36:40.540] Sen. Joel Villanueva**  
+Yes, that is when you issued the certification. Pero nung hindi po kayo nag-issue ng certification, ito ba parte ng trabaho niyo? Ginagawa niyo po ito?
+
+**[04:36:49.070] Col. Magtangol G. Panopio**  
+As civil-military operations officer, some of that, Your Honor.
+
+**[04:36:52.490] Sen. Joel Villanueva**  
+Yes, kasi na-encounter kita sa Commission on Appointments. We confirmed you and dun sa PIR mo, it shows yung iyong intelligence officers basic and advanced courses. So nakita ko lang po dito. Colonel, when you signed itong certification covering yung three youth leadership summits involving 205 students, were you certifying only that those AFP activities were conducted and not, because you're not aware, let me know if you are aware, and not that DepEd paid rewards or informers or that information supplied by informers caused those activities to succeed.
+
+**[04:37:37.145] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:37:38.590] Sen. Joel Villanueva**  
+Dahil wala po kayong alam doon.
+
+**[04:37:41.540] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:37:43.620] Sen. Joel Villanueva**  
+Lastly, Colonel, given those limitations, would it be correct to say that your certification, standing alone, cannot establish the factual basis for the 15.54 million pesos reported by DepEd as rewards to informers. It cannot stand alone.
+
+**[04:38:12.060] Col. Magtangol G. Panopio**  
+I think it has no relation with my certification, Your Honor.
+
+**[04:38:15.790] Sen. Joel Villanueva**  
+It has no relation. That's why it cannot stand alone. There must be supporting documents, other supporting documents to support it.
+
+**[04:38:23.430] Col. Magtangol G. Panopio**  
+I can only speak for the certification that I issue, Your Honor.
+
+**[04:38:26.510] Sen. Joel Villanueva**  
+But are you aware that it will be used by the department to... to be part of their liquidation report to the Commission on Audit?
+
+**[04:38:35.500] Col. Magtangol G. Panopio**  
+No, Your Honor.
+
+**[04:38:36.850] Sen. Joel Villanueva**  
+But kung alam mo na gagamitin, would you say it does not suffice?
+
+**[04:38:43.580] Col. Magtangol G. Panopio**  
+Yes, it will not suffice, Your Honor.
+
+**[04:38:45.200] Sen. Joel Villanueva**  
+Thank you. That'd be all. Thank you.
+
+**[04:38:46.890] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Villanueva. Before Senator-Judge Hontiveros, Senator-Judge Pangilinan to avail of his first round. Senator-Judge Pangilinan, you may proceed, sir, with your, as I understand, singular question.
+
+**[04:39:00.410] Sen. Francis “Kiko” Pangilinan**  
+One question, pero baka may follow-up ng isa pa.
+
+**[04:39:05.930] Sen. Francis “Kiko” Pangilinan**  
+Magandang hapon, Colonel Panopio. Kayo ba ay taga Pampanga o kapampangan ba kayo?
+
+**[04:39:10.930] Col. Magtangol G. Panopio**  
+I'm from Batangas, Your Honor.
+
+**[04:39:12.240] Sen. Francis “Kiko” Pangilinan**  
+Ah, Batangas. Kasi may mga Panopiong mga kapampangan. Anyway, tinanong ko ito kanina kay Colonel Boransing, yung usapin ng paggasta ng confidential funds at yung security officer ng DepEd. si Colonel Dennis Nolasco. Merong ba kayong pakikipag-usa, pakikipag-ugnayan, pakikipag-coordinate kay Colonel Nolasco sa usapin ng paggasta ng confidential funds doon sa mga YLS o kaya IEC?
+
+**[04:39:47.490] Col. Magtangol G. Panopio**  
+Ako personally, Your Honor, wala po.
+
+**[04:39:49.710] Sen. Francis “Kiko” Pangilinan**  
+Okay. Now, at ang nakipag-usap sa inyo ay si
+
+**[04:39:59.800] Sen. Francis “Kiko” Pangilinan**  
+former, former
+
+**[04:40:01.080] Sen. Francis “Kiko” Pangilinan**  
+general siya, di ba? Mempin, no? Si USEC Mempin ang nakipag-usap para hilingin yung certification ninyo.
+
+**[04:40:08.840] Col. Magtangol G. Panopio**  
+Siya po yung nakipag-usap sa division commander, Your Honor.
+
+**[04:40:11.520] Sen. Francis “Kiko” Pangilinan**  
+Yes, and your division commander relayed to you the request of USEC Mempin about the certification of the IEC and the YLS.
+
+**[04:40:24.120] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:40:24.720] Sen. Francis “Kiko” Pangilinan**  
+Okay. So, just for the record,
+
+**[04:40:30.200] Sen. Francis “Kiko” Pangilinan**  
+Claro na yung security officer ng DepEd na kung saan, base sa dating testimonya, ay siya ang humawak. Sa kanya nilipat ang confidential funds. Hindi nakipag-usap sa inyo.
+
+**[04:40:44.740] Col. Magtangol G. Panopio**  
+Sa akin po personally, hindi, Your Honor.
+
+**[04:40:46.660] Sen. Francis “Kiko” Pangilinan**  
+Yes, okay.
+
+**[04:40:47.620] Sen. Francis "Chiz" G. Escudero**  
+No other questions. Thank you, Senator-Judge Pangilinan, Senator-Judge Hontiveros. Again, for hopefully singular question as well.
+
+**[04:40:59.560] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Just one topic but three quick questions within it.
+
+**[04:41:04.140] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, ma'am.
+
+**[04:41:05.040] Sen. Risa Hontiveros**  
+Magandang hapon pong muli, Colonel. Ka-follow up po sa tanong ni Senate President kanina. So, dati na pong ginagawa yung mga activities na to, YSL, IEC, campaign activities, at dati rin na
+
+**[04:41:17.780] Sen. Risa Hontiveros**  
+po kayong nagko-coordinate sa mga teachers on the ground, tama po?
+
+**[04:41:21.440] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:41:22.120] Sen. Risa Hontiveros**  
+Alright, sir. And nagbibigay naman po sa inyo, sa Army, ng information silang mga DepEd teachers kahit po noong wala pang confidential funds ang DepEd noon. Tama po ba?
+
+**[04:41:37.940] Col. Magtangol G. Panopio**  
+About the confidential fund, I have no knowledge, Your Honor, but they are already coordinating with us, Your Honor.
+
+**[04:41:43.300] Sen. Risa Hontiveros**  
+Mula pa sa nakaraang mga taon o kahit dekada na nagdadaos ng ganitong mga gawain ang Philippine Army.
+
+**[04:41:50.040] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:41:50.530] Sen. Risa Hontiveros**  
+Alright, sir. So, huli na lang. E tumigil po ba sila, yung mga teachers on the ground, na mag-coordinate sa inyo noong nawala na yung confidential funds ng DepEd?
+
+**[04:42:01.690] Col. Magtangol G. Panopio**  
+I think on the ground, tuloy-tuloy naman po ang coordination ng teachers with the EAP, Your Honor.
+
+**[04:42:05.890] Sen. Risa Hontiveros**  
+Hanggang sa ngayon po, Colonel.
+
+**[04:42:07.330] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:42:07.950] Sen. Risa Hontiveros**  
+Alright. Salamat pong muli, Colonel. Salamat, Mr. Presiding Officer.
+
+**[04:42:12.570] Sen. Francis "Chiz" G. Escudero**  
+Thank you very much, Senator-Judge Hontiveros. Colonel Panopio, thank you for your time. Maraming salamat po sa... Ah! Senator-Judge Lacson is recognized.
+
+**[04:42:22.730] Sen. Panfilo “Ping” M. Lacson**  
+Very quickly.
+
+**[04:42:23.330] Sen. Francis "Chiz" G. Escudero**  
+My apologies, Colonel Panopio, we're not yet done.
+
+**[04:42:26.210] Sen. Panfilo “Ping” M. Lacson**  
+Yeah, very quickly. Anong S-bracket ng YLS participants?
+
+**[04:42:31.350] Col. Magtangol G. Panopio**  
+Basi po sa aming document, it's from 15 to 30 years old, Your Honor.
+
+**[04:42:34.910] Sen. Panfilo “Ping” M. Lacson**  
+Hindi ba 18 to 30?
+
+**[04:42:37.340] Col. Magtangol G. Panopio**  
+Based on our record, it's 15 to 30, Your Honor.
+
+**[04:42:40.200] Sen. Panfilo “Ping” M. Lacson**  
+So mostly mga college students ito?
+
+**[04:42:42.620] Col. Magtangol G. Panopio**  
+High school and college student, Your Honor.
+
+**[04:42:45.680] Sen. Panfilo “Ping” M. Lacson**  
+Ah, magkahalo.
+
+**[04:42:46.880] Col. Magtangol G. Panopio**  
+Yes, Your Honor.
+
+**[04:42:47.540] Sen. Panfilo “Ping” M. Lacson**  
+Thank you, Mr. President.
+
+**[04:42:48.980] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Lacson. Kung wala na po, maraming salamat po sa inyong panahon, kooperasyon at pagtugon sa mga katanungan, Colonel Panopio, ng mga abogado mula sa magkabilang partido, gayon din mula sa mga miyembro ng hukumang ito. At maraming salamat din po sa inyong serbisyo sa ating bansa. You are excused, sir, and thank you for your time. Thank you, sir.
+
+**[04:43:13.700] Sen. Francis "Chiz" G. Escudero**  
+Before I recognize the parties, just to dispose of some administrative proceedings. Court directs the Clerk of Court to continue with the parties the marking of additional exhibits at the Recto Room later at 4 p.m. The Chair likewise directs the Clerk of Court to furnish the parties initially with USB copies of the submissions of the banks after it was reviewed by the Court.
+
+**[04:43:42.620] Sen. Francis "Chiz" G. Escudero**  
+And we also have hard copies. So we will be turning over the hard copies as well. It's a bit voluminous, but I'd rather that you keep your copies, we keep our copies, and all of the copies due and owing to you be given to the parties. The Clerk of Court is so directed. And number three, to clarify, Honorable Luistro, tomorrow you shall be presenting Attorney Poa and Ms. Grande. That would be correct? For the record, the Honorable Luistro is nodding. Yes, Attorney Sheila, anything?
+
+**[04:44:14.670] Atty. Sheila C. Sison**  
+Just one quick question, Your Honor. I just want to know the order of the presentation tomorrow. Will the prosecution present Attorney Poa first or the PSA representative?
+
+**[04:44:26.010] Sen. Francis "Chiz" G. Escudero**  
+Honorable Luistro, may you please respond?
+
+**[04:44:27.940] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+To respond, Your Honor, we will be presenting first Attorney Michael Poa and if we will be able to conclude earlier, we will be presenting as well the PSA representative, Your Honor.
+
+**[04:44:39.680] Sen. Francis "Chiz" G. Escudero**  
+I presume that we can do that.
+
+**[04:44:41.600] Atty. Sheila C. Sison**  
+Thank you for that information, Your Honor.
+
+**[04:44:42.700] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Anything else? If that is all, there be no other matter or business to be taken up. Trial is hereby adjourned until 10 a.m. tomorrow, Wednesday, September 2, 2026. Session will be called according to the Senate President, still at 3 p.m.
