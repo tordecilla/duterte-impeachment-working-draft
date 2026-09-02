@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T02:37:23+08:00",
+  "generated_at": "2026-09-03T02:55:46+08:00",
   "complete_artifacts_only": true,
   "partner": null,
   "through_date": null,
@@ -19,7 +19,12 @@
   },
   "case_comparison": false,
   "document_library": null,
-  "related_document_library": null,
+  "related_document_library": {
+    "records": 53,
+    "date_references": 71,
+    "source": "related_document_artifacts",
+    "approved_only": true
+  },
   "acknowledgement_receipts": {
     "records": 175,
     "pdf_files": 175,
