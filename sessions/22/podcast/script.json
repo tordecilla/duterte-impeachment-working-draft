@@ -1,0 +1,745 @@
+{
+  "description": "P S A verification, the defense's alias position, data privacy, and the court's directions in the September 7 impeachment trial.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [
+        {
+          "segment_id": "S00006",
+          "start_seconds": 408.97,
+          "clock": "00:06:48",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00164",
+          "start_seconds": 2316.96,
+          "clock": "00:38:36",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00228",
+          "start_seconds": 3277.38,
+          "clock": "00:54:37",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00208",
+          "start_seconds": 2974.9300000000003,
+          "clock": "00:49:34",
+          "speaker_name": "Marizza B. Grande"
+        }
+      ],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for September seventh, twenty twenty-six. This is a working reference, not an official Senate record. The sitting centered on civil-registry records and the names used on confidential-fund receipts. The prosecution called Marizza B. Grande, Assistant National Statistician for the Civil Registration Service at the Philippine Statistics Authority, or P S A. She described how her office checked the submitted names and prepared its certifications."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00271",
+          "start_seconds": 3800.49,
+          "clock": "01:03:20",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00355",
+          "start_seconds": 4393.85,
+          "clock": "01:13:13",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01101",
+          "start_seconds": 13388.35,
+          "clock": "03:43:08",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01102",
+          "start_seconds": 13400.93,
+          "clock": "03:43:20",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01103",
+          "start_seconds": 13402.88,
+          "clock": "03:43:22",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01104",
+          "start_seconds": 13416.0,
+          "clock": "03:43:36",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01106",
+          "start_seconds": 13427.29,
+          "clock": "03:43:47",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01288",
+          "start_seconds": 14973.05,
+          "clock": "04:09:33",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01290",
+          "start_seconds": 15008.14,
+          "clock": "04:10:08",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        }
+      ],
+      "heading": "The verification result",
+      "id": "P002",
+      "kind": "finding",
+      "text": "Grande confirmed that one thousand six hundred and eighty-five of the two thousand six hundred and sixty-nine submitted names had no birth, marriage or death record in the database. That was about sixty-three percent. The lists concerned the Office of the Vice President and the Department of Education. Prosecutor Mae Sancho Divinagracia said receipts containing only signatures or unreadable names had been excluded from the submission."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00498",
+          "start_seconds": 5616.18,
+          "clock": "01:33:36",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00500",
+          "start_seconds": 5653.05,
+          "clock": "01:34:13",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00503",
+          "start_seconds": 5684.02,
+          "clock": "01:34:44",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00589",
+          "start_seconds": 6402.85,
+          "clock": "01:46:42",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00196",
+          "start_seconds": 2614.6,
+          "clock": "00:43:34",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        }
+      ],
+      "heading": "Death and birth records",
+      "id": "P003",
+      "kind": "finding",
+      "text": "For names that produced single matches, Grande identified thirty-seven death certificates: thirty-two associated with names on the Vice President's office list, and five on the Education Department list. She also described birth-record matches indicating twenty minors on the first list and five on the second. Divinagracia offered this evidence to support the prosecution's contention that confidential funds had been liquidated under nonexistent names and names matching deceased people and children."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00866",
+          "start_seconds": 11567.81,
+          "clock": "03:12:47",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00867",
+          "start_seconds": 11570.41,
+          "clock": "03:12:50",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00868",
+          "start_seconds": 11581.86,
+          "clock": "03:13:01",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00870",
+          "start_seconds": 11593.08,
+          "clock": "03:13:13",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00882",
+          "start_seconds": 11650.86,
+          "clock": "03:14:10",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00630M3",
+          "start_seconds": 6823.6,
+          "clock": "01:53:43",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00630M4",
+          "start_seconds": 6830.96,
+          "clock": "01:53:50",
+          "speaker_name": "Marizza B. Grande"
+        }
+      ],
+      "heading": "What Grande could identify",
+      "id": "P004",
+      "kind": "finding",
+      "text": "During cross-examination, Grande explained that the P S A had received a list and a request letter, rather than the acknowledgement receipts themselves. She confined her certification to the availability of database records. Earlier, during direct examination, Presiding Officer Francis Escudero asked whether the person in a matching birth record was the same Beatrice Cuenca who signed a receipt. Grande said she could not answer that."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00792",
+          "start_seconds": 11005.03,
+          "clock": "03:03:25",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00793",
+          "start_seconds": 11016.73,
+          "clock": "03:03:36",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00794",
+          "start_seconds": 11021.99,
+          "clock": "03:03:41",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00795",
+          "start_seconds": 11030.77,
+          "clock": "03:03:50",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00796",
+          "start_seconds": 11041.15,
+          "clock": "03:04:01",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00797",
+          "start_seconds": 11053.94,
+          "clock": "03:04:13",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01068",
+          "start_seconds": 13037.65,
+          "clock": "03:37:17",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01069",
+          "start_seconds": 13064.85,
+          "clock": "03:37:44",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01070",
+          "start_seconds": 13072.67,
+          "clock": "03:37:52",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01076",
+          "start_seconds": 13112.2,
+          "clock": "03:38:32",
+          "speaker_name": "Marizza B. Grande"
+        }
+      ],
+      "heading": "Registration gaps",
+      "id": "P005",
+      "kind": "finding",
+      "text": "The questioning also examined how people can be missing from the registry. Grande acknowledged that births, marriages and deaths can go unregistered, and that delayed registration affects search results. Answering Senator Erwin Tulfo, she said a person who had not completed delayed registration could receive a negative result. She also said the submitted names had not been checked against the national I D system."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01167",
+          "start_seconds": 13799.93,
+          "clock": "03:49:59",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01169",
+          "start_seconds": 13843.31,
+          "clock": "03:50:43",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01169L2",
+          "start_seconds": 13856.61,
+          "clock": "03:50:56",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01172",
+          "start_seconds": 13862.06,
+          "clock": "03:51:02",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01181G2",
+          "start_seconds": 13924.42,
+          "clock": "03:52:04",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01181G3",
+          "start_seconds": 13927.44,
+          "clock": "03:52:07",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01221",
+          "start_seconds": 14400.0,
+          "clock": "04:00:00",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01222",
+          "start_seconds": 14406.72,
+          "clock": "04:00:06",
+          "speaker_name": "Marizza B. Grande"
+        }
+      ],
+      "heading": "The comparison with other requests",
+      "id": "P006",
+      "kind": "finding",
+      "text": "Senator Joel Villanueva pressed Grande on how the sixty-three percent result compared with other verification requests. She called it unusual. Asked whether other requests reached fifty percent, Grande answered no, and said the highest were around thirty to forty percent. Senator Sherwin Gatchalian separately asked whether the P S A had investigated if the people behind the unmatched names actually existed. Grande said it had not."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01182",
+          "start_seconds": 13933.14,
+          "clock": "03:52:13",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01183",
+          "start_seconds": 13952.58,
+          "clock": "03:52:32",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01183L3",
+          "start_seconds": 13966.26,
+          "clock": "03:52:46",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01186",
+          "start_seconds": 14000.45,
+          "clock": "03:53:20",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01187",
+          "start_seconds": 14014.49,
+          "clock": "03:53:34",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S01188",
+          "start_seconds": 14028.65,
+          "clock": "03:53:48",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01189",
+          "start_seconds": 14046.56,
+          "clock": "03:54:06",
+          "speaker_name": "Marizza B. Grande"
+        }
+      ],
+      "heading": "Verifying an alias",
+      "id": "P007",
+      "kind": "finding",
+      "text": "Aliases became a central question. Villanueva asked how the P S A could verify someone behind an alias. Grande said the actual identity would have to be supplied, with details such as birth date, birthplace and parents' names. She agreed that an alias alone, without independently verifiable information linking it to a real identity, would not establish the person behind a receipt."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01241",
+          "start_seconds": 14622.88,
+          "clock": "04:03:42",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01242",
+          "start_seconds": 14668.42,
+          "clock": "04:04:28",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S01244",
+          "start_seconds": 14682.54,
+          "clock": "04:04:42",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S01246",
+          "start_seconds": 14718.31,
+          "clock": "04:05:18",
+          "speaker_name": "Sen. Risa Hontiveros"
+        }
+      ],
+      "heading": "The defense answers",
+      "id": "P008",
+      "kind": "finding",
+      "text": "Senator Risa Hontiveros then pressed the defense to state its position. She asked whether the entries were real names or aliases. Attorney Justin Nicol B. Gular answered that they were aliases, and described the information as classified. He said the defense would address the matter during its presentation of evidence. Hontiveros noted that this was the respondent's answer to her question."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00918",
+          "start_seconds": 11918.28,
+          "clock": "03:18:38",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00919",
+          "start_seconds": 11924.66,
+          "clock": "03:18:44",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00944",
+          "start_seconds": 12096.95,
+          "clock": "03:21:36",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00945",
+          "start_seconds": 12108.46,
+          "clock": "03:21:48",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00946",
+          "start_seconds": 12114.84,
+          "clock": "03:21:54",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00947",
+          "start_seconds": 12117.52,
+          "clock": "03:21:57",
+          "speaker_name": "Marizza B. Grande"
+        }
+      ],
+      "heading": "Consent and disclosure",
+      "id": "P009",
+      "kind": "finding",
+      "text": "There was also a dispute over data privacy. Gular asked whether the P S A had obtained the individuals' consent before releasing their civil-registry documents. Grande said it had not. She also confirmed that the twenty twenty-six certifications had been requested by the public prosecutor, without a subpoena."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00923L2",
+          "start_seconds": 11949.2,
+          "clock": "03:19:09",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00925",
+          "start_seconds": 11962.77,
+          "clock": "03:19:22",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00929",
+          "start_seconds": 11985.869999999999,
+          "clock": "03:19:45",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00932",
+          "start_seconds": 11996.85,
+          "clock": "03:19:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00933",
+          "start_seconds": 12008.54,
+          "clock": "03:20:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00934",
+          "start_seconds": 12014.9,
+          "clock": "03:20:14",
+          "speaker_name": "Marizza B. Grande"
+        },
+        {
+          "segment_id": "S00935",
+          "start_seconds": 12049.09,
+          "clock": "03:20:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00938",
+          "start_seconds": 12062.119999999999,
+          "clock": "03:21:02",
+          "speaker_name": "Marizza B. Grande"
+        }
+      ],
+      "heading": "The reason given for release",
+      "id": "P010",
+      "kind": "finding",
+      "text": "Divinagracia invoked Section thirteen, paragraph F, of the Data Privacy Act, arguing that its exception covered information used to establish claims and defenses in legal proceedings. Answering Escudero, Grande said the P S A relied on that provision, checked the request's legitimate purpose and limited the information to what was proportionate. She identified the House committee's ongoing investigation as the purpose of its request."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01341",
+          "start_seconds": 15327.94,
+          "clock": "04:15:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01344",
+          "start_seconds": 15342.86,
+          "clock": "04:15:42",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01347",
+          "start_seconds": 15437.04,
+          "clock": "04:17:17",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01348",
+          "start_seconds": 15476.57,
+          "clock": "04:17:56",
+          "speaker_name": "Atty. Sheila C. Sison"
+        }
+      ],
+      "heading": "The dispute over timing",
+      "id": "P011",
+      "kind": "finding",
+      "text": "After Grande was excused, Divinagracia argued that the alias theory should have been disclosed in the answer or at pretrial. She said the prosecution had prepared its case without that disclosure. Defense counsel Sheila Sison responded that the prosecution first had to discharge its burden of proof, and that the defense had not yet reached its evidence presentation."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01348G2",
+          "start_seconds": 15545.02,
+          "clock": "04:19:05",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The chair's direction",
+      "id": "P012",
+      "kind": "finding",
+      "text": "Escudero declined to compel the defense to present its theory or evidence at that stage. He said the prosecution could raise its objection during the defense presentation. He also noted that the defense might choose to file a demurrer and decide not to present evidence."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00696",
+          "start_seconds": 7248.0,
+          "clock": "02:00:48",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00727",
+          "start_seconds": 7627.14,
+          "clock": "02:07:07",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01424",
+          "start_seconds": 16617.07,
+          "clock": "04:36:57",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01425",
+          "start_seconds": 16666.3,
+          "clock": "04:37:46",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01444",
+          "start_seconds": 16700.83,
+          "clock": "04:38:20",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01444G1",
+          "start_seconds": 16719.52,
+          "clock": "04:38:39",
+          "speaker_name": "Sen. Erwin Tulfo"
+        }
+      ],
+      "heading": "Questions for the security officers",
+      "id": "P013",
+      "kind": "finding",
+      "text": "The senators also sought answers from the security officers linked to the funds. Earlier, Senator Raffy Tulfo questioned similar handwriting and signatures under different receipt names and urged calling Colonel Lachica and his Education Department counterpart. Later, Erwin Tulfo proposed that the court summon Colonel Lachica and Colonel Nolasco if the prosecution would not present them, so senator-judges could ask about the funds and the Vice President's involvement."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01458",
+          "start_seconds": 16777.15,
+          "clock": "04:39:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01458L2",
+          "start_seconds": 16778.43,
+          "clock": "04:39:38",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S01460",
+          "start_seconds": 16779.69,
+          "clock": "04:39:39",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S01460L2",
+          "start_seconds": 16779.81,
+          "clock": "04:39:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01461",
+          "start_seconds": 16807.02,
+          "clock": "04:40:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01463",
+          "start_seconds": 16840.24,
+          "clock": "04:40:40",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01465",
+          "start_seconds": 16866.67,
+          "clock": "04:41:06",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "A possible later court call",
+      "id": "P014",
+      "kind": "finding",
+      "text": "Representative Gerville Luistro confirmed that the prosecution did not intend to present Lachica and Nolasco. Escudero explained that the court could consider calling witnesses after the parties' evidence presentations and before judgment. He said a court-called witness would answer questions from the senator-judges."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01393",
+          "start_seconds": 16051.7,
+          "clock": "04:27:31",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S01394",
+          "start_seconds": 16068.2,
+          "clock": "04:27:48",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Edward Fajarda's subpoena",
+      "id": "P015",
+      "kind": "finding",
+      "text": "The court also addressed Edward Fajarda's planned testimony. After a medical update, the prosecution withdrew its request to call him on humanitarian grounds. Escudero recalled the subpoena. He cited a medical certificate and Senate medical confirmation that Fajarda needed another thirty days to recover."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01399",
+          "start_seconds": 16226.71,
+          "clock": "04:30:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Financial documents",
+      "id": "P016",
+      "kind": "finding",
+      "text": "For the next stages of the case, the chair granted Manulife, P N B and Union Bank more time to comply with document subpoenas. He directed financial institutions to submit their compliance personally to the clerk of court. The clerk would compare electronic and paper versions and furnish both parties with the same sets of documents."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01405",
+          "start_seconds": 16359.75,
+          "clock": "04:32:39",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S01407",
+          "start_seconds": 16435.5,
+          "clock": "04:33:55",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S01414",
+          "start_seconds": 16471.96,
+          "clock": "04:34:31",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01416",
+          "start_seconds": 16515.37,
+          "clock": "04:35:15",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01471",
+          "start_seconds": 16917.46,
+          "clock": "04:41:57",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01472",
+          "start_seconds": 16936.64,
+          "clock": "04:42:16",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S01473",
+          "start_seconds": 16943.52,
+          "clock": "04:42:23",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The next evidence",
+      "id": "P017",
+      "kind": "finding",
+      "text": "Luistro announced that the prosecution would advance its unexplained-wealth evidence and present bribery evidence afterward, retaining both parts of its case. Ahead of the next police witness, Sison requested advance copies of the documents and reserved the right to seek more time to examine them. Escudero asked the prosecution to establish whether the P N P had a separate report and provide it in time for cross-examination."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01341",
+          "start_seconds": 15327.94,
+          "clock": "04:15:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01396",
+          "start_seconds": 16120.97,
+          "clock": "04:28:40",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S01481",
+          "start_seconds": 17011.42,
+          "clock": "04:43:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The next sitting",
+      "id": "P018",
+      "kind": "outro",
+      "text": "Grande's examination was complete, and the chair had excused her. The prosecution planned to continue with its next witnesses on September eighth. Escudero adjourned the impeachment trial until ten in the morning that day."
+    }
+  ],
+  "title": "Audio overview - September 7, 2026"
+}
