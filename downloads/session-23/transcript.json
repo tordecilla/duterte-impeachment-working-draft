@@ -1,0 +1,3269 @@
+{
+  "schema_version": 1,
+  "source": {
+    "title": "Impeachment Trial of Vice President Sara Duterte",
+    "youtube_id": "HhrwwDe8Tks",
+    "url": "https://www.youtube.com/watch?v=HhrwwDe8Tks",
+    "upload_date": "20260908",
+    "duration_seconds": 8006.0
+  },
+  "transcript": {
+    "status": "Reviewed working draft",
+    "revision": 2,
+    "turn_count": 359,
+    "turns": [
+      {
+        "stable_id": "S00001",
+        "start_seconds": 381.01,
+        "end_seconds": 382.91,
+        "speaker": "Atty. Renato N. Bantug Jr.",
+        "text": "The Senate of Judges of the Impeachment Court.",
+        "confidence": 0.79144287109375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00002",
+        "start_seconds": 390.02,
+        "end_seconds": 392.17,
+        "speaker": "Alfredo Sotto Corpuz",
+        "text": "Good morning, sir.",
+        "confidence": 0.57135009765625,
+        "editorial_flags": [
+          "caption_reconstruction",
+          "focused_asr_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00002B",
+        "start_seconds": 392.17,
+        "end_seconds": 394.32,
+        "speaker": "Sen. Sherwin T. Gatchalian",
+        "text": "Good morning, Gen.",
+        "confidence": 0.57135009765625,
+        "editorial_flags": [
+          "caption_reconstruction",
+          "focused_asr_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00003",
+        "start_seconds": 423.56,
+        "end_seconds": 424.81,
+        "speaker": "Sen. Sherwin T. Gatchalian",
+        "text": "To make a proclamation.",
+        "confidence": 0.988525390625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00004",
+        "start_seconds": 425.8,
+        "end_seconds": 436.92,
+        "speaker": "Alfredo Sotto Corpuz",
+        "text": "All persons are commanded to keep silent under pain of penalty while the Impeachment Court is in session for the trial of Vice President Sara Zimmerman Duterte.",
+        "confidence": 0.9606722608024691,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00005",
+        "start_seconds": 438.46,
+        "end_seconds": 447.94,
+        "speaker": "Sen. Sherwin T. Gatchalian",
+        "text": "The impeachment trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator Judge Pia Cayetano.",
+        "confidence": 0.9821809895833333,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00006",
+        "start_seconds": 453.1,
+        "end_seconds": 477.04,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Let us bow our heads. Heavenly Father, during these difficult times, we pray for your guidance and divine intervention. We pray especially for our people as we continue to brave heavy rains and flooding. Protect the families and communities in harm's way. Give strength to those who have been displaced or have lost their homes and livelihoods. Keep our responders, volunteers, and frontliners safe as they serve those in need.",
+        "confidence": 0.9958600725446428,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00007",
+        "start_seconds": 478.85,
+        "end_seconds": 494.99,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "We cling to your words in Psalm 72.4. He shall judge the poor. He shall save the children of the needy. He shall break in pieces the oppressor. Lord God, guide us in the work before us and watch over our nation and our people. In Jesus' name, amen. Amen.",
+        "confidence": 0.9824984681372549,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00008",
+        "start_seconds": 495.57,
+        "end_seconds": 497.47,
+        "speaker": "Sen. Sherwin T. Gatchalian",
+        "text": "The Clerk of Court will now call the roll.",
+        "confidence": 0.93212890625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00009",
+        "start_seconds": 500.83,
+        "end_seconds": 544.62,
+        "speaker": "Atty. Renato N. Bantug Jr.",
+        "text": "Roll call up, members. Senator-Judge Aquino. Senator-Judge Cayetano-Alan. Senator-Judge Cayetano-Pia. Senator-Judge De La Rosa. Senator-Judge Ejercito. Senator-Judge Estrada. Senator-Judge Go. Senator-Judge, Hontiveros, Senator-Judge, Lacson, Senator-Judge, Lapid, Senator-Judge, Legarda, Senator-Judge, Marcoleta, Senator-Judge, Marcos, Senator-Judge, Padilla, Senator-Judge, Pangilinan, Senator-Judge, Sotto III, Senator-Judge, Tulfo Erwin, Senator-Judge, Tulfo Raffy, Senator-Judge, Villanueva. Senator-Judge Villar-Camille, Senator-Judge Villar-Marc, Senator-Judge Zubiri, the Presiding Officer, Senator-Judge Escudero, the Senate President, Senator-Judge Gatchalian.",
+        "confidence": 0.8811599301255266,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00010",
+        "start_seconds": 544.8,
+        "end_seconds": 559.57,
+        "speaker": "Sen. Sherwin T. Gatchalian",
+        "text": "With 17 Senator-judges present, the Chair declares the presence of a quorum. In accordance with the Rules of Procedure on Impeachment Trials, the Chair now recognizes the duly elected Presiding Officer to preside over the proceedings of the Impeachment Court.",
+        "confidence": 0.9352498372395834,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00011",
+        "start_seconds": 560.53,
+        "end_seconds": 578.25,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Thank you, Mr. Senate President. If there are no objections. We shall dispense with the reading of the September 7, 2026 Journal of the Senate, sitting as an Impeachment Court, and shall consider the same as approved. The Clerk of Court will please call the case before the Impeachment Court.",
+        "confidence": 0.9764949544270833,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00012",
+        "start_seconds": 578.63,
+        "end_seconds": 584.67,
+        "speaker": "Atty. Renato N. Bantug Jr.",
+        "text": "Case number 004-2026, the matter of Impeachment Trial of Vice President Sara Zimmerman Duterte.",
+        "confidence": 0.8690416124131944,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00013",
+        "start_seconds": 585.45,
+        "end_seconds": 587.89,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Appearances for the parties for the Prosecution.",
+        "confidence": 0.9335356212797619,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00014",
+        "start_seconds": 588.01,
+        "end_seconds": 593.35,
+        "speaker": "Rep. Joel R. Chua",
+        "text": "Good morning, Your Honor. Same appearance for the Prosecution, Your Honor. For the Respondent.",
+        "confidence": 0.9548281715029762,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00015",
+        "start_seconds": 593.93,
+        "end_seconds": 596.47,
+        "speaker": "Atty. Mark C. Vinluan",
+        "text": "Morning, Your Honor. Same appearance for the respondent.",
+        "confidence": 0.8320465683937073,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00016",
+        "start_seconds": 597.31,
+        "end_seconds": 598.51,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Good morning, gentlemen.",
+        "confidence": 0.9837239583333334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00017",
+        "start_seconds": 599.01,
+        "end_seconds": 609.53,
+        "speaker": "Rep. Joel R. Chua",
+        "text": "Your Honor, before we proceed, Your Honor, may we ask for the recognition of counsel for the prosecution, Atty. Lorna Kapunan.",
+        "confidence": 0.9570762997581845,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00018",
+        "start_seconds": 609.75,
+        "end_seconds": 611.67,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, Atty. Lorna is recognized.",
+        "confidence": 0.972021484375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00019",
+        "start_seconds": 613.49,
+        "end_seconds": 616.13,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Kindly, Ma'am Lorna, you need the platform, right?",
+        "confidence": 0.9883897569444444,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00020",
+        "start_seconds": 616.73,
+        "end_seconds": 617.21,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Yes,",
+        "confidence": 0.99462890625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00021",
+        "start_seconds": 618.16,
+        "end_seconds": 618.36,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Ma'am.",
+        "confidence": 0.55419921875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00023",
+        "start_seconds": 618.76,
+        "end_seconds": 621.12,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "So, please arrange the platform.",
+        "confidence": 0.760546875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00024",
+        "start_seconds": 634.68,
+        "end_seconds": 638.72,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, on the part of the respondents, Attorney Narvaza, it'll be you.",
+        "confidence": 0.897128634982639,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00025",
+        "start_seconds": 639.6,
+        "end_seconds": 640.86,
+        "speaker": "Atty. Mark C. Vinluan",
+        "text": "Mark C. Vinluan.",
+        "confidence": 0.7078043619791666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00025B",
+        "start_seconds": 640.86,
+        "end_seconds": 641.24,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Sorry,",
+        "confidence": 0.7078043619791666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00026",
+        "start_seconds": 641.42,
+        "end_seconds": 643.8,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "yes, Attorney Vinluan, it'll be you.",
+        "confidence": 0.9964463975694443,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00027",
+        "start_seconds": 648.03,
+        "end_seconds": 649.21,
+        "speaker": "Atty. Mark C. Vinluan",
+        "text": "Yes, Your Honor.",
+        "confidence": 0.9622667100694444,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00027B",
+        "start_seconds": 649.21,
+        "end_seconds": 651.53,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Okay, Attorney Lorna, call your witness.",
+        "confidence": 0.9622667100694444,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00028",
+        "start_seconds": 652.59,
+        "end_seconds": 658.92,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "With the permission of this honorable court, honorable presiding officer. Yes,",
+        "confidence": 0.9331498579545454,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00029",
+        "start_seconds": 658.92,
+        "end_seconds": 659.1,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "ma'am.",
+        "confidence": 0.9810791015625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00030",
+        "start_seconds": 659.88,
+        "end_seconds": 662.02,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "And honorable senator judges.",
+        "confidence": 0.96630859375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00031",
+        "start_seconds": 665.16,
+        "end_seconds": 672.67,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "I think because I'm the oldest here, I have been tasked. with this difficult manifestation this morning, Your Honor.",
+        "confidence": 0.9605648643092105,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00032",
+        "start_seconds": 673.79,
+        "end_seconds": 679.67,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "If I may proceed.",
+        "confidence": 0.827880859375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00033",
+        "start_seconds": 679.89,
+        "end_seconds": 680.77,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Please proceed,",
+        "confidence": 0.994873046875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00034",
+        "start_seconds": 680.89,
+        "end_seconds": 681.03,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "counsel.",
+        "confidence": 0.297607421875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00035",
+        "start_seconds": 681.63,
+        "end_seconds": 685.59,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Your Honor, please, I assure you it has nothing to do with the naming of a",
+        "confidence": 0.956024169921875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00036",
+        "start_seconds": 685.59,
+        "end_seconds": 688.73,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "new national bird. It will",
+        "confidence": 0.9955078125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00037",
+        "start_seconds": 688.73,
+        "end_seconds": 690.01,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "not take that long, Your Honor.",
+        "confidence": 0.9999186197916666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00038",
+        "start_seconds": 690.35,
+        "end_seconds": 691.93,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Please proceed, Attorney Capunan.",
+        "confidence": 0.78082275390625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00039",
+        "start_seconds": 692.11,
+        "end_seconds": 698.76,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Today, we will not make any conclusions of fact nor conclusions of law.",
+        "confidence": 0.9917367788461539,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00040",
+        "start_seconds": 702.45,
+        "end_seconds": 753.23,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "This article 1 on the misuse and misappropriation of confidential funds. In the presentation of the witnesses or the assessment of evidence that we need, the prosecution had intended to present 27 witnesses and thousands of exhibits, Your Honor. To date, We have already presented 10 witnesses and stipulated as to the testimony of two witnesses, Your Honor. So a total of 12 witnesses out of 27 witnesses.",
+        "confidence": 0.9492319144454657,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00041",
+        "start_seconds": 754.93,
+        "end_seconds": 793.67,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "After a long meeting last night and towards this morning, just before this hearing, the prosecution both public and private prosecutors have decided today as a matter of fact exhibit a is my handwritten notes which i hurriedly prepared this morning we have decided to forego your honors to forego not only with the witnesses subpoenaed for today but with all the remaining",
+        "confidence": 0.9784323071676587,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00042",
+        "start_seconds": 795.79,
+        "end_seconds": 843.96,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "15 witnesses, Your Honor. Why is that so? It is the prosecution's contention that the case has become very clear. Not a conclusion of fact and law, but a conclusion based on 4,750 documents presented and identified by the 12 witnesses. 10 of whom were present in court and subjected themselves to long cross-examination by the defense counsels and as well to questions from the senator judges. The testimony elicited very clearly a",
+        "confidence": 0.9585709635416667,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00043",
+        "start_seconds": 845.66,
+        "end_seconds": 875.72,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "pattern as one would see a chessboard. And the reason I make this metaphor is I am told that I cannot use the word sham nor mastermind, nor can I use the words illegal, improper, extravagant, immoral, unconscionable. I'm not using these words, Your Honor.",
+        "confidence": 0.9611156322337964,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00044",
+        "start_seconds": 878.1,
+        "end_seconds": 885.52,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Lest the honorable presiding officers say, Attorney Kapunan, you are on a short leash.",
+        "confidence": 0.884341285342262,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00045",
+        "start_seconds": 887.44,
+        "end_seconds": 891.08,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "I'm about to counsel, but I'm waiting for you to finish.",
+        "confidence": 0.8778409090909091,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00046",
+        "start_seconds": 891.08,
+        "end_seconds": 891.12,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "I have",
+        "confidence": 0.9599609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00048",
+        "start_seconds": 891.12,
+        "end_seconds": 942.05,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "preempted you, Your Honor. In any event, my point is this. Our point is this. In this game of chess, and maraming nanonood sa atin na alam naman ng larong chess. Sa larong chess po, meron tinatawag na pawns. Merong mga bishops, merong castle, merong horses. And... Ang pinaka-importante, mas importante pa sa king. And I speak this because not of my gender, but the queen is more important than the king. Because the queen can move in many directions. And we have seen that. We have seen that in the evidence presented, the pawns. And I'm not saying that, I'm saying this metaphorically.",
+        "confidence": 0.9603243873232887,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00049",
+        "start_seconds": 943.56,
+        "end_seconds": 960.78,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "The witnesses presented here. The Land Bank. From the Land Bank, we have been able to show the withdrawal that there were confidential funds and these were withdrawn from two witnesses.",
+        "confidence": 0.9036471459173387,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00050",
+        "start_seconds": 961.2,
+        "end_seconds": 961.72,
+        "speaker": "Atty. Mark C. Vinluan",
+        "text": "Sorry to interrupt.",
+        "confidence": 0.9002278645833334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00051",
+        "start_seconds": 961.98,
+        "end_seconds": 983.25,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Counsel, I was about to also counsel. Attorney Marga, I was about to also. The long and short of it, Attorney Capone, is that you will no longer be presenting today. Police Major Jovelin Magay and Attorney Sunshine Chary Fajarda and Mr. Brasilio Sabaldat.",
+        "confidence": 0.9094441731770833,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00052",
+        "start_seconds": 983.75,
+        "end_seconds": 991.94,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Yes, Your Honor, but more important than that, there is a reason. This is not arbitrary and",
+        "confidence": 0.9737189797794118,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00053",
+        "start_seconds": 992.07,
+        "end_seconds": 1007.88,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "this is not random. We're not asking for a reason, counsel. It's well within your rights and prerogative to decide not to present these witnesses anymore. But I have to caution you, counsel, before you make the",
+        "confidence": 0.9382984058277027,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00054",
+        "start_seconds": 1009.48,
+        "end_seconds": 1011.24,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "motion that I think you will be making.",
+        "confidence": 0.97491455078125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00055",
+        "start_seconds": 1012.98,
+        "end_seconds": 1021.78,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Because, may I ask, will you be presenting other witnesses after these three or no more for this article?",
+        "confidence": 0.9799547697368421,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00056",
+        "start_seconds": 1022.44,
+        "end_seconds": 1068.18,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Your Honor, please, as I mentioned earlier, originally, Your Honor, prosecution intended, and this is so stated in our pretrial brief, 27 witnesses. You presented 12. 27 witnesses, Your Honor. Thus far we have presented 10 and stipulated and two other witnesses have stipulated rendering unnecessary their personal presence in court, Your Honor. All these need and that's why I started with a metaphor of all of these actors in the chessboard point to only one person, the Queen. and it is the Queen here, the Vice President. Again,",
+        "confidence": 0.916771363676264,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00057",
+        "start_seconds": 1068.18,
+        "end_seconds": 1073.88,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Attorney Lorna, you know where you're leading to and I also know where you're leading to. Your Honor,",
+        "confidence": 0.9499308268229166,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00058",
+        "start_seconds": 1074.0,
+        "end_seconds": 1078.08,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "this is preliminary to your question on who do we intend to present.",
+        "confidence": 0.9993990384615384,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00059",
+        "start_seconds": 1078.28,
+        "end_seconds": 1081.4,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Kindly answer the question, counsel. And",
+        "confidence": 0.8231201171875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00060",
+        "start_seconds": 1081.4,
+        "end_seconds": 1103.35,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "this is why all of these pawns and castles and horses and bishops Point to only one person, and that accountable person is the Vice President. And that is why, Your Honor, in lieu of presenting 15 other witnesses, we will be presenting the Vice President herself as",
+        "confidence": 0.9682464599609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00061",
+        "start_seconds": 1105.14,
+        "end_seconds": 1106.44,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "regards use,",
+        "confidence": 0.865966796875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00062",
+        "start_seconds": 1107.97,
+        "end_seconds": 1117.39,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "misuse, misappropriation of confidential funds, which is Article 1 of the Articles of Impeachment.",
+        "confidence": 0.9952915736607143,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00063",
+        "start_seconds": 1119.31,
+        "end_seconds": 1154.16,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "And as well, we have two remaining articles, Your Honor, the article on unexplained wealth and the article of bribery, all of which, unless the Vice President herself appears and respects the process of this impeachment court and affirms, confirms her allegation of innocence, Your Honor, the people will never know. If the prosecution's case really,",
+        "confidence": 0.9590054466610863,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00064",
+        "start_seconds": 1154.4,
+        "end_seconds": 1156.2,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "based",
+        "confidence": 0.994140625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00065",
+        "start_seconds": 1156.2,
+        "end_seconds": 1186.75,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "on witnesses and evidence, will point to the senator-judges, Your Honor, exercising looking at the evidence and the testimony with the lens of political neutrality, Your Honor. and towards the end that impartial justice will be served. This cannot be done if no subpoena is being issued to the Vice President herself, Your Honor.",
+        "confidence": 0.9524643406723485,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00066",
+        "start_seconds": 1186.97,
+        "end_seconds": 1196.27,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Now I understand why you began your litany, counsel, with you have been tasked with a difficult job. So you're asking for a subpoena against the Vice President?",
+        "confidence": 0.9535246349516369,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00067",
+        "start_seconds": 1197.15,
+        "end_seconds": 1198.61,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Not at this time, Your Honor.",
+        "confidence": 0.9978841145833334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00068",
+        "start_seconds": 1199.23,
+        "end_seconds": 1202.01,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Not again? So what are we going to do, counsel?",
+        "confidence": 0.969482421875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00069",
+        "start_seconds": 1202.23,
+        "end_seconds": 1236.95,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Your Honor, please, the testimony of the Vice President. will be material to all four articles. Article 1, the article on grave threats, Article 4, Article 1 on misuse and misappropriation of confidential funds, Article 2 on unexplained wealth, and Article 3 on bribery, Your Honor. And that is why at the end of all of these articles, we reserve the right to present the Vice President. herself.",
+        "confidence": 0.9642190372242647,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00070",
+        "start_seconds": 1237.29,
+        "end_seconds": 1240.71,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "But you're not asking for the issuance of a subpoena at this point in time?",
+        "confidence": 0.9256564670138889,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00071",
+        "start_seconds": 1240.77,
+        "end_seconds": 1242.09,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Not at this point, Your Honor.",
+        "confidence": 0.91552734375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00072",
+        "start_seconds": 1242.67,
+        "end_seconds": 1253.43,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "And again, to reiterate the Presiding Officer's question earlier, you will not be presenting also at this time any further witnesses under this article of misuse?",
+        "confidence": 0.9677170973557693,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00073",
+        "start_seconds": 1254.31,
+        "end_seconds": 1255.11,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Yes, Your Honor.",
+        "confidence": 0.9951171875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00074",
+        "start_seconds": 1256.36,
+        "end_seconds": 1256.84,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Just",
+        "confidence": 0.90673828125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00075",
+        "start_seconds": 1256.84,
+        "end_seconds": 1257.96,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "to summarize, Your Honor.",
+        "confidence": 0.9901123046875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00076",
+        "start_seconds": 1258.14,
+        "end_seconds": 1263.02,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "But you will not be resting yet on this article? Or do you intend to as well?",
+        "confidence": 0.9985638786764706,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00077",
+        "start_seconds": 1264.29,
+        "end_seconds": 1268.2,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "We will be resting on this article. uh your honor um",
+        "confidence": 0.9800692471590909,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00078",
+        "start_seconds": 1268.2,
+        "end_seconds": 1268.64,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "with",
+        "confidence": 0.99609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00079",
+        "start_seconds": 1268.64,
+        "end_seconds": 1290.13,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "the reservation of calling two possible witnesses uh one two possible witnesses at the end your honor the vice president herself and uh perhaps an amicus curate to aid this honorable court on understanding the intent of the drafters of",
+        "confidence": 0.9561068543002137,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00081",
+        "start_seconds": 1290.13,
+        "end_seconds": 1323.08,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "the constitution on articles of impeachment on public officers and public accountability. But this will be done at the end of presentation of the four articles. And to summarize, there will be no more hearings, your honor, trials on Article 1, misuse and misappropriation of confidential funds. And lastly, I would like to thank all the subpoenaed witnesses for today who braved the rains and are here.",
+        "confidence": 0.9487486881996269,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00082",
+        "start_seconds": 1324.88,
+        "end_seconds": 1327.61,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Attorney Mark, may I hear from you?",
+        "confidence": 0.89453125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00083",
+        "start_seconds": 1327.73,
+        "end_seconds": 1339.03,
+        "speaker": "Atty. Mark C. Vinluan",
+        "text": "Yes. Your Honor, considering this development may be as your honor that our lead counsel, Attorney Sheila Sison, be recognized. I think she's in the best position to speak on behalf of our team here.",
+        "confidence": 0.9302455357142857,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00084",
+        "start_seconds": 1339.51,
+        "end_seconds": 1342.38,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "Likewise, Your Honor, if I may.",
+        "confidence": 0.995849609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00085",
+        "start_seconds": 1343.37,
+        "end_seconds": 1345.51,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "To pass it on to the Honorable Bistro.",
+        "confidence": 0.9656422932942709,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00086",
+        "start_seconds": 1345.79,
+        "end_seconds": 1363.04,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "May I likewise, Your Honor, and thank you for your patience. And I'd like to pass this on to our lead. Public Prosecutor, Attorney also, Attorney, Chair, Jinky Luistro. The",
+        "confidence": 0.9464260525173612,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00087",
+        "start_seconds": 1363.04,
+        "end_seconds": 1374.04,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Chair would also like to thank the counsel for the respondents for their patience with a long introduction to the motion of the manifestation of Attorney Kapunan earlier.",
+        "confidence": 0.9392060779389881,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00088",
+        "start_seconds": 1374.54,
+        "end_seconds": 1375.54,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "I think",
+        "confidence": 0.64892578125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00089",
+        "start_seconds": 1375.54,
+        "end_seconds": 1379.84,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "they chose wisely, Attorney Lorna, when they chose you to perform that difficult job.",
+        "confidence": 0.9978201729910714,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00090",
+        "start_seconds": 1382.25,
+        "end_seconds": 1386.95,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "I spoke only for two minutes. Practicing this one was 20 minutes. Thank",
+        "confidence": 0.9556603064903846,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00091",
+        "start_seconds": 1386.95,
+        "end_seconds": 1388.25,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "you",
+        "confidence": 0.99951171875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00092",
+        "start_seconds": 1388.25,
+        "end_seconds": 1389.03,
+        "speaker": "Atty. Lorna Patajo-Kapunan",
+        "text": "for your indulgence.",
+        "confidence": 0.9056803385416666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00093",
+        "start_seconds": 1389.05,
+        "end_seconds": 1407.53,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Attorney, the Honorable Louise Troye is recognized. But in the meantime, Chair would recognize Attorney Sheila for her comments, if any, on the manifestation of the Honorable Kapunan that they will no longer be presenting witnesses and may call the respondent herself.",
+        "confidence": 0.9323953295510912,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00094",
+        "start_seconds": 1408.3,
+        "end_seconds": 1409.4,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Good morning, Your Honor.",
+        "confidence": 0.843994140625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00095",
+        "start_seconds": 1409.48,
+        "end_seconds": 1410.9,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Thank you for recognizing",
+        "confidence": 0.8583984375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00096",
+        "start_seconds": 1410.9,
+        "end_seconds": 1448.07,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "myself, Your Honor. We would just like to give a brief comment and perhaps a more appropriate response would be in order. When we already received any formal requests for subpoena, as the good counsel had mentioned, they are not still asking for any issuance of subpoena for the respondent. But briefly, I would just like to address two points in her, what she calls a two-minute manifestation. But in reality...",
+        "confidence": 0.9523111282418308,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00097",
+        "start_seconds": 1448.07,
+        "end_seconds": 1448.85,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "I will give you a chance, counsel, please proceed.",
+        "confidence": 0.9841796875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00098",
+        "start_seconds": 1448.91,
+        "end_seconds": 1473.65,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "It would seem to me that it's more than two minutes. Well, there's a third one. And the third one, I would have to say first, I'd like to thank the Madam Counsel for not mentioning the very words that the court had already repeatedly ruled are not allowed in this courtroom or anywhere else.",
+        "confidence": 0.9577426252693966,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00099",
+        "start_seconds": 1475.48,
+        "end_seconds": 1633.92,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "The second point I'd like to make is with respect to the manifestation where she adverted to the prosecution's desire or wish for the respondent to be present in this trial. I think this matter and issue has been settled on day one. And until now, it is clear that respondent is here. through her counsel. If respondent is not interested in this trial, she would not have even sent her lawyers to defend her in this case. Now as to my third manifestation in respect of the intention of the prosecution to call the respondent, again, we will also reserve our right to file our formal written comment to any such Request but just very briefly I think that without me expounding or articulating on these principles this court would be able to appreciate that there is an innate problem in that kind of request because just on five points because the Constitution prohibits This kind of testimonial compulsion from the accused herself. I know that the response would be, this is sui generis. This is not exactly a purely criminal proceeding. But nonetheless, when Section 17, Article 3 of our 1987 Constitution put in that guarantee that no person shall be compelled to testify against himself or to be a witness, or that there should not be a testimonial compulsion From the accused herself, it did not qualify that provision. Now, the second thing is, with respect to that first point, this right is absolute. And this is not only a simple right or a statutory right. This is a fundamental right. This is a right emanating from the Constitution itself. and one that emanates from the guarantees under Article 3 of our 1987 Constitution. At alam ko, maiintindihan to hindi lamang ng mga taong nasa loob ng bulwagang ito o ng mga abogado o mga sipag-aral sa batas, kundi mahalagang maintindihan ito para rin sa lahat ng mamamayan na maaaring naharap sa isang pagsasakdal o sa isang malisyosong",
+        "confidence": 0.9481080235247631,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00100",
+        "start_seconds": 1633.92,
+        "end_seconds": 1634.76,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "akusasyon.",
+        "confidence": 0.9671630859375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00101",
+        "start_seconds": 1635.67,
+        "end_seconds": 1658.2,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Ito ay isang batayang karapatan na kailangang maunawaan, kailangang maintindihan, and that every Filipino should appreciate upang sa panahon na ito ay gagawin sa kanila, alam nila kung ano ang karapatan na maaari nilang i-invoke. Now my third point in respect of this preliminary",
+        "confidence": 0.964111328125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00102",
+        "start_seconds": 1660.02,
+        "end_seconds": 1682.04,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Manifestation of such intention to call the Vice President as witness for them is that the Constitution and jurisprudence are historically clear on the absolute prohibition against compelling the accused to give testimony for the prosecution. We will be able to cite case that starts",
+        "confidence": 0.9371448092990451,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00103",
+        "start_seconds": 1695.33,
+        "end_seconds": 1696.01,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Now",
+        "confidence": 0.359130859375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00104",
+        "start_seconds": 1696.01,
+        "end_seconds": 1698.87,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "the fourth point is that the aim of the",
+        "confidence": 0.9517144097222222,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00105",
+        "start_seconds": 1698.87,
+        "end_seconds": 1763.87,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Constitutional injunction against the testimonial compulsion is aimed against a more far-reaching evil in the words of the Supreme Court. It is a guard against the recurrence of the Inquisition. and the Star Chamber, even if not in their stark brutality. I will leave it there, no? Hindi ko na siya ipapaliwanag pa habang hinihintay namin yung formal na request ng subpoena mula sa prosecution. Finally, at ito siguro yung isa sa pinaka mahalagang batayan para manindigan kami. The preservation of liberties does not depend on motives. And while the motives of men are often commendable, we must remember, however, that the preservation of our fundamental liberties does not depend on motives.",
+        "confidence": 0.9268139504401733,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00106",
+        "start_seconds": 1767.21,
+        "end_seconds": 1809.16,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "has the same effect whether the suppressor is a reformer or an outlaw and the only protection against misguided zeal is constant alertness to infractions of or the guarantees of liberty guaranteed in our constitution and each surrender of liberty to the demands of the moment makes easier another larger surrender and the battle Over the Bill of Rights is a never-ending one. Hindi ko po itong mga salita. Ito po ay salita ng ating Korte Suprema. With that, I will end this brief manifestation.",
+        "confidence": 0.9649932624757752,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00107",
+        "start_seconds": 1824.18,
+        "end_seconds": 1866.93,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Honorable Luistro of the Constitutional Prohibition, specifically Article 3, Section 17. So I hope when you make your motion that you will argue insofar as it's, if at all, non-applicability. But Attorney Sheila, to recall also in the previous impeachment complaint that the Senate had, the respondent himself, then Chief Justice Corona, decided to appear. So although there may seem to be, without preempting the ruling of the Chair, there may seem to be a prohibition. against opposing counsel calling the respondent. Nothing prevents the respondent from deciding through her counsel to also appear, should she wish to do so, basing it on corona and what he did.",
+        "confidence": 0.959914274536506,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00108",
+        "start_seconds": 1867.17,
+        "end_seconds": 1880.91,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "We are aware of that, Your Honor, but I think the corona event is different, at least at this point, Your Honor, because in that case, I think the decision to testify was voluntary.",
+        "confidence": 0.9971708409926471,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00109",
+        "start_seconds": 1881.37,
+        "end_seconds": 1881.93,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "It was.",
+        "confidence": 0.7218017578125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00110",
+        "start_seconds": 1882.54,
+        "end_seconds": 1896.44,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Yes, Your Honor. So, at this point, since there has not been any formal motion or request for subpoena, then we will reserve and file our comment at the appropriate time.",
+        "confidence": 0.9760217153897849,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00111",
+        "start_seconds": 1896.46,
+        "end_seconds": 1901.08,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Thank you. Now, Attorney, the Honorable Luistro, Ma'am, the",
+        "confidence": 0.8308024088541668,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00112",
+        "start_seconds": 1902.94,
+        "end_seconds": 1909.08,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "impeachment proceedings is sui generis. We know that. You know that. Both counsel for the parties know that.",
+        "confidence": 0.9806857638888888,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00113",
+        "start_seconds": 1910.66,
+        "end_seconds": 1935.21,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Instead of resting, With the permission and indulgence of Attorney Capunan, on this article, and reserving the right to present another witness on this article, namely, or quite possibly, the respondent herself, should you ask for it. Allow the court to rule in this manner with respect to this article.",
+        "confidence": 0.9766927083333333,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00114",
+        "start_seconds": 1937.19,
+        "end_seconds": 2060.36,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Several senator-judges have already inquired if we can call colonels Lachica and Nolasco. At the proper time, the court said yesterday, the presiding officer said yesterday that we may consider doing that after the defense shall have rested on this article or after the proceedings before we arrive at the decision. We have that power citing City of Cebu v. Gaco and People v. T. to call a witness. And also under the Bangayan case, we will afford the parties due process by giving both parties. Since these are witnesses called by the court itself, we will afford both parties to cross-examine the witness should the court decide to call them. And under Rule 119, Section 11 of the Revised Rules on Criminal Procedure, we shall also afford the parties at that time. The right to call rebuttal or surrebuttal witnesses. Because this is in reaction and relation to a witness called by the court itself. Therefore, instead of resting, given that the court may call a witness still on this article, and instead of reserving, A right, we will apply this rule to both parties. After you shall have presented your respective evidence in chief on this article, the court shall decide on whether or not to call additional witnesses and if you decide to do so, you will have the right to cross-examine that witness or those witnesses and the right to present rebuttal or surrebuttal witnesses in regard to the testimony of the witnesses the court will so call. Therefore, the court advises for the prosecution led by the lead prosecutor not to rest yet on this article and should the time come for the respondent to present its evidence in chief on this article as well, not to rest until after the court shall have decided on whether or not we will be calling additional witnesses on this article. Yes, Attorney Sheila.",
+        "confidence": 0.9628162284380714,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00115",
+        "start_seconds": 2060.6,
+        "end_seconds": 2070.16,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Your Honor, I respect the ruling of this court. However, we would like to reserve our comment on this.",
+        "confidence": 0.9937294407894737,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00116",
+        "start_seconds": 2082.56,
+        "end_seconds": 2083.2799999999997,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "We",
+        "confidence": 0.006195068359375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00117",
+        "start_seconds": 2083.2799999999997,
+        "end_seconds": 2229.04,
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "would like to put on record that we are submitting to the ruling of the Honorable Impeachment Court with respect to not resting yet the cases or the articles on grave threat and even confidential fund until after All the articles have been presented until after the Honorable Impeachment Court called the necessary witnesses that they may desire. Nevertheless, Your Honor, we would like to put on record and in response to the manifestation of the defense with respect to the manifestation of the Honorable Attorney Lorna Capunan about calling the Respondent Vice President. I would like to put on record that the manifestations made were premature. because as a matter of fact, we haven't formalized yet the motion for the issuance of subpoena to the Respondent Vice President, Your Honor. As a matter of fact, we believe that this is a matter that needs to be consulted with the Respondent herself and it should be the Respondent who should decide on whether or not she will be complying with the subpoena which is yet to be issued by the Honorable Impeachment Court upon the motion of the prosecution, Your Honor. Second, Your Honor, The position of the prosecution about calling the Respondent Vice President as witness for the four articles of impeachment at the end of the presentation of all these articles is in line with the mandate of transparency and accountability, Your Honor, which is enshrined in our Constitution. It is important that the impeachment court, including the viewing public, witness. How the Respondent Vice President answered to all these allegations because this is the spirit behind the provision of the Constitution on transparency and accountability, Your Honor. That is, notwithstanding the Constitutional provision about being on the right against self-incrimination, Your Honor. And third, Your Honor, the defense invoked the Constitutional rights of the Respondent. We wish to invoke as well. that even the Filipino people whom we represent are entitled to these constitutional rights. The Filipino people here have the right to hear the answer of the Respondent Vice President to all these four allegations under the Articles of Impeachment. That is for the record, Your Honor.",
+        "confidence": 0.9730669727641573,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00118",
+        "start_seconds": 2230.35,
+        "end_seconds": 2238.23,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Thank you, Attorney, rather Honorable Luistro. So I take it you don't have any more witnesses to present this afternoon?",
+        "confidence": 0.9311075846354167,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00119",
+        "start_seconds": 2238.99,
+        "end_seconds": 2239.89,
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Yes, Your Honor.",
+        "confidence": 0.9998372395833334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00120",
+        "start_seconds": 2240.54,
+        "end_seconds": 2243.83,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "And no witness to present tomorrow?",
+        "confidence": 0.9856426532451923,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00120B",
+        "start_seconds": 2243.83,
+        "end_seconds": 2247.52,
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Yes, Your Honor.",
+        "confidence": 0.9856426532451923,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00120BB",
+        "start_seconds": 2247.52,
+        "end_seconds": 2258.12,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Because you have to inform the other side as to the witness you will be calling to afford them time to prepare for cross. Do you have a list of witnesses to be called, if at all, on Monday? On the next article?",
+        "confidence": 0.9856426532451923,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00121",
+        "start_seconds": 2258.42,
+        "end_seconds": 2268.56,
+        "speaker": "Rep. Gerville “Jinky Bitrics” R. Luistro",
+        "text": "Your Honor, before we proceed to that, with the indulgence of the Honorable Senator-Judges, may I request first that we recognize my co-prosecutor, Atty. Chel Diokno.",
+        "confidence": 0.9617555890764509,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00122",
+        "start_seconds": 2271.02,
+        "end_seconds": 2272.74,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, Atty. Diokno.",
+        "confidence": 0.7801649305555555,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00123",
+        "start_seconds": 2274.9700000000003,
+        "end_seconds": 2276.5299999999997,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "You are recognized, sir.",
+        "confidence": 0.9451904296875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00124",
+        "start_seconds": 2278.86,
+        "end_seconds": 2279.38,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "Your Honor.",
+        "confidence": 0.85400390625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00125",
+        "start_seconds": 2279.62,
+        "end_seconds": 2282.8,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Mahirap na trabaho din ba binigay sa iyo, Atty. Chel o hindi naman.",
+        "confidence": 0.9194980197482638,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00126",
+        "start_seconds": 2284.04,
+        "end_seconds": 2284.84,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Your Honor.",
+        "confidence": 0.9853515625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00127",
+        "start_seconds": 2284.9,
+        "end_seconds": 2286.12,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, Atty. Sheila.",
+        "confidence": 0.94097900390625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00128",
+        "start_seconds": 2286.12,
+        "end_seconds": 2300.02,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "May I also ask for Atty. Michael Poa to be recognized, Your Honor. I think we have an idea of what the prosecution would like to manifest today because we received a document this morning, Your Honor. Thank you.",
+        "confidence": 0.9687291195518092,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00129",
+        "start_seconds": 2304.14,
+        "end_seconds": 2311.36,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Poa is recognized as well for the respondent. Good morning. What is the pleasure of the Honorable Diokno?",
+        "confidence": 0.9417249891493056,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00130",
+        "start_seconds": 2311.68,
+        "end_seconds": 2330.52,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "Magandang umaga po, Your Honors. Good morning to the panel of counsel for the Defense. First of all, if Your Honors please, as the lead prosecutor for Article 2, may I be heard and make a brief manifestation on a document we filed this morning.",
+        "confidence": 0.9444164134837963,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00131",
+        "start_seconds": 2331.19,
+        "end_seconds": 2334.55,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "These are the 104 requests for admission?",
+        "confidence": 0.9711216517857143,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00132",
+        "start_seconds": 2335.21,
+        "end_seconds": 2335.91,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "Yes, Your Honor.",
+        "confidence": 0.9191080729166666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00133",
+        "start_seconds": 2336.07,
+        "end_seconds": 2336.63,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Would that be correct?",
+        "confidence": 0.9937744140625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00134",
+        "start_seconds": 2337.09,
+        "end_seconds": 2337.69,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "Yes, Your Honor.",
+        "confidence": 0.9881184895833334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00135",
+        "start_seconds": 2337.79,
+        "end_seconds": 2342.83,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "May I ask Attorney Poa if they received already a copy of the requests for admission?",
+        "confidence": 0.9060554504394531,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00136",
+        "start_seconds": 2343.39,
+        "end_seconds": 2345.51,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "We confirm, Your Honor, that we received it this morning.",
+        "confidence": 0.9986328125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00137",
+        "start_seconds": 2345.83,
+        "end_seconds": 2347.61,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Have you had time to go over it, counsel?",
+        "confidence": 0.9218478732638888,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00138",
+        "start_seconds": 2348.31,
+        "end_seconds": 2350.05,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Briefly, Your Honor.",
+        "confidence": 0.93646240234375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00139",
+        "start_seconds": 2350.05,
+        "end_seconds": 2352.51,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Would you be able to comment on it today, counsel?",
+        "confidence": 0.9997829861111112,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00140",
+        "start_seconds": 2352.9700000000003,
+        "end_seconds": 2361.9909687500003,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Well, actually, Your Honor, the comment is more on the days provided, so not really on the substance itself yet.",
+        "confidence": 0.808629646897316,
+        "editorial_flags": [
+          "focused_asr_reconstruction",
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00140B",
+        "start_seconds": 2362.14284375,
+        "end_seconds": 2363.42534375,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "On the what provided, counsel?",
+        "confidence": null,
+        "editorial_flags": [
+          "focused_asr_reconstruction",
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00140C",
+        "start_seconds": 2363.42534375,
+        "end_seconds": 2366.0240937500002,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "On the number of days that they're asking for, Your Honor.",
+        "confidence": null,
+        "editorial_flags": [
+          "focused_asr_reconstruction",
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00140D",
+        "start_seconds": 2366.3447187500005,
+        "end_seconds": 2371.37346875,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Ah, but on the request for, um, admission, are you in a position to comment on it already?",
+        "confidence": null,
+        "editorial_flags": [
+          "focused_asr_reconstruction",
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00141",
+        "start_seconds": 2371.98096875,
+        "end_seconds": 2380.54,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "We will have to study it, Your Honor, because we really did not have time to, uh, really peruse, uh, through the document. However, Your Honor, we note",
+        "confidence": 0.86749267578125,
+        "editorial_flags": [
+          "focused_asr_reconstruction",
+          "caption_reconstruction"
+        ]
+      },
+      {
+        "stable_id": "S00142",
+        "start_seconds": 2380.54,
+        "end_seconds": 2392.88,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "that under the request the prosecution is giving the defense at least seven days to file or comment on the same your honor or respond to the request for admission and uh if i may continue yes",
+        "confidence": 0.951686549831081,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00143",
+        "start_seconds": 2392.88,
+        "end_seconds": 2393.7200000000003,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "uh please and",
+        "confidence": 0.9212239583333334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00144",
+        "start_seconds": 2393.7200000000003,
+        "end_seconds": 2394.2799999999997,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Your honor",
+        "confidence": 0.9166666666666666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00145",
+        "start_seconds": 2394.2799999999997,
+        "end_seconds": 2395.54,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "I just saw it too myself",
+        "confidence": 0.9152018229166666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00146",
+        "start_seconds": 2395.54,
+        "end_seconds": 2417.7,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "We would like to request that we be given at least 15 days as stated under rule 26 section 2 your honor the rules of court Or because it clearly states there that the party served with the request for admission shall be given at least 15 days or if the court even decides to do so for a further period, Your Honor.",
+        "confidence": 0.9626504221270161,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00147",
+        "start_seconds": 2419.02,
+        "end_seconds": 2433.05,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "The court will rule on that. Counsel for the panel of prosecutors is simply asking for that. But the court will rule on that at the appropriate time, Atty. Poa Clearly, Atty. Diokno, counsel cannot yet comment on your 104.",
+        "confidence": 0.9485687255859375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00148",
+        "start_seconds": 2437.16,
+        "end_seconds": 2449.34,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Item request for admission. What is your pleasure? Can I ask you, will you be able to call a witness on Monday and tell us who the witness will be so that we can issue the proper subpoena on Monday without these admissions?",
+        "confidence": 0.9520746275436046,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00149",
+        "start_seconds": 2450.12,
+        "end_seconds": 2452.16,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "Yes, if you're honest, please. We",
+        "confidence": 0.8907063802083334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00150",
+        "start_seconds": 2452.16,
+        "end_seconds": 2452.7799999999997,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "will be submitting",
+        "confidence": 0.9949544270833334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00151",
+        "start_seconds": 2452.7799999999997,
+        "end_seconds": 2495.74,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "the corresponding request for subpoena and notices to the respondent of who we will be presenting next week within the day or by tomorrow morning. We will also be requesting, if you're honest, please, that we devote tomorrow to marking of exhibits. There are over 1,800 exhibits documents that were submitted under the subpoenas released by this court. I am referring, Your Honor, to the bank records and other insurance records. And we need time to mark those documents. We are requesting that we set aside the whole day of tomorrow, perhaps even Thursday and Friday, for the marking of these voluminous documents.",
+        "confidence": 0.9895935058593751,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00152",
+        "start_seconds": 2503.01,
+        "end_seconds": 2503.61,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "What",
+        "confidence": 0.90478515625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00153",
+        "start_seconds": 2505.15,
+        "end_seconds": 2523.09,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "is your comment, Attorney Poa? We will most likely not have a trial tomorrow. So can we devote tomorrow and Thursday? I'm sorry, Atty. Diokno, we operate on a four-day work. We can have budget proceedings as well for the whole day of Friday. So it'll be tomorrow and Thursday for marking.",
+        "confidence": 0.9467704341096698,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00154",
+        "start_seconds": 2523.61,
+        "end_seconds": 2538.09,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "We have no objections to that, Your Honor, for both parties, for documents to be marked for both parties. However, if I may just also take this opportunity to request on a matter that is administrative in nature, Your Honor.",
+        "confidence": 0.9696533203125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00155",
+        "start_seconds": 2540.93,
+        "end_seconds": 2608.92,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "volume of the documents that we are faced with and the defense while we understand that this is of course a prerogative of the prosecution to determine the sequence of the presentation of their evidence in chief in fact even change that sequence we do respect that right on the part of the prosecution the defense is constrained however your honor again due to the volume of the documents to at least ask for time to properly study these documents and to be specific We would like to request, of course, with the indulgence of the Honorable Court and subject to any objection that the prosecution may raise, if we could have at least two weeks, Your Honor, before we start with Article 2. And as a sign of good faith and to show that we are not here to delay any proceedings, Your Honor, we are willing for those days that will be taken up due to the request of the defense, we were willing to give up. Those equivalent number of days when we present our evidence in chief, Your Honor. Meaning, ibawas na lang po sa aming time to present our evidence in chief para naman po hindi natin nadedelay yung proceedings natin.",
+        "confidence": 0.9682415712226942,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00156",
+        "start_seconds": 2609.04,
+        "end_seconds": 2622.4,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "It's not that, counsel. That's not the issue. The issue is the time of the court or the time the court has to conduct these trials. Again, given the budget deliberations that we are faced with within this month and the coming two months.",
+        "confidence": 0.9815396395596591,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00157",
+        "start_seconds": 2622.9700000000003,
+        "end_seconds": 2623.81,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "We understand your honor.",
+        "confidence": 0.684295654296875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00158",
+        "start_seconds": 2623.91,
+        "end_seconds": 2673.25,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Until we approve the budget hopefully before the end of the year. So may we just do this instead. Following our agreement during the pretrial, council will submit their list of witnesses for next week in accordance with the five-day notice rule that we agreed upon. The presiding officer will be lenient. With respect to when the counsel for the respondent will cross-examine the witness to be presented and will simply allow or may allow the panel for prosecutors to present an additional following witness and conduct their direct without the respondent conducting their cross-examination as of yet and the first witness they will present. And let's take it from their counsel and see how it will go.",
+        "confidence": 0.9706277978650137,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00159",
+        "start_seconds": 2673.66,
+        "end_seconds": 2677.12,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "We will submit and abide by the directive of the court, Your Honor.",
+        "confidence": 0.9631535456730769,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00160",
+        "start_seconds": 2677.2,
+        "end_seconds": 2685.96,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "So, Atty. Diokno, can you submit to us by tomorrow, please, the witnesses you will be presenting and if at all, your request for stipulation in regard to these witnesses?",
+        "confidence": 0.9639567057291667,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00161",
+        "start_seconds": 2686.42,
+        "end_seconds": 2688.24,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "We will do that, Your Honor.",
+        "confidence": 0.9991048177083334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00162",
+        "start_seconds": 2688.38,
+        "end_seconds": 2709.39,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "So that we save on the court's time and we will proceed as scheduled on Monday for the trial. There will be no trial tomorrow. In order to afford the parties time to mark the voluminous documents on the succeeding articles, article rather, and the same is true for Thursday. So 10 o'clock tomorrow and 10 o'clock on Thursday?",
+        "confidence": 0.9724174457821039,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00163",
+        "start_seconds": 2711.83,
+        "end_seconds": 2715.27,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "That would be fine for the prosecution for the marking, Your Honor.",
+        "confidence": 0.9710286458333334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00164",
+        "start_seconds": 2721.37,
+        "end_seconds": 2738.73,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "If there are no available rooms because of the budget hearings, I am informed we will set the marking at the PICC because we have a room there. Or we will transfer one of the budgetary hearings there. And again, you see the logistical problem we're facing given the budget deliberations because we are short of time.",
+        "confidence": 0.9785955519903273,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00166",
+        "start_seconds": 2739.69,
+        "end_seconds": 2740.63,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "We will comply",
+        "confidence": 0.9762369791666666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00167",
+        "start_seconds": 2740.63,
+        "end_seconds": 2742.81,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "with whatever the court decides.",
+        "confidence": 0.9847819010416666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00168",
+        "start_seconds": 2742.81,
+        "end_seconds": 2744.37,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "So tomorrow it will be here.",
+        "confidence": 0.88681640625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00169",
+        "start_seconds": 2746.54,
+        "end_seconds": 2750.18,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Tomorrow it will be here, 10 o'clock at the Rector Room.",
+        "confidence": 0.9567769368489584,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00170",
+        "start_seconds": 2750.61,
+        "end_seconds": 2751.11,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "For",
+        "confidence": 0.16845703125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00171",
+        "start_seconds": 2751.11,
+        "end_seconds": 2751.43,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "marking.",
+        "confidence": 0.9697265625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00172",
+        "start_seconds": 2752.4700000000003,
+        "end_seconds": 2753.0299999999997,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "While",
+        "confidence": 0.97509765625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00173",
+        "start_seconds": 2753.0299999999997,
+        "end_seconds": 2758.85,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "we're on the subject matter, the Chair wishes to announce and make formal the schedule of the trial.",
+        "confidence": 0.9664306640625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00174",
+        "start_seconds": 2761.2,
+        "end_seconds": 2766.86,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Kindly take note and we will give you a calendar as well. And it will be in the journal for your perusal.",
+        "confidence": 0.9837757457386364,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00175",
+        "start_seconds": 2768.4700000000003,
+        "end_seconds": 2823.77,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Given the budget deliberations of the Senate, this will be our schedule for this month and the succeeding months. From September 8 to 30, trial shall remain at 10 a.m. up to 2.30 p.m. We will have our regular sessions in the afternoon at 2.30 or 3, where the Committee on Finance and its subcommittees are authorized to conduct hearings as agreed upon by the Senate sitting as a legislative body. On September 30, session will be suspended. We will have trial for the entire day on October 1 and 2, 5, 6, 7, 8, 9, and 12, 13, 12, 13,",
+        "confidence": 0.9747946118551586,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00176",
+        "start_seconds": 2823.91,
+        "end_seconds": 2827.3900000000003,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "12,",
+        "confidence": 0.97607421875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00177",
+        "start_seconds": 2830.5,
+        "end_seconds": 2833.0,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "13, and 14, 15,",
+        "confidence": 0.9881591796875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00178",
+        "start_seconds": 2834.8599999999997,
+        "end_seconds": 2844.66,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "12, 13, 14, and 15 for the entire day as well. From October 16 to",
+        "confidence": 0.9795247395833333,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00179",
+        "start_seconds": 2846.81,
+        "end_seconds": 2850.1099999999997,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "November 8, trial",
+        "confidence": 0.955078125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00180",
+        "start_seconds": 2851.9,
+        "end_seconds": 2884.2799999999997,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "shall be suspended to give way for the budget deliberations and hearings in preparation of the Senate version of the budget. When we resume on November 9, we shall be taking up the budget via floor deliberations for the succeeding two weeks. We are still trying to squeeze in a trial date in those two weeks, at least one, but I'm not sure yet. So most likely, trial will be suspended until November 18.",
+        "confidence": 0.991725612331081,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00181",
+        "start_seconds": 2889.0,
+        "end_seconds": 2904.34,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "That's a Wednesday. And shall resume, if at all, on a Thursday or Friday, 17-18, or the following week already, via regular schedule and programming. Again, this will be in the journal, and we shall furnish the parties with a copy.",
+        "confidence": 0.9973783947172619,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00182",
+        "start_seconds": 2913.0,
+        "end_seconds": 2913.52,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "May",
+        "confidence": 0.05035400390625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00183",
+        "start_seconds": 2913.52,
+        "end_seconds": 2921.76,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "I be allowed to have a few minutes simply to apprise the court of the nature of the request for admission that we filed this morning?",
+        "confidence": 0.9874549278846154,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00184",
+        "start_seconds": 2922.58,
+        "end_seconds": 2925.2799999999997,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Without saying",
+        "confidence": 0.91259765625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00185",
+        "start_seconds": 2927.0699999999997,
+        "end_seconds": 2930.95,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "what cannot be said with respect to conclusions of fact and law, you may counsel.",
+        "confidence": 0.9915690104166667,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00186",
+        "start_seconds": 2931.29,
+        "end_seconds": 2932.51,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "Thank you, Your Honor.",
+        "confidence": 0.80120849609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00187",
+        "start_seconds": 2932.95,
+        "end_seconds": 2939.69,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "And not following the footsteps of Attorney Lorna earlier, we might be overstretching the patience already of counsel for the respondent.",
+        "confidence": 0.967870318700397,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00188",
+        "start_seconds": 2939.71,
+        "end_seconds": 2942.23,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "I will try my very best, if you're honest.",
+        "confidence": 0.9630805121527778,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00189",
+        "start_seconds": 2942.25,
+        "end_seconds": 2946.87,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "And we will remind you as well, and Attorney Poa is there to remind you as well. You may proceed, counsel.",
+        "confidence": 0.9665004185267857,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00190",
+        "start_seconds": 2947.6099999999997,
+        "end_seconds": 3109.45,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "Earlier today, Your Honors, the prosecution served upon counsel for respondent a written request for admission and furnished a copy to this honorable court. The request is based on Rule 26 of the Rules of Court. which simply provides that after the issues have been joined, a party may serve upon another party a written request for admission of the genuineness of material and relevant documents or of the truth of material and relevant matters of fact. The rule also provides, Your Honor, that matters covered by a request for admission shall be deemed admitted unless the respondent serves a sworn response within the allotted time period, either specifically denying the matters requested or setting forth in detail the reasons why they cannot truthfully either admit or deny them. Sa madaling salita, Your Honor, simple lang po ang hinihiling ng Prosecution. Kinihiling po namin sa respondent na kumpirmahin, una, kung genuine o tunay ang mga bank records na'y sinumite ng mga bangko alinsunod sa Sabpina dos Estecom na inisyo ng Impeachment Court, at ikalawa, kung ang mga bank accounts na tinutukoy sa mga records na iyon ay pag-aari ni Vice President Sara Zimmerman Duterte individually or jointly with others. These are matters, Your Honor, which respondent is particularly well positioned to know or can readily verify. As to whether the identified bank accounts belong to her, respondent necessarily possesses personal knowledge of that fact. As to the bank records pertaining to those accounts, Respondent has immediate means of verifying their accuracy and genuineness through her own records or directly with the banks that produce them. We are not asking the respondent to admit matters that they do not know anything about or rather that they have no access to. We are asking them simply to admit records that they can readily and easily verify either through their own records or through confirmation with the banks and other institutions. I think it's very clear, Your Honor, under the rules and jurisprudence, where a party has immediate access to records, documents, or information by which the truth of a matter can readily be confirmed without undue difficulty, the unjustified refusal to admit readily verifiable facts or documents would defeat the very purpose of a request for admission, to narrow the issues and avoid unnecessary proof. Of course, we acknowledge that the defense has the duty to zealously represent their client. But under the Code of Professional Responsibility and Accountability, counsel also have a duty to assist in the administration of justice.",
+        "confidence": 0.9763840434481394,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00191",
+        "start_seconds": 3110.99,
+        "end_seconds": 3174.8,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "Council may and should specifically deny matters that are genuinely disputed. But if their purpose is only to delay the proceedings, or to refuse out of sheer obstinacy, we submit that that would be unreasonable and inconsistent with the duty to assist in the administration of justice. One last point, Your Honors. May I just emphasize that a request for admission is different from the stipulations that we have experienced here in prior hearings. If Your Honors please, the request for admission is... Not a stipulation. A stipulation is the product of an agreement between the parties and only becomes binding when the parties agree to stipulate. A request for admission, on the other hand, invokes a specific procedure under Rule 26 which does not depend on the parties first reaching an agreement. And we are invoking that procedure for one reason and one reason alone, to shorten this trial. If the respondents would admit matters would be subject to the request, we would be able to dispense with the presentation of at least 15 witnesses and shorten the trial very much in that manner.",
+        "confidence": 0.9771828919778137,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00192",
+        "start_seconds": 3186.4,
+        "end_seconds": 3237.0699999999997,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "To be clear, hindi po namin hinihiling na aminin ang respondent ang isang bagay na hindi totoo. Hindi rin namin hinihiling na isuko niya ang kanyang depensa. Ang hinihiling lamang po namin ay simple. Kung totoo, aminin. Kung hindi totoo, tuwirang tanggihan. Kung hindi naman kayang aminin o itanggi ng tapat, sabihin sa ilalim ng panunong pa kung bakit. Pero kung walang tunay na dispute, hindi na po natin kailangan gumugol pa ng ilang linggo at magharap ng humigit-kumulang labing limang testigo para patunayan ang hindi naman talaga pinagtatalunan. And that, Your Honors, is precisely the reason why we have filed this request for admission to narrow the issues, shorten the trial, and assist the Court. in the orderly and unimpeded search for the truth.",
+        "confidence": 0.9614526646737834,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00193",
+        "start_seconds": 3237.0699999999997,
+        "end_seconds": 3238.87,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Thank you, Your Honor. I'm sure you have a response, Attorney Poa.",
+        "confidence": 0.9423285590277778,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00194",
+        "start_seconds": 3238.99,
+        "end_seconds": 3245.45,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Thank you. Actually, Your Honor, my response would be I would like to thank, of course, opposing counsel for not making any conclusions of law or fact.",
+        "confidence": 0.97888671875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00195",
+        "start_seconds": 3269.94,
+        "end_seconds": 3292.5,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Chair would like to take this opportunity, given that it's the two of you who are standing there. To actually state that indeed both gentlemen have held their own quite well the past few weeks since the impeachment trial began and have been very cordial, gentlemanly, careful in their remarks.",
+        "confidence": 0.9534320068359375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00196",
+        "start_seconds": 3294.3199999999997,
+        "end_seconds": 3311.88,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "And chair would like, the presiding officer would like to commend both counsels from both sides. Again, to take use, to make the most out of the opportunity where both of you are standing here. Attorney Jogno, I have a question though. You're citing a rule of civil procedure, were you not? Rule 26?",
+        "confidence": 0.9508271393952547,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00197",
+        "start_seconds": 3312.2,
+        "end_seconds": 3312.6400000000003,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "Yes, Your Honor.",
+        "confidence": 0.8678385416666666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00198",
+        "start_seconds": 3312.88,
+        "end_seconds": 3314.5,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "It is on implied admissions?",
+        "confidence": 0.92451171875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00199",
+        "start_seconds": 3315.12,
+        "end_seconds": 3318.6,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "That is on specifically request for admissions. Yes, Your Honor.",
+        "confidence": 0.990966796875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00200",
+        "start_seconds": 3318.76,
+        "end_seconds": 3321.02,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, I have a question.",
+        "confidence": 0.9978515625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00201",
+        "start_seconds": 3324.1099999999997,
+        "end_seconds": 3372.49,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "There is a Supreme Court ruling that it applies only to civil and not to criminal cases. Again, given the sui generis nature of this case, of course. Particularly, I'm referring to People v. Ang, a 2020 case, GR No. 231854, which states that such a rule might not apply to criminal proceedings given the right of an accused against self-incrimination. Can you comment briefly on that? Although the respondent did not raise that, can you comment briefly on that? And secondly, counsel, if you tie the hands of the respondent with your 7-day period instead of the 15-day period provided for by Rule 26, Section 2, I believe, then",
+        "confidence": 0.9628423730180677,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00202",
+        "start_seconds": 3372.49,
+        "end_seconds": 3376.59,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "they will just come out with a specific",
+        "confidence": 0.99981689453125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00203",
+        "start_seconds": 3376.59,
+        "end_seconds": 3379.4300000000003,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "denial for each of your 104 requests for admission.",
+        "confidence": 0.9997287326388888,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00204",
+        "start_seconds": 3380.94,
+        "end_seconds": 3387.56,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "So, giving them ample time to actually go over it might serve your purpose as well. Your comment, Atty. Diokno.",
+        "confidence": 0.967315673828125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00205",
+        "start_seconds": 3387.88,
+        "end_seconds": 3486.37,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "First of all, if you're honest, please, I think it's very clear that this is not a criminal trial. This is an impeachment trial where the outcome will only determine whether the Vice President can continue to serve as Vice President. and whether there will be any perpetual disqualification imposed on her. No imprisonment, no fine, no other element of criminal case is involved in this impeachment trial. So even if, for example, the defense will say that this cannot apply, our response is simply we should. This honorable impeachment court has the inherent power to Apply rules that will shorten and facilitate the trial of this case. If we can successfully navigate the request for admission, Your Honor, we would be able to save this court considerable time, at least 15 witnesses that we would have to present if there is no admissions made by the respondent. Second, if Your Honor is pleased, the 15-day period, while that is provided in the rules of court, For ordinary cases, given the nature of this proceeding, given the fact that the counsel for respondents have an entire team of lawyers assigned to this case, I believe that 15 days would be too long a period. However, we would be willing to submit to the discretion of the court as far as the period of time is concerned. We do believe, however, that this would be a mechanism that would enable us to reach At",
+        "confidence": 0.9678256342319842,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00207",
+        "start_seconds": 3486.37,
+        "end_seconds": 3493.47,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "the end of this trial, much quicker without sacrificing due process or any of the interests of both sides.",
+        "confidence": 0.8926605224609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00207B",
+        "start_seconds": 3493.47,
+        "end_seconds": 3494.46,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Attorney Poa?",
+        "confidence": 0.8926605224609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00208",
+        "start_seconds": 3495.19,
+        "end_seconds": 3524.37,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Your Honor, on the part of the defense, I do not question the intention of the good counsel to abbreviate the proceedings. In fact, the defense would like to do so as well. But at this point, Your Honor, we are constrained to reserve our comments and responses at the proper time, Your Honor. All we are asking for is, again, just to be given 15 days, Your Honor, as provided under the very section that was cited by the distinguished opposing counsel, Your Honor, Rule 26, Section 2.",
+        "confidence": 0.9887832470154494,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00209",
+        "start_seconds": 3527.27,
+        "end_seconds": 3528.6099999999997,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Anything else, Atty. Diokno?",
+        "confidence": 0.9066365559895834,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00210",
+        "start_seconds": 3528.9700000000003,
+        "end_seconds": 3529.59,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "No more yan.",
+        "confidence": 0.5925699869791666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00211",
+        "start_seconds": 3529.83,
+        "end_seconds": 3558.63,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Chair will make a ruling. Chair gives the respondent 15 days from today to file their comment on the 104 requests for admission under Rule 26, knowing, Atty. Poa, the effect of a general denial, knowing as well that an unreasonable denial would be looked at by the court. With that understanding, Atty. Poa, Atty. Diokno, would that be okay?",
+        "confidence": 0.965627712673611,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00212",
+        "start_seconds": 3559.4700000000003,
+        "end_seconds": 3560.19,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Yes, Your Honor.",
+        "confidence": 0.97412109375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00213",
+        "start_seconds": 3561.83,
+        "end_seconds": 3568.09,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Atty. Poa?",
+        "confidence": 0.9824848790322581,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00213B",
+        "start_seconds": 3568.09,
+        "end_seconds": 3571.09,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Just on the ruling itself, Your Honor, we're not questioning the ruling, but perhaps we could also include the applicability of such requests, Your Honor, as you raised earlier.",
+        "confidence": 0.9824848790322581,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00214",
+        "start_seconds": 3572.09,
+        "end_seconds": 3584.8599999999997,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, again, we will be looking at the... At the comments you will be filing and we will make sure that it will not violate the respondent's right against self-incrimination.",
+        "confidence": 0.9672352780577957,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00215",
+        "start_seconds": 3585.1400000000003,
+        "end_seconds": 3585.4,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Thank you,",
+        "confidence": 0.969970703125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00216",
+        "start_seconds": 3585.4,
+        "end_seconds": 3585.56,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Your Honor.",
+        "confidence": 0.955810546875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00217",
+        "start_seconds": 3585.92,
+        "end_seconds": 3586.9,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, what is the pleasure of Senator Judge Sotto?",
+        "confidence": 0.92138671875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00218",
+        "start_seconds": 3586.9,
+        "end_seconds": 3608.81,
+        "speaker": "Sen. Vicente C. Sotto III",
+        "text": "Mr. Presiding Officer, thank you very much, Mr. Senate President. Some of our Senator judges are asking when we say 15 days, does that... prevent us from a hearing or a trial when they are given 15 days to respond to the admissions?",
+        "confidence": 0.9392907974567819,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00219",
+        "start_seconds": 3609.23,
+        "end_seconds": 3639.37,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "It will not. As earlier ruled by the Chair, Senator-Judge Soto, we will proceed with the presentation of the witness of the prosecutors and should the respondent not be ready as of yet to cross given the admissions they have not yet commented to. or given that they have not yet gone over the documents submitted by the banks, insurance companies, the AMLAC, and the VAR, then we will proceed with the presentation of witness by the prosecution via direct examination. So the trial will proceed. It will not be direct.",
+        "confidence": 0.9580233298997947,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00220",
+        "start_seconds": 3639.57,
+        "end_seconds": 3641.74,
+        "speaker": "Sen. Vicente C. Sotto III",
+        "text": "In other words, the 15 days that we are giving is for them to respond.",
+        "confidence": 0.9980224609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00220B",
+        "start_seconds": 3641.74,
+        "end_seconds": 3643.91,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, for them to respond.",
+        "confidence": 0.9980224609375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00222",
+        "start_seconds": 3643.91,
+        "end_seconds": 3645.41,
+        "speaker": "Sen. Vicente C. Sotto III",
+        "text": "But the trial will be continuing.",
+        "confidence": 1.0,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00223",
+        "start_seconds": 3645.75,
+        "end_seconds": 3646.65,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, your honor.",
+        "confidence": 0.988525390625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00224",
+        "start_seconds": 3646.65,
+        "end_seconds": 3647.13,
+        "speaker": "Sen. Vicente C. Sotto III",
+        "text": "Thank you.",
+        "confidence": 0.999755859375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00225",
+        "start_seconds": 3647.13,
+        "end_seconds": 3649.99,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "We will not suspend the trial. Yes, Senator-Judge Lacson.",
+        "confidence": 0.8948976198832194,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00226",
+        "start_seconds": 3651.43,
+        "end_seconds": 3657.29,
+        "speaker": "Sen. Panfilo “Ping” M. Lacson",
+        "text": "May just be clarified, Mr. Presiding Officer, if the 15-day period is non-extendable.",
+        "confidence": 0.9831217447916667,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00227",
+        "start_seconds": 3657.49,
+        "end_seconds": 3664.57,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "It's non-extendable. That's what's provided for in the rules, and I think that is sufficient, Atty. Poa, again, for your information and guidance.",
+        "confidence": 0.972259521484375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00228",
+        "start_seconds": 3665.41,
+        "end_seconds": 3666.61,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "We confirm that, Your Honor.",
+        "confidence": 0.99267578125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00229",
+        "start_seconds": 3667.97,
+        "end_seconds": 3670.71,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Any other points any Senator-Judge wish to make?",
+        "confidence": 0.8447774251302084,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00230",
+        "start_seconds": 3672.77,
+        "end_seconds": 3674.43,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Senator-Judge Tulfo? Erwin?",
+        "confidence": 0.93621826171875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00231",
+        "start_seconds": 3683.35,
+        "end_seconds": 3685.25,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "Thank you, Mr. Presiding Officer.",
+        "confidence": 0.9939453125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00232",
+        "start_seconds": 3687.57,
+        "end_seconds": 3688.59,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "Mr. Presiding Officer,",
+        "confidence": 0.99560546875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00233",
+        "start_seconds": 3689.55,
+        "end_seconds": 3692.83,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, what is the pleasure of Senator-Judge Erwin Tulfo?",
+        "confidence": 0.8768172820409139,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00234",
+        "start_seconds": 3693.07,
+        "end_seconds": 3697.79,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "We'd like to make a manifestation and perhaps a motion now.",
+        "confidence": 0.9452570134943182,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00235",
+        "start_seconds": 3699.05,
+        "end_seconds": 3699.65,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "The",
+        "confidence": 0.99951171875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00236",
+        "start_seconds": 3699.65,
+        "end_seconds": 3718.99,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "prosecution has foregone several witnesses in its list, even those who were recently subpoenaed by the court. Our calendar keeps changing with the effect of expediting the process proceedings. Some of our members have said that the goal is to end trial before Christmas season.",
+        "confidence": 0.9844862196180556,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00237",
+        "start_seconds": 3720.88,
+        "end_seconds": 3725.94,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "Yesterday, counsel for respondent has hinted in the possibility of not presenting its case.",
+        "confidence": 0.9251708984375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00238",
+        "start_seconds": 3727.73,
+        "end_seconds": 3736.83,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "These developments, Mr. Presiding Officer, could bring the court to the final question sooner than expected.",
+        "confidence": 0.987091064453125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00239",
+        "start_seconds": 3738.63,
+        "end_seconds": 3766.17,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "The present reality, however, is that some of our members are beyond the coercive power or jurisdiction of the Senate. One is on medical leave abroad. with the date of her return still unknown. The other is in hiding. Two are under the custody of the Sandigan Bayan or the Bureau of Jail Management.",
+        "confidence": 0.9791169343171297,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00240",
+        "start_seconds": 3768.43,
+        "end_seconds": 3770.91,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "My question as a presiding officer is this.",
+        "confidence": 0.968231201171875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00241",
+        "start_seconds": 3772.57,
+        "end_seconds": 3796.98,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "Considering the changing calendar and expedited proceedings, if we were to cast our votes two or three months from now or next month or even tomorrow, Who among our members can validly cast their votes on the final question? Remember, Mr. Presiding Officer, we have two of our colleagues who are not here.",
+        "confidence": 0.9864524985259434,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00242",
+        "start_seconds": 3798.74,
+        "end_seconds": 3814.67,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "My question is, are we going to allow them to vote? Are we going to accept their votes even though they're not attending this trial? Or is it automatic we'll say that their votes will be no?",
+        "confidence": 0.994167018581081,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00243",
+        "start_seconds": 3816.75,
+        "end_seconds": 3851.8,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "I am aware that the ruling of the presiding officer rendered on day one of the trial while the presiding officer cited the orbiter dictum in the case of Bayan Muna v. Zamora on the use of the total rather than actual membership as the voting base. This body has consistently relied on Avellino v. Cuenco which considers only those members within the coercive jurisdiction of the Senate for purposes of determining the base and existence of a quorum.",
+        "confidence": 0.9686377159150843,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00244",
+        "start_seconds": 3853.73,
+        "end_seconds": 3868.52,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "Ladies and gentlemen, Mr. Presiding Officer, I'm not seeking to lower the requirement. My question now is very basic. When we refer to all members, who exactly are we counting?",
+        "confidence": 0.9960530598958334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00245",
+        "start_seconds": 3872.84,
+        "end_seconds": 3950.85,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "I fear that if we interpret the provisions literally, we might not do so to the point of absurdity. Frustrating the mandate of the Constitution to exact accountability from public officials while we claiming to strictly uphold that very same Constitution. Was it really the intention of the Constitution to render the impeachment provision a dead-letter law simply because some members of the Senate for one reason or another are beyond the reach of the impeachment court and cannot participate like what we are experiencing now? Four of us are not here. Yet, they are still members of this Senate. I recognize that impeaching an official was deliberately made difficult and this intention should be respected. However, difficulty is not the same as impossibility. Let me take this to the extreme. What happens if nine or more senators are unable to vote because they are beyond the coercive reach of the Senate? During the day that we have to cast our votes for one reason or another, halimbawa may sakit po yung isa sa",
+        "confidence": 0.9772135416666669,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00247",
+        "start_seconds": 3950.85,
+        "end_seconds": 4033.0299999999997,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "kasama natin na present po ngayon, suspendido, nagbitaw para tumakbo sa mas mataas na posisyon, namatay, nagpagamot sa ibang bansa, nakakulong, nagtatago. If we insist... that the voting base is fixed at 24 regardless of the evidence presented, regardless of the vote of the senators who are able to listen to the testimonies. The absence of those senators, whether we like it or not, will result in an acquittal by default. The question is not whether we should make conviction easier. What we should ask ourselves this time, Mr. Presiding Officer, Mr. Senate President and my fellow Senator-Judges, should the Constitution, constitutional design of making impeachment difficult, override equally important constitutional demand for accountability? This is something that the body needs to discuss and decide on sooner than later, Mr. Presiding Officer. I move that we do so in earnest. Because it seems like we're running out of time. The prosecution, or yet the prosecution, keeps on changing their strategy.",
+        "confidence": 0.9669585992090449,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00248",
+        "start_seconds": 4035.2799999999997,
+        "end_seconds": 4074.27,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "Several of their witnesses are not, they don't want to appear anymore. And we've been asking some of them. So we have to make a decision, Mr. Senate President, I mean, Mr. Presiding Officer. Ano ba talaga? Ano ba talaga? Pinag-uusapan. Ang gulo-gulo, pati mga kababayan natin, hindi po alam. To be fair for everyone po, even to the person being impeached. I'm sure she wants a fast and fair trial. So, I will leave that to your decision, Mr. Presiding Officer, and to our Senator, judges, to our colleagues. Thank you very much, sir.",
+        "confidence": 0.9700277531679554,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00249",
+        "start_seconds": 4077.13,
+        "end_seconds": 4082.87,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Thank you, Senator-Judge Erwin Tulfo. Chair declares a brief recess.",
+        "confidence": 0.9285195090553977,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00250",
+        "start_seconds": 5685.14,
+        "end_seconds": 5689.6,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Chair would like to recognize Senator-Judge Padilla,",
+        "confidence": 0.8467469178140163,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00251",
+        "start_seconds": 5692.52,
+        "end_seconds": 5698.64,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Senator-Judge Pia Cayetano, thereafter, Senator-Judge Padilla.",
+        "confidence": 0.9938151041666667,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00252",
+        "start_seconds": 5698.9,
+        "end_seconds": 5699.66,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Mr.",
+        "confidence": 0.96240234375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00253",
+        "start_seconds": 5704.28,
+        "end_seconds": 5705.6,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "President, as we",
+        "confidence": 0.7500813802083334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00254",
+        "start_seconds": 5705.6,
+        "end_seconds": 5709.12,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "mentioned",
+        "confidence": 0.9970703125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00255",
+        "start_seconds": 5709.6,
+        "end_seconds": 5716.18,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "when we approached you earlier, I think we need time to discuss this very important issue.",
+        "confidence": 0.999298095703125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00256",
+        "start_seconds": 5718.83,
+        "end_seconds": 5790.49,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "and our minority floor leader isn't here right now. He should be here when we have this discussion. I just want to put on record very briefly because the proper time to have this more lengthy debate will come but just to clarify because I cannot leave it as it was said by His Honor, Senator Tulfo, Senator-Judge Tulfo, that this body has consistently relied on Avellino versus Cuenco. That is not accurate, Your Honor. This 12 members of the Senate chose to use Avellino-Cuenco for their own purposes, to declare that there was a quorum. This body did not agree to that. The now minority does not agree to that. So I just want to put that on the record clearly. There are many ways to interpret Supreme Court decisions, but let's not make it appear that it is jurisprudence or it is the rule in the Senate. Thank you, Mr. President.",
+        "confidence": 0.9676767326170398,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00257",
+        "start_seconds": 5802.14,
+        "end_seconds": 5839.97,
+        "speaker": "Sen. Robinhood “Robin” Padilla",
+        "text": "At sa ating pangulo. Ako po ay gumagalang sa lahat po ng ating mga kasama at napakaganda po ng ating pinag-uusapan na ito sapagkat ito nga po talaga ay usap-usapan na magmula pa po noong nagkaroon ng press conference. Ang ating pinunong mayorya patungkol po dito sa threshold. Ang akin lamang pong mungkahi sa aking mga kasama,",
+        "confidence": 0.9250619317178672,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00258",
+        "start_seconds": 5841.72,
+        "end_seconds": 5869.98,
+        "speaker": "Sen. Robinhood “Robin” Padilla",
+        "text": "tayo po ay nanumpa. Lahat po tayo nanumpa sa isang oath. Napakaliwanag po nung oath. Sa dulo po noon sabi ay i-uphold natin ang konstitusyon. Ang konstitusyon po natin ay hindi po ito bunga ng Isang madaling pangyayari. Ito po ang Constitution na ito ay galing po sa isang people power.",
+        "confidence": 0.9327435615735176,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00259",
+        "start_seconds": 5871.77,
+        "end_seconds": 5887.43,
+        "speaker": "Sen. Robinhood “Robin” Padilla",
+        "text": "Ginawa itong Constitution na ito para galangin, bigyan ng boses, patibayin ang karapatan ng bawat Pilipino. Uphold the Constitution. Ipaglaban, itaguyod.",
+        "confidence": 0.9939844525049601,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00260",
+        "start_seconds": 5890.21,
+        "end_seconds": 5893.81,
+        "speaker": "Sen. Robinhood “Robin” Padilla",
+        "text": "Pinapaalala ko lamang po sa ating mga kasama, ang",
+        "confidence": 0.99365234375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00261",
+        "start_seconds": 5895.8,
+        "end_seconds": 5904.2,
+        "speaker": "Sen. Robinhood “Robin” Padilla",
+        "text": "Constitution ay hindi po Pwedeng galawin. Hindi natin pwedeng gawan",
+        "confidence": 0.9833740234375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00262",
+        "start_seconds": 5905.8,
+        "end_seconds": 5922.82,
+        "speaker": "Sen. Robinhood “Robin” Padilla",
+        "text": "ng paraan. Kaya nga po tayo, merong kumite ng constitutional amendment. Kung gusto natin ng pagbabago sa konstitusyon, eh dumaan po tayo sa tamang proseso. Ako po ay hindi nagmamagaling dito. Ako po yung ex-convict.",
+        "confidence": 0.9474035192418983,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00263",
+        "start_seconds": 5924.95,
+        "end_seconds": 5938.96,
+        "speaker": "Sen. Robinhood “Robin” Padilla",
+        "text": "Isa lang po ang gusto kong malaman po ninyong lahat. Hindi po ganyang kataas ang pinag-aralan ko. Pero ipaglalabang ko ang konstitusyon na ito hanggang sa dulo ng aking buhay. Maraming salamat po.",
+        "confidence": 0.9858087277879903,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00264",
+        "start_seconds": 5974.63,
+        "end_seconds": 6030.79,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "The Chair agrees with Senator-Judge Pia, we cannot decide on this motion of Senator-Judge Erwin Tulfo at this point in time, but we can set in motion what the Court shall do in order to resolve this matter. May the Court ask Senator-Judge Erwin Tulfo, Sir, The court takes your motion and manifestation as an appeal cum reconsideration of the presiding officer's position and decision as clarified by both Senator Laxon and Senator Judge Laxon and Senator Judge Alan Cayetano that it was a ruling of the chair. So do I take it that The motion of manifestation is an appeal and or reconsideration of that ruling of the chair.",
+        "confidence": 0.9438150129487031,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00265",
+        "start_seconds": 6031.05,
+        "end_seconds": 6035.87,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "Yes, Mr. Presiding Officer. That's my point. That's what I'm driving at.",
+        "confidence": 0.9820760091145834,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00266",
+        "start_seconds": 6036.33,
+        "end_seconds": 6047.83,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "Specifically that the base vote is all 24 senators and not a lower number regardless of how many are available to vote.",
+        "confidence": 0.96630859375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00267",
+        "start_seconds": 6048.15,
+        "end_seconds": 6128.88,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "That's why we have to discuss this matter, Mr. Presiding Officer, because as we near the end, because yesterday we heard from the prosecution that they're not going to tackle the bribery articles for bribery. Rather, they will tackle next the unexplained wealth, thereby cutting some more time. So we have to talk about this, Mr. Senate President. I know it is in the Constitution. I read the Constitution as well. Why I'm saying, because I read from social media and even in mainstream media, comments of some former chief justices. Some of them, they don't agree. Some of them agree that the threshold can be lowered, but some are very firm on their decision, stating that we have to... Two-thirds of all members of the Senate. But some of those former Chief Justices were also saying that only those present, Mr. Presiding Officer. So that's what I'm asking right now, Your Honorable Presiding Officer. What do we do? Where do we go? Is it really for 24? We count the 24? Or we only count those who are present right now, the 21?",
+        "confidence": 0.9755718609234235,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00268",
+        "start_seconds": 6131.21,
+        "end_seconds": 6146.34,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "So to clarify, Senator-Judge Tulfo, you are asking for a clarification and determination of the phrase, all members as found in Article 11, Section 3, Paragraph 6 of the Constitution.",
+        "confidence": 0.9591152369976044,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00269",
+        "start_seconds": 6146.78,
+        "end_seconds": 6166.95,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "Exactly, Mr. Presiding Officer. We did a research, my legis team also, this past few weeks. What do we do? And I was advised by my Chief Legal Officer to submit this before the court. and let the body decide with the presiding officer on deck.",
+        "confidence": 0.9399546747622283,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00270",
+        "start_seconds": 6168.59,
+        "end_seconds": 6181.12,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "But to be sure about it, Senator-Judge Tulfo, not only the base of the two-thirds but also the base of the one-third will go down. Exactly.",
+        "confidence": 0.9401552759367844,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00271",
+        "start_seconds": 6181.8,
+        "end_seconds": 6184.4,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "That's what I'm driving at. That's why I'm saying...",
+        "confidence": 0.9449598524305556,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00272",
+        "start_seconds": 6184.4,
+        "end_seconds": 6190.68,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Both to convict and acquit, the number will change. The number will change if we change the base. Yes.",
+        "confidence": 0.9606291118421053,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00273",
+        "start_seconds": 6191.32,
+        "end_seconds": 6232.79,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "That's what I was asking because it doesn't matter that they're not present right now. I mean, some of them, they're out of our jurisdiction or control. But some of them, they're on leave. So how do we count their votes? Will we allow them to vote? I mean, let's not forget, Mr. Presiding Officer, that these people are still members of the Senate. They have not been... Yes, they're accused, some of them. But there's no final judgment yet from the Sandigan Bayan. So, therefore, Mr. Presiding Officer, there's still a member of this chamber, as far as I know.",
+        "confidence": 0.9739712252475248,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00274",
+        "start_seconds": 6233.33,
+        "end_seconds": 6340.04,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Rule 22 of our impeachment rules state that any appeal or reconsideration from a ruling of the chair shall be decided without debate by ayes and nays. However, given the sensitive and serious nature of this issue and topic, As discussed earlier with counsel for the parties and the senator-judges, we will be enlisting the opinion and assistance of amici curiae or friends of the court, so to speak, in order to give their opinion with respect to this issue and will be scheduling as well oral arguments from both of the parties so that they will be heard on this matter. During the break as well, upon consultation and accession of the parties, both parties for the prosecution and the respondent, we will try to schedule the calling of the amici curiae on September 16. So we will not have any trial on the 16th and instead we'll hear the amici curiae on this matter. And we will schedule oral arguments by the parties on September 23, the following week. Affording the parties more than two weeks to prepare for this matter before we put it to a vote on September 23 as well. The parties will be given a period of 15 minutes each to discuss their position on the matter. In regard to the amici curiae, the parties can course their queries or questions or interjections through the presiding officer. Senator-judges can of course ask questions of the amici curiae on this matter. Yes, what is the pleasure of Senator-Judge Bam Aquino?",
+        "confidence": 0.9675864680484899,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00275",
+        "start_seconds": 6342.36,
+        "end_seconds": 6355.21,
+        "speaker": "Sen. Paolo Benigno “Bam” Aquino",
+        "text": "Mr. Presiding Officer, this is an inquiry. The matter of threshold is not really a question of guilt or innocence. It is a matter of threshold.",
+        "confidence": 0.9810321514423077,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00276",
+        "start_seconds": 6358.3,
+        "end_seconds": 6401.64,
+        "speaker": "Sen. Paolo Benigno “Bam” Aquino",
+        "text": "We cannot assume the position of the prosecution or the defense with regard to threshold questions. So I would like to know because I think the public is assuming that the defense wants to maintain the threshold and the prosecution wants to lower the threshold. I don't think that's a safe assumption, Mr. President, because threshold questions are not a matter of defense or are not a matter of guilt or innocence. So I would like to be clarified. Will the prosecution and defense also present their position to us maybe in a written form before the oral arguments? Or can we assume already that the prosecution is for lowering and the defense is for maintaining the threshold? We shouldn't, no?",
+        "confidence": 0.970588116606405,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00277",
+        "start_seconds": 6401.86,
+        "end_seconds": 6413.33,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "I'm sorry to disappoint Senator-Judge Van but I think that is their respective positions and will maintain their respective positions as advocates. I think they are duty-bound to",
+        "confidence": 0.8924021979173025,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00278",
+        "start_seconds": 6415.9400000000005,
+        "end_seconds": 6423.78,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Take those respective positions within the bounds of the law. And actually, that will be good for the Senator-Judges for us to hear both sides of the picture.",
+        "confidence": 0.9136329933449074,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00280",
+        "start_seconds": 6423.78,
+        "end_seconds": 6447.68,
+        "speaker": "Sen. Paolo Benigno “Bam” Aquino",
+        "text": "Well, in that case, I won't ask them to say it out loud anymore, Mr. Presiding Officer, if that is indeed your information. But just for the record, gusto ko lang pong sabihin, yung issue ng threshold ay ibang issue po yan sa guilt or innocence ng respondent. This is a matter of interpreting the Constitution. and has nothing to do with guilt or innocence per se. Thank you, Mr. President.",
+        "confidence": 0.9754415162852113,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00281",
+        "start_seconds": 6447.9,
+        "end_seconds": 6472.4400000000005,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Thank you, Senator Judge Aquino. But for that matter, as the Chair said in his opening remarks, the job of the Prosecutor and the Council for Respondent is not to convict nor to acquit but to see to it that justice is done. Not only as advocates for their respective clients but also as officers of the Court. Before Senator Judge Pangilinan, the Senate President is recognized.",
+        "confidence": 0.9511639799051618,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00282",
+        "start_seconds": 6473.2,
+        "end_seconds": 6497.59,
+        "speaker": "Sen. Sherwin T. Gatchalian",
+        "text": "Thank you very much, Mr. Presiding Officer. Para po sa mga nakikinig sa atin dahil po merong motion si Senator-Judge Tulfo at meron tayong isang bagong proseso sa labas po ng trial. Para po maintindihan po ng ating mga kababayan, ano po itong amicus curiae na i-introduce po natin?",
+        "confidence": 0.919732399236143,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00283",
+        "start_seconds": 6507.96,
+        "end_seconds": 6546.09,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Literally translated, Mr. Senate President, it is a friend of the court. amici curiae, the plural form would be friends of the court. They are found in Rule 10 of the Internal Rules of the Supreme Court. On amicus curiae, where the court can invite amicus curiae or amici curiae to advise the court and guide the court. This also finds basis in several Supreme Court decisions where by favor, grace, and not by right, the court can call an amicus curiae or amici curiae to advise the court with respect to complicated matters that it seeks guidance.",
+        "confidence": 0.9623153582722153,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00284",
+        "start_seconds": 6549.93,
+        "end_seconds": 6567.3099999999995,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "So literally translated, it is a friend of the court that we will be inviting. And we're looking at, we already talked about some retired justices of the Supreme Court, but I'm not yet at liberty to state their names because we have not yet gotten in touch with them. I hope that satisfies the Senate President.",
+        "confidence": 0.9690583881578947,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00285",
+        "start_seconds": 6580.21,
+        "end_seconds": 6605.67,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Sa mga legal na bagay ay mabigyan tayo ng kanilang kaisipan. Kaugnay sa isyong ito, pabor mano kontra sa magkabilang panig, sangayon mano hindi sa binanggit ni Sen. Judge Tulfos, binanggit ni Sen. Judge Padilla, binanggit ni Sen. Judge Pia. Sa binanggit ko nung una, magandang mapahinga natin yung kanilang pananaw at kuro-kuro. Kaugnay po nito. At ganyan din, para mabigyang linawang isyong ito sa ating mga kababayan. Maraming",
+        "confidence": 0.9439947219122022,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00286",
+        "start_seconds": 6605.67,
+        "end_seconds": 6605.99,
+        "speaker": "Sen. Sherwin T. Gatchalian",
+        "text": "salamat.",
+        "confidence": 0.99755859375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00287",
+        "start_seconds": 6606.13,
+        "end_seconds": 6607.83,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Sen. Judge, pangalina ni Sir Canais.",
+        "confidence": 0.7548828125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00288",
+        "start_seconds": 6611.86,
+        "end_seconds": 6631.22,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "Thank you very much, Mr. Presiding Officer. Siguro parang dagdag din na kasagutan doon sa tanong ng ating Senate President. Usually po yung amici o amicus curiae ay eminent legal expert, retired Chief Justice, retired Supreme Court Justice.",
+        "confidence": 0.9485270182291667,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00289",
+        "start_seconds": 6632.74,
+        "end_seconds": 6664.88,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "Yes, and experts in constitutional law and the like. So, yun po ang nature ng amicus curiae. But having said that, Mr. President, with the permission of our colleagues, perhaps we should authorize the presiding officer in consultation with both the defense and the prosecution, as well as our colleagues, authorize the presiding officer to select the AMICI curate.",
+        "confidence": 0.969654147907839,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00290",
+        "start_seconds": 6667.96,
+        "end_seconds": 6673.12,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "Provided, precisely, that there is consultations. So move, Mr. President.",
+        "confidence": 0.896295166015625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00291",
+        "start_seconds": 6673.82,
+        "end_seconds": 6731.75,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Thank you. Thank you, Senator-Judge Pangilinan. Subject to that condition, yes, the Chair will do that. Again, for the record, the Chair had discussions with councils for the parties earlier and had come up with names agreed upon by both councils for the parties. However, the chair cannot as of yet announce because we have not yet contacted them and asked them if they are willing to or if they are available, even available. So as soon as we get that, we will inform the parties and if we are set already or not. But tentatively, we will be setting the amici curiae on September 16 again and the oral arguments of the parties on September 23. Barring any unforeseen and or questions of availability on the part of the amici curiae, Hopefully, we will be able to do this in a week's time. Atty. Poa?",
+        "confidence": 0.967958616831946,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00292",
+        "start_seconds": 6731.89,
+        "end_seconds": 6734.41,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Yes, Your Honor. Just for clarity, Your Honor. Yes,",
+        "confidence": 0.9914279513888888,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00293",
+        "start_seconds": 6734.45,
+        "end_seconds": 6734.51,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "sir.",
+        "confidence": 0.80517578125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00294",
+        "start_seconds": 6734.55,
+        "end_seconds": 6752.3099999999995,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "On the rules. So, after the oral arguments, I'm assuming, of course, a decision will be made by the Honorable Court. And such decision, because it was brought about by a motion for reconsideration of a ruling, will be done by majority vote of the members of the impeachment? Or will it just be the presiding officer? It",
+        "confidence": 0.9778168776939655,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00295",
+        "start_seconds": 6752.3099999999995,
+        "end_seconds": 6756.63,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "is already in the nature of an appeal from my ruling because my ruling is a hard 16.",
+        "confidence": 0.9403550889756944,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00296",
+        "start_seconds": 6757.1900000000005,
+        "end_seconds": 6758.99,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "So it will be a vote? It",
+        "confidence": 0.9464285714285714,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00297",
+        "start_seconds": 6758.99,
+        "end_seconds": 6759.25,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "will be a",
+        "confidence": 0.98828125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00299",
+        "start_seconds": 6759.25,
+        "end_seconds": 6761.3099999999995,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "vote by the impeachment court.",
+        "confidence": 0.9935546875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00300",
+        "start_seconds": 6761.67,
+        "end_seconds": 6772.11,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Yes, Your Honor. And secondly, Your Honor, of course, it goes without saying, I'm assuming, and this is for both parties, that such decision is without prejudice to any legal remedies that any of the parties may take.",
+        "confidence": 0.9929006476151315,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00301",
+        "start_seconds": 6772.29,
+        "end_seconds": 6773.21,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Of course. Thank",
+        "confidence": 0.9358723958333334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00302",
+        "start_seconds": 6773.21,
+        "end_seconds": 6773.8099999999995,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "you, Your Honor. You're",
+        "confidence": 0.9620361328125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00303",
+        "start_seconds": 6773.8099999999995,
+        "end_seconds": 6785.67,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "correct. It is without prejudice to any remedies you may seek in relation to the ruling, and we will be furnishing you with a copy of the ruling via the journal, or if you want a separate one, we can do that too.",
+        "confidence": 0.984119503997093,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00304",
+        "start_seconds": 6785.75,
+        "end_seconds": 6786.87,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Thank you, Your Honor. Thank you very much.",
+        "confidence": 0.999755859375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00305",
+        "start_seconds": 6787.33,
+        "end_seconds": 6788.45,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Senator Judge Villanueva?",
+        "confidence": 0.9685872395833334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00306",
+        "start_seconds": 6794.12,
+        "end_seconds": 6840.72,
+        "speaker": "Sen. Joel Villanueva",
+        "text": "Thank you, Mr. Presiding Officer, Senate President. Just to put on record, actually wanted to ask that question with regards to voting, but first, let me support the motion rendered by Senator Kiko Pangilinan to give us... The opportunity to peruse and study this very important matter because as a non-lawyer, Mr. President, we appreciate your explanation about Michi Correa and all of this because as far as this representation is concerned, all my life as a member of the House being part of the Rules Committee and in the Senate being part of the Rules Committee, I thought it would be",
+        "confidence": 0.959890223629652,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00307",
+        "start_seconds": 6842.82,
+        "end_seconds": 6852.16,
+        "speaker": "Sen. Joel Villanueva",
+        "text": "Important for the public to again be reminded of what Article 11, Section 3,",
+        "confidence": 0.9241136823381696,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00308",
+        "start_seconds": 6853.82,
+        "end_seconds": 7013.6,
+        "speaker": "Sen. Joel Villanueva",
+        "text": "Number 6 actually is talking about. It says here, the Senate shall have the sole power to try and decide all cases of impeachment. When sitting for that purpose, the Senator shall be on oath or affirmation, when the Senate President of the Philippines on that, The Chief Justice of the Supreme Court shall preside but shall not vote. And then this is very clear to me, Mr. President. No person shall be convicted without the concurrence of two-thirds of all the members of the Senate. And so when you made that decision before, Mr. Senate President, our presiding officer, I thought that is non-debatable. But now that there's an appeal, which I totally understand. In fact, I agree with Senator Erwin Tulfo that we have colleagues who are still members of the Senate. We have yet to decide on this particular matter as to whether... I don't think anyone is actually contesting of the fact that they are still members of the Senate. In fact, I supported several times any move for our colleagues who are... Already incarcerated, Mr. President, na mabigyan po sila ng TV, ng monitor para makita nila yung ginagawa po natin. Because I was expecting, Mr. President, distinguished colleagues, that one day, they will be able to exercise their constitutional duty as duly elected members of the Senate of the Republic of the Philippines. But again, Mr. President, distinguished colleagues, I wanted to learn, I wanted to study this particular matter. But I also have a question, Mr. President, with regards to voting. And so after the presentation, are we voting and are we just looking for the majority members of the Senate voting in this particular matter? Because remember, we are talking about the two-thirds threshold. We are not only talking about the majority members of the Senate. As I mentioned earlier, this representation had been in the Rules Committee for quite a long time, whether in the House of Representatives or in the Senate. Every time we are voting on something like this, if it is a tax law, if it is a treaty, We are very strict on the two-thirds. We are very strict on the numbers. And so, I just wanted to put that on record, Mr. Presiding Officer, Mr. Senate President, and I really wanted to be clear on this particular matter. Thank you very much, Mr. President.",
+        "confidence": 0.9847118573797677,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00309",
+        "start_seconds": 7015.71,
+        "end_seconds": 7019.89,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "The comments of the gentleman are duly noted. Senator-Judge Pia Quezada.",
+        "confidence": 0.8475232002062676,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00310",
+        "start_seconds": 7020.35,
+        "end_seconds": 7035.0,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Mr. President, before we agree on setting a date for an actual discussion,",
+        "confidence": 0.9984944661458334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00311",
+        "start_seconds": 7036.73,
+        "end_seconds": 7043.8099999999995,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "on the review of your decision earlier on July 6, I believe.",
+        "confidence": 0.9608968098958334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00312",
+        "start_seconds": 7045.72,
+        "end_seconds": 7057.5,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "The first question we need to ask is do we even have a right to decide on this? Because no less than the presiding officer on July 6 stated, and I quote,",
+        "confidence": 0.9746856689453125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00313",
+        "start_seconds": 7067.79,
+        "end_seconds": 7130.02,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "This is the prevailing law today and whether we agree with it or not, we must abide by it. However, those who disagree are not without recourse because this is without prejudice to the right of any party who holds a different view to seek judicial relief. And should the Supreme Court, which possesses the sole authority to interpret the Constitution by virtue of its power of judicial review, render a different ruling on this question? Other than what the Chair has stated, this Court and this representation shall faithfully abide by the ruling of the Supreme Court. I will not read the whole thing, but basically, Mr. Presiding Officer, you had already ruled, and this part I will read. The Court held that the Charter provides that the Senate shall be composed of 24 Senators without a tinge of doubt. Two-thirds of that figure are no less than 16 members. is in unquestionable compliance with the requisite member of votes mentioned in Section 21 of Article 7.",
+        "confidence": 0.9862501155695266,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00314",
+        "start_seconds": 7132.38,
+        "end_seconds": 7189.0,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Your ruling, Mr. Presiding Officer, was made. And your ruling was, if there's anyone who questions it... Then the recourse is to go to the Supreme Court. I'm not going to debate this today. I'm just reminding the body of that ruling. So if you want to open to this discussion, then the first discussion will be if that ruling, not the actual change, but to even open it up for discussion, that has to be discussed because... The Supreme Court is clear, the Constitution is clear that the interpretation of the Constitution is with the Supreme Court. Wala akong nakasulat na may ibang may kapangyarihan na gawin yun. Yun yung una kong tanong. Yung pangalawa ko pong tanong, well, it's not a tanong, yan yung unang issue ko. Ang pangalawang issue ko po ay yung pagpili ng Amici Curie natin.",
+        "confidence": 0.9665376126625295,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00315",
+        "start_seconds": 7191.6,
+        "end_seconds": 7198.66,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Meron na rin tayong legislative history dyan because the late Senator Miriam Defensor Santiago",
+        "confidence": 0.9796840122767857,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00316",
+        "start_seconds": 7200.18,
+        "end_seconds": 7248.9,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "held very lengthy hearings in the Committee on Constitutional Amendments and I mistakenly thought it was on federalism but my staff was able to research that it was on the Visiting Forces Agreement and she also called experts and she had experts who were for it and she had experts who were against it and I think it should be very clear that these are the kind of experts we have yung for and not for kasi mahirap naman yung isang side lang kung dun tayo papunta pero kine-question ko nga kung may karapatan man lang tayong gawin yun kasi otherwise unconstitutional yung act natin dahil hindi natin job mag-interpret I leave that to the body your honors",
+        "confidence": 0.9361499362521701,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00317",
+        "start_seconds": 7251.36,
+        "end_seconds": 7276.99,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "To respond at Senator-Judge Pia, that's why the presiding officer asked Senator-Judge Erwin Tulfo earlier if it is in the nature of an appeal or a consideration of the ruling of the chair, and I guess it includes the provision or the portion that you read, that aside from the base figure,",
+        "confidence": 0.9437009522944321,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00318",
+        "start_seconds": 7278.5,
+        "end_seconds": 7345.68,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "that he wants it decided by the impeachment court. We will hopefully be able to pose these questions to the amici curiae. And number two, on the choice of amici curiae, as the Chair said earlier, this will be done in consultation with the parties and with the agreement of the parties. Clearly, we will not choose just one side unless there is only one side to an issue that we are asking about. But however, on this threshold issue, on this issue of of the point raised by Senator-Judge Irwin, Tulfo, there are divergent views. So we will be getting the agreement of the parties as to the amici curiae we will be calling to advise the court. As I said earlier, Senator-Judge Pia, we already had an initial agreement, but I cannot as of yet announce their names because we have not yet gotten in touch with them. We have not so informed them. It would be unfair to name them as being considered for this purpose. At the proper time, we will. and hopefully it'll be to the satisfaction not only of Senator-Judge Pia but also of the Senator-Judges in the public as well. Any other points? Any Senator-Judge wishes to raise?",
+        "confidence": 0.9391432277739993,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00319",
+        "start_seconds": 7347.59,
+        "end_seconds": 7351.45,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "If there are none, Attorney Chell, any other points?",
+        "confidence": 0.9466145833333334,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00320",
+        "start_seconds": 7352.55,
+        "end_seconds": 7353.37,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "None, Your Honor.",
+        "confidence": 0.8466796875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00321",
+        "start_seconds": 7353.97,
+        "end_seconds": 7354.69,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Attorney Poa?",
+        "confidence": 0.80328369140625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00322",
+        "start_seconds": 7355.57,
+        "end_seconds": 7358.75,
+        "speaker": "Atty. Michael Wesley Poa",
+        "text": "Your Honor, I think our lead counsel, Attorney Sheila Sison, would like to",
+        "confidence": 0.9435096153846154,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00323",
+        "start_seconds": 7358.75,
+        "end_seconds": 7390.13,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "be... Yes, Attorney Sheila. Before you take the mic, Attorney Sheila, just to remind, we will have no trial tomorrow. Just for markings and also on Thursday 10 o'clock at Rector Room, we will proceed the schedule with the trial on Monday, September 14 for the presentation of the prosecution's witnesses that they will inform both the respondents and this court tomorrow. Kindly give us a list of three to four witnesses, Attorney Jocna being the lead prosecutor for this article.",
+        "confidence": 0.9164263717527311,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00324",
+        "start_seconds": 7390.35,
+        "end_seconds": 7392.45,
+        "speaker": "Rep. Jose Manuel “Chel” I. Diokno",
+        "text": "Yes, Your Honor, we will do that. Attorney Sheila?",
+        "confidence": 0.9597439236111112,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00325",
+        "start_seconds": 7392.75,
+        "end_seconds": 7394.17,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Good afternoon again, Your Honor.",
+        "confidence": 0.9764927455357143,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00326",
+        "start_seconds": 7394.23,
+        "end_seconds": 7394.45,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Yes, ma'am.",
+        "confidence": 0.9990234375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00327",
+        "start_seconds": 7394.99,
+        "end_seconds": 7473.01,
+        "speaker": "Atty. Sheila C. Sison",
+        "text": "Thank you for giving me a brief moment to manifest an important matter in respect of what the court had discussed this afternoon. We would just like to put on record that whatever participation that the respondent and the defense would have on any oral argument or on any debate, or proceeding relating to the matter taken up by the Honorable Senator Erwin Tulfo in his motion which the Presiding Officer had taken to be an appeal of his ruling on July 6 would be only out of abundant caution, Your Honor, and without prejudice to any remedy that the respondent, through her defense, team would avail in respect not only of the result of whatever debate discussion or proceeding will be had on this matter but also on the matter of the raising of this motion today your honor just to set the record straight thank you because I think your honor also on record more than the issue that will be discussed when this",
+        "confidence": 0.9498237088980924,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00328",
+        "start_seconds": 7487.22,
+        "end_seconds": 7524.5,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "Mr. President, just to place on record that I think in the course of our discussions regarding the threshold and whether or not our colleagues are not here present will or will be able to vote, Mr. President. Just for the record, Senator Marcoleta, in fact, officially communicated to both the Senate President and the Presiding Officer his desire to be allowed to participate. So that, too, will be an opportunity for us to clarify this and discuss this and decide on it, Mr. President. For the record.",
+        "confidence": 0.9395823184024082,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00329",
+        "start_seconds": 7525.74,
+        "end_seconds": 7526.42,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Duly noted.",
+        "confidence": 0.63427734375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00330",
+        "start_seconds": 7528.09,
+        "end_seconds": 7530.21,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "What is the pleasure of Senator Judge Pia?",
+        "confidence": 0.99578857421875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00331",
+        "start_seconds": 7530.77,
+        "end_seconds": 7557.57,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "On that note, Mr. President, I'd just like to follow up to what the Senator-Judge Pangilinan said. I believe our two colleagues have officially requested that the Senate take a position to allow them to participate and to vote. So this is also the right time to consider that because there is nothing that prevents them from participating in voting. If we will make that appeal to allow them, then we don't have to change the rules.",
+        "confidence": 0.9431195381360177,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00332",
+        "start_seconds": 7559.88,
+        "end_seconds": 7565.68,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "The request of the two gentlemen who are deprived of liberty right now, Mr. President.",
+        "confidence": 0.9282877604166667,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00333",
+        "start_seconds": 7566.19,
+        "end_seconds": 7585.45,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Thank you, Senator Judge Pia. The matter has already been brought up with the Senate as a legislative body and it's with the Senate as a legislative body that will decide on that matter. Senator Judge Irwin, before we call it a day and break for lunch and adjourn for lunch rather.",
+        "confidence": 0.9543550931490384,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00334",
+        "start_seconds": 7589.22,
+        "end_seconds": 7590.18,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "Just a quick",
+        "confidence": 0.7242838541666666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00335",
+        "start_seconds": 7590.18,
+        "end_seconds": 7643.16,
+        "speaker": "Sen. Erwin Tulfo",
+        "text": "manifestation, Mr. Senator, Mr. Presiding Officer. We have talked about this. I mean, one of the two colleagues of ours were even texting us, but the decision, our decision, was to leave it to the Sandiganbayan because they're not under our jurisdiction anymore. Correct me if I'm wrong. So it should be the Sandiganbayan who will make the decision. And we cannot make the decision because they're under the custody. And it was the Sandiganbayan who placed them there and not the Senate, Mr. Presiding Officer. So my point is, I guess we'll just have to leave it to the Sandiganbayan. Perhaps we may be able to, we can ask the Sandiganbayan to release them or let them attend. But still, they're still under the jurisdiction and control of the Sandiganbayan. Thank you, Mr. Presiding Officer.",
+        "confidence": 0.9711922366602891,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00336",
+        "start_seconds": 7645.61,
+        "end_seconds": 7647.97,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Duly noted. Senator-Judge Villa.",
+        "confidence": 0.7216519355773926,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00337",
+        "start_seconds": 7648.43,
+        "end_seconds": 7713.45,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "Thank you. That is absolutely correct, Your Honor. And that is precisely why I stood up to reiterate that our colleagues would like to participate. And there was a request, I don't know if it was in writing, that the Senate as a body appeal. to the Sandiganbayan to allow them to participate. So because if they can participate, then wala na tayong pinag-usapan dito sa numbers. So I'm just making that clear na wala tayong, I don't think we have an issue as to sino may jurisdiction talaga hung it's the Sandiganbayan. Pero pwede naman manindigan ng Senate to say that the Constitution says all members shall vote. So therefore, how do they vote? Sana maka-attend sila tapos maka-boto sila. And that was the position raised to the leadership. I know for a fact it was raised, whether it was in writing or orally, I don't know, but the presiding officer noted. So I hope it will be",
+        "confidence": 0.9591520637212084,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00339",
+        "start_seconds": 7713.45,
+        "end_seconds": 7713.6900000000005,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "taken into action",
+        "confidence": 0.413330078125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00341",
+        "start_seconds": 7713.6900000000005,
+        "end_seconds": 7715.55,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "because the numbers are",
+        "confidence": 0.4954833984375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00343",
+        "start_seconds": 7715.55,
+        "end_seconds": 7718.43,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "being discussed now. I hope it will",
+        "confidence": 0.81689453125,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00345",
+        "start_seconds": 7718.43,
+        "end_seconds": 7718.51,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "also be",
+        "confidence": 0.33056640625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00347",
+        "start_seconds": 7718.51,
+        "end_seconds": 7719.91,
+        "speaker": "Sen. Pia S. Cayetano",
+        "text": "discussed. Thank you.",
+        "confidence": 0.9825846354166666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00348",
+        "start_seconds": 7720.71,
+        "end_seconds": 7729.15,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "It was formally referred to the Senator Sabadi via a letter by the Hon. Mark Coletta, for the information of Senator Judge Pia. Yes.",
+        "confidence": 0.953460693359375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00349",
+        "start_seconds": 7730.68,
+        "end_seconds": 7737.96,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Senator-Judge, Rafi Tulfo. Again, before we adjourn for lunch already. Yes, please.",
+        "confidence": 0.8897840793316181,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00350",
+        "start_seconds": 7738.64,
+        "end_seconds": 7757.76,
+        "speaker": "Sen. Raffy T. Tulfo",
+        "text": "Mr. Presiding Officer, there is a request from our colleagues who are in custody now because of the Sandiganbayan decision. So, do we have the power to allow them to attend the hearing? Does the Senate have the impeachment court? This",
+        "confidence": 0.9283214750744048,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00351",
+        "start_seconds": 7757.76,
+        "end_seconds": 7770.1900000000005,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "was referred to the Senate as a legislative body, Senator-Judge Tulfo, and not the Senate as an impeachment court. So I would rather this matter be discussed in the Senate.",
+        "confidence": 0.9555262698922107,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00352",
+        "start_seconds": 7770.37,
+        "end_seconds": 7779.41,
+        "speaker": "Sen. Raffy T. Tulfo",
+        "text": "But do we have the power, the impeachment court, does it have the power to invite our two colleagues who are in custody right now?",
+        "confidence": 0.99669921875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00353",
+        "start_seconds": 7779.82,
+        "end_seconds": 7793.24,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Again, the decision of the presiding officer at that time when it was brought up is that it is not for the impeachment court to decide, but for the Senate as a legislative body to decide the matter at hand.",
+        "confidence": 0.969915771484375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00354",
+        "start_seconds": 7793.62,
+        "end_seconds": 7805.29,
+        "speaker": "Sen. Raffy T. Tulfo",
+        "text": "How about, like I did mention this a few weeks ago, that they are allowed to monitor if they want to vote, but we are not",
+        "confidence": 0.928837890625,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00356",
+        "start_seconds": 7805.29,
+        "end_seconds": 7831.86,
+        "speaker": "Sen. Raffy T. Tulfo",
+        "text": "allowed to have television in the cell. So, if they are not able to monitor the proceedings, then they cannot vote intelligently because they haven't heard the discussions about coming from the defense and coming from the prosecution. That's why they don't have monitoring and then we will allow them to vote. How can they vote correctly?",
+        "confidence": 0.8713121916118421,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00357",
+        "start_seconds": 7837.18,
+        "end_seconds": 7842.9400000000005,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Senator Judge Erwin Tulfo. I hope we can discuss this, Senator Judge Rafi Tulfo.",
+        "confidence": 0.7312662033807664,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00358",
+        "start_seconds": 7842.96,
+        "end_seconds": 7843.12,
+        "speaker": "Sen. Raffy T. Tulfo",
+        "text": "Thank you very",
+        "confidence": 0.96484375,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00360",
+        "start_seconds": 7843.12,
+        "end_seconds": 7845.5,
+        "speaker": "Sen. Raffy T. Tulfo",
+        "text": "much, Presiding Officer. Thank you. Thank",
+        "confidence": 0.8175455729166666,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00361",
+        "start_seconds": 7845.5,
+        "end_seconds": 7847.7,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "you, sir. Senator Judge Pangilinan. Just",
+        "confidence": 0.9237060546875,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00362",
+        "start_seconds": 7847.7,
+        "end_seconds": 7894.1,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "very quickly, Mr. President. Clearly, this is an issue of the separation of powers between the judiciary and the impeachment court and the legislative branch, particularly the legislative branch, Mr. President. Assuming for the sake of argument that the Senate takes the position that they should be allowed to participate, then it will have to go through the normal judicial processes wherein we will have to present our petition before the Sandiganbayan and seek the Sandiganbayan's approval in recognition of the constitutional tenet that each branch is supreme in its own jurisdiction.",
+        "confidence": 0.9706693608710106,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00363",
+        "start_seconds": 7895.72,
+        "end_seconds": 7902.46,
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
+        "text": "So being a co-equal, we will have to respect the processes of the judiciary as well. For the record, Mr. President.",
+        "confidence": 0.9476429332386364,
+        "editorial_flags": []
+      },
+      {
+        "stable_id": "S00364",
+        "start_seconds": 7923.61,
+        "end_seconds": 7944.23,
+        "speaker": "Sen. Francis \"Chiz\" G. Escudero",
+        "text": "Before finally adjourning again, no trial tomorrow. There will be marking of exhibits tomorrow and on Thursday. Trial will proceed as scheduled on September 14 at 10 a.m. with the prosecution calling its first witness for the article on ill-gotten wealth. Trial is adjourned until Monday, September 14 at 10 a.m.",
+        "confidence": 0.968165268132716,
+        "editorial_flags": []
+      }
+    ]
+  }
+}

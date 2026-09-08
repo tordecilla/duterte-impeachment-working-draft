@@ -1,0 +1,418 @@
+{
+  "description": "A source-linked English audio overview of the September 8 impeachment-trial proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Zimmerman Duterte for September 8, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00070",
+          "start_seconds": 1237.29,
+          "clock": "00:20:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00071",
+          "start_seconds": 1240.77,
+          "clock": "00:20:40",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00079",
+          "start_seconds": 1268.64,
+          "clock": "00:21:08",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00081",
+          "start_seconds": 1290.13,
+          "clock": "00:21:30",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00283",
+          "start_seconds": 6507.96,
+          "clock": "01:48:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "A possible future request",
+      "id": "P002",
+      "kind": "finding",
+      "text": "Attorney Lorna Patajo-Kapunan said the prosecution reserved a possible future request, after all four articles, to call Vice President Sara Zimmerman Duterte. She also mentioned a possible amicus curiae, a legal expert invited to advise the court, on impeachment and public accountability. No subpoena request was before the court."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00099",
+          "start_seconds": 1475.48,
+          "clock": "00:24:35",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00102",
+          "start_seconds": 1660.02,
+          "clock": "00:27:40",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00110",
+          "start_seconds": 1882.54,
+          "clock": "00:31:22",
+          "speaker_name": "Atty. Sheila C. Sison"
+        }
+      ],
+      "heading": "The defense response",
+      "id": "P003",
+      "kind": "finding",
+      "text": "For the defense, Attorney Sheila Sison said it would file a written comment if prosecutors made a formal subpoena request. She argued that requiring the respondent to give testimony for the prosecution would conflict with protection against compelled testimony."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00040",
+          "start_seconds": 702.45,
+          "clock": "00:11:42",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00041",
+          "start_seconds": 754.93,
+          "clock": "00:12:34",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00042",
+          "start_seconds": 795.79,
+          "clock": "00:13:15",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        }
+      ],
+      "heading": "Article 1 witnesses",
+      "id": "P004",
+      "kind": "finding",
+      "text": "The prosecution said it would forego its remaining 15 planned Article 1 witnesses on confidential funds. It said it had already presented 10 witnesses in court and stipulated to two others."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00114",
+          "start_seconds": 1937.19,
+          "clock": "00:32:17",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Article 1 stays open",
+      "id": "P005",
+      "kind": "finding",
+      "text": "But Article 1 did not close. Presiding Officer Senator Francis \"Chiz\" Escudero directed both sides not to rest it while the court considers whether to call additional witnesses. If it does, each side may cross-examine and offer rebuttal or surrebuttal evidence about those witnesses."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00190",
+          "start_seconds": 2947.6099999999997,
+          "clock": "00:49:07",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00211",
+          "start_seconds": 3529.83,
+          "clock": "00:58:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Requests for admission",
+      "id": "P006",
+      "kind": "finding",
+      "text": "The court also took up 104 prosecution requests for admission. Representative Jose Manuel Chel Diokno said they concern the genuineness of bank records and whether specified accounts belonged to the respondent alone or jointly with others."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00208",
+          "start_seconds": 3495.19,
+          "clock": "00:58:15",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00211",
+          "start_seconds": 3529.83,
+          "clock": "00:58:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00219",
+          "start_seconds": 3609.23,
+          "clock": "01:00:09",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00225",
+          "start_seconds": 3647.13,
+          "clock": "01:00:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00227",
+          "start_seconds": 3657.49,
+          "clock": "01:00:57",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Fifteen days, while trial continues",
+      "id": "P007",
+      "kind": "finding",
+      "text": "The defense requested time to respond. The chair gave it 15 days to comment, made that period non-extendable, and directed that trial continue during it."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00241",
+          "start_seconds": 3772.57,
+          "clock": "01:02:52",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00242",
+          "start_seconds": 3798.74,
+          "clock": "01:03:18",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00247",
+          "start_seconds": 3950.85,
+          "clock": "01:05:50",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00264",
+          "start_seconds": 5974.63,
+          "clock": "01:39:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00295",
+          "start_seconds": 6752.3099999999995,
+          "clock": "01:52:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00313",
+          "start_seconds": 7067.79,
+          "clock": "01:57:47",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        }
+      ],
+      "heading": "The threshold question",
+      "id": "P008",
+      "kind": "finding",
+      "text": "Senator-Judge Erwin Tulfo asked how the constitutional reference to all members applies to a final vote when senators are unavailable. The chair treated the proposal as an appeal or reconsideration of the chair's existing requirement of 16 votes to convict: two-thirds of the Senate's 24 members."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00275",
+          "start_seconds": 6342.36,
+          "clock": "01:45:42",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00280",
+          "start_seconds": 6423.78,
+          "clock": "01:47:03",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00306",
+          "start_seconds": 6794.12,
+          "clock": "01:53:14",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00308",
+          "start_seconds": 6853.82,
+          "clock": "01:54:13",
+          "speaker_name": "Sen. Joel Villanueva"
+        }
+      ],
+      "heading": "Competing views",
+      "id": "P009",
+      "kind": "finding",
+      "text": "Senator-Judge Bam Aquino described the dispute as one of constitutional interpretation, separate from guilt or innocence. Senator-Judge Joel Villanueva supported time to study it and asked how the court would vote on the appeal, distinguishing that vote from the two-thirds requirement for conviction."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00312",
+          "start_seconds": 7045.72,
+          "clock": "01:57:25",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00313",
+          "start_seconds": 7067.79,
+          "clock": "01:57:47",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00314",
+          "start_seconds": 7132.38,
+          "clock": "01:58:52",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00316",
+          "start_seconds": 7200.18,
+          "clock": "02:00:00",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00261",
+          "start_seconds": 5895.8,
+          "clock": "01:38:15",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S00262",
+          "start_seconds": 5905.8,
+          "clock": "01:38:25",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        }
+      ],
+      "heading": "Questions about reopening it",
+      "id": "P010",
+      "kind": "finding",
+      "text": "Senator-Judge Pia Cayetano questioned whether the Impeachment Court could reopen the chair's constitutional interpretation. She also asked that any invited experts include differing views. Senator-Judge Robin Padilla urged adherence to the Constitution and said change should follow the amendment process."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00274",
+          "start_seconds": 6233.33,
+          "clock": "01:43:53",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00283",
+          "start_seconds": 6507.96,
+          "clock": "01:48:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00289",
+          "start_seconds": 6632.74,
+          "clock": "01:50:32",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00291",
+          "start_seconds": 6673.82,
+          "clock": "01:51:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00299",
+          "start_seconds": 6759.25,
+          "clock": "01:52:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Amici and arguments",
+      "id": "P011",
+      "kind": "finding",
+      "text": "The court tentatively planned a September 16 hearing from amici curiae, legal experts invited to advise the court, followed by party arguments on September 23 before an Impeachment Court vote. The prospective invitees had not yet been contacted."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00291",
+          "start_seconds": 6673.82,
+          "clock": "01:51:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00327",
+          "start_seconds": 7394.99,
+          "clock": "02:03:14",
+          "speaker_name": "Atty. Sheila C. Sison"
+        }
+      ],
+      "heading": "A tentative timetable",
+      "id": "P012",
+      "kind": "finding",
+      "text": "The dates remained subject to availability. The defense said any participation in proceedings on Tulfo's motion would be out of caution and without prejudice to remedies it may pursue."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00333",
+          "start_seconds": 7566.19,
+          "clock": "02:06:06",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00351",
+          "start_seconds": 7757.76,
+          "clock": "02:09:17",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00353",
+          "start_seconds": 7779.82,
+          "clock": "02:09:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00362",
+          "start_seconds": 7847.7,
+          "clock": "02:10:47",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00363",
+          "start_seconds": 7895.72,
+          "clock": "02:11:35",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        }
+      ],
+      "heading": "Detained senators' participation",
+      "id": "P013",
+      "kind": "finding",
+      "text": "The chair said the question of detained senators' participation had been referred to the Senate as a legislative body, not the Impeachment Court. Senator-Judge Francis Pangilinan said that any Senate position seeking their participation would have to proceed through judicial process and seek Sandiganbayan approval."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00069",
+          "start_seconds": 1202.23,
+          "clock": "00:20:02",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S00323",
+          "start_seconds": 7358.75,
+          "clock": "02:02:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00364",
+          "start_seconds": 7923.61,
+          "clock": "02:12:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The next trial date",
+      "id": "P014",
+      "kind": "finding",
+      "text": "The court set exhibit marking for the next day and Thursday. Trial was set to resume September 14 at 10 A M, with the prosecution's first witness on Article 2, concerning unexplained or ill-gotten wealth."
+    }
+  ],
+  "title": "Audio overview — September 8, 2026"
+}

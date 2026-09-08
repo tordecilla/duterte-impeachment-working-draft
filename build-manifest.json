@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:18:04+08:00",
+  "generated_at": "2026-09-08T23:40:21+08:00",
   "complete_artifacts_only": true,
   "partner": null,
   "through_date": null,
@@ -20,8 +20,8 @@
   "case_comparison": false,
   "document_library": null,
   "related_document_library": {
-    "records": 65,
-    "date_references": 85,
+    "records": 68,
+    "date_references": 88,
     "source": "related_document_artifacts",
     "approved_only": true
   },
@@ -31,6 +31,15 @@
     "draft_only": false
   },
   "sessions": [
+    {
+      "id": 23,
+      "youtube_id": "HhrwwDe8Tks",
+      "revision": 2,
+      "segments": 359,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
     {
       "id": 22,
       "youtube_id": "HjveW6hcUqc",
