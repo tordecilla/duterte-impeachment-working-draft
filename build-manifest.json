@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T22:57:25+08:00",
+  "generated_at": "2026-09-16T02:12:14+08:00",
   "complete_artifacts_only": true,
   "partner": null,
   "through_date": null,
@@ -20,8 +20,8 @@
   "case_comparison": false,
   "document_library": null,
   "related_document_library": {
-    "records": 77,
-    "date_references": 98,
+    "records": 72,
+    "date_references": 92,
     "source": "related_document_artifacts",
     "approved_only": true
   },
@@ -30,7 +30,17 @@
     "pdf_files": 175,
     "draft_only": false
   },
+  "saln_index": null,
   "sessions": [
+    {
+      "id": 25,
+      "youtube_id": "c8rrszFOqEI",
+      "revision": 2,
+      "segments": 1280,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
     {
       "id": 24,
       "youtube_id": "UtB7tSTVWiI",
@@ -250,9 +260,9 @@
   ],
   "document_releases": {
     "repository": "tordecilla/duterte-impeachment-working-draft",
-    "asset_count": 223,
-    "rewritten_links": 431,
-    "pdf_payloads_removed": 226,
-    "bytes_hosted_outside_pages": 275494961
+    "asset_count": 224,
+    "rewritten_links": 436,
+    "pdf_payloads_removed": 227,
+    "bytes_hosted_outside_pages": 278009794
   }
 }
