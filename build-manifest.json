@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T02:20:15+08:00",
+  "generated_at": "2026-09-16T02:24:19+08:00",
   "complete_artifacts_only": true,
   "partner": null,
   "through_date": null,
@@ -20,8 +20,8 @@
   "case_comparison": false,
   "document_library": null,
   "related_document_library": {
-    "records": 72,
-    "date_references": 92,
+    "records": 79,
+    "date_references": 99,
     "source": "related_document_artifacts",
     "approved_only": true
   },
