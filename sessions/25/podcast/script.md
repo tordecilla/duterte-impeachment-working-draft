@@ -2,9 +2,9 @@
 
 A concise, source-linked English overview of the Senate impeachment court's September 15 proceedings.
 
-## The day's witness
+## Introduction
 
-The Senate impeachment court heard Atty. Karen S. Batu, Officer-in-Charge of the Office of the Ombudsman's Central Records Division. She testified as a records custodian about Vice President Sara Zimmerman Duterte's Statements of Assets, Liabilities, and Net Worth, or SALN, records.
+This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for September 15, 2026. This is a working reference, not an official Senate record. The Senate impeachment court heard Atty. Karen S. Batu, Officer-in-Charge of the Office of the Ombudsman's Central Records Division. She testified as a records custodian about Vice President Sara Zimmerman Duterte's Statements of Assets, Liabilities, and Net Worth, or SALN, records.
 
 - [00:13:45 · S00021B](../?t=825.21#S00021B)
 - [00:23:30 · S00060](../?t=1410.08#S00060)
@@ -42,3 +42,7 @@ After the examination, the chair excused Batu. The court directed Attorney Gerar
 - [03:49:40 · S01199](../?t=13780.52#S01199)
 - [03:51:10 · S01213](../?t=13870.58#S01213)
 - [03:52:56 · S01221](../?t=13976.9#S01221)
+
+## Closing
+
+Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the September 15, 2026 audio overview.
