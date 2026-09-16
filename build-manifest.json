@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:50:46+08:00",
+  "generated_at": "2026-09-17T05:37:03+08:00",
   "complete_artifacts_only": true,
   "partner": null,
   "through_date": null,
@@ -20,8 +20,8 @@
   "case_comparison": false,
   "document_library": null,
   "related_document_library": {
-    "records": 85,
-    "date_references": 108,
+    "records": 89,
+    "date_references": 113,
     "source": "related_document_artifacts",
     "approved_only": true
   },
@@ -38,6 +38,15 @@
     "source": "verified Senate archive and GitHub Release assets"
   },
   "sessions": [
+    {
+      "id": 26,
+      "youtube_id": "NlxgbDnIIoQ",
+      "revision": 4,
+      "segments": 852,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
     {
       "id": 25,
       "youtube_id": "c8rrszFOqEI",
