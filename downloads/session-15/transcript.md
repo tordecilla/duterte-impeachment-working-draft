@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=qvNG9-cWI3E
-Status: Reviewed working draft, revision 5
+Status: Reviewed working draft, revision 6
 
 **[00:05:52.780] Atty. Renato N. Bantug Jr.**  
 Senate President, the Presiding Officer, and the Senator-Judges of the Impeachment Court.
@@ -6056,7 +6056,7 @@ ito po, same standards applied consistently to all. The transactions reviewed.
 **[05:27:46.560] Cylene May L. Del Campo**  
 Opo, tama po.
 
-**[05:27:48.020] Sen. Manuel “Lito” M. Lapid**  
+**[05:27:48.020] Sen. Joel Villanueva**  
 Salamat po. Kapag nag-issue po ang COA ng Notice of Disallowance, maaari pa po bang itong ma-cure simply by correcting, replacing, or subsequently submitting supporting documents?
 
 **[05:27:59.620] Cylene May L. Del Campo**  
@@ -6098,7 +6098,7 @@ Depende po yan sa evaluation na po ng sa Commission proper.
 **[05:29:10.560] Cylene May L. Del Campo**  
 Kailangan action
 
-**[05:29:11.120] Sen. Manuel “Lito” M. Lapid**  
+**[05:29:11.120] Sen. Joel Villanueva**  
 lang ng proper, Koa. Malinaw po yan. Last na po. Para malinaw po sa atin lahat, kung ang isang agency ay nag-classify ng isang activity as confidential, bound po ba ang Koa sa classification na ito o bilang constitutional audit body? Hindi po.
 
 **[05:29:28.800] Cylene May L. Del Campo**  
@@ -6128,7 +6128,7 @@ So, ibig sabihin ang polisiya po ninyo hindi po sapat na tawaging confidential n
 **[05:31:16.880] Cylene May L. Del Campo**  
 Yes po, tama po. Dahil nga po ito ay pondo ng bayan at kailangan po na ma-audit ito ng takot.
 
-**[05:31:22.680] Sen. Manuel “Lito” M. Lapid**  
+**[05:31:22.680] Sen. Joel Villanueva**  
 At nung ginawa po nyo ito, ilang beses po silang nabigyan ng pagkakataon para sumagot?
 
 **[05:31:28.020] Cylene May L. Del Campo**  

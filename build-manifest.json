@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T05:37:03+08:00",
+  "generated_at": "2026-09-20T14:43:52+08:00",
   "complete_artifacts_only": true,
   "partner": null,
   "through_date": null,
@@ -21,7 +21,7 @@
   "document_library": null,
   "related_document_library": {
     "records": 89,
-    "date_references": 113,
+    "date_references": 112,
     "source": "related_document_artifacts",
     "approved_only": true
   },
@@ -45,7 +45,7 @@
       "segments": 852,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 25,
@@ -54,7 +54,7 @@
       "segments": 1280,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 24,
@@ -63,7 +63,7 @@
       "segments": 1421,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 23,
@@ -72,7 +72,7 @@
       "segments": 359,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 22,
@@ -81,7 +81,7 @@
       "segments": 1531,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 21,
@@ -90,7 +90,7 @@
       "segments": 1928,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 20,
@@ -99,7 +99,7 @@
       "segments": 1524,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 19,
@@ -108,7 +108,7 @@
       "segments": 1307,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 18,
@@ -117,7 +117,7 @@
       "segments": 1537,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 17,
@@ -126,7 +126,7 @@
       "segments": 1923,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 16,
@@ -135,16 +135,16 @@
       "segments": 1308,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 15,
       "youtube_id": "qvNG9-cWI3E",
-      "revision": 5,
+      "revision": 6,
       "segments": 2374,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 1,
@@ -153,7 +153,7 @@
       "segments": 1393,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 2,
@@ -162,7 +162,7 @@
       "segments": 1495,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 3,
@@ -171,7 +171,7 @@
       "segments": 1724,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 4,
@@ -180,7 +180,7 @@
       "segments": 934,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 5,
@@ -189,7 +189,7 @@
       "segments": 1285,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 6,
@@ -198,7 +198,7 @@
       "segments": 941,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 7,
@@ -207,7 +207,7 @@
       "segments": 1184,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 8,
@@ -216,7 +216,7 @@
       "segments": 478,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 9,
@@ -225,7 +225,7 @@
       "segments": 215,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 10,
@@ -234,7 +234,7 @@
       "segments": 1925,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 11,
@@ -243,7 +243,7 @@
       "segments": 2145,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 12,
@@ -252,7 +252,7 @@
       "segments": 1247,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 13,
@@ -261,7 +261,7 @@
       "segments": 1303,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     },
     {
       "id": 14,
@@ -270,13 +270,13 @@
       "segments": 417,
       "status": "Reviewed working draft",
       "digest": true,
-      "podcast": true
+      "podcast": false
     }
   ],
   "document_releases": {
     "repository": "tordecilla/duterte-impeachment-working-draft",
     "asset_count": 239,
-    "rewritten_links": 454,
+    "rewritten_links": 428,
     "pdf_payloads_removed": 243,
     "bytes_hosted_outside_pages": 328599587
   }

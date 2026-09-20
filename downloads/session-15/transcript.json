@@ -9,7 +9,7 @@
   },
   "transcript": {
     "status": "Reviewed working draft",
-    "revision": 5,
+    "revision": 6,
     "turn_count": 2374,
     "turns": [
       {
@@ -18171,7 +18171,7 @@
         "stable_id": "S01918",
         "start_seconds": 19668.02,
         "end_seconds": 19679.2,
-        "speaker": "Sen. Manuel “Lito” M. Lapid",
+        "speaker": "Sen. Joel Villanueva",
         "text": "Salamat po. Kapag nag-issue po ang COA ng Notice of Disallowance, maaari pa po bang itong ma-cure simply by correcting, replacing, or subsequently submitting supporting documents?",
         "confidence": 0.9439697265625,
         "editorial_flags": []
@@ -18297,7 +18297,7 @@
         "stable_id": "S01933",
         "start_seconds": 19751.12,
         "end_seconds": 19767.66,
-        "speaker": "Sen. Manuel “Lito” M. Lapid",
+        "speaker": "Sen. Joel Villanueva",
         "text": "lang ng proper, Koa. Malinaw po yan. Last na po. Para malinaw po sa atin lahat, kung ang isang agency ay nag-classify ng isang activity as confidential, bound po ba ang Koa sa classification na ito o bilang constitutional audit body? Hindi po.",
         "confidence": 0.9643702651515151,
         "editorial_flags": []
@@ -18387,7 +18387,7 @@
         "stable_id": "S01943",
         "start_seconds": 19882.68,
         "end_seconds": 19887.56,
-        "speaker": "Sen. Manuel “Lito” M. Lapid",
+        "speaker": "Sen. Joel Villanueva",
         "text": "At nung ginawa po nyo ito, ilang beses po silang nabigyan ng pagkakataon para sumagot?",
         "confidence": 0.9715348307291667,
         "editorial_flags": []
