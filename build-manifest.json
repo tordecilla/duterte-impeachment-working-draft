@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:43:52+08:00",
+  "generated_at": "2026-09-23T08:57:31+08:00",
   "complete_artifacts_only": true,
   "partner": null,
   "through_date": null,
@@ -20,8 +20,8 @@
   "case_comparison": false,
   "document_library": null,
   "related_document_library": {
-    "records": 89,
-    "date_references": 112,
+    "records": 93,
+    "date_references": 118,
     "source": "related_document_artifacts",
     "approved_only": true
   },
@@ -38,6 +38,15 @@
     "source": "verified Senate archive and GitHub Release assets"
   },
   "sessions": [
+    {
+      "id": 27,
+      "youtube_id": "PEiTyH_gyBU",
+      "revision": 3,
+      "segments": 1385,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
     {
       "id": 26,
       "youtube_id": "NlxgbDnIIoQ",
@@ -275,9 +284,9 @@
   ],
   "document_releases": {
     "repository": "tordecilla/duterte-impeachment-working-draft",
-    "asset_count": 239,
-    "rewritten_links": 428,
-    "pdf_payloads_removed": 243,
-    "bytes_hosted_outside_pages": 328599587
+    "asset_count": 243,
+    "rewritten_links": 448,
+    "pdf_payloads_removed": 249,
+    "bytes_hosted_outside_pages": 346954688
   }
 }
