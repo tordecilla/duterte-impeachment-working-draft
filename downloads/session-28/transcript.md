@@ -1,0 +1,5289 @@
+# September 22, 2026
+
+Impeachment Trial of Vice President Sara Duterte
+
+Source: https://www.youtube.com/watch?v=gtoJDFavcLY
+Status: Reviewed working draft, revision 2
+
+**[00:06:42.420] Sen. Sherwin T. Gatchalian**  
+The Sergeant at Arms is directed to make a proclamation.
+
+**[00:06:47.180] Alfredo Sotto Corpuz**  
+All persons are commanded to keep silent under pain of penalty while the impeachment court is in session for the trial of Vice President Sara Zimmerman Duterte.
+
+**[00:06:57.970] Sen. Sherwin T. Gatchalian**  
+The impeachment trial of Vice President Sara Zimmerman Duterte is hereby called to order. Let's pause for a minute of silent prayer.
+
+**[00:07:23.210] Sen. Sherwin T. Gatchalian**  
+In Jesus' name, Amen. The Clerk of Court will now call the roll.
+
+**[00:07:31.980] Atty. Renato N. Bantug Jr.**  
+Sen. Judge Cayetano Allan, Sen. Judge Cayetano Pia, Sen. Judge De La Rosa, Sen. Judge Ejercito, Sen. Judge Estrada, Sen. Judge Goque, Sen. Judge Hontiveros, Sen. Judge Lacson, Sen. Judge Lapid, Sen. Judge Legarda, Sen. Judge Marcoleta, Sen. Judge Marcos, Sen. Judge Padilla, Sen. Judge Pangilinan, Sen. Judge Soto III, Sen. Judge Tulfo Erwin. Senator-Judge, Tulfo Rafi, Senator-Judge, Villanueva, Senator-Judge, Villar Camil, Senator-Judge, Villar Marc, Senator-Judge, Zubiri, The Presiding Officer, Senator-Judge, Escudero, The Senate President, Senator-Judge, Cachalian.
+
+**[00:08:14.790] Sen. Sherwin T. Gatchalian**  
+With 16 Senator-judges present, the Chair declares the presence of a quorum. In accordance with the Rules of Procedure on Impeachment Trials, the Chair now recognizes the newly elected Procedure Officer to preside over the proceedings of the Impeachment Court.
+
+**[00:08:30.690] Sen. Sherwin T. Gatchalian**  
+I stand corrected. We have 17 Senator-Judges present.
+
+**[00:08:36.430] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Mr. Senate President. If there are no objections, we shall dispense with the reading of the September 21, 2026 Journal of the Senate sitting as an Impeachment Court and consider the same as approved.
+
+**[00:08:48.530] Sen. Francis "Chiz" G. Escudero**  
+The Clerk of Court will please call the case before the Impeachment Court.
+
+**[00:08:51.790] Atty. Renato N. Bantug Jr.**  
+Case number 004-2026 in the matter of Impeachment Trial of Vice President Saira Zirman Duterte.
+
+**[00:09:00.160] Sen. Francis "Chiz" G. Escudero**  
+Appearances for the parties.
+
+**[00:09:01.710] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Good morning, Your Honors. Same appearance for the prosecution. We are ready, Your Honor. I
+
+**[00:09:06.390] Sen. Francis "Chiz" G. Escudero**  
+presume, Honorable Luistro, that Attorney Erwin will still stand for this case.
+
+**[00:09:10.230] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, Your Honor.
+
+**[00:09:11.670] Sen. Francis "Chiz" G. Escudero**  
+For the respondent?
+
+**[00:09:13.170] Atty. Sheila C. Sison**  
+Good morning, Your Honor. Same appearance for the respondent...
+
+**[00:09:14.670] Sen. Francis "Chiz" G. Escudero**  
+Good morning, Attorney Sheila.
+
+**[00:09:14.671] Atty. Sheila C. Sison**  
+...accused, Your Honor.
+
+**[00:09:17.790] Sen. Francis "Chiz" G. Escudero**  
+Same, Attorney Justin will
+
+**[00:09:19.270] Sen. Francis "Chiz" G. Escudero**  
+also
+
+**[00:09:19.550] Sen. Francis "Chiz" G. Escudero**  
+stand for the respondent?
+
+**[00:09:21.810] Atty. Sheila C. Sison**  
+That's correct, Your Honor.
+
+**[00:09:23.230] Sen. Francis "Chiz" G. Escudero**  
+The witness will kindly be please escorted by the clerk of court through the auditorial witness stand. Attorney Del Rosario, please.
+
+**[00:09:31.440] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+May we request Your Honor that Atty. Erwin Matib be recognized, Your Honor. Yes,
+
+**[00:09:36.140] Sen. Francis "Chiz" G. Escudero**  
+please, ma'am. Atty. Erwin is recognized as well as Atty. Justin for the respondent.
+
+**[00:09:41.360] Atty. Sheila C. Sison**  
+Thank you, Your Honor.
+
+**[00:09:57.830] Sen. Francis "Chiz" G. Escudero**  
+Bago po tayo magsimula, magandang umaga, Atty. Del Rosario. Paumanhin po kahapon kung hindi ko kayo na-excuse bago po kami nag-asikaso ng mga administrative na mga bagay kahapon at bago po ako mag-adjourn. Hindi ko po makakalimutan gawin yan. Ngayon, pangako ko po sa inyo. Salamat po. Do you understand, Atty. Del Rosario, that you will continue to testify under and based on the same oath you took yesterday?
+
+**[00:10:25.000] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:10:27.160] Sen. Francis "Chiz" G. Escudero**  
+Salamat po, Atty. Del Rosario. Atty. Justin, are you ready for your cross?
+
+**[00:10:30.460] Atty. Justin Nicol B. Gular**  
+Yes, Your Honor, with the court's permission.
+
+**[00:10:32.280] Sen. Francis "Chiz" G. Escudero**  
+When you're ready, you may proceed.
+
+**[00:10:34.440] Atty. Justin Nicol B. Gular**  
+Thank you, Your Honor. Turning to my cross.
+
+**[00:10:38.240] Atty. Justin Nicol B. Gular**  
+Sir Del Rosario, Atty. Del Rosario, magandang umaga po.
+
+**[00:10:41.360] Atty. Gerardo F. del Rosario**  
+Magandang umaga po sa inyo.
+
+**[00:10:42.550] Atty. Justin Nicol B. Gular**  
+Good morning. Simulan po natin sir. During your direct examination yesterday, you identified records belonging to several corporations. In general, yung mga records na ito are those on file or are available with the records of the SEC or the Securities and Exchange Commission. Tama po ba?
+
+**[00:11:00.920] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:11:01.860] Atty. Justin Nicol B. Gular**  
+And now, the SEC compiled and produced these documents or these records upon the request of the House of Representatives. Tama po ba?
+
+**[00:11:12.330] Atty. Gerardo F. del Rosario**  
+Direquest po nila sa amin yan.
+
+**[00:11:14.050] Atty. Justin Nicol B. Gular**  
+Yes. And you confirmed that these corporate records were actually first requested po in relation to the hearings of the House of Representatives Committee on Justice. Naalala niyo po iyon?
+
+**[00:11:23.780] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:11:24.350] Atty. Justin Nicol B. Gular**  
+Yes. And you confirmed that you also testified under oath during that committee hearings before the House of Representatives. Tama po?
+
+**[00:11:32.180] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:11:32.730] Atty. Justin Nicol B. Gular**  
+And can you please confirm, sir, whether this date was on April 22, 2026? Can you recall that?
+
+**[00:11:39.720] Atty. Gerardo F. del Rosario**  
+Ang matandaan ko po ay ang subpina, ang date po niya is April 14, pero hindi naman po agad kami natanong noon. Patuloy siya, hindi ko na po matandaan yung exactong pecha. Kung kailan po ako natanong during that impeachment proceeding sa Committee
+
+**[00:11:57.220] Atty. Justin Nicol B. Gular**  
+of Justice. Okay lang po, Atty. Delosario. Now, tama po bang sabihin, sir, na yung Securities and Exchange Commission ay nag-compile and release ng corporate documents base po sa informasyon na binigay ng House of Representatives.
+
+**[00:12:12.070] Atty. Gerardo F. del Rosario**  
+Tama po kung ano po yung kanilang hiniling sa amin yung po ang ibinigay namin.
+
+**[00:12:16.010] Atty. Justin Nicol B. Gular**  
+In other words, yung House of Representatives po yung nagbigay ng informasyon at listahan ng mga kumpanya kung anong mga kumpanya ang iko-compile nyo yung mga records nila.
+
+**[00:12:24.935] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:12:26.110] Atty. Justin Nicol B. Gular**  
+Now, kahapon po nung direct examination ni Atty. Matib, you testified and answered, or just please correct me, that you stated na hindi naman po kayo personally aware sa mga contents ng SAL-N ng ating VC Presidente. Tama po ba?
+
+**[00:12:42.570] Atty. Gerardo F. del Rosario**  
+Tama po. Wala po akong access sa SAL-N ng kahit sino po.
+
+**[00:12:47.970] Atty. Justin Nicol B. Gular**  
+Okay. Besides your own SAL-N, tama
+
+**[00:12:50.870] Atty. Justin Nicol B. Gular**  
+po ba?
+
+**[00:12:50.910] Atty. Gerardo F. del Rosario**  
+Yun lang pong SAL-N ko ang alam kong
+
+**[00:12:52.650] Atty. Gerardo F. del Rosario**  
+nakikita ko.
+
+**[00:12:53.620] Atty. Justin Nicol B. Gular**  
+Tama. And you confirm also, sir, and just for the record, pakikonfirm na lang po na yung Securities and Exchange Commission natin sa Pilipinas as an office would also have no information about the contents of any salens of other public officers including specifically the salen of the Vice President. Tama po ba?
+
+**[00:13:13.040] Atty. Gerardo F. del Rosario**  
+Tama po. Hindi po sa amin ang lagakan
+
+**[00:13:15.160] Atty. Gerardo F. del Rosario**  
+ng mga salen.
+
+**[00:13:16.120] Atty. Justin Nicol B. Gular**  
+So yung tanong ko po, at the time when you first compiled and gathered all the documents, corporate records that are on file or maintained by the Securities and Exchange Commission, wala pong personal na knowledge yung SEC na yung mga korporasyon na iyon ay nakadeklara o nakalagay sa salay ng ating vicepresidente?
+
+**[00:13:37.530] Atty. Gerardo F. del Rosario**  
+Hindi po
+
+**[00:13:38.290] Atty. Gerardo F. del Rosario**  
+namin
+
+**[00:13:38.690] Atty. Gerardo F. del Rosario**  
+alam.
+
+**[00:13:39.250] Atty. Justin Nicol B. Gular**  
+In other words, is it correct to say that the SEC merely relied on the information provided by the House of Representatives?
+
+**[00:13:46.740] Atty. Erwin G. Matib**  
+Objection.
+
+**[00:13:47.650] Atty. Erwin G. Matib**  
+Just to clarify, Your Honor, is the Council is referring to the SEC, Your Honor. Perhaps he should refer to this witness, Your Honor, because SEC, we're talking about an institution, Your Honor.
+
+**[00:14:01.070] Atty. Justin Nicol B. Gular**  
+The documents come from the SEC, Your Honor.
+
+**[00:14:04.070] Sen. Francis "Chiz" G. Escudero**  
+It's a comment, Atty. Justin, anyway. Atty. Erwin, you may proceed, Atty. Justin.
+
+**[00:14:09.910] Atty. Justin Nicol B. Gular**  
+Maraming salamat po, Your Honor. Kayo po, kayo po mismo at ang opisina niyo, nag-rely lang po kayo sa impormasyon na pinigay ng House of Representatives.
+
+**[00:14:18.530] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:14:19.605] Atty. Justin Nicol B. Gular**  
+And you confirm that as the representative of the Securities and Exchange Commission, specifically the Company Registration and Monitoring Department, your testimony Before this court is limited to the records that are maintained by your division. Tama po ba?
+
+**[00:14:35.830] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:14:38.480] Atty. Justin Nicol B. Gular**  
+Now, kahapon din po, Atty. Del Rosario, nag-identify din po kayo for the first time ng mga summaries na supposedly and according to you, prepared by your office. Do you recall that?
+
+**[00:14:51.100] Atty. Gerardo F. del Rosario**  
+Tama po. Naalala ko po.
+
+**[00:14:53.260] Atty. Justin Nicol B. Gular**  
+And according to you, these summaries were supposedly prepared by the Securities and Exchange Commission upon the request of the Prosecution Panel. Tama po ba?
+
+**[00:15:03.780] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:15:04.980] Atty. Justin Nicol B. Gular**  
+And specifically, this request from the Prosecution Panel of the House of Representatives is through a letter dated September 10, 2026. Tama po ba?
+
+**[00:15:15.890] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:15:16.810] Atty. Justin Nicol B. Gular**  
+At sino po yung pumirma nung letter request na yun galing sa House of Representatives?
+
+**[00:15:21.520] Atty. Gerardo F. del Rosario**  
+Ang nakalagda po sa request na yun ay si Congresswoman Louise Stroh.
+
+**[00:15:26.060] Atty. Justin Nicol B. Gular**  
+And in relation to that request that we are just discussing now, Atty., You confirmed that your office prepared two separate sets of summaries nung pinakita natin kahapon.
+
+**[00:15:35.835] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:15:37.000] Atty. Justin Nicol B. Gular**  
+Particularly, isa dito is yung may label na tinatawag na Summary of Vice President Duterte Shareholdings tapos sa ibang pages naman, Manassas R. Carpio Shareholdings. Naalala niyo po?
+
+**[00:15:50.330] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:15:51.860] Atty. Justin Nicol B. Gular**  
+Kayo po ba yung naglagay ng label na yun?
+
+**[00:15:54.160] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:15:55.020] Atty. Justin Nicol B. Gular**  
+Okay. My next question. Now, this summary contains several information relative to articles of incorporation and general information sheets of various corporations. Do you confirm that?
+
+**[00:16:06.385] Atty. Gerardo F. del Rosario**  
+Apo.
+
+**[00:16:07.430] Atty. Justin Nicol B. Gular**  
+And do you have that document with you now? I'll be going into those documents.
+
+**[00:16:12.470] Atty. Gerardo F. del Rosario**  
+Dala ko po. Nasa holding room lang yung mga dokument.
+
+**[00:16:15.040] Atty. Justin Nicol B. Gular**  
+Sige. Your Honor, just to allow the witness to have that document since my cross will pertain to that, may we just request that the witness be allowed to secure those documents or if the prosecution... could help and provide the witness with that document.
+
+**[00:16:29.840] Atty. Gerardo F. del Rosario**  
+Your Honor, if I may be clarified, yung summary po, dala ko ngayon, pero yung pinanggalingan po ng buod ng summary ko ay nasa holding room po.
+
+**[00:16:39.280] Atty. Justin Nicol B. Gular**  
+Ah, okay. I'm referring to particularly po, Atty. Delosario, yung mga summary nasa inyo po. Sige po, please po, pakilabas na lang po kasi may mga tungako in relation to those documents.
+
+**[00:16:50.840] Sen. Francis "Chiz" G. Escudero**  
+You already have a copy of that, Atty. Justin, correct?
+
+**[00:16:53.780] Atty. Justin Nicol B. Gular**  
+Yes, Your Honor, we confirm, but Nevertheless, Your Honor, we'd just like to put on record that we haven't been given the letter dated September 10, 2016.
+
+**[00:17:03.350] Atty. Justin Nicol B. Gular**  
+But it's okay, Your Honor. May I proceed, Your Honor?
+
+**[00:17:06.570] Sen. Francis "Chiz" G. Escudero**  
+Please proceed.
+
+**[00:17:07.230] Atty. Justin Nicol B. Gular**  
+Thank you, Your Honor. Now, hawak nyo na po yung dalawang summary?
+
+**[00:17:11.490] Atty. Gerardo F. del Rosario**  
+Hawak ko na po.
+
+**[00:17:12.370] Atty. Justin Nicol B. Gular**  
+Okay. Now, puntahan po natin yung unang summary po. Yung may informasyon tungkol sa Articles of Incorporation at ng General Information Sheet ng iba't ibang mga kumpanya. Tawagin na lang po natin yung first summary. Tama po ba na 27 pages yan? Pakicheck po.
+
+**[00:17:32.270] Atty. Justin Nicol B. Gular**  
+Composed of 27 pages.
+
+**[00:17:36.560] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:17:37.490] Atty. Justin Nicol B. Gular**  
+Okay. Tapos yung pangalawang summary naman po, yung isang summary rather, you confirm that ito yung containing yung title niya, Incorporators Declared in the AOI- by Company, and sa ibang pages naman, Shareholders Declared in the GIS. dash by shareholder. Inukumpirman niyo po ba?
+
+**[00:18:00.420] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:18:01.270] Atty. Justin Nicol B. Gular**  
+Now, you confirmed that the second summary or the summary that you are looking at now is composed of 26 pages. Tama po ba?
+
+**[00:18:25.220] Atty. Gerardo F. del Rosario**  
+Yung pangalawang summary po ay listahan ng mga incorporators.
+
+**[00:18:28.500] Atty. Justin Nicol B. Gular**  
+Correct. And it is composed of 26 pages. Yan po yung tanong ko, sir.
+
+**[00:18:31.630] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:18:32.230] Atty. Justin Nicol B. Gular**  
+Okay. Now, you confirmed that itong dalawang mga summary na to po that came from your office and was supposedly prepared by your office are undated. or walang date. Tama po ba na nakalagay sa dokumento?
+
+**[00:18:45.620] Atty. Gerardo F. del Rosario**  
+Opo. Walang date.
+
+**[00:18:47.030] Atty. Justin Nicol B. Gular**  
+And you confirm that both these summaries that your office supposedly prepared are also unsigned or walang perma po ng kahit sa sino man. Tama po ba?
+
+**[00:18:55.830] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:18:57.180] Atty. Justin Nicol B. Gular**  
+And you confirm that both these summaries that are supposedly again prepared by your office does not have a seal or even the logo of the Securities and Exchange Commission or your division. Tama po ba?
+
+**[00:19:09.060] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:19:11.310] Atty. Justin Nicol B. Gular**  
+Now let's go to the letter dated September 14, 2026 that you signed. Nasa inyo na po?
+
+**[00:19:17.660] Atty. Gerardo F. del Rosario**  
+Nasa akin na po.
+
+**[00:19:18.700] Atty. Justin Nicol B. Gular**  
+And you confirm that in this letter it states, and I quote, and please confirm this, and I quote, To prepare a summary of general information sheet and audited financial statements of the corporations and partnerships in your letter in connection with the impeachment trial of the Vice President Sara Zimmerman Duterte. You confirm na may paragraph na ganyan?
+
+**[00:19:40.080] Atty. Gerardo F. del Rosario**  
+Meron po.
+
+**[00:19:40.880] Atty. Justin Nicol B. Gular**  
+And the second paragraph of the same letter dated September 14, 2026 that you also signed, you confirm that it states, and I quote, the Commission respectfully transmits herewith the summaries of GIS and AFS both in electronic and hard copies format. End of quote. You confirm that?
+
+**[00:20:00.640] Atty. Gerardo F. del Rosario**  
+Apo.
+
+**[00:20:01.300] Atty. Justin Nicol B. Gular**  
+Now, based on that document po, Atty. Del Rosario, can you please confirm that there is no mention for a request Of a summary of the articles of incorporations. Wala pong nakamention dyan. Tama po ba?
+
+**[00:20:19.300] Atty. Gerardo F. del Rosario**  
+Hindi po nakasulat.
+
+**[00:20:24.810] Atty. Justin Nicol B. Gular**  
+Pasensya po, uminom lang. And you also confirm that there is also no summary, there's also no request rather, of summary of incorporators in that letter request.
+
+**[00:20:36.980] Atty. Gerardo F. del Rosario**  
+Ayon po sa ang trasbital letter, wala po.
+
+**[00:20:39.280] Atty. Justin Nicol B. Gular**  
+And you confirm, Atty. Del Rosario, that in the general information sheet naman po, Bilang isang kawaninang ating SEC, ang nare-reflect po sa GIS are the current stockholders of the corporation. At iniindicate lang whether yung current stockholders ay incorporator or hindi. Tama po ba?
+
+**[00:20:59.320] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:21:00.120] Atty. Justin Nicol B. Gular**  
+And it does not have a portion where the incorporators of a corporation are declared constantly unlike our articles of incorporation. Tama po ba?
+
+**[00:21:09.880] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:21:10.700] Atty. Justin Nicol B. Gular**  
+Now, despite the absence of a request for a summary of articles of incorporations or incorporators of businesses in the relevant letters, you confirm that in both your summaries, your office supposedly prepared and even included summaries of information relative to articles of incorporation, correct?
+
+**[00:21:29.730] Atty. Erwin G. Matib**  
+I have to object, Your Honor, because the question is misleading.
+
+**[00:21:34.890] Sen. Francis "Chiz" G. Escudero**  
+Why is it misleading, Attorney Aaron?
+
+**[00:21:36.780] Atty. Erwin G. Matib**  
+It is misleading, Your Honor, because Council was referring to the September 14, 2026, transmit a letter. That was not the request letter. The request letter was September 10, 2026, which clearly stated the inclusion of articles of incorporation for the summary.
+
+**[00:21:54.710] Atty. Justin Nicol B. Gular**  
+Your Honor, we're asking in relation to September 14, 2026.
+
+**[00:21:59.190] Atty. Erwin G. Matib**  
+If there is such a letter. If
+
+**[00:22:01.030] Atty. Justin Nicol B. Gular**  
+there is such... Request with respect to those summaries.
+
+**[00:22:04.970] Atty. Erwin G. Matib**  
+But Your Honor, that September 14 is the transmittal letter from the SEC.
+
+**[00:22:11.170] Sen. Francis "Chiz" G. Escudero**  
+Again, if there is such a request, the problem is that the transmittal letter has not yet been furnished with the counsel for the respondent.
+
+**[00:22:20.490] Atty. Justin Nicol B. Gular**  
+That is precisely the point of
+
+**[00:22:20.810] Atty. Justin Nicol B. Gular**  
+the defense, Your Honor. We were never furnished with this request.
+
+**[00:22:23.410] Sen. Francis "Chiz" G. Escudero**  
+I'll allow it.
+
+**[00:22:25.430] Sen. Francis "Chiz" G. Escudero**  
+Witness may please answer. Objection overruled.
+
+**[00:22:28.010] Atty. Justin Nicol B. Gular**  
+Thank you, Your Honor. Maraming salamat po. Atorney, balikan ko lang po. Particularly po sa September 14, 2026 na sinulat ng SEC at yung pinirmahan nyo, hindi naman po sinabi doon na nag-submit kayo ng summaries ng Articles of Incorporation based on the words and those stated in that document.
+
+**[00:22:47.300] Atty. Gerardo F. del Rosario**  
+Tama po, hindi nga po nakasulat sa aking transmittal letter about Articles of Incorporation.
+
+**[00:22:52.920] Atty. Justin Nicol B. Gular**  
+Maraming salamat po, Delosario. Apologies for interrupting you. And you confirm wala ding nakasulat sa transmittal letter mo yung Incorporators, tama po ba?
+
+**[00:23:00.720] Atty. Gerardo F. del Rosario**  
+Wala po.
+
+**[00:23:01.550] Atty. Justin Nicol B. Gular**  
+Pero you confirm, nasa summaries na pre-repair niyo, nandun yung mga impormasyon relative to articles in corporation and in corporators, tama?
+
+**[00:23:09.260] Atty. Gerardo F. del Rosario**  
+Yan po yung basic na impormasyon sa bawat korporasyon, kaya naisama ko na po siya rin.
+
+**[00:23:13.920] Atty. Justin Nicol B. Gular**  
+Okay, I'll take that answer, Atty. Delosario. Now, according to you, after receiving this request from the House of Representatives, you instructed members of your team or your office to work on this request, tama po ba?
+
+**[00:23:28.040] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:23:28.690] Atty. Justin Nicol B. Gular**  
+At yan yung sabi niyo, kinumpirma niyo kahapon. Now, it would be correct for me to assume na itong mga empleyado na ito is under your direct supervision po.
+
+**[00:23:38.870] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:23:39.810] Atty. Justin Nicol B. Gular**  
+And these are of course employees of the Securities and Exchange, CMRD. Tama po ba?
+
+**[00:23:45.690] Atty. Gerardo F. del Rosario**  
+Apo, ng Departamento po, CRMD.
+
+**[00:23:48.280] Atty. Justin Nicol B. Gular**  
+Ah, CRMD. Maraming salamat po sa pag-correct sa akin, Sir. Tama po ba?
+
+**[00:23:52.110] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:23:52.830] Atty. Justin Nicol B. Gular**  
+And ilang membro po yung nagtrabaho dito, kung naalala niyo?
+
+**[00:23:56.340] Atty. Gerardo F. del Rosario**  
+Limang tao po.
+
+**[00:23:58.055] Atty. Justin Nicol B. Gular**  
+And for the records, can you please name all these five people who helped you work on this?
+
+**[00:24:28.000] Atty. Gerardo F. del Rosario**  
+At isa pa pong empleyado rin namin na tumulong sa kanya ay si Ms. Pamela Munzon.
+
+**[00:24:36.430] Atty. Justin Nicol B. Gular**  
+Okay. Now, let's go to the first summary that you prepared, Atty. Del Rosario. I notice, sir, that the order of the corporation listed in at least the first four corporations is as follows. Can you please check? The first corporation mentioned is City Hall King Chow Foods Corporation, found on pages 1 and 2, with page 2 being at the back portion of the first leaf.
+
+**[00:25:04.880] Atty. Justin Nicol B. Gular**  
+Tama po?
+
+**[00:25:05.590] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:25:06.390] Atty. Justin Nicol B. Gular**  
+Yung pangalawa naman, Metro City Chow Foods Corporation, found on pages 3 and 4, with page 4 being on the back leaf.
+
+**[00:25:13.175] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:25:14.450] Atty. Justin Nicol B. Gular**  
+Third is GenCorp Industries, Inc., found on page 5, correct?
+
+**[00:25:18.240] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:25:19.110] Atty. Justin Nicol B. Gular**  
+And fourth is Kale88 Foods Corporation, found on page 6, correct?
+
+**[00:25:26.300] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:25:27.020] Atty. Justin Nicol B. Gular**  
+Na kung naalala nyo, ilang korporasyon yung pinaproduce ng House of Representatives sa opisina nyo?
+
+**[00:25:32.170] Atty. Gerardo F. del Rosario**  
+Around 16 corporations po.
+
+**[00:25:34.120] Atty. Justin Nicol B. Gular**  
+16 corporations. But you confirm in making that summary, in ordering per corporation, you did not arrange them alphabetically, no?
+
+**[00:25:43.100] Atty. Gerardo F. del Rosario**  
+Hindi po.
+
+**[00:25:43.980] Atty. Justin Nicol B. Gular**  
+You also did not arrange them based on the earliest date of incorporation or the latest date of incorporation, correct?
+
+**[00:25:49.640] Atty. Gerardo F. del Rosario**  
+Hindi rin po.
+
+**[00:25:50.400] Atty. Justin Nicol B. Gular**  
+And hindi din siya arranged based on either the highest or the lowest authorized capital stock. Tama po ba? Pero you recall, kahapon, nung nag-direct examination yung prosecution, the direct examination precisely followed. The sequence that is indicated in your summary. Una, yung City Hall King Chow Foods Corporation ang Dinesh Kasa Direct, tama po ba? Naalala nyo?
+
+**[00:26:13.700] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:26:14.590] Atty. Justin Nicol B. Gular**  
+At kasunod, Metro City Chow Foods naman, yung Dinesh Kasa Direct, tama po ba?
+
+**[00:26:19.440] Atty. Gerardo F. del Rosario**  
+Tama rin po.
+
+**[00:26:20.560] Atty. Justin Nicol B. Gular**  
+Tawangatlo ang Dinesh Kasa Direct, GenCorp Industries, tama po ba?
+
+**[00:26:23.730] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:26:24.560] Atty. Justin Nicol B. Gular**  
+At yung pang-apat, Kale88 Foods Corporation, tama po ba?
+
+**[00:26:28.260] Atty. Gerardo F. del Rosario**  
+Tama rin po.
+
+**[00:26:28.990] Atty. Justin Nicol B. Gular**  
+At nakasunod to sa summary na supposedly, pireneper ng opisina nyo. Tama?
+
+**[00:26:33.550] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:26:34.050] Atty. Justin Nicol B. Gular**  
+Okay. Now earlier, you confirmed that you received the request on September 10, 2026. Tama po ba?
+
+**[00:26:46.000] Atty. Gerardo F. del Rosario**  
+Natanggap ko po siya ng September...
+
+**[00:26:47.840] Atty. Justin Nicol B. Gular**  
+10.
+
+**[00:26:49.740] Atty. Gerardo F. del Rosario**  
+...11 po.
+
+**[00:26:50.690] Atty. Justin Nicol B. Gular**  
+Sorry, yes.  11.
+
+**[00:26:51.640] Atty. Justin Nicol B. Gular**  
+Okay. At sabi mo kanina limang tao lang po yung gumawa nito.
+
+**[00:26:56.890] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:26:57.310] Atty. Justin Nicol B. Gular**  
+Okay. So you were able... Okay, let's go to the timelines. You received this September 11. Tama po. And that's a Friday. Tama po ba?
+
+**[00:27:07.320] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:27:07.690] Atty. Justin Nicol B. Gular**  
+And September 12 and 13 are actually Saturdays and Sundays respectively, correct?
+
+**[00:27:14.020] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:27:14.700] Atty. Justin Nicol B. Gular**  
+And you were able to provide the House Prosecution Panel on the following Monday on September 14, 2026, correct?
+
+**[00:27:22.130] Atty. Gerardo F. del Rosario**  
+Hindi po.
+
+**[00:27:23.400] Atty. Justin Nicol B. Gular**  
+Kailan niyo po nabigay? Yung transmittal letter niyo kasi sir is September 14, 2026.
+
+**[00:27:28.180] Atty. Gerardo F. del Rosario**  
+Kahapon lang po.
+
+**[00:27:29.080] Atty. Justin Nicol B. Gular**  
+Kapon lang. Pero natapos na po kasi, can you please confirm na natapos na yung summary nung September 14, 2026?
+
+**[00:27:35.770] Atty. Gerardo F. del Rosario**  
+Natapos po siya ng Monday, September, o Monday na yun, ng hapon.
+
+**[00:27:41.440] Atty. Justin Nicol B. Gular**  
+Ng hapon, 14, 2026. Now, tatlong araw lang po ginawa to ng team nyo na limang tao.
+
+**[00:27:48.060] Atty. Gerardo F. del Rosario**  
+Apo, tatlong araw lang po.
+
+**[00:27:50.020] Atty. Justin Nicol B. Gular**  
+Now, I remember yesterday when Atty. Matib asked me to stipulate on these documents, sinabi niya, and I quote, Considering that we have more than 200 exhibits, consisting of more than 3,000 pages. End of quote. Ito din yung mga amount or volume ng documents na in-examine at kinumpile at sinumarize ng five-man team niyo po sa SEC.
+
+**[00:28:10.850] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:28:12.070] Atty. Justin Nicol B. Gular**  
+Okay. That includes working during weekends. Tama po ba?
+
+**[00:28:16.505] Atty. Gerardo F. del Rosario**  
+Nagtrabaho po ng Sabado.
+
+**[00:28:18.150] Atty. Justin Nicol B. Gular**  
+And it includes the process of examination of documents, inputting and typing of data, and review between the documents and the figures appearing therein and those appearing on the summaries that you've prepared. Tama po ba?
+
+**[00:28:28.650] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:28:29.480] Atty. Justin Nicol B. Gular**  
+Let me conclude. And this is despite the fact that you only received that on September 11, 2026.
+
+**[00:28:35.420] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:28:36.190] Atty. Justin Nicol B. Gular**  
+Okay. Maraming salamat. Now, yesterday, you confirmed, nung direct examination niyo, you were made to confirm several corporations identified Yesterday, that did not declare dividends. Naalala niyo po yun?
+
+**[00:28:49.255] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:28:50.230] Atty. Justin Nicol B. Gular**  
+And you also confirmed that for other corporations naman, ang talagang records ng SEC is hindi niyo masabi kasi wala namang po kayong on-file na audited financial statements.
+
+**[00:29:01.440] Atty. Gerardo F. del Rosario**  
+Meron pong ganon. Meron pong ganon.
+
+**[00:29:03.700] Atty. Justin Nicol B. Gular**  
+Now, let's go to the fact that several corporations did not declare any dividends, no? You are aware naman po, Atty. Del Rosario, at kasi abogado naman po kayo at matagal na po kayo sa SEC, That the power of a corporation to declare dividends is under section 42 of our revised corporation code.
+
+**[00:29:22.305] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:29:24.130] Atty. Justin Nicol B. Gular**  
+And
+
+**[00:29:24.770] Atty. Justin Nicol B. Gular**  
+you confirm that under section 42 of the revised corporation code, it states that, and I quote, the board of directors of a stock corporation may declare dividends out of unrestricted retained earnings which shall be payable in cash, property, or in stock to all stockholders on the basis of the outstanding stock held by them. Naka-flash po siya but you can confirm po if tama yung...
+
+**[00:29:52.270] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:29:52.640] Atty. Justin Nicol B. Gular**  
+Section 42. Okay. Now you confirm that under Section 42 of the Revised Corporation Code with respect to the...
+
+**[00:30:05.280] Atty. Justin Nicol B. Gular**  
+Tama po ba?
+
+**[00:30:06.870] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:30:20.280] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:30:29.980] Atty. Justin Nicol B. Gular**  
+Unrestricted retained earnings. Tama po ba ang pagkaintindi ko sa batas?
+
+**[00:30:32.960] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:30:33.370] Atty. Justin Nicol B. Gular**  
+Now you are also aware, however, na may paragraph 2 itong section 42 ng revised corporation code. Tama po ba?
+
+**[00:30:41.240] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:30:42.430] Atty. Justin Nicol B. Gular**  
+And dito po nakalagay yung prohibition on retaining surplus profits. Tama po ba?
+
+**[00:30:48.200] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:30:48.810] Atty. Justin Nicol B. Gular**  
+And specifically it states, the prohibition is only that a stock corporation are prohibited from retaining surplus profits. in excess of 100% of their paid-in capital. Tama po ba?
+
+**[00:31:01.900] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:31:03.520] Atty. Justin Nicol B. Gular**  
+Okay, may question. Ito po yung paid-in capital.
+
+**[00:31:08.940] Atty. Justin Nicol B. Gular**  
+This is the total amount of cash or property actually contributed by shareholders in relation to the subscribed shares. Tama po ba?
+
+**[00:31:17.620] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:31:18.610] Atty. Justin Nicol B. Gular**  
+So sa madaling salita po, ito yung mga amount of shares ng isang kumpanya na payad na talaga ng shareholders whether it be by property or whether it be by cash or other. Other allowable considerations for the purchase of shares. Tama?
+
+**[00:31:32.870] Atty. Gerardo F. del Rosario**  
+Opo. Tama po.
+
+**[00:31:33.980] Atty. Justin Nicol B. Gular**  
+Kasi pwede naman po para maintindihan po natin na mag-subscribe ng shares sa kumpanya at hindi mo bayaran yung buong subscription. Tama po ba?
+
+**[00:31:43.800] Atty. Gerardo F. del Rosario**  
+Maari po yan.
+
+**[00:31:44.880] Atty. Justin Nicol B. Gular**  
+Kaya may distinction po sa summary na pre-prepare nyo, amount subscribed at amount paid up. Tama?
+
+**[00:31:51.350] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:31:52.430] Atty. Justin Nicol B. Gular**  
+Now let's go back under section 42. What is prohibited is not the fact That a corporation does not issue any dividends. Tama po ba?
+
+**[00:32:01.935] Atty. Gerardo F. del Rosario**  
+Pakiulit po.
+
+**[00:32:03.560] Atty. Justin Nicol B. Gular**  
+Sorry. I'll do it slowly. Under Section 42, hindi naman prohibited ang hindi pag-declare ng dividendo. Tama po? Dahil sa word na may. What is prohibited is retaining surplus profits in excess by 100% of payment capital.
+
+**[00:32:18.960] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:32:19.970] Atty. Justin Nicol B. Gular**  
+So kapag walang dineklara, hindi naman po illegal yung ginagawa ng mga korporasyon. Tama po ba?
+
+**[00:32:24.970] Atty. Gerardo F. del Rosario**  
+Hindi naman po.
+
+**[00:32:26.080] Atty. Justin Nicol B. Gular**  
+Okay. Pero kahit na, Under the prohibition on paragraph 42, you agree naman po, Atty. Del Rosario, na may exceptions kung saan pwede po tayong mag-withheld ng declaration of dividendo kahit na nag-exceed na yung surplus profits mo sa paid-in capital. Tama po ba?
+
+**[00:32:46.260] Atty. Gerardo F. del Rosario**  
+Meron pong tatlong exception under
+
+**[00:32:47.920] Atty. Justin Nicol B. Gular**  
+section 42. At ito yung mga exception, just please confirm. A. When justified by definite expansion projects or programs approved by the Board of Directors. Tama po ba? Yan po yung una. Ito yung sa mga abogado tinatawag po
+
+**[00:33:02.800] Atty. Justin Nicol B. Gular**  
+natin na approved expansions for brevity. Tama po?
+
+**[00:33:05.790] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:33:06.650] Atty. Justin Nicol B. Gular**  
+Yung pangalawang exception naman po, when the corporation is prohibited under any loan agreement with financial institution or creditors, whether local or foreign, from declaring dividends without their consent and such consent has not yet been secured. Pwede din po, tama?
+
+**[00:33:24.780] Atty. Gerardo F. del Rosario**  
+Apo.
+
+**[00:33:25.460] Atty. Justin Nicol B. Gular**  
+Ito yung mga tinatawag natin na abogado na loan restrictions. Tama po ba?
+
+**[00:33:29.610] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:33:30.400] Atty. Justin Nicol B. Gular**  
+Now, yung pangatlo, when it can be clearly shown that such retention is necessary under special circumstances obtaining in the corporation, such as when there is a need for a special reserve for probable contingencies. Tama po ba?
+
+**[00:33:47.340] Atty. Gerardo F. del Rosario**  
+Yan po yung pangatlo.
+
+**[00:33:48.280] Atty. Justin Nicol B. Gular**  
+Ito yung tinatawag natin na special circumstances. Tama po ba?
+
+**[00:33:51.900] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:33:52.650] Atty. Justin Nicol B. Gular**  
+At kasali dito, Ang yung mga kaso, halimbawa yung kumpanya, may litigation, tama po ba?
+
+**[00:33:58.765] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:34:00.230] Atty. Justin Nicol B. Gular**  
+Okay. And you confirm, sir, na kapag ginagawa ito ng corporation, meaning invoking those three exceptions, dapat nire-report ito sa audited financial statement?
+
+**[00:34:12.555] Atty. Gerardo F. del Rosario**  
+Dapat po.
+
+**[00:34:13.890] Atty. Justin Nicol B. Gular**  
+Okay. Pero you confirm, sir, in the summary that you prepared, ang nilagay nyo lang, no dividends declared.
+
+**[00:34:20.340] Atty. Erwin G. Matib**  
+Objection.
+
+**[00:34:21.540] Atty. Justin Nicol B. Gular**  
+I'm just asking a confirmation, Your Honor.
+
+**[00:34:25.770] Sen. Francis "Chiz" G. Escudero**  
+What
+
+**[00:34:26.170] Sen. Francis "Chiz" G. Escudero**  
+is your objection, attorney?
+
+**[00:34:27.440] Atty. Erwin G. Matib**  
+Misleading, your honor, as to the information. All that they put in the summary is no dividends declared because the summary precisely contains more than that information, your honor. It also includes information or columns about appropriation, retained earnings, unrestricted retained earnings. So it's misleading to say that the only information in the summary is... The information that there were no dividends declared. I don't think
+
+**[00:34:56.990] Sen. Francis "Chiz" G. Escudero**  
+that was the intention of the question, Attorney Erwin. However, it may nevertheless still be misleading because insofar as that column is concerned, it did not only contain no dividends declared as the witness clarified yesterday upon the questioning of the presiding officer. He clarified that In the illustration of the counsel for the prosecution, hindi siya lahat no dividends declared sa kanyang summary. Iba, no
+
+**[00:35:30.330] Atty. Justin Nicol B. Gular**  
+documents submitted. Sorry for interrupting, Your Honor. I was actually going to touch on those two things, Your Honor.
+
+**[00:35:35.410] Sen. Francis "Chiz" G. Escudero**  
+Okay. And then in that case, proceed, counsel.
+
+**[00:35:37.650] Atty. Justin Nicol B. Gular**  
+Yes.
+
+**[00:35:38.070] Atty. Justin Nicol B. Gular**  
+So, ang nakalagay po sa summary is either no dividend declared, tama?
+
+**[00:35:41.960] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:35:42.900] Atty. Justin Nicol B. Gular**  
+Or sa iba naman, no information, no AFS final.
+
+**[00:35:45.970] Atty. Gerardo F. del Rosario**  
+No AFS po.
+
+**[00:35:46.690] Atty. Justin Nicol B. Gular**  
+Tama. Correct. Pero sa mga no-dividend declared specifically na mga in-input nyo, ang may correct na walang qualification dun whether the surplus profits of the company already exceeded the paid-in capital. Walang qualification?
+
+**[00:36:02.050] Atty. Gerardo F. del Rosario**  
+Wala po.
+
+**[00:36:03.250] Atty. Justin Nicol B. Gular**  
+Wala din qualification dun sa summaries nyo whether the annual financial statements of the corporation disclose exceptions under section 42 to justify non-declaration of dividends?
+
+**[00:36:14.050] Atty. Gerardo F. del Rosario**  
+Wala po.
+
+**[00:36:14.730] Atty. Gerardo F. del Rosario**  
+Wala po.
+
+**[00:36:15.570] Atty. Justin Nicol B. Gular**  
+In fact, you or the SEC do not have even personal knowledge whether those exceptions were invoked by any of those corporations. Tama po ba?
+
+**[00:36:25.010] Atty. Gerardo F. del Rosario**  
+Check ko lang po yung aking notes.
+
+**[00:36:27.020] Atty. Justin Nicol B. Gular**  
+Please do. For the record, Your Honor, the witness is checking notes.
+
+**[00:36:30.420] Atty. Erwin G. Matib**  
+May we just request a representative from the defense to peruse the memorandum or notes being used by the witness.
+
+**[00:36:37.100] Sen. Francis "Chiz" G. Escudero**  
+Similarly, assisting counsel for the prosecution is authorized to...
+
+**[00:36:43.430] Sen. Francis "Chiz" G. Escudero**  
+Assist and view the documents being perused by the witness.
+
+**[00:37:29.740] Atty. Gerardo F. del Rosario**  
+Wala po sa notes ko.
+
+**[00:37:31.190] Atty. Justin Nicol B. Gular**  
+Okay. At wala din po sa dalawang summaries. Tama po ba?
+
+**[00:37:34.460] Atty. Gerardo F. del Rosario**  
+Wala po.
+
+**[00:37:36.030] Atty. Justin Nicol B. Gular**  
+Maraming salamat, Atty. Del Rosario. Now, yesterday, during the interjections of some of our good senator-judges, you were also asked about what income could the Vice President and Manassas R. Carpio could possibly derive from these corporations given the absence of declaration of dividends. Naalala niyong portion na iyon?
+
+**[00:37:55.010] Atty. Gerardo F. del Rosario**  
+Apo.
+
+**[00:37:55.615] Atty. Justin Nicol B. Gular**  
+But you confirm that the SEC or the Securities and Exchange Commission has no record or information about the income that the Vice President received during the years that she was a private individual and exerciser profession.
+
+**[00:38:10.800] Atty. Gerardo F. del Rosario**  
+Wala naman po tayong recording dyan sa SEC. Wala po kaming ganong informasyon.
+
+**[00:38:14.120] Atty. Justin Nicol B. Gular**  
+And no record as well about the income that was derived by Atty. Manassas R. Carpio in relation to his several years of practice of profession. Tama po ba?
+
+**[00:38:24.420] Atty. Gerardo F. del Rosario**  
+Wala po.
+
+**[00:38:25.510] Atty. Justin Nicol B. Gular**  
+And you confirm as well that the SEC has no record of the compensation income of the Vice President during the years that she was the Vice Mayor, Mayor, and the Vice President or a Public Officer. Tama?
+
+**[00:38:36.520] Atty. Gerardo F. del Rosario**  
+Wala po kaming ganong informasyon.
+
+**[00:38:38.615] Atty. Justin Nicol B. Gular**  
+Wala ding information yung SEC at hindi po ito yung opisina ng gobyerno na nagre-record whether nakantanggap sila ng mga inheritance.
+
+**[00:38:46.840] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:38:48.000] Atty. Justin Nicol B. Gular**  
+Hindi din sila yung nagre-record whether there was sales of properties, real properties specifically.
+
+**[00:38:53.550] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:38:54.775] Atty. Justin Nicol B. Gular**  
+At hindi din ito yung institution ng ating gobyerno na nag-a-appraise ng mga value ng mga lupain na nakadeklara sa mga salihin or mga lupain in general.
+
+**[00:39:04.470] Atty. Gerardo F. del Rosario**  
+Hindi po mandato ng aming tanggapan yan.
+
+**[00:39:06.730] Atty. Justin Nicol B. Gular**  
+And all it has, specifically, relative to the possible income of the Vice President and her spouse, are those declarations or non-declarations of dividends which are available in your records. Tama po ba? At yan lang po yung kaya niyong Itestigo sa impeachment court na ito.
+
+**[00:39:26.960] Atty. Gerardo F. del Rosario**  
+Kung
+
+**[00:39:27.330] Atty. Gerardo F. del Rosario**  
+ano lamang po ang laman ng dokumentong na request sa amin, yun lang po ang kaya naming sabihin dito.
+
+**[00:39:32.890] Atty. Justin Nicol B. Gular**  
+Maraming salamat, Atty. Del Rosario. Kahapon din, you were asked about circumstances that could possibly justify bakit po wala yung pangalan ng vicepresidente sa mga general information sheet na in-identify niyo. Specifically, you discussed matters relating to trust agreements. Naalala niyo pa ba yun?
+
+**[00:39:53.735] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:39:54.355] Atty. Justin Nicol B. Gular**  
+Now, this was asked in relation specifically to the corporation GenCorp Industries, Inc. Could you recall that?
+
+**[00:40:01.640] Atty. Gerardo F. del Rosario**  
+Yes, sir.
+
+**[00:40:02.450] Atty. Justin Nicol B. Gular**  
+However, you confirm, sir, that your mention of a trust agreement yesterday was not based on information available to the SEC.
+
+**[00:40:11.520] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:40:12.640] Atty. Justin Nicol B. Gular**  
+Ito lang po yung opinion nyo base sa experience nyo. bilang isang empleyado at officer sa SEC natin. Tama?
+
+**[00:40:20.050] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:40:20.750] Atty. Justin Nicol B. Gular**  
+You also confirm, sir, that you have no personal knowledge whether there is any trust agreement between the Vice President or any of the registered shareholders in GenCorp Industries Inc. or other corporations. Tama po ba?
+
+**[00:40:34.770] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:40:35.430] Atty. Justin Nicol B. Gular**  
+In fact, sir, you can confirm that trust agreements are generally not required to be submitted with the Securities and Exchange Commission Kasi, itong mga agreements na to, between the parties naman. Tama po ba?
+
+**[00:40:48.430] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:40:49.090] Atty. Justin Nicol B. Gular**  
+Pero, yung exception dito ay ang mga voting trust agreements.
+
+**[00:40:52.910] Atty. Gerardo F. del Rosario**  
+Tama.
+
+**[00:40:53.600] Atty. Justin Nicol B. Gular**  
+Tama po. Kasi, sa ilalim ng ating batas, Section 58 of the Revised Corporation Code, kapag may voting trust agreement, dapat sinusumite, specific po yung batas natin, ang certified true copy ng voting trust agreement na yan sa commission or SEC. Tama po ba? Naalala nyo yan?
+
+**[00:41:10.560] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:41:11.040] Atty. Justin Nicol B. Gular**  
+And you confirm, sir, that in the records that you... Perused and reviewed. For all these corporations, including GenCorp Industries Inc., walang voting trust agreement na CTC na sinumite sa kumpanya niyo.
+
+**[00:41:23.750] Atty. Gerardo F. del Rosario**  
+Wala pong application on that.
+
+**[00:41:25.730] Atty. Justin Nicol B. Gular**  
+So you confirm, sir, that your testimony relating to trust agreements in general or that hypothetical scenario is only based on possibility and speculation. Tama po ba?
+
+**[00:41:36.920] Atty. Erwin G. Matib**  
+Objection.
+
+**[00:41:38.540] Atty. Erwin G. Matib**  
+Misleading, Your Honor.
+
+**[00:41:39.920] Atty. Justin Nicol B. Gular**  
+I am not. I am asking the witness to confirm whether my statement is correct. I am not saying that statement was misleading or speculation. Your Honor,
+
+**[00:41:50.080] Atty. Erwin G. Matib**  
+the witness is not
+
+**[00:41:51.060] Sen. Francis "Chiz" G. Escudero**  
+speculating.
+
+**[00:41:53.020] Atty. Erwin G. Matib**  
+Thank you, Your Honor. Witness is not speculating, Your Honor. He's testifying on the basis of his more than 30 years of experience with the SEC, Your Honor. He's not merely speculating.
+
+**[00:42:06.200] Sen. Francis "Chiz" G. Escudero**  
+If you know... If he knows, counsel, I'll allow it.
+
+**[00:42:10.240] Atty. Justin Nicol B. Gular**  
+Maraming salamat. Thank you, Your
+
+**[00:42:13.510] Atty. Justin Nicol B. Gular**  
+Honor.
+
+**[00:42:14.130] Sen. Francis "Chiz" G. Escudero**  
+If the objection is with respect to the word speculating, then he can, he's a lawyer, he can say whether he is or he's not. Atty.
+
+**[00:42:23.850] Sen. Francis "Chiz" G. Escudero**  
+Delosario, kindly answer.
+
+**[00:42:25.000] Atty. Gerardo F. del Rosario**  
+Yung pong tungkol sa trust agreement ay hindi ko naman po pinapatungkol na meron itong kumpanya na ito. Kundi umiisip lang po, tinatanong ko, kung meron bang posibilidad na nangyayari ito.
+
+**[00:42:37.275] Atty. Justin Nicol B. Gular**  
+So you confirm
+
+**[00:42:41.800] Atty. Justin Nicol B. Gular**  
+possibility or kuru-kuru lang po? Tama? Maraming salamat, Atty. Del Rosario. Now, Atty. Del Rosario, sabihin nyo lang po if kailangan kayong uminom ng tubig. Okay
+
+**[00:42:50.740] Atty. Gerardo F. del Rosario**  
+na
+
+**[00:42:50.860] Atty. Gerardo F. del Rosario**  
+po. Nakainom na.
+
+**[00:42:51.590] Atty. Justin Nicol B. Gular**  
+Thank you po. Another way also to check if a person's ownership is in a corporation despite the fact na hindi siya nag-a-appear as shareholder is looking into the Beneficial Ownership Declaration form. Tama po ba?
+
+**[00:43:04.270] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:43:05.415] Atty. Justin Nicol B. Gular**  
+At noon, sinusummit ito kasama ng GIS at ngayon meron na po tayong harbor system. Tama po ba?
+
+**[00:43:11.650] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:43:12.560] Atty. Justin Nicol B. Gular**  
+Now, sa summaries nyo, wala po tayong nilagay na any summary in relation to the names or people declared in those beneficial ownership declaration forms. Tama po ba?
+
+**[00:43:25.740] Atty. Gerardo F. del Rosario**  
+Wala po akong nilagay.
+
+**[00:43:27.815] Atty. Justin Nicol B. Gular**  
+Nevertheless, you confirmed that beneficial ownership declarations only reveal if there is some sort of beneficial or legal ownership. Correct?
+
+**[00:43:38.150] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:43:39.110] Atty. Justin Nicol B. Gular**  
+Hindi ito nagre-reveal kung meron kang investment sa korporasyon kasi hindi naman ito beneficial ownership. Tama?
+
+**[00:43:48.810] Atty. Gerardo F. del Rosario**  
+Wala po akong... siguro masasabi kong incompetent ako on that dahil hindi po dumaraan sa aking department ang tungkol sa beneficial ownership form.
+
+**[00:43:58.840] Atty. Justin Nicol B. Gular**  
+Okay.
+
+**[00:43:59.440] Atty. Gerardo F. del Rosario**  
+Kaya wala rin po akong nilagay na anumang informasyon dahil... Wala po akong access sa dokumentong iyan.
+
+**[00:44:06.340] Atty. Justin Nicol B. Gular**  
+It's okay, Atty. Maraming salamat po for being candid. I'll just ask if you're aware, given your position. Now, are you aware, dinedeklara ba ang may mga credits sa Beneficial Ownership Form? Halimbawa, may utang sa iyo yung korporasyon. Kailangan ka bang ilagay ng korporasyon doon?
+
+**[00:44:23.360] Atty. Gerardo F. del Rosario**  
+Hindi nga. Incompetent po ako dyan dahil hindi ko pa rin po alam kung ano ang mga detalye na nasa forms ng BO declaration.
+
+**[00:44:31.560] Atty. Justin Nicol B. Gular**  
+Okay, my next question is actually, abogado at public officer kayo. Now you are aware that under business disclosure requirement of the SAL-N na nagsusumiti dun po kayo, hindi lang naman limitado sa shareholdings ang dapat i-declare under that disclosure. Tama po ba?
+
+**[00:44:47.160] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:44:47.960] Atty. Justin Nicol B. Gular**  
+In fact, as a public officer and as a prudent public officer at that, you are aware of the latest 2025 Omnibus SAL-N rules specifically. Section 62, it describes it and defines it as I quote, Nature of business interest or financial connection refers to existing interest or connection in any business enterprise whether as a proprietor, investor, promoter, partner, shareholder, officer, managing director, executive, creditor, lawyer, legal consultant, and then it goes on and the like. Tama po ba? So kahit hindi ka shareholder sa isang kumpanya, kung meron ka nito, Itong i-enumerate and the like, dapat i-deklara pa rin sa business disclosure.
+
+**[00:45:34.970] Atty. Gerardo F. del Rosario**  
+Kung ikaw po ay may interest sa mga bagay niyan at alam mong part siya ng iyong pag-aari o yaman, eh dapat mong ilagay.
+
+**[00:45:44.310] Atty. Justin Nicol B. Gular**  
+Maraming salamat po. Sunod, kahapon, tinanong din po kayo, I just don't recall specifically who, about Section 13, Article 7 of the Constitution. You recall that?
+
+**[00:45:55.410] Atty. Gerardo F. del Rosario**  
+Tama po. Iaalala ko po.
+
+**[00:45:58.990] Atty. Justin Nicol B. Gular**  
+Now, pardon if I have to ask this question po, Atty. Batu, but this is just for the record.
+
+**[00:46:05.050] Atty. Erwin G. Matib**  
+Excuse me, Your Honor, the witness is not Atty. Batu. Pardon,
+
+**[00:46:08.110] Atty. Justin Nicol B. Gular**  
+Your Honor. Atty.
+
+**[00:46:08.850] Atty. Erwin G. Matib**  
+Batu is done with her testimony.
+
+**[00:46:10.110] Atty. Justin Nicol B. Gular**  
+I'm done
+
+**[00:46:10.350] Atty. Justin Nicol B. Gular**  
+with Atty. Batu. My apologies. But I will proceed. Atty. Delosario, rather. As the Executive Director of the SEC, CRMD, it is not your function...
+
+**[00:46:23.780] Atty. Gerardo F. del Rosario**  
+Direktor lang po.
+
+**[00:46:24.450] Atty. Justin Nicol B. Gular**  
+Direktor, sorry. Direktor, it is not your function, of course, to interpret the Constitution.
+
+**[00:46:29.190] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:46:30.610] Atty. Justin Nicol B. Gular**  
+So your interpellation or interjection and comments in relation to Section 13, Article 7 of the Constitution, is based on your own understanding as a lawyer.
+
+**[00:46:40.730] Atty. Gerardo F. del Rosario**  
+Tama po. Yun po ang aking pagkakaunawa sa provision na yan.
+
+**[00:46:43.850] Atty. Justin Nicol B. Gular**  
+And that was your opinion as a lawyer. Tama po ba?
+
+**[00:46:46.110] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:46:47.155] Atty. Justin Nicol B. Gular**  
+However, you confirm that as a lawyer, Section 13, Article 7 of the Constitution, Atty. Del Rosario, uses the term, and I quote, participate in any business, end of quote. Do you confirm that, sir?
+
+**[00:47:01.260] Atty. Gerardo F. del Rosario**  
+Naka-flash po siya sa screen. Yan po yung nakalagay.
+
+**[00:47:04.160] Atty. Justin Nicol B. Gular**  
+It does not say, and I quote, have interest in any business, end of quote. Correct?
+
+**[00:47:10.040] Atty. Gerardo F. del Rosario**  
+Yan po ako i-correct ni
+
+**[00:47:11.910] Atty. Gerardo F. del Rosario**  
+President Officer Capal.
+
+**[00:47:13.290] Atty. Justin Nicol B. Gular**  
+And it does not say, and I quote, have shares in any corporation, end of quote. Tama po ba?
+
+**[00:47:20.340] Atty. Gerardo F. del Rosario**  
+Wala pong sinabi.
+
+**[00:47:21.780] Atty. Justin Nicol B. Gular**  
+Now yesterday, you also briefly Discussed the prohibition against the conflict of interest under Republic Act 6713 or the Code of Conduct and Ethical Standards for Public Officials and Employees. Naalala niyo? You briefly touched on it.
+
+**[00:47:37.640] Atty. Gerardo F. del Rosario**  
+Wala po akong naalala sa paksa na yan.
+
+**[00:47:40.800] Atty. Justin Nicol B. Gular**  
+Nung tinanong po kayo whether may prohibition po yung mga empleyado to have conflict of interest in businesses. I believe
+
+**[00:47:48.690] Atty. Erwin G. Matib**  
+the question is misleading, Your Honor, because I believe the question was about the local government code pertaining to mayors, governors. If it
+
+**[00:47:59.670] Atty. Erwin G. Matib**  
+all
+
+**[00:47:59.750] Sen. Francis "Chiz" G. Escudero**  
+already answered that the witness does not recall, move on, counsel.
+
+**[00:48:03.330] Atty. Justin Nicol B. Gular**  
+Yes, Your Honor.
+
+**[00:48:04.150] Atty. Justin Nicol B. Gular**  
+I will move on. Now, however, as a lawyer and public official yourself, you are aware of 6713.
+
+**[00:48:12.820] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:48:13.480] Atty. Justin Nicol B. Gular**  
+And you're aware, of course, that the phrase conflict of interest in that law As a technical definition under our laws, tama po ba?
+
+**[00:48:22.250] Atty. Justin Nicol B. Gular**  
+Tinedefine po yung termino na conflict of interest.
+
+**[00:48:24.930] Atty. Erwin G. Matib**  
+Your Honor, I'll have to object because as the witness stated, this was not taken up during his direct examination. So this is irrelevant,
+
+**[00:48:36.010] Atty. Erwin G. Matib**  
+Your Honor. Outside the scope already of the direct examination. We should not unnecessarily prolong the cross-examination, Your Honor. He should move on to his next point.
+
+**[00:48:45.130] Sen. Francis "Chiz" G. Escudero**  
+The witness is a lawyer and testified as to matters pertaining to his interpretation of similar provisions. I'll allow it. Witness may answer. If you know, Atty. Del Rosario, kung alam niyo po. Maray po bang pakibasa talaga?
+
+**[00:48:59.610] Atty. Justin Nicol B. Gular**  
+Yes, papunta. So hindi niyo po mabasa sa distance na niyan?
+
+**[00:49:02.310] Atty. Gerardo F. del Rosario**  
+Hindi po.
+
+**[00:49:02.850] Atty. Justin Nicol B. Gular**  
+Okay, my question is this. Are you aware that under Section 3I of RA 6713, conflict of interest arises when a public official or employee is a member of a board, an officer, or a substantial stockholder of a private corporation or owner or has substantial interest in a business and the interests of such corporation or business or his rights or duties therein may be opposed to or affected by the faithful performance of official duty. Are you aware of that provision?
+
+**[00:49:37.170] Atty. Gerardo F. del Rosario**  
+Tama po yan.
+
+**[00:49:37.730] Atty. Justin Nicol B. Gular**  
+And it mentions substantial stockholder.
+
+**[00:49:43.300] Atty. Justin Nicol B. Gular**  
+May binabanggit
+
+**[00:49:46.010] Atty. Gerardo F. del Rosario**  
+pong substantial stockholder.
+
+**[00:49:52.170] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:50:09.740] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:50:11.730] Atty. Justin Nicol B. Gular**  
+You are also not competent to determine whether the vice president in any of these corporations have substantial interest. Tama po ba?
+
+**[00:50:18.710] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:50:19.180] Atty. Justin Nicol B. Gular**  
+You are limited to what these documents show. Correct?
+
+**[00:50:22.210] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:50:22.880] Atty. Justin Nicol B. Gular**  
+You also have no personal knowledge whether the alleged interest of the vice president in any of these corporations may be, and I quote, opposed to or affected by the faithful performance of her duties. And then, end of quote. Correct?
+
+**[00:50:37.150] Atty. Gerardo F. del Rosario**  
+Sa dokumento po, wala po.
+
+**[00:50:38.910] Atty. Justin Nicol B. Gular**  
+And there is no prohibition in fact. For a public officer's spouse to have any interest in a corporation or business. Tama po ba?
+
+**[00:50:46.540] Atty. Gerardo F. del Rosario**  
+Wala naman po.
+
+**[00:50:47.610] Atty. Justin Nicol B. Gular**  
+And no prohibition on their spouse to practice their profession. Tama po ba?
+
+**[00:50:51.240] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:50:51.780] Atty. Justin Nicol B. Gular**  
+And no prohibition for businesses that are related to their spouse to have contracts with government agencies. Tama po ba?
+
+**[00:51:01.580] Atty. Justin Nicol B. Gular**  
+Expressly under the law.
+
+**[00:51:02.840] Atty. Erwin G. Matib**  
+Which law, Your Honor? And perhaps the witness should be shown a copy of the law for...
+
+**[00:51:08.040] Atty. Justin Nicol B. Gular**  
+If he is aware, Your Honor, I'm referring to 6713.
+
+**[00:51:11.400] Atty. Erwin G. Matib**  
+Which specific part, Your Honor?
+
+**[00:51:14.990] Atty. Erwin G. Matib**  
+Because what is being shown is merely Section 9 and Letter I under that. So he doesn't have a full copy of the law.
+
+**[00:51:22.790] Sen. Francis "Chiz" G. Escudero**  
+If he doesn't, then he may answer accordingly. Kung hindi niyo po alam, Atty. Del Rosario, sabihin niyo lang po. Okay lang
+
+**[00:51:27.970] Atty. Gerardo F. del Rosario**  
+po. Pwede po bang i-flash yung Section 7, Article 13 ng Constitution sa second paragraph?
+
+**[00:51:34.250] Atty. Justin Nicol B. Gular**  
+I'm referring to 6713 po.
+
+**[00:51:36.180] Atty. Gerardo F. del Rosario**  
+Dito po, wala po akong nakikita.
+
+**[00:51:37.590] Atty. Justin Nicol B. Gular**  
+Wala naman po. Maraming salamat. Now let's go to, yesterday you were asked also about documents that would possibly show Divestment of the vice president in companies. Ito po yung mga dokumento na baka naman makapakita na nag-divest yung vice president sa kumpanya yan. Naalala nyo?
+
+**[00:51:55.510] Atty. Gerardo F. del Rosario**  
+Meron po. Meron po mga...
+
+**[00:51:57.090] Atty. Justin Nicol B. Gular**  
+Nasabi nyo naman po kahapon. And you recall that you also mentioned that in some of the corporation, in the subsequent general information sheets, hindi na po reflected as stockholder si vice president.
+
+**[00:52:09.600] Atty. Gerardo F. del Rosario**  
+Meron pong ganong information.
+
+**[00:52:11.325] Atty. Justin Nicol B. Gular**  
+And in other questions by our good Senator-Judges or the Council for Prosecution, apologies, I could not remember which one specifically, you were also asked about the fact that in Calilung 88's Foods Corporation, particularly in the year 2025, Manasis R. Carpio is no longer a stockholder.
+
+**[00:52:31.520] Atty. Justin Nicol B. Gular**  
+Do
+
+**[00:52:32.160] Atty. Justin Nicol B. Gular**  
+you confirm that based on your summary or documents?
+
+**[00:52:44.160] Atty. Gerardo F. del Rosario**  
+Sa Calilung 88 Foods Corporation, ano pong taon?
+
+**[00:52:47.940] Atty. Justin Nicol B. Gular**  
+2025 po.
+
+**[00:52:51.300] Atty. Gerardo F. del Rosario**  
+2025, Manas Escarpio, does not appear as director or stockholder.
+
+**[00:52:56.020] Atty. Justin Nicol B. Gular**  
+Sa prior years nag-appear siya, kaya may mga tanong dyan, di ba?
+
+**[00:52:59.170] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:53:00.050] Atty. Justin Nicol B. Gular**  
+Okay. Now, you confirmed that ordinarily po, Atty. Del Rosario, the SEC does not require the submissions of copies of deed of assignments of shares of stock to support change in the ownership of shares na nare-reflect sa ating general information sheet.
+
+**[00:53:17.680] Atty. Gerardo F. del Rosario**  
+Iri-require po namin yan. Generally, hindi. Pero meron pong requirements yan kung ito ay pinambayad mo ng equity. Which must be transferred in the name of the corporation. Correct. And
+
+**[00:53:27.840] Atty. Justin Nicol B. Gular**  
+you confirmed that even under Securities Exchange Memorandum Circular No. 17, Series of 2004, the SEC no longer recognizes the recording of a deed of assignment of shares of stock with respect to any legal benefit to the corporation or the person involved. Tama po ba?
+
+**[00:53:46.770] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:53:47.670] Atty. Justin Nicol B. Gular**  
+Under that SEC Memorandum Circular, in fact, what controls po is the transfer of shares that are recorded by the corporate secretary in the stock and transfer book of the corporation. Tama po ba?
+
+**[00:54:00.720] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:54:01.640] Atty. Justin Nicol B. Gular**  
+And you confirmed that the SEC would not have any information record relating to any registration of deed of assignment of shares of stock in any of the corporations po na tinalakay niyo since the custody of Stock and transfer books or STBs are with the corporation's corporate secretary.
+
+**[00:54:21.060] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:54:22.120] Atty. Justin Nicol B. Gular**  
+In other words, you are incompetent, Atty. Delosario, to testify whether there was divestment, transfer of shares in relation to any of these corporations as appearing in the STB. As appearing in the STB. That's my question, Your Honor.
+
+**[00:54:38.120] Atty. Gerardo F. del Rosario**  
+On
+
+**[00:54:38.560] Atty. Gerardo F. del Rosario**  
+the STB po, wala po kaming access on that.
+
+**[00:54:40.820] Atty. Justin Nicol B. Gular**  
+Maraming salamat. Yesterday, You also identified incorporation documents of several corporations that you certified and transmitted to the House of Representatives. Do you recall that?
+
+**[00:54:52.670] Atty. Gerardo F. del Rosario**  
+Yes po.
+
+**[00:54:53.680] Atty. Justin Nicol B. Gular**  
+And by incorporation documents, we are referring to certificates of incorporation, correct?
+
+**[00:54:59.955] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:55:01.160] Atty. Justin Nicol B. Gular**  
+Articles of incorporation, correct?
+
+**[00:55:03.000] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:55:03.960] Atty. Justin Nicol B. Gular**  
+Corporate bylaws, tama po ba?
+
+**[00:55:05.570] Atty. Gerardo F. del Rosario**  
+Tama
+
+**[00:55:05.990] Atty. Gerardo F. del Rosario**  
+po.
+
+**[00:55:06.350] Atty. Justin Nicol B. Gular**  
+Now, to name a few, specifically, ang in-identify niyo ay sa Metro City Chow Foods Corp., Madayo Fisheries, Inc., Amianan Shores, Inc. Tama po ba?
+
+**[00:55:15.205] Atty. Gerardo F. del Rosario**  
+Tama po yan.
+
+**[00:55:16.965] Atty. Justin Nicol B. Gular**  
+Now you confirm that these are in the records of or on file with the SEC because these are documents submitted to the SEC by these corporations in relation to incorporation.
+
+**[00:55:29.090] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:55:30.220] Atty. Justin Nicol B. Gular**  
+In other words, the documents issued by or pwede din naman po ito po yung mga dokumento na ini-issue ng SEC kaugnay sa incorporasyon ng isang kumpanya kagaya ng Certificate of Incorporation. Tama po ba?
+
+**[00:55:43.360] Atty. Gerardo F. del Rosario**  
+Tama po. Yan po ang ini-issue namin.
+
+**[00:55:45.450] Atty. Justin Nicol B. Gular**  
+However, you confirm, sir, that besides what appears in these documents, po, the SEC does not have any personal knowledge in relation to agreements between incorporators in relation to the setting up of a corporation.
+
+**[00:55:59.530] Atty. Gerardo F. del Rosario**  
+Wala po kaming kidalaman doon.
+
+**[00:56:01.760] Atty. Justin Nicol B. Gular**  
+You also confirm that the SEC has no personal knowledge on the intended business operation scale besides the primary and secondary purpose, if any, declared in the Articles of Incorporation.
+
+**[00:56:15.110] Atty. Gerardo F. del Rosario**  
+kung ano lang po ang nasa article siya po ang pininiwalaan naming negosyo niya.
+
+**[00:56:19.310] Atty. Justin Nicol B. Gular**  
+Wala din pong record or information yung Securities and Exchange Commission natin kung saan nanggaling yung pera para sa initial paid up capital stock of each incorporator. Tama?
+
+**[00:56:30.455] Atty. Gerardo F. del Rosario**  
+Wala po.
+
+**[00:56:31.700] Atty. Justin Nicol B. Gular**  
+Wala din po kayong personal knowledge or information in relation to the amount of the... as to why... There is an initial proportion in the initial subscription of shares for each incorporator. Bakit po? 25-25-25 or 50-25-25? Hindi niyo po alam kung bakit ganyan yung setup.
+
+**[00:56:49.270] Atty. Gerardo F. del Rosario**  
+Hindi po namin alam.
+
+**[00:56:50.370] Atty. Justin Nicol B. Gular**  
+Ang alam niyo lang, ni-report yung stockholding structure. Tama po ba?
+
+**[00:56:55.280] Atty. Gerardo F. del Rosario**  
+Sinood po nila yung patakaran at time yung 25-25.
+
+**[00:56:58.590] Atty. Justin Nicol B. Gular**  
+Correct. And yung patakaran na yan, hindi naman po nag-a-apply na ngayon. Tama po ba?
+
+**[00:57:03.220] Atty. Gerardo F. del Rosario**  
+Hindi na po.
+
+**[00:57:03.760] Atty. Justin Nicol B. Gular**  
+Okay. So to confirm, the SEC has no personal knowledge or information.
+
+**[00:57:16.640] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:57:28.690] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:57:39.160] Atty. Justin Nicol B. Gular**  
+in relation to the GIS themselves or the summaries. Do you recall that?
+
+**[00:57:42.760] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:57:43.240] Atty. Justin Nicol B. Gular**  
+You confirmed that ito po mga general information sheets, para lang po maintindahan natin lahat, ito po ang mga reports na sinusumite ng corporation sa SEC as required by law. Tama po ba?
+
+**[00:57:54.400] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:57:55.210] Atty. Justin Nicol B. Gular**  
+And under Section 177B of the Revised Corporation Code, this reportorial requirement is imposed upon the corporation. Tama?
+
+**[00:58:05.970] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:58:07.010] Atty. Justin Nicol B. Gular**  
+And you confirm that this statutory obligation is not imposed upon stockholders, directors, or officers of the corporation?
+
+**[00:58:15.480] Atty. Gerardo F. del Rosario**  
+Naka
+
+**[00:58:16.080] Atty. Gerardo F. del Rosario**  
+-imposed
+
+**[00:58:16.480] Atty. Gerardo F. del Rosario**  
+po sa corporate secretary ng
+
+**[00:58:18.200] Atty. Gerardo F. del Rosario**  
+kumpanya.
+
+**[00:58:18.760] Atty. Justin Nicol B. Gular**  
+Correct.
+
+**[00:58:18.940] Atty. Justin Nicol B. Gular**  
+The only exception is the corporate secretary who is required to certify and swear under oath the contents of a general information sheet.
+
+**[00:58:28.550] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:58:29.070] Atty. Justin Nicol B. Gular**  
+But it is not the corporate secretary who is under the law obligated to File a GIS kasi sa korporasyon naman po yan. Clarification lang po.
+
+**[00:58:37.850] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:58:38.470] Atty. Justin Nicol B. Gular**  
+Okay. And you confirmed that this is the principle or ito po yung framework natin kasi may separate and distinct personality naman po yung korporasyon sa mga stockholders, directors, and officers natin. Tama po ba?
+
+**[00:58:52.240] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:58:53.060] Atty. Justin Nicol B. Gular**  
+And you therefore confirmed that the GIS as viewed under the law originates from the corporation. Tama?
+
+**[00:59:00.470] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:59:01.530] Atty. Justin Nicol B. Gular**  
+and submitted by the corporation to the SEC. Tama?
+
+**[00:59:05.290] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:59:06.540] Atty. Justin Nicol B. Gular**  
+And in all the GIS you identified yesterday, you confirmed that the vice president was never a corporate secretary.
+
+**[00:59:14.280] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[00:59:15.960] Atty. Justin Nicol B. Gular**  
+None of these GISs, accordingly, were sworn upon by the vice president herself. Tama po ba?
+
+**[00:59:22.920] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:59:23.540] Atty. Justin Nicol B. Gular**  
+And you testified yesterday that a domestic stock corporation is also required to submit GISs on specific periods.
+
+**[00:59:31.300] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:59:32.490] Atty. Justin Nicol B. Gular**  
+Isa po dito, generally, within 30 calendar days from the date of actual stockholders and the conduct of the annual stockholders meeting. Tama po ba?
+
+**[00:59:42.300] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[00:59:42.960] Atty. Justin Nicol B. Gular**  
+Yung iba naman, may mga specific corporate changes na, if I'm not mistaken, within 7 days should be reported to the SEC. Tama po ba?
+
+**[00:59:50.200] Atty. Justin Nicol B. Gular**  
+Tama po. Now you confirm that besides what appears on the face of the general information sheet,
+
+**[00:59:55.430] Atty. Justin Nicol B. Gular**  
+the
+
+**[00:59:55.950] Atty. Justin Nicol B. Gular**  
+Securities and Exchange Commission po does not have any knowledge or information
+
+**[01:00:06.520] Atty. Gerardo F. del Rosario**  
+Wala po kaming informasyon ng dati.
+
+**[01:00:28.330] Atty. Erwin G. Matib**  
+What
+
+**[01:00:28.710] Atty. Erwin G. Matib**  
+kind of information he's asking?
+
+**[01:00:30.450] Atty. Justin Nicol B. Gular**  
+Your Honor, I think my question was clear, Your Honor. If the witness knows, Your Honor. I think
+
+**[01:00:34.910] Sen. Francis "Chiz" G. Escudero**  
+he's referring generally, counsel. Witness may answer if he
+
+**[01:00:40.070] Sen. Francis "Chiz" G. Escudero**  
+knows. Alam niyo po, Atty. Del Rosario?
+
+**[01:00:42.290] Atty. Gerardo F. del Rosario**  
+Wala po kami personal information kung ano po ang nangyayari sa kanila.
+
+**[01:00:46.290] Atty. Justin Nicol B. Gular**  
+Now, you even confirm, Atty. Del Rosario, na hindi naman nire-require yung mga korporasyon natin na magsumiti ng minutes of the meeting ng kahit anong corporate meeting. Tama po ba?
+
+**[01:00:56.850] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[01:00:58.250] Atty. Justin Nicol B. Gular**  
+Now yesterday, you were made to confirm that based on the summary you prepared and the corporate documents from 2022-2025 specifically, declared the Vice President as a member of the Board of Directors of Metro City Chow Foods Corporation. Naalala nyo yun?
+
+**[01:01:16.090] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[01:01:17.200] Atty. Justin Nicol B. Gular**  
+Now you were also made to confirm that the Vice President from 2022-2025 is a member of the Compensation Committee as reflected in your summary?
+
+**[01:01:31.090] Atty. Gerardo F. del Rosario**  
+Opo. Yan po ang nakalagay sa GIS.
+
+**[01:01:32.970] Atty. Justin Nicol B. Gular**  
+However, you confirm, given your answers to my earlier questions, that the SEC has no personal knowledge whether the Vice President did in fact participate or attend in any of the meetings of the Board of Directors in these years. Tama
+
+**[01:01:46.130] Atty. Gerardo F. del Rosario**  
+po.
+
+**[01:01:46.350] Atty. Justin Nicol B. Gular**  
+You also have no, in fact, you do not have any minutes of the meeting of the Board of Directors of Metro City Chow Foods Corporation, whether special, regular, or organizational meeting, which would show that the Vice President participated or attended. Tama po ba?
+
+**[01:02:01.840] Atty. Gerardo F. del Rosario**  
+Wala po kaming information on that.
+
+**[01:02:03.440] Atty. Justin Nicol B. Gular**  
+You can also confirm that the SEC has no personal knowledge whether the Vice President did in fact participate or attend in any of the meetings of the Compensation Committee of Metro City Chow Foods Corporation in the years 2022 to 2025. Correct?
+
+**[01:02:19.230] Atty. Gerardo F. del Rosario**  
+No information po on that.
+
+**[01:02:20.800] Atty. Justin Nicol B. Gular**  
+In fact, you do not have any minutes of the meeting of the Compensation Committee of Metro City Chow Foods Corporation which would otherwise show that the Vice President participated or attended its meetings. Tama po ba?
+
+**[01:02:32.700] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[01:02:33.460] Atty. Justin Nicol B. Gular**  
+Further, please confirm that the SEC has no personal knowledge or information whether the Vice President is involved in the day-to-day operations of any of the corporations. Sixteen, if I remember correctly.
+
+**[01:02:46.050] Atty. Gerardo F. del Rosario**  
+Wala po akong, wala po kaming ganung informasyon.
+
+**[01:02:49.050] Atty. Justin Nicol B. Gular**  
+And you also have no information or personal knowledge whether the Vice President actively, is actively involved in the management or decision-making of any of these sixteen corporations.
+
+**[01:03:00.450] Atty. Justin Nicol B. Gular**  
+And the
+
+**[01:03:01.810] Atty. Justin Nicol B. Gular**  
+SEC has no personal knowledge or information based on its records that the Vice President had any participation in the review submission of any of the general information sheets including those submitted by Metro City Child Foods Corporation.
+
+**[01:03:20.870] Atty. Justin Nicol B. Gular**  
+And
+
+**[01:03:21.550] Atty. Justin Nicol B. Gular**  
+the SEC also has no personal knowledge or information whether the Vice President is even aware of the filing of these General Information Sheets by the Corporations. Correct?
+
+**[01:03:33.360] Atty. Gerardo F. del Rosario**  
+Maari po. Hindi po niya alam. Ba't hindi po siyang meron pong nag-file para sa kumpanya.
+
+**[01:03:39.200] Atty. Justin Nicol B. Gular**  
+Maraming salamat po, Atty. Del Rosario. Puntahan naman po natin yung mga audited financial statements. Kahapon, sa mga summary at mga dokumentong pinakita ng proseksyon sa inyo, pinakita po kayo ng mga AFS of these corporations to name a few. City Hall, King Chow Foods Corporation, Metro City Chow Foods Corporation. Gencorp Industry Inc. Do you recall that? Yung mga usually nasa likuran sila sa summary nyo. Apo. Now, during your direct examination, you were made to enumerate ang mga sales of these corporations as opposed to their net income, retained earnings, deficit, and sa last portion ng column, dividends declare. Tama po ba?
+
+**[01:04:20.310] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:04:21.310] Atty. Justin Nicol B. Gular**  
+Now, let's clarify. In relation to the annual audited financial statements of the corporation, You confirm, sir, that the SEC only reviews submissions of these AFSS for purposes of corporate compliance, completeness, and reporting rules. Tama po ba?
+
+**[01:04:40.590] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:04:41.160] Atty. Justin Nicol B. Gular**  
+But you confirm, sir, that it is actually the Bureau of Internal Revenue that cross-checks those audited financial statements as against reported tax returns or books of accounts of a corporation. Tama po ba?
+
+**[01:04:53.270] Atty. Gerardo F. del Rosario**  
+Tama po. Sa pag-ubahit ng bubis sila.
+
+**[01:04:54.815] Atty. Justin Nicol B. Gular**  
+So you cannot determine whether you are not competent to testify today whether there are irregularities or misrepresentations in any of the audited financial statements. You can only confirm whether they are filed.
+
+**[01:05:06.470] Atty. Gerardo F. del Rosario**  
+Kung ano po ang naka-file sa amin, yun lang po ang pinaniwalaan at
+
+**[01:05:11.700] Atty. Justin Nicol B. Gular**  
+sinabit dito. In fact, you are not aware as a representative of the SEC whether these audited financial statements you identified today and yesterday by these corporations were even flagged by the Bureau of Internal Revenue in relation to any tax regulation compliance. Tama? Wala
+
+**[01:05:29.840] Atty. Gerardo F. del Rosario**  
+po kaming information on that.
+
+**[01:05:31.200] Atty. Justin Nicol B. Gular**  
+Further, you confirm, sir, that these audited financial statements are financial statements, again, of the corporation and not by the stockholders. Tama?
+
+**[01:05:39.400] Atty. Gerardo F. del Rosario**  
+Para po sa korporasyon.
+
+**[01:05:40.920] Atty. Justin Nicol B. Gular**  
+Audited financial statement siya ng korporasyon, hindi ng direktor. Tama?
+
+**[01:05:45.220] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:05:46.260] Atty. Justin Nicol B. Gular**  
+Audited financial statement siya ng korporasyon at hindi ng mga opisyalis na nakadeklara sa GIS. Tama?
+
+**[01:05:52.180] Atty. Erwin G. Matib**  
+Objection,
+
+**[01:05:52.640] Atty. Erwin G. Matib**  
+Your Honor. Ask and answered. It's just merely enumerating people. It's the
+
+**[01:05:58.040] Atty. Justin Nicol B. Gular**  
+same line of questioning. Your Honor, that would be presumptuous from the prosecution. I'm trying to confirm this from the witness. I am an examination. It's not the same question, counsel. Thank you, Your
+
+**[01:06:09.680] Atty. Justin Nicol B. Gular**  
+Honor.
+
+**[01:06:10.260] Sen. Francis "Chiz" G. Escudero**  
+Witness may
+
+**[01:06:11.040] Sen. Francis "Chiz" G. Escudero**  
+answer.
+
+**[01:06:11.740] Atty. Justin Nicol B. Gular**  
+Tama po.
+
+**[01:06:13.160] Atty. Justin Nicol B. Gular**  
+And again, this follows the principle that a corporation has a separate and distinct personality from its stockholders, correct?
+
+**[01:06:20.470] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:06:21.430] Atty. Justin Nicol B. Gular**  
+From its directors, correct?
+
+**[01:06:22.800] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:06:23.550] Atty. Justin Nicol B. Gular**  
+From its officers. Correct?
+
+**[01:06:25.310] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:06:26.860] Atty. Justin Nicol B. Gular**  
+Thus, any sale, revenue, or loss indicated in these audited financial statements belong to the corporation, not its stockholders.
+
+**[01:06:36.700] Atty. Erwin G. Matib**  
+Asked and answered.
+
+**[01:06:38.750] Atty. Justin Nicol B. Gular**  
+That was different, Your Honor. My prior question was where the AFS come from. I'm referring particularly in the contents of the AFS this time.
+
+**[01:06:46.550] Sen. Francis "Chiz" G. Escudero**  
+It's okay. Witness may answer.
+
+**[01:06:48.780] Atty. Justin Nicol B. Gular**  
+Para po sa
+
+**[01:06:49.680] Atty. Gerardo F. del Rosario**  
+kumpanya ito.
+
+**[01:06:50.980] Atty. Justin Nicol B. Gular**  
+So... You also confirmed that the income reflected in this audited financial statement hindi po ito sa vicepresidente pero sa korporasyon na nag-report. Tama?
+
+**[01:07:00.700] Atty. Gerardo F. del Rosario**  
+Tama po. Sa kumpanya.
+
+**[01:07:02.300] Atty. Justin Nicol B. Gular**  
+And you cannot confirm whether based on that net income reported may natanggap ang vicepresidente dyan. Tama po ba?
+
+**[01:07:09.760] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:07:10.530] Atty. Justin Nicol B. Gular**  
+And similarly, any net losses reflected in an audited financial statement belongs to the corporation and not the stockholder, for example, the vicepresident. Correct?
+
+**[01:07:21.440] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:07:21.980] Atty. Justin Nicol B. Gular**  
+And you confirmed that you cannot see whether those net losses as reflected in an audited financial statement is conclusive evidence that the Vice President or any stockholder for that matter incurred losses in relation to his stockholdings or investments. Correct?
+
+**[01:07:37.700] Atty. Gerardo F. del Rosario**  
+Para po sa korporasyon nito.
+
+**[01:07:39.240] Atty. Justin Nicol B. Gular**  
+And you confirmed that the SEC has no personal knowledge whether the Vice President participated in the preparation of all the audited financial statements you identified.
+
+**[01:07:48.330] Atty. Erwin G. Matib**  
+Asked
+
+**[01:07:48.690] Atty. Erwin G. Matib**  
+and answered.
+
+**[01:07:49.475] Atty. Justin Nicol B. Gular**  
+Participation, Your Honor, in
+
+**[01:07:50.960] Atty. Justin Nicol B. Gular**  
+the preparation.
+
+**[01:07:51.710] Sen. Francis "Chiz" G. Escudero**  
+Witness may
+
+**[01:07:53.520] Atty. Gerardo F. del Rosario**  
+answer. Wala po kaming ganung informasyon.
+
+**[01:07:56.630] Atty. Justin Nicol B. Gular**  
+The SEC also has no personal knowledge whether the Vice President or Manassas R. Carpio participated in the approval of these annual financial statements by the Board of Directors.
+
+**[01:08:06.930] Atty. Gerardo F. del Rosario**  
+Wala po kaming ganung informasyon.
+
+**[01:08:08.690] Atty. Justin Nicol B. Gular**  
+The SEC also has no personal knowledge or information whether the Vice President or Manassas R. Carpio were present in the stockholders when these audited financial statements were presented to the stockholders.
+
+**[01:08:20.240] Atty. Gerardo F. del Rosario**  
+Wala rin po kaming gano'ng informasyon.
+
+**[01:08:21.880] Atty. Justin Nicol B. Gular**  
+And also, the SEC has no personal knowledge whether the Vice President or Manassas R. Carpio are aware of the filing of these audited financial statements.
+
+**[01:08:29.780] Atty. Gerardo F. del Rosario**  
+Wala rin po kaming gano'ng informasyon.
+
+**[01:08:31.380] Atty. Justin Nicol B. Gular**  
+No further questions, Your Honor. Any redirect,
+
+**[01:08:35.330] Sen. Francis "Chiz" G. Escudero**  
+Atty. Erwin?
+
+**[01:08:36.520] Atty. Erwin G. Matib**  
+Redirect, yes, Your Honor.
+
+**[01:08:38.525] Sen. Francis "Chiz" G. Escudero**  
+You may proceed,
+
+**[01:08:39.940] Atty. Erwin G. Matib**  
+Sir, when you're ready.
+
+**[01:08:43.680] Atty. Erwin G. Matib**  
+Atty. Del Rosario, kanina nabanggit na naman po, nabalik sa diskusyon, itong GenCorp Industries, Inc. Nabanggit ho na hindi malinaw kung anong interest ni VP Sara sa kumpanyang ito. Ito po ba ay dahil confidential yung information?
+
+**[01:09:03.140] Atty. Justin Nicol B. Gular**  
+Objection, Your Honor. Misleading.
+
+**[01:09:06.850] Sen. Francis "Chiz" G. Escudero**  
+If he knows, Atty.
+
+**[01:09:11.060] Sen. Francis "Chiz" G. Escudero**  
+Del Rosario, if you know.
+
+**[01:09:12.540] Atty. Gerardo F. del Rosario**  
+Well, wala po kasing pangalan si... I-check ko lang po yung notes ko.
+
+**[01:09:17.790] Sen. Francis "Chiz" G. Escudero**  
+Kindly do so Atty. Del Rosario.
+
+**[01:09:19.800] Atty. Gerardo F. del Rosario**  
+Sa
+
+**[01:09:26.020] Atty. Gerardo F. del Rosario**  
+GenCorp Industries, Inc., wala po kasing pangalan si VP Sara Duterte. from incorporation up to the filing of JIS. Yun po ang nakalagay sa aking summary.
+
+**[01:09:41.300] Sen. Francis "Chiz" G. Escudero**  
+That's the witnesses' answer, Attorney Erwin.
+
+**[01:09:43.060] Atty. Erwin G. Matib**  
+Thank you, Your Honor. And then, pinakita po sa inyo kanina yung Section 62 tungkol sa pag-declare kung ano yung dapat isama ng isang government official about, I believe, May we ask the defense to flash the section again?
+
+**[01:10:03.780] Atty. Justin Nicol B. Gular**  
+We can, your honor.
+
+**[01:10:05.270] Atty. Erwin G. Matib**  
+Thank you.
+
+**[01:10:06.490] Sen. Francis "Chiz" G. Escudero**  
+Thank you for your accommodation, attorney Justin.
+
+**[01:10:09.250] Atty. Justin Nicol B. Gular**  
+May we just request the tech booth to flash it, your honor.
+
+**[01:10:11.710] Sen. Francis "Chiz" G. Escudero**  
+Can the tech please flash section 62 of the omnibus rules?
+
+**[01:10:29.940] Sen. Francis "Chiz" G. Escudero**  
+There you go, attorney Aaron.
+
+**[01:10:31.960] Atty. Erwin G. Matib**  
+There's a subparagraph that was flashed earlier. I think it's a nice line if I could
+
+**[01:10:38.090] Atty. Justin Nicol B. Gular**  
+help the prosecution.
+
+**[01:10:39.150] Sen. Francis "Chiz" G. Escudero**  
+On conflict of interest, attorney Aaron?
+
+**[01:10:44.880] Atty. Erwin G. Matib**  
+They showed this and another one. Yes,
+
+**[01:10:48.060] Atty. Erwin G. Matib**  
+this is the correct slide. So, nakalagay po dyan na obligasyon ng government official na ilagay kung ano yung nature ng kanyang business interest o financial connection sa kumpanya. Tama po ba?
+
+**[01:11:04.730] Atty. Justin Nicol B. Gular**  
+Objection. Misleading, Your Honor. That doesn't appear in the provision. There is no requirement to declare the nature of the business, Your Honor. That's the definition of what a nature of business interest or financial connection is. It
+
+**[01:11:17.240] Sen. Francis "Chiz" G. Escudero**  
+merely defines, counsel. Go to your question. I think I know where you're getting at, Atty. Rin.
+
+**[01:11:25.500] Atty. Erwin G. Matib**  
+So tama po ba na ang nature ng business interest or financial connection ay as stated here, kung ano man pong iba pang ginawa niya. So hindi lang yung pagiging shareholder. Ang kasama sa nature of business interest or financial connection, tama po ba?
+
+**[01:11:44.180] Atty. Justin Nicol B. Gular**  
+May we ask that the prosecutor specifically refer to the particular portion of the provision being asked?
+
+**[01:11:51.320] Sen. Francis "Chiz" G. Escudero**  
+Based on, allow the chair, based on this provision, Atty. Del Rosario, can you answer the question of Atty. Erwin?
+
+**[01:12:02.720] Sen. Francis "Chiz" G. Escudero**  
+Gusto niyo po palakihan natin? Sige po. Kindly zoom it in. May we request the tech to zoom it in, please?
+
+**[01:12:16.240] Sen. Francis "Chiz" G. Escudero**  
+Aling...
+
+**[01:12:25.410] Sen. Francis "Chiz" G. Escudero**  
+Ang katanungan po yata ay, base po sa probisyong ito, ang depenisyon ng interes ay hindi lamang bilang shareholder. Posibleng may ibang kapasidad pa na nakabilang sa nakalista po dito.
+
+**[01:12:40.390] Atty. Gerardo F. del Rosario**  
+Opo. Whether as proprietor, investor, promoter, partner, shareholder po. Okay.
+
+**[01:12:47.620] Sen. Francis "Chiz" G. Escudero**  
+Atty. Erwin?
+
+**[01:12:50.210] Atty. Erwin G. Matib**  
+So, napakarami po na maaaring maging nature kung ano man yung business interest. ng isang tao in connection with the corporation. Tama po ba yan? Tama po.
+
+**[01:13:04.950] Atty. Erwin G. Matib**  
+So kung sakaling nakalagay po kasi dito, creditor, so kung nagpa-utang yung government official, kailangan niyang i-deklara.
+
+**[01:13:16.420] Atty. Gerardo F. del Rosario**  
+Opo, kung pag-aari po niya, pera niya yan.
+
+**[01:13:20.200] Atty. Erwin G. Matib**  
+So part 2 siya ng business interest. And pati nga po kung siya ay
+
+**[01:13:26.900] Atty. Erwin G. Matib**  
+Nagsusupply ng services katulad ng business consultancy or
+
+**[01:13:32.660] Atty. Erwin G. Matib**  
+kung abogado siya at nagsusupply siya ng legal services sa kumpanya. Ayon dito sa Section 62. Ayon po dito. Okay, salamat.
+
+**[01:13:49.890] Atty. Erwin G. Matib**  
+Ngayon, balikan natin yung mga filing sa SEC na nabanggit kanina. Unahin po natin yung mga general information sheets. Napansin ko ho kasi na yung mga exhibits, yung mga general information sheets ay notaryado.
+
+**[01:14:07.560] Atty. Erwin G. Matib**  
+Tama po. Ano ho bang ibig sabihin kung yung isang dokumento ay notaryado?
+
+**[01:14:15.420] Atty. Gerardo F. del Rosario**  
+Ibig sabihin lang po noon na pinununumpaan niya ang bawat informasyon na nakalagay doon sa ayon sa kanyang paniniwala at nalalaman.
+
+**[01:14:26.540] Atty. Erwin G. Matib**  
+At in other words, kailangan totoo yung dapat nasa GIS. Tama po ba yan?
+
+**[01:14:33.290] Atty. Gerardo F. del Rosario**  
+Dapat po.
+
+**[01:14:34.290] Atty. Erwin G. Matib**  
+Ano ang consequence kung hindi man naging totoo yung mga nakalagay sa general information sheet?
+
+**[01:14:41.610] Atty. Gerardo F. del Rosario**  
+Una po, may provision sa amin sa RCC na yung lawfully submitting erroneous documents, reports, violation po yan. At pangalawa, yung perjury kung ikaw ay nagsisinungaling at alam mo namang mali.
+
+**[01:14:56.810] Atty. Erwin G. Matib**  
+So, mabigat po pala yung kaparusahan kung hindi pala totoo yung mga nakalagay sa general information sheet.
+
+**[01:15:02.180] Atty. Justin Nicol B. Gular**  
+Objection, Your Honor.
+
+**[01:15:02.930] Atty. Justin Nicol B. Gular**  
+Apologies. Again, with all due respect to the good counsel for the prosecutor, his once again interjected conclusions.
+
+**[01:15:09.590] Sen. Francis "Chiz" G. Escudero**  
+Move on, move
+
+**[01:15:09.650] Sen. Francis "Chiz" G. Escudero**  
+on,
+
+**[01:15:09.890] Sen. Francis "Chiz" G. Escudero**  
+counsel.
+
+**[01:15:10.850] Atty. Erwin G. Matib**  
+So, itong general information sheet, nabanggit niyo na ito ay, sino pong pumipirma sa GIS?
+
+**[01:15:17.330] Atty. Gerardo F. del Rosario**  
+Ang corporate secretary po.
+
+**[01:15:20.090] Atty. Erwin G. Matib**  
+Ang corporate secretary. At sino po ang nag-a-appoint ng corporate secretary?
+
+**[01:15:25.115] Atty. Gerardo F. del Rosario**  
+Ang board of directors po.
+
+**[01:15:27.200] Atty. Erwin G. Matib**  
+Ang board of directors. Tuwing kailan po ina-appoint ang corporate secretary?
+
+**[01:15:32.360] Atty. Erwin G. Matib**  
+During the annual meeting po.
+
+**[01:15:35.710] Atty. Erwin G. Matib**  
+Anytime po ba pwedeng palitan ang corporate secretary ng board? Sinsila naman nag-a-appoint?
+
+**[01:15:40.450] Atty. Gerardo F. del Rosario**  
+Pag po gusto ng board, maaari po nilang gawin yan. Pwedeng palitan.
+
+**[01:15:44.200] Atty. Erwin G. Matib**  
+Ano po yung mga instances na pwedeng mapalitan yung corporate secretary?
+
+**[01:15:48.250] Atty. Gerardo F. del Rosario**  
+Siguro po isang loss of confidence. Ayaw nila yung the way mag-report. Yung compliance ng kumpanya, hindi ninyo nasasubmit. Yan po yung mga ibang paraan kung bakit papalitan siya.
+
+**[01:16:03.260] Atty. Erwin G. Matib**  
+Tignan nga po natin yung mga general information sheets ng Metro City Chow Foods Corporation.
+
+**[01:16:13.690] Atty. Erwin G. Matib**  
+For
+
+**[01:16:14.110] Atty. Erwin G. Matib**  
+the record, we are showing to the witness copies of the GIS of Metro City Chow Foods Corporation.
+
+**[01:16:19.590] Sen. Francis "Chiz" G. Escudero**  
+Standing authority for assisting counsels, the approach has been given by the presiding officer.
+
+**[01:16:25.630] Atty. Erwin G. Matib**  
+Pakisabi po kung sino ang corporate secretary ng kumpanyang yan.
+
+**[01:16:31.910] Atty. Gerardo F. del Rosario**  
+Base sa unang GIS.
+
+**[01:16:35.150] Atty. Gerardo F. del Rosario**  
+Sa JS po ng Metro City Chow Food Corporation as of period covered is June 5, 2018.
+
+**[01:16:45.730] Atty. Gerardo F. del Rosario**  
+Ang nakapangalan bilang corporate secretary po ay Gurley S. Delacruz.
+
+**[01:16:51.290] Atty. Erwin G. Matib**  
+Gurley S. Delacruz.
+
+**[01:16:56.190] Atty. Erwin G. Matib**  
+Pakicheck nga po yung
+
+**[01:17:00.050] Atty. Erwin G. Matib**  
+mga sumusunod na general information sheets kung siya pa rin po ba yung nakalagay dyan ng corporate secretary.
+
+**[01:17:06.380] Atty. Gerardo F. del Rosario**  
+Sa May 6, 2019, Metro City Chow Food Corporation, GIS.
+
+**[01:17:12.010] Atty. Gerardo F. del Rosario**  
+Sa
+
+**[01:17:13.830] Atty. Gerardo F. del Rosario**  
+page 11, meron pong Gurley S. Delacruz, Corporate Secretary of Metro City Chow Food Corporation.
+
+**[01:17:23.320] Atty. Erwin G. Matib**  
+Pakitignan na lang po lahat. Lahatan na. Pakicheck po kung siya ba sa lahat ng mga general information sheets para sa mga taong 2018 hanggang 2025.
+
+**[01:18:18.830] Atty. Gerardo F. del Rosario**  
+Lahat po ng GIS ay nasa pinirmahan ni Gurley Delacruz.
+
+**[01:18:24.350] Atty. Erwin G. Matib**  
+Napalitan po ba siya bilang corporate secretary para sa mga taong iyan, para sa kumpanyang Metro City Chow Foods?
+
+**[01:18:31.550] Atty. Gerardo F. del Rosario**  
+Well, ayon po sa dokumento, wala pong pagbabago. Maaring hindi po siya napalitan. Hindi
+
+**[01:18:35.390] Atty. Erwin G. Matib**  
+siya napalitan. In fact, tama ba na actually si Gurley de la Cruz ay corporate secretary din ng iba pang mga kumpanya?
+
+**[01:18:46.220] Atty. Gerardo F. del Rosario**  
+Siguro po, i-check ko lang po yung records kung...
+
+**[01:18:49.380] Atty. Erwin G. Matib**  
+I think meron po tayong, or hindi man na corporate secretary, pero siya ay...
+
+**[01:18:59.190] Atty. Erwin G. Matib**  
+Incorporator or stockholder din, based sa nagawa ninyong summary on the table pertaining to incorporators,
+
+**[01:19:10.040] Atty. Erwin G. Matib**  
+stockholders.
+
+**[01:19:16.710] Atty. Erwin G. Matib**  
+Meron po kayong summary na by name.
+
+**[01:19:28.490] Atty. Erwin G. Matib**  
+Pahanap po yung pangalan ni Gurley S. De La Cruz sa inyong incorporators declared in the EOI by incorporator and I think this is on page 7,
+
+**[01:19:44.210] Atty. Erwin G. Matib**  
+2026.
+
+**[01:19:49.100] Atty. Erwin G. Matib**  
+Ando na po ba kayo? Sa page 7 of 2026, sa pangalan ng Gurley S. De La Cruz. So based po dyan, incorporator po siya para sa mga aling kumpanya.
+
+**[01:20:01.910] Atty. Gerardo F. del Rosario**  
+Well, ayon po dito, si Gurley S. De La Cruz ay incorporator ng Davao New Royal Taipan Foods Corporation, GenCorp Industries, JTC Group of Companies Philippines, Metro City Chow Food Corporation,
+
+**[01:20:21.340] Atty. Gerardo F. del Rosario**  
+B-Food Corporation.
+
+**[01:20:23.460] Atty. Erwin G. Matib**  
+Okay. So, Incorporator din po siya sa limang kumpanyang nabanggit niyo.
+
+**[01:20:38.210] Sen. Francis "Chiz" G. Escudero**  
+To clarify, ito yung Andrew Lozario, limang kumpanya lang po? MetroCity Chow, GenCorp, Times Square, B-Foods, Davao New Royal, and JTC?
+
+**[01:20:48.910] Atty. Gerardo F. del Rosario**  
+Tama po. Davao New Royal, GenCorp, JTC Group of Companies, MetroCity Chow, at Times Square B.
+
+**[01:20:56.510] Sen. Francis "Chiz" G. Escudero**  
+Doon lang po siya shareholder?
+
+**[01:20:58.560] Atty. Gerardo F. del Rosario**  
+Incorporator po.
+
+**[01:20:59.840] Sen. Francis "Chiz" G. Escudero**  
+Incorporator. Incorporator lang po.
+
+**[01:21:10.380] Sen. Francis "Chiz" G. Escudero**  
+Proceed, counsel.
+
+**[01:21:11.680] Atty. Erwin G. Matib**  
+Yes, your honor. Ngayon, pinag-usapan din ang articles of incorporation. Ah, sorry, ang audited financial statements. Kanina, no, na-bring up po. Ano po ba ang ibig sabihin kung ang financial statements ay audited?
+
+**[01:21:30.350] Atty. Erwin G. Matib**  
+Asking for opinion, your honor.
+
+**[01:21:33.130] Sen. Francis "Chiz" G. Escudero**  
+If he knows, counsel, he receives the submissions. He should know what it means.
+
+**[01:21:39.500] Atty. Gerardo F. del Rosario**  
+Well, ang audited financial statement po ay yung structured data about financial condition ng isang korporasyon kung saan na ito ay sinuri pa ng isang external auditor. Malaman kung ang mga accounting standards ay nasunod.
+
+**[01:21:55.260] Atty. Erwin G. Matib**  
+Kanina po galing yung financial information na nakalagay sa audited FS?
+
+**[01:22:00.080] Atty. Gerardo F. del Rosario**  
+Nanggaling
+
+**[01:22:00.700] Atty. Erwin G. Matib**  
+po sa kumpanya. And then, ano po ang gagawin ng external auditor?
+
+**[01:22:04.500] Atty. Gerardo F. del Rosario**  
+Well, ibabalidate po niya kung ang mga information is in accordance with the Proscribed accounting standards.
+
+**[01:22:12.910] Atty. Erwin G. Matib**  
+Punta nga tayo sa isang example ng audited financial statements.
+
+**[01:22:40.230] Atty. Erwin G. Matib**  
+Particularly, Your Honor, we would like to show Exhibit P-R2-2-6-2-H which is the audited financial statements for the year 2024.
+
+**[01:23:07.150] Atty. Erwin G. Matib**  
+For Metro City Chow Foods Corporation.
+
+**[01:23:37.720] Atty. Gerardo F. del Rosario**  
+Hawak ko na po.
+
+**[01:23:38.920] Atty. Erwin G. Matib**  
+Hawak niyo na. Ngayon, puntahan niyo yung page 4 ng audited financial statements.
+
+**[01:23:58.670] Atty. Erwin G. Matib**  
+Okay, ando na po ba kayo sa page 4?
+
+**[01:24:02.540] Atty. Erwin G. Matib**  
+Nando na po. Ano yung title ng document na lumalabas dyan sa page 4?
+
+**[01:24:08.440] Atty. Gerardo F. del Rosario**  
+Ito po yung Statement of Management Responsibility for Financial Statements.
+
+**[01:24:13.550] Atty. Erwin G. Matib**  
+Pwede ba natin basahin yung first paragraph ng statement na yan?
+
+**[01:24:21.230] Atty. Gerardo F. del Rosario**  
+Ayon po dito sa SMR ng Metro City Chow Food Corporation, the management of Metro City Chow Food Corporation is responsible for the preparation and fair presentation of the financial statement for the years ended December 31, 2024 and 2023 in accordance with the prescribed financial reporting framework indicated therein.
+
+**[01:24:47.230] Atty. Gerardo F. del Rosario**  
+And
+
+**[01:24:47.610] Atty. Gerardo F. del Rosario**  
+for such internal control, as punishment determined is necessary to enable the preparation of financial statement that are free from material statement whether due to fraud or error.
+
+**[01:25:00.170] Atty. Erwin G. Matib**  
+Sige po. Punta po tayo sa pangatlo na paragraph. Ano pong sinasabi sa linyang yan?
+
+**[01:25:09.340] Atty. Gerardo F. del Rosario**  
+The board of directors is responsible for overseeing the company's financial reporting process.
+
+**[01:25:15.640] Atty. Erwin G. Matib**  
+How about yung susunod po na linya? Pakibasa po.
+
+**[01:25:19.240] Atty. Gerardo F. del Rosario**  
+The Board of Directors review and approve the financial statements and submit the same to the stockholders. To the what po?
+
+**[01:25:28.020] Atty. Erwin G. Matib**  
+Stockholders po. Stockholders.
+
+**[01:25:31.790] Atty. Erwin G. Matib**  
+Napansin ko po na notaryado itong Statement of Management Responsibility.
+
+**[01:25:37.790] Atty. Erwin G. Matib**  
+Tama po ba?
+
+**[01:25:39.030] Atty. Gerardo F. del Rosario**  
+Oo, may notary po.
+
+**[01:25:40.110] Atty. Erwin G. Matib**  
+So, sworn statement din po ito kung ganun?
+
+**[01:25:45.680] Atty. Gerardo F. del Rosario**  
+Oo po,
+
+**[01:25:46.380] Atty. Gerardo F. del Rosario**  
+yun po ang nakalagay.
+
+**[01:25:47.480] Atty. Erwin G. Matib**  
+So, ano po ba itong Statement of Management Responsibility? At bakit po ito kailangan?
+
+**[01:25:53.190] Atty. Gerardo F. del Rosario**  
+Isa po ito sa mga, well, requirement para tanggapin namin ang financial statement ng isang kumpanya. Kasama nga narin po rito yung unang binanggit kahapon about the stamp, the receiving ng BAR. Ito po yung pangalawa na tinitingnan namin na dapat maging parte ng financial statement. Ang nagsasabi na ang accountability dito ay ang board of trustees o directors.
+
+**[01:26:19.130] Atty. Erwin G. Matib**  
+Ano po ulit? Ang accountability ay?
+
+**[01:26:21.980] Atty. Gerardo F. del Rosario**  
+Ang board of directors po.
+
+**[01:26:23.440] Atty. Erwin G. Matib**  
+So sila po ang accountable?
+
+**[01:26:24.780] Atty. Gerardo F. del Rosario**  
+Base rin po sa nakasulat dito.
+
+**[01:26:29.430] Atty. Erwin G. Matib**  
+Ngayon, puntahan natin yung notes dyan sa financial statements na iyan.
+
+**[01:26:45.330] Atty. Erwin G. Matib**  
+Punta tayo sa page 13.
+
+**[01:27:03.530] Atty. Erwin G. Matib**  
+Page 13, nandun po ba kayo? Note 1, corporate information?
+
+**[01:27:09.180] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[01:27:13.400] Atty. Erwin G. Matib**  
+Pwede ba nating basahin yung second paragraph ng note 1 na iyan?
+
+**[01:27:22.890] Atty. Gerardo F. del Rosario**  
+Ayon po sa second paragraph nito, the accompanying financial statements of the company as at and for the day, years 2024 and 2023 were approved and authorized by its Board of Directors on March 31, 2025.
+
+**[01:27:42.760] Atty. Erwin G. Matib**  
+Ano po
+
+**[01:27:43.540] Atty. Erwin G. Matib**  
+ang ibig sabihin
+
+**[01:27:44.140] Atty. Gerardo F. del Rosario**  
+na yan? Ibig sabihin lang po nito ay yung financial statement nito ay inaproobahan at inauthorized ng Board of Directors sa Petyang March 31, 2025.
+
+**[01:27:57.780] Atty. Erwin G. Matib**  
+Thank
+
+**[01:27:59.310] Atty. Erwin G. Matib**  
+you. At ano ko ang interest ulit o role ni VP Sara sa Metro City Chow Foods Corporation?
+
+**[01:28:09.080] Atty. Justin Nicol B. Gular**  
+Objection, Your Honor. Hasn't answered. And already answered that he has no personal knowledge.
+
+**[01:28:17.940] Sen. Francis "Chiz" G. Escudero**  
+No, on Metro Chow. Based on the documents submitted. Yes, sir.
+
+**[01:28:23.250] Sen. Francis "Chiz" G. Escudero**  
+Witness may answer?
+
+**[01:28:24.730] Atty. Gerardo F. del Rosario**  
+Ayon po sa general information sheet ng Metro City Chow Foods Corporation from 2018 to 2025 nag-a-appear po na si VP Sara Duterte po ay member of the Board of Directors at stockholder ng nasabing kumpanya.
+
+**[01:28:45.400] Atty. Erwin G. Matib**  
+Thank you.
+
+**[01:28:48.600] Atty. Erwin G. Matib**  
+At based po sa Section 22 ng Revised Corporation Code, ano pa ang sinasabi ng section na ito tungkol sa Board of Directors?
+
+**[01:28:58.640] Atty. Gerardo F. del Rosario**  
+Well, ang Board of Directors po ang
+
+**[01:29:02.980] Atty. Gerardo F. del Rosario**  
+Siya po ang section
+
+**[01:29:09.330] Atty. Gerardo F. del Rosario**  
+22 po is about
+
+**[01:29:11.450] Atty. Erwin G. Matib**  
+Maaari ko ba kayong bigyan ng kopya ng revised corporation code section 2020 ah para mabasa niyo ang section 22.
+
+**[01:29:21.350] Atty. Gerardo F. del Rosario**  
+To exercise corporate powers yung post siguro yan.
+
+**[01:29:33.510] Atty. Erwin G. Matib**  
+First paragraph lang ako.
+
+**[01:29:38.620] Sen. Francis "Chiz" G. Escudero**  
+For the record, assisting counsel is showing Attorney Del Rosario a copy of the revised corporation code RCC for brevity.
+
+**[01:29:52.910] Atty. Gerardo F. del Rosario**  
+Section 22 of RCC, the Board of Directors or Trustee of the Corporation, Qualification.
+
+**[01:30:11.100] Atty. Gerardo F. del Rosario**  
+So
+
+**[01:30:20.520] Atty. Erwin G. Matib**  
+anong ibig sabihin niyang nabasa ninyo?
+
+**[01:30:27.940] Atty. Gerardo F. del Rosario**  
+So
+
+**[01:30:31.760] Atty. Gerardo F. del Rosario**  
+may
+
+**[01:30:39.660] Atty. Erwin G. Matib**  
+control ang board sa properties na mapuba?
+
+**[01:30:43.310] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[01:30:53.630] Atty. Erwin G. Matib**  
+Meron po ba kayong natanggap? Tinatanong po kanina na itong mga GIS or AFS ay mga filings galing sa corporations. Tama po ba?
+
+**[01:31:04.370] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:31:05.790] Atty. Erwin G. Matib**  
+Nakatanggap po ba kayo ever ng any information mula sa mga kumpanya based sa mga sinertify nyo na documents na may mali o may dapat baguhin sa mga nakadeklara doon?
+
+**[01:31:19.690] Atty. Gerardo F. del Rosario**  
+With respect po sa request for Correction. Wala po. Pero meron pong amendments. Hindi ko lang po alam kung dahil sa pagkakamali o meron lang po silang i-update.
+
+**[01:31:31.100] Atty. Erwin G. Matib**  
+Okay. So that would be all for Redirect, Your Honor.
+
+**[01:31:34.760] Sen. Francis "Chiz" G. Escudero**  
+Henry Cross, Maturin Justin.
+
+**[01:31:39.080] Atty. Justin Nicol B. Gular**  
+Sorry, Your Honor. Just a few questions.
+
+**[01:31:43.130] Atty. Justin Nicol B. Gular**  
+First, kanina sa Redirect examination, kinumpirman niyo na ang audited financial statement ay aprobado ng Board of Directors. Tama po ba? Ayon po sa nakasulat sa financial statement
+
+**[01:31:55.950] Atty. Gerardo F. del Rosario**  
+ng kumpanya.
+
+**[01:31:56.790] Atty. Justin Nicol B. Gular**  
+Pero hindi din naman kayo aware whether nag-participate yung vice-presidente sa pag-aproba nito?
+
+**[01:32:02.920] Atty. Gerardo F. del Rosario**  
+Well, on personal knowledge, kung merong nangyaring ganito, hindi po namin alam but we just rely on what is written in the document.
+
+**[01:32:09.360] Atty. Justin Nicol B. Gular**  
+In fact, quorum lang naman po yung required para ma-approve yung audited financial statement. Hindi kailangan lahat ng director. Tama po ba? Depende
+
+**[01:32:17.180] Atty. Gerardo F. del Rosario**  
+po sa provision nila sa articles. Kung kinakailangan ng higher quorum, then they should respect the higher quorum. Correct. Pero kung basic na basic, it should be majority.
+
+**[01:32:25.960] Atty. Justin Nicol B. Gular**  
+Maraming salamat. Naupuntahan po natin yung eleksyon ng corporate secretary. Ito po ay ginagawa sa ating organizational meeting. Tama po ba?
+
+**[01:32:33.920] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:32:34.800] Atty. Justin Nicol B. Gular**  
+At hindi nyo rin po alam whether nag-participate yung vice-presidente sa organizational meeting.
+
+**[01:32:40.380] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:32:41.190] Atty. Justin Nicol B. Gular**  
+At pwede naman po na hindi lahat ng mga stockholder or board of directors mag-participate sa mga annual meetings. Tama po ba?
+
+**[01:32:49.070] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:32:49.705] Atty. Justin Nicol B. Gular**  
+Last question, kilala niyo ba si Gurley de la Cruz personally?
+
+**[01:32:53.100] Atty. Gerardo F. del Rosario**  
+Hindi po.
+
+**[01:32:54.190] Atty. Justin Nicol B. Gular**  
+No further questions.
+
+**[01:32:57.710] Sen. Francis "Chiz" G. Escudero**  
+We now proceed to the interjections of Senator Judges. Hopefully, we can finish with the Attorney de la Rosaria before lunch and move on to the next witness, Mr. Supena, when we resume after lunch. The first to register is Senator Judge Erwin Tulfo.
+
+**[01:33:19.580] Sen. Francis "Chiz" G. Escudero**  
+You have two minutes, sir. You may proceed when you're ready.
+
+**[01:33:24.270] Sen. Erwin Tulfo**  
+Thank you, Mr. Presiding Officer. Ito po sa ating testigo. Mr. Witness, itong JTC Group of Companies, ito po ba yung ibig sabihin po ng JTC's Jaime Tan Cruz?
+
+**[01:33:40.480] Atty. Gerardo F. del Rosario**  
+Wala pong disclosure sa Articles of Incorporation under the corporate name na JTC stands for Jaime T. Cruz.
+
+**[01:33:47.820] Sen. Erwin Tulfo**  
+Okay.
+
+**[01:33:50.160] Sen. Erwin Tulfo**  
+May mga nakikita po ba kayo sa inyong dokumento po sa SEC? na either Incorporator or Board of Director si Jaime Tan Cruz sa City Hall King Chow Foods Corporation.
+
+**[01:34:04.700] Atty. Gerardo F. del Rosario**  
+Silipin ko lang po sandali yung aking notes.
+
+**[01:34:06.800] Sen. Erwin Tulfo**  
+Sige po.
+
+**[01:34:33.280] Atty. Gerardo F. del Rosario**  
+Meron po.
+
+**[01:34:34.220] Sen. Erwin Tulfo**  
+Alright. Sa Metro City Chow Foods Corporation, lumalabas diba ang pangalan ng Jaime Tan Cruz?
+
+**[01:34:43.210] Atty. Gerardo F. del Rosario**  
+Lumalabas po yung pangalan ni Jaime T. Cruz sa Metro City Chow Food Corporation based po sa Articles of Incorporation. Sa
+
+**[01:34:49.990] Sen. Erwin Tulfo**  
+Great Jolly Times Food Corporation, nandyan din ba ang pangalan ni Jaime Tan Cruz?
+
+**[01:34:56.170] Atty. Gerardo F. del Rosario**  
+Nandyan din po.
+
+**[01:34:57.480] Sen. Erwin Tulfo**  
+Sa Dabao New Royal Taipan Foods Corporation, nandyan din ba ang pangalan ni Jaime Tan Cruz?
+
+**[01:35:03.910] Atty. Gerardo F. del Rosario**  
+Nandyan po.
+
+**[01:35:05.115] Sen. Erwin Tulfo**  
+Sa Dabao Emerging Taipans Corporation, nandyan din ba ang pangalan niya?
+
+**[01:35:10.740] Atty. Gerardo F. del Rosario**  
+Nandyan din po.
+
+**[01:35:12.080] Sen. Erwin Tulfo**  
+Sa Davao Bounty Times Food Corporation, nag-a-appear din ba ang pangalan niya dyan?
+
+**[01:35:19.080] Atty. Gerardo F. del Rosario**  
+Nandun din po ang pangalan niya.
+
+**[01:35:20.820] Sen. Erwin Tulfo**  
+Okay. Dito sa JCT Group of Companies, lumalabas ba na Jaime Tan Cruz ang chairman po nito?
+
+**[01:35:37.340] Sen. Francis "Chiz" G. Escudero**  
+Assisting counsel, kindly assist Atty. Del Rosario, JTC.
+
+**[01:35:52.690] Sen. Francis "Chiz" G. Escudero**  
+Just to remind Senator-Judge Irwin, the reason why the witness is having a difficult time is because both JTC and Pikimon Corporations were not subpoenaed by the court because the name of the Vice President does not appear.
+
+**[01:36:13.800] Sen. Erwin Tulfo**  
+Yes, sir.
+
+**[01:36:14.860] Sen. Francis "Chiz" G. Escudero**  
+as one of the shareholders in the GIS of that corporation. And
+
+**[01:36:18.560] Sen. Erwin Tulfo**  
+as you correctly
+
+**[01:36:19.080] Sen. Francis "Chiz" G. Escudero**  
+pointed out, JTC might mean that person that you're mentioning.
+
+**[01:36:22.360] Sen. Erwin Tulfo**  
+Okay, well, anyway, I'll move on, Mr. Presiding Officer. Then, let me ask our prosecutor.
+
+**[01:36:34.510] Sen. Erwin Tulfo**  
+Maybe he can answer this or any of the members of the prosecution team.
+
+**[01:36:43.320] Sen. Erwin Tulfo**  
+Mr. Prosecutor, Ito po bang si Jaime Tan Cruz? Is this the same person? Basi po sa inyong pag-iimbestiga po dito po sa House Prosecution. Ito po bang Jaime Tan Cruz na ito is the same person na na-appoint mo po na dating Pangulong Duterte as a special envoy to China for trade and investment?
+
+**[01:37:10.440] Atty. Erwin G. Matib**  
+Yes, Your Honor. The same name, Your Honor. Same person. Is
+
+**[01:37:14.000] Sen. Erwin Tulfo**  
+he the same person na inoferan po ng dating Pangulong Duterte na maging chairman po ng PhilHealth pero tinanggihan niya po?
+
+**[01:37:23.340] Atty. Erwin G. Matib**  
+Yes, Your Honor.
+
+**[01:37:24.680] Sen. Erwin Tulfo**  
+If I'm not mistaken, tama po ba October 2019 po nung siya po ay na-appoint bilang Special Envoy to China for Trade and Investment?
+
+**[01:37:36.000] Atty. Erwin G. Matib**  
+I'm not sure about the date but he was appointed, Your Honor.
+
+**[01:37:39.740] Sen. Erwin Tulfo**  
+And then after that, tinanggihan niya na po after he stinted as an envoy, inoperan po siya bilang chairman po ng PhilHealth pero he denied or he did not accept.
+
+**[01:37:52.800] Atty. Erwin G. Matib**  
+I believe so, Your Honor.
+
+**[01:37:54.160] Sen. Erwin Tulfo**  
+So this is one and the same person, is that correct?
+
+**[01:37:57.190] Atty. Gerardo F. del Rosario**  
+Yes, Your Honor.
+
+**[01:37:57.870] Sen. Erwin Tulfo**  
+I have no further questions, Mr. Presiding Officer.
+
+**[01:38:01.560] Sen. Francis "Chiz" G. Escudero**  
+Senator-Judge Rafi Tulfo is recognized for his interjection.
+
+**[01:38:11.030] Sen. Francis "Chiz" G. Escudero**  
+You may proceed when you're ready, sir. You have two minutes.
+
+**[01:38:16.910] Sen. Raffy T. Tulfo**  
+Mr. Witness, are you familiar with the Securities Regulation Code RA 8799?
+
+**[01:38:22.315] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[01:38:24.030] Sen. Raffy T. Tulfo**  
+Under the Securities Regulation Code, anong definition ng securities doon?
+
+**[01:38:31.780] Atty. Gerardo F. del Rosario**  
+Napakalawak po ng definition ng securities. Kabilang na rin po dyan yung securities po tulad po ng shares of stock o anumang intangible na pwedeng ibigay as investment. Isang produkto ng investment. Maaring investment contract na forms under the ambit of securities po.
+
+**[01:38:57.110] Sen. Raffy T. Tulfo**  
+Tama po. Securities po yan.
+
+**[01:39:03.210] Sen. Raffy T. Tulfo**  
+Tama po.
+
+**[01:39:17.580] Sen. Raffy T. Tulfo**  
+So, ayon sa Article 7, Section 13, bawal sa isang government official tulad ng VP o presidente na magkaroon ng participation in any company. Ayon po sa nakasaad sa ating Constitution. That's violation of the Constitution, right? Opo. Thank you. That's all.
+
+**[01:39:37.660] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Tulfo. The Senate President is recognized.
+
+**[01:39:43.430] Sen. Sherwin T. Gatchalian**  
+You
+
+**[01:39:43.910] Sen. Francis "Chiz" G. Escudero**  
+have two minutes, sir. You may proceed when you're ready.
+
+**[01:39:45.450] Sen. Sherwin T. Gatchalian**  
+Thank you. Thank you very much, Mr. Presiding Officer. Good morning, Atty. Delosario.
+
+**[01:39:50.290] Atty. Gerardo F. del Rosario**  
+Good morning.
+
+**[01:39:50.900] Sen. Sherwin T. Gatchalian**  
+Good morning sa aking kababayan na taga-Valenzuela.
+
+**[01:39:54.430] Atty. Gerardo F. del Rosario**  
+Magandang umaga po.
+
+**[01:39:57.430] Sen. Sherwin T. Gatchalian**  
+Atty., tinitignan ko pa itong summary na pinadala ninyo or ang ginawa ninyo.
+
+**[01:40:05.700] Sen. Sherwin T. Gatchalian**  
+Tama po ba na sa lahat po ng mga corporations na may kaugnayan kay Vice President Sara at kay Manassas Carpio, wala pong ni isa nag-declare ng dividends?
+
+**[01:40:18.960] Atty. Gerardo F. del Rosario**  
+Tama po. Wala pong informasyon kung nag-deklara sila ng dividendo.
+
+**[01:40:22.820] Sen. Sherwin T. Gatchalian**  
+Okay. So, ibig sabihin kung merong, kung babangga po namin ito sa SAL-N, hindi po pwedeng manggaling sa mga corporations niya yung paglaki ng kanyang net worth.
+
+**[01:40:36.240] Sen. Sherwin T. Gatchalian**  
+Tama po ba? Dahil kung by process of elimination, titignan natin yung mga corporations, pwede na nating i-rule out yung corporations.
+
+**[01:40:44.350] Atty. Gerardo F. del Rosario**  
+Kung ayon po rito at wala po siyang natanggap na beneficiary yung dividendo, hindi ko po alam kung mayroon po siyang may dideklarang kinita out of this company.
+
+**[01:40:53.110] Sen. Sherwin T. Gatchalian**  
+Correct. Pwede sa ibang source. Hindi lang dito sa corporations.
+
+**[01:40:58.510] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:40:59.660] Sen. Sherwin T. Gatchalian**  
+Tapos tinitignan ko rin po yung mga corporations.
+
+**[01:41:04.810] Sen. Sherwin T. Gatchalian**  
+Maliban sa GenCorp, Davao Emerging Taipans, SGT Fortune Horse,
+
+**[01:41:13.950] Sen. Sherwin T. Gatchalian**  
+Mati Ice Plant. Halos lahat po ay lugi.
+
+**[01:41:18.340] Sen. Sherwin T. Gatchalian**  
+Tama po. Itong kaso lang, ito si GenCorp, hindi naman po shareholder on record si Vice President Sara.
+
+**[01:41:27.200] Atty. Gerardo F. del Rosario**  
+Tama po sa GenCorp.
+
+**[01:41:28.660] Sen. Sherwin T. Gatchalian**  
+So yung may connection lang kay Atty. Manases at kay Vice President Sara ay Mati Ice Plant, Davao Merging Taipan, sa SGT. Ito lang yung kumita. The rest, tinitignan ko dito sa summary, lugi po siya. Tama po. And therefore, hindi ho makakadeclare ng dividends dahil lugi nga eh.
+
+**[01:41:51.630] Atty. Gerardo F. del Rosario**  
+Yung pong mga deficit ang retained earnings po, hindi po makakapag-declare ng dividendo.
+
+**[01:41:56.630] Sen. Sherwin T. Gatchalian**  
+Correct.
+
+**[01:41:56.950] Sen. Sherwin T. Gatchalian**  
+Kakain pa nga yan sa capital niya. Tama
+
+**[01:41:59.450] Atty. Gerardo F. del Rosario**  
+po.
+
+**[01:42:00.970] Sen. Sherwin T. Gatchalian**  
+Yung mga corporations na hindi ho nagde-declare, ito, I'll jump to another topic. Yung mga corporations na hindi ho nagpa-file ng GIS,
+
+**[01:42:13.000] Sen. Sherwin T. Gatchalian**  
+EFS, yung audited financial statements. Hindi niyo ba pinapenalize yan sa inyong departamento dahil importanteng mga source of information to?
+
+**[01:42:24.990] Atty. Gerardo F. del Rosario**  
+Yan po ay isang trabaho ng aking departamento, i-monitor yung kailang compliance na kung saan kung ang korporasyon, stockman o non-stock ay hindi nakapagsubmitin ang nasabing report, pinapadala po namin sila ng notice to submit. At kung magpapatuloy na hindi sila magsubmit na report, maaari po namin i-revoke yung kanilang Certificate of Registration.
+
+**[01:42:48.440] Sen. Sherwin T. Gatchalian**  
+May mga nakita ko ang corporations dito na matagal nang hindi na sasubmit. Meron ba kayong pinadang letter sa kanila para i-compel sila magsubmit? At kung meron, anong action? At kung wala, meron ba kayong mga penalties na i-impose dito sa mga corporations?
+
+**[01:43:06.260] Atty. Gerardo F. del Rosario**  
+Meron po. In fact, may dala po ako rito yung monitoring sheet about their violations.
+
+**[01:43:15.830] Atty. Gerardo F. del Rosario**  
+Kapag notified po ang JS, pati na rin po ang financial statement, meron po akong hawak dito. At yung iba naman po sa mga nasabing korporasyon ay na-rebalk na namin o dili kaya ay nagpa-dissolve na sila. o nag-shorten ang corporate term.
+
+**[01:43:36.760] Sen. Sherwin T. Gatchalian**  
+Meron
+
+**[01:43:37.280] Atty. Gerardo F. del Rosario**  
+po
+
+**[01:43:37.380] Sen. Sherwin T. Gatchalian**  
+ako.
+
+**[01:43:44.210] Sen. Sherwin T. Gatchalian**  
+Yung kasama
+
+**[01:43:46.390] Atty. Gerardo F. del Rosario**  
+po sa pangalan ng mga kumpanya ito ay itong CYKNT Davao Corporation. Narevoke po namin ito noong 2018 dahil hindi po nagsasubmit ng report.
+
+**[01:43:59.790] Atty. Gerardo F. del Rosario**  
+Ito pong SGT Fortune Horse Corporation. Nag-shorten na po ito ng corporate term. Ang buhay po nila hanggang July 29, 2017 na lang po.
+
+**[01:44:12.350] Atty. Gerardo F. del Rosario**  
+At mayroon pa pong isa.
+
+**[01:44:17.830] Atty. Gerardo F. del Rosario**  
+Ito pong Three Kids Racking Services Incorporated na nag-shorten din po ng kanyang term until July 24, 2017.
+
+**[01:44:27.230] Sen. Sherwin T. Gatchalian**  
+So ito mga ito ay by... Dahil po sa mandato ninyo, sila po ay na-revoke na yung kanilang incorporation.
+
+**[01:44:36.060] Atty. Gerardo F. del Rosario**  
+Yung isa po, yung dalawa po, sila po mismo ang kusang nag-file ng application to shorten the corporate term.
+
+**[01:44:41.580] Sen. Sherwin T. Gatchalian**  
+So, obviously, hindi rin ito pwede maging source ng income sa paglaki ng net worth ni VP Sara.
+
+**[01:44:49.430] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:44:50.280] Sen. Sherwin T. Gatchalian**  
+Thank you, Mr. Presiding Officer.
+
+**[01:44:53.710] Sen. Francis "Chiz" G. Escudero**  
+Senator-Judge Hontiveros is recognized. You may proceed, ma'am, when you're ready. There is no one else except for me, though. A Senator-Judge Pangilinan din before Senator-Judge Hontiveros.
+
+**[01:45:07.660] Sen. Francis "Chiz" G. Escudero**  
+You
+
+**[01:45:08.180] Sen. Francis "Chiz" G. Escudero**  
+may proceed, sir, when you're ready. You have two minutes. Thereafter, Senator-Judge Hontiveros.
+
+**[01:45:13.400] Sen. Francis Pangilinan**  
+Thank you
+
+**[01:45:14.060] Sen. Francis "Chiz" G. Escudero**  
+very much.
+
+**[01:45:14.260] Sen. Francis "Chiz" G. Escudero**  
+Let's try to
+
+**[01:45:14.580] Sen. Francis "Chiz" G. Escudero**  
+wrap up with this witness before lunch.
+
+**[01:45:16.630] Sen. Francis Pangilinan**  
+Magandang umaga, Attorney...
+
+**[01:45:18.860] Atty. Gerardo F. del Rosario**  
+Magandang umaga po.
+
+**[01:45:20.080] Sen. Francis Pangilinan**  
+...Del Rosario. Tama ba na doon sa GIS ng GenCorp ay ang kumpanyang JTC Group ay
+
+**[01:45:32.280] Sen. Francis Pangilinan**  
+Nasa list ng shareholders.
+
+**[01:46:06.620] Atty. Gerardo F. del Rosario**  
+ayon po sa 2025 GIS ng GenCorp Industries Inc., si JTC Group of Companies po ay shareholders ng nasabing korporasyon.
+
+**[01:46:18.800] Sen. Francis Pangilinan**  
+At ilang porsyento ng shares ang pag-aari ng JTC Group sa GenCorp?
+
+**[01:46:27.850] Atty. Gerardo F. del Rosario**  
+Ayon po rito meron po siyang 54.99% ownership.
+
+**[01:46:32.850] Sen. Francis Pangilinan**  
+So majority ng GENCORP is owned by JTC?
+
+**[01:46:39.350] Atty. Gerardo F. del Rosario**  
+Tama po. Ayon po dito.
+
+**[01:46:41.300] Sen. Francis Pangilinan**  
+Okay. Hindi ba may requirement ng disclosure as to sino talaga ang may control ng GENCORP sa SEC?
+
+**[01:46:52.460] Atty. Gerardo F. del Rosario**  
+Yan po yung mga, yung pong informasyon na yan ay nakasaad sa ating, sa aming BO declaration form.
+
+**[01:46:58.945] Sen. Francis Pangilinan**  
+Ano yung BO?
+
+**[01:47:00.630] Atty. Gerardo F. del Rosario**  
+Beneficial Ownership
+
+**[01:47:02.090] Atty. Gerardo F. del Rosario**  
+Declaration.
+
+**[01:47:02.580] Sen. Francis Pangilinan**  
+So, required yan?
+
+**[01:47:04.750] Atty. Gerardo F. del Rosario**  
+Kailangan po.
+
+**[01:47:05.900] Sen. Francis Pangilinan**  
+So, would you have that document? Sino ang beneficial owner ng JTC Corporation?
+
+**[01:47:15.790] Atty. Gerardo F. del Rosario**  
+Gaya po nang nasabi ko, sinusubite po yan sa SEC pero wala po sa aming pangangalaga sa aking departamento ang kopya na yan.
+
+**[01:47:22.890] Sen. Francis Pangilinan**  
+So, in other words, based on the documents, ang JTC Corporation ang majority stockholder ng GenCorp.
+
+**[01:47:36.840] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:47:38.445] Sen. Francis Pangilinan**  
+Para lang sa ating mga kababayan, pag majority stockholder ka,
+
+**[01:47:46.970] Sen. Francis Pangilinan**  
+Ano ang mga kapangyarihan na meron ka bilang majority stockholder ng isang kumpanya?
+
+**[01:47:54.815] Atty. Gerardo F. del Rosario**  
+Meron po kayong guaranteed seat sa board.
+
+**[01:48:00.380] Sen. Francis Pangilinan**  
+Mataas
+
+**[01:48:01.080] Atty. Gerardo F. del Rosario**  
+ang iyong dibidendo kung meron po mang dideklara.
+
+**[01:48:15.490] Atty. Gerardo F. del Rosario**  
+Gawa po ng malaking porsyento rin po yung board na maaari mong ilagay sa board directors. Malaking porsyento din po about control or decision
+
+**[01:48:27.070] Atty. Gerardo F. del Rosario**  
+ang magagawa mo.
+
+**[01:48:28.200] Sen. Francis Pangilinan**  
+So pwede mong tanggalin ang presidente with 54% of the votes of the shares at palitan?
+
+**[01:48:35.410] Atty. Gerardo F. del Rosario**  
+Kung presidente po, opo.
+
+**[01:48:37.190] Sen. Francis Pangilinan**  
+Pwede rin palitan ang members of the board?
+
+**[01:48:41.045] Atty. Gerardo F. del Rosario**  
+Meron pong required votes na two-thirds.
+
+**[01:48:43.350] Sen. Francis Pangilinan**  
+Yes, tama. Two-thirds pagka Board of Directors. Pero yung Presidente, Treasurer, pwede ng majority.
+
+**[01:48:55.030] Atty. Gerardo F. del Rosario**  
+Tama po. Ang Presidente, solong na hindi mo siya tatanggalin as member of the Board.
+
+**[01:48:59.150] Sen. Francis Pangilinan**  
+Yes. So in other words, JTC na ang beneficial owner or ang major shareholder ng GenCorp, pwede palitan. Yung presidente ng GENCO.
+
+**[01:49:12.370] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:49:13.490] Sen. Francis Pangilinan**  
+Okay. Hindi ba dapat, well, I will leave that to the presiding officer, but perhaps at this time, we should be able to subpoena the records, should we, after the presentation, of course, of both panels, the corporate documents and records of JTC.
+
+**[01:49:40.150] Sen. Francis Pangilinan**  
+But I will address that or we will tackle that later on.
+
+**[01:49:49.940] Sen. Francis "Chiz" G. Escudero**  
+The chair will take it under advisement and shall await action emanating from the panel of prosecutors, Senator-Judge Pangilinan. Thank you. And will act accordingly thereafter.
+
+**[01:50:01.470] Sen. Francis Pangilinan**  
+So kung
+
+**[01:50:05.450] Sen. Francis Pangilinan**  
+ang JTC ay stockholder ng GenCorp, kailangan,
+
+**[01:50:15.770] Sen. Francis Pangilinan**  
+yes, just to place it on record, we must Know who JTC, who the stockholders are of JTC because they ultimately control or at least through, I mean GenCorp.
+
+**[01:50:33.870] Sen. Francis Pangilinan**  
+Okay.
+
+**[01:50:36.580] Sen. Francis Pangilinan**  
+Tama ba na sa GenCorp, stockholder ang City Hall, may mga officers at stockholders ng GenCorp na sila rin ay nasa City Hall Chow Foods Corporation?
+
+**[01:50:51.300] Sen. Francis Pangilinan**  
+Just to...
+
+**[01:50:54.370] Atty. Gerardo F. del Rosario**  
+Ayon
+
+**[01:51:21.730] Atty. Gerardo F. del Rosario**  
+po sa GS ng GenCorp, maging ang City Chow Food Corporation, meron po silang common stockholders.
+
+**[01:51:30.640] Sen. Francis Pangilinan**  
+Yes, so City Corp, City Hall, King Chow Foods at GenCorp. Just to wrap up, pati ang Metro City Chow Foods, iba pa yun, meron ding stockholder ang GenCorp sa Metro City
+
+**[01:51:46.830] Atty. Gerardo F. del Rosario**  
+Chow Food. Sa Metro City po meron po.
+
+**[01:51:49.770] Sen. Francis Pangilinan**  
+At meron din sa... Okay. So yung dalawang yun, no? City Hall at Metro ay mayroong shareholders, common shareholders and officers with GenCorp.
+
+**[01:52:02.980] Atty. Gerardo F. del Rosario**  
+Tama po. City Hall, Metro and... City
+
+**[01:52:06.650] Atty. Gerardo F. del Rosario**  
+Hall, Metro and GenCorp.
+
+**[01:52:08.220] Sen. Francis Pangilinan**  
+And GenCorp is majority shareholder is JTC.
+
+**[01:52:13.340] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:52:14.400] Sen. Francis Pangilinan**  
+Okay. No other questions at this first round,
+
+**[01:52:18.030] Sen. Francis "Chiz" G. Escudero**  
+Mr. President?
+
+**[01:52:18.570] Sen. Francis Pangilinan**  
+Thank you. Thank
+
+**[01:52:19.310] Sen. Francis "Chiz" G. Escudero**  
+you, Senator-Judge Pangilinan. Senator-Judge Hontiveros.
+
+**[01:52:31.490] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Magandang umaga po muli, Atty. Del Rosario.
+
+**[01:52:36.010] Atty. Gerardo F. del Rosario**  
+Magandang umaga po, ma'am.
+
+**[01:52:37.840] Sen. Risa Hontiveros**  
+Sir, ayon po sa mga records ng SEC, paano niyo po malalaman kung magkano ang binayad ni VP Duterte at o ng asawa niya para sa mga shares sa isang kumpanya?
+
+**[01:52:53.560] Atty. Gerardo F. del Rosario**  
+Ang information lamang po na Masasabi namin kung magkano ay kung ano ang nakatala sa kanyang Articles of Incorporation.
+
+**[01:53:01.530] Sen. Risa Hontiveros**  
+So malalaman po ng SEC yun kung sa Articles of Incorporation.
+
+**[01:53:05.930] Atty. Gerardo F. del Rosario**  
+Yung figure po na nakalagay as paid up capital, yun po yung alam kong parte ng kanyang binayad na investment. Under
+
+**[01:53:13.430] Sen. Risa Hontiveros**  
+paid up capital.
+
+**[01:53:15.810] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[01:53:16.730] Sen. Risa Hontiveros**  
+Okay.
+
+**[01:53:18.750] Sen. Risa Hontiveros**  
+Posible po ba na mas malaki ang binayad niya o nila kesa sa par value ng shares na yun?
+
+**[01:53:27.450] Atty. Gerardo F. del Rosario**  
+Nangyayari naman po na merong additional paid-in capital.
+
+**[01:53:32.490] Atty. Gerardo F. del Rosario**  
+Pero
+
+**[01:53:33.130] Atty. Gerardo F. del Rosario**  
+base po sa dokumentong ito, wala naman po nagpapakita na meron siyang APIC. Na merong? APIC, yung additional paid-in capital.
+
+**[01:53:41.270] Sen. Risa Hontiveros**  
+Okay. So, hindi nyo ito makikita kahit saan?
+
+**[01:53:46.810] Atty. Gerardo F. del Rosario**  
+Sa disclosure po during incorporation, dapat po nakasaad na kung merong siyang premium o APIC. Dahil yan din po ang basehan kung magkano rin po yung dapat bayaran ng kumpanya sa pagpaparehisto ng korporasyon sa amin.
+
+**[01:54:02.650] Sen. Risa Hontiveros**  
+So kung hindi po nakalagay yung APIC o yung premium, hindi nyo po makikita? Opo. Okay po.
+
+**[01:54:12.240] Sen. Risa Hontiveros**  
+Kapag naman po may isang public official na siya mismo ang nagdeklara sa kanyang salin na meron siyang interest sa isang kumpanya, Pero yung pangalan niya ay hindi po nag-a-appear doon sa GIS bilang stockholder.
+
+**[01:54:33.390] Sen. Risa Hontiveros**  
+Hindi ba yun precisely isang bagay yun na dapat tignan o i-review, mag-take action ng SEC?
+
+**[01:54:43.220] Atty. Gerardo F. del Rosario**  
+Unang-una po ma'am, wala po kaming access on the SAL-N. Therefore, hindi po namin alam kung yung mga kumpanyang in
+
+**[01:54:51.120] Atty. Gerardo F. del Rosario**  
+-list niya roon ay talagang kabilang siya.
+
+**[01:54:56.080] Sen. Risa Hontiveros**  
+So, paano po ba tinatrato itong ganitong sitwasyon ng inyong ahensya na wala yung pangalan ng isang opisyal bilang stockholder sa GIS pero na pag-aalaman ninyo na siya mismo inilagay yung pangalan niya sa SAL-N?
+
+**[01:55:15.520] Atty. Gerardo F. del Rosario**  
+Wala po kami magiging action dyan. Gawa po ng base sa record namin, hindi naman po talaga siya stockholder. Ngayon, kung meron po siyang allegation sa kanyang SAL-N na Stockholder siya dito pero wala siyang proof on the registration document sa amin. Siguro po, ibang ahensya po siguro dapat mag-investiga on that. Dahil ang mandato lang po namin ay improve ang capital market. In fact, ang mahalaga nga po sa amin ay yung corporate formations na kaya hinihikayat nga po namin sila na magtayo ng kumpanya sa Pilipinas.
+
+**[01:55:54.230] Sen. Risa Hontiveros**  
+Aling ibang ahensya ang dapat mag-imbestiga kung may ganitong sitwasyon na official mismo magsabi sa SAL-N niya kahit wala siya doon sa GIS?
+
+**[01:56:04.250] Atty. Gerardo F. del Rosario**  
+Una po ang SAL-N ay sinusumiti po, ang alam ko, sa Ombudsman. Kaya para nga sa akin po, yung provision sa Constitution, sila rin po sigurang tumingin. Dahil yung provision na po ito, alam ko, hindi naman dapat ipatupad ng ahensya kundi sarili niya mismo alam niya dapat. kung ano yung restriction sa kanya. Ayon sa pagkakaunawa niya sa definisyon dun sa Section 7, Article 7, Section 13.
+
+**[01:56:33.430] Sen. Risa Hontiveros**  
+Kung inilagay sa SAL-N kahit wala siya sa GIS, maituturing ba yan na admission against interest?
+
+**[01:56:46.380] Atty. Gerardo F. del Rosario**  
+Admission against interest. Sa akin po, interest nga po yun eh.
+
+**[01:56:56.370] Sen. Risa Hontiveros**  
+And ano naman po yung ginagawa ng SEC para makita Kung may indirect ownership, beneficial ownership, nominee arrangement, intermediary o iba pang layer ng corporate ownership sa mga kumpanya na isinusumite sa inyo sa mga dokumento.
+
+**[01:57:17.920] Atty. Gerardo F. del Rosario**  
+Iyon nga pong beneficial ownership form. Yun po ang magsisilbing reporting sa amin upang malaman kung sino talaga yung ultimate ownership which should be na dapat ay natural person.
+
+**[01:57:31.790] Sen. Risa Hontiveros**  
+At
+
+**[01:57:31.910] Atty. Gerardo F. del Rosario**  
+maiwasan din po yung mga corporate layering at maipakita rin sino ba talaga ang may control nung nasabing shares of stock.
+
+**[01:57:41.640] Sen. Risa Hontiveros**  
+So dun lamang po sa beneficial ownership form, yun lamang po yung magagawa ninyo para makita kung sino talaga ang nagmamayari at sino talagang nakikinabang sa mga nakadeklara sa mga dokumentong sinusumite sa inyo. Tama po ma'am.
+
+**[01:58:01.080] Sen. Risa Hontiveros**  
+Okay.
+
+**[01:58:03.740] Sen. Risa Hontiveros**  
+So
+
+**[01:58:12.610] Sen. Risa Hontiveros**  
+baka huli po Atty. Del Rosario, ano po yung effect ng isang undeclared beneficial ownership sa pananaw po ng SEC?
+
+**[01:58:23.100] Atty. Gerardo F. del Rosario**  
+Well, alam ko po ay nire-review rin po siya ng aming Enforcement Department.
+
+**[01:58:29.500] Atty. Gerardo F. del Rosario**  
+Ibabase po sa mga submission nila. Kasi kailangan po talagang isubmit yan. We require them to submit fruitful beneficial ownership declaration. Kaya po minomorder din po siya ng aming enforcement department kung natugunan po ng kumpanya ang tamang disclosure. Kung ano po ang penalty, medyo hindi ko po kayang sagutin kung it will revoke the company or what or meron mang monetary penalty dahil hindi nga po kami parte nung pag-review niyan.
+
+**[01:59:03.210] Sen. Risa Hontiveros**  
+Bukod sa undeclared beneficial ownership, ano pa po yung nire-review ninyong enforcement department ng SEC?
+
+**[01:59:11.020] Atty. Gerardo F. del Rosario**  
+Well, ang enforcement po is more on securities violation, investment fraud, investment scam.
+
+**[01:59:23.530] Atty. Gerardo F. del Rosario**  
+Yun po, yung iniimbestigahan po tungkol sa mga violation ng anti-dummy law,
+
+**[01:59:29.270] Atty. Gerardo F. del Rosario**  
+yung
+
+**[01:59:32.040] Atty. Gerardo F. del Rosario**  
+fictitious na mga incorporator, stockholders, paging po yung ultra-virus ay part po ng kanilang iniimbestigahan. So
+
+**[01:59:50.960] Sen. Risa Hontiveros**  
+bukod dun sa undeclared beneficial ownership at yung ilang pang kababanggit ninyo, ano pa sa mga provisions ng Anti-Dummy Law ang nire-review ng inyong enforcement department.
+
+**[02:00:12.290] Atty. Gerardo F. del Rosario**  
+Nabanggit ko na po...
+
+**[02:00:12.930] Sen. Risa Hontiveros**  
+Kung meron pa
+
+**[02:00:13.470] Sen. Risa Hontiveros**  
+po.
+
+**[02:00:13.670] Sen. Risa Hontiveros**  
+Maraming salamat po, Attorney Del Rosario. Salamat po, Mr. Presiding Officer.
+
+**[02:00:20.510] Sen. Francis "Chiz" G. Escudero**  
+To avail of his second round, may I acknowledge for Senator-Judge Bam Aquino, thereafter, Senator-Judge Rafi Tulfo.
+
+**[02:00:34.240] Sen. Paolo Benigno “Bam” Aquino**  
+Magandang araw. Thank you, Mr. Presiding Officer. I forgot this is my second round already.
+
+**[02:00:40.780] Sen. Paolo Benigno “Bam” Aquino**  
+Hindi po ito para kay Atty. Del Rosario. Gusto po nating malaman ano ba ang role ni Vice President Sara Duterte sa GEN Corp. Okay? Hindi talaga ito malalaman ng ating witness. Hindi niyo po yan malalaman, di ba?
+
+**[02:00:57.740] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[02:00:58.640] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. Ang alam lang natin, si Vice President Sara mismo, Yung naglagay ng kumpanyang GenCorp sa kanyang SAL-N. Is that correct, Atty. Erwin?
+
+**[02:01:10.580] Atty. Erwin G. Matib**  
+Yes, Your Honor, for her 2024 and 2025 SAL-Ns.
+
+**[02:01:14.980] Sen. Paolo Benigno “Bam” Aquino**  
+Meaning, ang Vice President mismo ang naglagay ng kumpanya sa kanyang SAL-N kaya natin nalaman na meron siyang interes. Pero hindi natin alam kung ano mismo yung interes na iyon.
+
+**[02:01:27.580] Atty. Erwin G. Matib**  
+Nilagay po sa SAL-N SH.
+
+**[02:01:32.600] Sen. Paolo Benigno “Bam” Aquino**  
+SH?
+
+**[02:01:33.690] Atty. Erwin G. Matib**  
+SH, which presupposes that stockholder po.
+
+**[02:01:38.540] Sen. Paolo Benigno “Bam” Aquino**  
+Okay, pero wala siya sa GIS, correct no? Tama to?
+
+**[02:01:42.450] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[02:01:43.230] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. So, sa palagay ko, merong confusion ngayon, paikot-ikot tayo. Dalawang tao lang yung makakaalam kung ano talaga yung role niya. Siya mismo, so let me ask Atty. Justin, of course, ikaw na bahala kung alam mo itong sagot o kung sasagutin mo. So ang kliyente ninyo, ang respondent, siya mismo yung naglagay ng GenCorp sa kanyang salin. Ano nga ba ang kanyang role sa GenCorp?
+
+**[02:02:13.160] Atty. Justin Nicol B. Gular**  
+Your Honor, with all due respect, and while I understand where you're coming from, it would be premature for the defense to discuss those matters because currently, Your Honor, it is the prosecution's turn. And may we ask to refer this question to the presiding officer since I believe the impeachment court is a passive body and it should receive evidence at a timely time. Atatlayan niyo part of the proceedings which is at this point, Your Honor, premature. Apologies, Senator Judge.
+
+**[02:02:38.030] Sen. Paolo Benigno “Bam” Aquino**  
+Yes, I
+
+**[02:02:38.050] Sen. Paolo Benigno “Bam” Aquino**  
+was expecting that answer, Attorney Justin. Pero ibabalikan ko lang yung nasabi ng mga Amici Q. Ray na at the end of the day, itong courting ito is sui generis and we can follow our own path towards truth and fairness. That's why I'm giving you this option. Ang sinasabi mo, you will probably answer this during your time. So I respect that. The other person na pwede magsabi kung ano yung role ni Vice President Sara is of course GenCorp. Si GenCorp mismo. So sino bang presidente ng GenCorp? Nasa ano niyo po ba? Attorney Del Rosario? Sino po bang corporate officers ng GenCorp?
+
+**[02:03:17.660] Sen. Paolo Benigno “Bam” Aquino**  
+Sa palagay ko, sila mismo pwede magsabi kung ano yung role ni Vice President Sara ito sa GenCorp.
+
+**[02:03:25.550] Sen. Paolo Benigno “Bam” Aquino**  
+Who are the corporate officers? Who are the owners?
+
+**[02:03:58.680] Atty. Gerardo F. del Rosario**  
+Corporate Secretary po ay si Gurley S. Delacruz.
+
+**[02:04:01.460] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. So, any of them would be able to tell us ano ba ang role ni Vice President Sara Duterte dito as corporate officers? Tama po ba?
+
+**[02:04:11.830] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[02:04:12.600] Atty. Roberto N. Batungbacal**  
+Okay.
+
+**[02:04:13.160] Sen. Paolo Benigno “Bam” Aquino**  
+So, I leave that to the prosecution kasi lang nais nating malaman ano ba talaga ang role niya dito. It's possible it could, maybe it's, maybe it could even be her husband. Hindi natin alam, di ba? Tama ba?
+
+**[02:04:29.620] Sen. Paolo Benigno “Bam” Aquino**  
+Atty. Erwin, pag naglalagay ka ng salin, posibleng yung asawa yung nakatukoy sa mga business interests, correct?
+
+**[02:04:37.420] Atty. Erwin G. Matib**  
+Posible po, or anak, pwede rin po yun.
+
+**[02:04:39.970] Sen. Paolo Benigno “Bam” Aquino**  
+Okay, so we don't know. The answer is we don't know and we want to know, we want to find out. So, sa palagay ko, ito pong witness natin, nasagot niya yung kaya niyang masagot. Pero yung ibang mga kasagutan dito, ibang tao na siguro yung pwedeng sumagot. Yun lang po, Mr. Presiding Officer. Maraming salamat.
+
+**[02:04:55.840] Sen. Francis "Chiz" G. Escudero**  
+Thank you. With the indulgence of Senator-Judge JV, who is availing of his first round, I believe Senator-Judge Raffi has only one question.
+
+**[02:05:05.480] Sen. Francis "Chiz" G. Escudero**  
+Then, Senator-Judge Raffi.
+
+**[02:05:14.770] Sen. Raffy T. Tulfo**  
+Thank you, Mr. Presiding Officer. Kahapon po, bilang sagot sa tanong ko, Atty. Gular responded that my question called for an answer. to a hypothetical question. Tama naman kung datusin. Kasi hindi naman po sila ang tinasabi kong brilliant lawyers ni VP Sara when she ran for vice president. Now, ito ang tanong ko para kay Attorney Del Rosario. Para po hindi na maging hypothetical ang tanong ko, kung isang public official ay pasok sa enumeration ng Article 7, Section 13 ng Constitution, automatic po ba na dapat mag-divest ng opisyal? base sa regulasyon ng SEC. Ang sagot po ninyo kahapon, walang ganong regulasyon at least at the level of the SEC. Tama?
+
+**[02:06:03.270] Atty. Gerardo F. del Rosario**  
+Yung pong sagot ko on that ay kung meron kaming guidelines to report. Kung ang opisyalis na ito ay magtayo ng kumpanya o maging parte ng kumpanya, wala po kaming guidelines on that na dapat namin siyang i-report sa OP, sa Senate, sa House, o sa Judiciary. o sa ombudsman to flag yung mga tao na iyon. Yun po yung wala kaming guidelines. Pero kung sa yung tanong niyo po ngayon kung dapat po siyang may divest, malinaw mo naman po sa batas na meron prohibition. Na dapat sana, alam niya, bilang mataas na ka-opisyal ng gobyerno, na pinanumpaan niya nun siya ay nag-swear to act as president, vice president, na iyon ang Iyon ang kanyang limitasyon. Kaya dapat sana bago siya nanumpa, tinanggal na niya o nag-divest na po siya. Na nakita naman po natin meron ditong GES na kung saan na hindi naging party na si Bibi Sara sa ilang kumpanya nung dumating yung at least 2019 pa po nga ay hindi na rin nag-appear yung kanyang pangalan. Siguro yun po yung divestment.
+
+**[02:07:17.600] Sen. Raffy T. Tulfo**  
+Maraming salamat po sa inyong kasagutan. So, binigit po ninyo that the SEC does not proactively flag these cases. Sino pong ordinarily ang dapat makapansin at mag-correct nito kung kailangan ng koreksyon? Tama po ba na ang documents are ordinarily prepared by the Corporate Secretary?
+
+**[02:07:34.860] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[02:07:37.540] Atty. Gerardo F. del Rosario**  
+Nangyayari naman po sa amin yan na mayroong pagkakamali yung opisyal na nagsumite. Ang usual na nangyayari po ay nagpapahal sila sa atin ng petition to amend or to correct yung document. So long na within the jurisdiction ng aming tanggapan, yung issue of correction, gagawin po namin. Pero upang correction will entail corporate, meron po ng tinatawag na intra-corporate controversy. Let's say, tinanggal siya, bakit ako tinanggal? That's issue of corporate controversy which we refer the matter to the regular court.
+
+**[02:08:14.190] Sen. Raffy T. Tulfo**  
+Thank you, sir. So, may ibang records pa po ba sa SEC na magpapakita kung ang direktor ba ay pumirma ng mga resolusyons, bumoto on any corporate decision, or nag-participate in management after assuming office? Kasi gusto lang po namin maging fair dito. We want the court to decide or come up with legal conclusions based on only on the documents and evidence available to us.
+
+**[02:08:39.820] Atty. Gerardo F. del Rosario**  
+Wala po kaming record unless mag-submit sila dahil ang talagang Inaasahan namin i-submitin nila sa amin ay yung JS at financial statement lang. Pero on this, wala po kami makitang resolusyon showing na yung participation niya sa kumpanyang ito, na nilagdaan niya. Wala po kami ganong informasyon.
+
+**[02:09:00.700] Sen. Raffy T. Tulfo**  
+Thank you, sir. No further questions. Thank
+
+**[02:09:03.820] Sen. Francis "Chiz" G. Escudero**  
+you, Senator-Judge Rafi. Senator-Judge Javy, you may proceed when you're ready. You have two minutes, sir.
+
+**[02:09:10.600] Sen. Joseph Victor "JV" G. Ejercito**  
+Thank you, Mr. Presiding Officer.
+
+**[02:09:14.030] Sen. Joseph Victor "JV" G. Ejercito**  
+If a person is a shareholder of a corporation but has never received any dividends from it, does the absence of dividends income meaning that he has no participation in the business or no financial interest in the corporation?
+
+**[02:09:41.350] Atty. Gerardo F. del Rosario**  
+Siya po ay may interest sa korporasyon. Meron na siyang matanggap o walang dibidendo, hindi po yan
+
+**[02:09:48.270] Atty. Gerardo F. del Rosario**  
+ang
+
+**[02:09:48.410] Atty. Gerardo F. del Rosario**  
+basehan para sabihin niya na hindi na siya stockholder. Kinakailangan hawak pa rin po niya yung interest, yung shares of stock para sabihin shareholder pa rin siya.
+
+**[02:09:58.460] Sen. Joseph Victor "JV" G. Ejercito**  
+Ang isa pa po ay if a person is merely a shareholder of a corporation without taking part in its management, yung kanina sinabi ni Senator-Judge Tulpo, operations or business decisions, Does the mere continued ownership of shares by itself mean that the person is willfully continuing to engage in the business or corporation? Ang shareholder po ba ay hindi man lang nakikilahok sa pamamahala, operasyon, o disisyon ng negosyo? Ibig sabihin ba ay nangalugan ba na willfully continue to engage in the business ng korporasyon pa rin po siya?
+
+**[02:10:33.840] Atty. Gerardo F. del Rosario**  
+Tulad po nang sabi ko, habang hawak mo ang shares of stock,
+
+**[02:10:36.990] Atty. Gerardo F. del Rosario**  
+Kung
+
+**[02:10:37.430] Atty. Gerardo F. del Rosario**  
+ngayong participation ay dispassive, umaasa ka lang sa dividendo o wala kang matanggap, shareholder pa
+
+**[02:10:43.970] Sen. Joseph Victor "JV" G. Ejercito**  
+rin po kayo. At ang huli po, ayan, gusto ko lang liwanagin din yung kaninang punto po ng Senator-Judge Hontiveros. Yung isang public official ba, yung pagkakaroon ba ng financial interest ay sapat na po bang sa GIS lamang o kinakailangan sa SAL-M din po? Para malaman.
+
+**[02:11:02.060] Atty. Gerardo F. del Rosario**  
+Well, unang-una nga po, ang... Ang information sa ating JS ay information na nanggagaling sa corporation through the corporate secretary. Yung SAL-N naman po ay personal na ginagawa noong empleyado. Dapat po sana kung ano ang pag-aari niya, kung ano ang pagkakautang niya, isaad niya ng tama sa SAL-N. Kasi yan naman po ang inaasahan. At yan po ang dahilan kung bakit tayo nagkaroon ng SAL-N. Para maging transparent tayo, i-disclose natin ang lahat ng yaman natin, maging ang utang natin, ilagay natin doon. No further questions, Mr.
+
+**[02:11:34.110] Sen. Joseph Victor "JV" G. Ejercito**  
+President?
+
+**[02:11:35.050] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge. Just a few interjections from the chair. We shall be done in a few minutes. And we will be resuming at 1 o'clock after lunch. Atty. Del Rosario, normal po ba o kakaiba na walang dinedeklaran dividendo ang mga kumpanyang dumadaan sa inyo, base sa inyong mga dokumentong nare-receive mula sa iba't ibang tao?
+
+**[02:11:59.100] Atty. Gerardo F. del Rosario**  
+Una-una po, ang talagang basihan kung bakit gustong mag-invest ng isang shareholder is yung
+
+**[02:12:04.200] Sen. Francis "Chiz" G. Escudero**  
+dividendo. Hindi po yun ang
+
+**[02:12:04.720] Sen. Francis "Chiz" G. Escudero**  
+tanong ko. Base po ba sa mga dine-report sa inyo, sa mga natatanggap yung dokumento, normal po ba o kakaiba na walang dinedeklaran dividendo ang isang kumpanya?
+
+**[02:12:15.790] Atty. Gerardo F. del Rosario**  
+Nasabihin ko po ang kakaiba dahil meron naman po siyang unrestricted retained earnings.
+
+**[02:12:20.670] Sen. Francis "Chiz" G. Escudero**  
+Kung meron unrestricted retained earnings. At
+
+**[02:12:23.530] Atty. Gerardo F. del Rosario**  
+ang binigay naman po ng batas is word na may. Ibig sabihin, discretion pa rin ng board. So
+
+**[02:12:28.990] Sen. Francis "Chiz" G. Escudero**  
+normal po siya kung may unrestricted retained earnings. Tama po. Hindi po siya... Normal at bawal siya pag wala. Tama po. So ang tanong ko po, hindi pa rin niyo po nasasagot. Sa mga dokumentong pinaproseso niyo sa dinami-dami po niya ng opisina niyo, ang normal po ba o kakaiba ang pagdeklara ng dividendo? Meron man o walang unrestricted retained earnings ang isang kumpanya? Ano po yung mas marami? Yung nagdede-deklara ng dividendo o yung hindi?
+
+**[02:12:58.110] Atty. Gerardo F. del Rosario**  
+Wala po ako nakitang nagdeklara ng dividendo.
+
+**[02:13:02.470] Sen. Francis "Chiz" G. Escudero**  
+Basis ang nire-report sa inyo?
+
+**[02:13:04.170] Atty. Gerardo F. del Rosario**  
+Opo. Sa mga kumpanya ito, maliban sa mga kumpanya na nabanggit po kahapon. Hindi lang po
+
+**[02:13:09.220] Sen. Francis "Chiz" G. Escudero**  
+ito. Yung ibang sinusumete sa inyo. Base po sa inyong malawak na karanasan bilang opisyal ng SEC, normal po bang nagde-declare, mas marami po ba nagde-declare ng dividendo o hindi?
+
+**[02:13:22.980] Atty. Gerardo F. del Rosario**  
+I
+
+**[02:13:23.440] Atty. Gerardo F. del Rosario**  
+assume po na mayroon pong marami nagde-declare ng dividendo.
+
+**[02:13:26.740] Sen. Francis "Chiz" G. Escudero**  
+Marami din pong wala?
+
+**[02:13:28.180] Atty. Gerardo F. del Rosario**  
+Marami din pong wala.
+
+**[02:13:29.440] Sen. Francis "Chiz" G. Escudero**  
+Kung bibigyan niyo po ng prosento, 50-50?
+
+**[02:13:34.160] Sen. Francis "Chiz" G. Escudero**  
+Maaaring
+
+**[02:13:34.680] Atty. Gerardo F. del Rosario**  
+ganun
+
+**[02:13:34.940] Sen. Francis "Chiz" G. Escudero**  
+po. So, kalahati nagdedeklara, kalahati hindi. At wala naman po ang bawal doon. O,
+
+**[02:13:39.050] Atty. Gerardo F. del Rosario**  
+para po sa taong iyon.
+
+**[02:13:40.510] Atty. Gerardo F. del Rosario**  
+Apo.
+
+**[02:13:40.980] Sen. Francis "Chiz" G. Escudero**  
+Ngayon, ang Executive Committee po ay nilikha ng Board of Directors para kumatawan sa kanya, hindi po ba?
+
+**[02:13:50.130] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[02:13:51.110] Sen. Francis "Chiz" G. Escudero**  
+Mas maliit na Board of Directors po siya, hindi po ba?
+
+**[02:13:54.010] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[02:13:54.960] Sen. Francis "Chiz" G. Escudero**  
+Hindi po siya ang nagpapatakbo ng pang-araw-araw na gawain ng kumpanya o day-to-day operations, ika nga?
+
+**[02:14:01.710] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[02:14:02.670] Sen. Francis "Chiz" G. Escudero**  
+Sino po ang gumagawa noon?
+
+**[02:14:05.100] Atty. Gerardo F. del Rosario**  
+ng pang-araw-araw. Yung pong mga opisyal tulad ng presidente, treasurer, secretary, yan po ang may... CEO,
+
+**[02:14:15.040] Sen. Francis "Chiz" G. Escudero**  
+COO. Tama po. Hindi po ang stockholder. Hindi po ang shareholder. Hindi po ang director. Hindi po ang director. Hindi po ang member ng executive committee. Hindi po. Maliba na lang kung opisyal din siya at the same time.
+
+**[02:14:31.610] Atty. Gerardo F. del Rosario**  
+At
+
+**[02:14:31.790] Atty. Gerardo F. del Rosario**  
+tama po kung ang director ay at the same time presidente, treasurer, or secretary.
+
+**[02:14:37.210] Sen. Francis "Chiz" G. Escudero**  
+Susubukan ko pong itulay yung tinatanong kanina ni Sen. Ban para sa kalaman ng Sen. Judges ganyan din ang publiko upang hindi tayo mahirapan itahi-tahi ito. May I request the Sergeant, the Clerk of Court, to kindly furnish the witness.
+
+**[02:14:55.520] Sen. Francis "Chiz" G. Escudero**  
+with the SAL-N of VP-SARA for 2015, 2016, and 2024.
+
+**[02:15:03.120] Sen. Francis "Chiz" G. Escudero**  
+These are respectively Exhibit P, Roman numeral number 2, dash 1, dash 1, dash G, dash P, dash 1.
+
+**[02:15:14.490] Sen. Francis "Chiz" G. Escudero**  
+Exhibit P dash Roman numeral number 2, dash 1, dash 1, dash H, dash P, dash I N.P. Roman numeral 2-1-R1-Q-P-1 Nakita niyo na
+
+**[02:15:32.640] Sen. Francis "Chiz" G. Escudero**  
+po? Nakita ko na po. Unahin po natin yung sa 2015, yung ikalawa sa huling pahina, kung saan nakalagay po yung business interests, business financial interests. Nandun na po kayo? Nandun na po. Ayan, binanggit po kanina itong pag-usapan kahit kahapon, yung City Hall King Chow Foods Corp. At saka Metro City Chow Foods Corp.
+
+**[02:15:56.520] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[02:15:59.930] Sen. Francis "Chiz" G. Escudero**  
+Incorporator o shareholder ba si VP Saerdon?
+
+**[02:16:03.230] Atty. Gerardo F. del Rosario**  
+City Hall po, opo. Metro Chow? Sa Metro Chow po, incorporator din po siya.
+
+**[02:16:11.440] Sen. Francis "Chiz" G. Escudero**  
+Incorporated din po siya. At yan din po ang nakalagay sa sale niya? Tama po.
+
+**[02:16:17.230] Atty. Gerardo F. del Rosario**  
+Nakalagay din po rito sa kanyang sale na siya incorporator. At stockholder?
+
+**[02:16:22.520] Atty. Gerardo F. del Rosario**  
+Sa stockholder.
+
+**[02:16:24.360] Sen. Francis "Chiz" G. Escudero**  
+May tanong po ako. Nakaslash po dun sa salihan niya yung dalawang kumpanyang yan.
+
+**[02:16:30.960] Sen. Francis "Chiz" G. Escudero**  
+Kita niyo po?
+
+**[02:16:32.020] Atty. Gerardo F. del Rosario**  
+Opo, nakasulat po rito.
+
+**[02:16:34.370] Sen. Francis "Chiz" G. Escudero**  
+City Hall King Chow Foods Corp. slash Metro City Chow Foods Corp. Opo. Kung alam niyo lang po, bakit po siya nakaslash? Anong ibig sabihin nun?
+
+**[02:16:48.880] Atty. Gerardo F. del Rosario**  
+Ang unang interpretasyon ko po rito, kahit nung pang ito ay nirequest sa amin, baka kako itong City Hall ay dating Metro Chow. Pero hindi naman po gano'n.
+
+**[02:17:02.220] Atty. Gerardo F. del Rosario**  
+Kumbaga, former company name siya. Ibang
+
+**[02:17:05.800] Sen. Francis "Chiz" G. Escudero**  
+kumpanya po yung binabanggit niyo.
+
+**[02:17:07.480] Atty. Gerardo F. del Rosario**  
+Ngayon po, nung nakita ko nga po ang record, magkaibang kumpanya ito. So
+
+**[02:17:11.260] Sen. Francis "Chiz" G. Escudero**  
+ito ay magkaibang kumpanya?
+
+**[02:17:12.780] Atty. Gerardo F. del Rosario**  
+Magkaibang kumpanya po.
+
+**[02:17:14.890] Sen. Francis "Chiz" G. Escudero**  
+Pangalawa po, yung Great Jolly Times Food Corporation at Times Square B Foods Corporation. Base po sa inyong records, shareholder, incorporator po ba ang vice president?
+
+**[02:17:39.040] Atty. Gerardo F. del Rosario**  
+Sa Great Jolly Times Food Corporation po. Hindi po nag-a-appear ang kanyang pangalan dito. Sa
+
+**[02:17:46.600] Sen. Francis "Chiz" G. Escudero**  
+Times Square B Foods Corporation, nag-a-appear po ba ang pangalan niya?
+
+**[02:17:50.520] Atty. Gerardo F. del Rosario**  
+Hindi rin po nag-a-appear ang pangalan ni BP Sara sa Times Square B Food Corporation.
+
+**[02:17:57.640] Sen. Francis "Chiz" G. Escudero**  
+Bilang incorporator o shareholder o stockholder? Tama po. Diyan po sa dokumentong hawak niyo sa sale niya, nakalagay po ba na stockholder at incorporator siya?
+
+**[02:18:10.740] Atty. Gerardo F. del Rosario**  
+Nakalagay po na siya po ay incorporator slash stockholder ng Great Jolly Times Food Corporation pati ng Times Square Beef Food Corporation.
+
+**[02:18:20.150] Sen. Francis "Chiz" G. Escudero**  
+Ngayon, dumako po tayo sa 2024 na salaya niya.
+
+**[02:18:27.660] Sen. Francis "Chiz" G. Escudero**  
+Nakalagay po dito, kung papansinin niyo po sa ikalawa, sa huling pahina, sa ikaliwa bago ang huling pahina muli, yung GenCorp Industries Incorporated. Pakibasa nga po yung entry dun sa name of entity, business enterprise?
+
+**[02:18:45.680] Atty. Gerardo F. del Rosario**  
+Sa pangalawang grupo po merong GENCORP Industries Inc., formerly Times Square B, Food Corporation, and Great Jolly Times Food.
+
+**[02:18:56.100] Sen. Francis "Chiz" G. Escudero**  
+Kung alam nyo lang po, ano po ibig sabihin ng formerly kung i-interpret nyo po ito bilang official ng SEC?
+
+**[02:19:04.020] Atty. Gerardo F. del Rosario**  
+Kung makikita ko po ito, isipin ko na ito yung dating pangalan ni GENCORP. Subalit, base sa inyong record, may kanya-kanya po siyang juridical entity personality.
+
+**[02:19:17.160] Sen. Francis "Chiz" G. Escudero**  
+Ito po ay tatlong ibat-ibang kumpanya. Tama po. GenCorp ay ibang kumpanya sa Times B Foods Corp sa Great Jolly Times Food. Iba-ibang kumpanya po ito.
+
+**[02:19:30.140] Atty. Gerardo F. del Rosario**  
+Tama po. Tatlong kumpanya ang may kanya-kanyang personality.
+
+**[02:19:32.880] Sen. Francis "Chiz" G. Escudero**  
+Hindi po na unang kumpanya ang Times Square B Foods at ang Great Jolly Times Food sa GenCorp.
+
+**[02:19:39.690] Atty. Gerardo F. del Rosario**  
+Wala pong ganung record ang aming pisina.
+
+**[02:19:42.130] Sen. Francis "Chiz" G. Escudero**  
+Hindi po sumalin, humalinhin, at pumalit ang GenCorp sa dalawang kumpanyang ito. Tama
+
+**[02:19:47.370] Atty. Gerardo F. del Rosario**  
+po.
+
+**[02:19:48.170] Sen. Francis "Chiz" G. Escudero**  
+Base po sa dokumentong hawak niyo na salin ng ikalawang Pangulo ng 2024, ano po ang... ang interest ng ikalawang Pangulo dito sa tatlong kumpanyang ito?
+
+**[02:20:00.130] Atty. Gerardo F. del Rosario**  
+Nakatlagay po rito, siya ay stockholder ng mga kumpanyang ito.
+
+**[02:20:04.170] Sen. Francis "Chiz" G. Escudero**  
+Base po sa inyong record, siya po ba ay stockholder ng tatlong kumpanyang
+
+**[02:20:08.170] Atty. Gerardo F. del Rosario**  
+ito? Yung GenCorp po,
+
+**[02:20:10.540] Sen. Francis "Chiz" G. Escudero**  
+Sa
+
+**[02:20:10.740] Atty. Gerardo F. del Rosario**  
+pagkaalala ko po, hindi po nag-a-appear ang kanyang pangalan.
+
+**[02:20:16.350] Atty. Gerardo F. del Rosario**  
+Isang check pa po.
+
+**[02:20:19.320] Sen. Francis "Chiz" G. Escudero**  
+Yun, Times Square po?
+
+**[02:20:28.370] Atty. Gerardo F. del Rosario**  
+Sa Times Square po, hindi rin po nag-a-appear ang kanyang pangalan bilang incorporator o director man from incorporation up to the GIS noong 2023.
+
+**[02:20:39.530] Sen. Francis "Chiz" G. Escudero**  
+Bilang opisyal ng SEC na matagal na nunungkulan doon, sa kaalaman ninyo sa revised corporation code, bilang opisyal na nagpa-file din ang salin at bilang abogado. Paano niyo po pagtutugma ito kung nalalaman niyo na dineklara niyang incorporator at shareholder siya sa sale niya pero wala sa dokumento? Ano po ang maaaring paliwanag na maaaring niyong ibigay kaugnay nito?
+
+**[02:21:07.410] Atty. Gerardo F. del Rosario**  
+Well, magiging paliwanag ko lang po dito ay maaaring meron po siyang trust agreement sa mga taong ito para i-represent ang inyong sarili. Gawa po nang nilagay niyang stockholder siya pero sa dokumento ng SEC wala naman siyang pangalan. bilang incorporator or stockholder.
+
+**[02:21:24.940] Sen. Francis "Chiz" G. Escudero**  
+Yun lamang po ba ang paraan para ma-reconcile natin yung dalawang bagay na iyon?
+
+**[02:21:30.960] Atty. Gerardo F. del Rosario**  
+Maaari din po na merong kumpanya rito, merong isang corporate shareholder dito na meron siyang control. Kaya iisip din niya na kanya rin yung kumpanya na iyon.
+
+**[02:21:46.670] Sen. Francis "Chiz" G. Escudero**  
+Nominee siya o beneficial owner siya? Opo. So, matanong ko po, Dito sa GenCorp, nabanggit na kanina kung sino yung mga shareholders at kabilang ang JTC Corp.
+
+**[02:22:00.950] Sen. Paolo Benigno “Bam” Aquino**  
+Tama po? Tama po.
+
+**[02:22:03.560] Sen. Francis "Chiz" G. Escudero**  
+Doon sa Jolly Foods, puro mga Cruz ang may stockholder. Tama po ba?
+
+**[02:22:09.920] Atty. Gerardo F. del Rosario**  
+Yes.
+
+**[02:22:13.430] Sen. Francis "Chiz" G. Escudero**  
+Doon sa Jolly Times Food?
+
+**[02:22:15.750] Atty. Gerardo F. del Rosario**  
+Jolly Times.
+
+**[02:22:37.080] Atty. Gerardo F. del Rosario**  
+Sa Great Jolly Times Food po, ang mga aplido pong nakalagay dito ay Cruz. Tatlong Cruz, Isang Tan at Isang Yuste. Opo. Tapos sa Times
+
+**[02:22:50.400] Sen. Francis "Chiz" G. Escudero**  
+Square?
+
+**[02:22:53.530] Atty. Gerardo F. del Rosario**  
+Sa
+
+**[02:23:08.070] Atty. Gerardo F. del Rosario**  
+Times Square po, ang mga apelido rito ay, pangalam pong naka-appel dito ay Ang Hai Peng, Girly Dela Cruz at Richie Evel Cruz.
+
+**[02:23:19.920] Sen. Francis "Chiz" G. Escudero**  
+So possible po, isa sa mga ito ay nominee o trustee po ng ikalawang Pangulo?
+
+**[02:23:28.880] Atty. Gerardo F. del Rosario**  
+Maari po. Dahil siya naman mismo po yung nag-declare.
+
+**[02:23:32.730] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[02:23:35.570] Sen. Francis "Chiz" G. Escudero**  
+May paglabag po ba kung yan nga ang katotohanan o wala?
+
+**[02:23:39.770] Atty. Gerardo F. del Rosario**  
+Meron po. Ano po ang paglabag? Hindi po tama ang kanyang disclosure.
+
+**[02:23:48.120] Atty. Gerardo F. del Rosario**  
+Hindi po tama ang kanyang disclosure saan po? Sa kanyang mga kumpanya. Sa kumpanya ito, ibig sabihin, iba pala ang may-ari nung mga kumpanya na hindi nag-a-appear ang kanyang pangalan.
+
+**[02:24:03.420] Sen. Francis "Chiz" G. Escudero**  
+Pero kahit hindi naman po, kahit hindi naman po siyang may-ari talaga at nominee lamang yung nakabanggit dyan na incorporator or shareholder, hindi naman po illegal yun per se.
+
+**[02:24:14.100] Atty. Gerardo F. del Rosario**  
+Hindi po siya illegal. Una, na-violate po niya yung hindi tamang pag-disclose ng impormasyon. Pangalawa...
+
+**[02:24:23.440] Sen. Francis "Chiz" G. Escudero**  
+Sino po nag-violate? Yung shareholder on record o ang ikalawang Pangulo? Yung shareholder on record. Hindi siya. Opo. Kung may nag-violate man, yung shareholder on record. Hindi ang ikalawang Pangulo.
+
+**[02:24:38.010] Atty. Gerardo F. del Rosario**  
+Kine-claim po kasi nga na siyang shareholder. Although wala siyang hawak na dokumento, but she is
+
+**[02:24:44.370] Sen. Francis "Chiz" G. Escudero**  
+claiming.
+
+**[02:24:44.410] Atty. Gerardo F. del Rosario**  
+So sino po
+
+**[02:24:44.850] Sen. Francis "Chiz" G. Escudero**  
+nag-violate sa punto de vista ng SEC? Eh wala naman nga po siyang nireport dun eh, nirecord dun eh. Wala naman siya sinabit sa inyo tungkol sa kumpanyang yun eh.
+
+**[02:24:51.950] Atty. Gerardo F. del Rosario**  
+Yung pamunan po ng korporasyon na nag-report.
+
+**[02:24:55.000] Sen. Francis "Chiz" G. Escudero**  
+So sila po ang may liability kung sakasakali? Tama po. Hindi po ang ikalawang Pangulo?
+
+**[02:25:01.630] Sen. Francis "Chiz" G. Escudero**  
+Tama po. Yung dineklara niya sa kanyang salen, kung may liability man siya ron, siya yun sa salen. Pero hindi dun sa kumpanya na hindi lumalabas yung kanyang pangalan.
+
+**[02:25:11.190] Atty. Gerardo F. del Rosario**  
+Opo, dahil hindi naman po siya ang gumawa ng report.
+
+**[02:25:14.150] Sen. Francis "Chiz" G. Escudero**  
+Dahil hindi po siya nga ang gumawa ng report at hindi siya kabilang sa mga direktor dun sa mga kumpanyang yun.
+
+**[02:25:20.060] Atty. Gerardo F. del Rosario**  
+Opo.
+
+**[02:25:20.600] Sen. Francis "Chiz" G. Escudero**  
+Tama
+
+**[02:25:21.040] Sen. Paolo Benigno “Bam” Aquino**  
+po? Tama po. At
+
+**[02:25:22.180] Sen. Francis "Chiz" G. Escudero**  
+wala pong obligasyon isumiti sa inyo ang anumang trust agreement o deed of assignment. or deed of sale ng mga instrumento kaugnay sa mga stocks sa kumpanyang ito?
+
+**[02:25:35.990] Atty. Gerardo F. del Rosario**  
+Hindi na po namin nire-require
+
+**[02:25:37.790] Sen. Francis "Chiz" G. Escudero**  
+yan. Hindi na po? Posibleng meron, pero wala po kayong kopya kung meron na. Tama po. Salamat po, Ginong Del Rosario. Kung wala na pong ibang... Ah, Senator-Judge, Pangilinan.
+
+**[02:25:52.850] Sen. Francis "Chiz" G. Escudero**  
+Sorry, gutom na yata. Yan eh, kaya natagalan ng konti. For the
+
+**[02:25:57.150] Sen. Francis "Chiz" G. Escudero**  
+second round,
+
+**[02:25:57.830] Sen. Francis Pangilinan**  
+Ginong Atty. Del Rosario. Kayo naghandaan ng summary, no?
+
+**[02:26:03.570] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[02:26:04.270] Sen. Francis Pangilinan**  
+Okay. Dito sa summary, lahat, or at least from years 2007, depende sa kumpanya, hanggang 2024, inilaan ninyo yung total sales. Tama?
+
+**[02:26:16.790] Atty. Gerardo F. del Rosario**  
+Tama po.
+
+**[02:26:17.530] Sen. Francis Pangilinan**  
+So, from 2007 to 2017, City Hall King Chow, about 311 million ang kanyang sales.
+
+**[02:26:30.490] Atty. Gerardo F. del Rosario**  
+Nung
+
+**[02:26:31.390] Sen. Francis Pangilinan**  
+2017 naman hanggang 2025, yung Metro Chow, sabi ninyo, basis sales, 309 million. Ang Great Jolly Times naman from 2007 to 2013, 209 million ang benta.
+
+**[02:26:51.990] Sen. Francis Pangilinan**  
+At yung Times Square, B-Food, 2013 hanggang 2022, 335 million ang benta.
+
+**[02:27:02.460] Atty. Gerardo F. del Rosario**  
+Times Square po ay 335,087,332.
+
+**[02:27:06.580] Sen. Francis Pangilinan**  
+Tama po. So ang City Hall, King Chow, Metro Chow, Great Jolly Times, Times Square B Food, ang total niya is about 1.15 billion sales. Tama po.
+
+**[02:27:19.250] Atty. Gerardo F. del Rosario**  
+Yes. Okay. At
+
+**[02:27:20.870] Sen. Francis Pangilinan**  
+ang GenCorp naman from 2020 to 2024, nakasabi ang kanyang sales ay 1.04 billion. Sa iyong summary. Tama po. So ang total ng GenCorp, City Hall King, Metro Chow, Great Jolly Times, Times Square B Food from 2007 until 2024, total is about 2.159 billion worth of sales. Tama po. And in all those instances, walang dineklarang dividendo. Wala pong information on dividend declaration.
+
+**[02:27:58.180] Sen. Francis Pangilinan**  
+Sinabi mo kaninang 50-50 ang nagde-deklara at hindi nagde-deklara ng dividendo. Apo. Pero sabi nyo para sa taong yun. Apo. Pero sa kabuan, experience nyo sa taong-taon, ganun din? 50% ang mga nagde-deklara at 50% ang hindi nagde-deklara?
+
+**[02:28:19.540] Atty. Gerardo F. del Rosario**  
+Yun po yung aking presumption. Mga 50-50 po ang hindi nakapag-deklara.
+
+**[02:28:24.470] Sen. Francis Pangilinan**  
+Pero dito naman sa itong 2007 to 2025 o 24 na hindi nagde-deklara, is that part of ano yan? Tama ba? Most companies ganyan ba sa pakiwari mo na taong taon for several years na 2.1 billion ang sales?
+
+**[02:28:46.970] Atty. Gerardo F. del Rosario**  
+Kasi po baka meron namang proyekto yung kumpanya. Expansion sabi ninyo. Expansion.
+
+**[02:29:00.810] Atty. Gerardo F. del Rosario**  
+So non
+
+**[02:29:02.490] Sen. Francis Pangilinan**  
+-declaration does not mean illegal. Yun nga lang, non-declaration means wala kang kinita, wala kang income. Wala pong pinamahagi sa shareholders.
+
+**[02:29:23.160] Sen. Francis Pangilinan**  
+Kasi ang mga pangalan, King Chow, Chow, Jolly, Times, Bee. Would you know, itong 2.1 billion na sales, would this be, kasi restaurants eh, di ba? Yes, Your Honor. Pulo restaurants po. So ano yan? Mga Jollibee ba yan? Tsaka mga Chowking? Kasi mukhang yun ang may kinalaman sa Chowking ba yan? Or Jollibee? Would you know? Only if you know.
+
+**[02:29:50.090] Sen. Francis Pangilinan**  
+Lumalabas po sa isang financial statement na in-identify kahapon ng witness, may lumabas po yung salitang Jollibee.
+
+**[02:30:00.750] Atty. Gerardo F. del Rosario**  
+Gencorp Industries.
+
+**[02:30:02.570] Sen. Francis Pangilinan**  
+So
+
+**[02:30:02.970] Sen. Francis Pangilinan**  
+would you know? Only if you know. Ibig sabihin ba itong mga kumpanya na ito ay mga Medialibi and Chowking franchises? Only if you know. Based on your... Kasi kanina sabi mo yung Jaime T. Cruz ay basis sa inyong research. Would you know?
+
+**[02:30:21.880] Atty. Gerardo F. del Rosario**  
+Yes, Your Honor. May mga franchises po.
+
+**[02:30:24.600] Sen. Francis Pangilinan**  
+Would you know how many?
+
+**[02:30:27.150] Atty. Gerardo F. del Rosario**  
+I don't have the exact number, Your Honor. Pero we have...
+
+**[02:30:30.750] Sen. Francis Pangilinan**  
+More or less. Kasi billion eh. So I would assume maraming franchisees ito ng Jollibee at ng Chowking, kaya umaabot ng billion yung kanilang sales over a period of time. Yes, Your Honor. Okay. Thank you for that clarification.
+
+**[02:30:46.930] Sen. Francis "Chiz" G. Escudero**  
+For the information also, Senator-Judge Pangilinan, we have subpoenaed the BAR records of these companies and through that, to the witness, they will present... that may perhaps be shown. We shall break for lunch and shall resume at 1
+
+**[02:31:05.730] Sen. Francis "Chiz" G. Escudero**  
+.15.
+
+**[02:31:10.770] Sen. Francis "Chiz" G. Escudero**  
+Trial is suspended. Yes, Attorney Erwin.
+
+**[02:31:15.070] Atty. Erwin G. Matib**  
+Sorry, Your Honor. Just a quick manifestation. May we ask for the marking of... Sorry,
+
+**[02:31:21.010] Sen. Francis "Chiz" G. Escudero**  
+nakalimutan kita. Uli, excuse, Attorney. Nangako pa naman ako kanina. Buti na lang hindi.
+
+**[02:31:27.390] Atty. Erwin G. Matib**  
+May we ask the witness to give us a copy of his summary together with the transmittal so that we'll have this marked as our exhibit. Your Honor, we will be redacting the portions. Yes, please. The title.
+
+**[02:31:40.470] Sen. Francis "Chiz" G. Escudero**  
+Yes, witness is so instructed. And Attorney De Rosario, forgive me for forgetting again. Attorney De Rosario, maraming salamat po sa inyong panahon. Yes, Attorney Justin.
+
+**[02:31:52.740] Atty. Justin Nicol B. Gular**  
+Off po. Hello, sorry. Yes, Your Honor, we'd also like to adopt marking. Okay,
+
+**[02:31:59.270] Sen. Francis "Chiz" G. Escudero**  
+Julie noted.
+
+**[02:32:01.980] Sen. Francis "Chiz" G. Escudero**  
+Atty. Del Rosario, maraming salamat po sa inyong panahon, sa inyong oras, sa muling pagbalik mula kahapon at sa pagsagot sa pagtugon sa mga katanungan ng magkabilang partido at ng senator-judges at sa inyong pong pasensya. You are excused, sir. Salamat po. And thank you for your time. Trial
+
+**[02:32:19.260] Sen. Francis "Chiz" G. Escudero**  
+is
+
+**[02:32:19.580] Sen. Francis "Chiz" G. Escudero**  
+suspended.
+
+**[03:24:01.740] Sen. Francis "Chiz" G. Escudero**  
+Call is resumed. Sorry for the slight delay.
+
+**[03:24:08.980] Sen. Francis "Chiz" G. Escudero**  
+Honorable Ridon, call your next witness.
+
+**[03:24:12.600] Rep. Terry L. Ridon**  
+We are calling our Phil Jeffs witness, Mr.
+
+**[03:24:19.620] Rep. Terry L. Ridon**  
+Rendell Sopena. Direct testimony will be administered by the lead prosecutor, Congresswoman Jerryville Luistra.
+
+**[03:24:33.580] Sen. Francis "Chiz" G. Escudero**  
+The Honorable Luistra is recognized. On the part of the respondent, Attorney Justin, it will still be you.
+
+**[03:24:39.940] Atty. Justin Nicol B. Gular**  
+No, Your Honor. May I request that my co-counsel, Atty. Roberto N. Batumbacal, be recognized, Your Honor.
+
+**[03:24:52.330] Sen. Francis "Chiz" G. Escudero**  
+Good afternoon, Your Honor. What is your nickname, Atty. Batumbacal?
+
+**[03:24:55.910] Atty. Roberto N. Batungbacal**  
+Your Honor, you can call me Roby, Your Honor.
+
+**[03:25:03.080] Sen. Francis "Chiz" G. Escudero**  
+Roby with an I-E or with a Y?
+
+**[03:25:05.520] Atty. Roberto N. Batungbacal**  
+R-O-B-I-E, Your Honor.
+
+**[03:25:07.180] Sen. Francis "Chiz" G. Escudero**  
+Okay. Kindly situate the Clerk of Court through the osahas instructed to kindly situate Mr. Supena to the witness stand.
+
+**[03:25:47.660] Sen. Francis "Chiz" G. Escudero**  
+Clerk of Court is instructed to administer the oath.
+
+**[03:25:51.100] Atty. Renato N. Bantug Jr.**  
+Please raise your right hand. You, Rendell Sopena, do swear
+
+**[03:25:56.370] Rendell P. Sopeña**  
+that the
+
+**[03:26:00.790] Atty. Renato N. Bantug Jr.**  
+evidence you shall give
+
+**[03:26:01.830] Rendell P. Sopeña**  
+in
+
+**[03:26:03.910] Atty. Renato N. Bantug Jr.**  
+the case now pending
+
+**[03:26:05.130] Rendell P. Sopeña**  
+between
+
+**[03:26:07.110] Atty. Renato N. Bantug Jr.**  
+the Philippines and Vice President Sara Zimmerman Duterte
+
+**[03:26:09.930] Rendell P. Sopeña**  
+shall
+
+**[03:26:13.790] Atty. Renato N. Bantug Jr.**  
+be the truth.
+
+**[03:26:15.390] Rendell P. Sopeña**  
+shall be the truth, the whole truth,
+
+**[03:26:17.950] Atty. Renato N. Bantug Jr.**  
+and nothing but the truth.
+
+**[03:26:19.290] Rendell P. Sopeña**  
+So
+
+**[03:26:19.810] Atty. Renato N. Bantug Jr.**  
+help me God.
+
+**[03:26:26.590] Sen. Francis "Chiz" G. Escudero**  
+Ginong Supena, naunabahan niyo po ang inyong pinanumpaan? Yes, Your Honor. Okay, your witness. I'd rather make your offer, Honorable Bistro.
+
+**[03:26:37.460] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, Your Honor. We are respectfully offering the testimony of Mr. Rendell Supena for the following purposes, Your Honor.
+
+**[03:26:49.140] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Una, ang witness ay ang Division Chief ng Electronic Government Procurement Operations Division sa ilalim ng Philippine Government Electronic Procurement System Office na nasa ilalim din ng Procurement Service Department of Budget and Management.
+
+**[03:27:19.370] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Pangalawa,
+
+**[03:27:22.090] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Upang patunayan na ang witness ay may sapat na kaalaman sa procurement at PhilGEPS system, ipapaliwanag ng testigo ang papel ng PhilGEPS bilang single electronic portal na nagsisilbing primary source of information sa lahat ng procurement ng gobyerno upang maisulong ang transparency, efficiency, at competitiveness sa mga transaksyon ng pamahalaan. Pangatlo, upang patunayan ang integridad, pagpapatunay at kredibilidad ng mga rekord na hawak ng PhilGepps kung saan tutukuyin at ipakikilala ng witness ang mga official documents na nakuha mula sa PhilGepps database at ipapaliwanag kung paano formal na naisubmit, naitala, at na-extract ang mga elektronikong dokumentong ito mula sa PhilGepps system.
+
+**[03:28:36.270] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Pang-apat, upang patunayan ang mga partikular na transaksyon ng GenCorp Industries Inc. Kung maaalala natin, itong GenCorp ay nabanggit Vice Presidente Sara Duterte sa kanyang SAL-N. Ang sabi ng Vice Presidente, shareholder siya ng GenCorp Industries, Inc. Sa pamamagitan ng testigong ito, patutunayan na ang GenCorp ay may mga kontrata sa gobyerno, kabilang dito ang City Government of Davao. At sa pamamagitan ng testigong ito, patutunayan na mga kontratang ito ay may halagang lampas sa 30 milyong piso. Bilang panlima, patutunayan din ng testigo ang iba pang material at relevant na allegation sa Article 2 ng Articles of Impeachment. That is all for the purposes, Your Honor.
+
+**[03:29:50.140] Atty. Roberto N. Batungbacal**  
+For number four, Your Honor, we object to the offer number four for being conclusions of law and fact, Your Honor. And then the rest will... I'll
+
+**[03:30:00.000] Atty. Roberto N. Batungbacal**  
+just be subject to cross, Your Honor.
+
+**[03:30:02.440] Sen. Francis "Chiz" G. Escudero**  
+Are you willing to stipulate the first offer, the position of the witness, counsel?
+
+**[03:30:07.200] Atty. Roberto N. Batungbacal**  
+Yes, Your Honor. Willing to stipulate.
+
+**[03:30:09.740] Sen. Francis "Chiz" G. Escudero**  
+Honorable Istro, your first offer insofar as the fact that the witness is the division chief of the EGPOD of Phil Jepps and of PSDBM has been stipulated by counsel, no need to prove the same.
+
+**[03:30:20.840] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+We confirm, Your Honor.
+
+**[03:30:23.660] Sen. Francis "Chiz" G. Escudero**  
+The comments of Attorney Robby or Julie Norton? Your Honor,
+
+**[03:30:26.780] Atty. Roberto N. Batungbacal**  
+apologies. Just one more, Your Honor. We understand that the witness for today will be supposed to be identifying and authenticating documents from his office, Your Honor, but a perusal of the pretrial brief and the PTO, Your Honor, shows that they were not listed as one of the documents nor reserved, Your Honor. So, Your Honor, we conduct our cross without waiving the right to raise the objection at the proper time, Your Honor.
+
+**[03:30:57.850] Sen. Francis "Chiz" G. Escudero**  
+Julie noted, counsel. And we confirm that we likewise do not have a copy of these exhibits as being Julie marked.
+
+**[03:31:07.230] Atty. Roberto N. Batungbacal**  
+Yes, your honor. So we also reserve the right to defer cross-examination to study the documents, your honor.
+
+**[03:31:12.610] Sen. Francis "Chiz" G. Escudero**  
+We will afford you the time needed. Surely we cannot finish it today anymore, counsel.
+
+**[03:31:17.530] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Nevertheless, Your Honor, I just wish to put on record that there is a reservation made by the prosecution as early as during the filing of the pre-trial brief. That reservation has been carried over in the pre-trial order that was issued by the Honorable Impeachment Court.
+
+**[03:31:35.130] Sen. Francis "Chiz" G. Escudero**  
+The Chair confirms that. That's why we are allowing it, Honorable Bistro. You may proceed with your direct if you are ready or when you're ready.
+
+**[03:31:44.270] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Thank you, Your Honor.
+
+**[03:31:48.000] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness? Kumusta po kayo?
+
+**[03:31:52.100] Rendell P. Sopeña**  
+Mahayos naman po, ma'am.
+
+**[03:31:53.860] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Nakakain po kayo ng tanghalian?
+
+**[03:31:56.290] Rendell P. Sopeña**  
+Hindi po eh.
+
+**[03:31:59.030] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+I hope you will be relaxed, no? Parang nagkwekwentuhan lang po tayo. Yes,
+
+**[03:32:05.250] Rendell P. Sopeña**  
+ma'am.
+
+**[03:32:06.990] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Pakisabi po, Mr. Witness, ang inyong pangalan at iba pang pagkakakilanlan.
+
+**[03:32:13.740] Rendell P. Sopeña**  
+Rendell Sopeña po, Division Chief of the Electronic Government Procurement Operations Division of PhilGEPS Office under the Procurement Service Department of Budget and Management, ma'am.
+
+**[03:32:26.800] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit po ninyo itong Electronic Government Procurement Operations Division. Ano po ito, Mr. Witness?
+
+**[03:32:36.440] Rendell P. Sopeña**  
+Ito po ang division under the Philjep's Office who is the sole custody of the Philjep's System Database. And the division is the one who also processes the procurement request coming from internal and external stakeholders. At
+
+**[03:32:55.510] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+gaano na po katagal kayo bilang Division Chief nitong binanggit ninyo na Electronic Government Procurement Operations Division?
+
+**[03:33:06.910] Rendell P. Sopeña**  
+Nagsimula po ako nung March 17, 2025 po ma'am.
+
+**[03:33:11.870] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, for brevity, please allow this representation to use EGPOD. Prior to your position as Division Chief in EGPOD, ano pa po ang inyong naging trabaho o posisyon bago itong EGPOD kung mayroon man?
+
+**[03:33:33.600] Rendell P. Sopeña**  
+Before joining PSDBM under the EGPOD, I am the Information Technology Officer 2 of AFP RSVS.
+
+**[03:33:44.930] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Nabanggit po ninyo, Mr. Witness, itong AFPRSBS. Ano po ito, Mr. Witness?
+
+**[03:33:52.710] Rendell P. Sopeña**  
+AFPRSBS is Armed Forces of the Philippines Retirement Separation Benefit System, ma'am.
+
+**[03:33:59.160] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Maraming salamat po sa inyong pagbabahagi ng inyong mga naging at kasalukuyang trabaho. Mr. Witness, kanina'y binanggit mo yung EGPOD. Ano po ba ang mga functions nitong tanggapang ito bilang kayo po ang Division Chief?
+
+**[03:34:20.140] Rendell P. Sopeña**  
+Bilang Division Chief po ng EGPOD, ako po yung buong namamahala ng EGPOD and I'm the overall custodian po ng Philjep System Database. In line with this po, ako po yung mga nag-i-issue ng certifications coming from the request of internals, and yung mga subpina and request letters na natatanggap po ng PhilJep's office.
+
+**[03:34:46.000] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Ibinahagi po ninyo ang functions ng EGPOD. Ano naman po ang inyong mga responsibilities bilang division chief ng nasabing tanggapan?
+
+**[03:34:58.050] Rendell P. Sopeña**  
+Isa po sa pinaka-function ng division chief po is to validate yung mga data na nire-request and issue. certifications in line with the received subpoenas and requests of procurement data.
+
+**[03:35:18.840] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Kanina po, Mr. Witness, may binanggit kayo na field JEPs. Bilang division chief, ano ho bang inyong nalalaman sa mandato ng field JEPs?
+
+**[03:35:33.180] Rendell P. Sopeña**  
+Ang field JEPs po, under the procurement law,
+
+**[03:35:41.140] Rendell P. Sopeña**  
+The field job system po is aiming to promote transparency, efficiency, and the utilization of a single electronic portal which all procurement activities will be recorded. At dito po yung i-record ng lahat ng mga government agencies ang kanilang mga aktividades po for the procurement.
+
+**[03:36:04.250] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit din po ninyo yung single electronic portal. Ano po ito, Mr. Witness?
+
+**[03:36:12.290] Rendell P. Sopeña**  
+Ang single electronic portal po is technically isang system or a centralized system po of procurement na gagamitin po ng lahat ng mga ahensya ng mga GOCCs, LGU hanggang barangay level up to SK and mga NJAN including po rito yung mga SUCs natin. Ang mga procurement activities po nila ay dapat po nilang nire-record po dito sa naturang portal po.
+
+**[03:36:43.880] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+May binanggit po kayo na agency kasama dito sa mga gumagamit ng single electronic portal. Anong particular na mga branches ng agencies ang inyong tinutukoy?
+
+**[03:36:59.790] Rendell P. Sopeña**  
+Based po sa as indicated all government agencies for your LGUs po lahat po dapat
+
+**[03:37:07.840] Rendell P. Sopeña**  
+Executive branch up to the judiciary. Technically po, dapat lahat po ng government agencies, ma'am.
+
+**[03:37:16.100] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit po ninyo ang executive hanggang kanyo sa barangay level. Binanggit nyo rin po ang judiciary. Paano po kaya ang kongreso?
+
+**[03:37:26.640] Rendell P. Sopeña**  
+Kasama rin po, ma'am.
+
+**[03:37:29.030] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, bilang division chief pa rin ng EGPOD, ano po ang pangkaraniwan?
+
+**[03:37:45.750] Rendell P. Sopeña**  
+Ang kadalasan po naming napapansin based po sa tao ng pagpiprepare po ng division namin ng mga statistical bulletin which is publicly po pinopost namin ito sa PhilGepps website through the open data portal. Makikita po ito. Ang statistical bulletin po na ito ay nagpapakita na ang pinaka ginagamit po na modes of procurement of the government are the small value procurement and the competitive bidding po.
+
+**[03:38:16.700] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit nyo, Mr. Witness, yung competitive bidding. Ano-ano naman po ang mga technical documents na nai-encounter nyo pa rin? dito sa field job system. Kaugnay ng mode of procurement kung tawagin ayon sa inyo, competitive bidding.
+
+**[03:38:36.060] Rendell P. Sopeña**  
+For the competitive bidding, ma'am, ang technical documents that is required are the invitation to bid, bid documents, supplemental bid notice if any corrections. Kailangan rin po ng notice of award, notice to proceed, bucket resolution.
+
+**[03:38:57.860] Rendell P. Sopeña**  
+Contracts and Memorandum po.
+
+**[03:39:00.000] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Kanina po, binanggit nyo din kasama dun sa mga karaniwang mode of procurement ang small value procurement. Ano-ano naman po ang mga technical documents na nai-encounter nyo sa field drip system kaugnay ng small value procurement?
+
+**[03:39:18.480] Rendell P. Sopeña**  
+For small value procurement po, ang mga technical documents are the request for quotation,
+
+**[03:39:27.370] Rendell P. Sopeña**  
+Purchase order, abstract of quotation, same po yung notice of award, notice to proceed, back resolution po.
+
+**[03:39:39.080] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At bilang panghuli Mr. Witness sa puntong ito, bilang division chief, pakipaliwanag po sa kagalanggalang na impeachment court, paano ho ba ang actual operation ng PhilGips as a system?
+
+**[03:39:56.630] Rendell P. Sopeña**  
+As a system po, Ang unang kailangan pong gawin ng mga procuring entities or mga government agencies is to register po sa field job system. Upon registering, the procuring entity can create po yung mga procurement activity nila to post sa system. Yung first step na kailangan po nilang gawin is to create a bid notice. So yung bid notice po is The publication of the procurement activity. So parang similar siya with mga pinupost po sa dyaryo ng mga nasa classified ads na mas madaling makita ng publiko. Ang bid notice po is an electronic form of posting ng procurement activity kung saan po is i-encode po ng procuring entity yung mga activity ng details and mag-a-attach po ng mga attachment. And upon creation of the bid notice, This will be viewable by all public and mostly mga merchants na interesado pong sumali sa mga procurement activities ng gobyerno.
+
+**[03:41:05.160] Rendell P. Sopeña**  
+If
+
+**[03:41:05.720] Rendell P. Sopeña**  
+a merchant is willing po sila to join the activity, they should also be registered sa system natin. And upon registration, dun lang po ma-download ng mga merchants na ito or upon registering, pag naka-access na po sila sa system. They would have an access po para ma-download yung mga documents attached sa bid notice pinost ng procuring entity. And upon submission po ng mga merchants, mga interested merchants sa procurement po, magsasubmit po sila ng mga kaukulang dokumento patungkol po dun sa activity na ito. And once the procurement activity is fully conducted by the procuring entity, Ang lahat po ng mga documents, related documents, such as yung mga back resolution, notice of award, yung mga technical documents po na nabanggit kanina. To close the created bid, mag-create po uli ang government agencies which is the main to create and to close po yung bid notice. So upon creation po ng award notice naman, lahat po ng mga dokumento. It pertains to the conducted procurement activity ay kailangan po nilang i-upload sa system para po ma-fully closed yung ginawa nilang bid notice. So, to highlight ang responsibility po ng pag-upload and ang pag-encode po ng mga tamang information sa system is
+
+**[03:42:39.220] Rendell P. Sopeña**  
+sa nakalaan po mismo sa agency. Sila po yung mismong may responsibilidad po na gawin yung mga proseso na ito ayon sa procurement law. And once those processes are completed na po, lahat ng proseso po na ito, dito po yung nanggagaling. Lahat ng mga procurement information na naiipon po sa isang database or yung repository of procurement data. Wherein ang EGPOD po, lahat ng Nasabi ko po kanina yung mga request ng procurement data dito po sa repository of database namin na i-extract or nakukuha.
+
+**[03:43:17.260] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+For the benefit of the viewing public, Mr. Witness, sino po yung procuring entity na binanggit nyo?
+
+**[03:43:23.800] Rendell P. Sopeña**  
+Ang procuring entity po ay ang mga gobyernang ahensya, government agents po.
+
+**[03:43:29.800] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Sino naman po yung merchants?
+
+**[03:43:32.160] Rendell P. Sopeña**  
+Merchants are mga corporation suppliers such as kung interested to join. suppliers kunyari po IT po ang pinoprocure so yung mga IT related companies na registered po sa PhilGeps.
+
+**[03:43:47.500] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Ano po ang dahilan at inihalin tulad nyo itong PhilGeps system sa isang classified ads?
+
+**[03:43:57.060] Rendell P. Sopeña**  
+Hinintulad ko po siya parang sa classified kasi is the main purpose po for the
+
+**[03:44:03.470] Rendell P. Sopeña**  
+Information po para wider reach po yung information ng activities. Marami pong maimbitahan ng mga interested merchants to join the activity for a fair competition po ng public bidding.
+
+**[03:44:16.860] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At bilang panghuli Mr. Witness, anong ibig sabihin mo by repository? Bakit mo tinatawag itong field rep system na isang repository?
+
+**[03:44:28.100] Rendell P. Sopeña**  
+Through the field rep system ma'am, dito po kasi nanggagaling ang mga Procurement data as the main mandate po ng PhilGEPS is we are the repository of the procurement data. So lahat po ng pinapasok ng mga government agencies na information pertaining to procurement data is collected to this procurement data repository.
+
+**[03:44:50.410] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, maraming salamat sa iyong pagbabahagi tungkol sa actual operation ng PhilGEPS as a system. Dadako na tayo sa susunod. Naririto ka dahil sa subpina na na-issue ng kagalanggalang na impeachment court. Ito ba'y kinukumpirma mo?
+
+**[03:45:10.470] Rendell P. Sopeña**  
+Opo ma'am. At
+
+**[03:45:11.970] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+ano ang nilalaman ng subpina na na-issue ng kagalanggalang na impeachment court?
+
+**[03:45:18.140] Rendell P. Sopeña**  
+Ang nilalaman po ng subpina is to appear today from 21 to 23. Also included sa subpina is to provide procurement documents. In relation to the merchant name, Gen Corporation Industry Inc.
+
+**[03:45:35.450] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+For purposes of the record, can you say it clearly? What is the name of the company?
+
+**[03:45:41.870] Rendell P. Sopeña**  
+Gen Corp Industries Inc.
+
+**[03:45:43.970] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Gen Corp Industries Inc. Tama po ba, Mr. Witness?
+
+**[03:45:48.610] Rendell P. Sopeña**  
+Yes po. Gen Corp Industries Inc.
+
+**[03:45:51.670] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Pagkatapos po ninyong matanggap itong sa pinapong ito, ano po ang inyong ginawa? kaugnay ng impeachment trial na ito.
+
+**[03:46:00.860] Rendell P. Sopeña**  
+Upon receiving po, we processed po yung, we searched the repository of procurement database based on the requested merchant name which is GenCorp Industry Inc. And upon search po na ginawa namin sa procurement database, it resulted to a 49 awarded contracts to GEN Corporations.
+
+**[03:46:29.980] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit po ninyo na sa inyong pagsisurge ay nakita nyo ang 49 awarded contracts sa GEN Corp Industries Inc. Sino-sino po ang procuring entity?
+
+**[03:46:45.590] Rendell P. Sopeña**  
+The composition of the 49 awarded contracts are OWA. Meron pong isang contract na na-award sa OWA. Meron pong 33 contracts awarded to PhilHealth Region 11 and 15 awarded contracts to City of Davao.
+
+**[03:47:12.860] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Bukod po sa 49 awarded contracts sa GenCorp na inyong nakita sa inyong pagsisearch, ano pa pong dokumento kung mayroon man ang inyong nakita?
+
+**[03:47:27.590] Sen. Francis "Chiz" G. Escudero**  
+With your indulgence counsel, Mr. Supena, awarded to or awarded by?
+
+**[03:47:36.320] Rendell P. Sopeña**  
+Awarded to po sa merchant.
+
+**[03:47:38.580] Sen. Francis "Chiz" G. Escudero**  
+No, you said awarded to City of Davao, awarded to OWWA, awarded to PhilHealth.
+
+**[03:47:45.960] Rendell P. Sopeña**  
+Yes po, the procuring entity po, Your Honor. So, awarded by? I
+
+**[03:47:50.880] Sen. Francis "Chiz" G. Escudero**  
+will
+
+**[03:48:03.000] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+repeat the question. Bukod sa 49 contracts kung saan sinabi mo ang mga procuring entity ang nag-award? ay ang OWA Region 11, PhilHealth Region 11, at City of Davao LGU. Ano pa ang mga dokumentong iyong nakita kung mayroon pa?
+
+**[03:48:31.400] Rendell P. Sopeña**  
+As mentioned earlier po, the procuring entity's responsibility includes the uploading of the procurement-related documents. So meron po kaming mga na-download ng mga related documents pertaining to the 49 awarded contracts po.
+
+**[03:48:48.690] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Ilan po, Mr. Witness, itong tinutukoy niyo na related documents to 49 awarded contracts to GenCorp Industries, Inc.? We
+
+**[03:48:59.310] Rendell P. Sopeña**  
+extracted a total number of 231 documents po, ma'am.
+
+**[03:49:06.590] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At kung itatanong ko sa iyo ang kabuang dami ng pages, ito ba'y masasabi mo din?
+
+**[03:49:15.300] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+49 contracts, 231 documents. May I ask, Mr. Witness, ilan ang kabuang dami ng pahina ng mga dokumentong ito?
+
+**[03:49:25.800] Rendell P. Sopeña**  
+Upon scanning po, so we took note of the count of the scanner, the total page of the 231 documents totaled to 480
+
+**[03:49:40.510] Rendell P. Sopeña**  
+1 or 84, if I'm not mistaken, ma'am.
+
+**[03:49:44.530] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+And this includes already the 49 contracts.
+
+**[03:49:49.010] Atty. Roberto N. Batungbacal**  
+Your Honor, just a quick manifestation, Your Honor.
+
+**[03:49:51.110] Sen. Francis "Chiz" G. Escudero**  
+Yes, Attorney Robby.
+
+**[03:49:52.770] Atty. Roberto N. Batungbacal**  
+Yes, Your Honor, we just noticed that the witness has notes. May we just find out what those notes are, Your Honor?
+
+**[03:50:02.730] Sen. Francis "Chiz" G. Escudero**  
+Mr. Cepena, are you referring to notes?
+
+**[03:50:05.680] Rendell P. Sopeña**  
+No, sir.
+
+**[03:50:06.570] Rendell P. Sopeña**  
+No, Your Honor.
+
+**[03:50:07.570] Sen. Francis "Chiz" G. Escudero**  
+What is that piece of paper?
+
+**[03:50:09.800] Rendell P. Sopeña**  
+It's just a copy of the documents. No,
+
+**[03:50:15.120] Sen. Francis "Chiz" G. Escudero**  
+if these are not your notes, what document are you referring to?
+
+**[03:50:20.280] Rendell P. Sopeña**  
+Sorry, Your Honor, again.
+
+**[03:50:21.500] Sen. Francis "Chiz" G. Escudero**  
+Anong dokumento po yung tinitingnan
+
+**[03:50:23.180] Sen. Francis "Chiz" G. Escudero**  
+ninyo?
+
+**[03:50:23.580] Rendell P. Sopeña**  
+Not in relation to what I just replied from, Your Honor.
+
+**[03:50:28.060] Sen. Francis "Chiz" G. Escudero**  
+In that case, before you refer to a document, kindly ask the permission of the court.
+
+**[03:50:32.260] Rendell P. Sopeña**  
+Apologies, Your Honor.
+
+**[03:50:33.400] Sen. Francis "Chiz" G. Escudero**  
+Okay lang po. Salamat. You may proceed, The Honorable Luistro.
+
+**[03:50:39.340] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Binanggit mo na 484 ang kabuang dami ng pahina ng lahat ng dokumentong ito. Kinukumpirma mo ba ito?
+
+**[03:50:47.520] Rendell P. Sopeña**  
+Yes, ma'am. And
+
+**[03:50:48.520] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+that includes the 49 contracts already?
+
+**[03:50:51.180] Rendell P. Sopeña**  
+Yes po, the composition of the 49 contracts.
+
+**[03:50:53.440] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Thank you.
+
+**[03:50:54.100] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Pagkatapos mong makita, masearch ang 49 contracts, 231 documents, may kabuo ang 484 pages, ano ang sunod mong ginawa kung mayroon man?
+
+**[03:51:08.150] Rendell P. Sopeña**  
+After printing po ng lahat ng mga documents po, the 484 documents ay isa-isa ko po itong sinertify and pinirmahan as a truthful representation po na lahat ng documents na ito ay galing po sa Philjep's repository.
+
+**[03:51:26.930] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Sinabi mo, Mr. Witness, na lahat ng dokumento iyong print, iyo ding sinertify, iyo ding pinirmahan. Bukod dito, ano pa ang iyong ginawa kung mayroon man?
+
+**[03:51:41.940] Rendell P. Sopeña**  
+For ease of reference po nung binabasa ko yung document. So yung extracted na electronic data that came from the repository po. So I just made a summary of these documents for easy reference lang po while I am familiarizing the information of the extracted information po.
+
+**[03:52:02.660] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Nasa saan? Itong sinasabi mong extracted information.
+
+**[03:52:09.600] Rendell P. Sopeña**  
+I saved it po dito if I'm allowed to.
+
+**[03:52:14.190] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor?
+
+**[03:52:15.060] Sen. Francis "Chiz" G. Escudero**  
+Yes, you may refer to the document. Kindly identify the document.
+
+**[03:52:20.450] Rendell P. Sopeña**  
+Thank you, Your Honor. So, yung mga extracted file po was downloaded and saved po sa mga USP na to.
+
+**[03:52:28.040] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+May I place on record, Your Honor, that the witness is showing May I ask, Mr. Witness, what are you showing inside the plastic container?
+
+**[03:52:38.410] Rendell P. Sopeña**  
+Five pieces of USB thumb drive po, which the extracted data are stored po.
+
+**[03:52:44.770] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+May I ask also, what are the contents of that USB?
+
+**[03:52:49.070] Rendell P. Sopeña**  
+The extracted information po, the procurement data in relation to the 49 contracts na nanggaling po sa procurement data and the summary po na nagyawa ko. Nandito po.
+
+**[03:53:01.940] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+May binanggit ka din kanina na print mo ang mga dokumento kaugnay ng Procurement Documents ng GenCorp Industries, Inc. Nasa saan naman itong mga printed documents na ito?
+
+**[03:53:18.140] Rendell P. Sopeña**  
+May I be allowed po to get the documents?
+
+**[03:53:22.820] Sen. Francis "Chiz" G. Escudero**  
+Yes, you may.
+
+**[03:53:23.470] Rendell P. Sopeña**  
+Thank you Your Honor.
+
+**[03:53:24.120] Rendell P. Sopeña**  
+you, Your Honor.
+
+**[03:53:35.560] Rendell P. Sopeña**  
+Repository of the field job system.
+
+**[03:53:37.850] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+With the kind indulgence of the honorable court, since this is the first time that the prosecution will be seeing these documents, and also to give opportunity to the opposing counsel to go over the same, may I request for a 10-minute recess, Your Honor?
+
+**[03:53:55.860] Sen. Francis "Chiz" G. Escudero**  
+Just
+
+**[03:54:00.940] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+to be able to go over the documents, Your Honor, and then we will immediately proceed, Your Honor.
+
+**[03:54:08.780] Sen. Francis "Chiz" G. Escudero**  
+Chair declares a brief recess but kindly staying inside the court as we may give another ruling on the matter given the time. Chair declares a brief recess.
+
+**[04:02:01.840] Sen. Francis "Chiz" G. Escudero**  
+During the recess,
+
+**[04:02:04.060] Sen. Francis "Chiz" G. Escudero**  
+the presiding officer in the presence of the parties inquired from the witness, Mr. Supena, if he has a summary of the documents he was mentioning earlier and he responded in the affirmative. Thus, the presiding officer gave the parties a hard copy of the summary and or table of the documents that he will be identifying given its voluminous nature. And also, the presiding officer asked what the USB contained that he was showing earlier. And he informed the parties and the presiding officer that it contained a soft copy of all the hard copies of the documents in front of him. The presiding officer gave a copy of the USB to the parties, the court, two copies to the prosecution, one for the tech.
+
+**[04:03:01.520] Sen. Francis "Chiz" G. Escudero**  
+For the record, so we can continue until perhaps 2.30 and the witness subject to cross or any objections or comments by the counsel or correspondent may continue with his testimony on the basis or based on the table and or summary he will be identifying.
+
+**[04:03:19.660] Sen. Francis "Chiz" G. Escudero**  
+Honorable Luistro, you may proceed when you're ready. Yes,
+
+**[04:03:22.460] Sen. Francis "Chiz" G. Escudero**  
+comment
+
+**[04:03:23.740] Sen. Francis "Chiz" G. Escudero**  
+or objections, Attorney Robby?
+
+**[04:03:27.790] Atty. Roberto N. Batungbacal**  
+Just a few comments, Your Honor. Your Honor, we confirm receipt of the USB, but of course, we have to check if it works. And second, while we confirm receipt of the summary, we just want to put on record that the same appears to be undated and is unsigned by the witness. Nor is it certified, Your Honor. So we just want to put that on record. And also, Your Honor, for the We put on record our request for copies of the documents that were printed, Your Honor, for today. We hope to receive them today, Your Honor.
+
+**[04:03:59.660] Sen. Francis "Chiz" G. Escudero**  
+The hard copies that the witness has will be photocopied within the day and the court will also set through the clerk of court a date to mark the same, which
+
+**[04:04:14.260] Sen. Francis "Chiz" G. Escudero**  
+I believe you already have set a date for marking of documents. We just simply add this to the list of documents as you go along.
+
+**[04:04:22.440] Atty. Roberto N. Batungbacal**  
+Yes, Your Honor. And for us to receive copies of the documents, hopefully by today, Your Honor.
+
+**[04:04:27.820] Sen. Francis "Chiz" G. Escudero**  
+Yes, as earlier ruled by the Chair, you shall have a copy. And the prosecution as well will have a copy because I believe they don't have a copy as of yet.
+
+**[04:04:37.700] Sen. Francis "Chiz" G. Escudero**  
+Noted on your comments, Hon. Luistro, you may proceed.
+
+**[04:04:41.780] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, please.
+
+**[04:04:44.850] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, binanggit mo na print itong mga documents na ito na nakita mo from searching the field JEPs. System. Sino ang nag-print ng mga dokumento na iyan?
+
+**[04:04:58.180] Rendell P. Sopeña**  
+With the assistance of my colleagues and ako po.
+
+**[04:05:02.260] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At binanggit mo rin na sinave sa USB lahat ng information at dokumento na iyan. Sino ang nag-save sa USB ng lahat ng dokumentong iyan from the PhilJEP system?
+
+**[04:05:15.840] Rendell P. Sopeña**  
+Ako po yung mga nag-save po sa 6 na USB drive po ma'am.
+
+**[04:05:21.020] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, may I just put on record that we are requesting for the marking of the USB along with the 49 contracts and 231 documents composing of 484 pages as exhibit P, Roman numeral 2, 6, series, Your Honor. We submit that the marking will be done. After this trial before the Honorable Clerk of Court, Your Honor.
+
+**[04:05:53.050] Atty. Roberto N. Batungbacal**  
+Jury noted. Your Honor, we make a similar request to have our own copies marked, Your Honor.
+
+**[04:05:58.510] Sen. Francis "Chiz" G. Escudero**  
+Jury noted and granted.
+
+**[04:06:00.870] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, ano itong mga dokumento na in-extract, pre-named, at ngayon ay isinasubmit mo sa kagalanggalang na impeachment court?
+
+**[04:06:11.450] Rendell P. Sopeña**  
+Ito po yung mga documents na in-upload ng procuring entity. Patungkol po sa 49 contracts. Ito po yung mga RFQ, Request for Quotation. Meron din pong kasama sa mga documents na ito ng Invitation to Bid. Yung mga Notice of Award, Back Resolution, Notice to Proceed, and Memorandum of Agreement po.
+
+**[04:06:35.080] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, puntahan natin itong Bid Reference Number
+
+**[04:06:45.600] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+11959542.
+
+**[04:06:55.280] Rendell P. Sopeña**  
+Can I be allowed to also look at the documents, Your Honor? Yes, Mr.
+
+**[04:07:00.920] Sen. Francis "Chiz" G. Escudero**  
+Cepena. Thank
+
+**[04:07:01.920] Rendell P. Sopeña**  
+you, Your Honor. I
+
+**[04:07:02.940] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+stand corrected, Your Honor.
+
+**[04:07:04.240] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+11759542.
+
+**[04:07:09.400] Atty. Roberto N. Batungbacal**  
+Your Honor, to clarify, is this an item in the summary, Your Honor?
+
+**[04:07:13.240] Sen. Francis "Chiz" G. Escudero**  
+Exactly. What are you looking at, Counsel? Referring to, rather.
+
+**[04:07:20.270] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+This is a bid reference number, Your Honor, that pertains to the... Contract which was awarded by OWA to GenCorp Industries, Inc. Your Honor,
+
+**[04:07:33.970] Atty. Roberto N. Batungbacal**  
+may we ask for the
+
+**[04:07:34.930] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+item number?
+
+**[04:07:39.440] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+11759542. That is the bid reference number, Your Honor.
+
+**[04:07:43.310] Atty. Roberto N. Batungbacal**  
+Your Honor, apologies. Asking for the item number, not the bid reference, Your Honor. Just for easier reference. Again,
+
+**[04:07:50.370] Sen. Francis "Chiz" G. Escudero**  
+um, um, Honorable Luistro, um, I think that's why you're referring to one of the documents that are contained in the pile on the right-hand side of the witness, not on the summary that he supposedly prepared. In fact, we haven't asked him to identify it yet.
+
+**[04:08:12.430] Sen. Francis "Chiz" G. Escudero**  
+We're not yet there.
+
+**[04:08:17.740] Sen. Francis "Chiz" G. Escudero**  
+You may ask the witness with respect to awards from OWA that may be in a summary or table if you want.
+
+**[04:08:24.520] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+I understand, Your Honor. But the number that I mentioned, Your Honor, pertain to the entire procurement process of this particular contract. So it includes all the procurement documents that has relevance to this particular contract, Your Honor. And it is in the summary, Your Honor.
+
+**[04:08:43.360] Sen. Francis "Chiz" G. Escudero**  
+With your indulgence. Mr. Supena? Sa kinapal-kapal ng mga dokumentong yan at sinadinami-dami niyan at na-USB mo pa, gumawa ka ba ng summary or table? Kawag na yan? Yes,
+
+**[04:08:54.540] Rendell P. Sopeña**  
+Your Honor.
+
+**[04:08:55.040] Sen. Francis "Chiz" G. Escudero**  
+Kailan niyo po ginawa?
+
+**[04:08:57.540] Rendell P. Sopeña**  
+Yesterday, Your Honor, upon the request to leave the vicinity early.
+
+**[04:09:02.400] Sen. Francis "Chiz" G. Escudero**  
+Mag-isa ka lang na gumawa niyan o may iba kang katulong na gumawa niyan?
+
+**[04:09:05.340] Rendell P. Sopeña**  
+With the assistance po of my colleagues under the AGPOD.
+
+**[04:09:08.240] Sen. Francis "Chiz" G. Escudero**  
+So, ilan po kayong gumawa niyan?
+
+**[04:09:11.440] Rendell P. Sopeña**  
+Tatlo po, Your Honor.
+
+**[04:09:12.760] Sen. Francis "Chiz" G. Escudero**  
+At ginawa niyo kahapon lamang?
+
+**[04:09:15.250] Rendell P. Sopeña**  
+Tinapos po namin kakapon, Your Honor, yes.
+
+**[04:09:17.070] Sen. Francis "Chiz" G. Escudero**  
+At yan po yung dokumentong nasa harap niyo ngayon?
+
+**[04:09:19.850] Rendell P. Sopeña**  
+Correct po, Your Honor.
+
+**[04:09:21.010] Sen. Francis "Chiz" G. Escudero**  
+Bahagi po ba ng summary o table na yan yung mga bid documents na inaward ng OWA kaugnay ng PR number 1175942? Yes, Your
+
+**[04:09:35.510] Rendell P. Sopeña**  
+Honor.
+
+**[04:09:36.150] Sen. Francis "Chiz" G. Escudero**  
+Included po. Your witness, Honorable Luistro.
+
+**[04:09:38.730] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+For purposes of the records, Your Honor, the number that I mentioned pertain both to the file name in the USB submitted by the witness and to the bid reference number of this particular contract. Your Honor. Mr. Witness, may I proceed, Your Honor? Please
+
+**[04:09:54.270] Sen. Francis "Chiz" G. Escudero**  
+proceed, Counsel.
+
+**[04:09:55.190] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, I will be showing you documents relevant to this particular bid reference number. Can you please, this document is entitled Request for Quotation. Can you please tell us ano ang kaugnayan? ng dokumentong ito sa mga dokumento na isinasubmit mo ngayon sa kagalanggalang na impeachment court.
+
+**[04:10:23.340] Rendell P. Sopeña**  
+Apologies, medyo malabo po yung mata ko eh, Ken.
+
+**[04:10:26.690] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+May we request your honor that assisting counsel,
+
+**[04:10:32.220] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Attorney Tricia Soon... Assisting
+
+**[04:10:34.540] Sen. Francis "Chiz" G. Escudero**  
+counsel from both parties may approach. And Tech, can you kindly zoom in?
+
+**[04:10:47.060] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+May she be allowed, your honor, to show it in the laptop so that it will be more readable.
+
+**[04:10:56.040] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+I will repeat the question, Mr. Witness. Ano po ang kaugnayan nitong request for quotation na ito sa mga procurement documents ng GenCorp Industries Incorporated na isinasubmit niyo ngayon sa kagalanggalang na impeachment court?
+
+**[04:11:09.540] Rendell P. Sopeña**  
+Ang request for quotation po nito ay ang printed na ginawa po namin kaugnay po sa na-hour na contract with the OWA po, ma'am.
+
+**[04:11:18.480] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+So, you confirm na kasama po yan sa mga submissions niyo?
+
+**[04:11:22.400] Rendell P. Sopeña**  
+This is included po in the submission, yes.
+
+**[04:11:25.340] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Ang sunod ko pong ipapakita sa inyo na dokumento ay may pamagat namang memorandum of agreement.
+
+**[04:11:37.970] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Maaari niyo bang sabihin sa kagalanggalang na impeachment court, ano po ang kaugnayan ng dokumentong ipinapakita sa inyo sa inyong mga sinusumiting dokumento ngayon dito sa impeachment court?
+
+**[04:11:49.740] Rendell P. Sopeña**  
+Ang memorandum of agreement po nito ay isa rin po sa mga print at prepare po namin na dokumento.
+
+**[04:11:56.140] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+For purposes of the record, Mr. Witness, sino-sino po ang contracting parties dito sa memorandum of agreement na ito?
+
+**[04:12:04.800] Rendell P. Sopeña**  
+The contract is between Overseas Workers Welfare Administration, Regional Welfare Office, Region 11, and the Jollibee Bolton Corporation under the Gen Corporation Industry Inc., a franchise of Jollibee Food Corporations, ma'am.
+
+**[04:12:23.140] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, binanggit niyo po yung Jollibee.
+
+**[04:12:27.640] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Jollibee Bolton. Ito ho ba yung Jollibee na alam nating lahat?
+
+**[04:12:33.980] Atty. Roberto N. Batungbacal**  
+Objection, Your Honor. You would be incompetent to answer that.
+
+**[04:12:36.920] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+If he knows, Your Honor.
+
+**[04:12:38.820] Sen. Francis "Chiz" G. Escudero**  
+I am
+
+**[04:12:41.100] Rendell P. Sopeña**  
+not familiar, Your Honor.
+
+**[04:12:44.670] Sen. Francis "Chiz" G. Escudero**  
+Already answered, counsel. Move on.
+
+**[04:12:50.170] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, puntahan po natin yung huling bahagi ng Memorandum of Agreement.
+
+**[04:12:58.960] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Sino po ang contracting parties kung saan? May lagda na ipinapakita sa dokumentong iyan.
+
+**[04:13:07.310] Rendell P. Sopeña**  
+The signature of Expo is my own signature, ma'am.
+
+**[04:13:12.490] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Contracting parties, Mr. Witness.
+
+**[04:13:14.030] Rendell P. Sopeña**  
+Apologies. Contracting parties.
+
+**[04:13:17.620] Atty. Roberto N. Batungbacal**  
+Your Honor, objection, Your Honor. He would be incompetent to identify those signatures, Your Honor.
+
+**[04:13:22.560] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+On the basis, Your Honor, of what he sees from the documents. Precisely, Your Honor. How would he know?
+
+**[04:13:28.580] Sen. Francis "Chiz" G. Escudero**  
+The question, Counsel, your question is whose signatures appear?
+
+**[04:13:33.150] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+If I may rephrase, Your Honor?
+
+**[04:13:34.850] Sen. Francis "Chiz" G. Escudero**  
+You may rephrase, counsel.
+
+**[04:13:36.090] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Sino ang mga contracting parties dito sa huling bahagi ng memorandum of agreement na ito?
+
+**[04:13:42.180] Atty. Roberto N. Batungbacal**  
+Your Honor, the document would speak for itself, Your Honor.
+
+**[04:13:45.940] Sen. Francis "Chiz" G. Escudero**  
+Noted, counsel. Witness may answer.
+
+**[04:13:50.770] Sen. Francis "Chiz" G. Escudero**  
+Kindly read from the document for the record.
+
+**[04:13:53.690] Rendell P. Sopeña**  
+Gina Mae Quimora, officer in charge of the Overseas Workers Welfare Administration Regional Welfare Office. Region 11, and Jollibee Bolton, signed by Zeegar Z. Izario, Managing Director, Your Honor.
+
+**[04:14:12.100] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Nabanggit po ulit yung Jollibee Bolton. Again, Mr. Witness, ito ho
+
+**[04:14:17.040] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+ba yung Jollibee na alam ng
+
+**[04:14:18.380] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+lahat ng Pilipino?
+
+**[04:14:19.680] Atty. Roberto N. Batungbacal**  
+Your Honor, same objection as in answered and competent.
+
+**[04:14:24.040] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+I will move on, Your Honor.
+
+**[04:14:27.900] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Puntahan naman po natin ngayon. Ang LGU BID reference number 10208635 na may kagaya pong numero ng file name dito sa ating summary at USB.
+
+**[04:14:46.600] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Pinapakita ko po sa inyo isang dokumentong may pamagat na request for quotation. Ano pong kaugnayan ng dokumentong ito sa
+
+**[04:14:58.280] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+mga sinusumiti nyo ngayon sa kagalanggalang na impeachment court?
+
+**[04:15:04.890] Rendell P. Sopeña**  
+May
+
+**[04:15:05.590] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+we request your honor that attorney Mico be allowed to show what appears in the screen of the laptop.
+
+**[04:15:14.970] Rendell P. Sopeña**  
+It's a
+
+**[04:15:15.450] Rendell P. Sopeña**  
+request for quotation for catering services po.
+
+**[04:15:21.570] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Sino po ang procuring entity dito?
+
+**[04:15:24.840] Rendell P. Sopeña**  
+The indicated procuring entity po is the city of Davao, Davao del Sur.
+
+**[04:15:30.590] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Sino naman po ang na-awarda ng
+
+**[04:15:32.350] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+merchant dito sa procurement na ito?
+
+**[04:15:42.760] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+I'm sorry, I will rephrase, Your Honor.
+
+**[04:15:47.040] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+This is a request for quotation. Are there merchants mentioned in this particular document, Mr. Witness?
+
+**[04:15:56.640] Rendell P. Sopeña**  
+The initial presented document basically contains po yung requesting procurement activity coming from the procuring entity, Ma'am.
+
+**[04:16:05.770] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Thank you. But I understand that this is part of the bid reference number 10208635 where a notice of award was issued likewise. Do you confirm?
+
+**[04:16:17.830] Rendell P. Sopeña**  
+Yes, madam.
+
+**[04:16:18.490] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+And from that notice of award, can you please tell this honorable court? Kanino na award ang kontratang ito? Your
+
+**[04:16:24.750] Atty. Roberto N. Batungbacal**  
+Honor, objection, Your Honor. No notice of award has been shown to the witness so far, Your Honor.
+
+**[04:16:29.700] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+It was mentioned already by the witness, Your Honor.
+
+**[04:16:32.100] Atty. Roberto N. Batungbacal**  
+Yes, Your Honor, but it was not identified by the witness yet, Your Honor.
+
+**[04:16:35.420] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Nevertheless, Your Honor, that's among the submissions of the witness, which he testified earlier, he printed, he certified, and he's now submitting to the court.
+
+**[04:16:44.720] Sen. Francis "Chiz" G. Escudero**  
+We don't know yet that, Counsel. With the permission of the parties, is that part of your summary?
+
+**[04:16:50.200] Rendell P. Sopeña**  
+Yes, Your Honor.
+
+**[04:16:52.120] Sen. Francis "Chiz" G. Escudero**  
+If possible, Honorable Luistro, can you refer to the summary and or table? I think the
+
+**[04:17:14.920] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+prosecution can... Make reference with the use of the laptop, Your Honor, which we can share in the big screen for the appreciation of the Honorable Senator-Judges and the viewing public, Your Honor. I believe this is very significant, Your Honor, so I hope we can allow the witness to testify on this.
+
+**[04:17:35.250] Sen. Francis "Chiz" G. Escudero**  
+Ito mo bang pinapakita, ginawang sabihin niya, bahagi nung nasa makapal na papel dyan sa kanang bahagi ninyo?
+
+**[04:17:44.250] Rendell P. Sopeña**  
+Yes, Your Honor.
+
+**[04:17:46.730] Sen. Francis "Chiz" G. Escudero**  
+Bahagi yan sa nakapaloob dun sa USB?
+
+**[04:17:49.190] Rendell P. Sopeña**  
+Yes, Your Honor.
+
+**[04:17:50.670] Sen. Francis "Chiz" G. Escudero**  
+Bahagi din yan ng summary ninyo?
+
+**[04:17:53.050] Rendell P. Sopeña**  
+Yes, Your Honor. Opo.
+
+**[04:17:54.870] Sen. Francis "Chiz" G. Escudero**  
+So is it possible for you to testify based
+
+**[04:18:03.100] Sen. Francis "Chiz" G. Escudero**  
+on your summary
+
+**[04:18:04.940] Sen. Francis "Chiz" G. Escudero**  
+by looking at this document?
+
+**[04:18:08.810] Rendell P. Sopeña**  
+With the familiarity of the documents that I prepared just recently, yes, Your Honor.
+
+**[04:18:13.330] Sen. Francis "Chiz" G. Escudero**  
+If you're familiar but if you're not, kindly indicate as well. I'll give her some leeway, counsel. In the meantime, objection is overruled. You may continue, counsel.
+
+**[04:18:24.930] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, balikan natin yung request for quotation. Ano ang description ng mga items na subject ng procurement process? May I request, Attorney Mico, Your Honor, that he be allowed to show the witness the document through the laptop.
+
+**[04:18:44.150] Sen. Francis "Chiz" G. Escudero**  
+Standing authority has already been given to assisting counsels. To approach the witness.
+
+**[04:18:58.920] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+For purposes of the records, Your Honor, may we request the witness to please read the description from this document, Your Honor. Request for quotation.
+
+**[04:19:09.860] Atty. Roberto N. Batungbacal**  
+Your Honor, before proceeding, may we just know if what the witness is reading is the same as what is slashed on the screen? We
+
+**[04:19:17.320] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+confirm,
+
+**[04:19:17.760] Atty. Roberto N. Batungbacal**  
+Your Honor.
+
+**[04:19:19.900] Sen. Francis "Chiz" G. Escudero**  
+It should be the same. Your assisting counsel and the part of the respondent should be able to confirm that as well.
+
+**[04:19:26.890] Sen. Francis "Chiz" G. Escudero**  
+We'll know soon enough as soon as he reads it.
+
+**[04:19:34.430] Sen. Francis "Chiz" G. Escudero**  
+In that case, good question, Attorney Robby. It seems to be not the same.
+
+**[04:19:54.490] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+May we request, Your Honor, the witness to read for purposes of the record the description of the item of this particular procurement document.
+
+**[04:20:07.730] Rendell P. Sopeña**  
+Based on the shown here po sa laptop, the description is
+
+**[04:20:13.140] Rendell P. Sopeña**  
+the fourth quarter of 2023, ka-25 food. and catering services. One lot meal and snacks without venue October 27, 2023 for 200 packs at 180 pesos per pack. Menu, breakfast, breakfast hot dog, breakfast beefsteak, 350 ml, bottle of water and served with ketchup. Menu,
+
+**[04:20:44.910] Sen. Francis "Chiz" G. Escudero**  
+lunch. Honorable Bistro, you have to forgive me.
+
+**[04:20:52.820] Sen. Francis "Chiz" G. Escudero**  
+This contract is for 50,000 and you're talking about ketchup.
+
+**[04:20:59.530] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+This is in line, Your Honor, with... I agree,
+
+**[04:21:02.070] Sen. Francis "Chiz" G. Escudero**  
+counsel. I'm not even aware. Although VP Sara mentioned GenCorp in her salon, you presented a witness that said she's not a stockholder of GenCorp. I'm giving you a lot of leeway here, okay? And we're now going through documents.
+
+**[04:21:21.330] Sen. Francis "Chiz" G. Escudero**  
+From Phil Jeffs that awarded a contract for 56,000 to a corporation that according to your previous witness, the respondent is not a stockholder of.
+
+**[04:21:35.740] Sen. Francis "Chiz" G. Escudero**  
+So you have to understand the court's slight...
+
+**[04:21:39.440] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+I
+
+**[04:21:40.690] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+understand, Your Honor, but...
+
+**[04:21:42.470] Sen. Francis "Chiz" G. Escudero**  
+Impatience with respect to this document if you will do this with the rest.
+
+**[04:21:48.690] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+We have only few documents to be shown to the impeachment court. That is only to give opportunity to the viewing public, including the senator-judges, to understand what these procurement documents are being referred to are all about, Your Honor. I have only five documents to show, Your Honor.
+
+**[04:22:11.790] Sen. Francis "Chiz" G. Escudero**  
+According to the Senate President, he totaled it. And I know him to be good in math. It totals 35 million. All the 40...
+
+**[04:22:20.850] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, Your Honor. And the documents which are being presented are part of the 35 million total amount of contract of GenCorp.
+
+**[04:22:29.570] Sen. Francis "Chiz" G. Escudero**  
+But can we skip the description of the ketchup and the maize and the snacks?
+
+**[04:22:34.710] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, Your Honor. We will do this very quick, Your Honor. And
+
+**[04:22:36.950] Sen. Francis "Chiz" G. Escudero**  
+the hotdog too, Mr.
+
+**[04:22:38.230] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Witness.
+
+**[04:22:38.950] Sen. Francis "Chiz" G. Escudero**  
+Honorable Luis Rey, may proceed.
+
+**[04:22:40.750] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Can you just read the menu for lunch? Your Honor, sorry, Your Honor. Just for the last item of this particular document, Mr.
+
+**[04:22:48.190] Atty. Roberto N. Batungbacal**  
+Witness. Your Honor, the
+
+**[04:22:48.670] Atty. Roberto N. Batungbacal**  
+court already made the ruling to skip this portion of the document.
+
+**[04:22:52.510] Sen. Francis "Chiz" G. Escudero**  
+Again, at Honorable Bistro, let's skip the hotdog and the chicken joy and the ketchup. We submit, Your
+
+**[04:23:00.900] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Honor. I will move on.
+
+**[04:23:02.520] Sen. Francis "Chiz" G. Escudero**  
+Please move on, Counsel.
+
+**[04:23:05.770] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Now, let us proceed to LGU bid reference number 11495158 with a similar file number in the USB and in the summary prepared by the witness. I'm showing you a document, the title of which is Invitation to Bid. Ano pong kaugnayan ito sa mga submissions niyo sa kagalanggalang na impeachment court?
+
+**[04:23:40.670] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Can't you read, sir?
+
+**[04:23:42.270] Rendell P. Sopeña**  
+Medyo malabo po, ma'am. Apologies po.
+
+**[04:23:46.380] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+The question po is ano pong kaugnayan ng dokumentong yan sa inyong mga isinasubmit ngayon sa impeachment court?
+
+**[04:23:52.990] Rendell P. Sopeña**  
+The shown document here, ma'am, the invitation to bid po is included in the prepared documents, ma'am.
+
+**[04:24:04.780] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+I'll be moving to the next document. I'm showing another document, the title of which is notice of award. Ano naman pong kaugnayan nito dun sa mga submissions nyo sa kagalang-galang na impeachment court?
+
+**[04:24:20.490] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Notice of award.
+
+**[04:24:26.380] Atty. Roberto N. Batungbacal**  
+Your Honor, may we know which notice of award because there might be multiple notices of award.
+
+**[04:24:32.120] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, we have given already the bid reference number and there is only one contract for every reference number. It's 11-49-5158.
+
+**[04:24:44.440] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Ano po ang kaugnayan ng notice of award sa inyong mga submissions sa impeachment court?
+
+**[04:24:50.220] Rendell P. Sopeña**  
+The notice of award po is included in the documents and this indicates that this was awarded to Gencor, Industries Inc.
+
+**[04:25:02.610] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Ipinapakita ko din po sa inyo isa pang dokumento na may titulong Award Notice Abstract. Ano naman pong kaugnayan nito sa mga sinusumiti nyo ngayon sa Impeachment Court?
+
+**[04:25:15.470] Rendell P. Sopeña**  
+As the walkthrough kanina po, ito po yung nagkoclose ng procurement activity ng mga procuring entities sa FJEP system by creating the notice of award through the system. Ito po yung final document na pinaprepare sa Felgep System, ma'am.
+
+**[04:25:34.410] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At sino po ang merchant na na-awarda ng kontratang ito ayon sa dokumentong iyan?
+
+**[04:25:40.120] Rendell P. Sopeña**  
+The contract was awarded to GenCorp Industries Inc., ma'am.
+
+**[04:25:47.720] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At ito po ba yung Jollibee na Bolton Branch, Mr. Witness? Your Honor, same objection, Your Honor.
+
+**[04:25:53.000] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+If you
+
+**[04:25:53.220] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+can check it in the document, Mr. Witness. Your
+
+**[04:25:56.240] Atty. Roberto N. Batungbacal**  
+Honor, the court has already made a ruling on this line of questioning, Your Honor.
+
+**[04:26:01.960] Sen. Francis "Chiz" G. Escudero**  
+It's not the ketchup. It's the corporation. It's not the chicken, counsel.
+
+**[04:26:06.760] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Yes, Your Honor. It's not the ketchup.
+
+**[04:26:06.880] Sen. Francis "Chiz" G. Escudero**  
+It's the corporation. No, not the chicken. It's the corporation.
+
+**[04:26:10.340] Atty. Roberto N. Batungbacal**  
+Yes, Your Honor.
+
+**[04:26:11.000] Sen. Francis "Chiz" G. Escudero**  
+Witness may answer? Can you repeat the question?
+
+**[04:26:14.490] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Ito ba'y tumutukoy doon sa
+
+**[04:26:15.950] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Jollibee-Bolton branch?
+
+**[04:26:21.360] Rendell P. Sopeña**  
+Based on the documents, an address is only indicated as a Bolton street.
+
+**[04:26:26.990] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Bolton Street.
+
+**[04:26:28.530] Rendell P. Sopeña**  
+Your
+
+**[04:26:29.030] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Honor, ito po'y chineko sa Google Map at ito po'y tatlong minuto lamang ang layo sa Davao City Hall.
+
+**[04:26:36.310] Atty. Roberto N. Batungbacal**  
+Your Honor, may we move to strike the manifestations of counsel?
+
+**[04:26:40.630] Sen. Francis "Chiz" G. Escudero**  
+Counsel cannot supply facts. We
+
+**[04:26:43.770] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+understand, Your Honor. We will move
+
+**[04:26:45.070] Sen. Francis "Chiz" G. Escudero**  
+on. So stricken of the record. We
+
+**[04:26:47.350] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+submit, Your Honor. Move on,
+
+**[04:26:48.390] Sen. Francis "Chiz" G. Escudero**  
+counsel.
+
+**[04:26:51.180] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Puntahan naman po natin yung tinukoy nyo kanina na
+
+**[04:27:05.810] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr.
+
+**[04:27:14.250] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Witness, ano pong kaugnayan ng dokumentong ipinapakita sa inyo ngayon doon sa Excel file na inyong in-extract, print in, sinertify?
+
+**[04:27:23.850] Atty. Roberto N. Batungbacal**  
+Your Honor, misleading. I don't think the witness has identified any Excel file earlier.
+
+**[04:27:30.090] Sen. Francis "Chiz" G. Escudero**  
+Are you referring to the table or summary, Honorable Uyistro? I am referring,
+
+**[04:27:35.270] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, to the Excel file extracted from the PhilGEPs itself. That is prior to the summary that was prepared by the witness himself.
+
+**[04:27:49.220] Sen. Francis "Chiz" G. Escudero**  
+That's not his summary.
+
+**[04:27:52.280] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+It is an Excel file.
+
+**[04:27:54.860] Sen. Francis "Chiz" G. Escudero**  
+Yes, but that's not the summary that
+
+**[04:27:57.120] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+he has. Yes, it's not yet the summary, Your Honor. It's not yet the summary.
+
+**[04:28:02.640] Sen. Francis "Chiz" G. Escudero**  
+Mr. Supena, you
+
+**[04:28:04.400] Sen. Francis "Chiz" G. Escudero**  
+have that?
+
+**[04:28:05.490] Rendell P. Sopeña**  
+The shown file po is included in the provided printout, Your Honor.
+
+**[04:28:10.690] Sen. Francis "Chiz" G. Escudero**  
+Not in the summary?
+
+**[04:28:12.050] Rendell P. Sopeña**  
+It's included in the summary, Your Honor, is the summary list of all the documents included in the submission.
+
+**[04:28:21.070] Sen. Francis "Chiz" G. Escudero**  
+Anong kinalaman ng summary sa Excel file?
+
+**[04:28:25.900] Rendell P. Sopeña**  
+The shown file po is the, as mentioned earlier, Your Honor, is the summary of the extracted Excel file that came from the Repository database for my easy viewing po based dun sa na-extract pong
+
+**[04:28:40.870] Sen. Francis "Chiz" G. Escudero**  
+So kasama yan sa summary niyong hawak ngayon?
+
+**[04:28:44.040] Rendell P. Sopeña**  
+Hindi. Included po dito yan, Your Honor, yung pinapakita po ngayon sa screen.
+
+**[04:28:49.080] Sen. Francis "Chiz" G. Escudero**  
+Kasama dyan sa summary niyo?
+
+**[04:28:50.480] Rendell P. Sopeña**  
+Yes po.
+
+**[04:28:51.190] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[04:28:52.140] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, counsel. Mr.
+
+**[04:28:54.420] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Witness,
+
+**[04:28:54.860] Sen. Francis "Chiz" G. Escudero**  
+Anong
+
+**[04:28:56.400] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+kaugnayan ng Excel file na ipinapakita sa iyo ngayon? Doon sa excel file na tinukoy mo kanina, in-extract, print in, sinave sa USB, at ngayon ay sinusumiti mo sa kagalanggalang na impeachment court.
+
+**[04:29:11.240] Rendell P. Sopeña**  
+Ito po yung summary na list na ginawa ko and pinagwahiwalay ko po lang yung tatlo for my easy reference lang po.
+
+**[04:29:18.640] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At pagkatapos mong ma-extract, ma-print, at ma-certify, ma-save sa USB, yung excel file na yan. Ano pa? Ang iyong ginawa kung mayroon man.
+
+**[04:29:29.380] Rendell P. Sopeña**  
+For easy study and reference po. Kasi upon extraction, kung mabibiyo po, makikita naman po sa provided na USB. Yung tab po dyan, meron pong extracted data na tab kung makikita po nyo. Ayan po yung directly extracted from the data without any intervention of encoding talaga pong diretso ng system. Yes. Kaso iba yung nandun.
+
+**[04:29:57.510] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+You're saying Mr. Witness that this ex-
+
+**[04:30:02.620] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+The
+
+**[04:30:03.100] Rendell P. Sopeña**  
+last tab po madam, not this one.
+
+**[04:30:09.110] Rendell P. Sopeña**  
+This one with the
+
+**[04:30:10.290] Rendell P. Sopeña**  
+same tab name.
+
+**[04:30:12.030] Atty. Roberto N. Batungbacal**  
+If
+
+**[04:30:12.510] Rendell P. Sopeña**  
+the shown in the screen and in the laptop are the same, yes. With the exact tab name po, extracted raw data of September. That's the extracted data directly generated.
+
+**[04:30:26.110] Sen. Francis "Chiz" G. Escudero**  
+Are they the same?
+
+**[04:30:29.800] Sen. Francis "Chiz" G. Escudero**  
+Assisting counsel, are they the same?
+
+**[04:30:32.460] Atty. Roberto N. Batungbacal**  
+The title name.
+
+**[04:30:33.440] Sen. Francis "Chiz" G. Escudero**  
+The tab.
+
+**[04:30:34.460] Atty. Roberto N. Batungbacal**  
+The tab name is the same, Your Honor.
+
+**[04:30:38.950] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[04:30:41.060] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+And after you extracted this Excel file, what did you do?
+
+**[04:30:44.880] Rendell P. Sopeña**  
+I just made the summarization po based on the shown different tabs po as title name, PhilHealth, City of Davao, OWWA, and the summary per year po.
+
+**[04:30:56.660] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+And I'll be showing you a summary of OWA. Can you tell us if this is the same summary that you are referring to? The OWA procurement?
+
+**[04:31:19.110] Rendell P. Sopeña**  
+Yes, madam. This is the OWA procurement which awarded 100. And
+
+**[04:31:22.790] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+for purposes
+
+**[04:31:23.150] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+of the record, Mr. Witness, who is the procuring entity?
+
+**[04:31:26.110] Rendell P. Sopeña**  
+The procuring entity is Overseas Worker Welfare Administration, Region 11, Your Honor.
+
+**[04:31:32.130] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+And who is the awarded merchant?
+
+**[04:31:35.910] Rendell P. Sopeña**  
+The awarded merchant is GenCorp
+
+**[04:31:38.310] Rendell P. Sopeña**  
+Industries, Inc.
+
+**[04:31:39.995] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+How much is the awarded contract? How much is the amount of the awarded contract?
+
+**[04:31:45.500] Rendell P. Sopeña**  
+For the amount of the contract is 330,000 pesos ma'am.
+
+**[04:31:49.680] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+And for purposes of the record, can you cite the bid reference number indicated in your summary?
+
+**[04:31:54.920] Rendell P. Sopeña**  
+The indicated bid reference number is 11759542.
+
+**[04:32:01.760] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Ano bang kahalagahan nitong bid reference number na ito?
+
+**[04:32:05.940] Rendell P. Sopeña**  
+The bid reference number is the unique generated Identifier po nung bid activity na ito sa PhilJEP system.
+
+**[04:32:16.090] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Maraming salamat po. Puntahan naman po natin itong isa pang dokumento kung saan makikita ang pangalang PhilHealth Corporation Region 11. Ano pong kaugnayan ito doon sa summary pa rin na tinukoy nyo kanina lamang? So,
+
+**[04:32:31.670] Rendell P. Sopeña**  
+coming from the extracted data po na nanggaling po sa repository, I just summarize po lahat po ng PhilHealth-awarded contracts for easy referencing lang po.
+
+**[04:32:44.420] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+For purposes of the record, sino po ang procuring entity?
+
+**[04:32:48.180] Atty. Roberto N. Batungbacal**  
+Your Honor, Your Honor.
+
+**[04:32:50.200] Sen. Francis "Chiz" G. Escudero**  
+Yes, Attorney Robby.
+
+**[04:32:51.480] Atty. Roberto N. Batungbacal**  
+Yes, Your Honor. May we, at this point, we have to object based on relevance, Your Honor. May we know the purpose of the line of questioning, Your Honor?
+
+**[04:33:01.120] Sen. Francis "Chiz" G. Escudero**  
+Kindly respond, Honorable Lewistrom.
+
+**[04:33:02.880] Atty. Roberto N. Batungbacal**  
+In
+
+**[04:33:03.020] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+relation to
+
+**[04:33:03.540] Atty. Roberto N. Batungbacal**  
+Article 2.
+
+**[04:33:04.580] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, the table shows... Or the summary shows the contracts awarded by PhilHealth Region 11 to GenCorp Industries, Inc. And we will remember, Your Honor, that no less than the respondent herself made a declaration in the Salen to be particular 2024 and 2025, that this is one of the companies Where she maintains business and financial interests
+
+**[04:33:36.400] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, I
+
+**[04:33:36.780] Atty. Roberto N. Batungbacal**  
+apologize, Your Honor, but right now, Your Honor, we have to cut off the prosecutor with all due respect. This is already covered by the ruling of the court not to make conclusions of law or fact, Your Honor. I'm
+
+**[04:33:46.840] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+not making a conclusion
+
+**[04:33:48.000] Sen. Francis "Chiz" G. Escudero**  
+of fact or law.
+
+**[04:33:48.860] Sen. Francis "Chiz" G. Escudero**  
+Allow her to finish. Kindly finish, Honorable Luistra, before I make my ruling.
+
+**[04:33:54.820] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+May I proceed, Your Honor?
+
+**[04:33:56.200] Sen. Francis "Chiz" G. Escudero**  
+No, kindly finish with your response to the objection.
+
+**[04:34:00.600] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor, this is not a conclusion of fact. As a matter of fact, I wish to invoke mandatory judicial notice that the Honorable Impeachment Court heard already our witness from the Ombudsman which testified or who testified on the 2024 SAL-N and the 2025 SAL-N where the Respondent Vice President herself declared that she is a shareholder of GenCorp Industries, Inc. The admission came from the Respondent herself. And I wish to invoke the jurisprudence, Your Honor, which says that admission must be given greater weight. And it, in fact, throws the burden of proving that it is a mistake to the person who made such declaration or admission, Your Honor.
+
+**[04:34:57.510] Atty. Roberto N. Batungbacal**  
+Number 2, Your Honor, the court already made a ruling and even a finding that questions asked to GenCorp are appears to be irrelevant and that the burden is on the prosecution to show the relevance right now, Your Honor. And so far, Your Honor, they still have not shown the relevance of this line of questioning in relation to GenCorp, Your Honor. May I add something, Your Honor?
+
+**[04:35:23.090] Sen. Francis "Chiz" G. Escudero**  
+Your Honor, please. PhilHealth is the last agency, correct? The City of Davao is
+
+**[04:35:29.660] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+the last agency, Your Honor.
+
+**[04:35:31.100] Sen. Francis "Chiz" G. Escudero**  
+Ah, you're not yet done with the City of Davao?
+
+**[04:35:32.600] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+That is for the summary, Your Honor. But just to put on record, Your Honor, please be reminded that the last subsection of Article 2 of the Articles of Impeachment on Unexplained Wealth is non-divestment of other business and financial interests. And it is along this line that we are showing the participation of the respondent By way of the evidence being presented, Your Honor, with respect to GenCorp Industries Inc., Your Honor.
+
+**[04:36:01.950] Sen. Francis "Chiz" G. Escudero**  
+Let's allow her to finish, Atty. Robby. Kindly finish with this, Hon. Luis Troll.
+
+**[04:36:09.790] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness, sino po ang merchants na na-awardan ng kontrata ng PhilHealth Insurance Corporation Region 11?
+
+**[04:36:19.240] Rendell P. Sopeña**  
+GenCorp Industries Inc., Ma'am.
+
+**[04:36:21.550] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Ilan po ang kabuoang kontrata na naiaward ng PhilHealth Insurance Corporation Region 11 sa GenCorp Industries Inc.? 33.
+
+**[04:36:34.560] Rendell P. Sopeña**  
+At
+
+**[04:36:35.930] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+gaano naman po ang kabuoang halaga nitong 33 contracts na inaward ng PhilHealth Region 11 sa GenCorp Industries Inc.?
+
+**[04:36:45.870] Rendell P. Sopeña**  
+Total of 1,331,288 pesos.
+
+**[04:36:52.540] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Maraming salamat, Mr. Witness. Puntahan natin yung huling summary na iyong ginawa, kung saan makikita naman natin ang pangalang City of the Vow.
+
+**[04:37:03.450] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Ano po ang kaugnayan nitong summary nito doon sa tinukoy nyo kaninang mga ginawa nyong summary na isinusumiti nyo rin ngayon sa kagalagalang na impeachment court?
+
+**[04:37:14.250] Rendell P. Sopeña**  
+Yung summary po, base lang ng lahat na award po with the City of the Vow.
+
+**[04:37:19.750] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At sino po ang procuring entity for purposes of the record?
+
+**[04:37:23.530] Rendell P. Sopeña**  
+The procuring entity is the City of Dabao, ma'am. At
+
+**[04:37:26.530] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+sino po ang inawarda na
+
+**[04:37:27.990] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+merchant nitong mga kontratang ito?
+
+**[04:37:31.760] Rendell P. Sopeña**  
+The GenCorp Industry Inc., ma'am.
+
+**[04:37:40.330] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Mr. Witness from this table, and I hope attorneys soon can assist, I wish to invite your attention to bid reference number 9126729.
+
+**[04:37:55.500] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Magkano po ang halaga ng kontrata na inaward ng City of Davao sa GenCorp Industries Inc.? A
+
+**[04:38:05.600] Rendell P. Sopeña**  
+total of 5,143,500 pesos ma.
+
+**[04:38:11.600] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Puntahan naman po natin from this summary. Bid reference number 100-177-88.
+
+**[04:38:21.260] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Magkano po ang kabuang halaga ng kontrata na inaward? ng City of Davao sa GenCorp Industries, Inc.
+
+**[04:38:35.730] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Puntahan naman po natin ang bid reference number 1149-5158. Magkano po ang kabuang halaga ng kontrata na inaward ng City of Davao LGU sa GenCorp Industries, Inc.?
+
+**[04:38:54.410] Atty. Roberto N. Batungbacal**  
+The prosecutor to specify the year in her question, Your Honor. As stated in the document, Your Honor. Just so the question and the answer would be more accurate.
+
+**[04:39:03.750] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+We will proceed to that, Your Honor. The question is qualified by bid reference number and there is only one contract that corresponds to the bid reference number. That is for the guidance of the defense. If I
+
+**[04:39:15.230] Sen. Francis "Chiz" G. Escudero**  
+may, counsel.
+
+**[04:39:18.090] Sen. Francis "Chiz" G. Escudero**  
+All of these bids and awards
+
+**[04:39:22.800] Sen. Francis "Chiz" G. Escudero**  
+by the City of Davao, by OWA, and PhilHealth. All of these happened during the term of the respondent as Vice President. Do you confirm, Honorable Istro?
+
+**[04:39:37.280] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+We confirm, Your Honor.
+
+**[04:39:38.840] Sen. Francis "Chiz" G. Escudero**  
+None of them pertain to awards that happened prior to her term as Vice President.
+
+**[04:39:44.000] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+We confirm that,
+
+**[04:39:44.940] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Your Honor. So this is all from what I have. The dates cover July 21, 2020.
+
+**[04:39:54.260] Sen. Francis "Chiz" G. Escudero**  
+32
+
+**[04:39:54.660] Sen. Francis "Chiz" G. Escudero**  
+up
+
+**[04:39:55.350] Sen. Francis "Chiz" G. Escudero**  
+to June 23, 2026. I think that would be sufficient identification, Atty. Robby. For the meantime, that we don't have a copy yet.
+
+**[04:40:06.950] Atty. Roberto N. Batungbacal**  
+If I may be recognized Your Honor?
+
+**[04:40:08.300] Sen. Francis "Chiz" G. Escudero**  
+Of course.
+
+**[04:40:08.650] Atty. Roberto N. Batungbacal**  
+Thank you, Your Honor.
+
+**[04:40:09.440] Atty. Roberto N. Batungbacal**  
+So, just a short manifestation, Your Honor. So, it is clear, Your Honor, that these contracts were awarded. During the time that the vice president was not in the city of Davao anymore, Your Honor. Just a brief manifestation.
+
+**[04:40:22.400] Sen. Francis "Chiz" G. Escudero**  
+Yes, but on the reverse, Attorney Robby, if she was still the mayor, I would not have allowed it because it would have been irrelevant for our purposes.
+
+**[04:40:32.340] Sen. Francis "Chiz" G. Escudero**  
+Honorable Luistro,
+
+**[04:40:34.470] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+I have one last for identification, Your Honor. I hope you will allow this representation. Let us move to bid reference number 12508294, Mr. Witness.
+
+**[04:40:47.790] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Magkano po ang kabuang halaga na inaward ng City of the Vow LGU sa GenCorp Industries, Inc.? Your
+
+**[04:40:57.630] Atty. Roberto N. Batungbacal**  
+Honor, again, may we just know what year, Your Honor?
+
+**[04:41:01.000] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+This is from 2022 to 2026. All these contracts, Your Honor.
+
+**[04:41:07.220] Sen. Francis "Chiz" G. Escudero**  
+At the proper time, Attorney Robby, I think we will be able to reference based on DTSN and the journal. For the meantime, this will suffice. Court will allow it. So that we can move forward with this witness. Please answer, Mr. Supena.
+
+**[04:41:20.970] Rendell P. Sopeña**  
+The awarded contract, Your Honor, is 8.4 million.
+
+**[04:41:26.420] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At this juncture, Your Honor, may
+
+**[04:41:32.030] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+I ask, Mr. Witness, magkano po ang kabuang halaga ng lahat ng kontrata na nai-award sa GenCorp Industries, Inc.?
+
+**[04:41:44.720] Rendell P. Sopeña**  
+Total
+
+**[04:41:49.490] Rendell P. Sopeña**  
+of 35,800,000 78,188 pesos. At
+
+**[04:41:57.260] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+sa nabanggit pong halaga, magkano po dyan ang inaward ng City of Davao?
+
+**[04:42:02.950] Rendell P. Sopeña**  
+For the City of Davao, a total of 34,216,900 pesos po ma'am.
+
+**[04:42:09.390] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Magkano naman po ang inaward ng PhilHealth Region 11?
+
+**[04:42:12.370] Rendell P. Sopeña**  
+For PhilHealth, 1,331,288 pesos po ma'am.
+
+**[04:42:18.290] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At magkano naman po ang inaward ng OWA Region 11?
+
+**[04:42:22.640] Rendell P. Sopeña**  
+For OVP 330,000 pesos, ma.
+
+**[04:42:25.540] Atty. Roberto N. Batungbacal**  
+Your Honor, at this juncture, Your Honor, we just want to manifest, Your Honor, that earlier the Congressman Luis Trost said that this is the first time that they saw the documents. So it's just interesting to the defense, Your Honor, that they already have graphs and presentations prepared on the documents. We just want to put that on record, Your Honor.
+
+**[04:42:48.710] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+If I may just put on record, Your Honor,
+
+**[04:42:51.330] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+we have
+
+**[04:42:53.330] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+a lot of volunteer lawyers who are working simultaneously to this examination, Your Honor. And we can honestly say that they are capable in coming up with this visual presentation that will aid the appreciation of the Honorable Senator-Judges along with the viewing public, Your Honor.
+
+**[04:43:12.910] Sen. Francis "Chiz" G. Escudero**  
+Again, noted, but again, proper subject matter of course. During your turn, Attorney Robbie.
+
+**[04:43:18.210] Atty. Roberto N. Batungbacal**  
+During trial, Your Honor.
+
+**[04:43:19.370] Sen. Francis "Chiz" G. Escudero**  
+Please proceed.
+
+**[04:43:21.110] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+At
+
+**[04:43:22.430] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+this juncture, Your Honor, I respectfully move that the Honorable Impeachment Court take mandatory judicial notice of the following. Number one, Your Honor, that Ombudsman Records Division OIC already testified before the Impeachment Court, particularly with respect to the 2024 and the 2025 SAL-N of the Respondent Vice President, where she herself declared that she is a shareholder of GenCorp Industries, Inc. As a matter of fact, Your Honor, she even indicated in those SAL-N that the same was acquired in 2013. Number two, Your Honor,
+
+**[04:44:12.100] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Article 7, Section 13 of the Constitution. Public officials shall not, during their tenure, directly or indirectly practice any other profession, participate in any business, or be financially interested in any contract with or in any franchise or special privilege granted by the government or any subdivision, agency or instrumentality thereof,
+
+**[04:44:44.810] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+including
+
+**[04:44:45.530] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+government-owned or controlled corporations and
+
+**[04:44:48.750] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+their subsidiaries.
+
+**[04:45:07.340] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Number 3, Your Honor, is Section 66, RA 12009. The HOPE or the Head of Procuring Entity or his Duly Authorized Representative shall approve or disapprove the recommendation of the BAC or the Bids and Awards Committee. Number 4, Your Honor, Section 5, RA 12009. The hope of the LGU is the local chief executive. And ultimately, Your Honor, we invoke mandatory judicial notice to the fact that the local chief executive of the VAU City, the head of procurement entity, the one who approves the resolution of the BAC, is no less than Mayor Sebastian Duterte.
+
+**[04:46:09.130] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+I conclude, Your Honor.
+
+**[04:46:11.130] Sen. Francis "Chiz" G. Escudero**  
+With your direct or with your motion?
+
+**[04:46:14.020] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Sorry, with my motion. Your Honor?
+
+**[04:46:16.340] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+And I was hoping that...
+
+**[04:46:18.000] Sen. Francis "Chiz" G. Escudero**  
+Allow the chair to rule. Yes, the chair, given that the court, rather, given that the salons have been identified in court, that indeed GenCorp was mentioned there, the chair takes judicial notice of the law cited by the... Honorable Wistro, but not as to the interpretation, meaning, nor application of those laws according to the view of one party, only as to what the laws actually state. As to whether or not Mayor Duterte is the brother of, I think that will be proven in due course when the mayor is presented.
+
+**[04:47:07.300] Sen. Francis "Chiz" G. Escudero**  
+As regards the request for judicial notice, as the presiding officer also said earlier, which is why I was wondering why the previous witness was presented.
+
+**[04:47:18.800] Sen. Francis "Chiz" G. Escudero**  
+Although GenCorp was mentioned in the salon, you also presented a witness council that said that the records of GenCorp do not show that the respondent is a stockholder or director of that corporation. We take notice of that as well because it was equally testified to in court and let the senator-judges peruse, evaluate, and weigh the testimony of those witnesses. So ordered. Kindly proceed, counsel.
+
+**[04:47:52.910] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+We have nothing further, Your Honor. That would be all for the direct examination.
+
+**[04:47:57.130] Sen. Francis "Chiz" G. Escudero**  
+Okay. If that is all for the direct, it's also 241.
+
+**[04:48:04.130] Sen. Francis "Chiz" G. Escudero**  
+Attorney Robby, cross for...
+
+**[04:48:08.020] Sen. Francis "Chiz" G. Escudero**  
+Monday.
+
+**[04:48:08.460] Atty. Roberto N. Batungbacal**  
+Yes, Your Honor.
+
+**[04:48:09.340] Sen. Francis "Chiz" G. Escudero**  
+If any.
+
+**[04:48:10.280] Atty. Roberto N. Batungbacal**  
+Yes, Your Honor.
+
+**[04:48:15.500] Sen. Francis "Chiz" G. Escudero**  
+With the emphasis on if any so that we can move to the next witness. If
+
+**[04:48:19.580] Atty. Roberto N. Batungbacal**  
+any, Your Honor.
+
+**[04:48:21.260] Sen. Francis "Chiz" G. Escudero**  
+Mr. Supena, your excuse in the meantime. Thank you, Your Honor.
+
+**[04:48:25.220] Sen. Francis "Chiz" G. Escudero**  
+Kung maaari po na hindi ko na kayo iisaw ng sabbina, hindi na po kayo iisaw ng sabbina ng korte, ng impeachment court, maaari ko bang makuha yung inyong commitment na dadalo po kayo muli sa lunes.
+
+**[04:48:36.990] Rendell P. Sopeña**  
+Yes, Your Honor.
+
+**[04:48:39.780] Sen. Francis "Chiz" G. Escudero**  
+September 28,
+
+**[04:48:43.320] Sen. Francis "Chiz" G. Escudero**  
+8 [unclear] po ng umaga. Para magpatuloy po kayo sa inyong pagbibigay ng testimonya.
+
+**[04:48:49.240] Rendell P. Sopeña**  
+Yes, Your Honor.
+
+**[04:48:50.590] Sen. Francis "Chiz" G. Escudero**  
+Salamat po. You are excused, sir.
+
+**[04:48:52.660] Rendell P. Sopeña**  
+Thank you, Your Honor.
+
+**[04:48:57.040] Sen. Francis "Chiz" G. Escudero**  
+If there are no other matters to be taken up,
+
+**[04:49:03.860] Sen. Francis "Chiz" G. Escudero**  
+trial is hereby suspended until tomorrow, 10 o'clock, September 23.
+
+**[04:49:18.430] Sen. Francis "Chiz" G. Escudero**  
+2026. And as a reminder to the parties and to the senator-judges, we shall, the reason why we did not call Mr. Supena tomorrow is because we will be hearing the oral arguments of the parties tomorrow. On the part of the prosecution, who will deliver the oral arguments? Honorable Luistro?
+
+**[04:49:41.740] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+We would like to manifest, Your Honor, that it will be the Honorable Congresswoman, Laila de Lima, who will be representing the prosecution in the oral argument tomorrow. And
+
+**[04:49:51.500] Sen. Francis "Chiz" G. Escudero**  
+on the part of the respondent, Attorney Sheila?
+
+**[04:49:54.300] Atty. Sheila C. Sison**  
+May I ask, Your Honor, if we are being required now to disclose the counsel?
+
+**[04:49:59.900] Sen. Francis "Chiz" G. Escudero**  
+Not really. If
+
+**[04:50:00.560] Sen. Francis "Chiz" G. Escudero**  
+you haven't decided, then you may not do so as of yet.
+
+**[04:50:04.980] Atty. Sheila C. Sison**  
+Thank you, Your Honor.
+
+**[04:50:08.270] Atty. Sheila C. Sison**  
+The signed lawyer will be disclosed tomorrow, Your Honor.
+
+**[04:50:11.190] Sen. Francis "Chiz" G. Escudero**  
+Okay. And in that case, Honorable Luisa, neither are you bound with your choice of Congresswoman de Lima.
+
+**[04:50:19.400] Atty. Sheila C. Sison**  
+We are bound already.
+
+**[04:50:20.640] Sen. Francis "Chiz" G. Escudero**  
+In that case,
+
+**[04:50:21.940] Sen. Francis "Chiz" G. Escudero**  
+then so be it. So be it. Again, each party will be given 15 minutes.
+
+**[04:50:29.720] Sen. Francis "Chiz" G. Escudero**  
+Thereafter, Senator, judges may propound questions before we proceed to Vote on the motion or appeal for the consideration of Senator-Judge Erwin Tulfo. There being no other matters to be taken up, according to the Senate President, we shall call the session at 3.15 p.m. Trial is suspended.

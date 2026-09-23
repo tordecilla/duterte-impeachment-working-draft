@@ -8,7 +8,7 @@ Status: Reviewed working draft, revision 3
 **[00:05:32.000] Sen. Sherwin T. Gatchalian**  
 The sergeant at arms is directed to make a proclamation.
 
-**[00:05:36.250] PMGEN Alfred S. Corpus PNP (Ret.)**  
+**[00:05:36.250] Alfredo Sotto Corpuz**  
 All persons are commanded to keep silent under pain of penalty while the Impeachment Court is in session for the trial of Vice President Sara Zimmerman Duterte.
 
 **[00:05:46.820] Sen. Sherwin T. Gatchalian**  

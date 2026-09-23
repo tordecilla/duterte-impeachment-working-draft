@@ -1,0 +1,339 @@
+{
+  "description": "A source-linked English audio overview of the September 22 impeachment-trial sitting.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for September 22, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00267",
+          "start_seconds": 4166.02,
+          "clock": "01:09:26",
+          "speaker_name": "Atty. Gerardo F. del Rosario"
+        },
+        {
+          "segment_id": "S00772",
+          "start_seconds": 9121.98,
+          "clock": "02:32:01",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00787",
+          "start_seconds": 12351.1,
+          "clock": "03:25:51",
+          "speaker_name": "Atty. Renato N. Bantug Jr."
+        },
+        {
+          "segment_id": "S00885",
+          "start_seconds": 13605.59,
+          "clock": "03:46:45",
+          "speaker_name": "Rendell P. Sopeña"
+        },
+        {
+          "segment_id": "S01219",
+          "start_seconds": 16384.58,
+          "clock": "04:33:04",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        }
+      ],
+      "heading": "Two sets of records",
+      "id": "P002",
+      "kind": "finding",
+      "text": "The court finished hearing the Securities and Exchange Commission witness on corporate filings, then heard a PhilGEPS official identify procurement records for 49 GenCorp awards. The central question remained what those records can show about Vice President Sara Duterte's declared business interests."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00267",
+          "start_seconds": 4166.02,
+          "clock": "01:09:26",
+          "speaker_name": "Atty. Gerardo F. del Rosario"
+        },
+        {
+          "segment_id": "S00391B",
+          "start_seconds": 5304.73,
+          "clock": "01:28:24",
+          "speaker_name": "Atty. Gerardo F. del Rosario"
+        },
+        {
+          "segment_id": "S00503",
+          "start_seconds": 6366.62,
+          "clock": "01:46:06",
+          "speaker_name": "Atty. Gerardo F. del Rosario"
+        },
+        {
+          "segment_id": "S00505",
+          "start_seconds": 6387.85,
+          "clock": "01:46:27",
+          "speaker_name": "Atty. Gerardo F. del Rosario"
+        },
+        {
+          "segment_id": "S00509",
+          "start_seconds": 6435.79,
+          "clock": "01:47:15",
+          "speaker_name": "Atty. Gerardo F. del Rosario"
+        },
+        {
+          "segment_id": "S00703",
+          "start_seconds": 8467.41,
+          "clock": "02:21:07",
+          "speaker_name": "Atty. Gerardo F. del Rosario"
+        }
+      ],
+      "heading": "The SEC testimony",
+      "id": "P003",
+      "kind": "finding",
+      "text": "SEC representative Gerardo del Rosario said GenCorp's filings did not list Duterte, while Metro City Chow Foods filings from 2018 through 2025 listed her as a director and stockholder. He described JTC Group as holding 54.99 percent of GenCorp, but his department did not have JTC's beneficial ownership declaration. Possible trust or layered ownership arrangements remained possibilities, not findings established by his records."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00503",
+          "start_seconds": 6366.62,
+          "clock": "01:46:06",
+          "speaker_name": "Atty. Gerardo F. del Rosario"
+        },
+        {
+          "segment_id": "S00517C",
+          "start_seconds": 6553.49,
+          "clock": "01:49:13",
+          "speaker_name": "Sen. Francis Pangilinan"
+        },
+        {
+          "segment_id": "S00519",
+          "start_seconds": 6589.9400000000005,
+          "clock": "01:49:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00585",
+          "start_seconds": 7240.78,
+          "clock": "02:00:40",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00600C",
+          "start_seconds": 7479.969999999999,
+          "clock": "02:04:39",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00612",
+          "start_seconds": 7754.03,
+          "clock": "02:09:14",
+          "speaker_name": "Sen. Joseph Victor \"JV\" G. Ejercito"
+        },
+        {
+          "segment_id": "S00616",
+          "start_seconds": 7798.46,
+          "clock": "02:09:58",
+          "speaker_name": "Sen. Joseph Victor \"JV\" G. Ejercito"
+        },
+        {
+          "segment_id": "S00620",
+          "start_seconds": 7843.97,
+          "clock": "02:10:43",
+          "speaker_name": "Sen. Joseph Victor \"JV\" G. Ejercito"
+        },
+        {
+          "segment_id": "S00703",
+          "start_seconds": 8467.41,
+          "clock": "02:21:07",
+          "speaker_name": "Atty. Gerardo F. del Rosario"
+        }
+      ],
+      "heading": "What senators pressed",
+      "id": "P004",
+      "kind": "finding",
+      "text": "Senator Francis Pangilinan pressed the question of who ultimately owned JTC, and proposed seeking its records; the chair took that proposal under advisement. Senator Bam Aquino asked what role Duterte actually held in GenCorp. Del Rosario could not establish that role from the filings, and Aquino suggested someone with direct knowledge might have to explain it. Other senator-judges tested what dividend records, passive shareholding, and a public official's personal asset declaration could establish."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00829",
+          "start_seconds": 12733.74,
+          "clock": "03:32:13",
+          "speaker_name": "Rendell P. Sopeña"
+        },
+        {
+          "segment_id": "S00883",
+          "start_seconds": 13560.86,
+          "clock": "03:46:00",
+          "speaker_name": "Rendell P. Sopeña"
+        },
+        {
+          "segment_id": "S00885",
+          "start_seconds": 13605.59,
+          "clock": "03:46:45",
+          "speaker_name": "Rendell P. Sopeña"
+        },
+        {
+          "segment_id": "S00895",
+          "start_seconds": 13739.31,
+          "clock": "03:48:59",
+          "speaker_name": "Rendell P. Sopeña"
+        },
+        {
+          "segment_id": "S00913",
+          "start_seconds": 13839.34,
+          "clock": "03:50:39",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S00920",
+          "start_seconds": 13868.15,
+          "clock": "03:51:08",
+          "speaker_name": "Rendell P. Sopeña"
+        },
+        {
+          "segment_id": "S01200",
+          "start_seconds": 16286.11,
+          "clock": "04:31:26",
+          "speaker_name": "Rendell P. Sopeña"
+        }
+      ],
+      "heading": "The PhilGEPS records",
+      "id": "P005",
+      "kind": "finding",
+      "text": "PhilGEPS division chief Rendell Sopeña said a search under GenCorp's merchant name found 49 awarded contracts: one from OWWA Region 11, 33 from PhilHealth Region 11, and 15 from the City of Davao. His team extracted 231 related documents, spanning 484 printed pages. He certified the printouts as representations of records in the PhilGEPS repository."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00816",
+          "start_seconds": 12667.23,
+          "clock": "03:31:07",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S00817",
+          "start_seconds": 12672.61,
+          "clock": "03:31:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00946",
+          "start_seconds": 14607.79,
+          "clock": "04:03:27",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S01219",
+          "start_seconds": 16384.58,
+          "clock": "04:33:04",
+          "speaker_name": "Rep. Gerville “Jinky Bitrics” R. Luistro"
+        },
+        {
+          "segment_id": "S01222",
+          "start_seconds": 16416.78,
+          "clock": "04:33:36",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S01230",
+          "start_seconds": 16497.51,
+          "clock": "04:34:57",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S01271BB",
+          "start_seconds": 16809.44,
+          "clock": "04:40:09",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        }
+      ],
+      "heading": "The parties' positions",
+      "id": "P006",
+      "kind": "finding",
+      "text": "The prosecution linked the procurement awards to its allegation that Duterte failed to divest business and financial interests. The defense disputed the link, objected to conclusions drawn from the documents, and said some cited Davao awards came after she had left city office. Defense counsel also asked for copies and time to inspect the newly supplied PhilGEPS material before cross-examination."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00820",
+          "start_seconds": 12695.13,
+          "clock": "03:31:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00947",
+          "start_seconds": 14639.66,
+          "clock": "04:03:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00950",
+          "start_seconds": 14667.82,
+          "clock": "04:04:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00959",
+          "start_seconds": 14758.51,
+          "clock": "04:05:58",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01303B",
+          "start_seconds": 17178.0,
+          "clock": "04:46:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01305",
+          "start_seconds": 17238.8,
+          "clock": "04:47:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01317",
+          "start_seconds": 17305.22,
+          "clock": "04:48:25",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01318",
+          "start_seconds": 17319.78,
+          "clock": "04:48:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01321",
+          "start_seconds": 17343.86,
+          "clock": "04:49:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01322",
+          "start_seconds": 17358.43,
+          "clock": "04:49:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01333",
+          "start_seconds": 17429.72,
+          "clock": "04:50:29",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Court action and next sittings",
+      "id": "P007",
+      "kind": "finding",
+      "text": "The chair allowed the PhilGEPS examination to proceed, directed copies and later exhibit marking for both sides, and set Sopeña's possible cross-examination for September 28. On the prosecution's motion, the chair took judicial notice of the cited laws' text while reserving their interpretation and application. The court also set September 23 for oral argument and a planned vote on a pending motion or appeal concerning Senator Erwin Tulfo. None of those steps resolved the disputed meaning of the corporate and procurement records."
+    },
+    {
+      "citations": [],
+      "heading": "Closing",
+      "id": "P008",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the September 22, 2026 audio overview."
+    }
+  ],
+  "title": "Audio overview — September 22, 2026"
+}
