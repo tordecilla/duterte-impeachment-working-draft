@@ -1,0 +1,1533 @@
+# September 23, 2026
+
+Impeachment Trial of Vice President Sara Duterte
+
+Source: https://www.youtube.com/watch?v=-gukXtujXus
+Status: Reviewed working draft, revision 4
+
+**[00:08:22.130] Atty. Renato N. Bantug Jr.**  
+Rise for the arrival of the Senate President, the Presiding Officer, and the Senate Law Judges of the Impeachment Court.
+
+**[00:10:05.920] Sen. Sherwin T. Gatchalian**  
+The Sergeant at Arms is directed to make a proclamation.
+
+**[00:10:14.960] Alfredo Sotto Corpuz**  
+All persons are commanded to keep silent under pain of penalty while the Impeachment Court is in session for the trial of Vice President Sara Zimmerman Duterte.
+
+**[00:10:41.200] Sen. Francis "Chiz" G. Escudero**  
+Kindly
+
+**[00:10:41.980] Sen. Francis "Chiz" G. Escudero**  
+take your seats.
+
+**[00:10:50.800] Sen. Francis "Chiz" G. Escudero**  
+There is no pray roll call because we were suspended yesterday. We shall call the roll at a later time even during the oral arguments once all the senator-judges are already here.
+
+**[00:11:10.590] Sen. Francis "Chiz" G. Escudero**  
+Good morning. Let's start with the appearances of the parties.
+
+**[00:11:19.730] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+Good morning, Your Honor. Same appearance for the prosecution, Your Honor.
+
+**[00:11:23.670] Sen. Francis "Chiz" G. Escudero**  
+Good morning, Honorable Bistro.
+
+**[00:11:26.030] Atty. Sheila C. Sison**  
+Good morning, Your Honor. Same appearance for the respondent.
+
+**[00:11:29.010] Sen. Francis "Chiz" G. Escudero**  
+Good morning, Attorney Sheila. Today, we are scheduled to hear the oral arguments of the parties in regard to the appeal cum motion for reconsideration of Senator-Judge Irvin Tulfo to the July 6 ruling of the presiding officer pertaining to the threshold vote in accord under, rather, Article 11. Section 3.6 of the Constitution. Attorney Sheila, have you decided on who will be making the oral arguments?
+
+**[00:11:58.770] Atty. Sheila C. Sison**  
+Yes, Your Honor. Attorney Michael Poa will deliver the oral argument for the defense, Your Honor.
+
+**[00:12:04.550] Sen. Francis "Chiz" G. Escudero**  
+Honorable Luistro, are you still bound by the same person who will make the oral argument? Honorable Abdelima, I believe?
+
+**[00:12:12.420] Rep. Gerville “Jinky Bitrics” R. Luistro**  
+With the kind indulgence of the Honorable Impeachment Court. But we wish to manifest that there is a change in the public prosecutor who will be doing the oral argument. The Hon. Laila de Lima is currently addressing a very important and urgent concern. And in this regard, Your Honor, it will be the Hon. Congressman Chel Diokno who will be representing the prosecution panel.
+
+**[00:12:37.200] Sen. Francis "Chiz" G. Escudero**  
+Understood and we understand. We wish Hon. de Lima well. We start with the prosecutors and then it will be followed by the oral arguments coming from the counsel for the respondents.
+
+**[00:12:51.830] Sen. Francis "Chiz" G. Escudero**  
+Attorney Diokno?
+
+**[00:12:55.440] Sen. Francis "Chiz" G. Escudero**  
+Sorry, Honorable Diokno. I'm used to your previous hat.
+
+**[00:13:01.360] Sen. Francis "Chiz" G. Escudero**  
+We start with the Honorable Diokno for his oral arguments. You can take your seat, Attorney Poa.
+
+**[00:13:09.530] Rep. Jose Manuel “Chel” I. Diokno**  
+Good morning, Your Honors.
+
+**[00:13:10.870] Sen. Francis "Chiz" G. Escudero**  
+You have
+
+**[00:13:12.110] Sen. Francis "Chiz" G. Escudero**  
+15 minutes. Honorable Diokno, you may proceed.
+
+**[00:13:15.265] Rep. Jose Manuel “Chel” I. Diokno**  
+Before
+
+**[00:13:15.940] Rep. Jose Manuel “Chel” I. Diokno**  
+we start counting the minutes, Your Honor, if I may just seek some clarification from the Honorable Court. Your Honor, in all the orders of the Honorable Court, in the pleadings of the respondent, as well as the pleadings of the prosecution, we have referred to the Vice President as the respondent. But I was surprised yesterday morning when the counsel for the respondent Introduce herself as counsel for the accused. We all know that this is not a criminal proceeding. This is a sui generis proceeding. And of course, we do not want to condition the minds of anyone that this case is criminal in nature. Therefore, may I seek clarification from the Honorable Court, how should we address the Vice President Sara Zimmerman Duterte?
+
+**[00:14:08.520] Sen. Francis "Chiz" G. Escudero**  
+As with previous rulings of the previous impeachment court and as this court and the presiding officer has always been consistent with, we address the respondent vice president as the respondent. That's why the chair also refers to the opposing side as counsel for respondents.
+
+**[00:14:31.000] Rep. Jose Manuel “Chel” I. Diokno**  
+Accordingly, Your Honor, may I move to strike the statement of counsel for the respondent. When she introduced herself as counsel for the accused so that the public will be properly guided, Your Honor.
+
+**[00:14:44.720] Sen. Francis "Chiz" G. Escudero**  
+Maybe hear from Attorney Silla first. Attorney
+
+**[00:14:47.140] Sen. Francis "Chiz" G. Escudero**  
+Sheila?
+
+**[00:14:47.490] Atty. Sheila C. Sison**  
+Just a quick correction, Your Honor. The TSN will bear out that the defense or the counsel for the respondent did not refer to the respondent as accused by itself but as respondent-accused, Your Honor. Now... If the prosecution wishes a clarification why the defense refers to the vice president as responded accusing this proceeding, even though the prosecution feels that this is not a criminal action per se, the articles of information will show, the articles of impeachment will show that the charges are criminal in nature, Your Honor.
+
+**[00:15:31.700] Rep. Jose Manuel “Chel” I. Diokno**  
+First of all, may I respond, if Your Honor, please?
+
+**[00:15:34.830] Atty. Sheila C. Sison**  
+Then I will also ask a quick rejoinder, Your Honor. Thank you. I will just ask for also an opportunity for a rejoinder after the response of the Honorable Congressman Chel Diokno.
+
+**[00:15:49.160] Sen. Francis "Chiz" G. Escudero**  
+The
+
+**[00:15:49.760] Sen. Francis "Chiz" G. Escudero**  
+Honorable Diokno may make a
+
+**[00:15:52.280] Sen. Francis "Chiz" G. Escudero**  
+rebuttal.
+
+**[00:15:53.900] Rep. Jose Manuel “Chel” I. Diokno**  
+We appeal to the record, if Your Honor please. I distinctly recall Hearing the word accused, not respondent accused. And I believe the transcripts will bear me out. Second, if your honor, please, this is clearly not a criminal case by any stretch. There is no criminal liability involved in this case. This is a case involving the fitness of the Vice President to continue in office. And as we all know, it's sui generis. Therefore, it would be improper and it may even lead to misconceptions if the Respondents Council were to refer to the Vice President as the accused.
+
+**[00:16:44.180] Atty. Sheila C. Sison**  
+Yes, Your Honor. The records will show that at no point in time from the start of this hearing until today that the defense referred to the Vice President as accused alone. In fact, we are consistent in referring to the Vice President as respondent accused. Now, if the worry of the gentleman is a supposed misconception in the use of the term accused in conjunction with respondent accused, then I think there is no greater danger than a misconception in the idea that the constitutional presumption of innocence does not apply in this impeachment proceeding, or that the Bill of Rights under which that guarantee is embedded does not apply to this impeachment case, Your Honor.
+
+**[00:17:40.560] Sen. Francis "Chiz" G. Escudero**  
+Finally,
+
+**[00:17:41.310] Sen. Francis "Chiz" G. Escudero**  
+Any, sir, rejoinder, if any? Any, sir, rejoinder? Honorable Diokno, before the Chair makes a ruling.
+
+**[00:17:47.050] Rep. Jose Manuel “Chel” I. Diokno**  
+Thank you, Your Honor. The Bill of Rights, Your Honor, applies to all proceedings. However, when we speak of the presumption of innocence, proof beyond reasonable doubt, that is clearly only applicable to criminal cases. And we do not want either this Court or especially the public to be misled into believing that those particular burdens imposed in criminal cases apply in this particular case, Your Honor. That's all.
+
+**[00:18:18.410] Atty. Sheila C. Sison**  
+A quick short rebuttal, Your Honor.
+
+**[00:18:21.530] Sen. Francis "Chiz" G. Escudero**  
+Yes, before the Chair makes a ruling, Attorney Sheila.
+
+**[00:18:24.010] Atty. Sheila C. Sison**  
+Again, Your Honor, the records will show that at no point in time did the defense claim that the quantum of proof needed in this impeachment case or for this impeachment court to arrive at any decision is proof beyond reasonable doubt. I think the quantum or the degree of proof needed to be shown by the prosecution in order to discharge its burden of proof is embedded or ingrained in the decision of the court in Duterte v. H.O.R., Your Honor. And so that statement that the constitutional presumption of innocence, it's not debatable, Your Honor. It's not a matter of debate, Your Honor. We're talking about the guarantee of the constitutional right to presumption of innocence, Your Honor. In fact, the records will also show and the... Media reports would show that the Honorable Diokno stated that the constitutional presumption of innocence does not apply in this case, which we find is dangerous to convey to the general public at sa lahat ng mga mag-aaral ng batas.
+
+**[00:19:35.830] Sen. Francis "Chiz" G. Escudero**  
+Briefly, counsel,
+
+**[00:19:36.930] Sen. Francis "Chiz" G. Escudero**  
+and then we shall call these intramurals to an end so
+
+**[00:19:40.030] Sen. Francis "Chiz" G. Escudero**  
+that we can proceed to the main agenda for today, which are the oral arguments, after the chair makes a ruling. Briefly, Honorable Diokno. If
+
+**[00:19:47.970] Rep. Jose Manuel “Chel” I. Diokno**  
+Your Honor, please. The ruling in Duterte v. House of Representatives, particularly the statements about what should happen in a trial, really are what we call obiter dicta. Kasi po, wala pa pong trial nung umabot ang kasong iyon sa Supreme Court. So, any statements made by the court about the trial are not binding. They are simply as an aside as mentioned in the case itself. And I think that's very clear from the decision. Thank you, Your Honor.
+
+**[00:20:20.010] Sen. Francis "Chiz" G. Escudero**  
+Chair will now make a ruling. No need, Atty. Sheila. Chair will make a ruling. The
+
+**[00:20:25.090] Sen. Francis "Chiz" G. Escudero**  
+chair has checked the TSN. Atty. Sheila is correct. She said respondent accused. To quote on page 4 of the TSN, the same appearance for the respondent accused, Your Honor. Secondly,
+
+**[00:20:42.160] Sen. Francis "Chiz" G. Escudero**  
+there are, given that it's sui generis, admittedly, given that the very first ruling on impeachment, in the case of Indre Jorilenio, actually impeachment, but that was a judge. Wala pong constitutional officers at that time because this was pre-1973.
+
+**[00:21:02.300] Sen. Francis "Chiz" G. Escudero**  
+Referred to impeachment processes as criminal in nature. Second, as correctly pointed out too in Duterte BAHR, which the Honorable Diokno characterized as obiter from his point of view, stated, in part, impeachment is primarily for the protection of the people as a body politic and not for the punishment of the offender. Impeachment is primarily a legal process in the sense that like administrative cases, it results in the removal of a public officer and like criminal cases, it requires evidentiary rules and due process. Share therefore rules against the motion of the counsel, rather the motion of the Honorable Diokno, a member of the panel of prosecutors. And we'll not so delete the referral of the counsel for the respondent to the respondent. There's respondent accused. Thank you, Your Honor. Thank
+
+**[00:22:10.140] Atty. Sheila C. Sison**  
+you, Your Honor.
+
+**[00:22:10.520] Sen. Francis "Chiz" G. Escudero**  
+Can we now go to the main agenda of the day, Atty. Diokno?
+
+**[00:22:14.780] Rep. Jose Manuel “Chel” I. Diokno**  
+Yes, Your Honor. Rather,
+
+**[00:22:15.860] Sen. Francis "Chiz" G. Escudero**  
+Honorable Diokno. Forgive me for my lapses, Honorable Diokno.
+
+**[00:22:18.920] Rep. Jose Manuel “Chel” I. Diokno**  
+No worries, no worries, Your Honor.
+
+**[00:22:22.190] Sen. Francis "Chiz" G. Escudero**  
+Parang sa Miss Universe, can you repeat the question bago yung actual na... Can
+
+**[00:22:29.630] Sen. Francis "Chiz" G. Escudero**  
+we proceed, Honorable Diokno, with your oral arguments?
+
+**[00:22:34.430] Rep. Jose Manuel “Chel” I. Diokno**  
+Thank you, Your Honor. May it please the Honorable Court.
+
+**[00:22:36.770] Sen. Francis "Chiz" G. Escudero**  
+Yes, you have 15 minutes.
+
+**[00:22:37.890] Rep. Jose Manuel “Chel” I. Diokno**  
+Let me state at the outset where the prosecution stands. The prosecution is confident in its case, we believe in our evidence, and we trust the independent judgment. of this honorable court. And whatever the threshold is, however this court decides the issue before it today, the prosecution will do its job. Malinaw po ang obligasyon ng prosekyusyon. Ilatag ang ebidensya at patunayan ng mga paratang para makamit ang hustisya at pananagutan. Malinaw rin po ang tungkulin ng hukumang ito. Suriin ang ebidensya, timbangin ang mga argumento, at magpasya ayon sa konstitusyon at sa ating batas. Those responsibilities we respectfully submit belong together.
+
+**[00:23:30.200] Rep. Jose Manuel “Chel” I. Diokno**  
+Last week, we heard four distinguished members of the Honorable Supreme Court as amici curiae. Ang sabi po nila on the meaning of the phrase, all members of the Senate ay iba-iba. Meron pong nagsulong ng verbal legis, forgive my legalese, racial legis, meron pong contextual and functional approach, at meron commonsensical and rational interpretation. But perhaps we can begin with the simplest formulation of the question. The Constitution requires two-thirds. The question before this court is two-thirds of how many?
+
+**[00:24:12.420] Rep. Jose Manuel “Chel” I. Diokno**  
+For
+
+**[00:24:13.740] Rep. Jose Manuel “Chel” I. Diokno**  
+Amici, Different approaches, different reasoning, yet all are one in saying that the number to convict is not fixed at 16. All four have concluded, expressly or essentially, that 16 is not an absolute number. It can change under certain circumstances. The prosecution does not intend to suggest which former justice has the best approach. Siyempre po, nasa korteng ito ang pagpapasyanyan. But perhaps you will allow me, on behalf of the prosecution, to share another lens through which the different views may be considered. It is a principle that runs through our Constitution and I submit is at the heart of our Constitution. It is also the principle that, or the very reason why, this honorable court exists. And that is accountability.
+
+**[00:25:12.270] Rep. Jose Manuel “Chel” I. Diokno**  
+Our 1987 Constitution may properly be understood in its essential respects as an accountability constitution, isang saligang batas ng panadanggutan. That principle is explicit in Article 11 itself. The first section provides, it starts with the declaration, I quote, Public office is a public trust. And it commands public officers to, I quote, at all times, be accountable. These words are not incidental. They are about the constitutional architecture in which impeachment operates. Government authority does not belong to those who temporarily exercise it. Galing po yan sa sambayan ng Pilipino. Public officials exercise authority in trust for the people. And because power is held in trust for the people, power carries with it accountability.
+
+**[00:26:10.830] Rep. Jose Manuel “Chel” I. Diokno**  
+Sa akin pong pananaw, Ang pananagutan ay may dalawang panig or two sides. The first is answerability o pananagutan. Ang opisyal na pinagkatiwalaan ng kapangyarihan ay dapat humarap at sumagot kapag hiningi ng konstitusyon. And the second is responsibility. The constitutional institutions entrusted with enforcing accountability must themselves responsibly perform the duties assigned to them. Acknowledging that the people have an interest in a process that functions according to the commands and safeguards of our Accountability Constitution. The House is given the exclusive power to initiate impeachment cases, but the Senate, this August body, is given the sole power to try and decide them. And when Senators sit for that purpose, the Constitution specifically requires them to take an oath or affirmation. Bakit po? Because you are not dealing with ordinary legislative business. You are exercising an extraordinary constitutional function as an impeachment court. And this is the only time in the Constitution that members of the Senate are required to take an oath separate from the oath they took when they assumed their office. Kayo po, you hear, you examine, you deliberate, and ultimately...
+
+**[00:27:40.080] Rep. Jose Manuel “Chel” I. Diokno**  
+Viewed through the lens of accountability, therefore, the threshold question is not merely ano ang pinakamadaling arithmetic? The question is, what interpretation faithfully allows the institutions involved to perform the responsibilities the Constitution has assigned to them while respecting the safeguards the Constitution has itself imposed? That is the contribution of the accountability lens. Sa tingin po ng prosecution, lubhang mahalaga ang aktibong partisipasyon ng hukom sa paglilitis. Pagkilatis sa kaangkupan o fitness ng opisyal ang ginagawa sa impeachment trial. Paano ito gagawin ng senador na hindi naging hukom dahil hindi naman nakapag-oath? Paano rin ito gagawin ng hukom na wala naman sa mga pagdinig para masuri ang mga testigo at dokumento? Hindi po ba ang utos ng konstitusyon ay mapanagot sa taong bayan ng mga opisyal sa lahat ng panahon? Hindi ba sa impeachment case ang kumakatawan sa taong bayan ay kayo po mga senator-judges? Kanino haharap at mananagot ang impeached official kung absent o hindi available ang WES sa bakanting upuan at mesang malamig? This calls to mind the ruling of the court in Avellino v. Cuenco. In this case, the court accepted 12 as sufficient for quorum, taking into account that the member is abroad or beyond the Senate's coercive power. Of course, Avellino involved a legislative quorum under the 1935 Constitution, not the two-thirds vote for impeachment conviction. It does not decide this case. But it demonstrates why constitutional membership language must be interpreted with attention to the institutional circumstances. Hindi automatic na ang base o denominator ay laging 24.
+
+**[00:29:42.370] Rep. Jose Manuel “Chel” I. Diokno**  
+Now, some may cite another case, Bayan v. Zamora, to support a fixed number argument. However, that case of Bayan did not interpret the voting threshold requirement. In that case, the Supreme Court merely described rather than ruled upon The reference to 16 votes in Bayan was merely an arithmetical illustration of compliance, not a doctrinal definition. In that case, mathematically, whether the Senate had 23 or 24 active members at that time, two-thirds of either number would still amount to 16 senators. 16 votes constituted unquestionable compliance under either metric. Ang ruling ng Supreme Court dito ay hindi pinal na hatol ukol sa threshold na maaaring mag-iba, depende sa sitwasyon. Let us imagine, as some of the amici curiae were asked at the last hearing or oral argument, a situation na may senador na hindi nakapag-oath for whatever reason o kaya illegally prevented from performing a senator's job dahil nakakulong at suspended sa katungkulan dahil sa utos ng batas. Each of them cannot hear the evidence, deliberate, and vote. Their inability to participate is beyond dispute. And yet, if the denominator is fixed at 24, conviction would always require 16 votes. Absurd po ito. Yes, the Constitution deliberately makes conviction harder by imposing the two-thirds requirement. But making it harder is not the same as making it depend on senators who are not judges. or who are incapable of acting as judges. That would be tantamount to an acquittal by default, a failure to arrive at the threshold number, caused not by the judgment of the incapacitated senators, but by their mere inclusion in the denominator. This brings us now to a matter that has already entered the discussion. May nagsasabi po na kung ibahin ng hukumang ito ang kanilang pasya sa isyong ito. Mababago ang rule sa kalagitnaan nitong paglilitis. Sa aming paniwala po ay hindi. The constitutional rule has not changed. Noong nagsimula ang trial, ngayon tumatakbo ang trial at maging pagdating sa final vote, two-thirds pa rin po ang requirement. What this court must determine is the constitutionally applicable membership given the Senate's actual legal capacity to perform its impeachment function. mindful of the circumstances before the court. Ang pinagpapasyahan po ay kung sino constitutionally ang dapat isama sa bilang.
+
+**[00:32:37.580] Rep. Jose Manuel “Chel” I. Diokno**  
+But there is another misconception, if your honor is pleased, that begs clarification. A change in the denominator should not be described as simply lowering the votes needed to convict. Why? Because the arithmetic moves in both directions. If 24 senators are counted, 16 votes are required to convict. 9 votes prevent conviction. Now suppose the court determines that 20 senators should be counted. Two-thirds of 20 would require 14 votes to convict. But what is sometimes, if not often, omitted from this discussion is that 7 votes would prevent conviction. So a different denominator does not guarantee conviction. It changes the arithmetic on both sides. Parehong panig ang naapektuhan ng bilang. That is why the constitutional issue should not be reduced to, binabaan ba ang boto para makonvik? The more accurate question is, ilan ang constitutionally dapat bilangin? Once that denominator is constitutionally determined, the fraction operates upon it. Two-thirds remains two-thirds. And this brings the matter back to us. The House Prosecution Panel also stands under the principle of accountability. Our responsibility is not to find the most favorable arithmetic. Our responsibility is to prove the articles of impeachment within the bounds of justice. Our responsibility in the prosecution does not change whether this court determines that the applicable numerical requirement is 16 or some other number. If the court determines 16, we present our evidence. If the court determines another number, we present the same evidence. Because the evidence does not become stronger or weaker depending upon the denominator. The articles do not change. The burden imposed upon the prosecution does not change. In the same breath, the responsibility of this court to render independent judgment remains the same. And whatever the court decides, the prosecution will respect that decision. Because ultimately, Two-thirds remains two-thirds. Ayan po ang aming pananagutan. Ayan din ang inaasahan ng taong bayan. Maraming maraming salamat po, your honor.
+
+**[00:35:06.000] Sen. Francis "Chiz" G. Escudero**  
+You don't want to make use of the remaining two and a half minutes, counsel? There is no rebuttal, counsel. No,
+
+**[00:35:12.160] Rep. Jose Manuel “Chel” I. Diokno**  
+I'm finished, your honor.
+
+**[00:35:13.400] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[00:35:15.860] Sen. Francis "Chiz" G. Escudero**  
+Chair will now recognize Attorney Michael Poa for his 15 minutes. for oral arguments on this matter. You may proceed, attorney po, when you're ready.
+
+**[00:35:29.770] Atty. Michael Wesley Poa**  
+Good morning, Mr. Senate President, Mr. Presiding Officer, Honorable Senator-Judges, panel of prosecutors, magandang umaga po sa inyong lahat. May it please the court. Your Honors, the Supreme Court has reminded us time and time again that when the law is clear, there's no room for interpretation. There is only room for application. Now, with those words in mind, perhaps, Your Honors, we should not complicate what the Constitution has made simple. The issue confronting us today boils down to one question. How many votes to convict?
+
+**[00:36:12.300] Atty. Michael Wesley Poa**  
+The
+
+**[00:36:13.350] Atty. Michael Wesley Poa**  
+answer of the defense is straightforward and simple. Sixteen. Bakit po sixteen? Simulan po natin sa procedural aspect. Last July 6, 2026, on the very first day of trial, the Presiding Officer ruled that the voting threshold to convict is 16.
+
+**[00:36:34.930] Atty. Michael Wesley Poa**  
+At
+
+**[00:36:35.470] Atty. Michael Wesley Poa**  
+that time, no Senator-Judge objected. No Senator-Judge sought reconsideration. No Senator-Judge appealed. Your Honors, that was over two months ago. Thereafter, witnesses were able to testify. Evidence was presented and the parties are already in the middle of trial relying upon such ruling of the presiding officer. So, bago po natin pag-usapan yung nilalaman ng saligang batas, marahil dapat rin po nating itanong tama pa bang buksan muli ang issue na ito at pagbotohan. Because, Your Honors, reading the Rules on Impeachment under Rule No. 6 Wala nga pong nilagay na timeframe within which a motion for reconsideration can be considered. Naturally, because that should have been brought up at the earliest opportunity after mabigay po yung ruling. Pero hindi po nangyari yun. Masahin rin po natin yung mga rules that have suppletory effect to these proceedings. For example, yung Senate Rules po. Rule 33 gives a senator two session days within which to seek reconsideration for a measure that has been approved. Obviously, legislative po yung function na yun. Pero kahit ipilit po natin yung rule na yun dito sa impeachment proceedings, lumipas na po yung two session days. Pasong-paso na po. Now let's look at the rules of court for example. Where parties are generally given 15 calendar days to file a motion for reconsideration. Kahit po iyon, matagal na pong lumipas. Pasong-paso na rin po. And forgive me for going into the more technical aspect. Even if we were to consider the ruling of the presiding officer as an interlocutory order which the court may modify upon a finding of sufficient grounds. Para po sa Depensa, hindi na rin po applicable yun dahil wala naman pong sufficient ground. Wala pong supervening event. Ang punto po namin, wala naman pong nagbago mula July 6, 2026 hanggang ngayong araw. Yung mga sinasabi po natin ng mga Senador na hindi nakakapag-participate, of course with the exception of Senator Legarda, ay hindi na rin po nakapag-participate nung July 6 bago pa na-issue yung ruling. So one thing is clear, nothing in the rules suggests that the ruling of the presiding officer may be challenged indefinitely or modified arbitrarily. Because, Your Honors, kung ganun ang ating magiging panuntunan,
+
+**[00:39:36.440] Atty. Michael Wesley Poa**  
+E di pati po yung ruling doon sa pag-issue ng sabbina sa mga bank records ay pwede pa rin palang buksan muli at pagbotohan. Yun palang mga ruling ng presiding officer sa bawat objection ay pwede pa rin balikan. Your Honors, that should not be done because the parties must be able to rely on the rulings of the presiding officer. Otherwise, Your Honors, that will run contrary to the basic principle. of what is an orderly conduct of a fair trial. Now, more significantly, kung ibababa po natin yung voting threshold when trial is already underway, in fact, nasa kalagitnaan na po tayo, Your Honors, that will go beyond the procedural. That will already raise questions If the Respondent Vice President is being afforded due process guaranteed by the Constitution, due process which according to the Supreme Court in Duterte v. H.O.R. must be present in every stage of the proceeding. At kahit isang tabi muna natin yung mga procedural concerns na iyan, pareho pa rin po yung sagot namin, 16. Let's now proceed to the substantive aspect. And we will be raising five quick points. First point, Your Honors. The language of the Constitution is clear. There's no need for further interpretation. Under Article 11, Section 3, Paragraph 6, nakasulat po dyan, no person shall be convicted without the concurrence of two-thirds of all the members of the Senate. The text states, all members of the Senate. It does not say all members present. It does not say all members participating. And that distinction matters. Because kung susuriin po natin yung US Constitution at doon po binase yung ating sariling saligang batas, doon po sa provision nila sa voting threshold to convict, nakasulat po doon, klarong-klaro, members present. So if the framers of our Constitution wanted to adopt the same formulation, they could have easily done so. But they did not. In fact, Your Honors, kung susuriin din natin ang ibang probesyon ng ating Constitution, meron pong probesyon na nagsasabing members present lamang. Pero pagdating po dito sa voting threshold to convict, iniwan po ng framers natin na all members of the Senate. So what does that mean? We look at Article 6, Section 2, where it states that the Senate shall be composed of 24 Senators. So ibig sabihin po nun, yung denominator pagdating sa threshold ay 24 unless magkaroon po ng vacancy. And a vacancy only arises when there's death, resignation, disqualification, or expulsion by a sitting Senator. Wala pong ganung nangyayari ngayon. Absence, Your Honors, does not create a vacancy. Non-participation does not create a vacancy. Being detained because of criminal charges does not create a vacancy. And therefore, Your Honors, the current formulation is 24 senators, two-thirds of which is 16. And that is not an arithmetic that is simply advanced by the defense. That is an arithmetic that has been upheld by the Supreme Court in the case of Bayan v. Zamora. Doon po, faced with identical language, two-thirds of all members of the Senate, sinabi po ng Supreme Court na ang denominator ay 24. At yun po, treaty concurrence lamang. ang pinag-uusapan. Paano pa po pagdating sa impeachment that might result into the removal of the highest officials of the land? At huwag na po tayong lumayo. Tingnan po natin yung nangyari dun sa impeachment trial against the former Chief Justice Renato Corona. Nung panahon po na yun, hindi po 24 ang senators, 23 lamang because nanalo po sa pagkapangulo ang dating Sen. Noinoy Aquino. And even with that vacancy, hindi naman po binaba ang voting threshold. 16 votes pa rin to convict. Now, that begs the question, bakit po pagdating kay former Chief Justice Corona hindi binaba yung voting threshold? Pero pagdating dito sa impeachment laban sa Vice President Sara Duterte kahit walang vacancy, ay pinag-uusapan yung pagbababa ng threshold. I will leave that question hanging with you, your honors. To my second point, parati nating naririnig yung Avellino versus Cuenco but that case simply does not apply because that case is about quorum at yung pinag-uusapan na coercive jurisdiction ng Senate ay napag-usapan lamang dahil kung titignan natin yung provision on quorum Specifically, Article 6, Section 16, Paragraph 2. Nakasulat po kasi dun that both houses have the power to compel the attendance of its members for purposes of quorum. Dito po sa impeachment, wala pong ganun. So that is irrelevant. Your Honors, let us not use the rule on quorum to rewrite the constitutional provision for the voting threshold to convict. To our third point, your honors, maari bang bumoto ang mga hindi nagpaparticipate? Well, to us respectfully, unless the impeachment court prohibits them from doing so, they can vote. Because as mentioned last week, we are a court of records. Maari naman pong basahin ang TSN or ang transcript. Maaring reviewin ang journals. Maari na nga pong mapanood ang nangyayari sa trial through videos. Now, If that senator-judge does not feel that he or she can render an impartial judgment dahil nga absent po siya, well, your honors, hindi lang naman yes or no ang boto. Pwede namang mag-abstain. Pwede namang mag-inhibit. But we have to emphasize that abstention or inhibition do not create vacancies. And therefore, it should not affect the denominator. The denominator remains to be 24, two-thirds of which is 16. And 16, Your Honors, is not a figure that was chosen by the defense. It is the consequence of the constitutional language. Ngayon, Your Honors, since we're talking about consequences, that brings us to our fourth point. Your Honors, if we were to lower the threshold here, we will not be lowering the threshold in a vacuum. May consequences po yan. Marami pong constitutional provisions na maapektuhan. For example, yun pong pag-extend or pag-revoke ng martial law. Yun pong pag-expel ng isang miyembro ng Senado. And more importantly, yun pong pag-amyenda mismo ng ating saligang batas. Now, are we going to also adjust the thresholds in those provisions? Because if we were to do that, Hindi na po threshold ang tawag dun. Moving target na po yun para sa mga taong gustong mag-benefit sa circumstances.
+
+**[00:47:49.350] Atty. Michael Wesley Poa**  
+To our final point, Your Honors, the two-thirds supermajority is obviously a constitutional safeguard for the respondent. It ensures na hindi po matatanggal ang matataas na opisyal ng ating bansa dahil lang hindi niya kaalyado ang mayorya sa impeachment court. But in the same manner, it is also a constitutional safeguard for the senator-judges themselves. Because, Your Honor, if absence, detention would change the denominator, then, Your Honors, you will be opening yourselves up to being coerced, being intimidated, being threatened by those who wish to manipulate the result.
+
+**[00:48:50.130] Atty. Michael Wesley Poa**  
+Yung pagiging absent will suddenly not matter. You will not be forced to leave the country just to change the denominator. There is nothing to gain by Filing criminal charges to detain certain senators just to manipulate the result of the impeachment process. So as you see, Your Honors, it's a two-way safeguard. Ang supermajority, based on membership as the denominator, is really a safeguard para hindi po maabuso ang proseso. And in closing, Your Honors, circumstances change. Political alliances shift. Majorities come and go. But at the end of the day, the Constitution must remain. While we understand that with everything that's going on, some may say that this is inconvenient. But Your Honors, the Constitution is not tested merely when things are convenient. In fact, the Constitution is tested most when things are precisely inconvenient. And with that, we submit your honors. Maraming maraming salamat po.
+
+**[00:50:12.710] Sen. Francis "Chiz" G. Escudero**  
+At this juncture, thank you, Attorney Poa. At this juncture, we shall entertain interjections from Senator-Judges, if any.
+
+**[00:50:23.180] Sen. Francis "Chiz" G. Escudero**  
+Senator-Judge Alan Cayetano, you
+
+**[00:50:29.920] Sen. Francis "Chiz" G. Escudero**  
+may proceed, sir.
+
+**[00:50:31.460] Sen. Alan Peter Cayetano**  
+Good morning, Mr. Presiding Officer.
+
+**[00:50:33.170] Sen. Francis "Chiz" G. Escudero**  
+The chair shall give you a variable period of two minutes.
+
+**[00:50:37.140] Sen. Alan Peter Cayetano**  
+Before that,
+
+**[00:50:37.160] Sen. Alan Peter Cayetano**  
+Mr. President, can I make a short manifestation?
+
+**[00:50:39.720] Sen. Francis "Chiz" G. Escudero**  
+Yes,
+
+**[00:50:40.360] Sen. Francis "Chiz" G. Escudero**  
+you may proceed.
+
+**[00:50:41.040] Sen. Alan Peter Cayetano**  
+Yes, because on the first day of the hearing of the trial, I actually brought this up. And I've said it many times that I'm guided by three books. The Holy Bible, the Constitution of the Philippines, and the rules of the Senate and the rules of the Impeachment Court. We brought it up in the first day because we believe it's jurisdictional. We brought it up in the first day not because we do not want any discussion or argument, Mr. Presiding Officer. We welcome the argument. We welcome the discussion on this issue but in the Supreme Court or if it's in the Senate. Before we passed the rules of the Senate. Because if we did it before we passed the rules of the Senate, all parties would have been informed. And all parties would have had the chance to go to the Supreme Court. We brought it up in the first day because then we would have had the option, at least me, whether I would participate or not. because then I would have to decide for myself whether this court has jurisdiction or does not have jurisdiction because it is very clear in the Constitution that there is a possibility that a body can have jurisdiction yet it may disappear when there is grave abuse of discretion that amounts to lack or excess of jurisdiction. So, dun po sa mga nagsasabing ayaw namin pag-usapan tong Gusto po namin. Pero timing is essential. There is a time for everything under this world. A time to be born, a time to die. But to discuss it in the middle of the trial just before the prosecution is ending and just before the defense will be presenting their evidence is not only inconvenient or
+
+**[00:52:47.680] Sen. Alan Peter Cayetano**  
+I use the word mistrial as a word of accountability. Not to plant that it may happen but to warn. Because definitely whatever the result of this impeachment, both parties or any Filipino can go to the Supreme Court. That's a right of any Filipino. Wala tayong pag-uusapan, lahat pwedeng pumunta sa Supreme Court. Ang tanong, binibigyan ba natin sila ng basihan na pumunta sa...
+
+**[00:53:15.710] Sen. Alan Peter Cayetano**  
+sa Supreme Court. That's why each and every member of this court, present or not, is free to make a statement to remind all of us, to remind the senator-judges, to remind the prosecution, to remind the defense as part of accountability that we cannot be in lack or excess of jurisdiction. Alam mo, this is no laughing matter. Every single part of this impeachment is serious. Pero alam nyo naman po kami, dahil ako nagsimula bilang konsehal, batang kali ako. At sabi ng mga kasing edad ko, sabi, Sir, parang spaghetti na ang impeachment. Sabi ko, anong spaghetti? Pababa ng pababa, pataas ng pataas. Kapag nawala yung iba, tapos tingin natin dito sila kikiling, dito sila kikiling, bababa. Pag bumalik sila, Ano? Tataas. So, yes, it is a serious matter, but it becomes ridiculous if we interpret it in a ridiculous way. So, having said that, this is an oral argument and I will personally participate in the discussion, Mr. President, but may I reserve the right later on when we go to the voting if we insist on voting on this because on the record, I would prefer. And I would insist that if there is a question on the threshold, the question be brought before the Supreme Court. Because, not because we cannot, there are many theories. One theory is we can decide, one theory is we cannot decide. But even if I say we can decide, the question on my side is timing. So I'm not saying we can decide, but if we can. We should have decided this when we were passing the rules of the impeachment court. Because we knew it's
+
+**[00:55:12.220] Sen. Alan Peter Cayetano**  
+a possibility. We're not talking about theory lang here. Nasaan si Sen. Jenggoy, nasaan si Sen. Marculeta, nasaan si Sen. Bato, nasaan si Sen. Legarda. There are real politics happening here. It's not an accident na panay na sa oposisyon yung wala na nandito. So I won't go into political statements because we all took an oath but I also won't be blind to it. Diba? Hindi dapat gumawa ng mga akusasyon dito pero hindi rin pwedeng bulag-bulagan dito na walang nangyayari talaga dito sa ating bansa. So, Mr. President, before I ask my question, I'll leave you with my hope. If the Filipino people hope for justice and accountability, if the prosecution hope for conviction, if the defense hopes for acquittal, I hope that the evidence will be so damning, so, so, so damning that 24 senators will convict or the evidence will be so so obviously not worthy of an impeachment charge that all 24 senators will acquit. Kasi kung ganun, wala na tong usapan na threshold, wala nang usapan ng political persecution, wala nang usapan ng politika. So we all took an oath but the reality is That oath is tested every day outside this court. Inside this court, Mr. President, I have not felt intimidation. Among our colleagues, even if we have disagreements among each other, I have felt the courtesy, the respect. I have had heated debates with many, many of you here and if I offended you like I did Senator Zubiri, I hope one day forgiveness between us, di ba? I mean, here, sitmate ko pa naman ngayon.
+
+**[00:57:14.250] Sen. Alan Peter Cayetano**  
+Siya lang ang nakasigawan ko ng ganong kagrabe sa loob eh. Eh, 1998 ko pa siya kasama. But that's not my point. My point is, inside the court, I think the defense and prosecution will say na nararamdaman natin yung fairness. But the reality is that this court does not exist in a vacuum. May nangyayari dito sa labas, no? So, Mr. President, with your permission, just a few questions to both panels. The gentleman
+
+**[00:57:46.210] Sen. Francis "Chiz" G. Escudero**  
+may proceed in a variable period of two minutes. You may proceed when you're ready. Sir,
+
+**[00:57:54.490] Sen. Alan Peter Cayetano**  
+just like with the defense, I won't argue because you've already argued your position. Sa akin, practical matter lang. Assuming the impeachment court votes that the threshold nga is not... So, by the way, I agree with you it's not fixed 16 but our disagreement is that it's fixed with the number of senators and if 24 is the number of senators who are members who are alive who have not resigned for me that's what's fixed 24 so two-thirds is 16. Having said that I owe it to all of you to listen so if your theory is correct and that Pwedeng mabawasan yung 24 kahit hindi sila patay, kahit hindi sila nag-resign. How will we apply that?
+
+**[00:58:45.970] Sen. Alan Peter Cayetano**  
+So like in our situation now, what if Senator Jingoy gets bailed tomorrow and he appears? Whether tomorrow or the day na may judgment. What if Senator Loren Legarda signs the Treaty of Paris and comes back to the Philippines under that treaty? So 22 na. How do we apply what we're talking about now in the view of the prosecution?
+
+**[00:59:12.500] Rep. Jose Manuel “Chel” I. Diokno**  
+Maganda umaga po, Your Honor, and maraming salamat po sa inyong tanong. I think that we are operating here as an impeachment court and therefore we should adopt the principles that apply to judges. As I understand the rules, if Your Honor, please, the judge of the court where a case is pending, the general rule is that they can only participate and eventually vote if they heard and personally received the evidence. The only exception recognized is where a judge, for example, replaces another judge or is detailed to another court and now has the duty to decide cases that he did not hear or she did not hear himself or herself. At sa tingin ko po, iyon ang dapat mag-apply po dito. In this particular case, we are not talking about a judge who suddenly was assigned to the impeachment court, but rather we are speaking of all the members of the Honorable Senate Impeachment Court, only that some of them are not here for one reason or another. And I believe that we must face that reality, na ganun nga po. Kaya kami po'y naniniwala na yung mga nakakapagdinig lang ng mga testimonya, makakapagbasa ng record because this is really a question where the evidence is so crucial in determining accountability.
+
+**[01:00:42.710] Sen. Alan Peter Cayetano**  
+Okay. Let me agree with you first that it's so crucial and let me agree with you na kasama sa oath ng bawat isang judge is to review the evidence before coming out with an A verdict. I'll go to that later. The difference with the judges is may rules nga sila. Pwede silang palitan anytime. Pwede ka mag-pairing judge. Pagdating po sa CA at saka sa Sandigan Bayan, you only need two out of three and they have certain rules na kung kailangan unanimous, you add two from the pool of justices. So mas akin tayo, for example, sa Supreme Court. But ang Supreme Court, kung hindi sila makamajority, Because may naka-leave or may vacancy, they will wait for that. So if there are only 10 Supreme Court justices now, and only 5 says yes, I don't think they will make a decision. But let's put that aside. Kasi nga, Swigeneris, let me go to your point na dapat kasi nakikita nila yung ebidensya. In your reading, the prosecution's reading, is there anything that... Let me take as an example the...
+
+**[01:02:07.840] Rep. Jose Manuel “Chel” I. Diokno**  
+May I respond, Your Honor?
+
+**[01:02:31.470] Rep. Jose Manuel “Chel” I. Diokno**  
+Thank you, Your Honor.
+
+**[01:02:32.570] Sen. Francis "Chiz" G. Escudero**  
+Yes, you may just proceed, Honorable Diokno.
+
+**[01:02:36.130] Rep. Jose Manuel “Chel” I. Diokno**  
+Thank you. First to the first question of Your Honor, I would have to respectfully disagree that this Honorable Impeachment Court is akin to the Supreme Court.
+
+**[01:02:47.510] Sen. Alan Peter Cayetano**  
+No, no, sorry. I said it's regionaries, but I'm saying if we compare it to the RTC-MTC-CA, it's different. Kasi yung RTC-MTC-CA, mapapalitan sila anytime. Diba? So if your RTC judge takes six months leave, the case can be assigned to someone else. If he dies or retires, it can be assigned to someone else. Kung may mag-inhibit sa CA, pwedeng ibigay sa iba. So I'm saying that unlike the Senate, hindi pwedeng palitan yung apat. But that's not my point. You can disregard that. My question is, do we have... If you want to give your opinion about the Supreme Court, that's okay with me. I'm just saying, my main question is, is there anything in the Constitution or in our rules, in your reading, that prevents us from amending our rules and allowing participation by electronic means?
+
+**[01:03:42.420] Rep. Jose Manuel “Chel” I. Diokno**  
+May I address that question after I address the first question that Your Honor propounded? I believe that this honorable court... really is called upon by the Constitution to conduct a trial, meaning po to receive evidence. Unlike the Supreme Court which can rely on the records of the case, sila po kasi ay appellate court at hindi naman sila nagtatanggap mismo ng ebidensya. In this particular case, it is really crucial and vital that the decision on accountability be made based on the evidence. At kung wala po dito, yung mga magistrado, talaga pong sa pananaw namin, hindi sila makakapagpasya ng...
+
+**[01:04:25.250] Sen. Alan Peter Cayetano**  
+Let me interject, Diana. So far, so far, until this day, wala pa kayong ebidensya yung pinapresent na kailangan amuyin o tikman. Sa ngayon, ang ebidensya palang na nakita ko sa inyo, kailangan tignan, kailangan pakinggan. And if you use electronic means, yes, wala pang pang-amoy, pang-lasa yun. Pero pwedeng tignan, pwedeng basahin. So far, everything you've done here, the demeanor of the witness, the documents, even the intramurals between the defense and prosecution. But sir, you're going to the wisdom. Whether it's wise to go into electronic. Ang question ko, is there anything to prevent us from doing that? Kasi hindi ba dapat yun muna ang tanungin bago yung threshold? So kung alimbawa in-amend natin yung rules, pwede sila mag-participate, the 24, walang problema. Ngayon in-amend natin yung rules, ayaw nila mag-participate, then baka, then baka dapat nating questionin na bakit ayaw nila mag-participate, diba? For all we know, Senator Batu is willing to take his oath. We don't know. Go ahead sir.
+
+**[01:05:35.690] Rep. Jose Manuel “Chel” I. Diokno**  
+Thank you your honor. The rules of this honorable court and even of the Senate are really within the power of your honors to amend if you so choose. And I cannot really say anything beyond that because that is your power.
+
+**[01:05:51.190] Sen. Alan Peter Cayetano**  
+I wanted your honest opinion and I appreciate it because I might have overlooked. There might be something saying there na kailangan physically present because my reading also is that we can amend and we did try to amend for the Senate, not for the impeachment court but the rest is history. So ano yung magiging practical nga? So for example, if we say Senator Loren attended half of the trial but if she says she continued to watch it, so if she comes back a week before the impeachment, Will she be allowed to vote or not?
+
+**[01:06:28.480] Rep. Jose Manuel “Chel” I. Diokno**  
+That is within the jurisdiction and power of this honorable
+
+**[01:06:32.060] Rep. Jose Manuel “Chel” I. Diokno**  
+court.
+
+**[01:06:33.140] Sen. Alan Peter Cayetano**  
+That's why I will ask both of you because how will we apply it that you think is fair sa sides ninyo? So the defense practically answered it by saying dapat pareho sa everyone. That's why I'm addressing it to the Of course, you will know the opinion of this court by how it decides later on. This is all theoretical. For all I know, Senator Legarda's medical leave will continue. I don't know what will happen to the three other senators. I'll tell you my next question. In your view, can this impeachment court order ordinary courts like this Sandigan Bayan to produce
+
+**[01:07:25.070] Sen. Alan Peter Cayetano**  
+Senator Marcoleta and Senator Gingoy to attend this impeachment trial.
+
+**[01:07:31.700] Rep. Jose Manuel “Chel” I. Diokno**  
+First, if you're honest, please, as far as the electronic trials are concerned, I believe that there would, this is my opinion, that there would be an inability on the part of the person watching an electronic, through electronic means, this kind of proceeding to assess The credibility of the witnesses and as well to really understand and grasp what is happening in the trial. There's no substitute for being here in person. In fact, I believe that that would be fair to the respondent that everyone would be present here and physically able to assess the evidence. Sa tingin ko po as far as Whether the question of participation of the judges is concerned is really meant to safeguard the respondent. And that is why we believe that it's important that all the members of the court who will decide and vote on this case should be able to hear and see the evidence right here inside the courtroom. I
+
+**[01:08:41.470] Sen. Alan Peter Cayetano**  
+agree with you 80%. That's ideal. But for example, when it takes the whole day, Having coffee either in our office or in the lounge and looking at the television is sometimes even better. When I don't understand this, although I do talk to my two seatmates, I do look, for example, the villiards are better in their numbers than I am, so I ask them. When it's a very, very, what we call this, commonsensical issue that I think I'm so high-tech sa pag-iisip, I go to Robin and say, Robin, ano tingin mo? Dito, diba? Of course, my sister's a lawyer. I asked sometimes if we had a different opinion, I asked Senator Mix because he's in the majority, I'm in the minority. So, I mean, there's different ways to appreciate it. But I do respect your opinion and I do think as a general rule, the ideal talaga is to be here and to natutukan to, diba? But the reality is we have four senators that are not here. and some feel that they're endangered of being taken out of play also. So that's the reality there. So if we want to lower the threshold, will we also be looking at not lowering the threshold but allowing them to participate?
+
+**[01:09:58.520] Rep. Jose Manuel “Chel” I. Diokno**  
+If I may respond to
+
+**[01:09:59.980] Rep. Jose Manuel “Chel” I. Diokno**  
+the second question.
+
+**[01:10:01.120] Sen. Alan Peter Cayetano**  
+This is
+
+**[01:10:01.340] Sen. Alan Peter Cayetano**  
+a discussion, sir. So just go ahead.
+
+**[01:10:03.280] Rep. Jose Manuel “Chel” I. Diokno**  
+Your Honor was also asking if this honorable court can order the Sandigan Bayan to produce the... The members of the court who are within their jurisdiction. I would have to answer that that is a matter that the Sandigan Bayan should decide because they have jurisdiction over the case as well as the person of the accused. And I would think that while this court may make its sentiments known to the Sandigan Bayan, ultimately it is that court that should make that decision. Would
+
+**[01:10:37.690] Sen. Alan Peter Cayetano**  
+you like to know my opinion?
+
+**[01:10:39.570] Rep. Jose Manuel “Chel” I. Diokno**  
+Of course, you're
+
+**[01:10:40.470] Rep. Jose Manuel “Chel” I. Diokno**  
+on.
+
+**[01:10:40.550] Sen. Alan Peter Cayetano**  
+No, because if you don't, I won't say it. But if you do, I think the Senate cannot order the Sandigan Bayan to produce the senators here. But I think the impeachment court can. I think the impeachment court being sui generis and at the highest order and having plenary rules can, with the proper coordination, compel in the same manner that if we have a witness that is charged under contempt. But then may criminal case. The RTC or Sandigan Bayan can order the Senate with the proper coordination na ilipat sila doon. So, of course, ultimately, our opinions are subject to Supreme Court ruling. But I'm quite clear, hindi pwede yung Senado. Yung Senado can ask, can ask the Sandigan Bayan, can you allow them to, but they cannot compel. But I think if we're going to give full constitutional, if we're going to give full milling to our constitution, 24 members, we can compel the Sandigan Bayan. Do we want to do that? I don't know. But what I do not want is a mistrial. And I want, sa media sasagutin nyo to. So better na here. And you said it a little bit, but I'll give you just this chance. Do
+
+**[01:12:04.540] Sen. Alan Peter Cayetano**  
+you wanna elaborate why, in your view, it's not a mistrial if we lower the threshold?
+
+**[01:12:11.730] Rep. Jose Manuel “Chel” I. Diokno**  
+I respectfully submit, Your Honor, that it's well within the power of this Court to make that decision. We have heard from the MHC Curay and none of them, if I recall, mentioned anything about a possibility of mistrial. And at the same time, it is this Court and this Court alone. that was given the power and authority by the Constitution to try and decide impeachment cases. Kaya po kami ay naniniwala na nasa inyong kamay po yan.
+
+**[01:12:39.190] Sen. Alan Peter Cayetano**  
+The four distinguished gentlemen and I, we should have also invited a lady, Amicus, no? But as Senator Pia and Senator Riza always remind sa Senator, I mean, Senator Camille na dapat gender inclusive tayo.
+
+**[01:13:02.400] Sen. Alan Peter Cayetano**  
+The four were given a theoretical framework and asked a question na sa tingin nyo sa Constitution. Ano yung threshold? They weren't given the full blow of what's happening in politics, what's happening in everything, etc. And they were not really thrown the question that when you start the trial, And many of the senator-judges would not have participated at the start if we did not say it was 16. Then you changed it in the middle. So I respect, that's why I didn't participate. I don't think it's debatable, the 24. Having said that, we're going to have a vote today, so I'm forced to at least participate at this stage. But I do respect their opinions. That's why sabi ko, I welcome the debate, pero sana sa Supreme Court. So that's my last question. What do you think it would be better? Let's assume that the vice president is convicted. Walang problema pag 16, 17, until 24. We'll all agree with that. Even the defense agrees. Pag 16 pataas ang nag-convict, there are still some questions you can bring to the Supreme Court but not the threshold.
+
+**[01:14:18.900] Sen. Alan Peter Cayetano**  
+But
+
+**[01:14:19.420] Sen. Alan Peter Cayetano**  
+if ang nag-convict is 15 or 14, there will be questions. So, yun ang huli kong question. Should the court decide? Should the impeachment court decide? Or should the Supreme Court decide?
+
+**[01:14:34.890] Rep. Jose Manuel “Chel” I. Diokno**  
+Your Honor, I believe that the matter is not yet justiciable and cannot yet be brought to the Supreme Court. Kasi nga po, wala pa pong boto. At hindi po po natin alam kung ano ang magiging resulta ng pagboboto. If, for example, the votes come out to 16 or more, then there is no issue to bring to the Supreme Court. If a petition is filed now, the Supreme Court, in my view, could easily say, Sandali lang, nasaan ang issue dito? Eh hindi pa naman kayo bumoboto. Malay namin kung umabot na kayo
+
+**[01:15:09.330] Rep. Jose Manuel “Chel” I. Diokno**  
+ang 16, then there will be nothing for us to decide. That's why, in my view, the only time that this case will be justiciable to bring up to the Supreme Court is when an actual vote is done and a number less than 16 is... Arrive that and that is deemed sufficient to convict. Well,
+
+**[01:15:29.010] Sen. Alan Peter Cayetano**  
+two things. Obviously, this court at the start of the hearing disagreed with you because Senator Escudero as presiding officer made a ruling. I clarified that a few days or a week later, Senator Lacson had a clarificatory question. I'm not sure if here or sa media there was another senator. I don't know if it was Senator Erwin. Basta't may nagtanong din dito or was it Senator Kiko?
+
+**[01:15:57.080] Sen. Alan Peter Cayetano**  
+I know Senator Lacson asked about it and I know Senator Escudero answered. The issue is now justiciable. Diba? So, obviously the court and you have different opinions there. But assuming, assuming tama yung sayo kasi may point ka rin eh. Even if we said it's justiciable, the question now is, will the Supreme Court say it's justiciable? Then why don't we just not discuss the threshold? Then when we vote, so kung 14, then we just say there's 14 votes, then both of you bring it to the Supreme Court. Does that mean she's convicted or not? We don't have to say 14, therefore she's acquitted, or 14, therefore she's... Convicted. You let the Supreme Court. Kung 16, di wala tayong problema. So, I'll throw back to you that question, although I said last na, so with your forgiveness. Di ba? If it's not justiciable for the Supreme Court, why is it justiciable for us right now? Why do we have to decide today what the threshold is?
+
+**[01:17:00.560] Sen. Francis "Chiz" G. Escudero**  
+Yes, kindly wind up. You can avail of the next round.
+
+**[01:17:04.470] Sen. Alan Peter Cayetano**  
+I'll only
+
+**[01:17:04.780] Sen. Alan Peter Cayetano**  
+say last two times. Thank
+
+**[01:17:07.060] Sen. Francis "Chiz" G. Escudero**  
+you. Honorable Joaquin, may answer?
+
+**[01:17:10.250] Rep. Jose Manuel “Chel” I. Diokno**  
+Yes, in my view, Your Honor, it is only justiciable as far as the Supreme Court is concerned when an actual vote is had so that whether there was a ruling made earlier or not, even if any party had brought it
+
+**[01:17:24.450] Sen. Alan Peter Cayetano**  
+up.
+
+**[01:17:24.710] Sen. Alan Peter Cayetano**  
+To clarify that, a vote on the guilt, right? On conviction
+
+**[01:17:30.540] Sen. Francis "Chiz" G. Escudero**  
+or acquittal.
+
+**[01:17:31.400] Sen. Alan Peter Cayetano**  
+Yeah, not a vote on whether or not what the threshold is. Can I just clarify that, sir? You're saying it's only justiciable once the vote on the verdict, right? Are you talking about the vote on the verdict or you're talking about the vote on the threshold?
+
+**[01:17:46.960] Rep. Jose Manuel “Chel” I. Diokno**  
+The vote on the verdict.
+
+**[01:17:49.240] Sen. Alan Peter Cayetano**  
+That's clear. Thank you, sir. Thank you, Mr. Presiding Officer.
+
+**[01:17:52.520] Sen. Alan Peter Cayetano**  
+Thank
+
+**[01:17:52.700] Sen. Alan Peter Cayetano**  
+you.
+
+**[01:17:52.890] Sen. Francis "Chiz" G. Escudero**  
+Thank
+
+**[01:17:53.180] Sen. Francis "Chiz" G. Escudero**  
+you, Senator-Judge Alan Gaetano. Senator-Judge Aquino is recognized. Thereafter, Senator-Judge Lacson. Thereafter, Senator-Judge Villanueva.
+
+**[01:18:08.860] Sen. Paolo Benigno “Bam” Aquino**  
+Let me return the Bible of Senator Cayetano.
+
+**[01:18:18.240] Sen. Paolo Benigno “Bam” Aquino**  
+Magandang araw, Mr. Presiding Officer. Magandang araw, Attorney Poa and Attorney Chell. Before my time starts, anyway, we have a variable two minutes today. Let me just commend our two counsels for today. Thank you
+
+**[01:18:31.900] Sen. Paolo Benigno “Bam” Aquino**  
+for
+
+**[01:18:32.200] Sen. Paolo Benigno “Bam” Aquino**  
+presenting the arguments very clearly. Maraming maraming salamat.
+
+**[01:18:36.590] Atty. Michael Wesley Poa**  
+Thank you, Mr. Senator.
+
+**[01:18:37.340] Sen. Paolo Benigno “Bam” Aquino**  
+Okay, so may I ask your opinion on this? After today, do you think that the decision of this court with regard to the question at hand, do you think that it is up for judicial review? Kunyari po, Atty. Chell, hindi nyo nakuha yung side din nyo. Will you be raising it to the Supreme Court? Atty. Poa, kapag hindi nyo po nakuha yung side din nyo, Will you be raising it to the Supreme Court? I also have my own opinion on the matter, but I'd like to get your opinion first. Sige, attorney Poa, go ahead.
+
+**[01:19:17.100] Atty. Michael Wesley Poa**  
+Sa amin po, just to be very straightforward and candid, definitely there's a possibility that we will be raising this to the Supreme Court. Precisely because, Your Honors, when the respondent accused started and we entered for her in these proceedings, expectation was Yung conviction threshold is 16 votes eh. So sa atin, kung papalitan natin yun in the middle, we feel that that is really a justiciable issue. Kasi po, di ba, nasabi na rin ng presiding officer at that time, nung nabigay yung ruling, na kung sino man ang gustong komisyon, Ay pwede nang umakyat sa Supreme Court ultimately. And we're not questioning that you can decide kung ano yung threshold. But ultimately, I think we can all agree that the final arbiter will be the Supreme Court. So I will say there is definitely that possibility, Your Honors.
+
+**[01:20:15.180] Sen. Paolo Benigno “Bam” Aquino**  
+Thank you, Atty. Poa. Atty. Chell?
+
+**[01:20:16.480] Rep. Jose Manuel “Chel” I. Diokno**  
+We respectfully submit that it is within the exclusive power and authority of this Court to make that decision. If you look at even the jurisprudence that we have, I think it would also point in that direction.
+
+**[01:20:31.270] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. I'm not arguing with the two of you. Pero ako po personally, yung power to try and decide ng impeachment court pagating sa impeachment, ang aking interpretasyon, yan po'y patungkol sa guilt or innocence ng respondent. In fact, I disagree with Chief Justice Puno that that decision can even be raised to the Supreme Court. Because in the Constitution, nakalagay, we have the sole power to try and decide. But in this particular case, ang pinag-uusapan kasi natin is an interpretation. An interpretation. Which is why, I would say that after deciding today, it can be raised to the Supreme Court. and that whatever their decision is should be something that we should all take cognizance of. In fact, on the first day of trial, Senator Lacson already clarified that it is already a justiciable issue. And even back then, it could have been raised. So whatever the decision is today, to our dear colleagues here, and I hope my fellow senators are also listening, ako po naniniwala na mahalaga rin na mapakinggan natin kung ano yung posisyon ng Supreme Court. And I say that not having agreed with them in their previous decision on the matter. Remember, nung nag-na-raise yung issue ng impeachment a year ago, they struck down the impeachment in Duterte versus House of Representatives where they did not, in my humble opinion, they did not do a verbal legis approach. Kasi napakasimple ng modes of impeachment and yet nagkaroon sila ng interpretasyon. Kung paano dapat gawin yung isang mode of impeachment. I didn't agree with that. But when that decision was done, sumunod po kami. So, Atty. Poa, let me just mention na hindi laging verbal edges ang Supreme Court. In fact, sometimes they are verbal edges, sometimes they use the contextual or functional approach. And in this case, na pinag-uusapan natin yung pag-iintindi sa napakahalagang kataga sa ating Constitution. After our decision, which of course we should uphold, then if there are parties, in fact, maybe even judges may themselves bring it up. I don't know. Is that possible, Attorney Chell? Can a judge also bring up a case to the Supreme Court asking for clarification or for guidance? Pwede ba yan?
+
+**[01:23:02.130] Rep. Jose Manuel “Chel” I. Diokno**  
+That would probably be not accepted by the court because the Supreme Court, Your Honor, does not have jurisdiction over declaratory relief cases.
+
+**[01:23:11.470] Sen. Paolo Benigno “Bam” Aquino**  
+So it's really only the parties probably who could raise it up.
+
+**[01:23:15.670] Rep. Jose Manuel “Chel” I. Diokno**  
+And they would have to look for an actual ripe dispute. At this point, there is as yet no vote taken by this honorable court. So your
+
+**[01:23:25.850] Sen. Paolo Benigno “Bam” Aquino**  
+position, Attorney Chell, Honorable Diokno, is that it only is ripe
+
+**[01:23:40.770] Sen. Paolo Benigno “Bam” Aquino**  
+Atty.
+
+**[01:23:46.190] Sen. Paolo Benigno “Bam” Aquino**  
+Poa, may I get the position of the defense? In your case, I'm guessing, even after today... Maaari ng maakyat sa Supreme Court. Definitely,
+
+**[01:23:56.910] Atty. Michael Wesley Poa**  
+Your Honors. Although I agree with the distinguished counsel na pag Senator-Judge, baka hindi pwede, not because of declaratory relief, but because really the court will not give an advisory opinion kung ano yung tama at ano yung mali without a controversy. But, Your Honors, para sa amin, justiciable na po. And like you said, We are not saying that we agree with the fact. Pagdating sa sole power to try impeachment cases belongs to the Senate. That does not include itong voting threshold. Para sa amin po, when you say sole power to try and hear impeachment cases, it's really the evidence and like you said, to determine guilt or innocence. Pero pagdating sa interpretation ng voting threshold, while you can have your own interpretation, finally, it will still have to be decided by the Supreme Court.
+
+**[01:25:06.210] Sen. Paolo Benigno “Bam” Aquino**  
+Maraming salamat and let me commend again our two councils. Thank you for presenting your sides today. Maraming salamat.
+
+**[01:25:24.430] Sen. Panfilo M. Lacson**  
+On possible misinformation resulting from, in my view, misleading statements made by both the prosecution and the defense. Number one, sa prosecution, sinabi po ni Honorable, and with all due respect, Congressman Diokno, sinabi niyo po na all four Amici Curie agree na yung 16 is not absolute. I disagree because si Justice Ascuna, was very emphatic. All means all. So that's one point. Sa defense, in the corona impeachment case, you're correct, 23 lang kami. Because President or then-Senator Aquino was elected president. The threshold was maintained at 16. Hindi kami bumaba ng 15 because two-thirds of 23 is 15.33. And we rounded up.
+
+**[01:26:25.980] Sen. Panfilo M. Lacson**  
+I believe ito rin yung sinusunod yata sa corporate practice, di po ba? So wala kaming binabaylate o wala kaming ginawa na nag-lower kami o hindi namin ginalaw yung 16 because di namin pwedeng galawin because 15.3 was still
+
+**[01:26:43.320] Sen. Panfilo M. Lacson**  
+16 at that time. So yun lang po, Mr. Presiding Officer.
+
+**[01:26:48.730] Sen. Francis "Chiz" G. Escudero**  
+For the information of Senator-Judge Lacson, we will make a... Corresponding ruling along those lines depending on the result of the vote later. Senator-Judge, yes.
+
+**[01:27:02.250] Sen. Francis "Chiz" G. Escudero**  
+Honorable Diokno may respond. May
+
+**[01:27:04.050] Rep. Jose Manuel “Chel” I. Diokno**  
+I simply make a manifestation in response to the comments of the observations of the good Your Honor, Senator Lacson. Ang pagkaintindi ko po, ang sinabi po ni Justice Ascuna ay 24 ang bilang except in cases of permanent vacancy because of death, resignation, or removal. So sa aming pananaw ay hindi po fixed absolute na 16 ang number. Kung may mamatay, may matanggal, may mag-resign, according to Justice Ascuna, maaaring bumaba ang number. And I recall that was in response to a question by one of the members of the court. Sorry, Pa.
+
+**[01:27:48.990] Sen. Francis "Chiz" G. Escudero**  
+Noted.
+
+**[01:27:49.470] Atty. Michael Wesley Poa**  
+Your Honors, if I may also...
+
+**[01:27:50.870] Sen. Francis "Chiz" G. Escudero**  
+Yes, Atty. Poa may respond.
+
+**[01:27:52.470] Atty. Michael Wesley Poa**  
+Your Honors, I totally agree with, of course, Sen. Lacson and thank him for giving us the facts about 15.33. But I think, Your Honors, and this is not addressed to Sen. Lacson, I think this is also an issue that the Court might want... To consider, kasi nung narinig po natin yung Amici last week, iba-iba po kasi. Meron nagsabing round down, round up, parang yung ginagawa natin sa math. Meron naman po nagsabing disregard yung fraction. So that's also a very important point, Your Honors, because, well, without anyone asking, at least this representation's opinion there, Your Honors, is when it's 15.33 or kahit 15.01 or 14.01, we have to round up. Because if we do not, we will never meet the threshold. But at least that's my humble opinion, Your Honors. But again, I thank Senator Lacson for the clarification.
+
+**[01:28:45.360] Sen. Francis "Chiz" G. Escudero**  
+Duly noted,
+
+**[01:28:46.050] Sen. Francis "Chiz" G. Escudero**  
+Attorney Poa. Senator-Judge Villanueva is recognized for his interjection. You have two minutes, sir. You may proceed when you're ready.
+
+**[01:28:58.880] Sen. Joel Villanueva**  
+Mr. President, Presiding Officer, before I ask questions, Mr. President, I would just like to make a short manifestation considering, Mr. President, that Even during the time when we had the Amici Courier here and my time is up, the Amici Courier made statements, I couldn't even butt in or share my views as a Senator-Judge. I'm kinda envious when I heard our Minority Leader taking the podium and get more time than most of us. But I'm not complaining, Mr. President. But just to put on record, Mr. President, because in fact, Mr. President, I have 12 points here for the prosecution and 12 points here for the defense. But I will only point out one thing later on, Mr. President. But may I just make a short manifestation. During the time when we had the Amici Correa, I couldn't help... But one thing to comment on what Justice Ascuna made mention that when there's the denominator ay naging 16 o 15 na lang, Mr. President, parang wala na. Hindi na po pwedeng magkaroon ng impeachment dahil fixed ang 16. So gusto kong i-point out sana yun. And that to me, Mr. President, gave me the idea na you can never say never, sabi ni Justin Bieber. Doon naman po sa sinabi ni former Chief Justice Panganiban, binanggit po niya yung kwento doon sa dalawang magulang na pinage-explain yung anak. Gusto ko sabihin hindi dalawa yung magulang na mag-de-decide. Marami po yung mag-de-decide 24. Pangalawa, yung panganay na anak hindi pwedeng gamitin yung ibang prinsipyo o pulisiya na ginamit mo sa panganay na anak at hindi mo gagamitin dun sa ikalawang anak. But having said that, Mr. President, may I just pause? One question to both parties. And I join Senator Bham for congratulating the Honorable Diokno and the Attorney Poa. Kayo yung dalawang favorite ko dito sa impeachment trial and every time you speak we all listen. Maraming salamat po. Yung question ko po first to the defense panel.
+
+**[01:31:42.040] Sen. Joel Villanueva**  
+Binanggit niyo po na 16 is a fixed number but the framers of our constitution did not say the word or number 16 but instead they use two-thirds. And in fact, I believe during the time when Justice Ascuna is explaining his position, I still believe with all of my heart that 16 is not fixed on his mind. And I would agree with the Congressman Diokno. The framers should have said 16 but instead two-thirds. The US Constitution said Members present. Pero hindi din po yun ang inilagay. So kung ganun po, hindi ho ba napakalinaw din nung Article 11 that indeed the sole power to decide and try belongs to the Senate?
+
+**[01:32:44.700] Atty. Michael Wesley Poa**  
+If I may respond. Your Honors, dun po sa tanong kung bakit hindi po nalagay yung 16. Of course, I will be just giving my humble opinion on the matter. But kaya po hindi 16 because as I mentioned during the oral argument and I think also mentioned by the distinguished opposing counsel, wala naman po kaming sinasabi na fixed at 24. What we're saying, it's fixed at the... as the membership. So, meaning kung 24 po yung members, 24. Now, when will that change? Pag meron nilang pong vacancy. And that's when death, resignation, disqualification, permanent disability or expulsion. Hindi po ba? Kaya po two-thirds. Secondly, I could only surmise might be stylistic because pagdating sa house, one-thirds of all members of the house, dahil yung house po, nag-change po yung numero nila depending kung magkaroon ng additional district, etc. But again, kaya po hindi nasulat na 16, at least in my humble opinion, ay dahil po papano kung 24 yung senators pero may isang na vacate yung seat. So that's why it remained fractional, two-thirds. At least that's my humble opinion, your honor.
+
+**[01:33:57.490] Sen. Joel Villanueva**  
+Thank you for that. But I also believe that the framers themselves know very well the number 24. So, again, when you said a while ago that 16 is 16, I'm not sure of that, but I respect your opinion and position. To Congressman Diokno, isang question lang po. Would you agree with this representation that indeed the purpose...
+
+**[01:34:41.180] Sen. Joel Villanueva**  
+I
+
+**[01:34:41.940] Rep. Jose Manuel “Chel” I. Diokno**  
+would submit that that is the reason why that number was put in the Constitution.
+
+**[01:34:50.490] Sen. Joel Villanueva**  
+And you affirmed that two-thirds is a supermajority and indeed a harder number that you need to reach in order to deliberate and decide on a very important matter.
+
+**[01:35:05.950] Rep. Jose Manuel “Chel” I. Diokno**  
+Yes, Your Honor, because we are talking about accountability here.
+
+**[01:35:09.090] Sen. Joel Villanueva**  
+Yes, thank you very much. And one last point that I'd like to raise.
+
+**[01:35:13.690] Sen. Joel Villanueva**  
+Kung bumoto po kami dito at i
+
+**[01:35:19.690] Sen. Joel Villanueva**  
+-embrace yung
+
+**[01:35:24.400] Sen. Joel Villanueva**  
+At ipatupad yung threshold
+
+**[01:35:28.680] Sen. Joel Villanueva**  
+should not be fixed at 16. What do you think would happen with other matters? Like for instance, the one Atty. Poa made mention. Doon sa martial law, na two-thirds din ang kailangan. Sa expulsion ng isang miyembro ng Senado, two-thirds din ang kailangan. Now, what is very dear... For all of us, the changing of the Constitution, which is three-fourths, pwede rin po ba ito na magbago dahil magbabago po ang denominator?
+
+**[01:36:08.810] Sen. Joel Villanueva**  
+Representative Diokno.
+
+**[01:36:09.930] Rep. Jose Manuel “Chel” I. Diokno**  
+Thank you, Your Honor. In my opinion, nothing would change insofar as those other provisions are concerned. Kasi po ang pinag-uusapan po natin dito ay nakabase sa Article 11 ng ating Constitution on public accountability.
+
+**[01:36:26.640] Rep. Jose Manuel “Chel” I. Diokno**  
+One of the primary accountability mechanisms which is impeachment. So any decision by this honorable body as an impeachment court will not affect the other provisions of the Constitution in my opinion.
+
+**[01:36:39.600] Sen. Joel Villanueva**  
+Only in the impeachment which is found in Article 11 of our Constitution that we have the sole power to try and decide. Yes, Your Honor. Thank you very much. Thank you, Mr. President.
+
+**[01:36:51.800] Sen. Francis "Chiz" G. Escudero**  
+Thank you.
+
+**[01:36:55.650] Sen. Francis "Chiz" G. Escudero**  
+Senator-Judge Alan Cayetano is recognized. What is your pleasure, sir?
+
+**[01:37:00.230] Sen. Alan Peter Cayetano**  
+It's just a manifestation, Mr. Presiding Officer. Pinag-uusapan natin kung dapat Supreme Court ang mag-decide. Actually, may role sila dito at pwede silang decide because there is actually a pending case called Cayetano v. Aquino. And I didn't file it against Ma'am Aquino but alphabetically kasi una siya. So, it does discuss all of these discussions about numbers. So, I just wanted to put that on the record, Mr. President, that actually, if the Supreme Court does take up the case and decide, tapos yung pinag-uusapan natin dito. But if not, yun nga ang question. But in the case of Francisco, the Supreme Court made it very clear that pag ang pinag-uusapan ay yung rules ng impeachment, justiciable yung issue. Of course, it has to be right. Thank you, Mr. President.
+
+**[01:38:21.360] Sen. Francis "Chiz" G. Escudero**  
+The picture
+
+**[01:38:21.860] Sen. Francis "Chiz" G. Escudero**  
+would be complete. So, to respond. On the procedural issue raised by Attorney Poa pertaining to the applicability of the rules of the Senate on appeal and or the rules of court on appeal.
+
+**[01:38:37.020] Sen. Francis "Chiz" G. Escudero**  
+On September 8, the Chair treated Senator-Judge Erwin Tulfo's manifestation as an appeal, announced the procedure for its resolution, and set the matter for consideration by the Senator-Judges. No senator-judge then challenged the propriety or timeliness of that action. If the objection relies on Section 91, Rule 33 of the Rules of the Senate, a motion for reconsideration must be made on the same day or within the next two session days. Applied pari-pasu, therefore, or unequal footing, both periods have lapsed, both with respect to the July 6 ruling and the September 8 ruling. The September 8th ruling must consequently be given the same finality now claimed for the July 6th ruling under the rules of the Senate and the objector cannot invoke lapse to shield the earlier ruling while disregarding the identical lapse that protects the later action. If the objection as pointed out by the respondent relies on the judicial 15-day period, the pertinent provisions of Rule 37 of the Revised Rules of Court, It allows reconsideration of a judgment or final order within the period for appeal, ordinarily 15 days from notice. Today, September 23, is the 15th day, the last day for that regulatory period for seeking reconsideration. However, the judicial records under Rules 37 and 45 and 65 of the Rules of Court to the mind of the Chair do not apply. Senator-Judge Tulfo's appeal is not a remedy arising under the said rules. It arose from the rules of this impeachment court. The controlling provision instead are Rule 6 in relation to Rule 22 of the impeachment rules. Rule 6 makes the rules of the Senate and the rules of court merely suppletory, applicable only when appropriate. They cannot convert this internal appeal into a remedy under Rules 37, 45, or 65 of the Rules of Court. Rule 22 and Rule 6 govern and prescribes no regulatory period for seeking a vote on a ruling of the Chair, as pointed out also earlier by the Counsel for Respondent, Atty. Poa. The Court therefore cannot also impose a deadline absent from its own Rules. More importantly, The mere passage of time does not transform a prior interpretation into an immutable rule. This finds support in People versus Amigo . The Supreme Court recognized that its decisions are, quote, not petrified rules grown rigid once pronounced, but may be reconsidered upon further reflection in light of new perspectives. Close quote. The July ruling issued during an ongoing proceeding is not a final judgment on any article of impeachment. Therefore,
+
+**[01:41:51.820] Sen. Francis "Chiz" G. Escudero**  
+this issue cannot claim greater immutability than the judicial doctrine itself. Where the governing impeachment rules prescribe no period and no final judgment has been rendered, the Court remains free to reconsider its interpretation. For the record, and so that your records as well, Attorney Poa, will be complete.
+
+**[01:42:12.410] Atty. Michael Wesley Poa**  
+Thank you, Your Honor.
+
+**[01:42:13.730] Sen. Francis "Chiz" G. Escudero**  
+What is the pleasure of Attorney Pia Cayetano?
+
+**[01:42:19.930] Sen. Pia S. Cayetano**  
+Mr. Presiding Officer, I didn't quite catch the start of your statement, but you did say something to the effect that no one questioned it. And I'm not sure what the it was, but I'm just putting on record that on September 8th, I did stand up and question whether this is the proper forum, whether this is the proper place to even discuss an interpretation of the two-thirds of all members. Just for the record also.
+
+**[01:42:51.310] Sen. Francis "Chiz" G. Escudero**  
+Yes. That
+
+**[01:42:52.950] Sen. Pia S. Cayetano**  
+is correct.
+
+**[01:42:53.470] Sen. Pia S. Cayetano**  
+But you said no one did, so I just want to be clear that I'm not sure what that reference... What that was in reference to? So I'm making clear that I did stand up on a particular issue.
+
+**[01:43:03.160] Sen. Francis "Chiz" G. Escudero**  
+The point was, Senator-Judge P, the point raised by, procedural point raised by Attorney Poa is that the period to appeal the July 6th ruling has lapsed.
+
+**[01:43:17.470] Sen. Francis "Chiz" G. Escudero**  
+And the ruling of the chair was no period is provided for the rules or in the rules and any
+
+**[01:43:23.830] Sen. Francis "Chiz" G. Escudero**  
+ruling can be questioned at any point in time. and that the 48-hour, 2-day period found in the Senate Rules and the 15-day period found in the Rules of Court
+
+**[01:43:35.360] Sen. Francis "Chiz" G. Escudero**  
+will not have precedence over the Rules on Impeachment itself which does not prescribe a period to appeal a ruling of the Chair. That was simply the statement.
+
+**[01:43:46.120] Sen. Pia S. Cayetano**  
+Okay, I understood that portion but there is a portion before that where there is a reference to no one stood up. I'm just making it clear that I stood up. Maybe if you can give me a copy. In relation to appealing
+
+**[01:43:56.880] Sen. Francis "Chiz" G. Escudero**  
+the ruling.
+
+**[01:43:59.880] Sen. Francis "Chiz" G. Escudero**  
+In relation to appealing the ruling.
+
+**[01:44:02.330] Sen. Pia S. Cayetano**  
+Technically, it was because I was saying is this the proper venue to even discuss this because when the presiding officer made a ruling on July 6, we all accepted it because it was verbal legis. It was a literal interpretation of the Constitution. It is the ordinary meaning.
+
+**[01:44:24.510] Sen. Pia S. Cayetano**  
+Any law student would know. Ordinary meaning. No need for further interpretation. But now, or not even now, as of September 8, when it was brought up, then it appears that we now have to
+
+**[01:44:41.530] Sen. Pia S. Cayetano**  
+give
+
+**[01:44:43.030] Sen. Pia S. Cayetano**  
+it more than its ordinary meaning. More than its ordinary intention. And that's why, at that time, I asked... Tama ba ito? Na dito to iti-discuss? Yun lang, Mr. Presiding Officer, because it goes into the heart of this discussion. Can we even have this discussion here? And I raised it. I was standing here when I raised that point, Mr. Presiding Officer. Thank you.
+
+**[01:45:13.070] Sen. Francis "Chiz" G. Escudero**  
+Julie noted, Senator-Judge Pia, we
+
+**[01:45:18.620] Sen. Francis "Chiz" G. Escudero**  
+confirm, rather, the point raised by Senator-Judge Pia that she did say, do we even have the right to decide on this?
+
+**[01:45:26.710] Sen. Francis "Chiz" G. Escudero**  
+The point made by the Chair was that no appeal. It was not considered an appeal nor was an appeal made as to that ruling at that time. But again, it can be raised at any point in time.
+
+**[01:45:38.880] Sen. Francis "Chiz" G. Escudero**  
+Similar to this one. Any other Senator-Judge who wishes to make an interjection? Senator-Judge, ah, I'm sorry, Senator-Judge Erwin Tulfo manifested earlier.
+
+**[01:45:49.960] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir, when you're ready. You have two minutes.
+
+**[01:45:57.360] Sen. Erwin Tulfo**  
+Mr. Presiding Officer, just a quick interjection lang po.
+
+**[01:46:02.670] Sen. Erwin Tulfo**  
+Nais ko lang pong sagutin ang usapin ng timeliness ng mosyon. Hindi po totoo na wala pong nagbago o nangyaring kakaiba nito mga nakaraang buwan. Gaya po nang nabanggit ko sa aking talumpati o mosyon noong September 8, 2026. The present reality is that some of our members are beyond the coercive power or jurisdiction of the Senate. One is on medical leave abroad. with no definite return date. Another is in hiding. Two others are under the custody of the Sandigan Bayan or the Bureau of Jail Management. Ito po ang factual circumstances na umiiral ngayon. At hindi naman po ito umiiral o umiral nung tayo po ay nagsisimula pa lamang sa ating proceedings.
+
+**[01:46:58.900] Sen. Erwin Tulfo**  
+Naitanong ko lang po, kasi naitanong din po, nababasa ko po sa social media, ang tanong po ng mga kababayan natin, ng mga netizens.
+
+**[01:47:07.990] Sen. Erwin Tulfo**  
+Kaya maka-twitter lamang po suriin natin ngayon kung paano nakaka-apekto ang mga bagong pangyayaring ito sa computation po ng two-thirds vote na hinihingi po o sinasabi ng ating konstitusyon. Kung titignan pa ginaong presiding officer,
+
+**[01:47:30.060] Sen. Erwin Tulfo**  
+The Constitution uses a fraction, not a fixed number.
+
+**[01:47:35.270] Sen. Erwin Tulfo**  
+Former C.J. Puno emphasized that Article 11, Section 3, 6 uses fraction rather than fixed number like 16. Had the framers intended an immutable number, they would have expressly indicated a numerical figure.
+
+**[01:47:54.030] Sen. Erwin Tulfo**  
+Because it is a fraction. The mathematical baseline dynamically moves or varies depending on structural, operational, situational factors affecting the Senate composition.
+
+**[01:48:12.040] Sen. Erwin Tulfo**  
+May nagsabi rin po na siguro noong panahon po noong ginagawa ang konstitusyon, ang mga kaso po ng mga senador noon, either subversion, sedition, yun po ang mga kaso pero ang mga senador po ay hindi po nakakasuhan ng kriminal. Plunder at kung ano-ano pa. Kaya po hindi siguro naisip ng mga framers ayon po dito sa isang abogado na nagpadala po sa akin ng no. Na maaring wala po itong panahon na ito nung tinatag ang 1997 Constitution dahil ang mga kaso ng mga senador noon tulad na lang po ng ama ng ating prosecutor dito. Subversion po yata. Panahon ng Marshall or after Marshall. Panahon ng Marshall o. Sedition. Rebellion. Hindi po plunder, hindi po pagnanakaw.
+
+**[01:49:09.490] Sen. Erwin Tulfo**  
+Kaya po iniisip nila ng mga senador na hanggang ngayon ay hindi po makakasuha ng mga terrible kaso. Yun lamang po, Mr. Presiding Officer.
+
+**[01:49:21.280] Atty. Michael Wesley Poa**  
+Mr. Presiding Officer.
+
+**[01:49:23.140] Sen. Francis "Chiz" G. Escudero**  
+Before I recognize Senator-Judge Alan Cayetano or Senator-Judge Soto, may please first instruct the Clerk of Court to call the roll since we suspended yesterday. The members present may be placed on record. The clerk is directed to call the roll.
+
+**[01:49:38.300] Atty. Renato N. Bantug Jr.**  
+Roll call of members. Senator-Judge Aquino, Senator-Judge Cayetano Alan, Senator-Judge Cayetano Pia, Senator-Judge De La Rosa, Senator-Judge Ejercito, Senator-Judge Estrada, Senator-Judge Goh, Senator-Judge Hontiveros, Senator-Judge Lacson, Senator-Judge Lapid, Senator-Judge Legarda, Senator-Judge, Marcoleta, Senator-Judge, Marcos, Senator-Judge, Padilla, Senator-Judge, Pangilinan, Senator-Judge, Soto III, Senator-Judge, Tulfo Irwin, Senator-Judge, Tulfo Raffi, Senator-Judge, Villanueva, Senator-Judge, Villar Camil, Senator-Judge, Villar Marc, Senator-Judge, Zubiri, the presiding officer, Senator-Judge, Escudero, the Senate President, Senator-Judge, Gachelian.
+
+**[01:50:30.140] Sen. Francis "Chiz" G. Escudero**  
+With 20 senators present, chair declares the presence of a quorum. Senator-Judge.
+
+**[01:50:35.240] Atty. Michael Wesley Poa**  
+Mr. Presiding Officer, with your indulgence.
+
+**[01:50:37.930] Sen. Francis "Chiz" G. Escudero**  
+Yes, Atty.
+
+**[01:50:38.960] Sen. Francis "Chiz" G. Escudero**  
+Poa.
+
+**[01:50:39.160] Atty. Michael Wesley Poa**  
+Just for the record, Your Honors, and of course, this is nothing against Senator Erwin Pulfo.
+
+**[01:50:44.440] Sen. Francis "Chiz" G. Escudero**  
+You would like to comment?
+
+**[01:50:45.350] Atty. Michael Wesley Poa**  
+Yes, just briefly, Your Honors.
+
+**[01:50:46.960] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir.
+
+**[01:50:47.520] Atty. Michael Wesley Poa**  
+Just for the record. I respect actually that he brought up the issue last September 8 kasi gusto talaga nating malaman kung ano ba dapat ang treatment dito. That was perfectly valid for us, Your Honors. But, Your Honors, just for this representation to put on record, na ang sinasabi naming walang pagbabago, we are not trying to mislead the public in our oral arguments. Ang sinasabi namin, mula po nung July 6, nung binigay yung ruling na yun hanggang ngayong araw, Wala namang significant na pagbabago or pagbabago man lang except for Senator Legarda who is now on medical leave kasi yung ibang senador na hindi nakakapag-participate ngayon, noong July 6 po ay hindi na rin po nakakapag-participate. So, just for the record, Your Honors, just so we are not construed as having, trying to mislead the public in the arguments that we are making, Your Honors. But, again, this is nothing against Senator Erwin Tulfo. It's just really to correct the record, Your Honors.
+
+**[01:51:52.460] Sen. Alan Peter Cayetano**  
+May I give way to Senator Judge Camille Villar. With the
+
+**[01:51:56.940] Sen. Francis "Chiz" G. Escudero**  
+indulgence of Senator Judge Soto, Senator Judge Camille Villar is recognized.
+
+**[01:52:04.900] Sen. Francis "Chiz" G. Escudero**  
+What is
+
+**[01:52:07.090] Sen. Francis "Chiz" G. Escudero**  
+your pleasure, ma'am?
+
+**[01:52:12.080] Sen. Camille Villar**  
+No, I just wanted to manifest also or respond to the manifestation of Senator Erwin Tulfo.
+
+**[01:52:19.700] Sen. Camille Villar**  
+While I
+
+**[01:52:21.160] Sen. Camille Villar**  
+respect all of our colleagues here, all of you, I think we should be reminded that the senators that are being detained and who are not here right now, that is not their choice. And I think it's unfair to call them out that their crimes are of plunder and of theft because none of those senators have been convicted.
+
+**[01:52:54.770] Sen. Camille Villar**  
+There are a lot of questions about why they're not even here in the first place. And as the youngest member of this august body, can we stop it with these attacks? On each other, we are senators of the Philippines. Let us give each other due respect. Let's give Filipinos due respect. Hindi naman tayo pwedeng kung ano-ano na lang sinasabi natin dito tungkol sa mga colleagues natin, di ba? Wag naman, di ba? Konting respeto naman. Kasi lahat naman po nang wala dito. Hindi naman po sila Napatunayan na may sala. Hindi po sila plunderer. Hindi po sila magnanakaw. Hindi po sila napatunayan na ganun. So huwag naman tayo tumayo dyan at maglo-blow ng ganun.
+
+**[01:54:03.720] Sen. Camille Villar**  
+I afford my colleagues to respect and I just hope that our colleagues can do the same for those that are here. and are not here. Yun lamang po. Maraming suit.
+
+**[01:54:20.700] Sen. Francis "Chiz" G. Escudero**  
+Noted. With the indulgence of Senator-Judge Allen, yes, are you making an interjection or a manifestation? It's on the same
+
+**[01:54:27.160] Sen. Alan Peter Cayetano**  
+topic, very short.
+
+**[01:54:28.420] Sen. Francis "Chiz" G. Escudero**  
+You may
+
+**[01:54:29.020] Sen. Francis "Chiz" G. Escudero**  
+proceed, sir, before I recognize Senator-Judge Soto and then Senator-Judge Padilla.
+
+**[01:54:33.260] Sen. Alan Peter Cayetano**  
+Thank you, Senator-Judge Soto. Forgive me for interjecting just on this point. Senator Camille said it better, but I do... I promise
+
+**[01:54:43.860] Sen. Alan Peter Cayetano**  
+to myself to accord the respect to everyone and have a healthy discussion. I do see the point of Senator Tulfo Irwin in distinguishing between martial law and what's happening now. The point I just want to make is that we have different views about that and if we answer here, it will turn political. But I think we've answered or we've made our own allegations.
+
+**[01:55:10.440] Sen. Alan Peter Cayetano**  
+outside the impeachment court. But just for the record, as Senator-Judge Camille said it better, let me put it this way. If we amend the rules to allow electronic, then many of these arguments will go away. So, Senator-Judge Erwin, I take in good faith yung dinidistinguish mo between martial law cases and here. Except nga yung stand namin kasi is that may politika din dun sa ibang cases. But let's not elaborate on that. Let's just respect each other's decision. And the emotions from Senator Camille came also from, we visit kasi our colleagues and visibly, diba Mr. President?
+
+**[01:56:00.380] Sen. Alan Peter Cayetano**  
+President Officer. Basically, they're upset also with everything that's happening from their own liberty, from them not able to participate, from the threshold being changed. But we're all trying to do our best. Thank you, Mr. President Officer. Thank you, Senator Soto. Thank you,
+
+**[01:56:15.060] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Allen. Senator Judge Padilla, Senator Judge Soto is giving way. With the indulgence of Senator Judge Soto, Senator Judge Padilla is recognized. What is your pleasure, sir?
+
+**[01:56:28.430] Sen. Robinhood “Robin” Padilla**  
+Maraming salamat po sa aming kakapamahalang lokukom at sa ating pangulo.
+
+**[01:56:38.240] Sen. Robinhood “Robin” Padilla**  
+Nais ko lamang po magtanong sa ating mga sa ating pong depensa at sa ating pong prosecution.
+
+**[01:56:46.900] Sen. Francis "Chiz" G. Escudero**  
+You may proceed sir.
+
+**[01:56:52.190] Sen. Robinhood “Robin” Padilla**  
+Lahat po tayo tumanggap ng panunumpa. Lahat po tayo.
+
+**[01:56:58.770] Sen. Robinhood “Robin” Padilla**  
+Alam ko ang mga abogado tumanggap ng panunumpa na sinabi po nating lahat na ating puproteksyonan ang konstitusyon. Ito po ay unang tanong sa Depensa bago po sa Prosecution. Ito po bang ginagawa ninyo ngayon sa debating ito, sa pag-uusap na ito, dala po ba ninyo ang inyong panunumpa?
+
+**[01:57:27.940] Atty. Michael Wesley Poa**  
+Yes, Your Honors.
+
+**[01:57:29.280] Sen. Robinhood “Robin” Padilla**  
+Naalala niyo po ba ang inyong sinabi? Noong kayo po ay nanumpa?
+
+**[01:57:33.950] Atty. Michael Wesley Poa**  
+Opo, na itaguyod po ang ating saligang batas.
+
+**[01:57:37.230] Sen. Robinhood “Robin” Padilla**  
+Yan, itaguyod ang saligang batas.
+
+**[01:57:39.610] Sen. Robinhood “Robin” Padilla**  
+Kayo po ngayon ay nandi dito profesional?
+
+**[01:57:45.170] Atty. Michael Wesley Poa**  
+Yes, Your Honor.
+
+**[01:57:46.350] Sen. Robinhood “Robin” Padilla**  
+Kayo po ay nandi dito dala ang inyong moral?
+
+**[01:57:52.800] Atty. Michael Wesley Poa**  
+Yes, Your Honor.
+
+**[01:57:55.640] Sen. Robinhood “Robin” Padilla**  
+Kayo po ba ay nandi dito bilang political?
+
+**[01:58:00.190] Atty. Michael Wesley Poa**  
+Hindi
+
+**[01:58:00.790] Atty. Michael Wesley Poa**  
+po, Your Honor.
+
+**[01:58:01.630] Sen. Robinhood “Robin” Padilla**  
+Maraming salamat po.
+
+**[01:58:03.200] Atty. Michael Wesley Poa**  
+Thank you po.
+
+**[01:58:03.800] Sen. Robinhood “Robin” Padilla**  
+Tanong ko po, Sa ating kaibigan, bagamat tayo po ay laging magkahiwalay sa opinion, pero kayo po ay ginagalang ko.
+
+**[01:58:14.760] Rep. Jose Manuel “Chel” I. Diokno**  
+Same po.
+
+**[01:58:16.050] Sen. Robinhood “Robin” Padilla**  
+Bilang isang ama, ako po ay saludo sa inyo at isang revolusyonaryo din. Kayo po, hanggang ngayon po ba ay pinalinindigan ninyo ang inyong panunumpa na kayo ay magiging matapat at itataguyod ang saligang batas?
+
+**[01:58:34.850] Rep. Jose Manuel “Chel” I. Diokno**  
+Opo, Your Honor.
+
+**[01:58:36.460] Sen. Robinhood “Robin” Padilla**  
+Sa inyo pong pagiging profesional.
+
+**[01:58:40.875] Rep. Jose Manuel “Chel” I. Diokno**  
+Yes, Your Honor.
+
+**[01:58:42.610] Sen. Robinhood “Robin” Padilla**  
+Sa inyo pong pagiging moral.
+
+**[01:58:45.940] Rep. Jose Manuel “Chel” I. Diokno**  
+Yes, Your Honor.
+
+**[01:58:47.310] Sen. Robinhood “Robin” Padilla**  
+Kayo po ba ay nandito political?
+
+**[01:58:50.620] Rep. Jose Manuel “Chel” I. Diokno**  
+Hindi po.
+
+**[01:58:53.080] Sen. Robinhood “Robin” Padilla**  
+Naniniwala po kayo na ang konstitusyon ay dapat dumaan ba sa tatlong sinasabi ng konstitusyon kung paano siya amendahan?
+
+**[01:59:03.445] Rep. Jose Manuel “Chel” I. Diokno**  
+Yung pag-amenda po mismo ng saligang batas?
+
+**[01:59:06.630] Sen. Robinhood “Robin” Padilla**  
+Opo.
+
+**[01:59:06.910] Rep. Jose Manuel “Chel” I. Diokno**  
+Tama po yan.
+
+**[01:59:08.265] Sen. Robinhood “Robin” Padilla**  
+Kayo po, naniniwala?
+
+**[01:59:10.680] Rep. Jose Manuel “Chel” I. Diokno**  
+Yes po, Your Honor.
+
+**[01:59:11.660] Sen. Robinhood “Robin” Padilla**  
+Ano po yung tatlo na iyon?
+
+**[01:59:14.700] Rep. Jose Manuel “Chel” I. Diokno**  
+CONAS, Your Honor, Constitutional Assembly, Constitutional Convention, or People's Initiative, Your Honor.
+
+**[01:59:20.890] Sen. Robinhood “Robin” Padilla**  
+Naniniwala po kayo doon?
+
+**[01:59:22.350] Rep. Jose Manuel “Chel” I. Diokno**  
+Yes, Your
+
+**[01:59:23.080] Rep. Jose Manuel “Chel” I. Diokno**  
+Honor.
+
+**[01:59:23.460] Sen. Robinhood “Robin” Padilla**  
+Maraming salamat po.
+
+**[01:59:24.650] Rep. Jose Manuel “Chel” I. Diokno**  
+Thank you po.
+
+**[01:59:26.340] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator-Judge Padilla. Senator-Judge Soto is recognized for his interjections. You have two minutes, sir. You may proceed when you're ready.
+
+**[01:59:38.580] Sen. Vicente C. Sotto III**  
+Thank you, Your Honor. Mr. Presiding Officer, thank you very much. The Senate President, my esteemed colleagues, and the members of the prosecution and the defense.
+
+**[01:59:54.590] Sen. Vicente C. Sotto III**  
+May I first ask again, when the ruling...
+
+**[02:00:13.580] Sen. Francis "Chiz" G. Escudero**  
+July 6, the
+
+**[02:00:15.240] Sen. Vicente C. Sotto III**  
+original ruling on the threshold, Your Honor.
+
+**[02:00:31.960] Sen. Francis "Chiz" G. Escudero**  
+It was part of the chair's opening statement after being elected as presiding officer and the chair stated the reason they're at during the opening statement and thereafter too in order to afford anyone who disagrees with it the opportunity to bring it up before the Supreme Court at the soonest possible time because I said at that time the
+
+**[02:00:54.500] Sen. Francis "Chiz" G. Escudero**  
+last thing I want For a vote to be taken
+
+**[02:00:57.110] Sen. Francis "Chiz" G. Escudero**  
+on the final verdict on impeachment and it will still not be the end of it. That the debate, the divisiveness will still continue and that this is not what our country and people need at the moment.
+
+**[02:01:11.420] Sen. Vicente C. Sotto III**  
+Alright, so in other words, Your Honor, Mr. Presiding Officer, the... It was part of a statement made by the Presiding Officer and was not born out of a question or a motion or something to that effect. Am I right, Your Honor?
+
+**[02:01:31.690] Sen. Francis "Chiz" G. Escudero**  
+That is correct, Your Honor, with the caveat that Later in the afternoon, Senator-Judge Alan Peter Cayetano and the following day on July 7, Senator-Judge Lacson asked if that statement was a ruling of the chair and the chair answered in the affirmative that it is the ruling of the chair and therefore of the court, given that nobody objected to or appealed that statement.
+
+**[02:01:59.670] Sen. Vicente C. Sotto III**  
+Alright, that brings me to the point that was raised by Senator Erwin Tulfo.
+
+**[02:02:06.930] Sen. Vicente C. Sotto III**  
+Thereafter, a few weeks thereafter, asking about the number. Because as I see it and the way I understand it, it was not exactly a ruling. It was part of a statement and was called a ruling by members of media and understood that way by some of our colleagues. But nevertheless... I just wanted to place that in record. And so I would want to clarify an issue that Senator Erwin brought about. This is regarding the number. This is the issue of the number. The number 16.
+
+**[02:02:50.330] Sen. Vicente C. Sotto III**  
+I don't see the number 16 in the Constitution. Ang alam natin, two-thirds. So my proposal to the amendment of Senator, or the, my amendment to the proposal of Senator Tulfo, is that we retain the fraction. We must be faithful to the Constitution. Two-thirds. In other words, in answer to the questions earlier by some of our, I think, colleague of ours and a member of the prosecution,
+
+**[02:03:24.040] Sen. Vicente C. Sotto III**  
+we are now 20 here present. If Senator Legarda arrives from abroad, she can vote.
+
+**[02:03:35.200] Sen. Vicente C. Sotto III**  
+If... Senator de la Rosa decides to appear and takes his oath, he can vote. Diba? And if the Sandigan Bayan allows our two incarcerated colleagues to attend, they can vote. Therefore, what are we saying? We're saying to those who are within the coercive powers of the Senate, two-thirds vote, not 16, not any other number. Two-thirds. Yun ang maliwanag. I think that is what Senator Erwin Tulfo was bringing out when he brought that question. So therefore, at this point, as I said, in support of the motion of Senator Tulfo, I move to amend that by saying that we retain the two-thirds. to those who are able to vote. Thank you, Mr. Presiding Officer.
+
+**[02:04:42.820] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Soto. Julio Nute. It's, um, what
+
+**[02:04:48.840] Sen. Francis "Chiz" G. Escudero**  
+is the pleasure of Senator Judge Arendt? Tulfo.
+
+**[02:04:51.300] Sen. Erwin Tulfo**  
+Mr. Presiding Officer, we'd just like to make a comment because a name was mentioned earlier. I'd like to take this opportunity.
+
+**[02:05:00.310] Sen. Erwin Tulfo**  
+Kung
+
+**[02:05:00.790] Sen. Erwin Tulfo**  
+may nasaktan po sa nabanggit ko tungkol sa ilan natin mga kasamahan, ako
+
+**[02:05:07.240] Sen. Erwin Tulfo**  
+may humingi ng paumanhin. Ngunit, linawin ko lamang po. Ginoong Presiding Officer, Ginoong Pangulo. Wala po akong sinabing convicted na plunderer ang ilang kasamahan natin. Ang sinabi ko po ay charged with. Further, the statements were not attacks against our fellow Senators but merely confronting the present reality that some Senators are physically or legally unable to participate in the impeachment trial.
+
+**[02:05:41.140] Sen. Erwin Tulfo**  
+The issue of detained Senators is so Intertwine in the determination of the nominator. We cannot discuss baseline without touching on the reasons why four of our senators are absent. We cannot proceed because bakit nating pinag-uusapan at i-raise ang issue kung sino ang bibilangin kung lahat tayo po ay narito. I was just sounding off the questions of the people of their netizens. That's why I brought it here.
+
+**[02:06:19.500] Sen. Erwin Tulfo**  
+Kung
+
+**[02:06:20.040] Sen. Erwin Tulfo**  
+hindi po natin naririnig, mga kasama natin na ba, everyday po, before coming over, I look at the social media, the newspapers, I look at reports.
+
+**[02:06:30.830] Sen. Erwin Tulfo**  
+Hindi lang po pupunta ko dito ng sarili, kung iniisip ko, iniisip ko yung gusto sabihin ng taong bayan because we represented those people. They voted for us. Kaya karapatan din po natin na marinig sila dito through us who were voted by these people. Yun lamang po ginaw ang Pangulo. Ginaw po siya rin, Officer.
+
+**[02:06:54.470] Sen. Francis "Chiz" G. Escudero**  
+Noted. And entered into the records. Senator-Judge Padilla, before we go on lunch break, I guess, because it's 12. What is your pleasure,
+
+**[02:07:04.260] Sen. Robinhood “Robin” Padilla**  
+sir? Ginaw ang takapamahalang hukom. Ang nais lamang po namin i... Paalam sa taong bayan. Unang-una na. Kaya po namin nababanggit ang mga kasama namin sa minoria na sa kasulukuyan ay nasa piitan sapagkat malinaw naman po na baka ito na rin ang huli ko ditong araw eh. Hindi ko na rin alam eh.
+
+**[02:07:35.970] Sen. Robinhood “Robin” Padilla**  
+Pinaliliwanag lang po namin sa inyo na may pinagdadaanan ng minoria at hindi po dapat sana na kaming mga Tayo pa dito ang nagdidiin sa mga kasama ninyo. Bahay natin to eh.
+
+**[02:07:53.660] Sen. Robinhood “Robin” Padilla**  
+Ipinaliliwanag lang po namin na huwag naman sana kaming parang ipagtinagtutulakan nyo pa na kami nadesisyonan na ng korte. Na kami ay mga convicted na. Sana'y naman ako maging convicted. Pero huwag naman ganyan. Kayong mga kasama namin, ang una naming hiniling sa inyo na sana ang pinag-usapan natin dito, yung rules natin, pinayagan natin silang lumabas at nakiusap tayo sa Sandigang Bayan at yun naman lang sinabi ni Chief Justice Puno na pwede naman tayong makiusap sa Sandigang Bayan na pinayagan sana silang pumunta rito at makisama at makiusap. Naiintindihan po namin ang punto po ninyo. Kayong mga kasama namin, inirespeto namin kayo ay intindihin din yun po ang kalagayan namin. Bilang kayo ay mga kasama namin dito, tayo naman po yung nagumpisang magkakaibigan at magkakasama, pare-parehas tayong nanumpa dito, huwag nyo naman kaming idiin.
+
+**[02:08:54.530] Sen. Robinhood “Robin” Padilla**  
+Ang hearing ko sa biyernes na. Di ko alam kung ano pa susunod. Baka ma-miss ko na kayo. Maraming salamat po.
+
+**[02:09:04.400] Sen. Francis "Chiz" G. Escudero**  
+With the permission of the Senator-Judges, again, as the Chair earlier stated, yes, what is the pleasure of Senator-Judge Mark Villar?
+
+**[02:09:13.980] Sen. Francis "Chiz" G. Escudero**  
+Yes,
+
+**[02:09:14.440] Sen. Mark A. Villar**  
+I'd just like to make a...
+
+**[02:09:17.080] Sen. Francis "Chiz" G. Escudero**  
+The
+
+**[02:09:17.520] Sen. Francis "Chiz" G. Escudero**  
+gentleman
+
+**[02:09:17.960] Sen. Francis "Chiz" G. Escudero**  
+may proceed with his manifestation.
+
+**[02:09:19.560] Sen. Mark A. Villar**  
+Thank
+
+**[02:09:20.020] Sen. Mark A. Villar**  
+you. In defense of what my sister said earlier, I think we have to keep in mind the effects of the words that we use in this trial. Many of our colleagues, for one reason or another, are unavailable. Some have cases, and through no fault of their
+
+**[02:09:41.000] Sen. Mark A. Villar**  
+own, of course.
+
+**[02:09:42.540] Sen. Mark A. Villar**  
+But I think it's important, the words that we use, in respect to our colleagues. who are not guilty yet. I think that's
+
+**[02:09:47.870] Sen. Mark A. Villar**  
+a very good point. They're not guilty. And when we use these words in public, kahit papano may effect din sa ating mga colleagues. So I think my sister is correct in saying that we should be considerate of our colleagues. And I respect that. And I think I just wanted to make that point as well that there are colleagues here who are, for one reason or another, who are not here. But we can speak for them as in the minority. So we want to stand up for them. And I think it's well within, I think it's very reasonable for us to give them that courtesy that we refrain, refrain from saying things that can have an adverse effect on them. So that's all, Mr. President. I'd just like to make that point. And I think that we really have to always remember that the words that we use also here, especially to our colleagues, do have an effect. And that's something that we should always keep in mind. So thank you very much.
+
+**[02:10:42.800] Sen. Francis "Chiz" G. Escudero**  
+The manifestation as Julie noted. What is the pleasure of Senator Judge Soto?
+
+**[02:10:46.780] Sen. Vicente C. Sotto III**  
+Well, I really want to avoid these furious statements at this point, Mr. President. That's why I called for the previous question. And the previous question was a motion by Senator Tulfo that I amended. And the amendment is that we retain the two-thirds of those who may vote. Question nila kung gusto nila.
+
+**[02:11:08.060] Sen. Francis "Chiz" G. Escudero**  
+With the permission of Senator Judge Soto, we take that in the meantime under advisement.
+
+**[02:11:14.520] Sen. Francis "Chiz" G. Escudero**  
+Senator-Judge Pia is recognized. Cayetano.
+
+**[02:11:46.010] Sen. Pia S. Cayetano**  
+A question that His Honor Senator Judge Soto presented to us is it would be revising the words of the Constitution. It would now be two-thirds of those who can vote, two-thirds of those who are present. And if we look at the history of the Constitution, our Constitution, it has been mentioned many times, but just to put context, the history of our Constitution, the 1987 Constitution, is based... fairly identical on this particular provision on the 1972 Constitution and also the same as the 1935 Constitution except for the three-fourths vote and it refers to all senators. Now, those constitutions, the 1935 in particular, was based on the U.S. Constitution that refers to two-thirds of those present and we did not choose to adopt that. Again, I'm not the first to mention this. This was mentioned by one of the Amici Curie, and it was also mentioned here. But that is what is going to happen. We are changing the wording. And I go back, this was going to be part of my final statement before we have to vote, is that do we have the right to make that vote? Do we? have that authority. Because when it comes to justiciable questions, that belongs to the Supreme Court. I will save my longer explanation on that later on. But what I do want to mention, because this now is in connection with some statements made by the parties, in particular, and I respect both of you, you're both very good lawyers. Thank you for the time that you have taken. The prosecution through Prosecutor, Congressman, Prosecutor Chel Diokno mentioned that he does not recall that any of the Amici Curie mentioned the word mistrial. I don't recall either. We are alike in that recollection. But I do have my personal notes and then I ask my staff to check and anyone can verify that. I had asked... Former Chief Justice Puno, if my understanding of his statement was accurate and I post it and I will do it again now, that the two situations when the Supreme Court may review the decisions made by the impeachment court. And the first is when the impeachment court denies the Senator-Judge's... Let me repeat that. The first case is when the impeachment court denies a senator-judge's right to participate. And the second one is when the respondent is denied a fair trial, therefore denied of due process. I asked Chief Justice Puno if tama yung narinig ko and he said yes and both parties may... Give their own opinion or we can refer to the stenographic notes. And then after that, he even said that this is reviewable by the Supreme Court and can result in the nullity of the case. So he may not have used the word mistrial, but he used the word nullity. And then I have no right naman to question the presiding officer unless I disagree with his opinion, but he's more than willing to clarify because I have long
+
+**[02:15:14.570] Sen. Pia S. Cayetano**  
+submitted to the reality that our memories are not perfect. So, I'm always willing to be corrected if I remember incorrectly. The way I understood the presiding officer's statement is gusto lang niya pag nag-decide na tayo, tapos na. Hindi yung, ang intindi ko is hindi pa after that pupunta pa sa korte, ang dami pang question. And it's the same thing that Senator-Judge Alan Cayetano was saying na And I agree. My prayer is that the evidence is so convincingly one way or the other para we can move on, para we're not left in this sea of doubt, drowning, trying to breathe. You know, we need to be able to move on. What's my point? My point, Mr. Presiding Officer, is that I agree with you that we want to put finality here, but I may not agree with the With some views that this cannot be justiciable because we may disagree with the Amici Curie. No one says that we are bound by all their statements. In fact, they had somewhat conflicting statement in as much as I tried to reconcile. So I don't need an answer but if we may allow the parties to answer if they would like to answer. Thank you.
+
+**[02:16:32.530] Sen. Francis "Chiz" G. Escudero**  
+If they would like to. Who would?
+
+**[02:16:37.860] Sen. Francis "Chiz" G. Escudero**  
+Nagkahihik ngayon
+
+**[02:16:38.620] Sen. Francis "Chiz" G. Escudero**  
+ba kayo? You're honest. I'll
+
+**[02:16:40.380] Atty. Michael Wesley Poa**  
+begin.
+
+**[02:16:41.670] Sen. Francis "Chiz" G. Escudero**  
+Briefly, sir.
+
+**[02:16:42.690] Atty. Michael Wesley Poa**  
+Yes, Your Honors. I think it's justiciable. But basically, I'm looking at Article 8, Section 1, which is the expanded certiorari jurisdiction of the Supreme Court. So basically, Your Honors, wala naman kasi talaga tayong word na mistrial sa Philippine jurisdiction, hindi ba? But that can be brought up upon grave abuse of discretion. Yun lang naman po yun talagang punto dun. So as far as political questions are concerned, obviously, that is not reviewable by the Supreme Court. Pero kung meron mang naging grave abuse of discretion, then definitely it is reviewable by the Supreme Court, Your Honors.
+
+**[02:17:19.100] Sen. Francis "Chiz" G. Escudero**  
+Honorable Diokno, briefly.
+
+**[02:17:20.480] Rep. Jose Manuel “Chel” I. Diokno**  
+Thank you, Your Honor. I think two rules are very clear. First, that the Supreme Court cannot give advisory opinions. And second, that it has no jurisdiction over declaratory relief. And our position is that if this question were to be brought up to the court now, it is not yet ripe. For determination because there's been no vote yet. There's yet no aggrieved party and no injury. Therefore, we respectfully submit that it is not justiciable at this time.
+
+**[02:18:10.940] Sen. Alan Peter Cayetano**  
+And I'll talk about myself but I think some of our colleagues feel the same way. If we're going to vote on this issue, we're not going to participate. Because we don't think it's a matter that we can vote on. You don't taste poison. You don't vote on what's right or wrong. So we don't think it's a matter of interpretation. So I do very much see the point of Senator Soto to call the previous motion. So I'd like to ask you. To clarify the procedure because naghalo na dito yung judicial procedure at saka rules of the Senate.
+
+**[02:18:50.600] Sen. Alan Peter Cayetano**  
+Are we decided to vote on it then we will just not participate or can we appeal first and see if a majority do not want to vote on it? What is the better procedure, Mr. Presiding Officer? And again, we won't argue to death because we've argued this.
+
+**[02:19:07.220] Sen. Alan Peter Cayetano**  
+Pretty much, and I think everyone has their idea. But if we're going to proceed, I do not want to be a part of it. But I will continue to respect our colleagues and the integrity of this court.
+
+**[02:19:18.800] Sen. Francis "Chiz" G. Escudero**  
+The Chair took the manifestation and amendment to the motion of Senator-Judge Sota in advisement at this point in time because prior to the vote on Senator-Judge Erwin Tulfo's appeal, the Chair will explain exactly what we are voting for and what an aye and an nay vote So the
+
+**[02:19:37.270] Sen. Alan Peter Cayetano**  
+ruling is there will be a vote?
+
+**[02:19:39.330] Sen. Francis "Chiz" G. Escudero**  
+There will be a vote today as agreed earlier in the advisory issued by the court.
+
+**[02:19:46.570] Sen. Alan Peter Cayetano**  
+And no one is appealing the ruling of the presiding officer that there will be a vote?
+
+**[02:19:54.060] Sen. Francis "Chiz" G. Escudero**  
+I think the more appropriate procedure or honor would be, if at all, if the chair may suggest procedurally, to raise a point of
+
+**[02:20:03.880] Sen. Francis "Chiz" G. Escudero**  
+order as to the if i get the point of your honor correctly as to the presence or absence of um the power of the impeachment court to act on this um matter
+
+**[02:20:19.530] Sen. Francis "Chiz" G. Escudero**  
+in regard to interpreting article 11 with
+
+**[02:20:23.130] Sen. Alan Peter Cayetano**  
+all due respect to our colleagues just so that uh you know we can decide and we there will be no delay and then All the arguments have been laid out. So for all the arguments that have been said, that this is a motion for the consideration, that this has been settled long ago, I mean, the records will bear out the different reasons. I raise a point of order as stated by the presiding officer.
+
+**[02:20:52.230] Sen. Francis "Chiz" G. Escudero**  
+Questioning the Senate sitting as an impeachment court's power to interpret.
+
+**[02:20:57.030] Sen. Alan Peter Cayetano**  
+To interpret or to reopen this issue.
+
+**[02:21:03.310] Sen. Francis "Chiz" G. Escudero**  
+To address this issue in the impeachment court because
+
+**[02:21:05.750] Sen. Alan Peter Cayetano**  
+I
+
+**[02:21:05.950] Sen. Francis "Chiz" G. Escudero**  
+believe the position of his
+
+**[02:21:07.410] Sen. Alan Peter Cayetano**  
+honor should be in the
+
+**[02:21:08.650] Sen. Francis "Chiz" G. Escudero**  
+court.
+
+**[02:21:09.250] Sen. Alan Peter Cayetano**  
+I will rephrase. So we are raising a point of order of the power of the impeachment court to raise this issue at this time.
+
+**[02:21:18.290] Sen. Francis "Chiz" G. Escudero**  
+Both with respect to the power and the timing?
+
+**[02:21:20.710] Sen. Alan Peter Cayetano**  
+Yes.
+
+**[02:21:23.120] Sen. Francis "Chiz" G. Escudero**  
+In response to the point of order, if I may, for the record, Your Honor,
+
+**[02:21:31.500] Sen. Francis "Chiz" G. Escudero**  
+Any objection with respect to the Court's
+
+**[02:21:33.820] Sen. Francis "Chiz" G. Escudero**  
+authority to interpret Article 11, Section 3.6 must also operate, as stated earlier, in pari passu, meaning to say, the July 6 ruling itself of the Court, which the Honorable Cayetano clarified too, is an interpretation of the phrase, all members of the Senate. That authority cannot be recognized when it supports one interpretation, and then denied when the same provision is on appeal. The question may concern the correctness of the interpretation but not, to my mind, the court's authority to make it. Whatever interpretative authority supported the July 6 ruling must apply with equal force to the resolution of the present appeal. This finds support. In the Manila Prince Hotel case, GR number 122156, that says the impeachment court is not precluded from resolving procedural and other issues at the outset. In fact, even the Duterte VHOR ruled that the Senate can decide with respect to how to interpret and implement the word fortuit. and in fact found no grave abuse of discretion at that time. Accordingly, with due respect to the distinguished Senator Allan Cayetano, the Court regrets that the point of order of the good gentleman is not well taken.
+
+**[02:23:11.250] Sen. Alan Peter Cayetano**  
+Thank you for that, Mr. President, and a one-minute explanation before I make an appeal.
+
+**[02:23:18.200] Sen. Alan Peter Cayetano**  
+It is very obvious that we do have to make an interpretation because at the end of the trial, we have to vote and depending on the number of the votes, the presiding officer has to say whether the person is found guilty or innocent. So that's obvious. What we're questioning is that if you look at the history of the impeachment court, we've always considered all members all. And it's only when they're removed, they're resigned, or they're dead before we lower the threshold. And that is why on the first day, we questioned. That's why in the first day, in a sense, naunahan niyo kami, Mr. Presiding Officer, because that was your also political sense and the wisdom given to you to make that clear because there were so many rumors. Because we just came from a tumultuous change of leadership and we were arguing about the numbers which is also in the Constitution. So when we got to where we were on July 6 when we were beginning, we wanted to assure ourselves that this will be a court that will accord all fairness to everyone and that our vote will be counted. On a side note, that's why the whole team Hindi lang umubra lahat, nagpatubo ng balbas because quietly, at least malaman niyo ngayon, this is a symbol, don't shave our votes. And when you made that ruling on July 6, we almost all shaved. Buti na lang hindi pa kami mag-shave because we feel if you make that ruling today, you make that vote today, there will actually be vote shaving. Again, I said... A while ago and I'll stick to that. Tapos na lahat ng arguments. We do have to decide. So I moved that, I appealed the decision of the presiding officer and I'd like to see who are for and against saying that this is out of order.
+
+**[02:25:15.450] Sen. Francis "Chiz" G. Escudero**  
+There is a, yes, Senator-Judge Panglin.
+
+**[02:25:18.990] Sen. Francis “Kiko” Pangilinan**  
+Yes, Mr. President, just a procedural matter. There was a appeal to the ruling of the chair.
+
+**[02:25:26.860] Sen. Francis “Kiko” Pangilinan**  
+And that being the case, under our rules, we will have to vote on the appeal, whether we will agree with the appeal or support the appeal or not. For the record, Mr. President.
+
+**[02:25:39.290] Sen. Alan Peter Cayetano**  
+Yes, that's correct, Mr. President. Sir President, Senator Pia would like to be recognized.
+
+**[02:25:44.450] Sen. Francis "Chiz" G. Escudero**  
+Senator-Judge Pia is recognized.
+
+**[02:25:51.830] Sen. Pia S. Cayetano**  
+It's actually just a clarification I'd like to seek, Mr. Presiding Officer. And I quote, no? So please... I'm happy to be corrected if mali yung notes. Well, hindi na ito notes. This is a quotation that I asked my staff to give me. This is from the ruling of His Honor on July 26. After stating the constitutional provision on two-thirds of all members of the Senate, the presiding officer went on to say, This is the prevailing law today, and whether we agree with it or not, we must abide by it. However, those who disagree are not without recourse because... This is without prejudice to the right of any party. who holds a different view to seek judicial relief? And should the Supreme Court, which possesses the sole authority to interpret the Constitution by virtue of its power of judicial review, render a different ruling on this question? Other than what the Chair has stated, this Court and this representation shall faithfully abide by that ruling of the Supreme Court. So may I just ask clarity from His Honor, the Presiding Officer, if the reconsideration now is a digression from his earlier statement on July 6.
+
+**[02:27:01.900] Sen. Francis "Chiz" G. Escudero**  
+A regression? A
+
+**[02:27:03.440] Sen. Pia S. Cayetano**  
+change.
+
+**[02:27:07.240] Sen. Francis "Chiz" G. Escudero**  
+Should the appeal of Senator Erwin Tulfo be won, then the ruling of the court will be changed. If it is lost, then the
+
+**[02:27:16.840] Sen. Francis "Chiz" G. Escudero**  
+ruling of the court, as verbalized by the Presiding Officer
+
+**[02:27:20.880] Sen. Francis "Chiz" G. Escudero**  
+on July 6,
+
+**[02:27:22.160] Sen. Francis "Chiz" G. Escudero**  
+shall be maintained.
+
+**[02:27:28.420] Sen. Pia S. Cayetano**  
+I think it's not, I'm not sure if it's in the rules, no, but our practice that if there's any member of the impeachment court that questions the ruling of the presiding officer, they may erase it. That's what we're calling it.
+
+**[02:27:42.000] Sen. Francis "Chiz" G. Escudero**  
+Who voted in favor of the majority, that would be correct.
+
+**[02:27:44.300] Sen. Pia S. Cayetano**  
+Okay. And then, does it follow that whatever that decision is, consistent with, still consistent with the July 6 ruling? That party, whoever is not satisfied with that ruling, can go to the Supreme Court? Is that the position of the presiding officer? That
+
+**[02:28:02.700] Sen. Francis "Chiz" G. Escudero**  
+is the position of the presiding officer, yes. I agree with Attorney Poa that it is a justiciable controversy, even from July 6th up to, if at all, whatever decision we will be making today,
+
+**[02:28:15.900] Sen. Pia S. Cayetano**  
+whichever
+
+**[02:28:16.880] Sen. Pia S. Cayetano**  
+way it goes.
+
+**[02:28:18.040] Sen. Pia S. Cayetano**  
+Thank you, and I'd just like to end with a statement that it is our position, well, at least... I can only speak for myself. But if there are members who have the same view, then... Feel free to adopt my position. It is our belief that only the Supreme Court can interpret the Constitution except na po yung literal meaning, yung ordinary meaning na pinaliwanag ko na kanina. And so, if the impeachment court's decision is to interpret this in a different way, and clearly, dear colleagues, this is an interpretation because even the Amici Curie would have different
+
+**[02:28:59.070] Sen. Pia S. Cayetano**  
+Explanations on how All members would be interpreted. Yung bang kasama ba dun yung detained? I mean, I have a whole list here and I can read it but di ko nagagawin kasi it's on record naman po. Sino yung ma-exclude dito? Yung of dead, permanent disability. Andami yung explanation. So, kaya po ang position ko is this is for the Supreme Court. This is not within the authority of the impeachment court. And so, if this body will decide...
+
+**[02:29:39.360] Sen. Francis "Chiz" G. Escudero**  
+Sen.
+
+**[02:29:45.320] Sen. Francis "Chiz" G. Escudero**  
+Judge Soto?
+
+**[02:29:55.970] Sen. Vicente C. Sotto III**  
+Court decides to approve the The motion of Senator Tulfo, which I proposed to be amended, and it is carried, then it becomes justiciable. That's the time that they can bring it up to the Supreme Court. If we do not act now, nobody can bring it to the Supreme Court.
+
+**[02:30:21.720] Sen. Vicente C. Sotto III**  
+It's actually a good move so that once and for all, somebody will bring it up to the Supreme Court. If! If! The motion is approved. Thank you, sir.
+
+**[02:31:00.810] Sen. Francis "Chiz" G. Escudero**  
+is in favor of the appeal of Senator-Judge Alan Cayetano. A nay or negative vote is in favor
+
+**[02:31:08.930] Sen. Francis "Chiz" G. Escudero**  
+of the ruling of the chair in regard to the point of order.
+
+**[02:31:15.780] Sen. Francis "Chiz" G. Escudero**  
+If that is clear, we shall now proceed to repeat.
+
+**[02:31:21.740] Sen. Francis "Chiz" G. Escudero**  
+A yes
+
+**[02:31:23.200] Sen. Francis "Chiz" G. Escudero**  
+or a vote sustains and agrees with the appeal.
+
+**[02:31:30.090] Sen. Francis "Chiz" G. Escudero**  
+A negative or nay vote will sustain the ruling of the chair and therefore agrees with the ruling of the chair. Yes, Senator-Judge Pangalinan.
+
+**[02:31:41.500] Sen. Francis “Kiko” Pangilinan**  
+Yes, just a clarification lang actually or manifestation that we are not yet addressing the motion of...
+
+**[02:31:50.040] Sen. Francis "Chiz" G. Escudero**  
+This is the point of order of Senator-Judge Alan
+
+**[02:31:53.000] Sen. Francis "Chiz" G. Escudero**  
+Cayetano.
+
+**[02:31:53.540] Sen. Francis “Kiko” Pangilinan**  
+Yes,
+
+**[02:31:53.620] Sen. Francis “Kiko” Pangilinan**  
+we are not addressing the motion of Senator Erwin Tulfo. As to the threshold issue, we are just addressing the point of order issue raised by
+
+**[02:32:04.410] Sen. Francis “Kiko” Pangilinan**  
+the
+
+**[02:32:04.590] Sen. Francis “Kiko” Pangilinan**  
+Senator.
+
+**[02:32:06.070] Sen. Alan Peter Cayetano**  
+Correct me if I'm wrong, Mr. Presiding Officer, to have a meeting of mind with Senator Pangilinan. So if the motion is carried, the point of order as I proposed, there will be no vote. On the threshold. If it is lost, then they will proceed and those of us who do not want to participate, we will just explain that we do not want to participate. We will ask for a minute or so, Mr. President.
+
+**[02:32:32.050] Sen. Francis "Chiz" G. Escudero**  
+Yes, that is correct. So we now proceed to vote. The clerk, of course, is directed to call the roll for nominal voting.
+
+**[02:32:50.480] Atty. Renato N. Bantug Jr.**  
+Call
+
+**[02:32:50.900] Atty. Renato N. Bantug Jr.**  
+call vote. Senator-Judge Aquino.
+
+**[02:32:55.280] Atty. Renato N. Bantug Jr.**  
+Sen. Judge Cayetano Allan, Sen.
+
+**[02:32:59.990] Atty. Renato N. Bantug Jr.**  
+Judge Cayetano Pia, Sen. Judge De La Rosa, Sen. Judge Ejercito, Sen. Judge Estrada, Sen. Judge Goh, Sen. Judge Hontiveros, Sen. Judge Lacson, Sen. Judge Lapid, Sen. Judge Legarda, Sen. Judge Marcoleta, Sen. Judge Marcos, Sen. Judge Padilla, Sen. Judge Pangilinan Senator-Judge, Soto III, Senator-Judge, Tulfo Irwin, Senator-Judge, Tulfo Raffi, Senator-Judge, Villanueva, Senator-Judge, Villar Camil, Senator-Judge, Villar Marc,
+
+**[02:33:49.520] Atty. Renato N. Bantug Jr.**  
+Senator-Judge, Zubiri,
+
+**[02:33:51.340] Atty. Renato N. Bantug Jr.**  
+The
+
+**[02:33:52.730] Atty. Renato N. Bantug Jr.**  
+Senate President, Senator-Judge, Gatchalian,
+
+**[02:33:54.910] Atty. Renato N. Bantug Jr.**  
+The
+
+**[02:33:55.900] Atty. Renato N. Bantug Jr.**  
+Presiding Officer, Senator-Judge, Escudero.
+
+**[02:36:05.820] Sen. Francis "Chiz" G. Escudero**  
+With 13 affirmative votes, 6 negative votes, 1 abstention. The appeal is lost.
+
+**[02:36:15.850] Sen. Francis "Chiz" G. Escudero**  
+Senator-Judge Marcos, what is your pleasure, ma'am?
+
+**[02:36:21.910] Sen. Imee Marcos**  
+I'd like to explain my vote, Presiding Officer, please.
+
+**[02:36:24.650] Sen. Francis "Chiz" G. Escudero**  
+The lady may do so.
+
+**[02:36:25.810] Sen. Imee Marcos**  
+Yes, ma'am. Kagalang-galang ang kasama dito sa Senado. Bumuboto po ako. Laban sa panukalang pagbobotohan ang denominator na gagamitin upang matukoy ang kinakailangan bilang para makapag-convict sa impeachment trial na ito. Oo ang aking sinasabi. At malinaw ang Article 11, Section 3-6 ng Saligang Batas. Walang sino man ang maaaring makonvict ng walang pagsangayon sa two-thirds ng lahat ng miyembro ng Senado. Ang ating rules and procedure on impeachment trial ay nagpapatupad ng parehong requirement. Bilang isang Marcos, di ko kailanman inasahan na ipagtatanggol ko ang konstitusyon na laban sa aking ama. Ngunit yan ang kataas-taasang batas ng ating bansa. Maliwanag ang limitasyon itinakda ng Saligang Batas sa Impeachment Court. ay hindi maaaring baguhin ng mayorya ayon sa sarili nitong kagustuhan lamang. Una, may depekto ang logika sa pagpayag sa simple majority magtakda kung gano'ng kalaking supermajority ang hinihingi ng konstitusyon. Ang two-thirds ay sadyang itinakda upang limitahan ang kapangyarihan ng Senado mag-convict. Ang limitasyon sa mayorya ay hindi maaaring baguhin ng mismong mayorya rin kapag hindi
+
+**[02:37:50.520] Sen. Imee Marcos**  
+Ito ay tinakda ng Saligang Batas.
+
+**[02:38:05.770] Sen. Imee Marcos**  
+Ipinagtatalunan natin ang presiding officer na naglabas ng July 6, 2026. Walang tumutol, walang nagkwestyon. 79 na araw ang nakalipas mula nang ilabas ang ruling na iyon. Kahit ang petition for certiorari sa ilalim ng Rules of Court, kailangan ihain sa loob ng 60 araw. At kung iaangkot natin ang Rule 33, Section 91 ng Rules of the Senate, ang motion for recon ay kailangan ihain sa mismong araw o sa loob ng susunod na dalawang araw ng sesyon. Paulit-ulit na natin narinig yan. Bakit natin muling binubuksan ngayon ang isang ruling na hinayaan ng lahat na umiral sa loob ng ilang buwan? Mahalaga ang timing. Wala na tayo sa simula ng trial. Hinihingi sa ating ngayon na muling suriin ang denominator matapos nang magsimula ang paglilitis at ngayong malinaw na ang practical na epekto ng pagbabago nito. Kaya hindi maiiwasan ang tanong. Binibigyang kahulugan pa ba natin ang saligang batas o inaangkop lang natin ang constitutional threshold upang umayon sa mga botong meron tayo? Ano ba ang binabasa natin? Constitution o scoreboard? Hindi maaaring bilangin muna ang isang hukuman ng mga boto at saka pagpapasyahan kung ilang boto ang sapat. Ang Constitution ay hindi basketball na iuurong na lamang. Lahat ng finish line, lahat ng basket, ilalapit kapag hindi natin kayang abutin. Ang saligang batas, ang ating impeachment rules, ang ruling ng presiding officer, nakatakda ng pamantayan mula sa simula. Hindi pa bago-bago. Hindi maiiwasan lumitaw ang impresyon na binabago ang panuntunan dahil maaring hindi na nito maibigay ang resultang ninanais. Yan mismo ang dahilan kung bakit ang constitutional threshold ay dapat naitakda. Bago pa malaman ang resulta at hindi rinirecalibrate kapag naging hindi maginhawa ang numero. Sa huli, isipin naman natin ang president nito. Kung maaaring ibaba ang denominator sa tuwing may miyembro hindi nakakalahok, maaaring gamitin sa hinaharap ang suspension, inhibition, exclusion at iba pang pangyayari upang unti-unti ibaba ang bilang ng mga botong kailangan para sa conviction.
+
+**[02:40:48.070] Sen. Imee Marcos**  
+At kapag ang constitutional threshold ay nababago batay sa mga botong available, hindi na ito tunay na safeguard. Dahil dito, bumoboto ako ng oo. Dapat natin bilangin ang mga boto ayon sa saligang batas. Hindi natin dapat baguhin ang saligang batas ayon sa mga boto. Kabuktutan ito. Kabaliktaran. Huwag natin ilapit ang finish line dahil lamang nahihirapan tayong abutin ito.
+
+**[02:41:36.520] Sen. Camille Villar**  
+Yes, I'd just like to explain my vote.
+
+**[02:41:39.060] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, ma'am.
+
+**[02:41:40.680] Sen. Camille Villar**  
+Yes, because I believe that we should not be deciding or voting on this matter here. The number of senators is the threshold that is required to impeach. A public official, for me, is not merely an internal rule or procedural matter. It is a constitutional question. The Constitution has set rules for impeachment and they were put there by the constitutional framers precisely to make it difficult or to make it challenging for
+
+**[02:42:23.690] Sen. Camille Villar**  
+For this process to take place because millions of Filipinos elected these officials and the gravity of what we are doing in this impeachment court was considered by the constitutional framers and that is why it is not that easy.
+
+**[02:42:46.040] Sen. Camille Villar**  
+has set the rules for impeachment and we have sworn to uphold them. We are here to make laws and faithfully apply the Constitution, not to change the rules midway because the outcome may be difficult or convenient. As the youngest member of this august body, I've always dreamed of serving in the Senate. watching some of the greatest senators and legal luminaries throughout my life serve here. And one of the reasons why I wanted to be in the Senate is because I have always believed that the Senate is often one of the last bastions or defenders of our Constitution and of our democracy. And that is why I cannot remain silent on this issue. Hindi naman po siguro bulag ang taong bayan. Nakikita naman po nila lahat ng nangyayari dito sa Senado, lahat ng nangyayari dito sa ating bansa. Nakikita din nila o sinusubaybayan nila kung paano natin ginagamit ang kapangyarihang ipinagkatiwala nila sa atin at titignan nila kung susundin ba natin ang saligang batas lalo na ngayon na nakasalalay dito ang karapatan ng isang kapwa Pilipino at ang pinakamataas na proseso ng pananagutan sa ilalim ng ating konstitusyon. Every Filipino Every official. Lahat po tayo ay may karapatan para sa due process, katarungan, pantay na pagtrato at proteksyon ng kanilang pangunahing karapatan. My dear colleagues, history will remember what we decide here. But just as importantly, history will remember how we decided it. There will come a time when the names and political divisions surrounding this Trial will belong to history, but the Constitution we uphold, the President we establish, and the institutions we leave behind will be inherited by the generations that follow us. There have been a lot of sacrifices for this Constitution, for the freedom and democracy of our country, and let us not forget that. Ito ang pananagutan natin hindi lamang sa mga Pilipino ngayon kundi pati na rin sa mga Pilipinong darating pagkatapos natin. Whatever our individual votes may ultimately be on conviction or acquittal, let them be reached through a process that is fair, consistent, and faithful to the Constitution.
+
+**[02:45:36.430] Sen. Camille Villar**  
+Because today we are not simply deciding how many senators may vote, how many senators can vote, how many votes are required. We are deciding what kind of constitutional tradition we will leave behind. And in making that decision, I choose to stand by the Constitution as written, by the mandate entrusted to every duly elected senator, and by the Filipino people's right to expect the rules of our democracy will remain firm, especially when the stakes are at their highest. Yun lamang po. Maraming maraming salamat.
+
+**[02:46:12.310] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Camille Villar. Senator Judge Padilla is recognized. What is your pleasure, sir?
+
+**[02:46:18.730] Sen. Robinhood “Robin” Padilla**  
+Nais ko lamang ipaliwanag ang aking boto.
+
+**[02:46:21.220] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir.
+
+**[02:46:25.650] Sen. Robinhood “Robin” Padilla**  
+Bismillahirrahmanirrahim. Ang 1987 Constitution ay produkto ng People Power Revolution, isang makasaysayang pagkilos ng sambayan ng Pilipino laban sa mapaniil at diktatoryal pamamahala. Ang ating kasalukuyang konstitusyon ay pinagtibay ng sambayan ng Pilipino sa pamamagitan ng isang plebisito. Ang kanilang pakikilahok sa plebisito ay isang malinaw na paggamit ng kanilang karapatang marinig at maipahayag ang kanilang pasya bilang tunay na pinagmumulan ng kapangyarihan ng Republika at hindi lamang sa pamamagitan ng kanilang mga kinatawan. Narito tayo upang ipaglaban ang prinsipyong ipinaglaban ng ating mga kababayan. Hindi lamang noong panahon ng people power, kundi maging ang mas mahabang kasaysayan ng pakikibaka ng sambayan ng Pilipino para sa kalayaan, karapatan at makabuluhang pamamahala o ng diktadurya. Ang konstitusyon ay hindi kailanman nilikha. upang maging hindi maaaring galawin. Nagtakda ito ng ilang paraan kung nais nating baguhin o amendahan ito. Dito po sa Senado, meron po tayong Committee on Constitutional Amendments na siyang tumatalakay sa mga usaping ito. At ang kasaysayan ng Senado mismo ang magsasabi at magsisilbing patunay kung gaano kaseryoso ang kapulungan ito sa paggalang. at Pangangalaga sa Konstitusyon. Mula nang maitatag ang kagalanggalang nakapulungan ito, ang Committee on Constitutional Amendments ay pinamunuan ng mga kagalanggalang at respetadong abogado kabilang sina Sen. Jose Lina Jr., Sen. Ernesto Maceda, Sen. Cynthia Villar, Sen. Miriam Santiago, Sen. Franklin Rilon, at Sen. Francis Kiko Pangilinan. Ang lahat ng mga individual na ito ay may mataas na pinag-aralan at karamihan sa kanila ay mga abogado. Subalit, pinili nilang huwag galawin ng konstitusyon sapagkat ang mismong konstitusyon ang nagtakda ng napakahirap na proseso para sa sino man, para sa kahit sino na nais itong baguhin o amendahan. Muli. Ang konstitusyon ay may isang artikulo na nagtatakda ng paraan kung paano ito maaaring baguhin. Ngunit hindi kailanman naging simple ang prosesong ito. Ang usapin ay laging nauuwi sa pagboto. Hindi kailanman naging malinaw sa konstitusyon kung kinakailangang voting threshold ay tatlong kapat o dalawang katlo ng lahat ng mga membro nito. Ang usaping ito hinggil sa pagboto ay hindi kailanman nalutas. May mga nagsasabing dapat itong isagawa ng jointly o magkakasama. Samantalang may mga nagsasabing dapat itong isagawa ng separately o magkakahiwalay. Nung ako po ay chairperson ng Committee on Constitutional Amendments ng 19th Congress, idinulog ko sa Korte Suprema ang usapin kung ang Kongreso ba ay dapat bumoto ng jointly or separately. Ito po ay kasunod ng malawakang talakayan sa pagitan noon ng ating Senate President Juan Miguel Migsubiri at House Speaker Martin Romualdez hinggil sa mga usapin kaugnay sa People's Initiative. Nais ko pong ipaalala sa hukuman ito na noong nagkaroon ng People's Initiative ang mababang kapulungan Buong pagkakaisa po tayong tumindig upang sabihin na ito ay labag sa Constitution. Hanggang ngayon ay hindi din natin binibitawan ang issue tungkol sa voting jointly or separately. Bakit po hindi ganito ang ating tindig sa issue ng voting threshold dito sa impeachment? Kung sinasabi po ng marami na dapat ay hindi i-interpret ng literal ng katagang all members sa ilalim ng Constitution, bakit po noong katagang forthwith? Ang usaping dito sa ating kapulungan, grabe ang naging talastasan ng interpretasyon nito at ng literal. Grabe ang pagmamadali. Bakit ngayon tila nagbago ang ihip ng hangin? Hindi mo dapat pareho ang ating pamantayan dahil ang mga probisyon naman ng konstitusyon ang ating pinag-uusapan? Bakit nag-iiba ang paraan ng ating pagbasa? Depende ba ito kung saan tayo nakatayo sa usaping pampolitika? Masyado naman tayong halata.
+
+**[02:51:34.000] Sen. Robinhood “Robin” Padilla**  
+Mga kasama, hanggang sa kasulukuyan, wala pa rin inilalabas na disisyon ang Korte Suprema tungkol sa aking idinulog sa kanila. Matibay ang aking paniniwala na kung ang mga nabanggit na committees, chairpersons, kabilang ako, ay hindi nangahas na amendahan ng konstitusyon ng walang disisyon ng Korte Suprema, Wala po tayong dahilan upang gawin ito ngayon sa pamamagitan ng impeachment court na ito. Paano maaaring bigyang kahulugan ang 21 Senador ng Republika ang mismong mga salita ng konstitusyon? Gayong maging ang kasaysayan ang makapagpapatunay noong impeachment ni Chief Justice Renato Corona, ang yumaang Senador Juan Ponce Enrile na nagsilbing presiding officer ng naturang impeachment trial, ay nagpahayag. Even we are only 20, even we are only 17, kailangan pa rin ng 16. Ang kasalukuyang presiding officer, si Senate President Cheese Escudero, ay nagpahayag din na 16 na boto ang threshold na kinakailangan para sa conviction kung ang nauna at kasalukuyang presiding officers na parehong mga abogado at mga profesor sa law. Bukod pa nito, si dating Senate President Juan Ponce Anrile ay nagsilbi sa nakatatandang Marcos at kay Marcos Jr. Ang kanyang buhay at mga disisyon ay humubog sa kasaysayan ng konstitusyon ng Pilipinas. Ang ating kasalukuyang presiding officer ay lumahok sa impeachment ni dating Pangulo Joseph Estrada bilang isang prosecutor at sa impeachment ni Justice Corona bilang Senator-Judge. Kung ang mga kasalukuyang senador ay may tungkuling itinakda ng konstitusyon na gampanan ng kanilang mga responsibilidad sa impeachment, nararapat lamang na igalang at matuto tayo mula sa mga tradisyon na unang mga pasya at ngalawak na institusyonal na karanasan ng Senado. Sa ganitong paraan, matitiyak natin na ang usaping tinatalakay natin ngayon ay mariresolba batay sa mga prinsipyo ng konstitusyon at sa matatag na tradisyon at praktika ng institusyon upang ang pagiging lehitimo nito ay hindi kukwestyonin ng kasalukuyang henerasyon at ng susunod pang salillahi. Ang konstitusyon ang nagsisilbing gabay at pangunahing pagpapahayag ng kalooban ng sambayanan. Kung nais nating amendahan o baguhin ito, Dapat nating sundin ang mga proseso na mismong itinakda ng konstitusyon sapagkat ito ay nananatiling tinig at nagpapahayag ng kalooban ng taong bayan. Tayo ay mga kinatawan lamang ng sambayan ng Pilipino. Bilang kanilang mga kinatawan, tayo ay nakatali sa konstitusyong kanilang pinagtibay at pinagtibay sa pamamagitan ng kanilang boto. Ang pagtataguyod at pagsunod sa konstitusyon ay nangangahulugan sa makatawid ng paggalang at pagbibigaybisa sa kalooban ng taong bayan. Ang ating otoridad ay hindi nagmumula sa ating sarili. Ito ay nagmumula sa taong bayan. Kaya naman nait nating gamitin ang otoridad na ito sa loob ng mga hangganang itinakda nila sa pamamagitan ng konstitusyon. Maraming salamat po.
+
+**[02:56:10.470] Sen. Francis "Chiz" G. Escudero**  
+Forgive me, Senator-Judge Goy, I did not know. Senator Goy is recognized for his explanation of vote before we go on a recess.
+
+**[02:56:20.780] Sen. Christopher Bong Go**  
+Salamat po. Tapusin ko lang po ito. Baka mamaya wala na akong kasama rito.
+
+**[02:56:30.790] Sen. Christopher Bong Go**  
+Mr. Presiding Officer, my fellow Senator-Judges, at sa ating mga kababayang nakikinig, the question before us is grave. How many votes does it take to impeach an official elected by the Filipino people? Pero ang tanong dito ay dapat ba nating pagbutuhan ito? Ito bang tamang panahon o tamang forum? The 1987 Constitution which was ratified by 16.6 million Filipinos, more than 76% of our people, answers this clearly. Article 11, Section 3, Paragraph 6, No person shall be convicted without the concurrence of two-thirds of all the members of the Senate. Two-thirds of all the members, 24, not only those present on the day votes are cast, not only those available on the day votes are cast. Hindi sinabi ng konstitusyon na yung mga present lamang sa araw ng butuhan. All means all. Ang ibig sabihin ng lahat ay lahat. The Senate has 24 seats. Two-thirds of 24 is 16. The math is simple. Simple arithmetic. Madaling intindihin po ito, Mr. Presiding Officer. Bakit ngayon lang po ito gagawing komplikado? Isa naman po ang ating layunin dito. I am for justice, truth, and accountability. Kaya lang dapat dumaan tayo sa tamang proseso. At sumunod po tayo sa Constitution.
+
+**[02:58:10.310] Sen. Christopher Bong Go**  
+Tanong ko po dito at sa lahat po ang nakikinig, those members who are not here today, si Sen. Bato de la Rosa, Sen. Dante Marcoleta, Sen. Jingo Estrada, Sen. Loren Legarda, are they still members of the Senate? Clearly, they are still members of the Senate. Hindi po bakante ang posisyon nila. Wala pong sinabi ang Constitution na kapag absent ang isang Senador, wala dito ang Senador ay hindi na siya kasama. Wala rin sinabi na kapag under detention ng isang Senador, hindi na siya miyembro ng Senado. Walang ganoong kwalifikasyon. So who are we to qualify what the Constitution itself did not? Para na rin nating in-amend ang Constitution through interpretation. Dapat po ang Korte Suprema ang magdesisyon. Kanya-kanya tayo ng opinion. Maraming iba't ibang interpretasyon. Kaya dapat po'y tuldukan na po ito ng Korte Suprema. Mr. Presiding Officer, kapag nagbabago-bago ang bilang, madali itong paglaruan. And because the rules of this Court may be amended by a simple majority, 13 of us or even fewer could rewrite a number the Constitution has fixed. Sundin po natin ang nakasaad sa Constitution.
+
+**[02:59:44.110] Sen. Christopher Bong Go**  
+Huwag natin baguhin. The
+
+**[02:59:48.480] Sen. Christopher Bong Go**  
+bar is high by design. Sinadya pong mataas. At mataas ang pamantayan dahil mabigat ang parusa.
+
+**[03:00:00.000] Sen. Christopher Bong Go**  
+Constitution uses two-thirds of all the members only for the most serious acts exercised by this chamber. Una, concurring in a treaty that binds the nation. Pangalawa, disciplining, suspending or expelling one of our own colleagues. At pangatlo, impeachment of public officials. The framers Made it difficult on purpose. Sinadya po ito. Bakit nating hahayaang labing isa ang magdesisyon sa ipinagkatiwala ng Saligang Batas sa labing anim? Simple mathematics. Simple logic. Mr. Presiding Officer, ngayon, bakit labing isa, labing dalawa, labing tatlo, labing apat,
+
+**[03:00:56.700] Sen. Christopher Bong Go**  
+o
+
+**[03:00:57.860] Sen. Christopher Bong Go**  
+simpleng majority ang magdidesisyon? na baguhin ang threshold kung malinaw naman po ang sinasabi ng Saligang Batas. Like in other collegial bodies in government, may standards na sinusundan. May proseso para punuan ang kulang. Sa katunayan, the seats of our absent colleagues are not vacant po.
+
+**[03:01:20.020] Sen. Christopher Bong Go**  
+Nagkataon lang na bakante yan ngayon.
+
+**[03:01:23.370] Sen. Christopher Bong Go**  
+Uulitin ko po, there is no vacancy in the Senate today. Nagre-request nga po silang makilahok sa hearing dahil Daladala nila ang mandato ng milyon-milyong bumoto sa kanila. Hindi po ito tungkol kung sino ang nililitis. The same two-thirds votes of all the members must apply to anyone who stands before this Court.
+
+**[03:01:47.780] Sen. Christopher Bong Go**  
+A
+
+**[03:01:48.460] Sen. Christopher Bong Go**  
+President, a Vice President, a Justice, or an Ombudsman. Today, in the years to come, Ang pamantayang ibababa natin ngayon, magagamit po laban sa kahit sino bukas. Hindi naman po ito tama at makaturungan yun. Dapat po patas, dapat sundin ang nakasaad sa batas. Mr. Presiding Officer, sa dulo po ng araw, hindi lamang po ito usapin ng mga numero o ng mabibigat na probisyon sa Saligang Batas. Ito po ay tungkol sa tiwala ng ordinaryong Pilipino. Yung manggagawang gumigising ng madaling araw, magsasakang nagbibilad sa init ng araw. Yung drivers na araw-araw ay lumalaban ng patas. Yung mga ordinaryong kawani sa gobyerno at gurong nag-aabang ng kinabukasan ng kanilang mga mag-aaral. Na umaasang ang batas ay patas at hindi nababaluktot. Kapag gumuho ang pamantayan ng konstitusyon, gumuho rin ang proteksyon ng bawat mamamayang Pilipino. Therefore, I respectfully manifest my vote for the appeal of Senator Caetano. I reiterate my belief that conviction requires two-thirds vote of all the members of the Senate. Two-thirds of 24 is 16. This is what is clearly stated in our Constitution. Ito pong Constitution natin.
+
+**[03:03:33.180] Sen. Christopher Bong Go**  
+This is what binds us. Pag wala ito, watak-watak po tayo. Maraming salamat po.
+
+**[03:03:42.450] Sen. Francis "Chiz" G. Escudero**  
+Noted and entered into the records. We shall break for recess and resume. Forgive me for the short lunch break. We shall resume at 1.30pm.
+
+**[03:57:39.340] Sen. Francis "Chiz" G. Escudero**  
+As resumed, before the Chair proceeds to the appeal of Senator-Judge Erwin Tulfo, Chair would like to manifest that the Chair's further explanation of vote on the ruling earlier appealed by Senator Katika Itano be inserted into the records as well as any other explanation of vote in regard to that matter by the other Senator-Judges may be so submitted and inserted into the records as they please.
+
+**[03:58:12.060] Sen. Francis "Chiz" G. Escudero**  
+Proceeding now
+
+**[03:58:13.000] Sen. Francis "Chiz" G. Escudero**  
+to take up the appeal of Senator-Judge Erwin Tulfo, let the Chair state for the record what we shall be voting for.
+
+**[03:58:31.030] Sen. Francis "Chiz" G. Escudero**  
+On July 6, 2026, the Chair stated that a literal interpretation of Article 11, Section 3.6 of the Constitution requires the concurrence of two-thirds of all the members of the Senate or at least 16 votes based on a Senate membership of 24. Later that day, upon clarification by Senator-Judge Alan Cayetano and again on July 7, upon clarification by Senator-Judge Lacson, the Chair confirmed that the statement constituted a ruling of the Presiding Officer and given the absence of any objection, became the ruling of the Court under Rule 6 of the Rules on Impeachment. On September 8, Senator-Judge Erwin Tulfo made a motion in manifestation which effectively questioned the July 6 ruling of the Presiding Officer. The latter thus treated the same as an appeal of the July 6 ruling under Rule 22 of the Rules of Procedure on Impeachment. On September 16, given the constitutional significance of the issue, the Court heard the considered views of distinguished Amici Curie it had invited. Today, September 23, the court heard the oral arguments of the parties and the matter is now submitted for the resolution of the court. To explain the vote, an A, I, or Yes vote grants the appeal and overturns It means that for purposes of determining the two-thirds concurrence vote required for conviction under Article 11, Section 3.6, the phrase, all members of the Senate, open close quotation, shall refer only to those members who at the time of the vote remain legally and factually capable of participating in the impeachment proceedings. 1.
+
+**[04:00:34.890] Sen. Francis "Chiz" G. Escudero**  
+Detained and or suspended or otherwise legally restrained from exercising the functions of a senator. 2. Persons sought by authorities whose whereabouts are unknown. 3. Suffering from a physical or medical incapacity. 4. Beyond the coercive processes of the Senate.
+
+**[04:01:00.150] Sen. Francis "Chiz" G. Escudero**  
+others similarly situated. A no vote or a nay vote denies the appeal and sustains the July 6 ruling of the Chair. Accordingly, the number of votes required for conviction shall remain at 16 based on the phrase all members of the Senate which is currently 24. Lastly, before proceeding, the
+
+**[04:01:30.360] Sen. Francis "Chiz" G. Escudero**  
+Chair withdraws that. If there are no objections,
+
+**[04:01:35.620] Sen. Francis "Chiz" G. Escudero**  
+The chair shall now proceed to vote in accordance with Rule 22
+
+**[04:01:43.180] Sen. Francis "Chiz" G. Escudero**  
+of the Rules on Impeachment. All those in favor of the appeal of Senator-Judge Erwin Tulfo, say aye.
+
+**[04:01:56.550] Sen. Francis "Chiz" G. Escudero**  
+Those against, say nay.
+
+**[04:01:58.440] Sen. Francis "Chiz" G. Escudero**  
+Nay.
+
+**[04:02:00.950] Sen. Francis "Chiz" G. Escudero**  
+The ayes have it. The appeal is won.
+
+**[04:02:09.200] Sen. Francis "Chiz" G. Escudero**  
+Given the earlier manifestation of Senator-Judge Alan Cayetano that in behalf of some of our Senator-Judge members that they will not participate, the Chair would like to place on record the actual vote as reflected based on the 20 members who responded to the roll call earlier. For the record, Senators Alan Cayetano, Pia Cayetano, Sen. Goh, Sen. Marcos, Sen. Villar Camil, and Sen. Robin Padilla did not participate in the vote. With the casting of a nay vote by the Presiding Officer, 13 voted in the affirmative in favor of the appeal of Sen. Judge Erwin Tulfo. It is therefore 13 affirmative votes, 1 negative votes, and 6 did not participate.
+
+**[04:03:08.300] Sen. Francis "Chiz" G. Escudero**  
+For
+
+**[04:03:08.900] Sen. Francis "Chiz" G. Escudero**  
+the record,
+
+**[04:03:11.560] Sen. Francis "Chiz" G. Escudero**  
+While the Chair takes exception to this decision, the Chair nonetheless accepts it as a judgment of this Court and is bound to give it effect. The Presiding Officer, after all, is not the Court. He is merely the custodian of the process, not the proprietor of its outcome.
+
+**[04:03:30.440] Sen. Francis "Chiz" G. Escudero**  
+This is the essence of democracy, that disagreement be preserved without obstruction and that lawful result be obeyed without resentment. This is the tradition that gives the strength and legitimacy to the Senate, whether we sit as a legislative body or as an impeachment court. We allow the fullest ventilation of views, even if those views differ sharply from our own. But at the end of the day, we vote. We abide by the judgment of the majority, even if we disagree with it.
+
+**[04:04:05.900] Sen. Francis "Chiz" G. Escudero**  
+The Chair accepts and declares the ruling adopted by the Court as the new controlling ruling upon further proceedings, and the Chair shall apply this ruling faithfully. For the guidance of the parties, Senator-Judges, and the public, the Chair hereby restates the new controlling ruling of the Court as follows. To determine the two-thirds concurrence required for conviction under Article 11, Section 3 of the Senate, of the Constitution, rather. The phrase, all members of the Senate, quote-unquote, shall refer to those members who, at the time of the vote, remain legally and factually capable of participating in the proceedings. Accordingly, the computation shall exclude members who are, number one, detained and or suspended or otherwise legally restrained from exercising the functions of a senator, persons sought by authorities whose whereabouts are unknown, suffering from a physical or medical incapacity, beyond the coercive processes of the Senate, and others similarly situated.
+
+**[04:05:16.520] Sen. Francis "Chiz" G. Escudero**  
+The Chair shall also proceed, given the outcome of the vote, to give guidelines on the new controlling ruling. Given the new controlling ruling of the Court on the threshold vote, The Chair sets forth the following guidelines to give full effect to the said ruling.
+
+**[04:05:39.100] Sen. Francis "Chiz" G. Escudero**  
+First, this ruling and interpretation of the Court shall operate pro hoc vice, or for this occasion only. It shall not constitute a binding precedent in any future impeachment proceedings. This is a ruling, not an amendment of the rules. As such,
+
+**[04:06:10.690] Sen. Francis "Chiz" G. Escudero**  
+Second,
+
+**[04:06:25.870] Sen. Francis "Chiz" G. Escudero**  
+The impeachment court shall determine on the basis of competent and sufficient evidence whether a member falls within any of the five circumstances mentioned in the new controlling ruling. The remaining members shall then constitute the denominator from which the required two-thirds concurrence shall be computed. Third, where the computation of two-thirds results in a fraction. The number of votes required for conviction shall be rounded up to the next higher whole number, even if the fraction is less than 0.5. For example, if the denominator is 20, 2 thirds is 13 and 1 third or 13.33. If we round it down to 13, 13 votes would fall short. of the constitutionally required two-thirds concurrence which is 13.33. Since a fraction of a vote is impossible as there is no fraction of a senator, 13.33, again by way of example only, must be rounded up to 14 votes, the next higher whole number, to ensure that the votes for conviction constitute at least two-thirds of the relevant membership. This shall ensure that no person shall be convicted without the concurrence of two-thirds of all the members of the Senate as determined by the Court in this new controlling ruling and as required under Article 11, Section 3.6 of the Constitution. So ordered.
+
+**[04:08:11.270] Sen. Francis "Chiz" G. Escudero**  
+Before we adjourn, I was informed that Attorney Sheila wishes to make a manifestation, as I understand? Yes, Attorney Sheila. You are recognized, ma'am.
+
+**[04:08:22.760] Atty. Sheila C. Sison**  
+That's correct, Your Honor. Magandang hapon po. Considering the action taken by this honorable court today in respect of the voting threshold required and commanded by no less than the Constitution, I would ask that this court be patient with a statement from the defense. In respect of this action.
+
+**[04:08:47.300] Sen. Francis "Chiz" G. Escudero**  
+The lead counsel for the respondent may do so. You may proceed, ma'am.
+
+**[04:08:52.800] Atty. Sheila C. Sison**  
+I will begin with a quote from the ruling of the Supreme Court in Duterte v. H.O.R. GR numbers 278353 and 278359 decided on July 25, 2029. and affirmed by the highest court on January 29, 2026. I quote, The process of impeachment is a constitutional and therefore legal process that takes place within a political environment. That it is sui generis does not convert it to a purely political process isolated from the requirements of the Constitution as a whole. The basic constitutional mandate is that public office is a public trust. Being a constitutional value, any process seeking accountability of our public officers must take place within the strict framework and procedure outlined in the Constitution. Those who participate in this process are as accountable to our people as those who are made the subject of impeachment. This court, regardless of the political result, will not evade its duty to declare when an act is done with grave abuse of discretion amounting to an excess of jurisdiction of any department, organ, or office. And considering, end of quote.
+
+**[04:10:38.470] Atty. Sheila C. Sison**  
+Considering also my subsequent manifestations after that quotation of that portion from the decision of Duterte v. H.O.R., I will not ask that this Court take mandatory judicial notice of this decision given that by itself under Section 1 of Rule 129, it is indeed a subject of mandatory judicial notice by our Courts also in relation to Article 8 of our Civil Code which expressly provides that Judicial decisions applying or interpreting the law shall form part of the law of the land. And so, under that framework, let it be clear that the respondent does not shrink from accountability, nor does she fear the outcome of this impeachment trial. She asked for nothing spectacular from this court, only the most essential and basic guarantees due to every individual. Fairness and impartiality sa isang korteng pinagkalooban ng pinaka-iingatang mga prinsipyo sa ilalim ng ating saligang batas. We therefore put on record that even as we understand that this tribunal will proceed as it deems fit, we nonetheless are constrained to place on record na mula sa araw na ito, the respondents participation or any participation that the respondent will have in this trial ay may tahasang pag-iingat or without cautelum and that she reserves every right to exhaust all legal remedies available sa ilalim ng ating batas at konstitusyon na may pagtatangi sa esensya ng isang tunay na malayang demokratikong institusyon. At karapatan ng bawat mamamayan na madinig sa isang hukumang walang kinikilingan o kinatatakutan at matapang na maninindigan sa isang makatarungang paglilitis at sa bandang huli, pagpapasya. Maraming salamat po.
+
+**[04:13:02.570] Sen. Francis "Chiz" G. Escudero**  
+The Chair has instructed the Clerk of Court to make available the TSN of yesterday and today's proceedings as early as tomorrow morning. And the Chair also previously instructed the Clerk of Court to make sure that they are ready and available for any person who may want to get a certified true copy of the same for purposes of, precisely what Attorney Sheila said, exhausting. All of your legal remedies in regard to the ruling that this court made this afternoon.
+
+**[04:13:40.070] Sen. Francis "Chiz" G. Escudero**  
+Before we wrap up this matter, the respective senator-judges may simply insert into the records their respective explanations of vote, if any. And the Clerk of Court is directed to... Spread into the records in the journal the entirety of the explanation of votes of the member senator-judges. The Senate Presidents are organized.
+
+**[04:14:05.270] Sen. Sherwin T. Gatchalian**  
+Mr.
+
+**[04:14:06.330] Sen. Sherwin T. Gatchalian**  
+Presiding Officer, I was going to say that we have colleagues who are interested to submit their explanation of votes so I was going to mention that I will also submit my explanation of votes to the Clerk of Court.
+
+**[04:14:34.400] Sen. Francis "Chiz" G. Escudero**  
+The Secretariat is
+
+**[04:14:35.900] Sen. Francis "Chiz" G. Escudero**  
+requesting that the explanations of vote be submitted by 4 p.m. so that they can meet the 10 a.m. deadline set by the Presiding Officer for the TSN to be ready by tomorrow.
+
+**[04:14:51.780] Sen. Francis "Chiz" G. Escudero**  
+So again, to reiterate, kindly submit your explanations of vote, if any, before 4 p.m. So that the certified true copy of the TSN may be readily available by 10 a.m. tomorrow for whatever purpose it may serve and whomsoever may be interested in getting one.
+
+**[04:15:11.680] Sen. Francis "Chiz" G. Escudero**  
+I believe we already issued subpoenas for the witnesses in our trial scheduled next week.
+
+**[04:15:20.090] Sen. Francis "Chiz" G. Escudero**  
+Honorable Diokno, since you're near the mic, I will not
+
+**[04:15:22.890] Sen. Francis "Chiz" G. Escudero**  
+belabor the Honorable Wistro to stand up. Do you confirm?
+
+**[04:15:28.540] Rep. Jose Manuel “Chel” I. Diokno**  
+Yes, Your Honor.
+
+**[04:15:30.110] Sen. Francis "Chiz" G. Escudero**  
+So, no need for any new subpoenas to be issued, correct?
+
+**[04:15:34.420] Rep. Jose Manuel “Chel” I. Diokno**  
+None
+
+**[04:15:35.290] Rep. Jose Manuel “Chel” I. Diokno**  
+at this time, Your Honor.
+
+**[04:15:36.950] Sen. Francis "Chiz" G. Escudero**  
+Okay, there being no other matters to be taken up for this date, before the Chair adjourns the trial, for the information of the Senator-Judge, session shall be called at 3 p.m.
+
+**[04:15:51.860] Sen. Francis "Chiz" G. Escudero**  
+There being no further matters to be discussed, the trial is adjourned. Until Monday, September 28, 2026 at 10 o'clock in the morning.

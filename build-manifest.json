@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24T02:36:46+08:00",
+  "generated_at": "2026-09-24T03:37:41+08:00",
   "complete_artifacts_only": true,
   "partner": null,
-  "through_date": "20260922",
+  "through_date": "20260923",
   "articles_of_impeachment": {
     "source_pdf": "https://docs.congress.hrep.online/legisdocs/first_20/CR00261.pdf",
     "pages": [
@@ -38,6 +38,15 @@
     "source": "verified Senate archive and GitHub Release assets"
   },
   "sessions": [
+    {
+      "id": 29,
+      "youtube_id": "-gukXtujXus",
+      "revision": 4,
+      "segments": 509,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
     {
       "id": 28,
       "youtube_id": "gtoJDFavcLY",
