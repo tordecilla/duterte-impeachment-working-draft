@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T22:56:11+08:00",
+  "generated_at": "2026-09-29T18:52:56+08:00",
   "complete_artifacts_only": true,
   "partner": null,
-  "through_date": "20260923",
+  "through_date": "20260928",
   "articles_of_impeachment": {
     "source_pdf": "https://docs.congress.hrep.online/legisdocs/first_20/CR00261.pdf",
     "pages": [
@@ -20,8 +20,8 @@
   "case_comparison": false,
   "document_library": null,
   "related_document_library": {
-    "records": 108,
-    "date_references": 141,
+    "records": 113,
+    "date_references": 146,
     "source": "related_document_artifacts",
     "approved_only": true
   },
@@ -38,6 +38,15 @@
     "source": "verified Senate archive and GitHub Release assets"
   },
   "sessions": [
+    {
+      "id": 30,
+      "youtube_id": "V5CHEUKJu6E",
+      "revision": 2,
+      "segments": 1088,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
     {
       "id": 29,
       "youtube_id": "-gukXtujXus",
@@ -302,9 +311,9 @@
   ],
   "document_releases": {
     "repository": "tordecilla/duterte-impeachment-working-draft",
-    "asset_count": 244,
-    "rewritten_links": 445,
-    "pdf_payloads_removed": 247,
-    "bytes_hosted_outside_pages": 343045361
+    "asset_count": 246,
+    "rewritten_links": 462,
+    "pdf_payloads_removed": 249,
+    "bytes_hosted_outside_pages": 350128794
   }
 }
