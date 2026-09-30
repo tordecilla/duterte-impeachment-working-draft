@@ -17,13 +17,13 @@ All persons are commanded to keep silent under pain of penalty while the Impeach
 **[00:04:58.910] Sen. Sherwin T. Gatchalian**  
 The Impeachment Trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator-Judge JV Ejercito.
 
-**[00:05:14.670] Sen. Joseph Victor “JV” Ejercito**  
+**[00:05:14.670] Sen. Joseph Victor "JV" G. Ejercito**  
 Amon namin mga pangyarihan, lumalapit kami sa iyo nang may pakumbaba. Batid namin na ang karunungan ng tao ay may hangganan. Ngunit ang iyong katotohanan at katarungan ay nanatili magpakailanman.
 
-**[00:05:28.590] Sen. Joseph Victor “JV” Ejercito**  
+**[00:05:28.590] Sen. Joseph Victor "JV" G. Ejercito**  
 Sa
 
-**[00:05:29.520] Sen. Joseph Victor “JV” Ejercito**  
+**[00:05:29.520] Sen. Joseph Victor "JV" G. Ejercito**  
 pagtupad namin ng aming tungkulin binang mga senator judges, hinihiling namin ang iyong gabay sa lahat ng aming gagawin. Pagkalooban mo, nawa kami ng tapat na puso at malinaw na pag-iisip. Sa buong panahon ng paglilitis na ito, Panginoon, nakikiusap po kami na kayo niyo kami sa landas na makatarungan na may patas na pagtingin sa karapatan ng bawat isa. Dalhin niyo kami sa liwanag pagkat nakapiring ang aming mga mata, hindi man po namin hiningi, ngunit ipinagkatiwala sa aming konstitusyon ang timbangan ng katarungan. Kumiling nawa ito sa karapat-dapat na pagkalooban nito. Nawa ang inyong salita ang maging gabays sa aming paglilingkod at pagdala sa amin sa katotohanan. Kagaya po ng Winika sa Leviticus 19.15, Do not pervert justice, do not show partiality, but judge your neighbor fairly. Lagi po naman tatandaan ang tagubili niyong ito. Amma, anuman ang maging bunga ng paglilitis na ito, hindi nawa itong makita bilang tagumpay ng isa at pagkatalo ng iba, kundi para sa kabubuti ng sambay ng Pilipino. Lahat po ng aming gagawin ay para sa kalulugod mo at hindi para sa kapinabangan ng sino mang tao, mga partido o kanilang mga pansariling interes. Kundi ito'y para sa pagpapatibay ng aming mainstitusyon ng pamalaan at sa pagpapanatili ng tiwala ng mamamayan sa demokrasya ng aming bayan. Bum puso po naming nananalangin na sa lahat ang aming gagawin, lagit-lagi naming kayong pinupuryan. Amen.
 
 **[00:07:34.320] Atty. Renato N. Bantug Jr.**  
@@ -2084,16 +2084,16 @@ Okay. We'll take a look, Mr. Presiding Officer. Hanapin natin ito. And if I may 
 **[02:20:59.660] Sen. Francis "Chiz" G. Escudero**  
 The gentleman may do so at the appropriate time. With the permission of Senator Judge Erwin Tulfo, since nakatayo na po si Senator Judge Ejercito, ang papaunahin ko ng bumuna siya. Senator Judge Tulfo, rather Ejercito is recognized. You have two minutes, sir.
 
-**[02:21:14.210] Sen. Joseph Victor “JV” Ejercito**  
+**[02:21:14.210] Sen. Joseph Victor "JV" G. Ejercito**  
 Thank you, Mr. Presiding Officer.
 
-**[02:21:18.910] Sen. Joseph Victor “JV” Ejercito**  
+**[02:21:18.910] Sen. Joseph Victor "JV" G. Ejercito**  
 May we know if the NBI has the authority to issue subpoena against impeachable officials? Kasi kanina po sa mga pinresent kanina, subpoena po ang inyong pinadala sa Vice President instead of a mere invitation. Yan lang po. Clarify ko lang po.
 
 **[02:21:37.790] Atty. Jeremy C. Lotoc**  
 Yes, Your Honor. Under Republic Act 10867, the NBI has authority to issue subpoena. As a matter of fact, the case involving the Vice President falls under Section 5, Paragraph G, which the NBI has primary jurisdiction to undertake investigation, Your Honor.
 
-**[02:21:57.760] Sen. Joseph Victor “JV” Ejercito**  
+**[02:21:57.760] Sen. Joseph Victor "JV" G. Ejercito**  
 Likewise, for the information, may we know what constitutes a grave threat that will prompt the NBI to conduct an investigation as compared to a light threat? What are the elements that are needed to be present to be considered a grave threat.
 
 **[02:22:16.530] Atty. Jeremy C. Lotoc**  
@@ -2102,16 +2102,16 @@ Well, for grave threat, Your Honor, if naalala ko siya, if a person threatens an
 **[02:22:40.900] Atty. Jeremy C. Lotoc**  
 with any wrong, amounting to a crime, if that threat is with condition or without condition or with monetary consideration, yun po yung kabuan sa grave threat.
 
-**[02:23:10.830] Sen. Joseph Victor “JV” Ejercito**  
+**[02:23:10.830] Sen. Joseph Victor "JV" G. Ejercito**  
 May kondisyon? Or walang kondisyon?
 
 **[02:23:13.640] Atty. Jeremy C. Lotoc**  
 The crime of grave threat, Your Honor, can be committed with or without condition. With or without
 
-**[02:23:17.200] Sen. Joseph Victor “JV” Ejercito**  
+**[02:23:17.200] Sen. Joseph Victor "JV" G. Ejercito**  
 condition.
 
-**[02:23:19.860] Sen. Joseph Victor “JV” Ejercito**  
+**[02:23:19.860] Sen. Joseph Victor "JV" G. Ejercito**  
 So as an investigator, have you ever investigated and filed a complaint for grave threats apart from this one? Again, Your Honor? As an investigator, have you filed any case or investigated and filed a case for grave threats against anyone aside from this one, excluding this one?
 
 **[02:23:42.330] Atty. Jeremy C. Lotoc**  
@@ -2123,19 +2123,19 @@ think me, nag-start po kasi ako as counter-terrorism and then organized crime gr
 **[02:23:53.430] Atty. Jeremy C. Lotoc**  
 Wala akong maalala, Your Honor, kundi ito lang. I mean, so far as my being in the NBI is concerned, Your Honor.
 
-**[02:24:00.610] Sen. Joseph Victor “JV” Ejercito**  
+**[02:24:00.610] Sen. Joseph Victor "JV" G. Ejercito**  
 Ah, so ito lamang yung ano, ito pala yung kaso na naimbestigahan niyo concerning greed threats, yun o?
 
 **[02:24:08.100] Atty. Jeremy C. Lotoc**  
 I think yung iba, may mga na-investigahan, Your Honor. Pero again, sabi ko, yung sa sarili ko po, yung experience ko from counter-terrorism hanggang sa Organized Transnational Crime Group hanggang sa Cybercrime Division, ang naalala ko lang, Your Honor, kasi matagal na ho yun eh, kung ano yung nasa record, I think itong great threats na to is, pag hindi first time, Atty. Dung ko lang na-experience.
 
-**[02:24:39.100] Sen. Joseph Victor “JV” Ejercito**  
+**[02:24:39.100] Sen. Joseph Victor "JV" G. Ejercito**  
 Gano'ng katagal kayong parte nitong Cybercrime Division? Bukay na
 
 **[02:24:44.520] Atty. Jeremy C. Lotoc**  
 lipat? Since 2018, Your Honor. Nagsimula ako bilang Investigation Agent. And then 2022, I was designated as Chief of the Digital Forensic Laboratory Division. And then 2023, designated as Chief of the Cybercrime Division, Sir.
 
-**[02:25:04.970] Sen. Joseph Victor “JV” Ejercito**  
+**[02:25:04.970] Sen. Joseph Victor "JV" G. Ejercito**  
 So, more than five years kayong nandito sa Cybercrime Division ng NBA? Opo. That's all, Mr. Presiding Officer. Thank you.
 
 **[02:25:12.670] Sen. Francis "Chiz" G. Escudero**  
@@ -4819,52 +4819,52 @@ Salamat po, Atty. Lotoc. Salamat po, Mr. Presiding Officer. Thank you.
 **[05:04:16.460] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge Hontiveros. Senator-Judge Ejercito, you may proceed, sir, when you're ready. You have two minutes.
 
-**[05:04:21.900] Sen. Joseph Victor “JV” Ejercito**  
+**[05:04:21.900] Sen. Joseph Victor "JV" G. Ejercito**  
 Thank you, Mr. Presiding Officer. Atty. Tony Lotoc, may dagdag-glarification lang.
 
-**[05:04:29.200] Sen. Joseph Victor “JV” Ejercito**  
+**[05:04:29.200] Sen. Joseph Victor "JV" G. Ejercito**  
 The DOJ pointed out in its certification, yung pong pinakita kanina noong February 5, 2025, that the NBI is not the proper offended party to file a complaint for grave threats and referred its initial referral for case build-up. As a result of the referral for case build-up by the DOJ, did the NBI later submit? Afidavits or Statements from the Offended Parties, namely, si Presidente Marcos, First Lady, at si former Speaker, Martin Robualdez.
 
 **[05:05:02.310] Atty. Jeremy C. Lotoc**  
 Hindi na po, Your Honor, nung sinabit namin yung aming referral, yun po yung last phase ng investigation, and I think yung prosecutor na ho mag-i-issue ng summons sa mga parties involved. Ang purpose lang ho namin, to comply with the requirements. A preliminary investigation po.
 
-**[05:05:20.760] Sen. Joseph Victor “JV” Ejercito**  
+**[05:05:20.760] Sen. Joseph Victor "JV" G. Ejercito**  
 But earlier sa inyo pong statement, sinabi nyo na ang isa sa mga factors sa pag-evaluate ng threat, if it is really serious, is through the determination of the relationship between the parties. Sinabi nyo po yun kanina. Yes po, Your
 
 **[05:05:38.460] Atty. Jeremy C. Lotoc**  
 Honor.
 
-**[05:05:38.860] Sen. Joseph Victor “JV” Ejercito**  
+**[05:05:38.860] Sen. Joseph Victor "JV" G. Ejercito**  
 So did you try at least to get the statements of the President, the First Lady? Or the Speaker of the House. Former Speaker.
 
 **[05:05:49.700] Atty. Jeremy C. Lotoc**  
 Ang pinagbasihan po namin yung Honor yung official statement nila dun sa website ng Presidential Communications Office. And then yung public statement ng former Speaker during the plenary session on November 25, 2024, Sir. So that was the
 
-**[05:06:11.000] Sen. Joseph Victor “JV” Ejercito**  
+**[05:06:11.000] Sen. Joseph Victor "JV" G. Ejercito**  
 basis yung pong nasa PCO website. So you did not bother to get the statements from the offended parties?
 
 **[05:06:23.110] Atty. Jeremy C. Lotoc**  
 I think nung nakita ko namin yung video na nag-issue ng statement yung presidente, na-establish ko namin yung requirement kung ano yung treatment ng presidente nung marinig niya yung utterances ng vice-presidente. So nung nakita namin yun, May reaction. Ang sabi nga niya is nakakabahala. Based sa aming primary jurisdiction, nag-i-start to kami ng investigation, sir.
 
-**[05:06:54.790] Sen. Joseph Victor “JV” Ejercito**  
+**[05:06:54.790] Sen. Joseph Victor "JV" G. Ejercito**  
 Kanina rin tinanong kayo tungkol doon sa
 
-**[05:06:56.670] Sen. Joseph Victor “JV” Ejercito**  
+**[05:06:56.670] Sen. Joseph Victor "JV" G. Ejercito**  
 revised affidavit of investigation, which you submitted after the DOJ referred to the case for case build-up in its certification doon nga sa February 5, 2025.
 
-**[05:07:09.490] Sen. Joseph Victor “JV” Ejercito**  
+**[05:07:09.490] Sen. Joseph Victor "JV" G. Ejercito**  
 You mentioned that it's just a compliance on the part of the NBI.
 
 **[05:07:14.510] Atty. Jeremy C. Lotoc**  
 Your Honor, ito ho yung part ng evaluation at saka case build-up process. Pag nakita ho ng prosecutor na may kulang pang mga attachment para ho mabuo maging pulido yung kaso. Nagbibigay sila ng mga requirement o NBI, kulang ka nito, kulang ka nito, i-comply mo ito para maidakit natin sa preliminary investigation. So normal
 
-**[05:07:39.100] Sen. Joseph Victor “JV” Ejercito**  
+**[05:07:39.100] Sen. Joseph Victor "JV" G. Ejercito**  
 lang po yun sa investigation agency na magsabita additional evidence or revise the affidavits after the case is referred back by the DOJ for case build-up. As
 
 **[05:07:51.420] Atty. Jeremy C. Lotoc**  
 part po ng evaluation at case build-up process, nagtutulungan ho dyan, Your Honor. Yung prosecutor and then yung investigator, base doon sa requirement ng DC-15, Your Honor.
 
-**[05:08:05.250] Sen. Joseph Victor “JV” Ejercito**  
+**[05:08:05.250] Sen. Joseph Victor "JV" G. Ejercito**  
 You mentioned that, last point Mr. Presiding Officer, you mentioned that the case before the DOJ is still ongoing. Yes po. So as of today, Atty. Lotoc, there is still no determination by the DOJ if the case referred by the NBI should be filed in court because there is prima facie evidence of reasonable certainty of conviction.
 
 **[05:08:28.110] Atty. Jeremy C. Lotoc**  

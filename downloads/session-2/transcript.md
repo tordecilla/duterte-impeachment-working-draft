@@ -1241,43 +1241,43 @@ Thank you. Senator-Judge Ejercito is recognized. You may proceed, sir. And when 
 **[00:54:32.600] Sen. Francis "Chiz" G. Escudero**  
 ready and you have two minutes.
 
-**[00:54:35.550] Sen. Joseph Victor “JV” Ejercito**  
+**[00:54:35.550] Sen. Joseph Victor "JV" G. Ejercito**  
 Yes, thank you, Mr. Presiding Officer. Siguro dagdag ako na lang din nun. Ito tayo tinatanong na rin yung tungkol doon sa mga paggamit ng mga alias sa ating mga senator-judges. Dahil alam naman natin na kinakailangan din na... Legitimo nga, may pangangailan na protektahan, no? Dahil nga confidential itong mga information. Ang, sa ilalim ng Joint Circular Number 2015-0, paano dapat maprotektahan ang pagkakakilanla ng mga confidential informant?
 
 **[00:55:07.830] Atty. Roderick C. Wamil**  
 Wala pong provision as to that, Your Honor. Kasi yung, wala pong namang requirement yung circular as to the, pwede pa ulit po ng tanong, sorry.
 
-**[00:55:21.000] Sen. Joseph Victor “JV” Ejercito**  
+**[00:55:21.000] Sen. Joseph Victor "JV" G. Ejercito**  
 Well, yung ano, hindi, kasi parang alam naman natin, lalo na sa mga intelligence, tsaka yung mga activities, mga confi, ginagamit yung mga Ilias, nabanggit nyo rin kanina. Hindi ba pwedeng gamitin na lang, halimbawa, John Dos, Jane Dos, o Juan de la Cruz, kasi alam naman natin na, ano to eh, binambibilit, binamba-reward for information na, syempre, Pinoproteksyon na din natin yung mga, pinoproteksyon ng mga agencies, yung identity ng mga informants.
 
 **[00:55:56.860] Atty. Roderick C. Wamil**  
 Ang masasabi ko lang po, Your Honor, wala naman pong provision as to the joint circular sa use ng LSS kasi silent po yung joint circular.
 
-**[00:56:05.430] Sen. Joseph Victor “JV” Ejercito**  
+**[00:56:05.430] Sen. Joseph Victor "JV" G. Ejercito**  
 So tanggap yun? Halimbawa nakita niyong medyo parang... kahit iyong mga pangalan eh mukhang alias lang ay tinatanggap dahil pang intelligence gathering.
 
 **[00:56:16.720] Atty. Roderick C. Wamil**  
 We based lang po dun sa document submitted to us. So kung wala pong naka-indicate dun sa document submitted to us na alias po yun, hindi po namin manalaman, Your Honor.
 
-**[00:56:27.400] Sen. Joseph Victor “JV” Ejercito**  
+**[00:56:27.400] Sen. Joseph Victor "JV" G. Ejercito**  
 Tapos meron din ano no, dapat may coordination paggamit ng intelligence or confidential, may coordination with law enforcement agencies, tama po ba?
 
 **[00:56:35.020] Atty. Roderick C. Wamil**  
 Yes po, based on the Joint Circular, Your Honor.
 
-**[00:56:36.960] Sen. Joseph Victor “JV” Ejercito**  
+**[00:56:36.960] Sen. Joseph Victor "JV" G. Ejercito**  
 So dun po, tanong ko lang po, meron po bang O may nakita po ba kayong naganap na coordination with the agencies, no? Of course, yung PNP, PFP, PIDEA, at iba pa, NBI, na ginawa ang, halimbawa, OVP, in this case, sa kanilang paggamit ng confidential funds para sa sinasabi nilang confidential programs.
 
 **[00:56:57.940] Atty. Roderick C. Wamil**  
 Based on the documents submitted po sa ICPAO, wala po, Your Honor.
 
-**[00:57:02.890] Sen. Joseph Victor “JV” Ejercito**  
+**[00:57:02.890] Sen. Joseph Victor "JV" G. Ejercito**  
 Dahil sinasabi ng Joint Circular, kung di ako nagkakamil, na kailangan may proper coordination ang paggamit ng confidential funds with these law enforcement agencies.
 
 **[00:57:13.030] Atty. Roderick C. Wamil**  
 Yes po, based on the Joint Circular, Your Honor.
 
-**[00:57:15.150] Sen. Joseph Victor “JV” Ejercito**  
+**[00:57:15.150] Sen. Joseph Victor "JV" G. Ejercito**  
 Isa ba ito sa mga findings na nagkawa sa IOM o sa audit observation memo or notice suspension or notice of disallowance na inilabas laban sa OVP, yung walang coordination?
 
 **[00:57:32.110] Atty. Roderick C. Wamil**  
@@ -1286,28 +1286,28 @@ Wala po kaming naging findings about d'yan, Your
 **[00:57:34.050] Atty. Roderick C. Wamil**  
 Honor.
 
-**[00:57:36.410] Sen. Joseph Victor “JV” Ejercito**  
+**[00:57:36.410] Sen. Joseph Victor "JV" G. Ejercito**  
 Last time, Sir Signing Officer,
 
-**[00:57:39.810] Sen. Joseph Victor “JV” Ejercito**  
+**[00:57:39.810] Sen. Joseph Victor "JV" G. Ejercito**  
 doon sa course ng iyong audit ha, Mr. Attorney Juan Milo, did you see any evidence o may ebidensya ba kayo na si Vice President personally ang tumanggap, ang nakakuha o nagbenefisyo doon sa Confidential Intelligence Fund?
 
 **[00:58:03.250] Atty. Roderick C. Wamil**  
 Based on the documents po, wala po, Your Honor. Wala pong personal knowledge about it.
 
-**[00:58:11.860] Sen. Joseph Victor “JV” Ejercito**  
+**[00:58:11.860] Sen. Joseph Victor "JV" G. Ejercito**  
 So, para sa record, for the record, just last point, Mr. President, sa pagkakalon o kawalan ng ebidensyang may pakita ng personal na pagtamanggap na kinabang ba ang isang opisyal ng pamalan sa pondong bayan ay sapat na? O upang matukoy kung may umiira na pananagutang administratibo, sibil, o kriminal?
 
 **[00:58:34.710] Atty. Roderick C. Wamil**  
 Under the Joint Circular po kasi since si head of the agency po yung may responsibility to oversee kung paano gamitin yung confidential fund and to ensure yung compliance nila dun sa Joint Circular, then accountable person din po si head of the agency, Your Honor.
 
-**[00:58:50.870] Sen. Joseph Victor “JV” Ejercito**  
+**[00:58:50.870] Sen. Joseph Victor "JV" G. Ejercito**  
 So last question. Upang maging malinaw ang inyong testimonya nang sabihin ninyong wala kayong nakitang ebidensya na ang pangalawang Pangulo mismo ang tumanggap, nagpanatili o nakinabang Sa confidential test, inilahad lamang ba ninyo ang inyong audit findings o at hindi kayo nagbibigay ng legal na conclusion hinggil sa pagkakaroon ng kawalan ng pananagutan? Is it based on your audit findings or ano lang, legal conclusion hinggil sa pagkakaroon ng liability?
 
 **[00:59:23.870] Atty. Roderick C. Wamil**  
 Based po sa audit findings, Your Honor. Kasi nilalagay po namin yung persons accountable dun sa aming ini-issue po.
 
-**[00:59:31.570] Sen. Joseph Victor “JV” Ejercito**  
+**[00:59:31.570] Sen. Joseph Victor "JV" G. Ejercito**  
 Okay, thank you Mr. Presiding Officer.
 
 **[00:59:34.530] Sen. Francis "Chiz" G. Escudero**  
@@ -3851,7 +3851,7 @@ And you said earlier that ngayon, ikaw ay state auditor na ng COA ICFAO, Intelli
 **[04:00:26.700] Atty. Lorna Patajo-Kapunan**  
 COA?
 
-**[04:00:29.070] Sebastian “Baste” Z. Duterte**  
+**[04:00:29.070] Mayor Sebastian “Baste” Z. Duterte**  
 Wala na po akong naging ibang posisyon sa COA.
 
 **[04:00:31.870] Atty. Lorna Patajo-Kapunan**  
@@ -3860,7 +3860,7 @@ And when did you start there for?
 **[04:00:33.990] Atty. Lorna Patajo-Kapunan**  
 You're being a state auditor of the COA ICVAW.
 
-**[04:00:38.290] Sebastian “Baste” Z. Duterte**  
+**[04:00:38.290] Mayor Sebastian “Baste” Z. Duterte**  
 Nagsimula po ako noong August 26, 2014.
 
 **[04:00:42.630] Atty. Lorna Patajo-Kapunan**  

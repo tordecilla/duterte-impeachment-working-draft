@@ -1,0 +1,185 @@
+{
+  "description": "A source-linked overview of the Senate impeachment court's September 29 proceedings.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "September 29 proceedings",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for September 29, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00044",
+          "start_seconds": 1088.68,
+          "clock": "00:18:08",
+          "speaker_name": "Atty. Renato N. Bantug Jr."
+        },
+        {
+          "segment_id": "S00048BB",
+          "start_seconds": 1247.84,
+          "clock": "00:20:47",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00129",
+          "start_seconds": 1874.34,
+          "clock": "00:31:14",
+          "speaker_name": "Atty. Theodore Te"
+        },
+        {
+          "segment_id": "S00132",
+          "start_seconds": 1888.69,
+          "clock": "00:31:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The mayor's testimony",
+      "id": "P002",
+      "kind": "finding",
+      "text": "Davao City Mayor Sebastian Zimmerman Duterte testified about city procurement records involving GenCorp Industries. The court declared him a hostile witness, permitting the prosecution to use leading questions while directing counsel not to mislead him. The defense challenged the relevance of procurements that occurred after his sister's term as mayor."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00256",
+          "start_seconds": 2895.21,
+          "clock": "00:48:15",
+          "speaker_name": "Atty. Theodore Te"
+        },
+        {
+          "segment_id": "S00257",
+          "start_seconds": 2907.9300000000003,
+          "clock": "00:48:27",
+          "speaker_name": "Mayor Sebastian “Baste” Z. Duterte"
+        },
+        {
+          "segment_id": "S00288",
+          "start_seconds": 8669.18,
+          "clock": "02:24:29",
+          "speaker_name": "Atty. Theodore Te"
+        },
+        {
+          "segment_id": "S00290",
+          "start_seconds": 8698.369999999999,
+          "clock": "02:24:58",
+          "speaker_name": "Atty. Theodore Te"
+        },
+        {
+          "segment_id": "S00292",
+          "start_seconds": 8807.42,
+          "clock": "02:26:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00235",
+          "start_seconds": 2818.43,
+          "clock": "00:46:58",
+          "speaker_name": "Mayor Sebastian “Baste” Z. Duterte"
+        },
+        {
+          "segment_id": "S00957",
+          "start_seconds": 13566.94,
+          "clock": "03:46:06",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00985",
+          "start_seconds": 13788.92,
+          "clock": "03:49:48",
+          "speaker_name": "Sen. Risa Hontiveros"
+        }
+      ],
+      "heading": "GenCorp records and unanswered questions",
+      "id": "P003",
+      "kind": "finding",
+      "text": "An initial count of 15 GenCorp awards was corrected to 19 city records. After the recess, prosecution counsel said 15 matched the earlier PhilGEPS presentation and identified four additional purchase orders. The mayor said he did not personally know whether GenCorp met a five-year line-of-business requirement and would check city records. Senator-judges sought more detail about bid abstracts and competitors."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00275B",
+          "start_seconds": 3098.92,
+          "clock": "00:51:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00276",
+          "start_seconds": 3131.58,
+          "clock": "00:52:11",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00277",
+          "start_seconds": 3217.2,
+          "clock": "00:53:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00278",
+          "start_seconds": 3385.44,
+          "clock": "00:56:25",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Why the admission request failed",
+      "id": "P004",
+      "kind": "finding",
+      "text": "The prosecution asked Vice President Sara Duterte to admit 104 matters concerning her former public offices, her husband's business interests, and bank records. Its request used Rule 26, which can treat an unanswered request as an admission. Duterte's lawyers objected that requiring a sworn answer could force her to testify against herself and shift the prosecution's burden of proof. The court sustained that objection for this impeachment trial. She need not answer, and silence admits nothing; prosecutors must prove their charges with evidence. The court kept the request, objection, and ruling in the record but directed that the request carry no evidentiary or prejudicial effect. It left the marital and filial privilege argument undecided."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01087",
+          "start_seconds": 14905.3,
+          "clock": "04:08:25",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S01091",
+          "start_seconds": 14926.84,
+          "clock": "04:08:46",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S01112",
+          "start_seconds": 15578.93,
+          "clock": "04:19:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01113",
+          "start_seconds": 15618.94,
+          "clock": "04:20:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01121",
+          "start_seconds": 15824.65,
+          "clock": "04:23:44",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01123",
+          "start_seconds": 15894.64,
+          "clock": "04:24:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Trillanes and the next sitting",
+      "id": "P005",
+      "kind": "finding",
+      "text": "The prosecution proposed former Senator Antonio Trillanes as another witness. The court declined to subpoena him at that time because the related bank records had not yet been presented, while allowing a voluntary appearance. The prosecution was to tell the court how it would proceed. The chair said subpoenaed registers of deeds for Davao City and Samal were expected at the next hearing, and adjourned the trial until September 30 at 10 a.m."
+    },
+    {
+      "citations": [],
+      "heading": "Sources",
+      "id": "P006",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the September 29, 2026 audio overview."
+    }
+  ],
+  "title": "Audio overview — September 29, 2026"
+}

@@ -725,7 +725,7 @@ I'm not
 **[00:48:20.950] Atty. Mark C. Vinluan**  
 aware of that. Not aware, okay. I'll make you aware today. Can we play D-4-12, please?
 
-**[00:48:29.070] Sen. Joseph Victor “JV” Ejercito**  
+**[00:48:29.070] Sen. Joseph Victor "JV" G. Ejercito**  
 Mr. President, kayo po ba sa puso ninyo, gusto nyo bang makipagkasundo
 
 **[00:48:35.070] President Ferdinand R. Marcos Jr.**  
@@ -3131,7 +3131,7 @@ Well, ang basis po namin, yung people versus nabong if I'm not mistaken, in orde
 **[03:00:05.100] Sen. Francis "Chiz" G. Escudero**  
 sir. Senator Judge Hercito, thereafter, Senator Judge Villar, Mark. What is your pleasure, sir?
 
-**[03:00:13.760] Sen. Joseph Victor “JV” Ejercito**  
+**[03:00:13.760] Sen. Joseph Victor "JV" G. Ejercito**  
 Yes, thank you, Mr. President, for just one question. You may proceed, sir. Nabanggit mo kanina yung admission against interest. Mali po ba niyong ipaliwanag para maintindihan po ng nakarami? At why did you rely on this if ever ito pong admission against interest?
 
 **[03:00:34.790] Atty. Jeremy C. Lotoc**  
@@ -3146,13 +3146,13 @@ Itong utterance una to, instead na i-deny niya which is Definitely, it should be
 **[03:01:26.340] Atty. Jeremy C. Lotoc**  
 krimen doon sa... May kinausap akong tao na pag namatay ako, patayin mo si BBM, patayin mo si Speaker, patayin mo si Lisa Marcos.
 
-**[03:01:34.840] Sen. Joseph Victor “JV” Ejercito**  
+**[03:01:34.840] Sen. Joseph Victor "JV" G. Ejercito**  
 Was this, ano, ito pong sinasabing yung admission against interest, was this considered in your investigation?
 
 **[03:01:42.680] Atty. Jeremy C. Lotoc**  
 Yes, Your Honor. Kasama po yun. Yun nga yung naging basis namin na aside doon sa atterances niya na no joke, no joke. Kasi mukhang hindi yung no joke no joke sufficient na ba na talagang seryoso siya? Nung makita ko namin yung video na nire-iterate pa niya at nag-admit siya, we concluded na seryoso ang vice-presidente nung in-atter niya yun. Thank
 
-**[03:02:06.760] Sen. Joseph Victor “JV” Ejercito**  
+**[03:02:06.760] Sen. Joseph Victor "JV" G. Ejercito**  
 you for your questions, Mr. Presiding Officer. Thank you,
 
 **[03:02:09.480] Atty. Jeremy C. Lotoc**  
@@ -4664,13 +4664,13 @@ Thank you, Mr. Presiding Officer.
 **[04:37:20.450] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Ejercito, thereafter, Senator Judge Ontiveros for their interjections. You may proceed, sir, when you're ready.
 
-**[04:37:29.610] Sen. Joseph Victor “JV” Ejercito**  
+**[04:37:29.610] Sen. Joseph Victor "JV" G. Ejercito**  
 Thank you, Mr. Presiding Officer. Atty. Lotoc, given that the Vice President repeated her alleged threats, as presented kanina, sabi ninyo twice or thrice sa mga videos?
 
 **[04:37:41.550] Atty. Jeremy C. Lotoc**  
 Yes, sir.
 
-**[04:37:43.290] Sen. Joseph Victor “JV” Ejercito**  
+**[04:37:43.290] Sen. Joseph Victor "JV" G. Ejercito**  
 Did you consider her persistent in making the threat or in going through with the threat? Because these two are different.
 
 **[04:37:54.030] Atty. Jeremy C. Lotoc**  
@@ -4679,13 +4679,13 @@ Yes, Your Honor. I think iyong in-explain ko po, iyan iyong nature of instructio
 **[04:38:10.700] Atty. Jeremy C. Lotoc**  
 So there, that's indicative of persistence, na determined din po ang Vice President na gawin iyon at pursigido siya doon sa kaniyang mga utterances, kasi maliwanag po sa instruction na, 'Hangga't hindi mo sila mapapatay, huwag kang titigil.'
 
-**[04:38:30.000] Sen. Joseph Victor “JV” Ejercito**  
+**[04:38:30.000] Sen. Joseph Victor "JV" G. Ejercito**  
 So, hindi ba ito tinatawag na persistent lamang doon sa threat kung may mangyari sa kanya? If something happens to her, di ba? Parang yan yung nasa... Yes,
 
 **[04:38:41.040] Atty. Jeremy C. Lotoc**  
 Your Honor.
 
-**[04:38:42.880] Sen. Joseph Victor “JV” Ejercito**  
+**[04:38:42.880] Sen. Joseph Victor "JV" G. Ejercito**  
 Does the heat of the moment still matter here? Kasi maaaring dahilan sa bugso ng galit o sa takot nung gabing yun nang nangyari dahil sa sitwasyon na nandun po sila sa batasan.
 
 **[04:38:59.590] Atty. Jeremy C. Lotoc**  
@@ -4697,10 +4697,10 @@ explanation ko, kinonsider namin yung mga previous statements na may patterns, m
 **[04:39:20.310] Atty. Jeremy C. Lotoc**  
 November 23, which is November 26, 2024. So marami ho ang mga factor na kinonsider namin bago kami nag-conclude na indeed. May violation ang vice-presidente.
 
-**[04:39:33.550] Sen. Joseph Victor “JV” Ejercito**  
+**[04:39:33.550] Sen. Joseph Victor "JV" G. Ejercito**  
 Dahil doon po sa Atty. Lotocdo sa Israel vs. People, GR No. 265736, dated November 19, 2025, sinabi ng Korte Suprema na sa pagtukoy kung may mens rea o kriminal na intensyon, kinakailangan ding umiral ang pagpupursige or persistence. Yes, sir. Kung
 
-**[04:39:53.770] Sen. Joseph Victor “JV” Ejercito**  
+**[04:39:53.770] Sen. Joseph Victor "JV" G. Ejercito**  
 walang ganitong pagpupursige, walang krimeng grave threats. Yes, sir. Gaya ng mga bantang binitiwan lamang sa tindi ng galit o bugso ng damdamin o bilang biro at hindi naman sinunda ng anumang kilos o karagdagang pagbabanda.
 
 **[04:40:11.150] Atty. Jeremy C. Lotoc**  
@@ -4709,7 +4709,7 @@ Yes, sir. Insofar as persistence is concerned, nakita po natin yan noong Novembe
 **[04:40:26.960] Atty. Jeremy C. Lotoc**  
 In the November 26, 2024 statement.
 
-**[04:40:29.800] Sen. Joseph Victor “JV” Ejercito**  
+**[04:40:29.800] Sen. Joseph Victor "JV" G. Ejercito**  
 Dahil meron po sa Article 282, yung threats without persistence are not considered grave. Yes, sir. So, in conclusion, Sir President Officer, sa inyong palagay, ano-anong ginawa ng Vice Presidente ang may tuturing na pagpupursige o persistence sa kanyang mga banda? Well,
 
 **[04:40:49.180] Atty. Jeremy C. Lotoc**  
@@ -4721,7 +4721,7 @@ She was hurling profanities and invectives habang galit na galit siya at sinasab
 **[04:42:09.750] Atty. Jeremy C. Lotoc**  
 That's... much persistence, kung i-establish po natin iyong persistence, Your Honor.
 
-**[04:42:17.080] Sen. Joseph Victor “JV” Ejercito**  
+**[04:42:17.080] Sen. Joseph Victor "JV" G. Ejercito**  
 Maraming salamat, Atty. Lotoc. That's all. No further questions, Mr. Presiding Officer. Thank you, Sen. Judge Ejercito.
 
 **[04:42:23.240] Sen. Francis "Chiz" G. Escudero**  

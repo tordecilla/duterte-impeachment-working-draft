@@ -518,7 +518,7 @@ While
 **[00:50:32.790] Sen. Francis "Chiz" G. Escudero**  
 the witness is breaking the seal and giving it to the counsel for the prosecutor and assisting counsel for the respondent, chair would like to make a manifestation with respect to the proceedings. Earlier, the chair intimated to some senator judges As far as practicable, to make their interjections and interventions after the parties shall have examined the witness, both direct, cross, redirect, and recross, if any, unless the matter is of urgent administrative or procedural concern, in which case it may be brought up even before the examination of the witness by the parties. But as far as practicable, let us allow the parties to finish.
 
-**[00:51:58.880] Sebastian “Baste” Z. Duterte**  
+**[00:51:58.880] Mayor Sebastian “Baste” Z. Duterte**  
 Tama na 'yan. That's okay. Isang ulo lang naman ang kailangan namin. Ang ulo ni Bongbong Marcos.
 
 **[00:52:06.900] Rep. Gerville “Jinky Bitrics” R. Luistro**  

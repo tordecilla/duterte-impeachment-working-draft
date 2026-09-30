@@ -3440,40 +3440,40 @@ Maraming salamat, Mr. Chairman.
 **[03:25:09.410] Sen. Francis "Chiz" G. Escudero**  
 Senator Judge Ejercito is recognized for his interjection. You may proceed, sir. When you're ready, you have two minutes.
 
-**[03:25:15.190] Sen. Joseph Victor “JV” Ejercito**  
+**[03:25:15.190] Sen. Joseph Victor "JV" G. Ejercito**  
 Yes, thank you, Mr. Providing Judge. Just a clarification. Ma'am, kanina po nakikinig po ako, no? Ang nabanggit niyo, sabi niyo nga. Na ilang beses sabi niya unusual po yung 37.5. Madalas, the transaction sa inyo pong branch ay nag-average 10 to 20 million. Tama ho ba? Ang aking magkakarinig.
 
 **[03:25:36.800] Nenita Camposano**  
 Opo, mga last 10 million.
 
-**[03:25:38.620] Sen. Joseph Victor “JV” Ejercito**  
+**[03:25:38.620] Sen. Joseph Victor "JV" G. Ejercito**  
 So sa isang karaniwang araw, ano po yung sa inyo pong experience, ano daw po yung pinakamalaking halaga ng cash na inyo pong nailabas sa inyong sangay para po sa isang client, in this case ito pong ahensya na ang DepEd po? Ano po yung pinakamalaking amount? Ito na po ba yung pinakamalaki? Dahil sabi nyo kanina, unusual.
 
 **[03:26:01.720] Nenita Camposano**  
 Pinakamalaki po ang amount na nailabas nga po ay yung na-encash is yung 37.5.
 
-**[03:26:08.820] Sen. Joseph Victor “JV” Ejercito**  
+**[03:26:08.820] Sen. Joseph Victor "JV" G. Ejercito**  
 Ito na po. So ito yung nagsimula, kailan po ito nagsimula yung ganitong withdrawals?
 
 **[03:26:16.470] Nenita Camposano**  
 Anong po February, sir?
 
-**[03:26:20.690] Sen. Joseph Victor “JV” Ejercito**  
+**[03:26:20.690] Sen. Joseph Victor "JV" G. Ejercito**  
 Ito na po, last question. Mr. Presiding Officer, nangyayari po pa ba itong ganitong kalaking amount, ganito kalaking halaga na withdrawal sa ngayon?
 
 **[03:26:32.320] Nenita Camposano**  
 Ay, in my time, wala na po yun. Yun lang po, tatlong yun. Tatlong lang.
 
-**[03:26:38.740] Sen. Joseph Victor “JV” Ejercito**  
+**[03:26:38.740] Sen. Joseph Victor "JV" G. Ejercito**  
 Well, hindi na po nasundan.
 
 **[03:26:40.200] Nenita Camposano**  
 Wala na po.
 
-**[03:26:41.300] Sen. Joseph Victor “JV” Ejercito**  
+**[03:26:41.300] Sen. Joseph Victor "JV" G. Ejercito**  
 That's all.
 
-**[03:26:41.920] Sen. Joseph Victor “JV” Ejercito**  
+**[03:26:41.920] Sen. Joseph Victor "JV" G. Ejercito**  
 Thank you.
 
 **[03:26:42.680] Sen. Francis "Chiz" G. Escudero**  
