@@ -1505,13 +1505,13 @@ Next would be Senator Judge Lacson.
 **[04:34:21.120] Sen. Francis "Chiz" G. Escudero**  
 You may proceed sir when you're ready. You have no more than five minutes. Thank you, Mr.
 
-**[04:34:25.040] Sen. Panfilo M. Lacson**  
+**[04:34:25.040] Sen. Panfilo “Ping” M. Lacson**  
 Presiding Officer. First of all, this is a historic day and much credit should go to the Presiding Officer. and the Senate President for making this possible. Taking the initiative to invite no less than three chiefs of justice of the Supreme Court and one associate justice. All eminent members, former eminent members of the Court. Now, my question is in relation to that statement. Dahil yung sa grave abuse of discretion. Chief Justice Panganiban, with the initiative taken by the Impeachment Court to hear and learn for our guidance and reference the opinions of four much respected, learned and experienced former Supreme Court Justices, help shield the Senate as an Impeachment Court from being accused of committing grave abuse of discretion.
 
-**[04:35:23.690] Sen. Panfilo M. Lacson**  
+**[04:35:23.690] Sen. Panfilo “Ping” M. Lacson**  
 I will dare ask this question kasi hindi naman kayo mako-compromise kasi you're no longer members of the court.
 
-**[04:35:30.870] Sen. Panfilo M. Lacson**  
+**[04:35:30.870] Sen. Panfilo “Ping” M. Lacson**  
 Makakatulong po ba ito na somehow yung ma-accused kami later on, if it comes to that, na kami nag-commit ng grave abuse of discretion? Kasi I think, sasagutin ko na rin partly yung aking tanong, meron kaming due diligence eh. We took time to listen to eminent people like you. Thank you po.
 
 **[04:35:59.720] Chief Justice Artemio V. Panganiban**  
@@ -1523,7 +1523,7 @@ CJ Panginoon.
 **[04:36:04.820] Chief Justice Artemio V. Panganiban**  
 Opo, I think this is a very wise, prudent move on your part to call on alleged experts.
 
-**[04:36:21.840] Sen. Panfilo M. Lacson**  
+**[04:36:21.840] Sen. Panfilo “Ping” M. Lacson**  
 You may delete the word alleged, CJ.
 
 **[04:36:26.270] Chief Justice Artemio V. Panganiban**  
@@ -1535,13 +1535,13 @@ Your will shall prevail. In our case, sabi ninyo, friends kami. E sumobro na po 
 **[04:37:09.640] Chief Justice Artemio V. Panganiban**  
 Siguro po by this time hindi lang kami friends. Sweetheart na kami.
 
-**[04:37:20.880] Sen. Panfilo M. Lacson**  
+**[04:37:20.880] Sen. Panfilo “Ping” M. Lacson**  
 Thank you, Chief Justice. Okay, Justice Sascuna. Let us, with your indulgence, I'd like to stretch our imagination further. Suppose, alimbawa pong Siam. Sa mga present members ng Senate, 24 po kami, eh siya may na-stranded sa Middle East dahil sa protracted na gyera at hindi talaga makalabas dun, hindi makabalik dito. So wala pong magawa yung Senado as an impeachment court na pilitin sila para mag-attend dito, mag-attend ng trial at mag-render ng desisyon. May sense pa po ba na ituloy pa rin namin ang impeachment trial? Alam naman naming labil lima na lang kami. So ito yung issue ng threshold, meaning yung denominator, immovable pa rin po ba yun given that situation?
 
-**[04:38:18.580] Sen. Panfilo M. Lacson**  
+**[04:38:18.580] Sen. Panfilo “Ping” M. Lacson**  
 Members pa rin po sila. Let me be clear, hindi po sila namatay, hindi sila nag-resign, hindi sila na-expel. Nananatiling miyembro pero hindi sila makaalis sa Iran.
 
-**[04:38:32.000] Sen. Panfilo M. Lacson**  
+**[04:38:32.000] Sen. Panfilo “Ping” M. Lacson**  
 Ilan sila? Siyempo. Kaya labil lima na lang po naiwan. So, ilan ang natira? 15 po. Kulang ng isa para mag-convict. Kulang
 
 **[04:38:41.940] Justice Adolfo S. Azcuna**  
@@ -1553,16 +1553,16 @@ In my opinion, it's similar to a Supreme Court decision where they fail to get t
 **[04:40:03.130] Justice Adolfo S. Azcuna**  
 Rare occasion, rare event, which in that case is a price we pay for the internal check of a supermajority threshold that there are occasions when accountability through impeachment will fail. But there are other modes of accountability. Criminal case for instance, forfeiture of cases, and ultimately the ballot box by the people. So the impeachment is not the only mode of accountability.
 
-**[04:40:40.900] Sen. Panfilo M. Lacson**  
+**[04:40:40.900] Sen. Panfilo “Ping” M. Lacson**  
 Doon po ako pupunta naman kay Chief Justice Panganiban. Saan po mapupunta yung fairness sa Pilipino people kung walang mapapanagot sa accountability? Hindi ko po sinasabing... Guilty yung respondent dito. Ito po yung hypothetical. Saan po tayo gagawit para ma-achieve yung fairness? Kung alam naman natin na lalabin lima yung present available, yung capacitated na membro. Kasi siya, incapacitated eh. Hindi makarating dito. So I think, ito po yung opinion ko lamang, hindi po ako nakipag-debate, na yun yung magiging unfair tayo sa Filipino people. Ayon po ako sa inyong opinion na
 
 **[04:41:25.090] Chief Justice Artemio V. Panganiban**  
 kailangan magkaroon ng desisyon sapagkat yung labil limang natitira, pinaniwalaan ko na mahal pa rin nila ang ating bayan at sila'y nakapagbibigay ng katotohanan at kapantay-pantayan sa ating kababayan. Sampu po sa kanila is two-thirds.
 
-**[04:41:51.600] Sen. Panfilo M. Lacson**  
+**[04:41:51.600] Sen. Panfilo “Ping” M. Lacson**  
 Unlikely na siyam yung hindi talaga maka-attend. Pero babalikan ko yung 1987 na yung premiers. What was the political backdrop when you were crafting the 1987 Constitution? Palagay ko po hindi nyo na-anticipate o na-pursue na meron palang isang magtatago, meron palang dalawang makukulong na walang bail, at meron isang Nasa ibang bansa. Palay ko hindi niyo po ito na-foresee at that time. So, ako po'y sasangayunan ko yung kay Chief Justice Puno na hindi pwedeng immovable kasi nag-evolve po yung sitwasyon, yung circumstances, pumapasok mga bago. At kung tayo'y napaka-rigid at ang plain language, yung textual meaning ng ating Constitution, eh talagang nakapick sa 16. Yung two-thirds dinify na natin bilang 16 na hindi na natin inantala na meron palang sitwasyon na mangyayaring ganito. E babalik ulo kay CJ Panganiban yung fairness.
 
-**[04:43:02.680] Sen. Panfilo M. Lacson**  
+**[04:43:02.680] Sen. Panfilo “Ping” M. Lacson**  
 So, yun lang po.
 
 **[04:43:06.070] Chief Justice Artemio V. Panganiban**  
@@ -1571,16 +1571,16 @@ Fairness can be rendered by two-thirds of those present. It's not necessary that
 **[04:43:21.000] Chief Justice Artemio V. Panganiban**  
 Fairness cannot be rendered nugatory simply because of circumstances beyond the control of our people. Our people deserve still to be given justice because the 15 present can still act and render justice and be able to discipline whoever is to be disciplined. I believe that the senators have been empowered by our Constitution to act. And our Constitution trusts their judgment. As I kept saying in the past, if our Constitution, therefore our people who ratified the Constitution, wanted the Supreme Court to settle this question, then it should have provided that the Constitution should be the tribunal that will decide impeachment cases. Hindi po ganun eh. Ang sinabi ng Constitution, mga Senador, kayo po ang mag-de-decide. Kayo po ang hari rito. Kayo po ang masusunod. Maraming salamat po.
 
-**[04:44:31.750] Sen. Panfilo M. Lacson**  
+**[04:44:31.750] Sen. Panfilo “Ping” M. Lacson**  
 Ang huling tanong ko po, Mr. President Officer, for my education, at what point does the Senate or impeachment court's interpretation of its voting threshold cross the line from non-justiciable political question into a justiciable controversy? At one point po yan.
 
 **[04:44:52.330] Chief Justice Artemio V. Panganiban**  
 Alam po nyo, political question means a question that should be decided by the people. When a question should be decided by the people, then the Supreme Court should be hands off. That's what's meant by a political question. When a matter is raised to the Supreme Court and it involves wisdom of an act, whether the Supreme Court Agrees with it or not is immaterial. What's important is does it have the power under the Constitution to decide that problem. But if it is a political problem, meaning that it should be decided by our people, then the Supreme Court will be hands-off. Ganun po ang political question.
 
-**[04:45:40.020] Sen. Panfilo M. Lacson**  
+**[04:45:40.020] Sen. Panfilo “Ping” M. Lacson**  
 Kinanong ko lang po yan kasi yung manifestation ni Atty. Poa.
 
-**[04:45:57.990] Sen. Panfilo M. Lacson**  
+**[04:45:57.990] Sen. Panfilo “Ping” M. Lacson**  
 I
 
 **[04:45:58.590] Chief Justice Artemio V. Panganiban**  

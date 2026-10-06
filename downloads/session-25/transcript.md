@@ -3824,13 +3824,13 @@ Okay, in the meantime, Court hereby directs the actions of subpoena to Attorney 
 **[03:51:29.400] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge Lacson, what is your pleasure, sir?
 
-**[03:51:32.560] Sen. Panfilo M. Lacson**  
+**[03:51:32.560] Sen. Panfilo “Ping” M. Lacson**  
 Thank you,
 
-**[03:51:33.640] Sen. Panfilo M. Lacson**  
+**[03:51:33.640] Sen. Panfilo “Ping” M. Lacson**  
 Mr.
 
-**[03:51:33.820] Sen. Panfilo M. Lacson**  
+**[03:51:33.820] Sen. Panfilo “Ping” M. Lacson**  
 Presiding Officer. Just to preclude any confusion among the Senator-Judges, yung five minutes po, eh, hindi para each of the three amici curiae, kundi total na iyon. Yes. Baka po sumobra-sobra, kaya kiniklarify po. Yes. Salamat po.
 
 **[03:51:54.810] Sen. Francis "Chiz" G. Escudero**  

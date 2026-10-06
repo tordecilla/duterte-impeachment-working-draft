@@ -1619,10 +1619,10 @@ Thank you, Mr. Witness, Presiding Officer. Maraming salamat po.
 **[01:31:17.670] Sen. Francis "Chiz" G. Escudero**  
 Thank you, Senator-Judge Irwin. Senator-Judge Lacson to avail of his first round. You may proceed, sir. You have two minutes when you're ready.
 
-**[01:31:25.490] Sen. Panfilo M. Lacson**  
+**[01:31:25.490] Sen. Panfilo “Ping” M. Lacson**  
 Thank you.
 
-**[01:31:27.620] Sen. Panfilo M. Lacson**  
+**[01:31:27.620] Sen. Panfilo “Ping” M. Lacson**  
 I'm not asking any question, Mr. Presiding Officer, but this is a very short manifestation based on my observation.
 
 **[01:31:35.750] Sen. Francis "Chiz" G. Escudero**  
@@ -1631,7 +1631,7 @@ You may
 **[01:31:36.300] Sen. Francis "Chiz" G. Escudero**  
 proceed, sir.
 
-**[01:31:36.940] Sen. Panfilo M. Lacson**  
+**[01:31:36.940] Sen. Panfilo “Ping” M. Lacson**  
 The way probably and probably some of the non-lawyers among the senator-judges, particularly my seatmate, Senator Lapid, understand the questions posited by the Defense Council is that the objective of the cross was to create an iota of doubt, no matter how technical and small, to create the impression that the threshold of establishing guilt is beyond reasonable doubt, which I believe is not the case in this impeachment trial, Mr. Presiding Officer. Hindi po ito, let me clarify and emphasize na hindi po ito prejudgment. Ang hangat ko lang po is baka pwede mag-adjust kayo ng inyong defense strategy. Kasi I can speak for myself, pagdating sa masyadong technical at yung impresyo na nagsisilip lang ng napakalit na butas, mukhang hindi po nagre-register. So marami na rin ko yung naipunto in the course of the trial na magaganda. Pero pag nag-resort tayo sa yung we're trying to observe, kasi we were talking between kami dalawa. Yan ang observation namin. Parang hindi masyadong re-register. Parang napakalilit na butas na masyadong technical, medyo hindi po tumatalab. Maraming salamat po.
 
 **[01:32:59.990] Sen. Francis "Chiz" G. Escudero**  

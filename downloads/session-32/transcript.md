@@ -3755,7 +3755,7 @@ Yes, sir.
 **[05:32:17.540] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge, Lacson is recognized. What is your pleasure, sir?
 
-**[05:32:20.710] Sen. Panfilo M. Lacson**  
+**[05:32:20.710] Sen. Panfilo “Ping” M. Lacson**  
 Thank you, Mr. President. This is for our fellow Senator-Judges. When we do our research over the weekend, kindly include Section 2, Republic Act 1405. It makes an exception for impeachment cases. And even the Supreme Court recognizes the statutory exception pagdating sa mga impeachment cases. Thank you.
 
 **[05:32:50.220] Sen. Francis "Chiz" G. Escudero**  

@@ -500,13 +500,13 @@ Your Honors. Although I agree with the distinguished counsel na pag Senator-Judg
 **[01:25:06.210] Sen. Paolo Benigno “Bam” Aquino**  
 Maraming salamat and let me commend again our two councils. Thank you for presenting your sides today. Maraming salamat.
 
-**[01:25:24.430] Sen. Panfilo M. Lacson**  
+**[01:25:24.430] Sen. Panfilo “Ping” M. Lacson**  
 On possible misinformation resulting from, in my view, misleading statements made by both the prosecution and the defense. Number one, sa prosecution, sinabi po ni Honorable, and with all due respect, Congressman Diokno, sinabi niyo po na all four Amici Curie agree na yung 16 is not absolute. I disagree because si Justice Ascuna, was very emphatic. All means all. So that's one point. Sa defense, in the corona impeachment case, you're correct, 23 lang kami. Because President or then-Senator Aquino was elected president. The threshold was maintained at 16. Hindi kami bumaba ng 15 because two-thirds of 23 is 15.33. And we rounded up.
 
-**[01:26:25.980] Sen. Panfilo M. Lacson**  
+**[01:26:25.980] Sen. Panfilo “Ping” M. Lacson**  
 I believe ito rin yung sinusunod yata sa corporate practice, di po ba? So wala kaming binabaylate o wala kaming ginawa na nag-lower kami o hindi namin ginalaw yung 16 because di namin pwedeng galawin because 15.3 was still
 
-**[01:26:43.320] Sen. Panfilo M. Lacson**  
+**[01:26:43.320] Sen. Panfilo “Ping” M. Lacson**  
 16 at that time. So yun lang po, Mr. Presiding Officer.
 
 **[01:26:48.730] Sen. Francis "Chiz" G. Escudero**  

@@ -3830,25 +3830,25 @@ Thank you,
 **[03:53:35.470] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge. Senator-Judge Lacson is recognized for his interjection. You have two minutes, sir. You may proceed when you're ready.
 
-**[03:53:41.760] Sen. Panfilo M. Lacson**  
+**[03:53:41.760] Sen. Panfilo “Ping” M. Lacson**  
 Thank you, Mr. Presiding Officer. Good
 
-**[03:53:43.730] Sen. Panfilo M. Lacson**  
+**[03:53:43.730] Sen. Panfilo “Ping” M. Lacson**  
 afternoon, Mayor. At any point in time before you came here to testify, were you made aware by your lawyer or any lawyer? About a very famous doctrine, Arias versus Sandigan Bayan.
 
 **[03:54:00.500] Mayor Sebastian “Baste” Z. Duterte**  
 No.
 
-**[03:54:01.685] Sen. Panfilo M. Lacson**  
+**[03:54:01.685] Sen. Panfilo “Ping” M. Lacson**  
 Yeah. Na-curious lang ako kasi hindi naman kayo tumatanggi. Tinanong kayo about the contracts, tinanong kayo about yung relationship nyo sa BAC. You never denied anything.
 
 **[03:54:14.410] Mayor Sebastian “Baste” Z. Duterte**  
 Yes.
 
-**[03:54:15.050] Sen. Panfilo M. Lacson**  
+**[03:54:15.050] Sen. Panfilo “Ping” M. Lacson**  
 So kaya ko lang po natanong kung familiar. Yung pong Arias doctrine, ito po yung, it lays out the rule. that heads of offices are permitted to rely in good faith on their subordinates for their action, processing, recommendations. Akala ko po na-advisean kayo kaya malakas
 
-**[03:54:40.900] Sen. Panfilo M. Lacson**  
+**[03:54:40.900] Sen. Panfilo “Ping” M. Lacson**  
 ang loob nyo na aminin lahat yung mga tinaturno sa inyo ng prosecutor. Maraming salamat po, Mr. Presiding Officer.
 
 **[03:54:46.900] Sen. Francis "Chiz" G. Escudero**  

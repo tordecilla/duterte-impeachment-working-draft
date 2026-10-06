@@ -1490,31 +1490,31 @@ proceed,
 **[02:00:21.330] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge Lacson.
 
-**[02:00:22.350] Sen. Panfilo M. Lacson**  
+**[02:00:22.350] Sen. Panfilo “Ping” M. Lacson**  
 Good morning po, Justice.
 
 **[02:00:23.470] Justice Amparo M. Cabotaje-Tang**  
 Good morning, sir. Sa
 
-**[02:00:24.370] Sen. Panfilo M. Lacson**  
+**[02:00:24.370] Sen. Panfilo “Ping” M. Lacson**  
 akin lang po, bakit po ba limitado lamang sa Pangulo? At sa pangalawang pangulo, ang paglahok sa anumang uri ng negosyo. Bakit hindi po ito nag-a-apply indirectly or indirectly ang sinasabi? At hindi ito nag-a-apply sa gobernador, sa mayor, mga senador, at congressmen.
 
 **[02:00:47.190] Justice Amparo M. Cabotaje-Tang**  
 Katulad sir po na nabanggit ko kanina dun sa Supreme Court case, nakalimutan ko na naman yung title, na given the fact that the president and vice president are the two highest officials of the land, ay sinasabi dun, there is the greater possibility of abuse in their office.
 
-**[02:01:08.050] Sen. Panfilo M. Lacson**  
+**[02:01:08.050] Sen. Panfilo “Ping” M. Lacson**  
 Hindi po ba mag-a-apply din sa gobernador? At least within his area of jurisdiction?
 
 **[02:01:16.380] Justice Amparo M. Cabotaje-Tang**  
 Well, mayroon sa Republic Act 6713 yung mga prohibitions din po regarding local government officials and the other officials in government.
 
-**[02:01:26.390] Sen. Panfilo M. Lacson**  
+**[02:01:26.390] Sen. Panfilo “Ping” M. Lacson**  
 Pero qualified po yung talagang Pangulo at Pangalawang Pangulo. Ano mang uri ng negosyo, directly or indirectly, hindi talaga sila, maski nga yung kanilang mga spouses, eh hindi talaga pwede lumahok. Absolute po eh. Samantal, yung tanong ko po, bakit hindi nag-apply o nag-a-apply sa ibang opisyalis o executive opisyalis ng gobyerno na similarly situated, although Alam ko po na yung pangulo at saka pangalawang pangulo, malawak buong Pilipinas. Pero hindi po ba in a similar vein, same vein, kung sa loob ng isang probinsya, ang pinaka-chief executive naman doon ay gobernador. At sa isang bayan o isang siyudad, ang chief executive doon ay yung mayor. Ano lang po ito, hindi naman po ito out, sabi nga ni Senate President Sotto. Out of curiosity, bakit po ganun na application?
 
 **[02:02:25.040] Justice Amparo M. Cabotaje-Tang**  
 Kasi nga, they have greater powers, sabi ng Supreme Court, kaya yung more stringent ang prohibition sa kanila. And because of the powers that they wield, there is the greater possibility of abuse in their office.
 
-**[02:02:42.700] Sen. Panfilo M. Lacson**  
+**[02:02:42.700] Sen. Panfilo “Ping” M. Lacson**  
 Maraming salamat po. Thank you, Mr.
 
 **[02:02:43.960] Justice Amparo M. Cabotaje-Tang**  
