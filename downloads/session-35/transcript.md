@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=XoYw-kKytwk
-Status: Reviewed working draft, revision 2
+Status: Reviewed working draft, revision 3
 
 **[00:04:24.780] Atty. Renato N. Bantug Jr.**  
 The Senate President, the Presiding Officer, and the Senator-Judges of the Impeachment Court.
@@ -282,7 +282,7 @@ Thank you. 314,059.17.
 Alright. How about for the account ending 301? What is the ending balance for the year 2022?
 
 **[00:15:10.220] Arcy James Gonzales**  
-It's 1682.094.21.
+It's 1,682,094.21.
 
 **[00:15:14.040] Atty. James Bryan Ibrahim A. Alih**  
 Alright. What was that again? 1682. 1682. Okay. Now let's go to the year 2023.
@@ -345,7 +345,7 @@ Na-close na siya in 2025.
 That's fine. Okay. So sa yung isang account naman po na ending 301, ano na po yung ending balance niya for? 20-25.
 
 **[00:17:03.640] Arcy James Gonzales**  
-It's 871-998.77.
+It's 871,998.77.
 
 **[00:17:07.280] Atty. James Bryan Ibrahim A. Alih**  
 Alright. So for all those years, again, 371? Tama po ba?
@@ -7542,7 +7542,7 @@ Yes, Sir.
 Alright. Sir, allow me to start by asking you the year-end balances of those accounts that I've mentioned. But I'm going to proceed per year. So let's start with 2022. Let's start with 2393. Bank account 2393. What is the ending balance for the year 2022?
 
 **[06:22:54.520] Mario Cerilo M. De Mesa Jr.**  
-For account number 2393, for Manases R. Carpio, the year-end balance is 120,000.
+For account number 2393, for Manases R. Carpio, the year-end balance is 120,570.50 centavos.
 
 **[06:23:24.520] Mario Cerilo M. De Mesa Jr.**  
 For the year 2022, under the account of [unclear] Duterte and Manases R. Carpio, the ending balance is 5,131,934.13 centavos.
@@ -7686,7 +7686,7 @@ For 2022,
 with ending account number 4786, the ending year end balance is 15 million.
 
 **[06:29:40.200] Mario Cerilo M. De Mesa Jr.**  
-284,682, and 606 and tapos.
+284,682, and six centavos.
 
 **[06:29:43.820] Atty. James Bryan Ibrahim A. Alih**  
 Okay.

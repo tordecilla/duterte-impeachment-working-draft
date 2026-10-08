@@ -9,7 +9,7 @@
   },
   "transcript": {
     "status": "Reviewed working draft",
-    "revision": 2,
+    "revision": 3,
     "turn_count": 4266,
     "turns": [
       {
@@ -847,7 +847,7 @@
         "start_seconds": 910.22,
         "end_seconds": 913.68,
         "speaker": "Arcy James Gonzales",
-        "text": "It's 1682.094.21.",
+        "text": "It's 1,682,094.21.",
         "confidence": 0.9095865885416666,
         "editorial_flags": []
       },
@@ -1036,7 +1036,7 @@
         "start_seconds": 1023.64,
         "end_seconds": 1026.8,
         "speaker": "Arcy James Gonzales",
-        "text": "It's 871-998.77.",
+        "text": "It's 871,998.77.",
         "confidence": 0.943359375,
         "editorial_flags": []
       },
@@ -22799,9 +22799,9 @@
       {
         "stable_id": "S02042",
         "start_seconds": 22974.52,
-        "end_seconds": 22983.79,
+        "end_seconds": 22987.54,
         "speaker": "Mario Cerilo M. De Mesa Jr.",
-        "text": "For account number 2393, for Manases R. Carpio, the year-end balance is 120,000.",
+        "text": "For account number 2393, for Manases R. Carpio, the year-end balance is 120,570.50 centavos.",
         "confidence": 0.9462131076388888,
         "editorial_flags": []
       },
@@ -23242,7 +23242,7 @@
         "start_seconds": 23380.2,
         "end_seconds": 23383.82,
         "speaker": "Mario Cerilo M. De Mesa Jr.",
-        "text": "284,682, and 606 and tapos.",
+        "text": "284,682, and six centavos.",
         "confidence": 0.6143061319986979,
         "editorial_flags": []
       },

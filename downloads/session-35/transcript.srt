@@ -368,7 +368,7 @@ Atty. James Bryan Ibrahim A. Alih: Alright. How about for the account ending 301
 
 93
 00:15:10,220 --> 00:15:13,680
-Arcy James Gonzales: It's 1682.094.21.
+Arcy James Gonzales: It's 1,682,094.21.
 
 94
 00:15:14,040 --> 00:15:23,870
@@ -452,7 +452,7 @@ Atty. James Bryan Ibrahim A. Alih: That's fine. Okay. So sa yung isang account n
 
 114
 00:17:03,640 --> 00:17:06,800
-Arcy James Gonzales: It's 871-998.77.
+Arcy James Gonzales: It's 871,998.77.
 
 115
 00:17:07,280 --> 00:17:13,000
@@ -10047,8 +10047,8 @@ Mario Cerilo M. De Mesa Jr.: Yes, Sir.
 Atty. James Bryan Ibrahim A. Alih: Alright. Sir, allow me to start by asking you the year-end balances of those accounts that I've mentioned. But I'm going to proceed per year. So let's start with 2022. Let's start with 2393. Bank account 2393. What is the ending balance for the year 2022?
 
 2513
-06:22:54,520 --> 06:23:03,790
-Mario Cerilo M. De Mesa Jr.: For account number 2393, for Manases R. Carpio, the year-end balance is 120,000.
+06:22:54,520 --> 06:23:07,540
+Mario Cerilo M. De Mesa Jr.: For account number 2393, for Manases R. Carpio, the year-end balance is 120,570.50 centavos.
 
 2514
 06:23:24,520 --> 06:23:40,520
@@ -10240,7 +10240,7 @@ Mario Cerilo M. De Mesa Jr.: with ending account number 4786, the ending year en
 
 2561
 06:29:40,200 --> 06:29:43,820
-Mario Cerilo M. De Mesa Jr.: 284,682, and 606 and tapos.
+Mario Cerilo M. De Mesa Jr.: 284,682, and six centavos.
 
 2562
 06:29:43,820 --> 06:29:44,000
