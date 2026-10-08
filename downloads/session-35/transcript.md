@@ -1,0 +1,12804 @@
+# October 7, 2026
+
+Impeachment Trial of Vice President Sara Duterte
+
+Source: https://www.youtube.com/watch?v=XoYw-kKytwk
+Status: Reviewed working draft, revision 2
+
+**[00:04:24.780] Atty. Renato N. Bantug Jr.**  
+The Senate President, the Presiding Officer, and the Senator-Judges of the Impeachment Court.
+
+**[00:05:36.510] Sen. Sherwin T. Gatchalian**  
+The Sergeant at Arms is directed to make a proclamation.
+
+**[00:05:41.780] Senate Sergeant-at-Arms**  
+All persons are commanded to
+
+**[00:05:44.140] Senate Sergeant-at-Arms**  
+keep silent under pain of penalty while the Impeachment Court is in session for the trial of Vice President Sara Zimmerman Duterte.
+
+**[00:05:52.590] Sen. Sherwin T. Gatchalian**  
+The Impeachment Trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator Judge Raffy Tulfo.
+
+**[00:06:17.060] Sen. Raffy T. Tulfo**  
+Almighty Father, as we begin another long day of trial, please send your most Holy Spirit upon each one of us to guide us in our proceedings. Use our eyes and ears to discover the truth, guide our minds to understand what is being discussed, and warm our hearts to have patience for each other and have compassion for the people for whom we perform our duties today. We especially pray for our witnesses who sacrificed their time and energy to help us achieve our roles here today. Finally, give us enough light moments throughout the day to remember that we are all humans and equal before your eyes. All these we pray in your mighty name. Amen.
+
+**[00:07:01.220] Sen. Sherwin T. Gatchalian**  
+The Clerk of Court will now call the roll.
+
+**[00:07:13.060] Atty. Renato N. Bantug Jr.**  
+Ehercitot, Estrada, Go, Ontiveros, Lacson, Lapid, Legarda, Marcoleta, Marcos, Padilla, Pangilinan, Sotto III, Tulfo Erwin, Tulfo Raffi, Villanueva, Villar Camil, Villar Marc, Senator Judge Zubiri, the Presiding Officer, Senator Judge Escudero, the Senate President, Senator Judge Cachalian. The
+
+**[00:07:47.750] Sen. Sherwin T. Gatchalian**  
+14th Senate Judge is present. The Chair declares the presence of a quorum. In accordance with the Rules of Procedure on Impeachment Trials, the Chair now recognizes the duly elected Presiding Officer to preside over the proceedings of the Impeachment Court.
+
+**[00:08:02.430] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Mr. Senate President. If there are no objections, we shall dispense with the reading of the October 5 and 6, 2026 Journals of the Senate. sitting as an impeachment court and considered the same as approved.
+
+**[00:08:17.680] Sen. Francis "Chiz" G. Escudero**  
+The clerk of court will kindly call the case before this court.
+
+**[00:08:23.440] Atty. Renato N. Bantug Jr.**  
+Case number 004-2026 in the matter of impeachment trial of Vice President Cyrus D. Ramon Duterte.
+
+**[00:08:30.880] Sen. Francis "Chiz" G. Escudero**  
+Appearances of the parties.
+
+**[00:08:33.840] Atty. James Bryan Ibrahim A. Alih**  
+Good morning, Your Honor. Same appearances for the prosecution.
+
+**[00:08:36.540] Sen. Francis "Chiz" G. Escudero**  
+I presume it will still be Attorney James?
+
+**[00:08:39.100] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor.
+
+**[00:08:41.020] Atty. David Ronell M. Golla VII**  
+Good
+
+**[00:08:41.540] Atty. David Ronell M. Golla VII**  
+morning. Good morning, your honor. I am David Ronell Golla. The same appearance for the respondent accused.
+
+**[00:08:47.400] Sen. Francis "Chiz" G. Escudero**  
+Will it be attorney CJ?
+
+**[00:08:49.800] Atty. David Ronell M. Golla VII**  
+No, your honor. At this point, we will be turning over to attorney Roberto Batungbacal, your honor.
+
+**[00:08:55.700] Sen. Francis "Chiz" G. Escudero**  
+What's his nickname?
+
+**[00:08:57.380] Atty. David Ronell M. Golla VII**  
+Attorney Robby, your honor.
+
+**[00:08:58.920] Sen. Francis "Chiz" G. Escudero**  
+Rob.
+
+**[00:09:02.150] Sen. Francis "Chiz" G. Escudero**  
+Attorney Rob, you are recognized.
+
+**[00:09:04.410] Atty. Roberto N. Batungbacal**  
+Good
+
+**[00:09:04.850] Atty. Roberto N. Batungbacal**  
+morning, your honor.
+
+**[00:09:05.830] Sen. Francis "Chiz" G. Escudero**  
+Good morning. Call your witness. Is it Arcy James Gonzales, attorney James?
+
+**[00:09:12.010] Atty. James Bryan Ibrahim A. Alih**  
+Good morning again, your honor. Yes, Your Honor, we are calling to the witness stand, Ms. Arcy James Gonzales, the branch manager of Asian United Bank Davao Toril Branch.
+
+**[00:09:26.800] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate Ms. Arcee James, no, rather, Arcy James Gonzales. Mr. Arcee James,
+
+**[00:09:33.660] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor.
+
+**[00:09:34.800] Sen. Francis "Chiz" G. Escudero**  
+Mr. Arcee. Sorry, yung kilala kong Arcee kasi babae.
+
+**[00:09:40.870] Sen. Francis "Chiz" G. Escudero**  
+Pero may James nga naman.
+
+**[00:09:45.980] Sen. Francis "Chiz" G. Escudero**  
+Is he the only witness in the gallery?
+
+**[00:09:49.930] Atty. James Bryan Ibrahim A. Alih**  
+Yes, your honor. It appears to be that way.
+
+**[00:09:52.110] Sen. Francis "Chiz" G. Escudero**  
+Yes. Kindly exclude the other witnesses. However, the sergeant at arms is directed to facilitate the succeeding witnesses that will be called before the witness stand in seriatim. I think you already have a copy, General Corpus.
+
+**[00:10:10.850] Sen. Francis "Chiz" G. Escudero**  
+Clerk of Court is directed to administer the oath.
+
+**[00:10:13.780] Atty. Renato N. Bantug Jr.**  
+Please raise your right hand, sir. You, Arcy James Gonzales, do swear that the evidence shall give in the case now pending between the Philippines and Vice President Cyrus Guillermo Duterte shall be the truth, the whole truth and nothing but the truth. So help you God.
+
+**[00:10:29.190] Arcy James Gonzales**  
+Yes, Your Honor.
+
+**[00:10:30.490] Atty. Renato N. Bantug Jr.**  
+Kindly sit down.
+
+**[00:10:32.350] Sen. Francis "Chiz" G. Escudero**  
+What's your nickname, sir?
+
+**[00:10:34.490] Arcy James Gonzales**  
+RC na lang po.
+
+**[00:10:35.430] Sen. Francis "Chiz" G. Escudero**  
+RC.
+
+**[00:10:37.230] Sen. Francis "Chiz" G. Escudero**  
+Naunawaan mo ba, RC, yung inyong pinanumpaan kaugnay sa pagbibigay niyo ng testimonya ngayong umagang ito?
+
+**[00:10:42.650] Arcy James Gonzales**  
+Yes, Your Honor.
+
+**[00:10:45.370] Sen. Francis "Chiz" G. Escudero**  
+Your offer, Atty. James, would be the same as your offer yesterday without any additionals?
+
+**[00:10:50.090] Atty. James Bryan Ibrahim A. Alih**  
+We confirm that, Your Honor.
+
+**[00:10:51.730] Sen. Francis "Chiz" G. Escudero**  
+Atty. Rob?
+
+**[00:10:53.860] Atty. Roberto N. Batungbacal**  
+Your Honor, we also adopt the comments yesterday, Your Honor.
+
+**[00:10:58.620] Sen. Francis "Chiz" G. Escudero**  
+Since it's the same, anyway. Your witness, Atty. James?
+
+**[00:11:02.140] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Your Honor.
+
+**[00:11:03.100] Atty. Roberto N. Batungbacal**  
+Your Honor, apologies.
+
+**[00:11:04.140] Sen. Francis "Chiz" G. Escudero**  
+Yes, Atty. Rob?
+
+**[00:11:05.000] Atty. Roberto N. Batungbacal**  
+Just a quick request. May we request for expediency and...
+
+**[00:11:12.890] Atty. Roberto N. Batungbacal**  
+For better administration that the documents that the witness would be identifying would be with him throughout the testimony. Just in case we need to confront the witness, it would be easier.
+
+**[00:11:25.010] Sen. Francis "Chiz" G. Escudero**  
+Assisting counsels are so directed to approach the witness and continuing authority is so given. And the counsel for the panel for prosecutors is directed through his assisting counsel to kindly prepare the documents already for the perusal of the witness and with the other witnesses you will be presenting today.
+
+**[00:11:43.190] Atty. James Bryan Ibrahim A. Alih**  
+We confirm that, Your Honor, and for the record, I will be assisted today by Attorney Patrice Sitchon, Your Honor.
+
+**[00:11:49.030] Sen. Francis "Chiz" G. Escudero**  
+Yes, and continuing authority is given, as I said, to counsels for both parties. You may proceed, sir, with your direct examination.
+
+**[00:11:55.590] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Your Honors. Good morning again, Your Honors. Again, I would beg your forbearance as we will be working our way up starting with AUB this morning. Mr. Witness, good morning, sir RSC. Would you, for the record, Mr. RC, would you mind telling the Honorable Court your full name, designation, and the branch or bank that you are representing today?
+
+**[00:12:22.350] Arcy James Gonzales**  
+Good morning, everyone. I am Arcy James Gonzales, branch manager of AUB Davao Toril branch.
+
+**[00:12:28.550] Atty. James Bryan Ibrahim A. Alih**  
+And as branch manager of Davao Toril, just briefly, what are your primary functions and responsibilities?
+
+**[00:12:37.270] Arcy James Gonzales**  
+Yung primary functions ko po is oversight over
+
+**[00:12:42.570] Arcy James Gonzales**  
+Oversight ng transaction records.
+
+**[00:12:46.750] Arcy James Gonzales**  
+Parang part ako, owner of the business. I'm running the branch.
+
+**[00:12:53.860] Atty. James Bryan Ibrahim A. Alih**  
+oversight and running the...
+
+**[00:12:56.360] Arcy James Gonzales**  
+I mean oversight ng mga
+
+**[00:12:58.650] Arcy James Gonzales**  
+records and documents, transactions, parang ganoon.
+
+**[00:13:06.490] Arcy James Gonzales**  
+Since 2024 pa.
+
+**[00:13:08.030] Atty. James Bryan Ibrahim A. Alih**  
+Early
+
+**[00:13:08.790] Arcy James Gonzales**  
+2023 to 2024.
+
+**[00:13:11.070] Atty. James Bryan Ibrahim A. Alih**  
+Alright, that's two years. Based on your records, Mr. Witness, how many accounts does the Vice President and or his husband, Atty. Carpio, have in your branch?
+
+**[00:13:32.630] Arcy James Gonzales**  
+Apat po.
+
+**[00:13:35.470] Atty. James Bryan Ibrahim A. Alih**  
+Can you please provide?
+
+**[00:13:36.610] Arcy James Gonzales**  
+Dalawa po yung active.
+
+**[00:13:40.190] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[00:13:41.410] Atty. James Bryan Ibrahim A. Alih**  
+Dalawa na lang po yung active. Are you in the position to confirm na yung active na account ay may last digits 4387 at 0301?
+
+**[00:13:53.370] Arcy James Gonzales**  
+Pwede ko pong tignan yung notes.
+
+**[00:13:54.670] Atty. James Bryan Ibrahim A. Alih**  
+Please, Your Honor, with your permission.
+
+**[00:13:56.590] Sen. Francis "Chiz" G. Escudero**  
+You may do so, Mr. Arcee.
+
+**[00:13:59.290] Atty. James Bryan Ibrahim A. Alih**  
+Yeah, thank you.
+
+**[00:14:03.880] Arcy James Gonzales**  
+4387, and 301. That's correct po.
+
+**[00:14:06.140] Atty. James Bryan Ibrahim A. Alih**  
+Yes. And
+
+**[00:14:06.720] Atty. James Bryan Ibrahim A. Alih**  
+under whose name are these accounts?
+
+**[00:14:11.350] Arcy James Gonzales**  
+Some accounts po is under Mance Carpio. Yung isang account po is meron po siyang kasama.
+
+**[00:14:20.830] Atty. James Bryan Ibrahim A. Alih**  
+All
+
+**[00:14:21.310] Atty. James Bryan Ibrahim A. Alih**  
+right. So let's focus on these two accounts. I want to ask the year-end balance of these accounts, Mr. Whitmas, and allow me to go year by year on this matter. Sige po. Let's start with the account number ending 387. For 2022, based on your records, how much is the ending balance of this account?
+
+**[00:14:47.090] Arcy James Gonzales**  
+As of December po, it's 314,059.1.
+
+**[00:14:51.310] Atty. James Bryan Ibrahim A. Alih**  
+2022, Your Honor. We're starting with 2022.
+
+**[00:14:55.090] Arcy James Gonzales**  
+Okay.
+
+**[00:14:55.690] Arcy James Gonzales**  
+Again,
+
+**[00:14:56.030] Atty. James Bryan Ibrahim A. Alih**  
+Mr. Witas.
+
+**[00:14:56.590] Arcy James Gonzales**  
+Thank you. 314,059.17.
+
+**[00:14:59.790] Atty. James Bryan Ibrahim A. Alih**  
+Alright. How about for the account ending 301? What is the ending balance for the year 2022?
+
+**[00:15:10.220] Arcy James Gonzales**  
+It's 1682.094.21.
+
+**[00:15:14.040] Atty. James Bryan Ibrahim A. Alih**  
+Alright. What was that again? 1682. 1682. Okay. Now let's go to the year 2023.
+
+**[00:15:25.750] Atty. James Bryan Ibrahim A. Alih**  
+What is the ending balance of The account ending 387 of Atty. Carpio for 2023?
+
+**[00:15:35.960] Arcy James Gonzales**  
+It's 470869.30.
+
+**[00:15:40.920] Atty. James Bryan Ibrahim A. Alih**  
+Alright. How
+
+**[00:15:42.720] Atty. James Bryan Ibrahim A. Alih**  
+about for the account ending 301? What is the ending balance?
+
+**[00:15:51.790] Arcy James Gonzales**  
+It's 1774663.58.
+
+**[00:15:58.270] Atty. James Bryan Ibrahim A. Alih**  
+1774663.58. Thank you, Mr. Witness. Now for 2024, what is the ending balance of the account ending in 387 of Atty. Carpio?
+
+**[00:16:12.300] Arcy James Gonzales**  
+It's
+
+**[00:16:13.830] Arcy James Gonzales**  
+456,352.28.
+
+**[00:16:17.050] Atty. James Bryan Ibrahim A. Alih**  
+Alright. How about for the account ending in 301 for 2024? What is the ending balance?
+
+**[00:16:28.850] Arcy James Gonzales**  
+It's 867,291.90.
+
+**[00:16:32.630] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[00:16:33.430] Atty. James Bryan Ibrahim A. Alih**  
+I'm almost done, Mr. Witness.
+
+**[00:16:35.310] Arcy James Gonzales**  
+No problem.
+
+**[00:16:35.850] Atty. James Bryan Ibrahim A. Alih**  
+For 2025, what is the ending balance of the account number ending in 387?
+
+**[00:16:43.370] Arcy James Gonzales**  
+For 2025 po, zero na po.
+
+**[00:16:48.610] Atty. James Bryan Ibrahim A. Alih**  
+Alright, zero na for 387.
+
+**[00:16:50.950] Arcy James Gonzales**  
+Oo, kasi nag-close na po siya.
+
+**[00:16:53.450] Arcy James Gonzales**  
+Na-close na siya in 2025.
+
+**[00:16:54.850] Atty. James Bryan Ibrahim A. Alih**  
+That's fine. Okay. So sa yung isang account naman po na ending 301, ano na po yung ending balance niya for? 20-25.
+
+**[00:17:03.640] Arcy James Gonzales**  
+It's 871-998.77.
+
+**[00:17:07.280] Atty. James Bryan Ibrahim A. Alih**  
+Alright. So for all those years, again, 371? Tama po ba?
+
+**[00:17:13.660] Arcy James Gonzales**  
+871 po.
+
+**[00:17:14.380] Atty. James Bryan Ibrahim A. Alih**  
+871.
+
+**[00:17:16.620] Atty. James Bryan Ibrahim A. Alih**  
+998.77. Alright. I think that would be all my questions for you today, Mr. Witness. That would be all for this witness, Your Honor.
+
+**[00:17:26.740] Sen. Francis "Chiz" G. Escudero**  
+Cross, Attorney Rob?
+
+**[00:17:28.440] Atty. Roberto N. Batungbacal**  
+Yes, Your Honor.
+
+**[00:17:31.620] Atty. Roberto N. Batungbacal**  
+Mr. Gonzales, good morning.
+
+**[00:17:33.720] Arcy James Gonzales**  
+Good morning.
+
+**[00:17:35.890] Atty. Roberto N. Batungbacal**  
+Mr. Gonzales, you mentioned these two AUB bank accounts, correct? And these are under the names, both accounts are under the names of Manases R. Carpio, is that correct?
+
+**[00:17:51.580] Arcy James Gonzales**  
+Both accounts have the names of Manases Carpio, po.
+
+**[00:17:54.700] Atty. Roberto N. Batungbacal**  
+Yes. And you confirmed that Sara Z. Duterte is not a holder of any of these accounts that you mentioned, correct?
+
+**[00:18:04.050] Arcy James Gonzales**  
+That's correct, po.
+
+**[00:18:05.480] Atty. Roberto N. Batungbacal**  
+Thank you, Mr. Witness.
+
+**[00:18:11.580] Atty. Roberto N. Batungbacal**  
+Mr. Gonzales, you also talked about the balances of these accounts.
+
+**[00:18:20.800] Arcy James Gonzales**  
+Yes, sir.
+
+**[00:18:21.700] Atty. Roberto N. Batungbacal**  
+You confirmed that these numbers represent transactions done using these accounts, correct?
+
+**[00:18:30.580] Arcy James Gonzales**  
+That's correct, Pa.
+
+**[00:18:31.480] Atty. Roberto N. Batungbacal**  
+Yes. But you confirmed that your knowledge of these transactions and these amounts is only based on the Documents that you have on your records, correct?
+
+**[00:18:43.600] Arcy James Gonzales**  
+That's correct.
+
+**[00:18:44.500] Atty. Roberto N. Batungbacal**  
+You do not know why the transactions were made, correct?
+
+**[00:18:49.300] Arcy James Gonzales**  
+That's correct.
+
+**[00:18:50.040] Atty. Roberto N. Batungbacal**  
+You do not know the underlying contract or agreement for these transactions, correct?
+
+**[00:18:55.610] Arcy James Gonzales**  
+Yes po.
+
+**[00:18:56.390] Atty. Roberto N. Batungbacal**  
+In fact, these transactions were allowed by the bank, correct?
+
+**[00:19:01.580] Arcy James Gonzales**  
+Yes, po.
+
+**[00:19:02.340] Atty. Roberto N. Batungbacal**  
+Because at the time the transactions were made, the bank did not see anything wrong with them, correct?
+
+**[00:19:07.870] Arcy James Gonzales**  
+Yes po.
+
+**[00:19:10.290] Atty. Roberto N. Batungbacal**  
+No further questions, Your Honor.
+
+**[00:19:13.670] Sen. Francis "Chiz" G. Escudero**  
+Mr. RC, malaming salamat po. Senator Judge Sotto is recognized.
+
+**[00:19:21.230] Sen. Vicente C. Sotto III**  
+Just for my clarification, Mr. Presiding Officer, Mr. Senate President, sabi niya kanina yung isang account kay Tony Carpio and then the other account is Tony Carpio also and another person. Yan na sinabi, narinig ko eh. Sino yung other person?
+
+**[00:19:39.820] Sen. Vicente C. Sotto III**  
+You said earlier, and another.
+
+**[00:19:42.960] Sen. Francis "Chiz" G. Escudero**  
+I think he mentioned attorney.
+
+**[00:19:46.400] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor, if I may.
+
+**[00:19:48.560] Sen. Francis "Chiz" G. Escudero**  
+Kindly answer, Attorney James.
+
+**[00:19:51.100] Atty. James Bryan Ibrahim A. Alih**  
+I think, Your Honor, though, I'm just surmising, Your Honor, I think the witness is worried to give the answer because it might include the name of the children, Your Honor. Is that correct, Mr. Witness?
+
+**[00:20:04.890] Arcy James Gonzales**  
+Yung names na po yung hindi po sila sakop sa pila.
+
+**[00:20:08.310] Atty. James Bryan Ibrahim A. Alih**  
+Ah, okay. So, that was the answer. So, it's
+
+**[00:20:11.950] Atty. James Bryan Ibrahim A. Alih**  
+another name. and not vice president.
+
+**[00:20:15.240] Sen. Vicente C. Sotto III**  
+Pero may iba.
+
+**[00:20:17.350] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Pa.
+
+**[00:20:17.930] Sen. Vicente C. Sotto III**  
+And you're not authorized to or you're not supposed to tell us. Sino
+
+**[00:20:24.090] Sen. Vicente C. Sotto III**  
+yun?
+
+**[00:20:24.390] Arcy James Gonzales**  
+Yes, Pa.
+
+**[00:20:25.130] Sen. Vicente C. Sotto III**  
+Thank you. I just wanted to clarify. Parang may iba eh.
+
+**[00:20:31.080] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Mr. Arcee, maraming salamat po sa inyong panahon sa pagsagot sa mga katanungan at sa inyong pasensya at pagpahintulot na dumalo sa pagdinig ng hukumang ito. Your excuse, sir.
+
+**[00:20:41.320] Arcy James Gonzales**  
+Thank you.
+
+**[00:20:41.960] Sen. Francis "Chiz" G. Escudero**  
+Thank you very much, sir. Kindly call your next witness, the Clerk of Court through the Osayas, directed to bring Edeli D. Umayam to the witness stand.
+
+**[00:20:57.320] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor, may I just manifest your honor? Given the ruling of the presiding officer yesterday, the prosecution would be dispensing with the two witnesses because I understand, Your Honor, that some of the accounts contained in these branches are already closed.
+
+**[00:21:14.640] Sen. Francis "Chiz" G. Escudero**  
+Which one would that be?
+
+**[00:21:16.220] Atty. James Bryan Ibrahim A. Alih**  
+I think for both, Your Honor, the accounts under Davao Tagum Branch and Ortigas Green Hills Branch.
+
+**[00:21:23.220] Sen. Francis "Chiz" G. Escudero**  
+Ah, so these two witnesses can be dispensed with?
+
+**[00:21:25.160] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. Given that we will not be asking them questions, they were only to be presented for authentication, but given your ruling, we are happy to dispense them and excuse
+
+**[00:21:35.060] Atty. James Bryan Ibrahim A. Alih**  
+them.
+
+**[00:21:35.360] Sen. Francis "Chiz" G. Escudero**  
+So,
+
+**[00:21:35.380] Sen. Francis "Chiz" G. Escudero**  
+Edeli D. Umayam and Jerilee Mae Sanidad are dispensed with?
+
+**[00:21:39.200] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor.
+
+**[00:21:40.380] Sen. Francis "Chiz" G. Escudero**  
+Atty. Robby, any comment?
+
+**[00:21:42.600] Atty. Roberto N. Batungbacal**  
+Your Honor, in that case, I am turning over to Atty. Lindon Miguel Bacquel.
+
+**[00:21:50.160] Sen. Francis "Chiz" G. Escudero**  
+Atty. Lindon, again. We see each other again, Atty. Lindon.
+
+**[00:21:57.510] Atty. Lindon Miguel C. Bacquel**  
+Good morning, Your Honor.
+
+**[00:21:58.770] Sen. Francis "Chiz" G. Escudero**  
+Good morning. Ma'am Edeli, yung po ba nickname ninyo?
+
+**[00:22:03.070] Edeli Umayam**  
+Yes, Your Honor.
+
+**[00:22:05.310] Sen. Francis "Chiz" G. Escudero**  
+You are excused. Hindi na po magpapatuloy niyong pagtestigo. Paumanhin ko na abala kayo. Nagpunta pa kayo dito kahapon at ngayong araw.
+
+**[00:22:14.390] Sen. Francis "Chiz" G. Escudero**  
+Pero
+
+**[00:22:14.830] Sen. Francis "Chiz" G. Escudero**  
+tingin ko mas maganda na yun kesa naupo kayo dyan. Hindi po ba?
+
+**[00:22:18.940] Edeli Umayam**  
+Yes, Your Honor.
+
+**[00:22:19.960] Sen. Francis "Chiz" G. Escudero**  
+Sorry, Your Excellency, ma'am. Salamat po sa inyong panahon at sa pasensya na po sa abala. The Clerk of Court is also directed to kindly inform Ms. Jerilee Mae Sanidad that she will no longer be testifying and that she is excused from these proceedings.
+
+**[00:22:38.500] Sen. Francis "Chiz" G. Escudero**  
+Your next witness, Atty. James, is Irene Ishida.
+
+**[00:22:41.660] Atty. James Bryan Ibrahim A. Alih**  
+We confirm that, Your Honor, representing the Philippine Savings Bank.
+
+**[00:22:45.910] Sen. Francis "Chiz" G. Escudero**  
+The Clerk of Court is directed to kindly bring and situate Ms. Irene Joy Ishida to the witness stand.
+
+**[00:23:26.050] Sen. Francis "Chiz" G. Escudero**  
+The Clerk of Court is directed to kindly administer the oath to Ms. Ishida.
+
+**[00:23:53.900] Sen. Francis "Chiz" G. Escudero**  
+Ano po ang palayaw ninyo? Sit down, Ma'am.
+
+**[00:23:57.630] Irene Joy Cadiente Ishida**  
+Irene po, Your Honor.
+
+**[00:23:58.730] Sen. Francis "Chiz" G. Escudero**  
+Irene. Irene, Ma'am Irene, naunawaan niyo po ba yung inyong pinanumpaan kaugnay sa pagbibigay niyo ng inyong testimonya sa umagang ito sa harapan ng hukuman ito?
+
+**[00:24:08.170] Irene Joy Cadiente Ishida**  
+Yes, Your Honor.
+
+**[00:24:09.990] Sen. Francis "Chiz" G. Escudero**  
+Your witness, Atty. James, same offer or any additional to your offer?
+
+**[00:24:15.590] Atty. James Bryan Ibrahim A. Alih**  
+Same offer, Your Honor. We confirm.
+
+**[00:24:18.430] Sen. Francis "Chiz" G. Escudero**  
+Atty. Lindon?
+
+**[00:24:19.370] Atty. Lindon Miguel C. Bacquel**  
+Same comments and objections, Your Honor.
+
+**[00:24:21.110] Atty. James Bryan Ibrahim A. Alih**  
+Permission to proceed, Your Honor. Your
+
+**[00:24:22.330] Sen. Francis "Chiz" G. Escudero**  
+witness, Atty. James?
+
+**[00:24:23.730] Atty. James Bryan Ibrahim A. Alih**  
+Thank you po. Madam Witness, good morning, Ma'am Irene. For the record, could you kindly provide us your full name, your designation, and the branch or bank you're representing today?
+
+**[00:24:36.970] Irene Joy Cadiente Ishida**  
+My name is Irene Joy C. Ishida. I am the department head of the branch operations of Philippine Savings Bank.
+
+**[00:24:43.630] Atty. James Bryan Ibrahim A. Alih**  
+And as the department head of the branch operations of PSB, briefly, what are your primary functions and responsibilities?
+
+**[00:24:54.340] Irene Joy Cadiente Ishida**  
+My department supervises the operations of the branches of PS Bank. And as part of my function as the department head, I ensure that branches are able to strictly adhere to the policies, the internal controls, the regulatory requirements, and the standards set by PS Bank.
+
+**[00:25:16.280] Atty. James Bryan Ibrahim A. Alih**  
+Alright, that's wonderful.
+
+**[00:25:18.880] Atty. James Bryan Ibrahim A. Alih**  
+Could you kindly confirm to us, Madam Witness, how many bank accounts does the Vice President have or his spouse, Atty. Carpio, with PS Bank, based on your records?
+
+**[00:25:30.880] Irene Joy Cadiente Ishida**  
+There are ten accounts, Your Honor.
+
+**[00:25:32.620] Atty. James Bryan Ibrahim A. Alih**  
+Ten accounts. How many are active?
+
+**[00:25:35.570] Irene Joy Cadiente Ishida**  
+There are four active accounts.
+
+**[00:25:37.770] Atty. James Bryan Ibrahim A. Alih**  
+Are you in the position to confirm that these accounts include PSB, peso, time, deposit? ending in the last digits are 3853 under PS Bank Wilson.
+
+**[00:25:56.340] Irene Joy Cadiente Ishida**  
+May I refer to my notes, Your Honor?
+
+**[00:25:58.440] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor, the witness is asking for permission to refer to -
+
+**[00:26:01.200] Sen. Francis "Chiz" G. Escudero**  
+Yes,
+
+**[00:26:01.240] Sen. Francis "Chiz" G. Escudero**  
+ma'am, you may. Continuing authority is granted to the witness to refer to her notes. You may do so, ma'am. All
+
+**[00:26:07.760] Atty. James Bryan Ibrahim A. Alih**  
+right. Madam witness, again, ending in 3853 peso time deposit under PS Bank Wilson.
+
+**[00:26:18.020] Irene Joy Cadiente Ishida**  
+Yes, Your Honor.
+
+**[00:26:19.140] Atty. James Bryan Ibrahim A. Alih**  
+Under whose name is this account?
+
+**[00:26:21.480] Irene Joy Cadiente Ishida**  
+The account number ending in 3853 is under the name of Sara Zimmerman Duterte.
+
+**[00:26:27.660] Atty. James Bryan Ibrahim A. Alih**  
+Alright. How about, are you in the position to confirm that a bank account, peso, passbook savings ending in 2107 under PS Bank Davao, Madraso, is in your records?
+
+**[00:26:45.290] Irene Joy Cadiente Ishida**  
+Yes, Your Honor.
+
+**[00:26:46.640] Atty. James Bryan Ibrahim A. Alih**  
+And under whose name is this bank account?
+
+**[00:26:49.300] Irene Joy Cadiente Ishida**  
+The account number ending in 2107 is under the name of Manases Reyes Carpio.
+
+**[00:26:55.620] Atty. James Bryan Ibrahim A. Alih**  
+Alright, thank you Madam Witness. Madam Witness, our process today is that we're asking the ending balances of these accounts on the basis of years. So it's a year-to-year. So allow me to ask this question. For 2022, and I'm zeroing in on the account ending in 3853, For 2022, what is the ending balance of this account?
+
+**[00:27:22.880] Irene Joy Cadiente Ishida**  
+For account ending in 3853, for the year ending 2022, the ending balance is 2,029,237.88.
+
+**[00:27:35.100] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[00:27:36.140] Atty. James Bryan Ibrahim A. Alih**  
+2,029,237.88. How about for the account of Atty. Manasa-Scarpio ending in 2107 for the year 2022, what is the ending balance?
+
+**[00:27:51.450] Irene Joy Cadiente Ishida**  
+For the account ending in 2107, the ending balance for the year 2022 is 473,845.96.
+
+**[00:28:03.530] Atty. James Bryan Ibrahim A. Alih**  
+473,845.96. Now let's proceed to the next year, 2023. For the account under the name of the Vice President, Sara Z. Duterte, what is the ending balance for 2023?
+
+**[00:28:19.090] Irene Joy Cadiente Ishida**  
+For the account ending in 3853, for the year ending 2023, the balance is 2,080,023.45.
+
+**[00:28:33.270] Atty. James Bryan Ibrahim A. Alih**  
+Alright. How about for the account ending in 2107? What is the ending balance for 2023?
+
+**[00:28:41.030] Irene Joy Cadiente Ishida**  
+For the account ending in 2107, for the year ending 2023, the balance is 503,550.96.
+
+**[00:28:52.270] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[00:28:53.070] Atty. James Bryan Ibrahim A. Alih**  
+For 2024, going back to the account under the name of Sara Z. Duterte, for 2024, what is the ending balance? For 2024?
+
+**[00:29:04.590] Irene Joy Cadiente Ishida**  
+For account ending in 3853, for the year ending 2024, the balance is 2,133,658.78.
+
+**[00:29:17.750] Atty. James Bryan Ibrahim A. Alih**  
+Sige po. Para naman po kay Atty. Carpio, ending in 2107, what is the ending balance for 2024?
+
+**[00:29:28.400] Irene Joy Cadiente Ishida**  
+For account ending in 2107, the ending balance for the year 2024 is 480,076.09.
+
+**[00:29:37.860] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[00:29:39.000] Atty. James Bryan Ibrahim A. Alih**  
+I'm on to my last questions, Madam Witness. For 2025, what is the ending balance of the account ending in, with the last digits, 3853 for 2025?
+
+**[00:29:54.670] Irene Joy Cadiente Ishida**  
+For the account ending in 3853 for the year 2025, the ending balance 2,188,222.18 And
+
+**[00:30:05.620] Atty. James Bryan Ibrahim A. Alih**  
+lastly, for the account with last digits 2107 under the name of Atty. Carpio, what is the ending balance in 2025?
+
+**[00:30:14.440] Irene Joy Cadiente Ishida**  
+For the account ending in 2107 for the year 2025, the ending balance is 259,792.87
+
+**[00:30:24.000] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[00:30:25.720] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, may we just object to the showing of any total because it's not contained in the witness's testimony, Your Honor.
+
+**[00:30:32.920] Atty. James Bryan Ibrahim A. Alih**  
+May I comment, Your Honor?
+
+**[00:30:34.600] Sen. Francis "Chiz" G. Escudero**  
+I was
+
+**[00:30:35.040] Sen. Francis "Chiz" G. Escudero**  
+about to point that out to an inquiry. Yes, Attorney James,
+
+**[00:30:37.760] Atty. James Bryan Ibrahim A. Alih**  
+before the Chair makes a
+
+**[00:30:38.640] Sen. Francis "Chiz" G. Escudero**  
+ruling.
+
+**[00:30:39.020] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. These are just mathematical descriptions of the numbers, Your Honor. It is well within the courts. prerogative as a matter of judicial notice because mathematics is part of science, your honor. To take
+
+**[00:30:53.100] Sen. Francis "Chiz" G. Escudero**  
+note on this, your
+
+**[00:30:53.960] Atty. James Bryan Ibrahim A. Alih**  
+honor.
+
+**[00:30:54.340] Sen. Francis "Chiz" G. Escudero**  
+Alami, alami. This is okay for the court.
+
+**[00:30:58.560] Atty. James Bryan Ibrahim A. Alih**  
+Yes, thank you.
+
+**[00:30:58.920] Sen. Francis "Chiz" G. Escudero**  
+But it's the next slide that's not. When you total, I think with the previous witness, you had a total showing the per year.
+
+**[00:31:09.020] Atty. James Bryan Ibrahim A. Alih**  
+Yes, your honor.
+
+**[00:31:09.930] Sen. Francis "Chiz" G. Escudero**  
+That is what the court will not allow. And if at all, Attorney Lindon, that's what the court will not allow because it would be unfair to total the ending balances for 22, for 23, 24, 25 because... These are for different years. So kindly omit that last slide which I saw with the previous witness. But this one we will allow because it's simply a mathematical total which we would most likely be doing manually anyway. It saves us the time. But kindly instruct the tech or your person in the tech to avoid showing the totals of the years. That is not an accurate depiction anymore of
+
+**[00:31:48.330] Atty. James Bryan Ibrahim A. Alih**  
+what the witness testified.
+
+**[00:31:54.070] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Your
+
+**[00:31:54.750] Atty. James Bryan Ibrahim A. Alih**  
+Honor.
+
+**[00:31:55.800] Atty. James Bryan Ibrahim A. Alih**  
+May I ask the tech booth to remove Your Honor in order to comply with the... May
+
+**[00:31:59.680] Sen. Francis "Chiz" G. Escudero**  
+isa ka pang slide na tinototal niyo eh. With the previous witness, there was that one eh.
+
+**[00:32:07.050] Atty. James Bryan Ibrahim A. Alih**  
+Okay, that's okay, Your Honor. So this is okay. This
+
+**[00:32:09.470] Sen. Francis "Chiz" G. Escudero**  
+is fine. Because it totals the ending balances of the spouses in 2025.
+
+**[00:32:15.690] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[00:32:16.350] Sen. Francis "Chiz" G. Escudero**  
+Yes, that's okay.
+
+**[00:32:17.310] Atty. James Bryan Ibrahim A. Alih**  
+Alright, thank you, Your Honor.
+
+**[00:32:20.410] Atty. James Bryan Ibrahim A. Alih**  
+That would be all from me, your honor, for this witness. Thank you, Madam Witness.
+
+**[00:32:24.690] Sen. Francis "Chiz" G. Escudero**  
+Cross,
+
+**[00:32:25.790] Atty. Lindon Miguel C. Bacquel**  
+you may proceed when you're ready.
+
+**[00:32:27.090] Atty. Lindon Miguel C. Bacquel**  
+Good morning, ma'am.
+
+**[00:32:29.210] Atty. Lindon Miguel C. Bacquel**  
+Ma'am, you provided the ending balance for these two accounts, correct? You provided the two year ending?
+
+**[00:32:36.400] Irene Joy Cadiente Ishida**  
+Yes, sir.
+
+**[00:32:37.990] Atty. Lindon Miguel C. Bacquel**  
+You can determine the balance of the accounts in your bank for a particular period. Is that correct statement, ma'am?
+
+**[00:32:46.570] Irene Joy Cadiente Ishida**  
+Yes, sir.
+
+**[00:32:47.950] Atty. Lindon Miguel C. Bacquel**  
+But your records would not be able to determine the purpose of the amounts inside the account, correct?
+
+**[00:32:57.420] Irene Joy Cadiente Ishida**  
+Yes,
+
+**[00:32:57.940] Irene Joy Cadiente Ishida**  
+sir.
+
+**[00:32:59.380] Atty. Lindon Miguel C. Bacquel**  
+The
+
+**[00:32:59.900] Atty. Lindon Miguel C. Bacquel**  
+bank records would not determine whether the funds were held for another person or entity.
+
+**[00:33:06.840] Atty. James Bryan Ibrahim A. Alih**  
+Objection, Your Honor. The witness is incompetent to answer that.
+
+**[00:33:09.700] Sen. Francis "Chiz" G. Escudero**  
+She may
+
+**[00:33:10.040] Sen. Francis "Chiz" G. Escudero**  
+answer that she's not aware. Witness may answer. Irene, if you know.
+
+**[00:33:14.810] Irene Joy Cadiente Ishida**  
+I'm sorry, sir. May you repeat the question?
+
+**[00:33:16.550] Atty. Lindon Miguel C. Bacquel**  
+The bank
+
+**[00:33:16.770] Atty. Lindon Miguel C. Bacquel**  
+records would not show whether funds in these accounts were held for another person or entity, correct?
+
+**[00:33:23.410] Irene Joy Cadiente Ishida**  
+Yes, sir.
+
+**[00:33:24.880] Atty. Lindon Miguel C. Bacquel**  
+And for account ending 2107, bank records would also not show that the vice president is aware of these accounts, correct?
+
+**[00:33:36.120] Irene Joy Cadiente Ishida**  
+Yes, sir.
+
+**[00:33:36.840] Atty. Lindon Miguel C. Bacquel**  
+No further questions, Your Honor.
+
+**[00:33:38.580] Sen. Francis "Chiz" G. Escudero**  
+Ma 'am Irene, maraming salamat po sa panahon. Pasensya at abala na nagbigay namin at naidulot sa inyo sa pagtestigo nyo sa umagang ito at pagdalo kahapon na hindi naman po kayo nakapagtestigo. Thank you for your time, ma'am. We appreciate it. Your excuse, ma'am.
+
+**[00:33:58.280] Sen. Francis "Chiz" G. Escudero**  
+Your next witness is Atty. Aguilar?
+
+**[00:34:01.620] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. We confirm the witness is Atty. Ninia Ferren Aguilar of Metropolitan Metropolitan Bank and Trust Company or Metro Bank.
+
+**[00:34:42.250] Sen. Francis "Chiz" G. Escudero**  
+Yes, Attorney Justin is
+
+**[00:34:43.950] Sen. Francis "Chiz" G. Escudero**  
+recognized.
+
+**[00:34:47.890] Atty. Justin Nicol B. Gular**  
+Good morning, Your Honor. Same appearance with the court's permission.
+
+**[00:34:54.160] Atty. James Bryan Ibrahim A. Alih**  
+Same
+
+**[00:34:54.640] Atty. James Bryan Ibrahim A. Alih**  
+appearance also, Your Honor.
+
+**[00:34:56.420] Sen. Francis "Chiz" G. Escudero**  
+Kindly administer those. Attorney Bantug.
+
+**[00:35:00.380] Atty. Renato N. Bantug Jr.**  
+Ma'am, kindly raise your right hand. You, Niña Feren Aguilar, do swear that the evidence you shall give in the case now pending between the Philippines and Vice President Sara Zimmerman Duterte shall be the truth, the whole truth, and nothing but the truth. So help me God.
+
+**[00:35:15.670] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, I do.
+
+**[00:35:17.710] Atty. Renato N. Bantug Jr.**  
+Kindly sit down.
+
+**[00:35:19.090] Sen. Francis "Chiz" G. Escudero**  
+Atty. Aguilar, how shall we refer to you? Niña?
+
+**[00:35:24.030] Atty. Niña Feren Alquiroz-Aguilar**  
+Niña po.
+
+**[00:35:25.110] Sen. Francis "Chiz" G. Escudero**  
+Niña. Atty. Niña. Nakunawaan po niya inyong pinanumpaan kaugnay sa pagbibigay niyo ng inyong testimonya sa umagang ito sa harap ng hukuman ito.
+
+**[00:35:32.990] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, Your Honor.
+
+**[00:35:34.090] Sen. Francis "Chiz" G. Escudero**  
+Salamat po. Your witness, Atty. James, but is the offer the same?
+
+**[00:35:39.470] Atty. James Bryan Ibrahim A. Alih**  
+Same offer, Your Honor, for the record.
+
+**[00:35:41.190] Sen. Francis "Chiz" G. Escudero**  
+Atty. Justin?
+
+**[00:35:42.570] Atty. Justin Nicol B. Gular**  
+Same objections, Your Honor, and same comments.
+
+**[00:35:45.370] Sen. Francis "Chiz" G. Escudero**  
+Duly noted, you may proceed with your direct, Atty. James.
+
+**[00:35:49.070] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Your Honor. Madam Witness, Atty. Ninia, good morning po.
+
+**[00:35:53.570] Atty. Niña Feren Alquiroz-Aguilar**  
+Good morning po.
+
+**[00:35:54.550] Atty. James Bryan Ibrahim A. Alih**  
+Ma'am, for the record, what is your full name and your designation in the bank that you're representing?
+
+**[00:36:00.950] Atty. Niña Feren Alquiroz-Aguilar**  
+I am Niña Feren Alquiroz Aguilar. I am the Head of Anti-Money Laundering Division of Metro Bank.
+
+**[00:36:09.000] Atty. James Bryan Ibrahim A. Alih**  
+Sorry, Head of Anti-Money Laundering Division?
+
+**[00:36:11.920] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, sir.
+
+**[00:36:14.400] Atty. James Bryan Ibrahim A. Alih**  
+As head of the Anti-Money Laundering Division, what are your primary functions and responsibilities?
+
+**[00:36:21.340] Atty. Niña Feren Alquiroz-Aguilar**  
+I oversee the bank's compliance to the Anti-Money Laundering Act including its implementing rules and regulations.
+
+**[00:36:28.080] Atty. James Bryan Ibrahim A. Alih**  
+Madam Witness, you caught my attention because you are the head of the Anti-Money Laundering Division. So far, those that are presented here are either the branch manager or the operations. May I know why you were sent as the representative of Metropolitan Metro Bank?
+
+**[00:36:48.460] Atty. Niña Feren Alquiroz-Aguilar**  
+As the head of the Anti-Money Laundering Division, Sir, I have access to all the records for the accounts subject of the subpoena.
+
+**[00:36:56.520] Atty. James Bryan Ibrahim A. Alih**  
+Okay. And how long have you been the head of the Anti-Money Laundering Division?
+
+**[00:37:03.020] Atty. Niña Feren Alquiroz-Aguilar**  
+Over a year already, Sir.
+
+**[00:37:05.180] Atty. James Bryan Ibrahim A. Alih**  
+Alright. So what you mentioned a while ago is that the accounts subject of the subpoena is under your division, the anti-money laundering division. Is that right?
+
+**[00:37:14.680] Atty. Niña Feren Alquiroz-Aguilar**  
+Our division has access to the records
+
+**[00:37:16.760] Atty. Niña Feren Alquiroz-Aguilar**  
+of
+
+**[00:37:17.060] Atty. Niña Feren Alquiroz-Aguilar**  
+the account.
+
+**[00:37:17.780] Atty. James Bryan Ibrahim A. Alih**  
+Yeah, that's fair. Madam Witness, I'll be asking some questions on the bank accounts of the vice president and or his husband and including perhaps their kids. But in order to not name the kids, you can just say Mr. A, Mr. B. I guess we can take notice that these are Bank accounts in the name of the kids because we also do not want to put their names out in the public. Is that fine?
+
+**[00:37:48.280] Atty. Niña Feren Alquiroz-Aguilar**  
+It's fine,
+
+**[00:37:49.300] Atty. Niña Feren Alquiroz-Aguilar**  
+sir.
+
+**[00:37:49.740] Atty. James Bryan Ibrahim A. Alih**  
+Thank you po. Sige po. Based po sa records niyo sa Metro Bank, ilan po yung bank accounts ng ating Vice President ng kanyang asawa at ng kanyang mga anak kung meron man?
+
+**[00:38:02.900] Atty. Niña Feren Alquiroz-Aguilar**  
+Can I confirm with my records?
+
+**[00:38:04.760] Sen. Francis "Chiz" G. Escudero**  
+You may refer to your notes to clarify, Atty. Nina. Sorry, I'm not familiar. Only children below 18, if any, because that's what's included only in the SALN. Would that be correct, Atty. James?
+
+**[00:38:18.720] Atty. James Bryan Ibrahim A. Alih**  
+I confirm that, Your Honor.
+
+**[00:38:19.760] Sen. Francis "Chiz" G. Escudero**  
+Atty. James, Atty. Justin, that would be more accurate, right?
+
+**[00:38:23.840] Atty. Justin Nicol B. Gular**  
+That would be correct, Your Honor.
+
+**[00:38:24.980] Sen. Francis "Chiz" G. Escudero**  
+Any account of a child above 18 should be excluded already?
+
+**[00:38:31.200] Atty. Justin Nicol B. Gular**  
+Yes, Your Honor. I think that is under the SALN rules and the law.
+
+**[00:38:34.000] Sen. Francis "Chiz" G. Escudero**  
+Exactly. You may proceed, Atty. Niña.
+
+**[00:38:37.080] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[00:38:37.920] Atty. Niña Feren Alquiroz-Aguilar**  
+Thank you, Your Honor. For the current and savings account, combine Vice President Sara and Man Scorpio's account. There are six bank accounts under those individuals, including the accounts open for their children.
+
+**[00:38:57.650] Atty. James Bryan Ibrahim A. Alih**  
+Alright, six. How many are active, if you know?
+
+**[00:39:03.840] Atty. Niña Feren Alquiroz-Aguilar**  
+Three, sir.
+
+**[00:39:05.360] Atty. James Bryan Ibrahim A. Alih**  
+Three. And can you give the last digits of those three active bank accounts?
+
+**[00:39:11.230] Atty. Niña Feren Alquiroz-Aguilar**  
+The first one is ending 3876.
+
+**[00:39:16.940] Atty. Niña Feren Alquiroz-Aguilar**  
+The
+
+**[00:39:17.700] Atty. Niña Feren Alquiroz-Aguilar**  
+second one is ending in 2445. And the last one is ending in 5263.
+
+**[00:39:29.520] Atty. James Bryan Ibrahim A. Alih**  
+5263. Okay, so allow me to ask questions on those three active accounts. Let's start with the last digit. or the account ending 3876. But for the record, under whose name is this account?
+
+**[00:39:45.040] Atty. Niña Feren Alquiroz-Aguilar**  
+This is a joint account of Attorney Manases Reyes-Carpio or Vice President Sara Zimmerman-Duterte.
+
+**[00:39:56.560] Atty. James Bryan Ibrahim A. Alih**  
+Alright. How about for the bank account ending with digits 5293? Under whose account or under whose name is this if you are at liberty to say?
+
+**[00:40:12.840] Atty. Niña Feren Alquiroz-Aguilar**  
+It's, just to clarify sir, it's 5263.
+
+**[00:40:17.440] Atty. James Bryan Ibrahim A. Alih**  
+5263.
+
+**[00:40:18.280] Atty. Niña Feren Alquiroz-Aguilar**  
+This account is under the name of one of the children.
+
+**[00:40:22.080] Atty. James Bryan Ibrahim A. Alih**  
+Alright, that's fine. How about the account with last digits 2445? Under whose name is this?
+
+**[00:40:31.540] Atty. Niña Feren Alquiroz-Aguilar**  
+This is under the Vice President Sara Zimmerman Coterta's name.
+
+**[00:40:36.520] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Sige. Let's now go to the ending balance, Madam Witness. For account number 3876, under the name of Atty. Carpio and her wife, Vice President Sara Zimmerman Duterte, what is the ending balance for the year 2022?
+
+**[00:40:57.320] Atty. Niña Feren Alquiroz-Aguilar**  
+Based on our records, sir, the ending balance as of 2022 is 2 million.
+
+**[00:41:06.330] Atty. Niña Feren Alquiroz-Aguilar**  
+278,832 pesos and 33 centavos.
+
+**[00:41:10.590] Atty. James Bryan Ibrahim A. Alih**  
+Okay. How about for the account with last digits 2445 under the name of the Vice President Sara Zimmerman Duterte? What is the ending balance?
+
+**[00:41:24.600] Atty. Niña Feren Alquiroz-Aguilar**  
+As of 2022, it's 85,556 pesos and 33 centavos.
+
+**[00:41:33.000] Atty. James Bryan Ibrahim A. Alih**  
+What year is that? 2020?
+
+**[00:41:34.200] Atty. Niña Feren Alquiroz-Aguilar**  
+2022
+
+**[00:41:34.900] Atty. Niña Feren Alquiroz-Aguilar**  
+sir.
+
+**[00:41:35.680] Atty. James Bryan Ibrahim A. Alih**  
+How about for the last, the account with last digits 5263 under the name of one of their children? What is the ending balance for 2022?
+
+**[00:41:54.700] Atty. Niña Feren Alquiroz-Aguilar**  
+For 2022, under the account ending in 5263, for 2022 the ending balance is 1,184,168 pesos and 2 centavos.
+
+**[00:42:09.240] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Let's go to 2023, Madam Witness. Again, start with the account with last digits 3876 under the name of the Vice President, Sara Duterte, and her husband, Atty. Carpio. What is the ending balance for 2023?
+
+**[00:42:27.940] Atty. Niña Feren Alquiroz-Aguilar**  
+For 3876, sir.
+
+**[00:42:30.360] Atty. James Bryan Ibrahim A. Alih**  
+Sorry, can you say it in thousands or millions?
+
+**[00:42:34.240] Atty. Niña Feren Alquiroz-Aguilar**  
+This is for the account 3876?
+
+**[00:42:37.220] Atty. James Bryan Ibrahim A. Alih**  
+3876, yes.
+
+**[00:42:38.360] Atty. Niña Feren Alquiroz-Aguilar**  
+For 2023, it's 2,436,156 pesos and 69 centavos.
+
+**[00:42:47.480] Atty. James Bryan Ibrahim A. Alih**  
+Okay. For the last digits 244, bank account with last digits 2445? Under the name of Sara Zimmerman Duterte, what is the ending balance for 2023?
+
+**[00:43:00.690] Atty. Niña Feren Alquiroz-Aguilar**  
+For 2023, sir, it's 85,556 pesos and 33 centavos.
+
+**[00:43:08.050] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Sige. How about for the last, for the account with last digits 5263? Under the name of their, one of their children, minor children, what is the... Ending balance for the year 2023? For
+
+**[00:43:26.210] Atty. Niña Feren Alquiroz-Aguilar**  
+2023, it's 1,330,800 pesos and 53 centavos.
+
+**[00:43:34.410] Atty. James Bryan Ibrahim A. Alih**  
+Sige. Let's go back again to account with last digits 3876 for 2024. Ano po yung ending balance nitong 3876 na bank account?
+
+**[00:43:49.820] Atty. Niña Feren Alquiroz-Aguilar**  
+For 2024, the ending balance is 330,896 pesos and 40 centavos.
+
+**[00:43:58.380] Atty. James Bryan Ibrahim A. Alih**  
+Okay. For 2024 again, but this time with the bank account ending in 2445, what is the ending balance?
+
+**[00:44:10.080] Atty. Niña Feren Alquiroz-Aguilar**  
+For 2024, it's 85,581 pesos and 89 centavos.
+
+**[00:44:18.700] Atty. James Bryan Ibrahim A. Alih**  
+How about for last digit, for bank account with last digit 5263, what is the ending balance for 2024?
+
+**[00:44:28.460] Atty. Niña Feren Alquiroz-Aguilar**  
+It's 1,458,423 pesos and 9 centavos.
+
+**[00:44:36.520] Atty. James Bryan Ibrahim A. Alih**  
+Lastly for the years 2025, if you can just go quickly Madam Witness, para sa 3876 na bank account, ano yung Ending balance?
+
+**[00:44:49.260] Atty. Niña Feren Alquiroz-Aguilar**  
+It's 55,273 pesos and 18 centavos.
+
+**[00:44:54.800] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[00:44:57.350] Atty. James Bryan Ibrahim A. Alih**  
+For 2025 with bank ending in 2445?
+
+**[00:45:06.160] Atty. Niña Feren Alquiroz-Aguilar**  
+The balance is 85,625 pesos and 29 centavos. And
+
+**[00:45:13.060] Atty. James Bryan Ibrahim A. Alih**  
+lastly for the bank account with last digits?
+
+**[00:45:19.290] Atty. James Bryan Ibrahim A. Alih**  
+5263. What is the ending balance?
+
+**[00:45:22.130] Atty. Niña Feren Alquiroz-Aguilar**  
+It's 1,459,162.56 pesos.
+
+**[00:45:31.130] Atty. James Bryan Ibrahim A. Alih**  
+1,459
+
+**[00:45:33.510] Atty. James Bryan Ibrahim A. Alih**  
+,162
+
+**[00:45:36.670] Atty. James Bryan Ibrahim A. Alih**  
+.56 pesos. Could you read the total of those, Madam Witness? If that is accurate, would you know?
+
+**[00:45:46.880] Atty. Niña Feren Alquiroz-Aguilar**  
+I don't have the total balances in my notes.
+
+**[00:45:49.900] Atty. James Bryan Ibrahim A. Alih**  
+That's
+
+**[00:45:50.160] Atty. James Bryan Ibrahim A. Alih**  
+okay. We'll just proceed.
+
+**[00:45:56.170] Atty. James Bryan Ibrahim A. Alih**  
+I think that would be all for this witness, Your Honor.
+
+**[00:45:59.910] Sen. Francis "Chiz" G. Escudero**  
+Your witness, Attorney Justin?
+
+**[00:46:01.570] Atty. Justin Nicol B. Gular**  
+Nothing to cross-examine, Your Honor, except we would like to object to the flashing of the separate totals on the screen pertaining to all banks, Your Honor.
+
+**[00:46:09.250] Sen. Francis "Chiz" G. Escudero**  
+Kindly avoid that part.
+
+**[00:46:11.110] Atty. Justin Nicol B. Gular**  
+Thank you, Your Honor.
+
+**[00:46:11.810] Sen. Francis "Chiz" G. Escudero**  
+That
+
+**[00:46:12.130] Sen. Francis "Chiz" G. Escudero**  
+is the proper subject matter of your next witness, I believe.
+
+**[00:46:17.070] Atty. Justin Nicol B. Gular**  
+May
+
+**[00:46:17.470] Atty. Justin Nicol B. Gular**  
+we ask that it be taken down, Your Honor, since several bank officials will be presented, they don't have personal knowledge on all those bank accounts. That would be improper.
+
+**[00:46:25.330] Sen. Francis "Chiz" G. Escudero**  
+But you can include
+
+**[00:46:25.950] Sen. Francis "Chiz" G. Escudero**  
+the total per year per account, Attorney James.
+
+**[00:46:29.010] Atty. James Bryan Ibrahim A. Alih**  
+Yes. Thank you, Your Honor. But, Your Honor, can I see again the slide there? I'm not sure which one was it.
+
+**[00:46:33.150] Atty. Justin Nicol B. Gular**  
+Your Honor,
+
+**[00:46:33.490] Atty. Justin Nicol B. Gular**  
+we
+
+**[00:46:33.850] Atty. Justin Nicol B. Gular**  
+are
+
+**[00:46:33.990] Sen. Francis "Chiz" G. Escudero**  
+objecting to the flashing. It showed
+
+**[00:46:35.210] Atty. Justin Nicol B. Gular**  
+totals per
+
+**[00:46:36.130] Atty. Justin Nicol B. Gular**  
+bank.
+
+**[00:46:37.030] Atty. James Bryan Ibrahim A. Alih**  
+Per bank?
+
+**[00:46:37.950] Sen. Francis "Chiz" G. Escudero**  
+Per bank. She's not competent to testify on the other banks.
+
+**[00:46:42.560] Sen. Francis "Chiz" G. Escudero**  
+From previous banks, okay.
+
+**[00:46:45.750] Sen. Francis "Chiz" G. Escudero**  
+But kindly consult with your panel what they showed.
+
+**[00:46:50.090] Atty. James Bryan Ibrahim A. Alih**  
+Okay, Your Honor.
+
+**[00:46:51.930] Sen. Francis "Chiz" G. Escudero**  
+Atty. Nina, maraming salamat po sa inyong panahon at paumanhin sa abala. Salamat sa pagsagot sa mga katanungan na magkabilang partido. Yes, what is the pleasure of Sen. Risa Hontiveros?
+
+**[00:47:07.870] Sen. Francis "Chiz" G. Escudero**  
+You wish to make interjections,
+
+**[00:47:09.290] Sen. Francis "Chiz" G. Escudero**  
+ma'am?
+
+**[00:47:09.450] Sen. Risa Hontiveros**  
+Mr. Presiding Officer, opo, just a couple.
+
+**[00:47:11.690] Sen. Francis "Chiz" G. Escudero**  
+Yes, you have two minutes, ma'am.
+
+**[00:47:13.650] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Magandang umaga po, Atty. Nina.
+
+**[00:47:17.730] Atty. Niña Feren Alquiroz-Aguilar**  
+Good
+
+**[00:47:18.150] Atty. Niña Feren Alquiroz-Aguilar**  
+morning, Your Honor.
+
+**[00:47:19.660] Sen. Risa Hontiveros**  
+Good morning ma'am. Na-peak din yung interest ko dahil nga kayo yung head ng inyong anti-money laundering division so dalawang tanong lamang po sa inyo.
+
+**[00:47:32.510] Sen. Risa Hontiveros**  
+Kahapon po kasi napag-usapan yung suspicious transaction reports o STRs na ginagawa ng mga covered persons kasama ang mga bangko sa AMLC. So, in general po, sa karanasan ninyo bilang head ng inyong anti-money laundering division, basta ba may kontrobersyal na balita tungkol sa kliyente ay nire-report na yan agad, agad-agad sa AMLC bilang STR? O kinukonsidera po ba? Nang covered person, in this case ng bangko, yung circumstances ng transaksyon. Circumstansya kasama na po yung halaga, account activity, profiles ng nagpadala, at tumanggap ng pera at iba pa. Ganun po ba yun?
+
+**[00:48:22.130] Atty. Niña Feren Alquiroz-Aguilar**  
+For suspicious transaction reporting based on negative media, we generally file a suspicious transaction report if we have identified our customer to be the subject of the negative media and conduct further review on the transactions. And if it is warranted, we would file additional suspicious transaction reports after the review of the transactions, Your Honor.
+
+**[00:48:54.080] Sen. Risa Hontiveros**  
+Hindi rin basta-basta. Kung may negative report pero identified yung customer bilang subject ng negative report, maaaring nagpo-file ng STR pero nagko-conduct ng further review if warranted. So may ganung mga qualifications step by step.
+
+**[00:49:10.000] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, Your Honor.
+
+**[00:49:10.920] Sen. Risa Hontiveros**  
+Alright po. Then huli na lamang po. Again, in general, yung mga suspicious transaction reports, yung mga bank teller po ba? Ang nagpapadala ng mga suspicious transaction reports agad-agad sa AMLC? O dumadaan po ba yan sa internal review? Kanina nabanggit niyo further review. Dumadaan ba sa internal review? May escalation process po ba? May approval po ba ng mga boss ng covered person o ng bangko bago i-report, i-forward ang report sa AMLC?
+
+**[00:49:45.130] Atty. Niña Feren Alquiroz-Aguilar**  
+The suspicious transaction reports, Your Honor, goes through my division, anti-money laundering division, and would require my approval as well before filing with the AMLC.
+
+**[00:49:56.460] Sen. Risa Hontiveros**  
+All right. So dadaan pa po sa division ninyo in the case of your covered person, in the case of your bank, and then kailangan pang-aprubahan ng head of division na kayo po yun.
+
+**[00:50:07.920] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, Your Honor.
+
+**[00:50:08.940] Sen. Risa Hontiveros**  
+All right. Salamat po, Attorney Nina. Salamat po, Mr. Presiding Officer.
+
+**[00:50:12.020] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Risa. Yes, Senator Judge Kiko Pangilinan is recognized.
+
+**[00:50:21.400] Sen. Francis “Kiko” Pangilinan**  
+Thank you, Mr. Presiding Officer. Magandang umaga.
+
+**[00:50:26.220] Atty. Niña Feren Alquiroz-Aguilar**  
+Good morning, Poa, Your Honor.
+
+**[00:50:27.840] Sen. Francis “Kiko” Pangilinan**  
+Madam Witness, just to follow up on some of the points raised or questions raised by Senator Hontiveros.
+
+**[00:50:35.550] Sen. Francis “Kiko” Pangilinan**  
+In the guidelines for suspicious transaction reporting, you are familiar with the seven criteria, no? Kunwari. Halimbawa, there is no underlying legal or trade justification. Tama. So apart from negative media reports, you would look at this particular guideline and say yung deposit na ito malaking halaga and it appears na walang underlying legal or trade or economic justification.
+
+**[00:51:17.410] Atty. Niña Feren Alquiroz-Aguilar**  
+Among others, Your Honor.
+
+**[00:51:19.210] Sen. Francis “Kiko” Pangilinan**  
+So in other words, negative media is one consideration in filing suspicious transaction reports. Of course, and you'll go through the guidelines.
+
+**[00:51:32.490] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, Your Honor.
+
+**[00:51:33.550] Sen. Francis “Kiko” Pangilinan**  
+And when you say, and we do further investigation or further, what was the term you said? Sorry.
+
+**[00:51:40.730] Atty. Niña Feren Alquiroz-Aguilar**  
+Review, Your Honor.
+
+**[00:51:41.690] Sen. Francis “Kiko” Pangilinan**  
+Review. Your review is based on the guidelines.
+
+**[00:51:47.890] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, Your Honor.
+
+**[00:51:48.790] Sen. Francis “Kiko” Pangilinan**  
+Okay. So, hindi...
+
+**[00:51:55.340] Sen. Francis “Kiko” Pangilinan**  
+Binubusisi nyo ng gusto dahil you're careful na hindi rin tama na mag-file ng suspicious transaction report kung mali.
+
+**[00:52:02.780] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, Your
+
+**[00:52:03.500] Atty. Niña Feren Alquiroz-Aguilar**  
+Honor.
+
+**[00:52:03.600] Sen. Francis “Kiko” Pangilinan**  
+O walang basis o dahil news report lang.
+
+**[00:52:06.680] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, Your Honor.
+
+**[00:52:07.780] Sen. Francis “Kiko” Pangilinan**  
+So, maingat ang bangko bago ito mag-file ng suspicious transaction report. Binubusisi ninyo ng gusto.
+
+**[00:52:16.720] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, Your Honor.
+
+**[00:52:17.760] Sen. Francis “Kiko” Pangilinan**  
+Hindi base sa chismis.
+
+**[00:52:19.400] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, Your Honor.
+
+**[00:52:20.460] Sen. Francis “Kiko” Pangilinan**  
+Maraming salamat.
+
+**[00:52:22.190] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Kiko. There being no other Senator Judges who wishes to make interjections, Atty. Nina, you're excused and may I just say kayo po yung pinakakalmado at malumanay na testigong so far nakaharap po namin. Maraming salamat. Naway mahawa po kaming lahat sa inyo. Yes, Senator Judge Villanueva.
+
+**[00:52:50.320] Sen. Joel Villanueva**  
+Sorry, Mr. Presiding Officer. Just one question because I wanted to...
+
+**[00:52:53.700] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir.
+
+**[00:52:54.560] Sen. Joel Villanueva**  
+Thank you very much because I wanted to take this moment to ask this very particular question to our witness who is also considered an expert in anti-money laundering activities. Madam Witness, may mga CTRs and STRs na nare-report na... Kagaya po nung last time nandito po kami, if I'm not mistaken, yung BPI po was mentioned na nagkaroon ng glitch or reporting error involving a manager's check and then was later corrected after the bank identified a system bug. Gusto kong malaman na Madam Witness, meron po ba kayong ganitong experience so that we can be informed before the court relies on these amounts appearing in the CTRs or the STR, suspicious accounts. Yung bangko po ba can confirm that these have been checked against the underlying account statements and Transaction records. At kung nagkaroon po ng error, kung sakali po na nagkaroon naman ng error in the original report, ano po yung ginagawa ng bangko in processing this information for correcting or withdrawing the CTR or STR previously submitted to AMLA?
+
+**[00:54:36.110] Atty. Niña Feren Alquiroz-Aguilar**  
+Your Honor, we have not experienced that kind of error at least in my term as the head of anti-money laundering division of Metro Bank. But in case there would be any, we would file an amended covered transaction report as part of our procedure.
+
+**[00:54:53.110] Sen. Joel Villanueva**  
+And sinasabi niyo ho, and puntahan ko yung binanggit kanina ni Sen. Kiko, talagang masusi at talagang maingat na maingat. Bago po ito i-submit. Kaya in your experience, hindi niyo po na-experience ito.
+
+**[00:55:08.290] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, your honor.
+
+**[00:55:09.390] Sen. Joel Villanueva**  
+Maraming salamat, Madam Witas. Thank you, Mr. Presiding Officer. Thank you.
+
+**[00:55:12.750] Sen. Francis "Chiz" G. Escudero**  
+Yes, ganyan talaga pag nasimulan na natin eh. Senator Judge Raffy is recognized. Madam Witas,
+
+**[00:55:23.920] Sen. Raffy T. Tulfo**  
+since kayo po isang expert.
+
+**[00:55:24.780] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir.
+
+**[00:55:25.800] Sen. Raffy T. Tulfo**  
+Thank you, Mr. Presiding Officer. Since kayo po isang expert sa banking industry. Ano po yung protocol ninyo kapag meron halimbawang cliente ninyo mag-withdraw ng more than 500,000 at kapag meron pumasok sa account niya ng more than 500,000?
+
+**[00:55:44.590] Atty. Niña Feren Alquiroz-Aguilar**  
+For cash payout, Your Honor, our requirement for more than 500,000 is to conduct enhanced due diligence. At least for the current policy, it's already 1 million following the circular 1230 of Bangko Sentral ng Pilipinas. We conduct enhanced due diligence on the transaction to ensure that we understand where the payment is going to.
+
+**[00:56:10.440] Sen. Raffy T. Tulfo**  
+So meron kayo hinihingi ng mga dokumento kung para saan pupunta yung pera ngayon?
+
+**[00:56:15.920] Atty. Niña Feren Alquiroz-Aguilar**  
+We get information and documents as may be necessary, Your Honor.
+
+**[00:56:20.300] Sen. Raffy T. Tulfo**  
+Halimbawa kung meron pumasok na pera by the hundreds of millions, ano usually ang protocol?
+
+**[00:56:26.580] Atty. Niña Feren Alquiroz-Aguilar**  
+We also conduct enhanced due diligence on the transaction and obtain additional information and documents as may be necessary to Prove the legitimacy of the source of the funds, Your Honor.
+
+**[00:56:38.970] Sen. Raffy T. Tulfo**  
+So tinatanong niyo yung nag-de-deposit sa account kung para saan at saan galing yung pera ngayon na dinide-deposit sa isang account?
+
+**[00:56:50.490] Atty. Niña Feren Alquiroz-Aguilar**  
+Yes, Your Honor.
+
+**[00:56:51.790] Sen. Raffy T. Tulfo**  
+Anong mga dokumentong hinihingi niyo halimbawa?
+
+**[00:56:53.810] Atty. Niña Feren Alquiroz-Aguilar**  
+It depends on the type of the transaction, Your Honor.
+
+**[00:56:58.020] Sen. Raffy T. Tulfo**  
+Example?
+
+**[00:56:59.180] Atty. Niña Feren Alquiroz-Aguilar**  
+So, for example, for fund transfers, if it is, for example, a payment from a supplier, we ask for copies of the invoice or the contract between our depositor and their counterparty to prove the legitimacy of the transaction.
+
+**[00:57:15.560] Sen. Raffy T. Tulfo**  
+Very good. So, yan yung protocol sa lahat ng bangko, hindi lang sa bangko ninyo, per BSP regulations?
+
+**[00:57:21.500] Atty. Niña Feren Alquiroz-Aguilar**  
+I
+
+**[00:57:21.980] Atty. Niña Feren Alquiroz-Aguilar**  
+will not be able to answer for the other banks, sir.
+
+**[00:57:24.700] Sen. Raffy T. Tulfo**  
+Okay. Last na lamang. So, kapag halimbawa, Nag-withdraw ang isang account holder sa kanyang account ng say 10 million. So anong protocol ulit?
+
+**[00:57:41.850] Atty. Niña Feren Alquiroz-Aguilar**  
+depositor to provide us additional information as to the rationale why they are withdrawing that amount and provide documentation to support the legitimacy of the transaction or the withdrawal.
+
+**[00:57:54.430] Sen. Raffy T. Tulfo**  
+The
+
+**[00:57:54.910] Sen. Raffy T. Tulfo**  
+reason why I'm asking her, Mr. President and Officer, kasi kahapon, may mga pera galing sa iba't ibang bansa pumasok sa account ni BP Sara by the millions and hundreds of millions, as a matter of fact. So I was wondering kung yung bangko na Pinasukan ng pera from abroad kung sinunod yung ganong klaseng patakara na binanggit ni Madam Witness. Hininga ng kontrata, sales invoice, etc. because it wasn't discussed yesterday. So I was just wondering. Thank you, Madam Witness. Thank you, Mr. Presiding Officer.
+
+**[00:58:25.270] Sen. Francis "Chiz" G. Escudero**  
+Thank
+
+**[00:58:25.730] Sen. Francis "Chiz" G. Escudero**  
+you, Senator Judge Raffy.
+
+**[00:58:29.220] Sen. Francis "Chiz" G. Escudero**  
+You are excused, Attorney Niña.
+
+**[00:58:32.680] Atty. Justin Nicol B. Gular**  
+Your Honor, before that.
+
+**[00:58:34.540] Sen. Francis "Chiz" G. Escudero**  
+Before we excuse the witness.
+
+**[00:58:36.000] Atty. Justin Nicol B. Gular**  
+Yes, Your Honor.
+
+**[00:58:37.390] Sen. Francis "Chiz" G. Escudero**  
+Yes, what's your pleasure, Attorney Justin?
+
+**[00:58:39.070] Atty. Justin Nicol B. Gular**  
+With all due respect, of course, to
+
+**[00:58:40.250] Atty. Justin Nicol B. Gular**  
+the questions
+
+**[00:58:41.610] Atty. Justin Nicol B. Gular**  
+of our senator judges, just a clarification for the record in one of the answers of the witness. I believe the witness answered that when there is a negative media pertaining to a relevant person, an STR is automatically reported and she stated if warranted, further investigation is done and if after further investigation, an additional STR. is filed, Your Honor. I think that was the import of one of her
+
+**[00:59:07.020] Atty. Justin Nicol B. Gular**  
+answers.
+
+**[00:59:07.140] Sen. Francis "Chiz" G. Escudero**  
+And to qualify only insofar as she is concerned in her bank because she cannot speak for the practices of other banks. Would that be correct, Attorney Justin?
+
+**[00:59:16.220] Atty. Justin Nicol B. Gular**  
+Sorry, Your Honor.
+
+**[00:59:17.080] Sen. Francis "Chiz" G. Escudero**  
+It only applies to her bank, her statement.
+
+**[00:59:19.200] Atty. Justin Nicol B. Gular**  
+Yes, Your Honor.
+
+**[00:59:21.360] Sen. Francis "Chiz" G. Escudero**  
+Attorney Nina, you are excused, ma'am. Salamat po.
+
+**[00:59:24.660] Atty. Niña Feren Alquiroz-Aguilar**  
+Thank you, Your Honor.
+
+**[00:59:28.230] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate the next witness to confirm, Attorney James.
+
+**[00:59:31.030] Atty. James Bryan Ibrahim A. Alih**  
+It is Leslie Cham of Security Bank.
+
+**[00:59:36.400] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate Leslie Cham of Security Bank.
+
+**[00:59:40.530] Sen. Francis "Chiz" G. Escudero**  
+To the witness stand, the clerk is directed to administer the oath to Mr. Leslie.
+
+**[00:59:51.310] Atty. Justin Nicol B. Gular**  
+Your Honor, also, pardon, just to set the record straight, Your Honor, with all due respect again to our two senator judges. We'd just like to clarify, Your Honor, that based on the evidence propounded, the foreign currencies alluded to did not enter the bank accounts of the Vice President, but was, I think, the Cale88, Your Honor, just to clarify the record.
+
+**[01:00:15.920] Sen. Francis "Chiz" G. Escudero**  
+Yes, and the Court has, I think, has taken note of that. Manifestation is noted.
+
+**[01:00:21.220] Atty. Justin Nicol B. Gular**  
+Thank you, Your Honor.
+
+**[01:00:21.780] Sen. Francis "Chiz" G. Escudero**  
+Kindly administer the oath to Mr. Leslie.
+
+**[01:00:23.700] Atty. Renato N. Bantug Jr.**  
+Sir, kindly raise your right hand. You, Leslie Cham. Do swear that the evidence you shall give in the case now pending between the Philippines and Vice-President Sarah Zimmerman Duterte shall be the truth, the whole truth, and nothing but the truth. So help you God.
+
+**[01:00:38.270] Leslie Y. Cham**  
+Yes, Your Honor.
+
+**[01:00:40.140] Sen. Francis "Chiz" G. Escudero**  
+Thank you. I presume your nickname is Leslie as well?
+
+**[01:00:46.360] Leslie Y. Cham**  
+Les.
+
+**[01:00:47.200] Sen. Francis "Chiz" G. Escudero**  
+Les. Mr. Les, did you understand the oath that you just made in connection with the testimony you'll be giving before this Court this morning?
+
+**[01:00:56.420] Leslie Y. Cham**  
+Yes, Your Honor.
+
+**[01:00:58.030] Sen. Francis "Chiz" G. Escudero**  
+Thank you.
+
+**[01:00:59.430] Sen. Francis "Chiz" G. Escudero**  
+Offer, Atty. James?
+
+**[01:01:00.810] Atty. James Bryan Ibrahim A. Alih**  
+Same offer, Your Honor, from the prosecution.
+
+**[01:01:04.130] Sen. Francis "Chiz" G. Escudero**  
+Atty. Justin?
+
+**[01:01:05.370] Atty. Justin Nicol B. Gular**  
+Same comments and objections, Your Honor.
+
+**[01:01:07.190] Sen. Francis "Chiz" G. Escudero**  
+Duly noted. Your witness, Atty. James, for your direct.
+
+**[01:01:10.670] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. And before I ask, Your Honor, I beg your kind indulgence. I understand that these are numbers and that there are a lot of it, so I beg the forbearance of our honorable members of the court. But based naman po sa lumalabas, lumalaki-laki na rin naman po.
+
+**[01:01:34.800] Atty. James Bryan Ibrahim A. Alih**  
+Sir Les, can you kindly tell your full name and your current designation in Security Bank, please?
+
+**[01:01:48.300] Leslie Y. Cham**  
+I'm Leslie Y. Cham. I'm the branch banking group head of Security Bank.
+
+**[01:01:54.840] Atty. James Bryan Ibrahim A. Alih**  
+Thank you. We needed some energy, sir. Thank you for that energy.
+
+**[01:02:01.900] Atty. James Bryan Ibrahim A. Alih**  
+Branch banking group head. Branch banking group head. What are your primary functions and responsibilities?
+
+**[01:02:10.920] Leslie Y. Cham**  
+I actually supervise the overall branch banking of the bank with regards to the distribution channel. So we are handling sales and service.
+
+**[01:02:21.640] Atty. James Bryan Ibrahim A. Alih**  
+Okay. And how long have you been working in that capacity?
+
+**[01:02:27.330] Leslie Y. Cham**  
+18 years.
+
+**[01:02:28.250] Atty. James Bryan Ibrahim A. Alih**  
+18 years. Congratulations, sir. And before that, have you been a part of any other institution, banking institutions, or have you been with security bank?
+
+**[01:02:38.550] Leslie Y. Cham**  
+Oh, I've been with other institution in the past.
+
+**[01:02:41.310] Atty. James Bryan Ibrahim A. Alih**  
+And can you, for the record, just inform us? Konting ano po para malaman namin?
+
+**[01:02:46.450] Leslie Y. Cham**  
+I started with the Citytrust Banking Corporation, then I moved to PCI Bank, and then to Standard Chartered Bank. Chinatrust, and Security Bank.
+
+**[01:02:58.880] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Certified banker, I guess. Sir, I just have a few questions on the ending balances of the Vice President. But could you confirm to the Honorable Court how many bank accounts does the Vice President and or her husband have with Security Bank?
+
+**[01:03:18.580] Leslie Y. Cham**  
+Your Honor, based on our documents, Vice President Sara Duterte Does not maintain any account with security bank.
+
+**[01:03:28.270] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[01:03:29.980] Atty. James Bryan Ibrahim A. Alih**  
+How about Atty. Carpio?
+
+**[01:03:31.860] Leslie Y. Cham**  
+Atty. Carpio has two accounts with us.
+
+**[01:03:35.180] Atty. James Bryan Ibrahim A. Alih**  
+How many of those two accounts are still active?
+
+**[01:03:39.100] Leslie Y. Cham**  
+Only one.
+
+**[01:03:40.980] Atty. James Bryan Ibrahim A. Alih**  
+And are you in the position to confirm that this active account ends with the last digit 4534?
+
+**[01:03:49.000] Leslie Y. Cham**  
+Can I take a look at the notes?
+
+**[01:03:51.300] Sen. Francis "Chiz" G. Escudero**  
+You may, sir. Continuing authority is granted to the witness to look at his notes.
+
+**[01:03:55.870] Sen. Francis "Chiz" G. Escudero**  
+Sir, what's the number again?
+
+**[01:03:57.830] Atty. James Bryan Ibrahim A. Alih**  
+Last digit, 4534.
+
+**[01:04:00.810] Leslie Y. Cham**  
+Okay. Yes, this is an account of a checking account, All Access, opened in October 22, 2020. Sorry, opened in, yeah, October 25, 2022.
+
+**[01:04:14.450] Atty. James Bryan Ibrahim A. Alih**  
+Alright. But you mentioned that there are two active accounts, is that correct?
+
+**[01:04:18.090] Leslie Y. Cham**  
+Yes. No, only one active account.
+
+**[01:04:20.120] Atty. James Bryan Ibrahim A. Alih**  
+Only one.
+
+**[01:04:20.660] Leslie Y. Cham**  
+The other one is already closed.
+
+**[01:04:22.370] Atty. James Bryan Ibrahim A. Alih**  
+And this is a peso account?
+
+**[01:04:23.630] Leslie Y. Cham**  
+That's correct. Both are peso accounts.
+
+**[01:04:25.990] Atty. James Bryan Ibrahim A. Alih**  
+No foreign accounts?
+
+**[01:04:27.130] Leslie Y. Cham**  
+No foreign accounts.
+
+**[01:04:28.050] Atty. James Bryan Ibrahim A. Alih**  
+All right.
+
+**[01:04:30.760] Atty. James Bryan Ibrahim A. Alih**  
+Allow me to ask questions on this account that you've identified under the name of the Vice President's husband, Atty. Manases Carpio. More particularly, just the ending balances, sir, if you can assist us on this. For 2022, sir, what is the ending balance of This account with last digits 4534.
+
+**[01:04:52.060] Leslie Y. Cham**  
+As of December 20, 29, 2022, the ending balance is 25,074.34.
+
+**[01:05:04.900] Atty. James Bryan Ibrahim A. Alih**  
+Thank you. I'm sorry I got distracted. For 2023, what is the ending balance of this account?
+
+**[01:05:16.920] Leslie Y. Cham**  
+The ending balance of the December 2023 is 232,134.27.
+
+**[01:05:25.080] Atty. James Bryan Ibrahim A. Alih**  
+Alright. And for 2024, sir, what is the ending balance for this account under the name of Atty. Carpio?
+
+**[01:05:34.020] Leslie Y. Cham**  
+344,388.90.
+
+**[01:05:37.880] Atty. James Bryan Ibrahim A. Alih**  
+Alright. How about for 2025? What is the ending balance? of this account under the name of Atty. Manases R. Carpio.
+
+**[01:05:49.350] Leslie Y. Cham**  
+935,923.41.
+
+**[01:05:53.090] Atty. James Bryan Ibrahim A. Alih**  
+Alright. I'm about to end, Mr. Witness, but would you be in the position to confirm to us if a certain entity such as an entity named Cale88 maintain foreign bank accounts with your bank?
+
+**[01:06:11.760] Atty. James Bryan Ibrahim A. Alih**  
+Without saying the account number of course. Cale88. Are you in the
+
+**[01:06:17.420] Atty. James Bryan Ibrahim A. Alih**  
+position to confirm?
+
+**[01:06:18.560] Leslie Y. Cham**  
+No,
+
+**[01:06:19.000] Leslie Y. Cham**  
+I'm not in the position to confirm
+
+**[01:06:20.840] Leslie Y. Cham**  
+any FCDU account.
+
+**[01:06:22.600] Atty. James Bryan Ibrahim A. Alih**  
+Alright. But that answer is based that you do not have the records now. Not because it's not there.
+
+**[01:06:28.700] Atty. Justin Nicol B. Gular**  
+Objection, Your Honor. The witness has already
+
+**[01:06:30.340] Atty. Justin Nicol B. Gular**  
+answered. Just clarifying,
+
+**[01:06:31.120] Atty. Justin Nicol B. Gular**  
+Your Honor. That he cannot disclose on foreign currency deposit.
+
+**[01:06:34.100] Sen. Francis "Chiz" G. Escudero**  
+Already answered, counsel.
+
+**[01:06:35.400] Atty. James Bryan Ibrahim A. Alih**  
+We'll just move on, Your Honor. Yeah, that would be all from me, Sir Les. I thank you for your patience and for being here today. Thank you, Your Honor.
+
+**[01:06:45.500] Sen. Francis "Chiz" G. Escudero**  
+Cross-Attorney Justin?
+
+**[01:06:47.020] Atty. Justin Nicol B. Gular**  
+Nothing to cross-examine, Your Honor.
+
+**[01:06:50.670] Sen. Francis "Chiz" G. Escudero**  
+The Senate President is recognized for his interjection. He has two minutes.
+
+**[01:06:54.790] Sen. Sherwin T. Gatchalian**  
+Thank you. Thank
+
+**[01:06:55.510] Sen. Sherwin T. Gatchalian**  
+you, Mr. President. Mr. Leslie, kahapon ang aming witness ay AMLAC. At nakita ko doon sa kanilang report ng security bank, nag-issue ng STRs. sa Cale88. One of the STRs na nabasa ko dito, nakasulat, 12 cash deposits amounting to total value of 29, hindi mabasa, will be filed through STRs as these pertain to the fresh funds are not commensurate with the declared financial profile of the customer. Can you explain to us, unang-una, bakit kayo nag-file ng STR? With this particular transaction, anong ibig sabihin o anong nakita niyo dito sa not commensurate with the declared financial profile of the customer?
+
+**[01:07:48.400] Leslie Y. Cham**  
+Yeah, your honor. As advised by our legal counsel that if it's regards to the STR and CTR, I am not allowed to disclose any information pertaining to that. I think this is covered under the AL.
+
+**[01:08:06.370] Leslie Y. Cham**  
+AMLC's confidential restriction.
+
+**[01:08:11.070] Sen. Sherwin T. Gatchalian**  
+Nag, but do you know kung nag-file, kahapon lumabas, but do you confirm na nag-file kayo ng STR on Cale88?
+
+**[01:08:19.510] Leslie Y. Cham**  
+I cannot confirm.
+
+**[01:08:20.750] Sen. Sherwin T. Gatchalian**  
+And then there's another STR, actually multiple STR final ng security bank sa Cale88. Yung isa,
+
+**[01:08:33.110] Sen. Sherwin T. Gatchalian**  
+Maraming nakasulat, but the main point here, however, the client failed to provide supporting documents and remained unresponsive to the request for clarification, which resulted to the bank being unable to validate the source and purpose of the transaction. Can you give us details on this?
+
+**[01:08:50.730] Leslie Y. Cham**  
+Again, since this is not part of the subpoena of the STRCTR, I don't have any data to that, sir.
+
+**[01:08:58.220] Sen. Sherwin T. Gatchalian**  
+You cannot give us information as to the reason why Security Bank filed the STRs?
+
+**[01:09:03.720] Leslie Y. Cham**  
+I don't have right
+
+**[01:09:04.320] Leslie Y. Cham**  
+now.
+
+**[01:09:04.760] Sen. Sherwin T. Gatchalian**  
+Alright,
+
+**[01:09:04.940] Sen. Sherwin T. Gatchalian**  
+thank
+
+**[01:09:05.140] Sen. Sherwin T. Gatchalian**  
+you.
+
+**[01:09:05.320] Sen. Sherwin T. Gatchalian**  
+Thank you, Mr. President.
+
+**[01:09:06.780] Sen. Francis "Chiz" G. Escudero**  
+Thank you. The Chair confirms the answer of the witness in that regard that they are covered by the confidentiality rule on divulging submissions pertaining to CTRs and STRs as a covered institution. Senator Judge Pangilinan, sir, nice.
+
+**[01:09:29.140] Sen. Francis “Kiko” Pangilinan**  
+Yes, earlier, good morning, Mr. Witness. Earlier, you mentioned that you are not allowed to disclose information regarding, as advised by your lawyer, of course, foreign currency deposits. And this is in reference to Cale88. Does Cale88 have a peso account with security bank?
+
+**[01:09:56.760] Leslie Y. Cham**  
+Cale88?
+
+**[01:09:59.720] Leslie Y. Cham**  
+Allow me to check.
+
+**[01:10:01.000] Sen. Francis “Kiko” Pangilinan**  
+Yes, please.
+
+**[01:10:02.420] Leslie Y. Cham**  
+Yes, it appears that Cale88 has two checking accounts but was closed already as of this point in time.
+
+**[01:10:11.960] Sen. Francis “Kiko” Pangilinan**  
+So these are peso accounts?
+
+**[01:10:13.580] Leslie Y. Cham**  
+It's a peso account.
+
+**[01:10:14.580] Sen. Francis “Kiko” Pangilinan**  
+And therefore you can testify as to the transactions of the peso account in an impeachment trial?
+
+**[01:10:23.860] Leslie Y. Cham**  
+Yeah, peso
+
+**[01:10:24.900] Leslie Y. Cham**  
+account.
+
+**[01:10:25.260] Sen. Francis “Kiko” Pangilinan**  
+When
+
+**[01:10:25.660] Sen. Francis “Kiko” Pangilinan**  
+was it closed?
+
+**[01:10:28.330] Leslie Y. Cham**  
+It closed on July 2026.
+
+**[01:10:32.830] Sen. Francis “Kiko” Pangilinan**  
+Oh, just recently.
+
+**[01:10:34.790] Leslie Y. Cham**  
+Because the account was only opened October 2025 also.
+
+**[01:10:40.320] Sen. Francis “Kiko” Pangilinan**  
+Okay, so would you have figures as to the amounts of the peso account of Cale88 in your records?
+
+**[01:10:50.180] Leslie Y. Cham**  
+The one that I only have
+
+**[01:10:52.460] Leslie Y. Cham**  
+is the ending
+
+**[01:10:53.420] Leslie Y. Cham**  
+balance.
+
+**[01:10:54.080] Sen. Francis “Kiko” Pangilinan**  
+Yes. What was the ending balance when it was closed?
+
+**[01:10:56.780] Leslie Y. Cham**  
+The ending balance is for the account of 2013 is 332,530.95 and the other account is 8581 is 21,164.27. Ending balance of December 2025.
+
+**[01:11:20.830] Leslie Y. Cham**  
+The
+
+**[01:11:21.910] Leslie Y. Cham**  
+first one is August 2024. The second one is October 2025. Both close at July 2026.
+
+**[01:11:42.020] Sen. Francis “Kiko” Pangilinan**  
+Peso accounts from 2024.
+
+**[01:11:44.720] Leslie Y. Cham**  
+Transaction reports.
+
+**[01:11:46.080] Sen. Francis “Kiko” Pangilinan**  
+Meaning, you know, the withdrawals, the deposits. Would you have that?
+
+**[01:11:52.940] Leslie Y. Cham**  
+Right now, I don't have because largely these are all system generated and I don't look into the day-to-day transaction of it. So, I was not able to have that transaction in place.
+
+**[01:12:05.740] Sen. Francis “Kiko” Pangilinan**  
+Well, we will leave that to the lawyers. or maybe later on, the court. But it would be interesting to know, you know, the bank transactions undertaken by the Cale88 from 2024 and 2025.
+
+**[01:12:23.600] Sen. Francis “Kiko” Pangilinan**  
+Because that was, at that, when it was opened, Vice President was already Vice President. And when it was closed, of course, 2026. So from 2024 to 2025 to 2026. It would be interesting to get the information as to the amounts that went in and out, considering that in the AMLA report, about 319 million pesos went in for transactions from China. We don't know if that was through the peso account or if that was through the dollar account, of course, but that would be... something that is worthy of looking into.
+
+**[01:13:08.980] Sen. Francis "Chiz" G. Escudero**  
+With
+
+**[01:13:09.440] Sen. Francis "Chiz" G. Escudero**  
+the permission of Senator Judge Pangilinan and Senator Judge Aquino, kindly complete it already, Mr. Les. 2024 ending balance of the account of Cale88, you only gave 2025.
+
+**[01:13:22.380] Leslie Y. Cham**  
+Okay.
+
+**[01:13:23.620] Leslie Y. Cham**  
+For the 2013, 2024 is 332,530.95 and for December 2029, 2025 is 16,987.59.
+
+**[01:13:40.640] Sen. Francis "Chiz" G. Escudero**  
+For 2024,
+
+**[01:13:41.540] Sen. Francis "Chiz" G. Escudero**  
+ending balance?
+
+**[01:13:43.060] Leslie Y. Cham**  
+No 2024 since the account was actually just opened.
+
+**[01:13:48.380] Sen. Francis "Chiz" G. Escudero**  
+So, you only have one ending balance which is 2025?
+
+**[01:13:51.300] Leslie Y. Cham**  
+2024 and 2025.
+
+**[01:13:53.300] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[01:13:53.620] Sen. Francis "Chiz" G. Escudero**  
+Senator
+
+**[01:13:54.060] Sen. Francis "Chiz" G. Escudero**  
+Judge Bam Aquino
+
+**[01:13:54.800] Sen. Francis "Chiz" G. Escudero**  
+is recognized.
+
+**[01:14:00.530] Sen. Paolo Benigno “Bam” Aquino**  
+Maraming salamat, Mr. Presiding Officer. Magandang araw, Mr. Witness. Since na-bring up na rin po ni Senator Pangilinan yung Is it Kale or Kale88? Kale88 or Kale88? Naalala ko, dun sa pinakitang suspicious transactions ng AMLA, nakalagay doon na naging suspicious siya dahil no economic justification. So, can you explain to me what does that mean? No economic, not necessarily on this account, but in general, when does... A transaction becomes suspicious and when do you attach the terminology no economic justification? Ano pong ibig sabihin nun?
+
+**[01:14:47.400] Leslie Y. Cham**  
+If we have actually a huge transaction coming in or the deposit, then normally we ask for a proof of source of income or where it come from. So I think that's where the proof should be obtained by the
+
+**[01:15:05.020] Leslie Y. Cham**  
+client.
+
+**[01:15:05.970] Sen. Paolo Benigno “Bam” Aquino**  
+And that's standard for all transactions with other countries? Humihingi tayo ng, is that a contract? Anong dokumento po yung hinihingi po ninyo dyan?
+
+**[01:15:18.010] Leslie Y. Cham**  
+It depends. So if it's a, let's say, it's a transaction, it's a sales of property, then we ask for the deed of sale and the contract of lease or contract of sale. So those are the documents that we look. and to make sure that the account or the money that you are going to deposit is legit.
+
+**[01:15:39.390] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. And in the case of exporters or food manufacturers, it would be a contract?
+
+**[01:15:46.210] Leslie Y. Cham**  
+That's correct. Type finance
+
+**[01:15:47.750] Leslie Y. Cham**  
+contract or a sales invoice in that level.
+
+**[01:15:50.410] Sen. Paolo Benigno “Bam” Aquino**  
+Is that a requirement? Just to check, sir, is that a legal requirement? Is that a bank requirement? Is that an AMLA requirement?
+
+**[01:15:59.150] Leslie Y. Cham**  
+It's really a bank requirement and industry requirement.
+
+**[01:16:02.480] Sen. Paolo Benigno “Bam” Aquino**  
+Okay, so hindi naman siya iligal kung wala kang ibigay na kontrata? Is that correct?
+
+**[01:16:09.080] Leslie Y. Cham**  
+No. Actually, we
+
+**[01:16:10.780] Leslie Y. Cham**  
+don't transact without any documents.
+
+**[01:16:13.800] Sen. Paolo Benigno “Bam” Aquino**  
+Oh, but, well, in this case, nakalagay no economic justification. So, ibig sabihin nun, walang dokumento. So, paano nakapasok po yung pera kung wala po mga dokumento?
+
+**[01:16:28.950] Leslie Y. Cham**  
+In this case, actually, I don't have the details, sir. So, maybe I would like to just take a look at it on your question with regards to that particular
+
+**[01:16:39.080] Leslie Y. Cham**  
+question.
+
+**[01:16:40.940] Sen. Paolo Benigno “Bam” Aquino**  
+Okay, so can I repeat that? So, in a usual case na merong kumpanya magbibenta ng produkto sa ibang bansa, bago pumasok yung pera, humiingi po kayo ng...
+
+**[01:16:52.200] Leslie Y. Cham**  
+Proof of payments or proof of remittance.
+
+**[01:16:57.200] Sen. Paolo Benigno “Bam” Aquino**  
+And if no proof is given, you do not accept the remittance?
+
+**[01:17:01.170] Leslie Y. Cham**  
+Yes. We don't accept.
+
+**[01:17:03.000] Sen. Paolo Benigno “Bam” Aquino**  
+But
+
+**[01:17:03.600] Sen. Paolo Benigno “Bam” Aquino**  
+there are cases na pumapasok ito kahit walang dokumento?
+
+**[01:17:09.070] Sen. Paolo Benigno “Bam” Aquino**  
+No, no, sir. Usually, we actually return the money.
+
+**[01:17:14.990] Sen. Paolo Benigno “Bam” Aquino**  
+Was the money returned in the case?
+
+**[01:17:17.570] Leslie Y. Cham**  
+I don't have the figure, sir.
+
+**[01:17:19.810] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. So ang sinasabi ninyo, hindi pwede makapasok yung pera kung walang dokumento. But coming from the witnesses the other day and with your testimony today, mukhang wala naman pong dokumento. Paano nangyari ho yun?
+
+**[01:17:34.340] Leslie Y. Cham**  
+So
+
+**[01:17:34.800] Leslie Y. Cham**  
+I cannot actually determine right now to your question sir because I don't want to speculate of what had happened because I'm not also clear wherein the money is returned or retained.
+
+**[01:17:45.360] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. In the case where no documents were provided and ginawang suspicious transaction, how do you reckon that in your bank, in security bank, Mr. Witness? Ang tingin nyo ba doon ay mali? Irregular? Dapat bang i-resign? I'm not sure what the terms are but ano hung determination ninyo kapag may transaction na ganoon?
+
+**[01:18:09.850] Leslie Y. Cham**  
+Sir,
+
+**[01:18:10.370] Leslie Y. Cham**  
+if there is any doubt of certain transaction, we actually, the frontliner, refer it to our compliance office and they will determine and to help us decide whether this is illegal
+
+**[01:18:22.090] Leslie Y. Cham**  
+or not.
+
+**[01:18:23.130] Sen. Paolo Benigno “Bam” Aquino**  
+Last question, and in this case... For the transaction na matagal na pag-uusapan dito na may pumasok na pera galing sa Chinese companies, was there any determination on security bank's part that this should be brought up to the compliance office or checked again?
+
+**[01:18:40.970] Leslie Y. Cham**  
+Yes.
+
+**[01:18:41.670] Sen. Paolo Benigno “Bam” Aquino**  
+It was?
+
+**[01:18:42.670] Leslie Y. Cham**  
+It was.
+
+**[01:18:43.370] Sen. Paolo Benigno “Bam” Aquino**  
+Alright. Salamat po.
+
+**[01:18:44.950] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Sen. Judge Aquino. While we are on this point, Chair instructs the Clerk of Court. Clerk of Court, to distribute the document information requested by Senator Judge Zubiri yesterday on the names of the companies from the various European companies that were part of the CTRs and STRs. The additional requests, Senator Judge Zubiri, for the mainland China and Hong Kong companies are still being processed since that request was made belatedly. Senator Judge Tulfo, will you make an interjection?
+
+**[01:19:22.930] Sen. Raffy T. Tulfo**  
+Yes, sir.
+
+**[01:19:23.550] Sen. Francis "Chiz" G. Escudero**  
+You are recognized, sir. You may proceed when you're ready.
+
+**[01:19:37.140] Sen. Raffy T. Tulfo**  
+Mr. Witness, kanina nasabi mo kay Senator Judge Kiko Pangilinan yung ending balance ng peso account ng [unclear], right, noong 2024. Pakiulit?
+
+**[01:19:53.960] Leslie Y. Cham**  
+Okay. The 2024 is 332,530.95.
+
+**[01:20:05.890] Sen. Raffy T. Tulfo**  
+Pero dito sa forensic report, it says 40,138,520 in 2024. Mukhang hindi ata nagtatali.
+
+**[01:20:20.450] Leslie Y. Cham**  
+Sir,
+
+**[01:20:23.000] Leslie Y. Cham**  
+I actually am mentioning the amount. Based on our bank records, sir. So I don't have any idea about that 40 million.
+
+**[01:20:33.020] Sen. Raffy T. Tulfo**  
+No, it's an ending balance, Mr. Les.
+
+**[01:20:35.600] Leslie Y. Cham**  
+Yeah,
+
+**[01:20:35.900] Leslie Y. Cham**  
+the ending balance of what we have is 332,530.
+
+**[01:20:41.120] Sen. Francis "Chiz" G. Escudero**  
+Not what was maintained in the account in the course of the year or what entered in the account in the course of the year. Would that be correct, Mr. Les?
+
+**[01:20:49.880] Leslie Y. Cham**  
+Yes, this is the ending balance.
+
+**[01:20:51.480] Sen. Raffy T. Tulfo**  
+The ending balance.
+
+**[01:20:53.570] Sen. Raffy T. Tulfo**  
+So, itong 40,138,000, ito yung pumasok at lumabas na pera sa account ng Kale or Kale88 for the year 2024. Am I right?
+
+**[01:21:06.760] Leslie Y. Cham**  
+Let me just check it.
+
+**[01:21:08.540] Sen. Raffy T. Tulfo**  
+Ito ba yung nagja-jag sa records mo?
+
+**[01:21:11.880] Leslie Y. Cham**  
+Transaction.
+
+**[01:21:31.470] Leslie Y. Cham**  
+Yeah, the transaction record shows in 2024. Yes, it's talking about 40,138,000. 766.28
+
+**[01:21:42.280] Sen. Raffy T. Tulfo**  
+Exactly.
+
+**[01:21:43.460] Sen. Raffy T. Tulfo**  
+So yan yung pumasok at tumabas na pera. Ang
+
+**[01:21:47.800] Leslie Y. Cham**  
+lumabas is 40,001,101.79 Ang
+
+**[01:21:52.300] Sen. Raffy T. Tulfo**  
+lumabas. Ang pumasok total for the year 2024, how much? From January to December 2024?
+
+**[01:21:59.340] Leslie Y. Cham**  
+40
+
+**[01:21:59.680] Leslie Y. Cham**  
+,001,101.79
+
+**[01:22:03.380] Sen. Raffy T. Tulfo**  
+Yung
+
+**[01:22:03.740] Sen. Raffy T. Tulfo**  
+pumasok.
+
+**[01:22:04.200] Leslie Y. Cham**  
+Ang
+
+**[01:22:04.680] Leslie Y. Cham**  
+lumabas.
+
+**[01:22:05.320] Sen. Raffy T. Tulfo**  
+Ang
+
+**[01:22:05.460] Sen. Raffy T. Tulfo**  
+lumabas 40 million.
+
+**[01:22:06.660] Leslie Y. Cham**  
+Yes.
+
+**[01:22:06.840] Sen. Raffy T. Tulfo**  
+Ang total pumasok
+
+**[01:22:08.920] Leslie Y. Cham**  
+40,138,766.28.
+
+**[01:22:12.680] Sen. Raffy T. Tulfo**  
+So halos parehas lang.
+
+**[01:22:13.600] Leslie Y. Cham**  
+Yes.
+
+**[01:22:13.920] Sen. Raffy T. Tulfo**  
+Okay. Sa
+
+**[01:22:15.880] Sen. Raffy T. Tulfo**  
+2025?
+
+**[01:22:21.060] Leslie Y. Cham**  
+Sa 2025, ang pumasok is 6,265,915.66.
+
+**[01:22:29.830] Sen. Raffy T. Tulfo**  
+Yan yung total? Pumasok at lumabas?
+
+**[01:22:31.510] Leslie Y. Cham**  
+Yes, pumasok na
+
+**[01:22:31.870] Leslie Y. Cham**  
+total.
+
+**[01:22:32.490] Sen. Raffy T. Tulfo**  
+Okay, sige. Last na
+
+**[01:22:33.410] Sen. Raffy T. Tulfo**  
+naman, Mr. Witness.
+
+**[01:22:34.230] Sen. Raffy T. Tulfo**  
+Now, alimbawa may nag-deposit sa account.
+
+**[01:22:41.160] Sen. Raffy T. Tulfo**  
+Peso account ng Cale88 na say 5 million. Ano yung protocol ninyo?
+
+**[01:22:49.760] Leslie Y. Cham**  
+5 million ang pumasok.
+
+**[01:22:51.340] Sen. Raffy T. Tulfo**  
+Example, example lang. Just an example. Anong mga hinihingi nyo documents?
+
+**[01:22:57.340] Leslie Y. Cham**  
+In this case, we also look into some supporting documents to prove of that 5 million came from. Because importante kasi we look at the also the source of funds coming in. So we actually also ask from the client any supporting documents.
+
+**[01:23:15.360] Sen. Raffy T. Tulfo**  
+E paano kung wala yung client at tumahog yung manager niyo, tumahog yung vice president ng bank, papasukin mo na yan. Kami ng bahala.
+
+**[01:23:22.900] Leslie Y. Cham**  
+We don't do that. In fact, if there is any ambiguity on that, we always refer it to the compliance office to make the final judgment on that.
+
+**[01:23:33.960] Sen. Raffy T. Tulfo**  
+So meron yung isang department doon who will Come up with a final judgment whether or not to accept the deposit.
+
+**[01:23:40.380] Leslie Y. Cham**  
+Yes, to determine
+
+**[01:23:41.300] Leslie Y. Cham**  
+that
+
+**[01:23:41.680] Leslie Y. Cham**  
+and give the recommendation.
+
+**[01:23:44.520] Sen. Raffy T. Tulfo**  
+Wala ba kayong pulis yan na sige tangkapin na muna yan and then later on saka natin to follow na lang yung mga documents needed?
+
+**[01:23:51.540] Leslie Y. Cham**  
+No,
+
+**[01:23:51.840] Leslie Y. Cham**  
+we
+
+**[01:23:52.240] Leslie Y. Cham**  
+are very strict
+
+**[01:23:53.020] Leslie Y. Cham**  
+on the KYs in the compliance,
+
+**[01:23:55.260] Leslie Y. Cham**  
+sir.
+
+**[01:23:55.960] Sen. Raffy T. Tulfo**  
+Thank you, Mr. Witness. Salamat po, Mr. Presiding Officer.
+
+**[01:23:59.280] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Raffy Tulfo. Senator Judge Lacson is recognized. You may proceed, sir. You have two minutes.
+
+**[01:24:04.780] Sen. Panfilo “Ping” M. Lacson**  
+Thank you, sir.
+
+**[01:24:05.620] Sen. Panfilo “Ping” M. Lacson**  
+This is a point of clarification or information, I mean. What kind of account is, yeah, this is security bank account, no? 0392-J29380-001. I ask the question because it appears to differ from the account number that you testified to earlier. Kasi itong kanina, is this a checking account yung ending in 4534? that we were discussing earlier.
+
+**[01:24:35.580] Leslie Y. Cham**  
+That's correct, sir. Are you referring
+
+**[01:24:36.860] Leslie Y. Cham**  
+to Manases Carpio account?
+
+**[01:24:39.460] Sen. Panfilo “Ping” M. Lacson**  
+Just the number, the pattern. Now, there's another account. Merong letter kasi eh, J. The account number, if you're familiar, and I would like to ask, anong klaseng account ito?
+
+**[01:24:53.960] Leslie Y. Cham**  
+It's a checking account.
+
+**[01:24:55.660] Sen. Panfilo “Ping” M. Lacson**  
+No, no, no.
+
+**[01:24:57.810] Sen. Panfilo “Ping” M. Lacson**  
+0392-J29380.
+
+**[01:25:05.100] Sen. Panfilo “Ping” M. Lacson**  
+Dash001. Iba po yung pattern kaya ako natanong.
+
+**[01:25:07.900] Leslie Y. Cham**  
+Actually, it's just referring to just one account. The first account is an internal, we call it the BBN account of the client but the real account number is the 50494534.
+
+**[01:25:24.480] Sen. Panfilo “Ping” M. Lacson**  
+How about the 0392J293? Something. The one that I mentioned. What kind of account is that? Is it savings?
+
+**[01:25:33.300] Leslie Y. Cham**  
+Checking.
+
+**[01:25:34.320] Sen. Panfilo “Ping” M. Lacson**  
+Checking also. Why is the pattern different?
+
+**[01:25:39.130] Sen. Panfilo “Ping” M. Lacson**  
+Pattern? Because this verse that you testified to earlier, wala pong letter. The account that I mentioned, meron pong letter J.
+
+**[01:25:50.790] Leslie Y. Cham**  
+Yun may letter J is an internal number namin ng clients. But the real account number of the client is the one that I testified with the 4534. So, we're just showing lang. But these are two numbers with just one account.
+
+**[01:26:10.910] Sen. Panfilo “Ping” M. Lacson**  
+How's that? Can you explain further?
+
+**[01:26:12.910] Leslie Y. Cham**  
+Okay. The 0392 na sinasabong J29380001 is the customer ID of the client. So the customer ID is just one. But the client can have multiple accounts using only one customer ID. So the one with the J is the customer ID. And the one that was with the 4534 is the
+
+**[01:26:47.790] Sen. Panfilo “Ping” M. Lacson**  
+I'm just curious because it is stated here sa fund flow analysis merong 5.3 million in fund transfers from a certain Dio Zambrano
+
+**[01:27:01.050] Sen. Panfilo “Ping” M. Lacson**  
+and
+
+**[01:27:02.310] Sen. Panfilo “Ping” M. Lacson**  
+Adam Anthony Cabe III. Wala naman pong Manases Carpio. or Vice President Sara Zimmerman-Duterte. So, paano naging isang account lang yun? Eh, different persons.
+
+**[01:27:17.120] Leslie Y. Cham**  
+Carpio. Actually, I, sorry, sir, I'm not sure about the account.
+
+**[01:27:21.980] Sen. Panfilo “Ping” M. Lacson**  
+Anyway,
+
+**[01:27:22.360] Sen. Panfilo “Ping” M. Lacson**  
+thank you. You answered my question. Thank you very much, sir.
+
+**[01:27:25.650] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Pangilinan, let's recognize. You have two minutes, sir.
+
+**[01:27:30.190] Sen. Francis “Kiko” Pangilinan**  
+Good
+
+**[01:27:30.670] Sen. Francis “Kiko” Pangilinan**  
+morning again, sir. Earlier, I asked about Philip Peso. accounts for Cale88 in your bank. Do you have peso accounts for the corporation GenCorp?
+
+**[01:27:50.120] Leslie Y. Cham**  
+Yes, sir.
+
+**[01:27:51.440] Sen. Francis “Kiko” Pangilinan**  
+Okay. May we know the ending balance of GenCorp? How many accounts? Peso accounts?
+
+**[01:28:00.990] Leslie Y. Cham**  
+Eight accounts.
+
+**[01:28:02.170] Sen. Francis “Kiko” Pangilinan**  
+Eight. Okay. How many... And
+
+**[01:28:06.810] Sen. Francis “Kiko” Pangilinan**  
+these accounts were opened when?
+
+**[01:28:08.720] Leslie Y. Cham**  
+Okay, the first account was opened in October 2020, the second account opened in November 2020, the third account is in March 2021, then the fourth one is March 2021, then August 2023, then January 2025, then August 2025, and November 2025.
+
+**[01:28:33.650] Sen. Francis “Kiko” Pangilinan**  
+August
+
+**[01:28:33.870] Sen. Francis “Kiko” Pangilinan**  
+2025?
+
+**[01:28:34.890] Leslie Y. Cham**  
+Yes.
+
+**[01:28:35.530] Sen. Francis “Kiko” Pangilinan**  
+And November 2025?
+
+**[01:28:37.210] Leslie Y. Cham**  
+That's correct.
+
+**[01:28:38.090] Sen. Francis “Kiko” Pangilinan**  
+Okay.
+
+**[01:28:40.510] Sen. Francis “Kiko” Pangilinan**  
+So these are eight accounts, GenCorp.
+
+**[01:28:45.540] Sen. Francis “Kiko” Pangilinan**  
+Would you have ending balances for 2025? Are they all active?
+
+**[01:28:51.880] Leslie Y. Cham**  
+Yes, sir. It's all active.
+
+**[01:28:54.240] Sen. Francis “Kiko” Pangilinan**  
+Up to now?
+
+**[01:28:54.880] Leslie Y. Cham**  
+Yes, sir.
+
+**[01:28:55.420] Sen. Francis “Kiko” Pangilinan**  
+Okay. So would you have the ending balance of 2022,
+
+**[01:29:01.480] Sen. Francis “Kiko” Pangilinan**  
+2023, and 2024, and 2025?
+
+**[01:29:04.560] Leslie Y. Cham**  
+Yes, sir. For the account of 6890, December 2022, 7,881,829.18. For 2023 is 10,674,113.05. 2024 is 9,044,516.71. Then 2025 is 3,279,422.28. The second account which is a 7044. 2022 is 2,276,435.05. December 2023 is 3,116,258.02.
+
+**[01:30:00.000] Leslie Y. Cham**  
+2024 is 4,547,203.46. Then 2025 is 2,372,195. Third account is 7204. 2023, we don't have the number in 2022. 2023 is 3,181,032.06. 2024 ending is 5,053,327.02. Then 2025 is 4,138,640.05. The fourth account is...
+
+**[01:30:44.670] Sen. Francis “Kiko” Pangilinan**  
+How
+
+**[01:30:44.810] Sen. Francis “Kiko” Pangilinan**  
+much was that, the last one? 2025 is...
+
+**[01:30:49.510] Leslie Y. Cham**  
+4,138,640.65.
+
+**[01:30:55.910] Leslie Y. Cham**  
+The next account is 7215
+
+**[01:30:58.540] Sen. Francis “Kiko” Pangilinan**  
+Which number, account number 8, 9, I mean, sorry, 7, 8. You said there are 8 accounts.
+
+**[01:31:06.560] Leslie Y. Cham**  
+[unclear] mentioned 10 accounts.
+
+**[01:31:08.560] Sen. Francis "Chiz" G. Escudero**  
+We're only on the 4th account.
+
+**[01:31:09.800] Leslie Y. Cham**  
+The fourth account is 7215 2022 14,593,620.72 2023 is 15,658,349.55 2024 is 11,301,205.63 I don't have the figure of the 2025 right now. Then the fifth account is 6022 Starting in 2023 501,390.50 Then 2024 is 1,5642.31 Then December 2025 is 1,501,492.75 Then the next account which is 2772.
+
+**[01:32:18.290] Leslie Y. Cham**  
+Since this account is open only in 2025, I have only 2025 ending balance which is 3,189,501.58. And the next account is 18336.
+
+**[01:32:39.530] Leslie Y. Cham**  
+2025 is 18,656.16. And the last account Right now is 9710 is zero balance.
+
+**[01:32:55.350] Sen. Francis “Kiko” Pangilinan**  
+Okay. These are all ending.
+
+**[01:32:57.050] Leslie Y. Cham**  
+Yes, that's correct.
+
+**[01:32:58.310] Sen. Francis “Kiko” Pangilinan**  
+Okay. Thank you. Thank you very much.
+
+**[01:33:04.600] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Mr. Les, salamat po sa inyong panahon at pag-testigo at pag-sagot sa mga katanungan. Salamat din po at pasensya sa abala sa inyong kooperasyon sa hukuman ito. You're excused, sir.
+
+**[01:33:15.540] Leslie Y. Cham**  
+Thank you, sir.
+
+**[01:33:18.230] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate the next witness to confirm Mr. Julius, sorry, Mr. Marwin Galvez of BBI.
+
+**[01:33:24.750] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor, at this point, I hope you'll allow it. Can we ask for a short break, Your Honor? Because we will be starting with BPI now, Your Honor. To be followed by PNB and BDO.
+
+**[01:33:39.200] Sen. Francis "Chiz" G. Escudero**  
+So what's the significance, Counsel, if we're starting with BPI?
+
+**[01:33:42.580] Atty. James Bryan Ibrahim A. Alih**  
+Just so I can...
+
+**[01:33:46.110] Atty. James Bryan Ibrahim A. Alih**  
+Collect my thoughts, Your Honor, because I have been presenting the fifth bank today, Your Honor.
+
+**[01:33:51.470] Sen. Francis "Chiz" G. Escudero**  
+So, kailangan may laman yung tiyan mo para patuloy na...
+
+**[01:33:55.740] Atty. James Bryan Ibrahim A. Alih**  
+Without
+
+**[01:33:56.680] Atty. James Bryan Ibrahim A. Alih**  
+having said that, Your Honor, yes.
+
+**[01:33:59.880] Sen. Francis "Chiz" G. Escudero**  
+Just
+
+**[01:34:03.620] Sen. Francis "Chiz" G. Escudero**  
+asking if lunch is already available to everyone. We can pause for an early lunch. So, we pause for an early lunch. We resume at 12.30. With the Bank of the Philippine Islands and continue as far as we can go for today.
+
+**[01:34:22.200] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Your Honor.
+
+**[01:34:23.680] Sen. Francis "Chiz" G. Escudero**  
+We are in recess and we shall resume at 12.30 in the afternoon.
+
+**[03:05:14.470] Sen. Francis "Chiz" G. Escudero**  
+The clerk of court through the OSHA is directed to kindly situate Mr. Marwin Galvez to the witness stand, the representative of BPI.
+
+**[03:05:34.460] Sen. Francis "Chiz" G. Escudero**  
+The clerk is directed to administer the oath to the witness.
+
+**[03:05:42.520] Atty. Renato N. Bantug Jr.**  
+Sir, please raise your right hand. You, Marwin Galvez, do swear that the evidence that you will give in the case now pending between the Philippines and Vice President Saira General Amanda Terte shall be the truth, the whole truth, and nothing but the truth. So I help you God.
+
+**[03:05:58.100] Marwin L. Galvez**  
+Yes, I do.
+
+**[03:05:59.880] Sen. Francis "Chiz" G. Escudero**  
+Pwede ko po kayong tawaging Marwin o may mas maiklibang pangalan?
+
+**[03:06:04.210] Marwin L. Galvez**  
+May call me Mau, Your Honor.
+
+**[03:06:06.270] Sen. Francis "Chiz" G. Escudero**  
+Mau?
+
+**[03:06:09.480] Sen. Francis "Chiz" G. Escudero**  
+Kanya-kanya talaga yan eh. Mr. Mau, naunawaan niyo po ba yung inyong pinanumpaan kaugnay sa pagbibigay niyo ng inyong testimonya sa hukumang ito?
+
+**[03:06:19.470] Marwin L. Galvez**  
+Apo, Your Honor.
+
+**[03:06:21.290] Sen. Francis "Chiz" G. Escudero**  
+Offer, Atty.
+
+**[03:06:22.130] Sen. Francis "Chiz" G. Escudero**  
+James, I guess it's still going to be you, Atty. Justin?
+
+**[03:06:24.290] Atty. Justin Nicol B. Gular**  
+No, Your Honor. May I request that my co-counsel, Atty. Michael Wesley, Poa, be recognized, Your Honor.
+
+**[03:06:30.270] Sen. Francis "Chiz" G. Escudero**  
+So it's going to be Mike.
+
+**[03:06:32.490] Atty. Justin Nicol B. Gular**  
+Thank you, Your Honor.
+
+**[03:06:34.190] Sen. Francis "Chiz" G. Escudero**  
+Good afternoon, Attorney Mike.
+
+**[03:06:35.750] Atty. Michael Wesley Poa**  
+Good
+
+**[03:06:35.950] Atty. Michael Wesley Poa**  
+afternoon, Your Honors.
+
+**[03:06:37.950] Sen. Francis "Chiz" G. Escudero**  
+Offer, Attorney James.
+
+**[03:06:39.510] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. We will adopt the same offer. However, may I just add two more, Your Honor.
+
+**[03:06:44.810] Sen. Francis "Chiz" G. Escudero**  
+You may proceed.
+
+**[03:06:45.710] Atty. James Bryan Ibrahim A. Alih**  
+The witness, aside from what was already stated, the witness is going to be presented in order to establish a transaction involving more than 90 million pesos.
+
+**[03:07:01.760] Atty. James Bryan Ibrahim A. Alih**  
+involving the accounts in BPI and involving the respondent and another 80 million pesos of purchases in insurance products, your honor.
+
+**[03:07:17.760] Sen. Francis "Chiz" G. Escudero**  
+Attorney Mike?
+
+**[03:07:20.100] Atty. Michael Wesley Poa**  
+Your
+
+**[03:07:21.100] Atty. Michael Wesley Poa**  
+honors, may we inquire from the honorable and distinguished prosecutor? Who
+
+**[03:07:26.600] Atty. Michael Wesley Poa**  
+the parties would be in these transactions?
+
+**[03:07:29.240] Atty. James Bryan Ibrahim A. Alih**  
+The parties would involve...
+
+**[03:07:30.840] Atty. Michael Wesley Poa**  
+Sorry, and also the dates, thank you.
+
+**[03:07:32.620] Atty. James Bryan Ibrahim A. Alih**  
+Gladly, Your Honor. The parties would involve the Vice President, Sara Duterte, Your Honor, and Rodrigo Roa Duterte, involving their accounts that are joint, that are maintained in BPI. That would be... The dates would be... would run around 2011 to 2014, thereabouts, Your Honor.
+
+**[03:07:57.520] Atty. Michael Wesley Poa**  
+Well, comment, Your Honor. Your Honor, first of all, we'd like to ensure that these are called alleged transactions. Secondly, additional objection, same comments and objection with additional objection as to former President Rodrigo Roa Duterte as he is not an impeachable officer, Your Honor.
+
+**[03:08:17.680] Sen. Francis "Chiz" G. Escudero**  
+Noted, counsel. However, there is a joint account. Hopefully, we will be enlightened from Mr. Mao. Exactly what that means, either in direct or during cross.
+
+**[03:08:29.080] Atty. Michael Wesley Poa**  
+We submit, Your Honor.
+
+**[03:08:30.220] Sen. Francis "Chiz" G. Escudero**  
+You may proceed with your direct examination, Attorney James.
+
+**[03:08:34.240] Atty. James Bryan Ibrahim A. Alih**  
+Thank
+
+**[03:08:34.640] Atty. James Bryan Ibrahim A. Alih**  
+you, Your Honor. Good morning, Sir Mao.
+
+**[03:08:38.160] Marwin L. Galvez**  
+Good morning,
+
+**[03:08:38.960] Marwin L. Galvez**  
+Sir.
+
+**[03:08:39.560] Atty. James Bryan Ibrahim A. Alih**  
+Good afternoon, rather.
+
+**[03:08:40.760] Marwin L. Galvez**  
+Sir,
+
+**[03:08:43.720] Atty. James Bryan Ibrahim A. Alih**  
+for the record, could you... Provide us your full name and your current designation with BPI, please.
+
+**[03:08:51.620] Marwin L. Galvez**  
+Yes, sir. Your Honor, I am Marwin L. Galvez. I'm currently the division head for Central Metro Manila branches.
+
+**[03:09:00.060] Atty. James Bryan Ibrahim A. Alih**  
+And as the division head, what is your primary functions and responsibilities?
+
+**[03:09:06.440] Marwin L. Galvez**  
+Primary function and responsibilities is to oversee day-to-day business and operations of about 111 branches under my authority.
+
+**[03:09:17.700] Atty. James Bryan Ibrahim A. Alih**  
+111 branches and that would spread across the country or just a particular territorial region?
+
+**[03:09:23.300] Marwin L. Galvez**  
+Basically, we call it the central part of Metro Manila.
+
+**[03:09:26.940] Atty. James Bryan Ibrahim A. Alih**  
+Alright. And as part of Central Manila, is that right?
+
+**[03:09:32.320] Marwin L. Galvez**  
+That's correct, sir.
+
+**[03:09:33.340] Atty. James Bryan Ibrahim A. Alih**  
+And that would include, say for example, Green Hills?
+
+**[03:09:36.640] Marwin L. Galvez**  
+That's correct, sir.
+
+**[03:09:37.860] Atty. James Bryan Ibrahim A. Alih**  
+Say for example, Julia Vargas?
+
+**[03:09:43.470] Marwin L. Galvez**  
+That's correct, sir.
+
+**[03:09:45.360] Atty. James Bryan Ibrahim A. Alih**  
+and some others, I guess.
+
+**[03:09:47.600] Marwin L. Galvez**  
+Yes, sir.
+
+**[03:09:49.220] Atty. James Bryan Ibrahim A. Alih**  
+Based on your record, sir, no, but before that, how long have you been with BPI, sir?
+
+**[03:09:54.420] Marwin L. Galvez**  
+I've been with the bank for 25 years.
+
+**[03:09:57.440] Atty. James Bryan Ibrahim A. Alih**  
+25 years?
+
+**[03:09:58.360] Marwin L. Galvez**  
+Yes, sir.
+
+**[03:09:59.040] Atty. James Bryan Ibrahim A. Alih**  
+And what other positions have you held throughout those years? If you can just briefly state it for the record.
+
+**[03:10:07.040] Marwin L. Galvez**  
+Yes, sir. Thank you for that question. I started my career as a branch assistant business manager. Then took on a business manager role until I was designated as an area business director and now currently as a division head.
+
+**[03:10:23.970] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Sir, I'll just go straight ahead. Based on your records in BPI, how many bank accounts does the vice president have and or her husband, Atty. Carpio, whether separately maintained or joint? Together or with other persons?
+
+**[03:10:46.920] Marwin L. Galvez**  
+May I classify my answer in terms of total active individual accounts? All in all, we have seven active deposit accounts under the name of the respondent and her spouse.
+
+**[03:11:08.080] Atty. James Bryan Ibrahim A. Alih**  
+What
+
+**[03:11:08.860] Atty. James Bryan Ibrahim A. Alih**  
+else
+
+**[03:11:10.980] Atty. James Bryan Ibrahim A. Alih**  
+if there are any?
+
+**[03:11:12.270] Marwin L. Galvez**  
+We have 34 other closed individual accounts under the name of the respondent and her spouse.
+
+**[03:11:25.480] Atty. James Bryan Ibrahim A. Alih**  
+Sir, are you in the position to confirm without stating for the record the specific US dollar accounts or any foreign? Bank accounts. Are you in the position to confirm if the Vice President and or Attorney Carpio maintains any foreign currency account with GPI?
+
+**[03:11:46.370] Atty. Michael Wesley Poa**  
+Objection, Your Honor.
+
+**[03:11:51.620] Atty. James Bryan Ibrahim A. Alih**  
+That's fine, Your Honor. I'll just proceed. Thank you. Sir, for the record, are you in the position to confirm that a bank account with last digit 7742 under the name of Sara Zimmerman Duterte, and maintained in Green Hills Branch. It's in your record.
+
+**[03:12:15.640] Marwin L. Galvez**  
+Your Honor, may I confirm my records?
+
+**[03:12:18.240] Sen. Francis "Chiz" G. Escudero**  
+You may refer to
+
+**[03:12:19.160] Sen. Francis "Chiz" G. Escudero**  
+your records or documents, Mr. Mal.
+
+**[03:12:22.260] Marwin L. Galvez**  
+Thank you, Your Honor.
+
+**[03:12:37.100] Marwin L. Galvez**  
+Sir,
+
+**[03:12:37.860] Marwin L. Galvez**  
+may I request
+
+**[03:12:38.700] Marwin L. Galvez**  
+you to please repeat the number?
+
+**[03:12:41.060] Atty. James Bryan Ibrahim A. Alih**  
+Gladly, Sir. Last digit is 7742. under the name of Sara Zimmerman Duterte, maintained at Green Hills EDSA branch of BPI.
+
+**[03:12:52.210] Marwin L. Galvez**  
+I confirm the existence of such account.
+
+**[03:12:55.130] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Are
+
+**[03:12:55.730] Atty. James Bryan Ibrahim A. Alih**  
+you in the position, thank you sir, are you in the position to confirm that a bank account with last digit 6-9, sorry, 2-8 under the name of Atty. Manases Reyes Carpio or Sara Zimmerman Duterte is maintained at Green Hills EDSA branch of BPI.
+
+**[03:13:19.300] Marwin L. Galvez**  
+Sir, based on the records we submitted, I confirm that such account is...
+
+**[03:13:24.200] Atty. James Bryan Ibrahim A. Alih**  
+Thank you. Thank you, sir.
+
+**[03:13:26.910] Atty. James Bryan Ibrahim A. Alih**  
+Sir, are you in the position to confirm that based on your records, the last digit, the bank account with last digit 9539 under the name of Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Zimmerman Duterte? Maintained at Julia Vargas Branch is in your records.
+
+**[03:13:50.410] Marwin L. Galvez**  
+Based on the records we submitted as covered in the subpoena, I confirm that, Your Honor.
+
+**[03:13:55.990] Atty. James Bryan Ibrahim A. Alih**  
+And could you also confirm that another account with last digits 9891 under the name of Rodrigo R. Duterte in trust for Sara Zimmerman Duterte is maintained in Davao Main Branch of BPI?
+
+**[03:14:14.250] Marwin L. Galvez**  
+Based on the records we submitted in response to the subpoena, I confirm that such account exists, Your
+
+**[03:14:20.390] Marwin L. Galvez**  
+Honor.
+
+**[03:14:21.090] Atty. James Bryan Ibrahim A. Alih**  
+Can you also confirm that a bank account with last digit 7455 under the name of Manassas R. Carpio, held in trust for a minor, is in your records, which is maintained in Davao Main Branch?
+
+**[03:14:45.260] Marwin L. Galvez**  
+Confirming that based on records we submitted to the Honorable Court, that account exists, Your Honor.
+
+**[03:14:51.880] Atty. James Bryan Ibrahim A. Alih**  
+Lastly, can you confirm that the bank account with last digits 8095 under the name of Manases R. Carpio, maintained in BPI, better leaving Don Bosco branches in your records?
+
+**[03:15:08.990] Marwin L. Galvez**  
+Confirming based on records that we submitted to the Honorable Court, Your Honor.
+
+**[03:15:12.890] Atty. James Bryan Ibrahim A. Alih**  
+The reason why I asked those confirmations, Mr. Witness, because my questions this afternoon will revolve around those banks. We do not intend to go through a full accounting of the BPI accounts that are maintained by those individuals. However, allow us for this afternoon to discuss those accounts that I've mentioned.
+
+**[03:15:36.790] Atty. James Bryan Ibrahim A. Alih**  
+But for the record, before I go to the meat of the discussions, do you have with you a record of closed accounts throughout the years?
+
+**[03:15:45.320] Marwin L. Galvez**  
+As
+
+**[03:15:46.930] Marwin L. Galvez**  
+complied to the subpoena issued to us last July, we confirm submitting records of closed accounts.
+
+**[03:15:57.530] Marwin L. Galvez**  
+As to
+
+**[03:16:03.640] Marwin L. Galvez**  
+individual accounts, Your Honor, we confirm 34 closed accounts.
+
+**[03:16:14.950] Marwin L. Galvez**  
+Those are under the name covered in the subpoena, your honor. I can go through the
+
+**[03:16:19.550] Marwin L. Galvez**  
+list if you need me to.
+
+**[03:16:21.450] Atty. James Bryan Ibrahim A. Alih**  
+So, 34 closed accounts and the period would be 2000?
+
+**[03:16:27.210] Marwin L. Galvez**  
+Covered by the subpoena, we searched all records and documents covering person-denominated accounts of the respondent, Sara. Zimmermann Duterte, Spouses Manases Carpio, and the 20 other companies listed in the account covering the period January 1, 2007 up to December 31, 2025. So
+
+**[03:16:50.860] Atty. James Bryan Ibrahim A. Alih**  
+that's 34 closed accounts and how many active again?
+
+**[03:16:54.420] Marwin L. Galvez**  
+Two individual accounts, that's seven deposit accounts and two credit card accounts.
+
+**[03:17:03.160] Atty. James Bryan Ibrahim A. Alih**  
+For all personal accounts or does that include the
+
+**[03:17:09.100] Marwin L. Galvez**  
+Only personal accounts.
+
+**[03:17:10.920] Atty. James Bryan Ibrahim A. Alih**  
+As to
+
+**[03:17:13.600] Marwin L. Galvez**  
+the corporate account, we listed one active corporate account.
+
+**[03:17:20.570] Atty. James Bryan Ibrahim A. Alih**  
+Alright, so more or less, more than 40 accounts, close and active, I should say. Alright, so let's go now, sir, with the ending balances of... The six accounts that I've identified. As I mentioned, I will not go through all the years. We have a separate witness for that. But I want to focus on the years 2022 to 2025. And I just want to know the ending balances of the six accounts that I've identified or that you've confirmed rather. So let's start with 7742 under the name of the Vice President Sara Zimmerman Duterte. In 2022, what is the ending balance of this account?
+
+**[03:18:13.550] Marwin L. Galvez**  
+Your Honor, may I request your permission to continue looking
+
+**[03:18:16.710] Marwin L. Galvez**  
+at my
+
+**[03:18:17.210] Marwin L. Galvez**  
+documents?
+
+**[03:18:17.610] Sen. Francis "Chiz" G. Escudero**  
+Continuing authority is granted, Mr. Mao.
+
+**[03:18:19.570] Marwin L. Galvez**  
+Thank you, Your Honor.
+
+**[03:18:29.390] Marwin L. Galvez**  
+Sir, can you please repeat the account number?
+
+**[03:18:32.810] Atty. James Bryan Ibrahim A. Alih**  
+Certainly, Sir. In the bank account with last digit 7742, What is the ending balance for 2022?
+
+**[03:18:46.790] Marwin L. Galvez**  
+For the account number with ending digit 7742, the ending balance as of December 31, 2022 is 10,542.
+
+**[03:19:01.990] Atty. James Bryan Ibrahim A. Alih**  
+Yeah, only 10,000. Okay, so in the bank account with last digit 6928, What is the ending balance? And this is under the name of Atty. Carpio or the Vice President, Sara Duterte. For 2022, what is the ending balance for this account?
+
+**[03:19:22.540] Marwin L. Galvez**  
+For account number ending in 6928, the ending balance for the period December 31, 2022 is 639,833, Your Honor.
+
+**[03:19:38.290] Atty. James Bryan Ibrahim A. Alih**  
+Thank you,
+
+**[03:19:39.010] Atty. James Bryan Ibrahim A. Alih**  
+Sir. For the third bank with ending digits 9539, what is the ending balance for the year 2022?
+
+**[03:19:53.810] Marwin L. Galvez**  
+For the account ending in 9539, the ending balance as of December 31, 2022 is 1,285,909 pesos.
+
+**[03:20:12.270] Atty. James Bryan Ibrahim A. Alih**  
+Alright. For the fourth bank or account, last digit is 9891, what is the ending balance for 2022?
+
+**[03:20:24.550] Marwin L. Galvez**  
+For the account ending in 9891, the ending balance as of December 31, 2022 is 3,257,306 pesos, Your Honor.
+
+**[03:20:39.970] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Sir.
+
+**[03:20:41.530] Atty. James Bryan Ibrahim A. Alih**  
+Now let's go to your Davao branch. With last digit 7455 under the name of Atty. Carpio, what is the ending balance for 2022?
+
+**[03:20:53.830] Marwin L. Galvez**  
+For the account ending in 7455, the ending balance as of December 31, 2022 is 1,033,461 Pesos, Your Honor.
+
+**[03:21:10.710] Atty. James Bryan Ibrahim A. Alih**  
+Alright. How about for the bank account maintained in Better Living Don Bosco with last digits 8095? What is the ending balance for the year 2022?
+
+**[03:21:26.090] Marwin L. Galvez**  
+For the account ending in 8095, the closing balance as of the period December 31, 2022 is 1,000,000
+
+**[03:21:41.820] Marwin L. Galvez**  
+892,884, Your Honor.
+
+**[03:21:43.940] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[03:21:46.410] Atty. James Bryan Ibrahim A. Alih**  
+Now let's go to 2023, Sir.
+
+**[03:21:50.840] Atty. James Bryan Ibrahim A. Alih**  
+For 2023, going back to the first account with last digit 7742, under the name of the Vice President, what is the ending balance of this account?
+
+**[03:22:04.810] Marwin L. Galvez**  
+For the account
+
+**[03:22:06.050] Marwin L. Galvez**  
+ending with 7742, The balance as of December 31, 2023 is 9,442, Your Honor.
+
+**[03:22:18.390] Sen. Francis "Chiz" G. Escudero**  
+With the indulgence of counsel, Mr. Mao, you don't have to repeat the question kindly, just counsel is simply asking for the amount. Unless the number, the account number he read is erroneous, then you can correct the question of counsel. But you need not state the date anymore ending in December 31 in the account number unless it's wrong. Kindly just state the amount.
+
+**[03:22:40.910] Sen. Francis "Chiz" G. Escudero**  
+Thank you,
+
+**[03:22:42.390] Sen. Francis "Chiz" G. Escudero**  
+Mr. Mao. Please proceed, Atty. James.
+
+**[03:22:45.580] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, sir. Thank you, Your Honor. For the second account, sir, with last digits 6928, what is the ending balance for 2023?
+
+**[03:22:57.840] Marwin L. Galvez**  
+The ending balance, Your Honor, is 642,424.
+
+**[03:23:04.790] Atty. James Bryan Ibrahim A. Alih**  
+For the bank account with last digits 9539? What is the ending balance for 2023?
+
+**[03:23:12.620] Marwin L. Galvez**  
+The ending balance, Your Honor, is 1,291,569 pesos.
+
+**[03:23:21.920] Atty. James Bryan Ibrahim A. Alih**  
+How about for the bank account with last digits 9891? What is the ending balance for 2023?
+
+**[03:23:30.670] Marwin L. Galvez**  
+The
+
+**[03:23:31.390] Marwin L. Galvez**  
+ending balance for said account is 3,259,800 pesos. 51, Your Honor.
+
+**[03:23:42.340] Atty. James Bryan Ibrahim A. Alih**  
+Okay. Fifth, the bank account with last digits 7, 4, 5, 5.
+
+**[03:23:51.480] Atty. James Bryan Ibrahim A. Alih**  
+What is the ending balance for the year 2023?
+
+**[03:23:55.540] Marwin L. Galvez**  
+The ending balance for year 2023 is 1,132,207, Your Honor.
+
+**[03:24:05.320] Atty. James Bryan Ibrahim A. Alih**  
+All right.
+
+**[03:24:06.850] Atty. James Bryan Ibrahim A. Alih**  
+Six, for the bank account with last digits 8, 0, 9, 5. What is the ending balance for the year 2023?
+
+**[03:24:18.980] Marwin L. Galvez**  
+The
+
+**[03:24:19.660] Marwin L. Galvez**  
+ending balance for the said account is 2,153,880 pesos, Your Honor.
+
+**[03:24:27.920] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Sir.
+
+**[03:24:29.540] Atty. James Bryan Ibrahim A. Alih**  
+Now let's go to 2024, Sir Mau. Again, with the first account, with last digit 7742. What is the ending balance for 2024?
+
+**[03:24:43.980] Marwin L. Galvez**  
+The ending balance for 2024 is Php 6,842, Your Honor.
+
+**[03:24:50.660] Atty. James Bryan Ibrahim A. Alih**  
+How about for the second account, 6928? What is the ending balance for 2024?
+
+**[03:24:57.550] Marwin L. Galvez**  
+The ending balance
+
+**[03:24:58.570] Marwin L. Galvez**  
+is Php 645,026.00, Your Honor.
+
+**[03:25:07.050] Atty. James Bryan Ibrahim A. Alih**  
+For the third account with last digits 9539? What is the ending balance for 2024?
+
+**[03:25:14.900] Marwin L. Galvez**  
+The ending balance for said account is 1,292,532 pesos, Your Honor.
+
+**[03:25:23.880] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, sir.
+
+**[03:25:25.330] Atty. James Bryan Ibrahim A. Alih**  
+Number four, with last digit 9891, what is the ending balance for December 31 or for the year 2024?
+
+**[03:25:35.420] Marwin L. Galvez**  
+The balance for said account is 3,000,000...
+
+**[03:25:41.550] Marwin L. Galvez**  
+262,404 pesos, Your Honor.
+
+**[03:25:44.690] Atty. James Bryan Ibrahim A. Alih**  
+How about for the fifth account with last digits 7, 4, 5, 5? What is the ending balance for 2024?
+
+**[03:25:54.830] Marwin L. Galvez**  
+The ending balance is 1,262,830 pesos, Your Honor.
+
+**[03:26:05.010] Atty. James Bryan Ibrahim A. Alih**  
+All right. How about for the, that was the fourth?
+
+**[03:26:10.870] Marwin L. Galvez**  
+Fifth.
+
+**[03:26:11.790] Atty. James Bryan Ibrahim A. Alih**  
+Fifth,
+
+**[03:26:12.190] Marwin L. Galvez**  
+that's the fifth.
+
+**[03:26:13.980] Atty. James Bryan Ibrahim A. Alih**  
+How about for the sixth, sir? Last digit 8095, what is the ending balance?
+
+**[03:26:19.980] Marwin L. Galvez**  
+The
+
+**[03:26:20.520] Marwin L. Galvez**  
+ending balance for that account is 2,144,957, Your Honor.
+
+**[03:26:27.500] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[03:26:28.240] Atty. James Bryan Ibrahim A. Alih**  
+I'm on to the last year, sir. For the first account with last digit 7742, what is the ending balance in the year 2025?
+
+**[03:26:43.090] Marwin L. Galvez**  
+The ending balance for the year 2025 is 3,228 pesos, Your Honor.
+
+**[03:26:50.740] Atty. James Bryan Ibrahim A. Alih**  
+Alright. How about for the bank account with last digit 6928? What is the ending balance?
+
+**[03:26:58.980] Marwin L. Galvez**  
+The ending balance for that account is 647,639 pesos, Your Honor.
+
+**[03:27:07.550] Atty. James Bryan Ibrahim A. Alih**  
+How about for the third branch or third account? With last digits 9539, what is the ending balance for 2025, please?
+
+**[03:27:20.380] Marwin L. Galvez**  
+The ending balance for said account is 1,296,236 pesos, Your Honor.
+
+**[03:27:29.620] Atty. James Bryan Ibrahim A. Alih**  
+I'm almost
+
+**[03:27:30.020] Atty. James Bryan Ibrahim A. Alih**  
+done, Sir Mau. For the account with last digit 9891, what is the ending balance for 2025?
+
+**[03:27:40.500] Marwin L. Galvez**  
+The ending balance for said account is 3,264,952 Pesos, Your Honor.
+
+**[03:27:50.280] Atty. James Bryan Ibrahim A. Alih**  
+How about for the fifth account with last digit 7455? What is the ending balance?
+
+**[03:27:57.460] Marwin L. Galvez**  
+The ending balance would be 1,263,470 Pesos, Your Honor.
+
+**[03:28:04.700] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[03:28:05.260] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Sir. And lastly for the bank account with last digits 8095. What is the ending balance for 2025?
+
+**[03:28:16.710] Marwin L. Galvez**  
+The ending balance for that account is 2,241,066 pesos, Your Honor.
+
+**[03:28:25.290] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Thank you, sir. So I'm done with the ending balance, sir. But I wanted to discuss more particularly a specific transaction that happened sometime in 2011, sir. And we have the records. which we will confront.
+
+**[03:28:43.670] Atty. Michael Wesley Poa**  
+Objection.
+
+**[03:28:45.350] Atty. James Bryan Ibrahim A. Alih**  
+Yes, sir.
+
+**[03:28:46.750] Atty. Michael Wesley Poa**  
+Objection, Your Honor. Again, if it's a 2011 transaction, it came way before the term of the Vice President and it's not covered under an impeachable offense, Your Honor.
+
+**[03:28:56.350] Sen. Francis "Chiz" G. Escudero**  
+We note that and the Court is not considering it as a separate article of impeachment nor as a separate act.
+
+**[03:29:27.810] Sen. Francis "Chiz" G. Escudero**  
+Thank you for
+
+**[03:29:28.970] Sen. Francis "Chiz" G. Escudero**  
+your
+
+**[03:29:29.690] Sen. Francis "Chiz" G. Escudero**  
+recommendation,
+
+**[03:29:30.250] Sen. Francis "Chiz" G. Escudero**  
+Attorney James.
+
+**[03:29:31.110] Atty. James Bryan Ibrahim A. Alih**  
+Thank you. Sir, I wanted to discuss a particular transaction involving two transactions. And this transaction happened in BPI Julia Vargas.
+
+**[03:29:45.430] Atty. James Bryan Ibrahim A. Alih**  
+And it involves a peso time deposit. Twice peso time deposit. I direct your attention, sir, to a peso time deposit certificate number 25.
+
+**[03:30:01.240] Atty. James Bryan Ibrahim A. Alih**  
+1407. Your Honor, I would ask the assisting counsel, Your Honor, to approach.
+
+**[03:30:07.410] Sen. Francis "Chiz" G. Escudero**  
+Continuing authority for the entire day is given to assisting counsels from both parties to approach the witness at any time they may deem it necessary.
+
+**[03:30:16.130] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Your Honor. Sir, I direct your attention to a peso time deposit certificate number 251407 with Time deposit number 002437-0258-11 which is part of our exhibits. Before anything else, sige sir, tignan niyo po muna. Okay, can I ask?
+
+**[03:30:43.380] Marwin L. Galvez**  
+Yes, yeah.
+
+**[03:30:44.120] Atty. James Bryan Ibrahim A. Alih**  
+So before anything else sir, what is a time deposit if you know?
+
+**[03:30:51.300] Marwin L. Galvez**  
+Your Honor, a time deposit is a type of deposit account with A principal amount, a fixed term, an interest rate, and a maturity date.
+
+**[03:31:05.320] Atty. James Bryan Ibrahim A. Alih**  
+Alright, thank you.
+
+**[03:31:06.600] Atty. James Bryan Ibrahim A. Alih**  
+And based on this document, what is the account name of the time deposit, sir?
+
+**[03:31:19.530] Marwin L. Galvez**  
+Based on the document we submitted to this honorable court, requested for by the subpoena, this time deposit account is under the name of Rodrigo Roa Duterte.
+
+**[03:31:32.560] Marwin L. Galvez**  
+Or Rodrigo Roa Duterte, and Zara Z. Duterte.
+
+**[03:31:36.620] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[03:31:39.480] Atty. James Bryan Ibrahim A. Alih**  
+And what is the principal amount of this time deposit?
+
+**[03:31:46.630] Marwin L. Galvez**  
+Principal amount for the time deposit is 40,650,000 pesos, Your Honor.
+
+**[03:31:55.170] Marwin L. Galvez**  
+40 million.
+
+**[03:31:56.050] Atty. James Bryan Ibrahim A. Alih**  
+Again, what is the date of this time deposit, sir? If you can see in the records.
+
+**[03:31:59.610] Marwin L. Galvez**  
+The
+
+**[03:31:59.970] Marwin L. Galvez**  
+opening date for this time deposit is January 22.
+
+**[03:32:10.240] Marwin L. Galvez**  
+Opening date is January 22, 2010.
+
+**[03:32:14.550] Atty. James Bryan Ibrahim A. Alih**  
+So 40 million in 2010.
+
+**[03:32:21.370] Atty. James Bryan Ibrahim A. Alih**  
+When we say principal amount sir, perhaps you can enlighten us as not everyone has the opportunity to apply or purchase a time deposit. When we say principal amount, in the context of a time deposit, what does this mean?
+
+**[03:32:38.760] Marwin L. Galvez**  
+A principal amount, Your Honor, refers to the initial amount deposited to that particular time deposit.
+
+**[03:32:46.340] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[03:32:47.180] Atty. James Bryan Ibrahim A. Alih**  
+And based on this document that you are looking at, it appears that in the lower portion, the principal amount or time deposit rolled over several times. To be exact, how many times did it roll over? If you can check the documents.
+
+**[03:33:18.170] Marwin L. Galvez**  
+Based on the document we submitted, I can count
+
+**[03:33:27.050] Marwin L. Galvez**  
+12 rollover periods, Your Honor.
+
+**[03:33:29.830] Atty. James Bryan Ibrahim A. Alih**  
+12 rollover periods. But to be clear, when you say rollover, what do you mean by this?
+
+**[03:33:37.470] Marwin L. Galvez**  
+When we say rollover, Your Honor, like for example, this time deposit is termed for 35 days. So as soon as the original maturity date ends, if the instruction of the client is to continue renewing the said time deposit, We will just roll over the principal amount. And if the instruction is to include the interest rate in the rollover, then we roll over the principal plus the interest
+
+**[03:34:08.250] Marwin L. Galvez**  
+for the
+
+**[03:34:09.110] Marwin L. Galvez**  
+last 35 days.
+
+**[03:34:10.430] Atty. James Bryan Ibrahim A. Alih**  
+So essentially sir, in layman's term, when you say rollover, it means you renew the time deposit.
+
+**[03:34:16.730] Marwin L. Galvez**  
+That's correct.
+
+**[03:34:17.910] Atty. James Bryan Ibrahim A. Alih**  
+And on the basis of the principal amount and succeeding renewal, we call that the rollover.
+
+**[03:34:23.690] Marwin L. Galvez**  
+That's correct.
+
+**[03:34:24.510] Atty. James Bryan Ibrahim A. Alih**  
+Perfect. And in that document, there is another important information. What is the settlement account of this time deposit?
+
+**[03:34:38.950] Marwin L. Galvez**  
+Based on the certificate of time deposit that we submitted, the identified settlement account number is 2433069539.
+
+**[03:34:57.100] Atty. James Bryan Ibrahim A. Alih**  
+Last digit sir is?
+
+**[03:35:01.290] Atty. James Bryan Ibrahim A. Alih**  
+9539.
+
+**[03:35:01.810] Marwin L. Galvez**  
+That's correct.
+
+**[03:35:02.590] Atty. James Bryan Ibrahim A. Alih**  
+And based on your record, sir, what branch is that?
+
+**[03:35:06.700] Marwin L. Galvez**  
+This is under Julia Vargas' account, Your Honor.
+
+**[03:35:11.240] Atty. James Bryan Ibrahim A. Alih**  
+Okay. The Julia Vargas branch. And under whose name is this account? Or what is the account name of this account?
+
+**[03:35:22.010] Marwin L. Galvez**  
+Can I
+
+**[03:35:22.750] Marwin L. Galvez**  
+confirm lang ang may record?
+
+**[03:35:24.350] Atty. James Bryan Ibrahim A. Alih**  
+Yes, please. Go ahead.
+
+**[03:35:34.310] Marwin L. Galvez**  
+For the account ending in 9539, the account is under the name Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Z Duterte.
+
+**[03:35:45.780] Atty. James Bryan Ibrahim A. Alih**  
+Alright. So you mentioned that the settlement account corresponds to the bank account with last digits 9539 or the Julia Vargas branch account. But allow me to backtrack a bit. When you say settlement account, what does this mean? In bank parlance.
+
+**[03:36:05.000] Marwin L. Galvez**  
+The settlement account in bank parlance, your honor, refers to the account where the proceeds and maturities are credited to or debited against in terms of rollovers.
+
+**[03:36:18.880] Atty. James Bryan Ibrahim A. Alih**  
+Okay, so allow me to tie this up, sir. So you mentioned that the principal amount based on your testimony is renewed 12 times, right?
+
+**[03:36:27.880] Marwin L. Galvez**  
+Yes, sir.
+
+**[03:36:28.900] Atty. James Bryan Ibrahim A. Alih**  
+Assuming that it was renewed 12 times, no, no, sorry. It is renewed 12 times. If it's not renewed, where will the proceeds go?
+
+**[03:36:37.240] Marwin L. Galvez**  
+The proceeds when a time deposit is matured goes to the settlement account. And
+
+**[03:36:43.440] Atty. James Bryan Ibrahim A. Alih**  
+the
+
+**[03:36:43.520] Atty. James Bryan Ibrahim A. Alih**  
+settlement account is the?
+
+**[03:36:46.080] Marwin L. Galvez**  
+The one ending in 9539. The Julia Vargas branch. That's correct, sir.
+
+**[03:36:54.370] Atty. James Bryan Ibrahim A. Alih**  
+Based on the document, sir, what is the date?
+
+**[03:36:59.880] Atty. James Bryan Ibrahim A. Alih**  
+Rather at the last, at the time of its last renewal?
+
+**[03:37:05.160] Marwin L. Galvez**  
+On February 11, 2011.
+
+**[03:37:07.980] Atty. James Bryan Ibrahim A. Alih**  
+How much now is the amount of the time deposit?
+
+**[03:37:20.750] Marwin L. Galvez**  
+Based
+
+**[03:37:41.320] Marwin L. Galvez**  
+on the last rollover, including interest rate, the final balance would be 41,721,035.42. I'm sorry, Your Honor, the... The number is not very clear.
+
+**[03:38:01.670] Atty. James Bryan Ibrahim A. Alih**  
+That's fine, sir. It's okay.
+
+**[03:38:02.890] Marwin L. Galvez**  
+I'm reading it based on how I can comprehend the numbers.
+
+**[03:38:05.650] Atty. James Bryan Ibrahim A. Alih**  
+And we appreciate it, sir. Alright, so that is the last time it was renewed. After that, what would happen to that amount as you testified a while ago?
+
+**[03:38:18.460] Marwin L. Galvez**  
+If a time deposit certificate matures and is no longer renewed, the proceeds of the matured time deposit is credited to the settlement account.
+
+**[03:38:27.380] Atty. James Bryan Ibrahim A. Alih**  
+And that
+
+**[03:38:27.620] Atty. James Bryan Ibrahim A. Alih**  
+was the
+
+**[03:38:27.920] Atty. James Bryan Ibrahim A. Alih**  
+Julia Vargas branch.
+
+**[03:38:29.020] Marwin L. Galvez**  
+That's correct, sir.
+
+**[03:38:30.460] Atty. James Bryan Ibrahim A. Alih**  
+Now, I direct your attention to page 3 of the same exhibit. There is a debit and credit memo pertaining to the time deposit account and settlement account.
+
+**[03:38:46.420] Atty. James Bryan Ibrahim A. Alih**  
+Could you perhaps elaborate to us what this Two documents mean? Because it pertains to the same transaction, sir.
+
+**[03:38:55.770] Atty. James Bryan Ibrahim A. Alih**  
+Okay, may I refer to the first.
+
+**[03:38:59.150] Marwin L. Galvez**  
+Based on the documents you're showing me, sir, these are actually two transaction documents.
+
+**[03:39:05.470] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Okay, so let's go with the debit memo first.
+
+**[03:39:11.300] Atty. James Bryan Ibrahim A. Alih**  
+The first document is a debit memo dated March 9, 2011. And when we say debit memo, ano pong ibig sabihin nun?
+
+**[03:39:25.530] Marwin L. Galvez**  
+Ang debit memo po is actually an advice to the client na meron pong nabawas sa account niya.
+
+**[03:39:31.890] Atty. James Bryan Ibrahim A. Alih**  
+At base po dyan sa debit memo, merong nabawas, saan pong account nabawas?
+
+**[03:39:38.390] Marwin L. Galvez**  
+Doon
+
+**[03:39:38.970] Marwin L. Galvez**  
+po sa debit memo, sir, ang account po na nabawasan ay with account number 2437.
+
+**[03:39:54.120] Marwin L. Galvez**  
+025811, which is the time deposit certificates.
+
+**[03:39:59.380] Atty. James Bryan Ibrahim A. Alih**  
+So nawala na yung time deposit. Sorry, sir. So nawala na yung time deposit. Gaya ng sabi niyo, yung debit memo informs the client na nabawasan na yung account niya in this particular transaction,
+
+**[03:40:14.200] Atty. James Bryan Ibrahim A. Alih**  
+yung time deposit. Puntaan natin yung credit memo. Saan na ngayon napunta? Based on the records, yung amount na nabanggit niyo kanina na mahigit 41 million pesos.
+
+**[03:40:27.170] Marwin L. Galvez**  
+Base po sa records na ipinadala po namin sa hukuman, ang account po na nag-mature sa time deposit ay pumasok po sa pamamaraang credit memo sa account number 2433.
+
+**[03:40:48.670] Marwin L. Galvez**  
+069539, your honor.
+
+**[03:40:50.290] Atty. James Bryan Ibrahim A. Alih**  
+So that is the Julia Vargas branch?
+
+**[03:40:52.230] Marwin L. Galvez**  
+That's correct, sir.
+
+**[03:40:53.450] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[03:40:58.260] Atty. James Bryan Ibrahim A. Alih**  
+And what is the date kung kailan pumasok ito doon sa Julia Vargas branch account?
+
+**[03:41:06.490] Marwin L. Galvez**  
+The credit memo stated March 9, 2011,
+
+**[03:41:12.580] Marwin L. Galvez**  
+your honor.
+
+**[03:41:13.140] Atty. James Bryan Ibrahim A. Alih**  
+Alright. And for the record, how much is the amount indicated in the credit memo of March 9, 2011?
+
+**[03:41:22.540] Marwin L. Galvez**  
+The amount indicated in the credit memo is 41,721,035.62 pesos.
+
+**[03:41:33.280] Atty. James Bryan Ibrahim A. Alih**  
+Sige sir. As I proceed sir, I would ask for your patience kasi balak kong habulin kung nasaan pupunta yung 40 something million na yan. So now I direct your attention to page 20 of the same exhibit. This reflects page 20. Go ahead, take your time, sir.
+
+**[03:42:11.220] Atty. James Bryan Ibrahim A. Alih**  
+Okay na, sir. Nakita niyo?
+
+**[03:42:12.900] Marwin L. Galvez**  
+Yes,
+
+**[03:42:13.360] Marwin L. Galvez**  
+sir.
+
+**[03:42:13.940] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[03:42:16.330] Atty. James Bryan Ibrahim A. Alih**  
+So, this pertains to, tama po ba? Debit credit memo yan?
+
+**[03:42:27.050] Marwin L. Galvez**  
+The upper portion of the page 20, your honor, pertains to a credit memo.
+
+**[03:42:33.790] Atty. James Bryan Ibrahim A. Alih**  
+Alright. And the lower portion? And the
+
+**[03:42:36.010] Marwin L. Galvez**  
+lower portion, if I can read it,
+
+**[03:42:42.640] Marwin L. Galvez**  
+medyo malabo po, but appears to be a debit
+
+**[03:42:47.360] Marwin L. Galvez**  
+memo, your honor.
+
+**[03:42:48.340] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[03:42:50.540] Atty. James Bryan Ibrahim A. Alih**  
+Sir, ano po yung date na nakasulat dyan sa documents na yan?
+
+**[03:43:02.180] Marwin L. Galvez**  
+March
+
+**[03:43:02.840] Marwin L. Galvez**  
+9, 2011.
+
+**[03:43:04.260] Atty. James Bryan Ibrahim A. Alih**  
+So, if I recall, you also mentioned a while ago na nakredit yung 41 million pabalik sa Julia Vargas branch nung March 9. And this credit-debit memo now is also March 9. Ano po yung binili gamit yung Kung titignan nyo yung sa debit and credit memo na yan.
+
+**[03:43:38.770] Marwin L. Galvez**  
+Basi po sa credit memo, ang credit memo po pertains to the amount credited to the manager's check settlement account
+
+**[03:43:52.070] Marwin L. Galvez**  
+po ng bangko.
+
+**[03:43:53.650] Atty. James Bryan Ibrahim A. Alih**  
+Alright, so from time deposit, on the same date, binalik, March 9 din po, no? Tapos ngayon, bumili ng manager's check. Sige, susundan pa rin po natin yan, sir. How much po yung amount ng manager's check?
+
+**[03:44:10.530] Marwin L. Galvez**  
+The amount of the manager's check is 41,721,035.62,
+
+**[03:44:20.710] Marwin L. Galvez**  
+Your Honor.
+
+**[03:44:21.390] Atty. James Bryan Ibrahim A. Alih**  
+Sige. But before proceeding, perhaps it's good to understand ano po ba yung manager's check especially for, again, most of us hindi pa nakakabili ng manager's check. Ano po ba ang manager's check base po sa alam niyo?
+
+**[03:44:34.690] Marwin L. Galvez**  
+Ang manager's check po, your honor, ay checking issued po ng bangko. So ang obligasyon po ng pagbayad ng manager's check ay borne by the bank.
+
+**[03:44:47.090] Atty. James Bryan Ibrahim A. Alih**  
+When
+
+**[03:44:47.530] Atty. James Bryan Ibrahim A. Alih**  
+you say borne by the bank, yung bank yung naggagarantee na babayaran nila yun?
+
+**[03:44:51.830] Marwin L. Galvez**  
+That's correct.
+
+**[03:44:52.570] Atty. James Bryan Ibrahim A. Alih**  
+And is it fair to say that it's also good as cash?
+
+**[03:44:55.750] Marwin L. Galvez**  
+You can say that's good as cash, your honor, because... A manager's check is properly funded by the source payment. Hindi
+
+**[03:45:04.310] Atty. James Bryan Ibrahim A. Alih**  
+naman kasi nalulugi yung BPI, sir. Kaya laging may... Anyway, sir, again, now I direct you to...
+
+**[03:45:15.420] Atty. James Bryan Ibrahim A. Alih**  
+Before that, what is the period of validity of a manager's check?
+
+**[03:45:19.880] Marwin L. Galvez**  
+Six months po.
+
+**[03:45:20.920] Atty. James Bryan Ibrahim A. Alih**  
+Six months. So, what happens if the manager's check is unutilized within six months?
+
+**[03:45:28.540] Marwin L. Galvez**  
+When you say unutilized,
+
+**[03:45:30.400] Marwin L. Galvez**  
+your honor, ibig sabihin hindi po siya nagamit.
+
+**[03:45:32.460] Atty. James Bryan Ibrahim A. Alih**  
+Hindi nagamit.
+
+**[03:45:33.040] Marwin L. Galvez**  
+So, depende po sa sitwasyon, your honor.
+
+**[03:45:38.400] Atty. James Bryan Ibrahim A. Alih**  
+Sige po. Paki
+
+**[03:45:39.780] Atty. James Bryan Ibrahim A. Alih**  
+-explain
+
+**[03:45:40.320] Atty. James Bryan Ibrahim A. Alih**  
+kung anong
+
+**[03:45:40.600] Atty. James Bryan Ibrahim A. Alih**  
+mga sitwasyon po na yan.
+
+**[03:45:43.190] Marwin L. Galvez**  
+Pag lumagpas po ng six months ng hindi nagagamit, yung PAE po, kung kanino po nakapangalan yung manager's check, nasa disisyon po ng PAE kung nasa kanya na po ang posisyon ng manager's check. Pwede pong ang manager's check na binili ay nasa posisyon ng either the account holder or the payee named in the manager's check. So pwede pong ang kliyente kung saan galing ang pondo na pinambili sa manager's check. Kung hindi niya na po gagamitin yung manager's check,
+
+**[03:46:19.950] Marwin L. Galvez**  
+pwede
+
+**[03:46:20.670] Marwin L. Galvez**  
+niya pong i-request na ibalik po ito sa pinanggalingan na account.
+
+**[03:46:24.810] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Doon po sa manager's check, based po sa document, kanino po nakapangalan yung manager's check, sir?
+
+**[03:47:07.260] Marwin L. Galvez**  
+Sir, can
+
+**[03:47:08.040] Marwin L. Galvez**  
+you help me point to the right document?
+
+**[03:47:11.140] Atty. James Bryan Ibrahim A. Alih**  
+Yes, sir. Doon po sa credit memo, tignan niyo po yung credit memo niyo doon sa March 9 document niyo kung saan indicated yung manager's check.
+
+**[03:47:23.320] Atty. James Bryan Ibrahim A. Alih**  
+That's MC12380 if I got it right. Kanino po nakapangalan yan?
+
+**[03:47:32.490] Atty. Michael Wesley Poa**  
+Your Honor, excuse me with due indulgence. May we just get the marking, the exhibit number, Your Honor, for reference?
+
+**[03:47:42.410] Atty. James Bryan Ibrahim A. Alih**  
+Yes, sir.
+
+**[03:47:43.870] Sen. Francis "Chiz" G. Escudero**  
+Kindly give the exhibit marking.
+
+**[03:47:47.530] Atty. James Bryan Ibrahim A. Alih**  
+It's P Roman numeral 2-8-2-3-1-3 for the record, Your Honor.
+
+**[03:47:59.400] Atty. Michael Wesley Poa**  
+And page number, Your Honor?
+
+**[03:48:01.560] Atty. James Bryan Ibrahim A. Alih**  
+I've mentioned the page number.
+
+**[03:48:03.240] Atty. Michael Wesley Poa**  
+Page 9?
+
+**[03:48:05.150] Atty. James Bryan Ibrahim A. Alih**  
+Page 20.
+
+**[03:48:07.120] Atty. Michael Wesley Poa**  
+20. Thank you, Your Honor.
+
+**[03:48:08.580] Atty. Michael Wesley Poa**  
+Thank you, opposing counsel.
+
+**[03:48:10.540] Atty. James Bryan Ibrahim A. Alih**  
+Anyway,
+
+**[03:48:13.290] Atty. James Bryan Ibrahim A. Alih**  
+sir, balikan na lang po natin yung ano na yan.
+
+**[03:48:18.200] Atty. James Bryan Ibrahim A. Alih**  
+Now, I direct you to your attention to page 28 of the same exhibit that I've mentioned just a few seconds ago involving another credit and debit memo. This time dated October 20, 2011. Yung una po, March, ano nga po ulit yun? March 9, tama po?
+
+**[03:48:39.210] Marwin L. Galvez**  
+March 9,
+
+**[03:48:39.730] Marwin L. Galvez**  
+if I can recall correctly.
+
+**[03:48:41.930] Atty. James Bryan Ibrahim A. Alih**  
+Incidentally, sir, ano yung month, 6 months after March?
+
+**[03:48:47.820] Atty. James Bryan Ibrahim A. Alih**  
+That's April, May, June, July, August, September. So, kung na-purchase po siya ng March, magmamature, maglalapse po in 6 months. So, April, May, June, July, August, September.
+
+**[03:49:04.180] Atty. James Bryan Ibrahim A. Alih**  
+Okay. So, by October, Wala na pong, stale na siya.
+
+**[03:49:08.460] Marwin L. Galvez**  
+Stale na po siya.
+
+**[03:49:09.700] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Now, I direct your attention to page 28 of the same exhibit.
+
+**[03:49:17.240] Atty. James Bryan Ibrahim A. Alih**  
+Again, it's another credit and debit memo. This time, it's October 20, 2011.
+
+**[03:49:24.570] Atty. James Bryan Ibrahim A. Alih**  
+In these documents, it reflects another application or purchase of a manager's check.
+
+**[03:49:31.560] Atty. James Bryan Ibrahim A. Alih**  
+Magkano po yung value nung purchase ng manager's check?
+
+**[03:49:38.640] Atty. James Bryan Ibrahim A. Alih**  
+6 months after.
+
+**[03:49:42.660] Marwin L. Galvez**  
+Sir, if you're referring to the document dated October 20, 2011, showing the debit memo and credit memo, tama po ba yan, sir?
+
+**[03:49:52.360] Atty. James Bryan Ibrahim A. Alih**  
+Yes, sir.
+
+**[03:49:53.760] Marwin L. Galvez**  
+Yung debit memo po, ang nakalagay po na amount is 41,721,037.12.
+
+**[03:50:03.980] Atty. James Bryan Ibrahim A. Alih**  
+At yung sa credit?
+
+**[03:50:07.010] Marwin L. Galvez**  
+Credit memo to the manager's check account of BPI po. Ang amount po ay 41,721,035.62.
+
+**[03:50:18.570] Atty. James Bryan Ibrahim A. Alih**  
+So, again, Mr. Witness, it's the same amount from the first manager's check six months prior. Tama po ba?
+
+**[03:50:26.680] Marwin L. Galvez**  
+It appears po based
+
+**[03:50:28.000] Atty. James Bryan Ibrahim A. Alih**  
+on the document. Susundan pa rin natin yan, sir. Now, I direct you to page 27 of the same exhibit. showing the resulting MC with manager's check number 12380. Nakikita niyo po sir?
+
+**[03:50:47.250] Atty. James Bryan Ibrahim A. Alih**  
+12380, page 27. Okay po. So yan yung resulting check nung binabanggit niyo kanina na second na manager's check for the same amount. Across the face of the check, there is a word unutilized. Again, what does this mean?
+
+**[03:51:07.450] Marwin L. Galvez**  
+Base po sa sinabi ko kanina, unutilized po ang ibig sabihin ay hindi po siya nagamit yung manager's check for its intended purpose.
+
+**[03:51:18.330] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[03:51:19.270] Atty. James Bryan Ibrahim A. Alih**  
+Sige, fast forward ulit tayo sir. 6 months naman ulit. I direct your attention to page 29 of the same exhibit. Again, ito na naman siya. Credit and debit memo reflecting an application or purchase of another manager's check. How much again is the amount sought to be purchased as manager's check? Your Honor.
+
+**[03:51:42.700] Atty. Michael Wesley Poa**  
+Yes. We'd have to object at this point on the ground of relevance, Your Honor, because
+
+**[03:51:48.800] Atty. Michael Wesley Poa**  
+I've
+
+**[03:51:50.220] Atty. Michael Wesley Poa**  
+been giving a lot of time to opposing counsel as a sign of respect.
+
+**[03:51:53.640] Sen. Francis "Chiz" G. Escudero**  
+You have a longer patience than I do, Attorney Mark. Yes, counsel, where is this leading to?
+
+**[03:52:01.240] Atty. James Bryan Ibrahim A. Alih**  
+If I may explain, Your Honor.
+
+**[03:52:02.260] Sen. Francis "Chiz" G. Escudero**  
+Forgive me, this is 2011 and not covered. Unless you will Trace it all up to 2022. Where is this leading to, counsel?
+
+**[03:52:12.310] Atty. James Bryan Ibrahim A. Alih**  
+That's precisely what I'm trying to do and I beg your patience, your honor. We're looking at a transaction way back 2011 that moved around for three or four years and eventually this would, without preempting the later, we will attempt to show your honor that later this amount, there is this 41 million Tapos meron pa pong 55 million. At at some point, magsasama po, we will try to prove that, Your Honor, magsasama sila ulit sa Julia Vargas branch, and they will use this to purchase several insurance policies for the same amount, Your Honor.
+
+**[03:52:47.160] Sen. Francis "Chiz" G. Escudero**  
+The point being, counsel, forgive me, you are trying to explain the source of the insurance policies bought? Not...
+
+**[03:52:59.430] Sen. Francis "Chiz" G. Escudero**  
+So
+
+**[03:53:00.010] Sen. Francis "Chiz" G. Escudero**  
+then that'd be the job of the respondent if at all.
+
+**[03:53:04.640] Sen. Francis "Chiz" G. Escudero**  
+And number two, counsel, each
+
+**[03:53:12.670] Sen. Francis "Chiz" G. Escudero**  
+transaction may be, of course the witness will not answer, may be included as a CTR or STR.
+
+**[03:53:31.050] Sen. Francis "Chiz" G. Escudero**  
+At sa dami ng sinasabi mong transaction,
+
+**[03:53:36.600] Sen. Francis "Chiz" G. Escudero**  
+I guess, again, that's the job of the respondent. But, yes, Senator Judge Lacson, please.
+
+**[03:53:45.860] Sen. Francis "Chiz" G. Escudero**  
+What
+
+**[03:53:46.300] Sen. Francis "Chiz" G. Escudero**  
+is your pleasure, sir?
+
+**[03:53:47.240] Sen. Panfilo “Ping” M. Lacson**  
+Without preventing the prosecution panel, may I venture a guess kung saan papunta? You're trying to establish a pattern?
+
+**[03:53:55.130] Atty. James Bryan Ibrahim A. Alih**  
+Yes, sir. That's exactly what we're
+
+**[03:53:56.650] Atty. James Bryan Ibrahim A. Alih**  
+trying to do.
+
+**[03:53:56.770] Sen. Panfilo “Ping” M. Lacson**  
+Aim at approving concealment?
+
+**[03:53:58.570] Atty. James Bryan Ibrahim A. Alih**  
+Yes, sir. Thank
+
+**[03:53:59.570] Sen. Panfilo “Ping” M. Lacson**  
+you.
+
+**[03:54:01.110] Atty. James Bryan Ibrahim A. Alih**  
+If I can, Your Honor, I can.
+
+**[03:54:02.550] Sen. Francis "Chiz" G. Escudero**  
+Please, Attorney James.
+
+**[03:54:03.850] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. That's what we're trying to say, Your Honor. We wanted to establish a pattern. An apology is that it takes quite some time because I wanted to do it right with the documents. But ang punto lang naman po eventually is that yung manager's check na pinapaikot hindi nakikita sa year-end balance kasi naka-float yung pera na yun. So yun lang naman po yung sanang gusto namin i-establish as a baseline.
+
+**[03:54:27.890] Atty. James Bryan Ibrahim A. Alih**  
+Yung manager's
+
+**[03:54:28.930] Atty. James Bryan Ibrahim A. Alih**  
+check na pinapaikot hindi nakikita. Sa year
+
+**[03:54:33.940] Atty. James Bryan Ibrahim A. Alih**  
+-end balancer kasi naka-float po siya.
+
+**[03:54:36.980] Sen. Panfilo “Ping” M. Lacson**  
+So I have a question for you, Mr. Mau. How would you classify a time deposit?
+
+**[03:54:43.380] Sen. Francis "Chiz" G. Escudero**  
+Is it included in the account of the account holder? Kung and or yan, dapat kasama yan sa account ng may-ari nung time deposit?
+
+**[03:54:59.300] Sen. Francis "Chiz" G. Escudero**  
+Paano siya naka-float? Hiwalay ba yan sa savings at checking account? Account Holder.
+
+**[03:55:05.050] Marwin L. Galvez**  
+Your Honor, may I clarify, you're referring to the time deposit po?
+
+**[03:55:09.850] Sen. Francis "Chiz" G. Escudero**  
+Yes, time deposit muna tayo.
+
+**[03:55:11.290] Marwin L. Galvez**  
+Pag time deposit po, kasama po siya sa total balance.
+
+**[03:55:15.310] Sen. Francis "Chiz" G. Escudero**  
+Ngayon, yung manager's check na in-issue, sabi mo kanina debit, credit, na debit dun sa time deposit pero na credit sa settlement account, mawawala ba yun sa account ng account holder? o nasa account pa rin ngayon. Simply backed up or guaranteed by the bank that there's cash backing it up.
+
+**[03:55:39.340] Marwin L. Galvez**  
+Yung pong proceeds ng matured time deposit, Your Honor, pumapasok po sa settlement account ng
+
+**[03:55:46.760] Marwin L. Galvez**  
+cliente rin po.
+
+**[03:55:47.580] Sen. Francis "Chiz" G. Escudero**  
+At pag na-issue nyo ng MC, lalabas ba yun sa account? Hindi na siya kasama nung account? O kasama pa rin siya nung account hanggat hindi in-encash yung MC?
+
+**[03:55:58.970] Marwin L. Galvez**  
+For that question, Your Honor, kapag dinebit po, or tinanggal sa account po ng kliyente, babawas po siya sa
+
+**[03:56:06.170] Marwin L. Galvez**  
+balance.
+
+**[03:56:06.270] Sen. Francis "Chiz" G. Escudero**  
+Sir, sir, sir, dinanggal nyo sa account ng time deposit ng kliyente?
+
+**[03:56:10.130] Marwin L. Galvez**  
+Tama po, your honor.
+
+**[03:56:11.410] Sen. Francis "Chiz" G. Escudero**  
+So kinreddit nyo sa settlement account ng kliyente?
+
+**[03:56:14.550] Marwin L. Galvez**  
+That's correct po, your honor.
+
+**[03:56:15.550] Sen. Francis "Chiz" G. Escudero**  
+Pag nag-issue po ba kayo ng time deposit, ibabawas nyo na yan sa settlement account ng kliyente?
+
+**[03:56:21.470] Marwin L. Galvez**  
+Yes po, your honor. Pag nag-issue po ng time deposit certificate,
+
+**[03:56:26.270] Sen. Francis "Chiz" G. Escudero**  
+Hindi po, MC.
+
+**[03:56:27.110] Marwin L. Galvez**  
+Ah, pag MC po. That's correct po, your honor. Babawas na yun. Babawas po siya sa account, your honor, because kailangan po naming pondohan yung manager's check.
+
+**[03:56:35.530] Sen. Francis "Chiz" G. Escudero**  
+Kahit hindi pa actually ginagamit.
+
+**[03:56:39.520] Marwin L. Galvez**  
+Hindi po kami makakapag-issue, your honor, ng manager's check ng walang kabanggang pambayad po.
+
+**[03:56:45.380] Sen. Francis "Chiz" G. Escudero**  
+So, pag nag-issue kayo ng MC, binawas nyo na sa account yun?
+
+**[03:56:49.400] Marwin L. Galvez**  
+That is correct po, your honor. From the account of the purchaser po.
+
+**[03:56:53.760] Sen. Francis "Chiz" G. Escudero**  
+Hawak na nung bangko yung pera.
+
+**[03:56:57.490] Marwin L. Galvez**  
+Yung pong balansi po na binawas sa account po nang bumili ng manager's check po, yung balansi po nun, nasa settlement account po ng bangko. Settlement account po ng manager's check, your honor.
+
+**[03:57:12.010] Sen. Francis "Chiz" G. Escudero**  
+So hiwalay na account na yun?
+
+**[03:57:13.410] Marwin L. Galvez**  
+Yes po.
+
+**[03:57:13.890] Marwin L. Galvez**  
+Parang isipin niyo po yung manager's check settlement account ng bangko ay parang isa pong live account po yan kung saan po pumapasok.
+
+**[03:57:27.340] Sen. Francis "Chiz" G. Escudero**  
+So pag nag-issue
+
+**[03:57:31.220] Sen. Francis "Chiz" G. Escudero**  
+ng MC, mapupunta sa parang limbo ngayon na tinatawag mong settlement account of the bank, not of the account holder.
+
+**[03:57:53.470] Sen. Francis "Chiz" G. Escudero**  
+Ngayon, pag nag-lapse yung MC, babalik ba yun sa account o hindi?
+
+**[03:57:57.890] Marwin L. Galvez**  
+Hanggat hindi po ibinabalik sa amin ng purchaser po or in the case po of the payee, yung original, hindi po siya bumabalik sa account po ng bumili po ng
+
+**[03:58:10.190] Marwin L. Galvez**  
+manager's check.
+
+**[03:58:10.650] Sen. Francis "Chiz" G. Escudero**  
+Ngayon, pag binalik sa inyo dahil hindi pa nagamit, nagpa-issue ng bago, babalik ba yun sa settlement account na account holder o hindi na?
+
+**[03:58:18.670] Marwin L. Galvez**  
+Tama po, Your Honor. Ang proseso po is kapag ibinalik po ang manager's check, At ipapasok na po namin yung amount na nakalagay sa manager's check pabalik po dun sa nag-purchase ng MC, Your Honor.
+
+**[03:58:36.700] Sen. Francis "Chiz" G. Escudero**  
+Pabalik, tapos pag nag-issue kayo ng MC, babawas ulit, nalagay na naman settlement account ng banko?
+
+**[03:58:41.260] Marwin L. Galvez**  
+Tama po yun, Your
+
+**[03:58:42.080] Marwin L. Galvez**  
+Honor.
+
+**[03:58:42.120] Sen. Francis "Chiz" G. Escudero**  
+Now, each of these are separate transactions of the account holder?
+
+**[03:58:45.960] Marwin L. Galvez**  
+That is correct po, Your Honor.
+
+**[03:58:47.640] Sen. Francis "Chiz" G. Escudero**  
+Okay. Forgive me, Atty. Mike, we'll allow it at this time. Hopefully, you can go direct to the point, Atty. James. I know it's laborious but
+
+**[03:59:00.250] Sen. Francis "Chiz" G. Escudero**  
+let's
+
+**[03:59:01.430] Sen. Francis "Chiz" G. Escudero**  
+try to go through this. I
+
+**[03:59:02.710] Atty. James Bryan Ibrahim A. Alih**  
+apologize, Your Honor. It's really that complicated. That's why I had to go through the difficulty of checking every document in order to be accurate. But I guess, given that there was already a clarification on that matter, Your Honor, and to save the court's time, I would move on from that 41 million, Your Honor. And because this is already part of the record so that I don't have to go through this, Your Honor, a similar time deposit that became an MC in the amount of 55 million was also running the same years simultaneous with this 41. So it's a total of 96 million. And I would dispense, Your Honor, with having to go through that, Your Honor.
+
+**[03:59:50.060] Sen. Francis "Chiz" G. Escudero**  
+The Clerk
+
+**[03:59:50.980] Sen. Francis "Chiz" G. Escudero**  
+of Court can call it. Yes, Senator Judge Bam Aquino is recognized.
+
+**[03:59:56.780] Sen. Francis "Chiz" G. Escudero**  
+What is the pleasure of Senator Aquino?
+
+**[04:00:00.000] Sen. Paolo Benigno “Bam” Aquino**  
+Mr. Witness, yung ibang mga abogado ko tsaka ako kami rin dito naguusap. Ngayon lang namin alaman na may ganyang parang scheme na pwedeng itago. Is this known in the banking circles that you can get your money, put it in an MC, wala siya sa ending balance, tapos after six months babalik rin siya. Is this a known scheme in the banking circles or is this also new to you?
+
+**[04:00:27.400] Marwin L. Galvez**  
+Your Honor, if I may answer that po, kapag bumili po ang kliyente ng manager's check, kasama po sa application form po namin yung reason for the purchase of the manager's check. In my experience po sa branch banking operations, may mga nangyayari po talaga na ang biniling manager's check po ay hindi po nagamit. Kaya po ito nire-request na ibalik po sa account ng purchaser. And this is not uncommon po, Your Honor.
+
+**[04:00:59.210] Sen. Paolo Benigno “Bam” Aquino**  
+But is this a known method of keeping your money?
+
+**[04:01:08.030] Sen. Paolo Benigno “Bam” Aquino**  
+May term ba ito sa banking circles?
+
+**[04:01:12.630] Sen. Paolo Benigno “Bam” Aquino**  
+So common ito?
+
+**[04:01:14.330] Marwin L. Galvez**  
+Sir, I only pertain po dun sa manner by which Yung pagpasok po at paglabas ng pera from the manager's settlement account. Kung ano po yung purpose ng kliyente sa paggawa niya ng pag-request ng manager's check at pagbalik po. With all due respect, your honor, I cannot comment on that.
+
+**[04:01:37.060] Sen. Paolo Benigno “Bam” Aquino**  
+Okay, is there, is the purpose there in your records? May nakalagay ba na purpose dyan?
+
+**[04:01:41.560] Marwin L. Galvez**  
+I will have to...
+
+**[04:01:43.300] Sen. Paolo Benigno “Bam” Aquino**  
+Naka
+
+**[04:01:47.710] Sen. Paolo Benigno “Bam” Aquino**  
+-annotate ba yan dyan? And is that violative of any rule? If you will read it to us.
+
+**[04:01:52.990] Marwin L. Galvez**  
+Your Honor, if I can look at one document, if I may.
+
+**[04:02:02.500] Atty. James Bryan Ibrahim A. Alih**  
+Anin to yung hinanap
+
+**[04:02:03.520] Atty. James Bryan Ibrahim A. Alih**  
+niyo?
+
+**[04:02:04.440] Marwin L. Galvez**  
+Your Honor po is asking for a manager's check application.
+
+**[04:02:07.800] Atty. James Bryan Ibrahim A. Alih**  
+Yes,
+
+**[04:02:08.260] Atty. James Bryan Ibrahim A. Alih**  
+sir.
+
+**[04:02:09.100] Atty. James Bryan Ibrahim A. Alih**  
+Kindly go to page 7.
+
+**[04:02:17.610] Sen. Paolo Benigno “Bam” Aquino**  
+Page 7,
+
+**[04:02:20.500] Atty. James Bryan Ibrahim A. Alih**  
+there's a manager's check there. With MC 13434.
+
+**[04:02:30.410] Atty. James Bryan Ibrahim A. Alih**  
+1343.
+
+**[04:02:32.630] Atty. James Bryan Ibrahim A. Alih**  
+13434.
+
+**[04:02:33.550] Marwin L. Galvez**  
+Sorry, putol po yung kakopya.
+
+**[04:02:38.840] Sen. Paolo Benigno “Bam” Aquino**  
+So our records do not indicate ano yung purpose?
+
+**[04:02:41.520] Marwin L. Galvez**  
+No, Your Honor.
+
+**[04:02:42.580] Sen. Paolo Benigno “Bam” Aquino**  
+That's fine. Sige, Mr. Witness. So ito pong practice na ito is common.
+
+**[04:02:50.480] Sen. Paolo Benigno “Bam” Aquino**  
+Hindi din naman ito iligal, di ba? Hindi din naman ito iligal.
+
+**[04:02:52.640] Marwin L. Galvez**  
+Meron
+
+**[04:02:52.960] Marwin L. Galvez**  
+pong mga nangyayari talaga, Your Honor, na may mga bumibili po ng manager's check. At hindi po nagagamit yung MC.
+
+**[04:03:17.600] Sen. Paolo Benigno “Bam” Aquino**  
+by people in the banking industry.
+
+**[04:03:19.620] Marwin L. Galvez**  
+Your Honor, as to purposely being done po, I cannot comment on that.
+
+**[04:03:24.880] Sen. Paolo Benigno “Bam” Aquino**  
+Sorry, not on this particular case, but in general, is it something that's done?
+
+**[04:03:30.680] Marwin L. Galvez**  
+Hindi ko po masasagot, Your Honor. Paumanhin po kung yung iba pong kliyente, purposely ginagawa po nilang bumili ng manager's check. Para ibalik po ulit after six months.
+
+**[04:04:07.760] Sen. Francis "Chiz" G. Escudero**  
+Respect that with the indulgence of Senator Judge Pangilinan. So, can you continue with the direct examination of Attorney James? You may continue,
+
+**[04:04:14.640] Sen. Francis "Chiz" G. Escudero**  
+Attorney
+
+**[04:04:14.780] Sen. Francis "Chiz" G. Escudero**  
+James.
+
+**[04:04:15.100] Atty. James Bryan Ibrahim A. Alih**  
+Given the discussion, sir, I do not want to belabor this point. So, I'll just ask another question. Do you have here the manager's check in front of you?
+
+**[04:04:24.620] Marwin L. Galvez**  
+Yung pong page 7.
+
+**[04:04:27.500] Atty. James Bryan Ibrahim A. Alih**  
+Opo.
+
+**[04:04:28.020] Marwin L. Galvez**  
+Is that the one you're referring to?
+
+**[04:04:29.100] Atty. James Bryan Ibrahim A. Alih**  
+May manager's check po ba?
+
+**[04:04:30.680] Marwin L. Galvez**  
+Meron po.
+
+**[04:04:31.400] Atty. James Bryan Ibrahim A. Alih**  
+Sino po yung pay nung manager's check?
+
+**[04:04:33.880] Marwin L. Galvez**  
+Payee po, based on page 7 po, for manager check dated April 19, 2012. Tama po ba, sir?
+
+**[04:04:40.660] Marwin L. Galvez**  
+Ang
+
+**[04:04:41.180] Marwin L. Galvez**  
+payee po is si Rodrigo Roa Duterte.
+
+**[04:04:44.740] Atty. James Bryan Ibrahim A. Alih**  
+Yeah, but based on your credit debit memo kanina, that came from the account, Julia Vargas' account, which you confirmed a while ago, is under the name of VP Sara and Rodrigo Roa Duterte. That
+
+**[04:04:59.980] Marwin L. Galvez**  
+is correct po.
+
+**[04:05:01.200] Atty. James Bryan Ibrahim A. Alih**  
+That's fine. You're based on the records. That's
+
+**[04:05:03.080] Atty. James Bryan Ibrahim A. Alih**  
+fine. Okay. I think I'll leave that.
+
+**[04:05:13.630] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Sige, sir.
+
+**[04:05:20.120] Atty. James Bryan Ibrahim A. Alih**  
+Please go to, let me see.
+
+**[04:05:25.700] Atty. James Bryan Ibrahim A. Alih**  
+Please go to page 64, sir.
+
+**[04:05:31.270] Atty. James Bryan Ibrahim A. Alih**  
+Of the same exhibit.
+
+**[04:05:39.970] Atty. James Bryan Ibrahim A. Alih**  
+There is another MC there, right?
+
+**[04:05:42.430] Marwin L. Galvez**  
+That is correct, sir.
+
+**[04:05:43.850] Atty. James Bryan Ibrahim A. Alih**  
+And
+
+**[04:05:44.370] Atty. James Bryan Ibrahim A. Alih**  
+that is dated October 17? Tama po ba?
+
+**[04:05:47.760] Marwin L. Galvez**  
+October 17, 2012,
+
+**[04:05:51.500] Marwin L. Galvez**  
+your honor.
+
+**[04:05:52.020] Atty. James Bryan Ibrahim A. Alih**  
+And what is the amount?
+
+**[04:05:54.210] Marwin L. Galvez**  
+The
+
+**[04:05:54.730] Marwin L. Galvez**  
+amount is 41,721,035.62.
+
+**[04:06:00.710] Atty. James Bryan Ibrahim A. Alih**  
+So it's the same amount, okay.
+
+**[04:06:07.710] Atty. James Bryan Ibrahim A. Alih**  
+Please go to page 40 of the same exhibit, sir.
+
+**[04:06:25.300] Atty. James Bryan Ibrahim A. Alih**  
+Alright, so it's another manager's check, is that right?
+
+**[04:06:29.790] Marwin L. Galvez**  
+That's correct, sir.
+
+**[04:06:31.740] Atty. James Bryan Ibrahim A. Alih**  
+And how much again is that amount?
+
+**[04:06:36.490] Marwin L. Galvez**  
+Sir, if you're referring to the manager's check dated October 7, 2013.
+
+**[04:06:40.950] Atty. James Bryan Ibrahim A. Alih**  
+That's right, sir.
+
+**[04:06:41.770] Marwin L. Galvez**  
+Ang amount po ay 41,721,035.62.
+
+**[04:06:48.890] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[04:06:54.560] Atty. James Bryan Ibrahim A. Alih**  
+At kanino po nakapangalan yan ulit?
+
+**[04:06:57.510] Marwin L. Galvez**  
+Paid to the order of Rodrigo Roa, Duterte po, Your Honor.
+
+**[04:07:00.830] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[04:07:04.090] Atty. James Bryan Ibrahim A. Alih**  
+Sige, sir.
+
+**[04:07:06.190] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[04:07:15.370] Atty. James Bryan Ibrahim A. Alih**  
+As a final note on this point, sir, because I... I would also like to save time given the discussions a while ago. I would not go through the same process just to check and confirm again the other 55 million. My question is this. In the account where this came from, what I mean is that the amount where it was sourced is
+
+**[04:07:49.090] Atty. James Bryan Ibrahim A. Alih**  
+Account numbers 9539. What again is the account name of that bank account?
+
+**[04:07:57.350] Atty. Michael Wesley Poa**  
+As an answer,
+
+**[04:07:58.070] Atty. Michael Wesley Poa**  
+Your Honor.
+
+**[04:07:58.450] Atty. James Bryan Ibrahim A. Alih**  
+Just final note, if given some leeway wrong.
+
+**[04:08:00.900] Atty. Michael Wesley Poa**  
+As an answer, Your Honor.
+
+**[04:08:03.160] Sen. Francis "Chiz" G. Escudero**  
+As an answer, counsel, I can even remember how it is written with the different ors and the ends.
+
+**[04:08:10.380] Sen. Francis "Chiz" G. Escudero**  
+Move on, counsel. It is off record already.
+
+**[04:08:13.040] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Your Honor. We submit. All right, sir. Now, I direct you to...
+
+**[04:08:24.060] Atty. James Bryan Ibrahim A. Alih**  
+Apologies, Your Honor. I'm wrestling with the idea of ending. Sir,
+
+**[04:08:31.210] Atty. James Bryan Ibrahim A. Alih**  
+are you in the position to confirm to this honorable court whether BPI maintains foreign bank accounts under
+
+**[04:08:45.190] Atty. James Bryan Ibrahim A. Alih**  
+the names of the Vice President?
+
+**[04:08:47.990] Atty. Michael Wesley Poa**  
+Objection, Your Honor. Again.
+
+**[04:08:51.660] Sen. Francis "Chiz" G. Escudero**  
+Sustained not part of the subpoena issued by this court and covered by the FCDU law.
+
+**[04:08:57.520] Atty. James Bryan Ibrahim A. Alih**  
+Noted, Your Honor. We submit.
+
+**[04:09:04.340] Atty. James Bryan Ibrahim A. Alih**  
+Sir, now I want to go to page 8. And this is the last question.
+
+**[04:09:13.990] Atty. James Bryan Ibrahim A. Alih**  
+If you can just look at page 8, page 11, page 14, and
+
+**[04:09:23.620] Atty. James Bryan Ibrahim A. Alih**  
+page 13 of
+
+**[04:09:27.720] Atty. James Bryan Ibrahim A. Alih**  
+the same exhibit.
+
+**[04:09:29.340] Atty. James Bryan Ibrahim A. Alih**  
+Let me know, sir, if you have that already with you.
+
+**[04:09:32.300] Atty. James Bryan Ibrahim A. Alih**  
+Page 8, 11, 13.
+
+**[04:09:35.200] Sen. Francis "Chiz" G. Escudero**  
+And 14.
+
+**[04:09:37.590] Atty. James Bryan Ibrahim A. Alih**  
+So I'm asking this because... That's correct.
+
+**[04:09:41.510] Marwin L. Galvez**  
+Yes. I have it here, Your Honor.
+
+**[04:09:43.260] Atty. James Bryan Ibrahim A. Alih**  
+So looking at this document, sir, and this is... What is the date of this document?
+
+**[04:09:51.040] Marwin L. Galvez**  
+Referring to which page, Your Honor?
+
+**[04:09:53.540] Atty. James Bryan Ibrahim A. Alih**  
+Let's say, let's go to page 8. What is the date of this document?
+
+**[04:09:57.300] Marwin L. Galvez**  
+For page 8, Your Honor, the date of the document is March 28, 2014.
+
+**[04:10:03.830] Atty. James Bryan Ibrahim A. Alih**  
+How about page 11? What is the date?
+
+**[04:10:12.160] Marwin L. Galvez**  
+For page 11, the date is also March 28, 2014, Your Honor.
+
+**[04:10:17.560] Atty. James Bryan Ibrahim A. Alih**  
+And if you can look also at page 14, what is the date?
+
+**[04:10:23.880] Marwin L. Galvez**  
+For page 14, the date is March 28, 2014, Your Honor.
+
+**[04:10:28.840] Atty. James Bryan Ibrahim A. Alih**  
+And
+
+**[04:10:29.060] Atty. James Bryan Ibrahim A. Alih**  
+going back to
+
+**[04:10:29.660] Atty. James Bryan Ibrahim A. Alih**  
+page
+
+**[04:10:29.820] Atty. James Bryan Ibrahim A. Alih**  
+13, what is the date?
+
+**[04:10:32.970] Marwin L. Galvez**  
+The
+
+**[04:10:33.310] Marwin L. Galvez**  
+same date po, Your Honor. March 28,
+
+**[04:10:35.170] Marwin L. Galvez**  
+2014.
+
+**[04:10:36.150] Atty. James Bryan Ibrahim A. Alih**  
+Ano po tong mga dokumento na to, Sir?
+
+**[04:10:39.030] Marwin L. Galvez**  
+Yung pong mga
+
+**[04:10:40.290] Marwin L. Galvez**  
+dokumento,
+
+**[04:10:45.250] Marwin L. Galvez**  
+Your Honor, pare-pareho po siya. It pertains to a letter of instruction form po ng bangko.
+
+**[04:10:54.110] Atty. James Bryan Ibrahim A. Alih**  
+Letter instruction form. And what does that mean?
+
+**[04:10:57.710] Marwin L. Galvez**  
+Dito po sa form na to, Your Honor, if I may read. Authorizes the bank to transfer from a specific account with
+
+**[04:11:13.770] Marwin L. Galvez**  
+a stated amount.
+
+**[04:11:16.170] Atty. James Bryan Ibrahim A. Alih**  
+Alright. And what is the account kahit yung last digits na lang po?
+
+**[04:11:20.030] Marwin L. Galvez**  
+For page 8, Your Honor,
+
+**[04:11:23.190] Marwin L. Galvez**  
+the last four digits of the account were by authorization to transfer from is ending in 9539.
+
+**[04:11:34.800] Atty. James Bryan Ibrahim A. Alih**  
+How about Page 11.
+
+**[04:11:45.750] Atty. James Bryan Ibrahim A. Alih**  
+Kahit yung last digits na lang po.
+
+**[04:11:47.750] Marwin L. Galvez**  
+Last four digits, 9539, Your Honor.
+
+**[04:11:50.690] Atty. James Bryan Ibrahim A. Alih**  
+Page 13.
+
+**[04:11:56.930] Marwin L. Galvez**  
+Same last four digits, Your Honor, 9539.
+
+**[04:12:00.130] Atty. James Bryan Ibrahim A. Alih**  
+And page 14.
+
+**[04:12:02.760] Marwin L. Galvez**  
+9539, Your Honor.
+
+**[04:12:04.240] Atty. James Bryan Ibrahim A. Alih**  
+Sir, nabanggit nyo at nabasa nyo kanina, this is to authorize the transfer from the bank account that you've mentioned a certain amount. What is the amount?
+
+**[04:12:16.270] Marwin L. Galvez**  
+Sa page 8 po, ang amount po na nakalagay sa letter of instruction is 20 million pesos, Your Honor.
+
+**[04:12:22.750] Atty. James Bryan Ibrahim A. Alih**  
+And for the other pages? For the remaining 3 pages?
+
+**[04:12:31.030] Marwin L. Galvez**  
+For page 11, 20 million pesos, Your Honor.
+
+**[04:12:35.630] Atty. James Bryan Ibrahim A. Alih**  
+Page 14?
+
+**[04:12:40.060] Atty. James Bryan Ibrahim A. Alih**  
+Page 13? Sorry.
+
+**[04:12:41.920] Marwin L. Galvez**  
+For
+
+**[04:12:42.420] Marwin L. Galvez**  
+page 13, 20 million pesos, Your
+
+**[04:12:44.920] Marwin L. Galvez**  
+Honor.
+
+**[04:12:45.040] Atty. James Bryan Ibrahim A. Alih**  
+And also for page 14, how much?
+
+**[04:12:47.900] Marwin L. Galvez**  
+Also 20 million pesos, Your Honor.
+
+**[04:12:50.360] Atty. James Bryan Ibrahim A. Alih**  
+Nag-authorize po dito ng transfer from the 9539 or the Julio Vargas branch in the amount of 20 million. And based on the policy numbers, sir, these are four different policy numbers. Ano po yung purpose nung transfer? Or nung, yeah, nung authorization to transfer?
+
+**[04:13:12.820] Marwin L. Galvez**  
+Base po dun sa account na nakaspecify dun sa instruction po. Your Honor, yung pong authority to transfer is to debit the account 9539 papunta po sa settlement account sa BPI ng BPI-Philam Life Assurance Corporation.
+
+**[04:13:36.610] Atty. James Bryan Ibrahim A. Alih**  
+Parehas sa lahat, tama po?
+
+**[04:13:38.820] Marwin L. Galvez**  
+Yes po, Your Honor.
+
+**[04:13:40.220] Atty. James Bryan Ibrahim A. Alih**  
+And this is, could you confirm that based on the records or those documents, it is for the 20 million separate, 20 million or 80 million lahat? We're used to buy peso plans. Tama po ba yun?
+
+**[04:13:58.760] Marwin L. Galvez**  
+I'm sorry, Your Honor, the document does not say... In
+
+**[04:14:02.120] Atty. James Bryan Ibrahim A. Alih**  
+the middle, sir.
+
+**[04:14:02.940] Marwin L. Galvez**  
+Sorry.
+
+**[04:14:03.820] Atty. James Bryan Ibrahim A. Alih**  
+Meron pong naka-X na 4 peso plans.
+
+**[04:14:14.640] Marwin L. Galvez**  
+Can you point me to the item, Your Honor?
+
+**[04:14:19.920] Sen. Francis "Chiz" G. Escudero**  
+Assisting counsel may do so, or...
+
+**[04:14:27.750] Marwin L. Galvez**  
+Oh, sir. Okay.
+
+**[04:14:33.060] Marwin L. Galvez**  
+Confirming, Your Honor, the instruction is for... As specified in the letter of instruction is for peso plans.
+
+**[04:14:42.340] Atty. James Bryan Ibrahim A. Alih**  
+Alright, sir. So that's 80 million for peso plans. Now I'm looking for the 16th. I'm going to direct you to page 50 of the records. And this is my last question, sir.
+
+**[04:15:16.540] Atty. James Bryan Ibrahim A. Alih**  
+I'm sorry, sir. I was mistaken. Please proceed to page 60. Hindi pala 50.
+
+**[04:15:24.300] Atty. James Bryan Ibrahim A. Alih**  
+of the same exhibits that you submitted.
+
+**[04:15:32.590] Atty. James Bryan Ibrahim A. Alih**  
+Nakita niyo na pa? Page 60. Alright, sir. So, in page 60, this also involves another manager's check with check number 20536 dated May 30, 2016. What is the amount, sir?
+
+**[04:15:51.330] Atty. James Bryan Ibrahim A. Alih**  
+For... Sir,
+
+**[04:15:54.560] Marwin L. Galvez**  
+may I confirm if you're referring to the check number 20536?
+
+**[04:15:59.920] Atty. James Bryan Ibrahim A. Alih**  
+20536, sir.
+
+**[04:16:00.840] Marwin L. Galvez**  
+Yes, sir. The amount of the manager's check is 16,852,782
+
+**[04:16:08.870] Marwin L. Galvez**  
+.94.
+
+**[04:16:09.410] Atty. James Bryan Ibrahim A. Alih**  
+So, 16 million. And last question, sir. To complete the 96 million, sino po yung payee ng 16 million na ito?
+
+**[04:16:21.410] Marwin L. Galvez**  
+Based on the records we submitted, Your Honor, ang payee po ng manager's check number 20536
+
+**[04:16:30.440] Marwin L. Galvez**  
+dated May 30, 2016, Samuel C.
+
+**[04:16:37.730] Marwin L. Galvez**  
+Uy.
+
+**[04:16:38.250] Atty. James Bryan Ibrahim A. Alih**  
+Again, sir?
+
+**[04:16:39.410] Marwin L. Galvez**  
+Samuel C. Uy.
+
+**[04:16:41.430] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[04:16:45.890] Atty. James Bryan Ibrahim A. Alih**  
+No further questions,
+
+**[04:16:47.170] Atty. Michael Wesley Poa**  
+Your Honor.
+
+**[04:16:48.130] Sen. Francis "Chiz" G. Escudero**  
+Cross, Attorney Mike.
+
+**[04:16:49.790] Atty. Michael Wesley Poa**  
+Yes, Your Honor. If I may proceed with the permission of the Honorable Court.
+
+**[04:16:51.490] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir, when you're ready.
+
+**[04:16:52.830] Atty. Michael Wesley Poa**  
+Yes, Your Honor.
+
+**[04:16:54.720] Sen. Francis "Chiz" G. Escudero**  
+Uminom din po muna kayo ng tubig, Mr. Mao.
+
+**[04:16:57.160] Marwin L. Galvez**  
+Thank you, Your Honor.
+
+**[04:16:59.480] Atty. Michael Wesley Poa**  
+Magandang hapon po, Mr. Galvez
+
+**[04:17:00.940] Marwin L. Galvez**  
+Magandang hapon po.
+
+**[04:17:02.120] Atty. Michael Wesley Poa**  
+Nakainom na po kayo ng tubig. Mr. Galvez, you mentioned earlier during your direct testimony that you are the division head ng Central and Metro Manila branches. Salamat po ba? Just to ask you, Previous to this position, were you ever an account manager that directly handled any of the accounts that we are talking about now sa BPI?
+
+**[04:17:24.990] Marwin L. Galvez**  
+Wala po. Wala
+
+**[04:17:25.790] Marwin L. Galvez**  
+po.
+
+**[04:17:26.370] Atty. Michael Wesley Poa**  
+So,
+
+**[04:17:26.850] Atty. Michael Wesley Poa**  
+basically, you wouldn't have any personal knowledge on the circumstances dun sa pagbubukas ng mga account na ito. Tama po ba?
+
+**[04:17:34.110] Marwin L. Galvez**  
+That is correct po.
+
+**[04:17:35.210] Atty. Michael Wesley Poa**  
+And
+
+**[04:17:35.690] Atty. Michael Wesley Poa**  
+you are only testifying today based on the documents that you collated pursuant to the subpoena issued by the Honorable Court. Tama po ba?
+
+**[04:17:42.470] Marwin L. Galvez**  
+Tama po, sir.
+
+**[04:17:43.430] Atty. Michael Wesley Poa**  
+So, well, para lang po sa kalaman nating lahat, I think maganda nating mapaliwanag. Pagdating po dun lang sa mga accounts that were touched upon by the prosecution. Yung mga accounts na pwedeng buksan ng general public sa BPI. Specifically, yung ating mga personal accounts or accounts for natural persons. Tama po ba?
+
+**[04:18:04.420] Marwin L. Galvez**  
+Yes po.
+
+**[04:18:05.180] Atty. Michael Wesley Poa**  
+You offer that. At dun po, meron pong individual accounts o isa lang yung depositor. Tama po?
+
+**[04:18:13.200] Marwin L. Galvez**  
+Tama po.
+
+**[04:18:13.860] Atty. Michael Wesley Poa**  
+At meron din pong joint accounts. That means more than one depositor. At pagdating po sa joint accounts, meron po kasing tinatawag na joint end account. Tama po ba? Ano po ba ibig sabihin pag end yung joint account?
+
+**[04:18:30.160] Marwin L. Galvez**  
+Ang ibig sabihin po sir kapag ang account ay joint end, kung sino po ang nakapangalan doon sa account, ang ibig sabihin po noon walang niisang Pwede pumirma lang po or mag-operate. Dapat po lahat ng nakapangalan sa account ay pumirma po. Magbigay ng authority or instruction.
+
+**[04:18:52.970] Atty. Michael Wesley Poa**  
+Okay, salamat po. And then meron din po tayong tinatawag na joint or account. Ano pong pagkakaiba nun sa end
+
+**[04:18:59.970] Atty. Michael Wesley Poa**  
+account?
+
+**[04:19:00.890] Marwin L. Galvez**  
+Di katulad po dun sa end account or owner pag sinabi pong or account, any one of the depositors identified or named in the account may sign Singli,
+
+**[04:19:12.780] Atty. Michael Wesley Poa**  
+Your Honor. Thank you po, Mr. Witness. Natanong ko po yan kasi yung pinag-uusapan natin ditong joint account ng former President Rodrigo Duterte and the respondent, Vice President Sara Duterte. Specifically, account number, I think it's ending 9539. Tama po?
+
+**[04:19:36.640] Atty. Michael Wesley Poa**  
+2433069539. Tama po?
+
+**[04:19:37.800] Marwin L. Galvez**  
+Tama po.
+
+**[04:19:39.160] Atty. Michael Wesley Poa**  
+Pagdating po dito sa account na ito, napansin ko, Yung pagkasulat ng account name niya is Rodrigo R. Duterte or Rodrigo R. Duterte and Sara Z. Duterte. Tama po ba yun? Is that accurate?
+
+**[04:19:52.580] Marwin L. Galvez**  
+Tama po, sir.
+
+**[04:19:53.400] Atty. Michael Wesley Poa**  
+So tama rin po ba yung pagkakaintindi ko na sa ganitong structure ng joint account, kung pwede nating tawagin ganun, ay si former President Rodrigo R. Duterte ay pwede po siyang mag-transact mag-isa or alone, singly?
+
+**[04:20:09.710] Marwin L. Galvez**  
+Tama po, sir.
+
+**[04:20:10.770] Atty. Michael Wesley Poa**  
+Tama po. Of course, the former president can also transact with Sara Z. Duterte. Tama po?
+
+**[04:20:17.740] Marwin L. Galvez**  
+With po. Tama po.
+
+**[04:20:19.600] Atty. Michael Wesley Poa**  
+But Respondent Vice President Sara Z. Duterte cannot transact alone without the consent or the signature of the former president, yung ama po niya.
+
+**[04:20:29.660] Marwin L. Galvez**  
+That is correct po. That
+
+**[04:20:31.120] Marwin L. Galvez**  
+is
+
+**[04:20:31.240] Marwin L. Galvez**  
+correct.
+
+**[04:20:31.580] Marwin L. Galvez**  
+Based on the...
+
+**[04:20:35.930] Atty. Michael Wesley Poa**  
+Thank
+
+**[04:20:36.330] Atty. Michael Wesley Poa**  
+you po. Ngayon, tinignan ko rin po kasi yung mga transaksyon na sinumitin nyo. And I would assume that, and please correct me if I'm wrong, na binasa nyo naman po yung mga submissions. But I can confront you with the documents anytime.
+
+**[04:20:48.570] Marwin L. Galvez**  
+Yes po. Opo.
+
+**[04:20:49.770] Atty. Michael Wesley Poa**  
+And one of the, nabansin ko kasi yung mga nabanggit kanina na manager's checks. Specifically yung application sa pag-purchase itong manager's checks na to. Papakita ko na lang po sa inyo yung mismong application para po mabasa nyo and ma-confirm nyo. Your Honors, permission to approach the witness, Your Honor?
+
+**[04:21:09.410] Sen. Francis "Chiz" G. Escudero**  
+Continuing authorities given for either or both assisting counsel and counsel conducting cross to approach the witness.
+
+**[04:21:20.060] Atty. Michael Wesley Poa**  
+Punahin ko na lang ito.
+
+**[04:21:23.110] Atty. Michael Wesley Poa**  
+Your Honors, I'm referring to document exhibit number... Sorry, let me just check the exhibit number. Exhibit number P for the prosecution P, Roman numeral number 2, dash 8, dash 2, dash 3, dash 1, dash 3, dash BPI.
+
+**[04:21:44.500] Atty. Michael Wesley Poa**  
+Specifically, I'd like to look at first yung page 51 of that exhibit, Your Honor. So ito po yung page 51.
+
+**[04:21:55.620] Atty. Michael Wesley Poa**  
+Confirm lang kung pareho.
+
+**[04:21:59.030] Atty. Michael Wesley Poa**  
+Ito po yung application para sa manager's check. Tama po ba? To purchase a manager's cheque.
+
+**[04:22:06.100] Atty. Michael Wesley Poa**  
+Tama po.
+
+**[04:22:06.940] Marwin L. Galvez**  
+Tama po, sir.
+
+**[04:22:07.530] Atty. Michael Wesley Poa**  
+At maaari niyo po bang sabihin kung sino po yung pumirma dito sa application na to? Kung sino po yung nagre-request basically nung purchase ng manager's cheque?
+
+**[04:22:16.550] Marwin L. Galvez**  
+Sir, with your permission po, your honor, maaari po ba akong mag-refer sa signature card para lang po makompare yung...
+
+**[04:22:23.630] Atty. Michael Wesley Poa**  
+Opo, sige po. You may. Can
+
+**[04:22:26.600] Atty. Michael Wesley Poa**  
+we
+
+**[04:22:26.780] Atty. Michael Wesley Poa**  
+show the signature card?
+
+**[04:22:27.770] Sen. Francis "Chiz" G. Escudero**  
+Kindly show him the signature card. Again, assisting counsel of both parties may approach. Continuing authority is granted not only for this witness but other witnesses as well that we will be hearing and listening to today.
+
+**[04:22:40.440] Atty. James Bryan Ibrahim A. Alih**  
+For the record, your honor, can we request that the specific page containing the requested document be placed on record, your honor?
+
+**[04:22:49.400] Sen. Francis "Chiz" G. Escudero**  
+Attorney Mike?
+
+**[04:22:49.920] Atty. Michael Wesley Poa**  
+Yes, for the signature card, counsel?
+
+**[04:22:52.720] Sen. Francis "Chiz" G. Escudero**  
+Yes, signature
+
+**[04:22:53.300] Sen. Francis "Chiz" G. Escudero**  
+card.
+
+**[04:22:53.580] Atty. Michael Wesley Poa**  
+Signature card, this is page...
+
+**[04:23:01.900] Atty. Michael Wesley Poa**  
+Pardon, Your Honor, we're just trying to get the exact page number.
+
+**[04:23:16.920] Atty. Michael Wesley Poa**  
+Let's look for another.
+
+**[04:23:21.750] Atty. Michael Wesley Poa**  
+Just the page number.
+
+**[04:23:28.290] Atty. Michael Wesley Poa**  
+The marking for this exhibit, Your Honor, is Exhibit P-RN 2-8-2-3-1-1-1-2-BPI, Your Honor, for the prosecution.
+
+**[04:23:47.920] Sen. Francis "Chiz" G. Escudero**  
+Witness may answer? Is there a question already,
+
+**[04:23:51.100] Sen. Francis "Chiz" G. Escudero**  
+Atty. Mike?
+
+**[04:23:51.660] Atty. Michael Wesley Poa**  
+Wala pong page.
+
+**[04:23:52.699] Atty. Michael Wesley Poa**  
+Ah, no no.
+
+**[04:23:52.800] Sen. Francis "Chiz" G. Escudero**  
+Ah, page number.
+
+**[04:23:54.960] Sen. Francis "Chiz" G. Escudero**  
+Ah, wala page number?
+
+**[04:23:56.260] Atty. Michael Wesley Poa**  
+Page 1 of that exhibit.
+
+**[04:24:00.010] Sen. Francis "Chiz" G. Escudero**  
+You
+
+**[04:24:00.410] Sen. Francis "Chiz" G. Escudero**  
+referred to an exhibit counsel. You have assisting counsel to proceed, Atty. Mike.
+
+**[04:24:07.550] Atty. Michael Wesley Poa**  
+Thank you. Na-compare niyo na po sa signature?
+
+**[04:24:12.380] Atty. Michael Wesley Poa**  
+Hindi pa po yata na-compare, Your Honor.
+
+**[04:24:15.460] Sen. Francis "Chiz" G. Escudero**  
+Can you please compare? Can you show it to Mr. Mao?
+
+**[04:24:17.900] Marwin L. Galvez**  
+Yes.
+
+**[04:24:20.150] Marwin L. Galvez**  
+Yes, po.
+
+**[04:24:20.940] Atty. Michael Wesley Poa**  
+So, kaninong signature po yan?
+
+**[04:24:23.060] Marwin L. Galvez**  
+Base po sa signature card, Your Honor, it appears to be the signature of Mr. Rodrigo Roa Duterte, Your Honor.
+
+**[04:24:32.220] Atty. Michael Wesley Poa**  
+Thank you, Mr. Witness. Punta rin po tayo sa isa pang application kasi hindi lang naman isang application. Yung napansin ko sa mga transaksyon na ito. And this is found in the same exhibit, page 55 of that exhibit.
+
+**[04:24:48.490] Atty. Michael Wesley Poa**  
+Isa pang application, you confirm that this is yet another application for the purchase of an MC or manager's check. Tama po ba?
+
+**[04:24:58.780] Marwin L. Galvez**  
+Tama po, sir.
+
+**[04:24:59.800] Atty. Michael Wesley Poa**  
+At sino po ang pumirma?
+
+**[04:25:02.540] Marwin L. Galvez**  
+Ang pirmama po appears to be the signature po of Mr. Rodrigo Roa Duterte. Your Honor,
+
+**[04:25:08.200] Atty. James Bryan Ibrahim A. Alih**  
+just to clarify, Your Honor, may we... Your
+
+**[04:25:16.250] Atty. James Bryan Ibrahim A. Alih**  
+Honor, I'm sorry.
+
+**[04:25:17.190] Sen. Francis "Chiz" G. Escudero**  
+Yes.
+
+**[04:25:17.890] Atty. James Bryan Ibrahim A. Alih**  
+Just for clarification, Your Honor, because this appears to be an application for manager's check.
+
+**[04:25:23.720] Atty. James Bryan Ibrahim A. Alih**  
+For the record, may we also know the resulting MC or manager's check for this application, Your Honor.
+
+**[04:25:31.180] Atty. Michael Wesley Poa**  
+Your Honor, I'm just asking for the application.
+
+**[04:25:37.030] Sen. Francis "Chiz" G. Escudero**  
+Kindly just answer the question, Mr. Mau and Atty.
+
+**[04:25:41.210] Sen. Francis "Chiz" G. Escudero**  
+James. That can be the proper subject matter of redirect.
+
+**[04:25:45.570] Sen. Francis "Chiz" G. Escudero**  
+He's
+
+**[04:25:46.050] Sen. Francis "Chiz" G. Escudero**  
+not yet there and he might not even ask for that in his cross.
+
+**[04:25:49.630] Atty. James Bryan Ibrahim A. Alih**  
+Submitted, Sir. Your Honor.
+
+**[04:25:51.330] Atty. Michael Wesley Poa**  
+Sino po ang
+
+**[04:25:52.050] Atty. Michael Wesley Poa**  
+pumirma sa application?
+
+**[04:25:53.700] Marwin L. Galvez**  
+Base po sa application form and comparison sa signature card, it appears po si Mr. Rodrigo Roa, Duterte po.
+
+**[04:26:00.320] Atty. Michael Wesley Poa**  
+Thank you po. At may nakikita po ba kayong pirma dyan ng Vice President Sara Duterte?
+
+**[04:26:07.630] Atty. Michael Wesley Poa**  
+Wala po, Your Honor. Thank you.
+
+**[04:26:11.200] Atty. Michael Wesley Poa**  
+Your Honor, kanina din po kasi na napag-uusapan din yung time deposit, di po ba? Pagdating po sa time deposit, and na-establish naman kanina, na yung mga pondong nasa paloob nitong account ending with 9539 ay ginamit para sa time deposit. Tama po ba? Meaning, in-invest sa time deposit.
+
+**[04:26:35.390] Marwin L. Galvez**  
+Tama po.
+
+**[04:26:36.470] Atty. Michael Wesley Poa**  
+Ngayon po, just to explain, pag ang pera po ay nilalagay sa time deposit, you create a separate account for that time deposit placement. Tama po ba?
+
+**[04:26:48.540] Marwin L. Galvez**  
+Tama po, sir.
+
+**[04:26:49.340] Atty. Michael Wesley Poa**  
+So it has a different and unique account number. Tama po ba?
+
+**[04:26:53.400] Marwin L. Galvez**  
+That
+
+**[04:26:53.600] Marwin L. Galvez**  
+is correct.
+
+**[04:26:54.060] Atty. Michael Wesley Poa**  
+At pag ito po ay na pre-terminate or nag-mature, bumabalik po ito sa settlement account. Tama po?
+
+**[04:27:01.020] Marwin L. Galvez**  
+As earlier mentioned po, tama po.
+
+**[04:27:02.720] Atty. Michael Wesley Poa**  
+At pag naisipan po ng depositor na i-reinvest ito sa time deposit ulit, you again create a separate time deposit account for that. Is that correct?
+
+**[04:27:14.100] Marwin L. Galvez**  
+Tama po.
+
+**[04:27:17.260] Atty. Michael Wesley Poa**  
+At
+
+**[04:27:17.980] Atty. Michael Wesley Poa**  
+kaya po ba marami ring mga account numbers falling under the same Rodrigo Roa Duterte or Rodrigo Duterte and Sara Duterte na mga account numbers na nag-close na po?
+
+**[04:27:42.560] Marwin L. Galvez**  
+Hindi po ipa-determinate ng kliyente yung time deposit, magtutuloy-tuloy po siya. For example, ang auto-renewal po is for every 35 days, magtutuloy-tuloy po siya unless otherwise instructed by the depositor po. Ngayon po, kung hindi po siya auto-renew time deposit po, as soon as mag-mature po yung time deposit account, makikredit na po yung balance sa settlement account.
+
+**[04:28:06.560] Atty. Michael Wesley Poa**  
+Thank you po. So, simplihan ko na lang po. So, kanina, pinakita ko sa inyo yung mga application for manager's checks. At yan po, nabanggit nyo po, it was signed by Rodrigo Roa Duterte. Wala pong signature ni Sara Duterte. Which is okay because under the joint account, Rodrigo Roa Duterte can act singly. Tama po ba?
+
+**[04:28:27.540] Marwin L. Galvez**  
+Tama po.
+
+**[04:28:28.080] Atty. Michael Wesley Poa**  
+So, base po sa documenting panel
+
+**[04:28:30.220] Atty. Michael Wesley Poa**  
+nito.
+
+**[04:28:30.520] Atty. Michael Wesley Poa**  
+Thank you po. At base po sa mga dokumentong sinumitit nyo, Wala po akong nakita na record of any withdrawal by Sara Duterte. Can you confirm that?
+
+**[04:28:42.220] Marwin L. Galvez**  
+Your Honor, I will have to refer to all the documents kasi hindi ko naman po kabisado lahat ng nakapirma sa dokumento.
+
+**[04:28:51.890] Atty. Michael Wesley Poa**  
+Opo. Can we, Your Honors, can we give him time to actually refer to the documents?
+
+**[04:28:56.810] Sen. Francis "Chiz" G. Escudero**  
+With the permission of Attorney Mike, you're referring to if the other requests For the rolling or opening of time deposits were signed by the former president?
+
+**[04:29:09.420] Atty. Michael Wesley Poa**  
+Right now, at the moment, Your Honor, I'm asking for just any withdrawal of any funds from this particular account, 9539.
+
+**[04:29:17.740] Atty. Michael Wesley Poa**  
+Withdrawal. Cash withdrawal.
+
+**[04:29:19.000] Sen. Francis "Chiz" G. Escudero**  
+Made by?
+
+**[04:29:20.260] Atty. Michael Wesley Poa**  
+Sara Duterte, Your Honor.
+
+**[04:29:21.860] Sen. Francis "Chiz" G. Escudero**  
+Sara Duterte.
+
+**[04:29:23.980] Sen. Francis "Chiz" G. Escudero**  
+Mr. Witness, from the account ending in 9539?
+
+**[04:29:28.700] Atty. Michael Wesley Poa**  
+Yes, Your Honor. Just only for that account, Your Honor.
+
+**[04:29:32.290] Sen. Francis "Chiz" G. Escudero**  
+Mr. Mao, is that one of the documents you submitted? Kasama po yan, yung mga withdrawals?
+
+**[04:29:37.910] Marwin L. Galvez**  
+Yung 9539 po. Lahat po ng mga pwede po namin makitang mga transaction documents po para sa lahat ng nakapangalan po sa subpoena, Your Honor. Tinry po namin hanapin lahat.
+
+**[04:29:51.190] Sen. Francis "Chiz" G. Escudero**  
+With the permission of Atty. Megan, with the indulgence of Atty. James, and also with the permission of the Court, Similar to the request made by the Hon. Zubiri yesterday, asking some data to be called. The court can call that and present it in open court as well, but at a later time, unless we can do it within the day. If that is satisfactory to Atty. Mike, it will be coming from the court already, if indeed there is any or there is none.
+
+**[04:30:26.680] Atty. Michael Wesley Poa**  
+Okay, Your Honor, it's just that this is the track of my cross-examination, of course, with my apologies to the Honorable Court. I just wanted to check because these documents came from BPI themselves. Just
+
+**[04:30:39.300] Atty. Michael Wesley Poa**  
+if there's any record, actually, to
+
+**[04:30:41.780] Atty. Michael Wesley Poa**  
+expedite the proceedings, Your Honors, I will ask if there's any transaction. Whether withdrawal or any instruction for time deposit placements made by respondent Sara Z. Duterte, Your Honor, given the nature of the joint account, Your Honor.
+
+**[04:30:57.440] Sen. Francis "Chiz" G. Escudero**  
+Would you know the answer, Atty. Mao, or do you need the documents?
+
+**[04:31:01.380] Marwin L. Galvez**  
+I'm sorry, Your Honor, I won't
+
+**[04:31:02.960] Marwin L. Galvez**  
+be able to answer right away. But
+
+**[04:31:05.820] Sen. Francis "Chiz" G. Escudero**  
+to be fair to you, Atty. Mike, we will call it for you.
+
+**[04:31:11.660] Sen. Francis "Chiz" G. Escudero**  
+The court gave instructions for it to be done already. Hopefully, while he's still there, because there will be still interjections from Senator Judges, and then you can continue on with a follow-up question. We will allow it. And you can, in the meantime, move to your next point, if that is at all possible.
+
+**[04:31:28.760] Atty. Michael Wesley Poa**  
+I will comply, Your Honor. I will comply.
+
+**[04:31:30.460] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Pangilinan?
+
+**[04:31:33.740] Sen. Francis "Chiz" G. Escudero**  
+On
+
+**[04:31:34.140] Sen. Francis “Kiko” Pangilinan**  
+the same point. On the same point, Mr. President. Just that, as you call it, may we also request that The transactions of the settlement account, I mean, if any, can likewise be called.
+
+**[04:31:50.340] Sen. Francis “Kiko” Pangilinan**  
+In other words, not just the time deposit, but the transactions will likewise be called so that we can review it.
+
+**[04:31:58.460] Sen. Francis "Chiz" G. Escudero**  
+For the Senator judges, but not for this purpose, we will prioritize the question of Attorney Mike in regard to whether or not, if I got it correctly, The vice president, the respondent in this case, signed any documents in relation to the settlement account that has her as an end name after Rodrigo R. Roa Duterte and Rodrigo R. Roa Duterte or Rodrigo R. Roa Duterte and Sara Z. Duterte.
+
+**[04:32:30.670] Atty. Michael Wesley Poa**  
+With
+
+**[04:32:30.890] Atty. Michael Wesley Poa**  
+clarification, Your Honor, just so we can speed things up because the I will be asking about whether the Vice President Respondent accused in this case had any bank transactions concerning this particular account, Your Honor, from the time it was opened up to today. If she actually signed any document that showed she withdrew money, if there was any fund transfer that she signed.
+
+**[04:32:59.600] Sen. Francis "Chiz" G. Escudero**  
+Signed off on?
+
+**[04:33:00.540] Atty. Michael Wesley Poa**  
+Or was there any time deposit placement that she signed off on?
+
+**[04:33:04.500] Sen. Francis "Chiz" G. Escudero**  
+We
+
+**[04:33:04.700] Sen. Francis "Chiz" G. Escudero**  
+will have that checked. Kindly note that the Clerk of Court is directed to kindly note the specification of Attorney Mike. But from the Presiding Officer, and also to in a way abbreviate, can you open an account without the name of the end or the or person signing a signature card? Mr. Mao?
+
+**[04:33:28.040] Marwin L. Galvez**  
+Your Honor, to clarify po, your question is kung pwede pong mag-open ng wala yung...
+
+**[04:33:34.380] Sen. Francis "Chiz" G. Escudero**  
+Yung ka-or niya?
+
+**[04:33:36.800] Marwin L. Galvez**  
+Hindi po, Your Honor. We need the presence of both depositor po para ma-open po yung account.
+
+**[04:33:43.040] Sen. Francis "Chiz" G. Escudero**  
+Even if it's an or account?
+
+**[04:33:45.020] Marwin L. Galvez**  
+Yes po, Your Honor. Dapat po parehas pong...
+
+**[04:33:48.720] Sen. Francis "Chiz" G. Escudero**  
+Can we at least look at that in the meantime?
+
+**[04:33:52.520] Atty. Michael Wesley Poa**  
+Yes, Your Honor. But
+
+**[04:33:53.980] Sen. Francis "Chiz" G. Escudero**  
+we will check on it. We'll check it. The Clerk is directed to kindly look at everything in relation to the settlement account ending
+
+**[04:34:01.540] Atty. Michael Wesley Poa**  
+in
+
+**[04:34:01.860] Sen. Francis "Chiz" G. Escudero**  
+9539.
+
+**[04:34:02.840] Atty. Michael Wesley Poa**  
+Just for clarity, I wasn't asking about KYC documents. I was asking for transactions.
+
+**[04:34:06.900] Sen. Francis "Chiz" G. Escudero**  
+Transactions. The Clerk of Court is so directed to kindly look if the Vice President signed any transactions in connection with the settlement account including the opening and termination of the time deposit. as well as the issuance of an MC and or instructions for the payment of the MC or the proceeds thereof anywhere.
+
+**[04:34:28.840] Atty. Michael Wesley Poa**  
+Thank you, Your Honor. I'll just proceed, Your Honor. I just do not waste time.
+
+**[04:34:31.660] Sen. Francis "Chiz" G. Escudero**  
+Yes, and hopefully while the senators are interjecting, we can have the answer to your question. And I'll afford you time to continue or pursue that point. Subject, of course, to redirect by Atty. James.
+
+**[04:34:42.800] Atty. Michael Wesley Poa**  
+Thank you, Your Honor. Actually, I wasn't... I'm not thinking of asking this anymore but since I'm given some time. Are you aware, Mr. Witness, that I actually wrote to BPI as the authorized representative of the Vice President back in February 2026 to inquire about the existence of this very account and other accounts as well?
+
+**[04:35:06.770] Marwin L. Galvez**  
+Sorry, attorney, I don't have an information. I'm not aware.
+
+**[04:35:10.770] Atty. Michael Wesley Poa**  
+Would the prosecution allow me to at least just confront the witness with my letter and the BPI legal division's response? Only because these are not marked documents, your honor, but as agreed, we can confront the witness with certain documents subject to marking later on.
+
+**[04:35:26.310] Sen. Francis "Chiz" G. Escudero**  
+Comment, attorney James, but I'm inclined to allow it. I'm telling you already, I'm inclined to allow it.
+
+**[04:35:31.370] Atty. James Bryan Ibrahim A. Alih**  
+Perhaps I can persuade, your honor.
+
+**[04:35:34.650] Atty. James Bryan Ibrahim A. Alih**  
+We have to object, Your Honor. Our objection is not on the basis that this document cannot see the light of day. In fact, they can do that at a proper time, when it's their time to present their evidence, Your Honor. And because, in fact, our friends from the defense... Clearly mentioned it was addressed to the VP of Legal. Then he would have been the best person to testify on this matter. And at the time that he will be presented, we would gladly hear his testimony. But I think, Your Honor, it would be unfair for our witness here.
+
+**[04:36:08.380] Sen. Francis "Chiz" G. Escudero**  
+I think the witness cannot identify it in any case, Atty. Micah, since I think suffice it to say that you've mentioned it in such a document.
+
+**[04:36:16.570] Atty. Michael Wesley Poa**  
+Actually, Your Honor, I was more interested with the response. I wanted the witness to at least identify, if he can, only if he can, if that is in fact the signature of their senior vice president for legal division, Your Honor. Ah,
+
+**[04:36:30.210] Sen. Francis "Chiz" G. Escudero**  
+he wrote a letter to you in reply to your
+
+**[04:36:32.030] Atty. Michael Wesley Poa**  
+letter. He replied to my letter, Your Honor.
+
+**[04:36:33.950] Sen. Francis "Chiz" G. Escudero**  
+In that case, I'll allow it. I'll allow it if the witness knows. I'm sorry, Attorney James.
+
+**[04:36:38.430] Atty. James Bryan Ibrahim A. Alih**  
+It's okay, Your Honor. We
+
+**[04:36:39.570] Atty. James Bryan Ibrahim A. Alih**  
+always submit to the presiding officer.
+
+**[04:36:41.550] Atty. Michael Wesley Poa**  
+Your Honor, in fairness, we will also give a copy to the prosecution right now. I think my... The
+
+**[04:36:46.870] Atty. Michael Wesley Poa**  
+assisting counsel may approach the opposing side.
+
+**[04:36:49.430] Sen. Francis "Chiz" G. Escudero**  
+You may approach...
+
+**[04:36:50.690] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor,
+
+**[04:36:52.030] Atty. James Bryan Ibrahim A. Alih**  
+before, on that note, may we just register our continuing objection on this matter, as we will not be surprised that the witness would answer no to the question.
+
+**[04:37:01.710] Sen. Francis "Chiz" G. Escudero**  
+If he knows...
+
+**[04:37:02.810] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor.
+
+**[04:37:03.270] Sen. Francis "Chiz" G. Escudero**  
+If he knows the signature of Pizzo Miller, he may answer accordingly.
+
+**[04:37:08.080] Atty. Michael Wesley Poa**  
+Your Honor.
+
+**[04:37:09.230] Atty. Michael Wesley Poa**  
+Before I confront the witness with the document, I just want to make sure that the prosecution already has a copy. And we'll also give a copy to the honorable court, Your Honor. And if the court will allow, perhaps we could also flash this on the screens, Your Honor. Only if the court will allow.
+
+**[04:37:25.080] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor, will the... Your
+
+**[04:37:38.950] Atty. James Bryan Ibrahim A. Alih**  
+Honor?
+
+**[04:37:39.890] Sen. Francis "Chiz" G. Escudero**  
+Yes, I'm sorry. Yes. Yes,
+
+**[04:37:41.570] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor. Because there was a request for... Engaged
+
+**[04:37:43.710] Sen. Francis "Chiz" G. Escudero**  
+in some administrative matters. Yes.
+
+**[04:37:45.290] Atty. James Bryan Ibrahim A. Alih**  
+I'm sorry, Your Honor. I'm sorry. Because there is a request to flash the document. But I'm not sure if... It's going to be marked. And so far as these proceedings are concerned, only the marked documents were flashed, if I recall it right. So if it's going to be marked, Your Honor, then perhaps that would be the time it can be flashed. But I don't think the witness can identify and authenticate this document, Your Honor.
+
+**[04:38:08.960] Sen. Francis "Chiz" G. Escudero**  
+Not only the marked documents have been flashed, counsel. Summaries have been flashed as well that were not marked and will not be marked. We'll allow it. We'll allow it. I'll give some leeway to Attorney Mike on this. Without prejudice to him presenting a proper witness to identify the document should Mr. Mao not be able to identify it.
+
+**[04:38:32.050] Atty. Michael Wesley Poa**  
+Thank you, Your Honor. Thank you. Can I just confirm the prosecution? I have not yet received it.
+
+**[04:38:37.730] Sen. Francis "Chiz" G. Escudero**  
+This will also abbreviate the proceedings, Attorney James, because if Mr. Mao can identify the document, if he's familiar with the signature, that, I
+
+**[04:38:46.970] Sen. Francis "Chiz" G. Escudero**  
+guess...
+
+**[04:38:49.120] Sen. Francis "Chiz" G. Escudero**  
+Solves. At least one witness on the part of the respondent.
+
+**[04:38:58.380] Atty. Michael Wesley Poa**  
+We'll just wait, Your Honor, for the prosecution to be given a copy out of fairness.
+
+**[04:39:03.770] Sen. Francis "Chiz" G. Escudero**  
+And we are working on your question and request, Attorney Mike. We will have an answer hopefully before you end or a few minutes after you end.
+
+**[04:39:13.050] Atty. Michael Wesley Poa**  
+Thank you, Your Honor. Thank you, Your Honor.
+
+**[04:39:15.290] Atty. Michael Wesley Poa**  
+May I now approach the witness,
+
+**[04:39:17.490] Atty. Michael Wesley Poa**  
+Your
+
+**[04:39:17.690] Atty. Michael Wesley Poa**  
+Honor, just to confront him with the document.
+
+**[04:39:19.710] Sen. Francis "Chiz" G. Escudero**  
+Continuing authority is given to both counsels insofar as this and other witness for today is concerned.
+
+**[04:39:25.880] Atty. Michael Wesley Poa**  
+Your Honor, for the information of the court, I will no longer give, although I can show the witness a copy of my letter, the more pertinent document here would be the reply of the BPI Legal Division. Mr. Witness, kilala niyo po ba si Atty. Paul Ysmael?
+
+**[04:39:42.440] Marwin L. Galvez**  
+Yes, Your Honor, kilala po.
+
+**[04:39:44.060] Atty. Michael Wesley Poa**  
+At siya po kasi ang pumirma dito. Tingnan niyo muna po yung letter.
+
+**[04:39:50.020] Atty. Michael Wesley Poa**  
+Yan po ay reply sa akin ng BPI Legal Division at pinirmahan po sa likod ng certain Atty. Paul Roderick A. Ysmael, Senior Vice President of the BPI Legal Division. Familiar po ba kayo sa pirma ni Atty. Ysmael?
+
+**[04:40:08.840] Marwin L. Galvez**  
+Your Honor, familiar po ako kay Atty. Paul Ysmael. Paumanhin po, hindi po ako familiar sa pirmanya.
+
+**[04:40:16.320] Atty. Michael Wesley Poa**  
+Okay. Well,
+
+**[04:40:17.500] Atty. Michael Wesley Poa**  
+Your Honor, the witness could not identify, unfortunately, the signature. But can I just read the pertinent portion? Subject to whatever objection the prosecution may propose at the time of offer?
+
+**[04:40:33.560] Sen. Francis "Chiz" G. Escudero**  
+Unfortunately, Atty. Mike, the witness could not
+
+**[04:40:37.500] Sen. Francis "Chiz" G. Escudero**  
+I would be interested in abbreviating the proceedings also insofar as authenticating that document. Hindi niyo po alam, Mr. Mau?
+
+**[04:40:44.900] Marwin L. Galvez**  
+Paumanhin po, Your Honor. Hindi po ako familiar sa pirma ni Atty. Paul. But kilala ko po si Atty. Paul Ysmael from our legal department, Your Honor.
+
+**[04:40:52.720] Atty. Michael Wesley Poa**  
+Is this the same letterhead, Mr. Witness, that you usually get from the BPI Legal Division?
+
+**[04:40:58.200] Sen. Francis "Chiz" G. Escudero**  
+Atty. James, if he knows.
+
+**[04:41:04.440] Atty. Michael Wesley Poa**  
+And the same address, of course.
+
+**[04:41:09.110] Marwin L. Galvez**  
+The address is correct, Your Honor, but... Not as to the documents coming from BPI Legal.
+
+**[04:41:18.100] Sen. Francis "Chiz" G. Escudero**  
+You're not familiar with the letterhead?
+
+**[04:41:21.080] Marwin L. Galvez**  
+It says BPI Legal Division, Your Honor, but I'm not familiar with the letterhead, the format of the letters.
+
+**[04:41:32.690] Sen. Francis "Chiz" G. Escudero**  
+You have your answer, Attorney Mike.
+
+**[04:41:34.750] Atty. Michael Wesley Poa**  
+Thank you, Your Honor. May I just at least read what they responded to me, Your Honor?
+
+**[04:41:40.490] Atty. James Bryan Ibrahim A. Alih**  
+We
+
+**[04:41:40.750] Atty. James Bryan Ibrahim A. Alih**  
+have to object, Your Honor. That would be tantamount to... The witness, the defense presenting this evidence, Your Honor. And
+
+**[04:41:50.820] Atty. James Bryan Ibrahim A. Alih**  
+can
+
+**[04:41:53.560] Atty. James Bryan Ibrahim A. Alih**  
+we ask that this document be taken down, Your Honor? Because, again, it wasn't, we cannot even say if it's authentic, Your Honor, with all due respect to our friend, Attorney Poa, given the lack of identification.
+
+**[04:42:07.290] Sen. Francis "Chiz" G. Escudero**  
+Again, given the lack of identification, I guess Attorney Mike would have to present a witness to authenticate and identify that.
+
+**[04:42:13.790] Atty. Michael Wesley Poa**  
+We will do so
+
+**[04:42:14.410] Atty. Michael Wesley Poa**  
+during our time, Your Honor.
+
+**[04:42:15.390] Sen. Francis "Chiz" G. Escudero**  
+Yes, please.
+
+**[04:42:16.230] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor, may we request that it be removed from the screen? Sorry, Your Honor.
+
+**[04:42:20.570] Sen. Francis "Chiz" G. Escudero**  
+Yes, I think it's... The Attorney Mike is already done. Yes, kindly remove that from the screen.
+
+**[04:42:38.160] Atty. Michael Wesley Poa**  
+Your Honor, while I'm waiting for...
+
+**[04:42:40.420] Sen. Francis "Chiz" G. Escudero**  
+Sorry. Yes, Attorney Mike.
+
+**[04:42:42.900] Atty. Michael Wesley Poa**  
+While I'm waiting for the court to provide the information and the transaction...
+
+**[04:42:46.960] Sen. Francis "Chiz" G. Escudero**  
+We can do interjections from what
+
+**[04:42:48.740] Atty. Michael Wesley Poa**  
+you've done in the meantime. Not yet, Your Honor. I can just move on to another point, Your Honor, to save time.
+
+**[04:42:53.640] Sen. Francis "Chiz" G. Escudero**  
+You can move to the next point.
+
+**[04:42:55.240] Atty. Michael Wesley Poa**  
+Yes, Your Honor.
+
+**[04:42:57.720] Atty. Michael Wesley Poa**  
+Kanina rin po, Mr. Witness, napag-usapan rin po yung mga personal accounts na individual lang po, yung depositor, isang tao lang. At yung account na napag-usapan doon ay yung account ni Atty. Manases Carpio. Tama po ba?
+
+**[04:43:15.120] Marwin L. Galvez**  
+Tama po.
+
+**[04:43:16.760] Atty. Michael Wesley Poa**  
+Pagdating po dun sa, I'm sure, BPI, being one of the largest financial institutions in the country, you strictly comply with the RA-1405 or the Bank Secrecy Law. Tama po ba?
+
+**[04:43:29.000] Marwin L. Galvez**  
+Correct.
+
+**[04:43:29.780] Atty. Michael Wesley Poa**  
+So pagdating po dito sa mga individual accounts, individual deposit accounts rather, specifically itong kay Atty. Manases Carpio, pwede po ba kahit sino mag-inquire dun sa nilalaman nung account na yun without any Consent from Atty. Carpio.
+
+**[04:43:48.350] Marwin L. Galvez**  
+No, Your Honor. As per policy po, inquiries are only authorized by the account holder or a competent court. In this case, the impeachment court.
+
+**[04:44:00.110] Atty. Michael Wesley Poa**  
+Pero paano po kung yung mismong asawa na ni Atty. Carpio yung gusto lang malaman kung magkano yung nasa loob ng account niya? Pwede po ba
+
+**[04:44:07.710] Atty. Michael Wesley Poa**  
+yun?
+
+**[04:44:07.930] Marwin L. Galvez**  
+Bawal po
+
+**[04:44:08.290] Marwin L. Galvez**  
+yun sa batas, Your Honor.
+
+**[04:44:12.280] Atty. Michael Wesley Poa**  
+Kahit asawa po, hindi niya pwedeng alamin. She will have to get authorization through
+
+**[04:44:18.860] Atty. Michael Wesley Poa**  
+an
+
+**[04:44:19.120] Atty. Michael Wesley Poa**  
+SPA.
+
+**[04:44:20.740] Atty. Michael Wesley Poa**  
+Based on
+
+**[04:44:22.200] Atty. Michael Wesley Poa**  
+your records, only if you're aware, meron po ba kayong natanggap na any request from the Vice President inquiring with the necessary SPA ukol dito sa pondo na nasa account na ito?
+
+**[04:44:33.500] Marwin L. Galvez**  
+I have no personal knowledge of any request, Your Honor.
+
+**[04:44:37.500] Atty. Michael Wesley Poa**  
+Only if you're aware, has the Vice President Transacted using the account of Attorney Mance based on whatever, maybe an SPA given to her by Attorney Mance?
+
+**[04:44:49.730] Marwin L. Galvez**  
+I'm sorry, Your Honor. I'm not aware.
+
+**[04:44:52.070] Atty. Michael Wesley Poa**  
+You're not aware of us?
+
+**[04:44:52.710] Marwin L. Galvez**  
+I have personal knowledge, Your Honor.
+
+**[04:44:53.990] Atty. Michael Wesley Poa**  
+Okay. Thank you. Your Honor, at this point, actually, I was hoping to end my cross and didn't want to prolong it. I just needed that information.
+
+**[04:45:04.570] Sen. Francis "Chiz" G. Escudero**  
+No, if you want, Attorney Mike, we can... You can suspend your cross. We can do some interjections from senator-judges. I have an initial list. And we can resume with your cross after we get the answer. And then proceed to the redirect of attorney James. But on this point, I have a phone-in question, Atty. Mau.
+
+**[04:45:27.830] Sen. Francis "Chiz" G. Escudero**  
+Hindi pa, wala pang asawa si SP. So, prior knowledge ito at prior nakaalaman ito para sa inyo.
+
+**[04:45:37.390] Sen. Francis "Chiz" G. Escudero**  
+Kahit mag-asawa at absolute community property yung property regime ng mag-asawa na hindi nyo naman alam yun, kapagka nag-open ng account yung babae o lalaki sa pangalan lang lina, hindi pwedeng magtanong sa bangko na yung asawa ko ba may account dyan?
+
+**[04:45:56.560] Marwin L. Galvez**  
+Bawal po, Your Honor. Covered ng bank
+
+**[04:45:58.740] Sen. Francis "Chiz" G. Escudero**  
+secrecy law yun?
+
+**[04:45:59.980] Marwin L. Galvez**  
+Tama po, Your Honor.
+
+**[04:46:01.180] Sen. Francis "Chiz" G. Escudero**  
+Tama po? Kahit magpakita siya ng marriage certificate?
+
+**[04:46:04.560] Marwin L. Galvez**  
+Tama po, Your Honor.
+
+**[04:46:06.270] Sen. Francis "Chiz" G. Escudero**  
+So, alam mo na.
+
+**[04:46:11.230] Sen. Francis "Chiz" G. Escudero**  
+We proceed with the interjections of Senator Judges while we're waiting for the clarification and certification from the Clerk of Court. Senator Judge Sotto is recognized for his interjection. You may proceed, sir, when you're ready.
+
+**[04:46:26.820] Sen. Vicente C. Sotto III**  
+Thank you, Mr. Presiding Officer, and thank you for your indulgence, Mr. Mao, and your patience.
+
+**[04:46:38.060] Sen. Vicente C. Sotto III**  
+Before I seek enlightenment on the BPI anti-money laundering submission that was rectified, that was really my original point, I'd just like to ask if you're familiar with the term used by my banker friend who told me that yun daw pag-issue ng manager's check, pagkatapos hindi ginamit, later on after the 31st of December, Ibabalik. Ang tawag daw dun, tinikling.
+
+**[04:47:14.460] Sen. Vicente C. Sotto III**  
+Tinikling. Yung sayaw na tinikling. Are you familiar with that?
+
+**[04:47:19.250] Marwin L. Galvez**  
+With all due respect, Your Honor, hindi po.
+
+**[04:47:22.990] Sen. Vicente C. Sotto III**  
+You cannot.
+
+**[04:47:25.350] Sen. Vicente C. Sotto III**  
+Anyway, it's a marker.
+
+**[04:47:26.830] Marwin L. Galvez**  
+Alam ko lang po yung sayaw
+
+**[04:47:28.070] Marwin L. Galvez**  
+na
+
+**[04:47:28.230] Marwin L. Galvez**  
+tinikling, Your Honor.
+
+**[04:47:29.810] Sen. Vicente C. Sotto III**  
+Ganun daw ang ginagawa ng mga ibang umiiwas. Anyway, as I said, I wish to be enlightened on this. BPI rectification of a manager's check issue submission to the Anti-Money Laundering Council in the amount of 2 billion na later on was called yesterday a glitch. Ano ba talaga ito? Can you enlighten us on what this is all about?
+
+**[04:48:06.610] Marwin L. Galvez**  
+Your Honor, with all due respect po, I am not in a position to answer your question po. Not being involved in the process with AMLC, Your Honor.
+
+**[04:48:22.750] Sen. Vicente C. Sotto III**  
+So you're not aware? You're not aware
+
+**[04:48:24.670] Sen. Vicente C. Sotto III**  
+of this?
+
+**[04:48:25.190] Marwin L. Galvez**  
+I've been recently aware through the hearing that there was an error and that it has been corrected but I was not involved as to the matter pertaining to that report, Your Honor.
+
+**[04:48:35.930] Sen. Vicente C. Sotto III**  
+So who can enlighten us on this particular issue from BPI? You're from BPI. Sino sa BPI makakapagpaliwanag sa amin kung ano nangyari dito?
+
+**[04:48:46.230] Marwin L. Galvez**  
+Your Honor, that would be our Anti-Money Laundering Division, Your Honor.
+
+**[04:48:51.760] Sen. Vicente C. Sotto III**  
+All right. Thank you. Well, then perhaps at a later time, Mr. Presiding Officer, we would like to be enlightened from that BPI anti-money laundering representative. Thank you. That's all.
+
+**[04:49:09.440] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Sotto. Senator Judge Raffi stepped out. Senator Judge Pangilinan is recognized.
+
+**[04:49:22.880] Atty. Michael Wesley Poa**  
+Attorney Mike? May I ask, may I just go on, may I just answer the call of nature unless the good senator has questions for me? Quickly,
+
+**[04:49:33.400] Atty. Michael Wesley Poa**  
+I'll
+
+**[04:49:33.620] Atty. Michael Wesley Poa**  
+just...
+
+**[04:49:33.621] Sen. Francis "Chiz" G. Escudero**  
+You may,
+
+**[04:49:34.480] Sen. Francis "Chiz" G. Escudero**  
+you
+
+**[04:49:34.500] Sen. Francis "Chiz" G. Escudero**  
+may. You're excused, Attorney Mike.
+
+**[04:49:36.420] Atty. Michael Wesley Poa**  
+Thank you.
+
+**[04:49:37.650] Sen. Francis "Chiz" G. Escudero**  
+Ba't palaging side niyo yung...
+
+**[04:49:39.650] Sen. Francis “Kiko” Pangilinan**  
+Because
+
+**[04:49:41.670] Sen. Francis “Kiko” Pangilinan**  
+you're from the UP College of Law,
+
+**[04:49:43.610] Sen. Francis "Chiz" G. Escudero**  
+Attorney Mike. Go attorney Mike, do what you need to do. You're excused. Senator Judge Pangilinan is recognized. You may proceed sir. You have two minutes.
+
+**[04:49:52.230] Sen. Francis “Kiko” Pangilinan**  
+Thank you Mr. President.
+
+**[04:49:54.870] Sen. Francis “Kiko” Pangilinan**  
+Ililiwanag ko lang. Kahit na ulitin ko lang. The account involving the time deposits and the manager's checks. Dalawa. Yung settlement account and what do you call the second one?
+
+**[04:50:09.540] Marwin L. Galvez**  
+Time deposit po. Time deposit certificate.
+
+**[04:50:11.780] Marwin L. Galvez**  
+Yes po, your
+
+**[04:50:12.580] Marwin L. Galvez**  
+honor.
+
+**[04:50:14.480] Sen. Francis “Kiko” Pangilinan**  
+So, it's Rodrigo Roa Duterte or Rodrigo Roa Duterte, N. So,
+
+**[04:50:24.490] Sen. Francis “Kiko” Pangilinan**  
+pwedeng si former President Duterte lang ang pumirma. Okay yun. Or pwede rin silang dalawa.
+
+**[04:50:32.810] Marwin L. Galvez**  
+Tama po, Your Honor.
+
+**[04:50:33.990] Sen. Francis “Kiko” Pangilinan**  
+Okay. So, in other words, meron kayong signature card na nandun nakapirma. Hindi lang si former president kung hindi si vice president.
+
+**[04:50:45.750] Marwin L. Galvez**  
+Tama po your honor. In fact, that's part of the documents we submitted po.
+
+**[04:50:51.010] Sen. Francis “Kiko” Pangilinan**  
+So, in other words, merong siyang signature doon sa specimen signature na sinasubmit. So, ano siya? In other words, nandun yung signature niya.
+
+**[04:51:06.990] Marwin L. Galvez**  
+Andon po, Your Honor, based on the documents we submitted.
+
+**[04:51:09.790] Sen. Francis “Kiko” Pangilinan**  
+I just
+
+**[04:51:10.010] Sen. Francis “Kiko” Pangilinan**  
+wanted that clarified. Yung 9539 na account, pagka nagkaroon ng manager's check na in-issue, diba? In this case, 40... 41
+
+**[04:51:23.610] Atty. James Bryan Ibrahim A. Alih**  
+and 55. So,
+
+**[04:51:25.390] Sen. Francis “Kiko” Pangilinan**  
+hindi na ma-re-reflect dun sa 9539 yung tinanggal na pondo. Tama?
+
+**[04:51:32.550] Marwin L. Galvez**  
+Tama po, Your Honor, pag nabawas na po dun sa
+
+**[04:51:34.790] Marwin L. Galvez**  
+account.
+
+**[04:51:36.090] Sen. Francis “Kiko” Pangilinan**  
+So, in other words, pag nag-stale, after 6 months, babalik dun sa... Tama? O hindi pa rin?
+
+**[04:51:44.700] Marwin L. Galvez**  
+Pag po ipinresent po sa amin yung original copy ng manager's check with an instruction to...
+
+**[04:51:50.620] Sen. Francis “Kiko” Pangilinan**  
+Tsaka nyo ibabalik.
+
+**[04:51:51.980] Marwin L. Galvez**  
+Tama po.
+
+**[04:51:52.480] Sen. Francis “Kiko” Pangilinan**  
+So, technically, walang 40 plus million kapag naka-manager's check siya. Ang lalabas lang, eh, dun sa 9539, eh, kung ano yung wala.
+
+**[04:52:08.290] Sen. Francis “Kiko” Pangilinan**  
+So in that
+
+**[04:52:11.150] Sen. Francis “Kiko” Pangilinan**  
+case, would you have the data, information, magkano yung nasa 9539 nung nag-floating na yung 40 plus million, 41 million.
+
+**[04:52:21.510] Marwin L. Galvez**  
+Your Honor, kasama po sa mga isinumite ng BPI po in compliance to the subpoena
+
+**[04:52:28.530] Marwin L. Galvez**  
+Business Dec
+
+**[04:52:28.610] Sen. Francis “Kiko” Pangilinan**  
+Yes,
+
+**[04:52:28.630] Sen. Francis “Kiko” Pangilinan**  
+so you wouldn't know? You wouldn't know at this point?
+
+**[04:52:30.870] Marwin L. Galvez**  
+I wouldn't know at this point po yung balance, Your Honor, but we submitted all retrievable statement of accounts, Your Honor, that will reflect movements po in and out from the account of the respondent.
+
+**[04:52:42.290] Sen. Francis “Kiko” Pangilinan**  
+So perhaps we can
+
+**[04:52:42.830] Sen. Francis “Kiko” Pangilinan**  
+request again the Secretariat to get that information as to... How much was the balance for 9539 nung inilabas yung 41 million?
+
+**[04:52:53.480] Marwin L. Galvez**  
+The statement of account should reflect that po, Your Honor.
+
+**[04:52:56.560] Sen. Francis "Chiz" G. Escudero**  
+The
+
+**[04:52:57.160] Sen. Francis "Chiz" G. Escudero**  
+Clerk of Court is so directed to comply with the request of Senator Judge Pangilinan and furnish all Senator Judges. Thank
+
+**[04:53:03.160] Sen. Francis “Kiko” Pangilinan**  
+you. Can you confirm na yung pag-issue ng manager's check ay October, April,
+
+**[04:53:11.790] Sen. Francis “Kiko” Pangilinan**  
+October, April? Tama?
+
+**[04:53:15.420] Marwin L. Galvez**  
+Based on my recollection po dun sa mga exhibit kanina, Your Honor.
+
+**[04:53:19.040] Sen. Francis “Kiko” Pangilinan**  
+In other words, pagdating ng, pag na-release yung October, pagdating ng December 31, at hindi pa na-encash yung manager's check, wala yung buong amount nung, nung October manager's checks. Wala.
+
+**[04:53:35.570] Marwin L. Galvez**  
+It remains to be in the BPI manager's check settlement.
+
+**[04:53:39.670] Sen. Francis “Kiko” Pangilinan**  
+So,
+
+**[04:53:40.130] Sen. Francis “Kiko” Pangilinan**  
+by December 31, Wala yung 41 million, at least doon sa unang example, doon sa bank
+
+**[04:53:47.330] Marwin L. Galvez**  
+account. Tama po your honor hanggat hindi po na ibabalik sa settlement.
+
+**[04:53:50.410] Sen. Francis “Kiko” Pangilinan**  
+At
+
+**[04:53:50.710] Sen. Francis “Kiko” Pangilinan**  
+pagka April, sa
+
+**[04:53:54.230] Sen. Francis “Kiko” Pangilinan**  
+July 1, June 30, na
+
+**[04:54:00.250] Sen. Francis “Kiko” Pangilinan**  
+-issue hindi na yung cash, wala rin yung 41 million by June 30 or July 1.
+
+**[04:54:06.630] Marwin L. Galvez**  
+Hanggat
+
+**[04:54:07.130] Marwin L. Galvez**  
+outstanding po yung manager's check, your honor.
+
+**[04:54:09.810] Sen. Francis “Kiko” Pangilinan**  
+Yes,
+
+**[04:54:10.070] Sen. Francis “Kiko” Pangilinan**  
+okay. I just wanted that clarified. Thank you. Maraming
+
+**[04:54:14.150] Sen. Francis “Kiko” Pangilinan**  
+salamat.
+
+**[04:54:14.650] Marwin L. Galvez**  
+Thank you po, your honor.
+
+**[04:54:19.320] Sen. Francis "Chiz" G. Escudero**  
+I am now prepared to, we are now prepared to answer the query earlier. Let me be specific because the request of attorney Mike is specific. Based on the inventory list of pre-marked exhibits submitted by BPI in response to the subpoena of this court, The signature of the vice president and respondent does not appear in any of the transaction documents such as the opening and closing of the time deposit, the request for manager's check, and similar transactions. It does not.
+
+**[04:55:05.160] Atty. Michael Wesley Poa**  
+Thank you, Your Honor. Thank you for that confirmation.
+
+**[04:55:08.360] Sen. Francis "Chiz" G. Escudero**  
+You may, with the permission of the Senator Judges, you may proceed with your cross and thereafter redirect, if any, from Attorney James.
+
+**[04:55:15.700] Atty. Michael Wesley Poa**  
+Thank you.
+
+**[04:55:16.240] Sen. Francis "Chiz" G. Escudero**  
+Kindly proceed, Attorney Mike.
+
+**[04:55:17.480] Atty. Michael Wesley Poa**  
+Thank you po.
+
+**[04:55:19.460] Atty. Michael Wesley Poa**  
+Sandali na lang po tayo, Mr. Witness. So, na-confirm na po na from the time this account was opened until today, wala pong ni isang transaksyon kung saan may pirma ni VP Sara, whether alone or kasama po ng former President Rodrigo. Roa Duterte. So, you are not also in a position because you have no personal knowledge dito sa pagbukas ng account na ito to answer kung ang purpose ng pagbukas ng account ito is for estate planning purposes lamang ng former president. Tama po ba? Hindi niyo masasagot yun?
+
+**[04:55:56.120] Marwin L. Galvez**  
+Tama po, Your Honor.
+
+**[04:55:56.940] Atty. Michael Wesley Poa**  
+Hindi niyo masasagot. I have the personal knowledge. But basically, these are the documents. Can
+
+**[04:56:02.280] Atty. Michael Wesley Poa**  
+I have the documents? These are all the...
+
+**[04:56:05.580] Atty. Michael Wesley Poa**  
+documents that were submitted by BPI as far as the joint account ending 9539 is concerned. At kahit ano po dito, kahit wala pong transaksyon kung saan pumirma ang ating vicepresidente.
+
+**[04:56:22.440] Atty. James Bryan Ibrahim A. Alih**  
+Objection, Your Honor, as an answer.
+
+**[04:56:26.980] Sen. Francis "Chiz" G. Escudero**  
+That would be correct, but if you're winding up, Attorney Mike, I'll allow it. I'll allow it then with your indulgence, Attorney James, if he's about to wind up.
+
+**[04:56:34.920] Atty. Michael Wesley Poa**  
+Submitted, Your Honor.
+
+**[04:56:37.390] Atty. Michael Wesley Poa**  
+At ito rin po, yung kapal ng dokumento na sinabit niyo ayon sa account naman. Yung personal account ni Atty. Manz. At nasabi niyo kanina, you have no personal knowledge na kung meron mang transaksyon, whatsoever ang ating vicepresidente dito sa account na to. At nabanggit niyo rin na hindi po siya pwedeng humingi. ng kahit anong impormasyon ukol sa account na to unless meron siyang SPA. Tama po ba?
+
+**[04:57:03.430] Marwin L. Galvez**  
+Tama po.
+
+**[04:57:03.890] Atty. Michael Wesley Poa**  
+Okay, that is all for the cross. No further questions.
+
+**[04:57:06.890] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Atty. Micah. Atty. James, redirect.
+
+**[04:57:10.090] Atty. James Bryan Ibrahim A. Alih**  
+Just very brief, Your Honor.
+
+**[04:57:11.330] Sen. Francis "Chiz" G. Escudero**  
+You may proceed when you're ready.
+
+**[04:57:12.490] Atty. James Bryan Ibrahim A. Alih**  
+Sir, I'm sorry. Patapos na tayo, sir. I just have two questions and that was a good representation of the documents but allow me to backtrack. Kasi you mentioned a while ago, through the questions of the presiding officer, particularly on KYC documents. In KYC documents that is owned by, say for example, two people, tapos yung qualification po ay or at saka and, sino po yung dapat mag-sign ng KYC documents?
+
+**[04:57:46.310] Marwin L. Galvez**  
+In any case po, your honor, or po yan or n, basta nakapangalan po ang mga depositors sa account, kailangan po nila lahat po, Myrma.
+
+**[04:57:58.820] Atty. James Bryan Ibrahim A. Alih**  
+Lahat nila. So for example, sir, and I'm not going to, I'll just ask you straight up. Doon sa BPI na yung Julia Vargas branch na under the name of Rodrigo Roa Duterte or Rodrigo Roa Duterte and the Vice President, Sino po ang pumipirma ng KYC documents?
+
+**[04:58:23.170] Marwin L. Galvez**  
+Base po sa dokumentong sinumiti po namin sa Honorable Court, nakapirma po pareho ang account holders.
+
+**[04:58:33.930] Atty. James Bryan Ibrahim A. Alih**  
+When you say nakapirma pareho, does that mean personally talagang pipirma?
+
+**[04:58:39.860] Marwin L. Galvez**  
+Yes, based on the documents that we submitted po, particularly the KYC documents, Perma po pareho ang dalawang nakapangalan po doon sa account. So that's Rodrigo and VP Sara po.
+
+**[04:58:53.970] Atty. James Bryan Ibrahim A. Alih**  
+So hindi aabot ng ganyang kadaming transaksyon kung hindi pumirma ang vice president sa KYC document that gave rise to that account. Tama po ba yan?
+
+**[04:59:05.780] Atty. Michael Wesley Poa**  
+Objection, Your Honor. Leading?
+
+**[04:59:08.470] Atty. Michael Wesley Poa**  
+Actually misleading.
+
+**[04:59:11.060] Sen. Francis "Chiz" G. Escudero**  
+I would sustain the objection because I find it vague as well. Kindly reform, Counsel. Alright. I know where you're getting at.
+
+**[04:59:21.170] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. My question is this, Sir Mau. In those documents or in those accounts, particularly yung sa Julia Vargas na Rodrigo Roa Duterte or Rodrigo Roa Duterte and the Vice President, when a transaction comes in, say for example may 40 million na pumasok, sino po yung nagbe-benefit, if you know?
+
+**[04:59:47.880] Atty. Michael Wesley Poa**  
+Objection. That's hypothetical. That's speculative.
+
+**[04:59:50.360] Atty. James Bryan Ibrahim A. Alih**  
+25 years in practice, Your Honor. Perhaps he knows.
+
+**[04:59:55.040] Sen. Francis "Chiz" G. Escudero**  
+Allow me. In an or and ex or Who owns the account?
+
+**[05:00:05.640] Marwin L. Galvez**  
+Your Honor, if may answer, we can only tell you kung kanino po nakapangalan yung account. But we cannot determine...
+
+**[05:00:18.470] Sen. Francis "Chiz" G. Escudero**  
+But you answered earlier that nothing can move without the signature of Rodrigo Roa Duterte, correct?
+
+**[05:00:25.050] Marwin L. Galvez**  
+That is correct, Your Honor.
+
+**[05:00:26.470] Sen. Francis "Chiz" G. Escudero**  
+A loan
+
+**[05:00:27.810] Sen. Francis "Chiz" G. Escudero**  
+signature of the Vice President will not operate To move or transact anything with that account. Would that be correct?
+
+**[05:00:34.270] Marwin L. Galvez**  
+That is correct, Your Honor.
+
+**[05:00:36.330] Sen. Francis "Chiz" G. Escudero**  
+Now, as to whether or not the Vice President has knowledge, full knowledge or no knowledge of the transactions, would you be in a position to say?
+
+**[05:00:45.900] Marwin L. Galvez**  
+No, Your Honor.
+
+**[05:00:47.540] Sen. Francis "Chiz" G. Escudero**  
+Okay. Attorney James, you're next.
+
+**[05:00:49.060] Atty. James Bryan Ibrahim A. Alih**  
+I think that would sum up my redirect, Your Honor. Thank you.
+
+**[05:00:52.740] Atty. Michael Wesley Poa**  
+Quick
+
+**[05:00:53.140] Atty. Michael Wesley Poa**  
+recross, Your Honor.
+
+**[05:00:54.080] Atty. James Bryan Ibrahim A. Alih**  
+Quick recross.
+
+**[05:00:54.860] Atty. Michael Wesley Poa**  
+Just on the signature card, natanong po kasi kayo dun sa KYC signature card. Practice din po kasi ng mga bangko na yung specimen signature nag-update po kayo. Tama po ba?
+
+**[05:01:07.260] Marwin L. Galvez**  
+Tama po, Your
+
+**[05:01:08.100] Marwin L. Galvez**  
+Honor.
+
+**[05:01:08.500] Atty. Michael Wesley Poa**  
+May I confront the witness, Your Honor, with the document?
+
+**[05:01:11.020] Sen. Francis "Chiz" G. Escudero**  
+You may approach.
+
+**[05:01:11.200] Atty. Michael Wesley Poa**  
+I'm confronting you with the document. This is marked as D-Rumeral No. 2-8-2-3-1-3-BPI, specifically page 145 thereof, Your Honor.
+
+**[05:01:25.710] Atty. Michael Wesley Poa**  
+This refers to the updating of the signature card of account
+
+**[05:01:29.030] Atty. Michael Wesley Poa**  
+number 95 ending with 9539. Nakita niyo po yan, Mr. Witness?
+
+**[05:01:33.710] Marwin L. Galvez**  
+Yes, sir.
+
+**[05:01:34.250] Atty. Michael Wesley Poa**  
+Ito po yung para pag-update, di ba po?
+
+**[05:01:36.430] Marwin L. Galvez**  
+Tama po, sir.
+
+**[05:01:37.450] Atty. Michael Wesley Poa**  
+Nakita niyo po yung sa kaliwa, ang pumirma po ay sino po?
+
+**[05:01:42.000] Marwin L. Galvez**  
+Rodrigo Roa, Duterte po.
+
+**[05:01:43.240] Atty. Michael Wesley Poa**  
+Nakita po sa kanan, sino pong pumirma?
+
+**[05:01:45.880] Marwin L. Galvez**  
+Wala pong nakapirma.
+
+**[05:01:47.080] Atty. Michael Wesley Poa**  
+Thank you, Your Honor. Teresol Ferricross, Your Honor.
+
+**[05:01:50.140] Sen. Francis "Chiz" G. Escudero**  
+Just for the court, what year is this update of the KYC?
+
+**[05:01:54.300] Atty. Michael Wesley Poa**  
+2015,
+
+**[05:01:54.960] Atty. Michael Wesley Poa**  
+Your Honor.
+
+**[05:01:55.320] Sen. Francis "Chiz" G. Escudero**  
+Okay. Thank you.
+
+**[05:01:59.140] Sen. Francis "Chiz" G. Escudero**  
+Next to interject, make interjections will be Senator Judge Lacson. Thereafter, Senator Judge Erwin Tulfo.
+
+**[05:02:08.400] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Lacson is recognized.
+
+**[05:02:10.220] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir, when you're ready.
+
+**[05:02:11.680] Sen. Panfilo “Ping” M. Lacson**  
+Yes, Mr. President and Officer. Medyo na-cover na ni Senator Kiko yung tanong ko. I-clarify ko lang. Kapag or, Maski sino pwede mag-sign pag nag-withdraw or nag-withdraw?
+
+**[05:02:23.020] Marwin L. Galvez**  
+Tama
+
+**[05:02:23.700] Sen. Panfilo “Ping” M. Lacson**  
+po. Ngayon lang nakakita kasi ng or tapos merong and or. Anong implication kung Rodrigo or X or X and or Y?
+
+**[05:02:39.640] Marwin L. Galvez**  
+Pwede pong pakialet, Your Honor.
+
+**[05:02:41.580] Sen. Panfilo “Ping” M. Lacson**  
+Kasi ang sinabi kanina, yung account, yung 9539, Rodrigo Roa Duterte or? Rodrigo Roa Duterte, and or.
+
+**[05:02:53.940] Marwin L. Galvez**  
+And po.
+
+**[05:02:55.320] Marwin L. Galvez**  
+And Sara Duterte. Opo. Rodrigo Roa or.
+
+**[05:03:00.900] Sen. Panfilo “Ping” M. Lacson**  
+In other words, pwedeng nakapirma lang si former President Duterte.
+
+**[05:03:06.480] Marwin L. Galvez**  
+In the case po nung Julia Vargas account, Your Honor.
+
+**[05:03:10.120] Sen. Panfilo “Ping” M. Lacson**  
+Yes,
+
+**[05:03:10.360] Sen. Panfilo “Ping” M. Lacson**  
+I'm referring to that.
+
+**[05:03:11.500] Marwin L. Galvez**  
+Opo, si former President Rodrigo Roa Duterte lang po ang kayang pumirma na mag-isa.
+
+**[05:03:18.130] Sen. Panfilo “Ping” M. Lacson**  
+Pero kung si Vice President Sara Duterte, kailangan merong pirma rin.
+
+**[05:03:22.350] Marwin L. Galvez**  
+Kailangan po may pirma rin po ng former president.
+
+**[05:03:24.590] Sen. Panfilo “Ping” M. Lacson**  
+Now, ito, without alluding to anyone, sabi niyo hindi uncommon yung nagpapurchase ng manager's checks. Ang tanong ko, karamihan ba na nagpapurchase ng manager's check pagdating ng October or before year-end, mga government officials?
+
+**[05:03:48.610] Sen. Panfilo “Ping” M. Lacson**  
+Pattern ba yan?
+
+**[05:03:50.030] Marwin L. Galvez**  
+I have no personal knowledge or I cannot comment on that.
+
+**[05:03:53.830] Sen. Panfilo “Ping” M. Lacson**  
+Kasi kanina, lumabas kasi si Sen. Lapid. Nung bumalik siya, sabi niya, ano ba yung pinag-uusapan? So binrip ko siya. Nung kanyang naintindihan, sinabi ko sa kanya na ganito yan. Kasi pag inalis mo yung bumili ka ng manager's check, effectively, parang bumili ka sa bangko, so yung pera mo na sa bangko. Hawak mo lang yung cheque. E sabi niya, E next month daw, magbibilisan ng manager check na 100 million. Thank you.
+
+**[05:04:26.410] Sen. Francis "Chiz" G. Escudero**  
+Kung
+
+**[05:04:26.930] Sen. Francis "Chiz" G. Escudero**  
+hindi man kayo, ako na yung naaawa kayo, Senator,
+
+**[05:04:29.110] Sen. Panfilo “Ping” M. Lacson**  
+dito. Joke lang po yun.
+
+**[05:04:34.200] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Erwin Tulfo is recognized.
+
+**[05:04:38.060] Sen. Francis "Chiz" G. Escudero**  
+Thereafter, Senator Diveros. Thereafter, the Senate President.
+
+**[05:04:42.950] Sen. Erwin Tulfo**  
+Attorney Mao, good afternoon.
+
+**[05:04:45.890] Marwin L. Galvez**  
+Maganda ka pa po, Your Honor. Paumanhin po hindi po ako abogado.
+
+**[05:04:50.970] Sen. Erwin Tulfo**  
+Okay. Anyway, sir. Alam niyo naman itong depositor ng 40 million na time deposit ng mga PEP ito or person exposed to politics. Alam niyo naman?
+
+**[05:05:05.050] Marwin L. Galvez**  
+Yes
+
+**[05:05:05.410] Marwin L. Galvez**  
+po.
+
+**[05:05:05.710] Sen. Erwin Tulfo**  
+Alright. Hindi po ba meron tayong rules yet sa bangko na? Pag yung politiko nag-deposit ng malalaking pera, dapat mas mahigpit po tayo. Yung inyong kliyente na mag-de-deposit ng napakalaking pera, dapat mas marami kayong hinihingi. Tama po ba ito?
+
+**[05:05:24.460] Marwin L. Galvez**  
+Lahat po ng mga kliyente yung nag-transact po, Your Honor, hinihingan po namin ng karampatang identification po.
+
+**[05:05:32.100] Sen. Erwin Tulfo**  
+Opo, pero pag politiko po, I mean, you... Dapat mas mahigpit, di po ba? Dapat mas matindi?
+
+**[05:05:38.570] Marwin L. Galvez**  
+If I may say po, Your Honor.
+
+**[05:05:40.190] Sen. Erwin Tulfo**  
+Alright.
+
+**[05:05:41.070] Sen. Erwin Tulfo**  
+Ngayon, tanong ko. To your knowledge, sir, as a banking professional, would a standard monthly government salary, sir, naturally generate a cash placement of this magnitude? Na isang government official, masking combined po sila mag-asawa, mag-anak, mag-ama, mag-generate pag 40 million in placement. Natural po ba yun? Or dapat magkaroon po, magki-trigger yun ng mga katanungan?
+
+**[05:06:13.870] Marwin L. Galvez**  
+Your Honor, hindi po ako personally knowledgeable as to the salary of the government official, Your
+
+**[05:06:21.670] Marwin L. Galvez**  
+Honor.
+
+**[05:06:21.671] Sen. Erwin Tulfo**  
+Hindi naman siguro
+
+**[05:06:22.310] Sen. Erwin Tulfo**  
+tig-one million sila, Sir. Hindi po ba?
+
+**[05:06:25.790] Marwin L. Galvez**  
+Maari po, Your Honor.
+
+**[05:06:26.990] Sen. Erwin Tulfo**  
+But what I'm saying is that... Pwede ba yun? Yung placement talas ganong 40 million ay yung sweldo lang po ng government. Pinakamataas na ako yata ay 200, 300,000 a month.
+
+**[05:06:40.080] Marwin L. Galvez**  
+Your Honor, I cannot speculate po kasi maaari pong may mga ibang pinanggalingan po yung mga perang i-de-deposit po sa bangko.
+
+**[05:06:50.160] Sen. Erwin Tulfo**  
+Itong multi-million peso na time deposit na in-open, rollover, nag-mature, di po ba? Ito po ay Habang sila ay nasa pwesto. Tama po ba? While they were in the position, while they were in serving as a public official.
+
+**[05:07:07.450] Marwin L. Galvez**  
+Yes, for the period covered po.
+
+**[05:07:10.030] Sen. Erwin Tulfo**  
+Okay.
+
+**[05:07:10.850] Marwin L. Galvez**  
+But not necessarily the current position, Your Honor.
+
+**[05:07:14.390] Sen. Erwin Tulfo**  
+Another question, sir. Looking at the source documentation for the stand deposit, this money did not originate from a BPI bank loan or credit facility extended to the depositor, correct?
+
+**[05:07:27.050] Marwin L. Galvez**  
+Your Honor, I won't be able to answer directly your question, Your Honor. I would have to refer to all the documents and trace back the source of this amount, Your Honor.
+
+**[05:07:40.810] Sen. Erwin Tulfo**  
+Also, there are no records indicating that the specific multi-million peso deposit came from a registered corporate entity or legitimate commercial dividends linked to the depositor, Sir?
+
+**[05:07:52.190] Marwin L. Galvez**  
+I wouldn't personally know, Your Honor. I would have to refer to the documents.
+
+**[05:07:56.860] Sen. Erwin Tulfo**  
+Mr. Presiding Officer, I got two more questions. I only have eight seconds, but when the sum deposit, sir, matured, the principal and interest were immediately converted into a BPI manager's check. Is that correct?
+
+**[05:08:10.880] Marwin L. Galvez**  
+Base po dun sa sinample po ng prosecution kanina, tama po, Your Honor.
+
+**[05:08:15.720] Sen. Erwin Tulfo**  
+By converting these funds into a manager's check, the money effectively vanished from visible monthly bank statements of that specific account number, correct?
+
+**[05:08:26.020] Marwin L. Galvez**  
+Your Honor, base po sa explanation ko po kanina, kapag ka yung pong pera ay ginamit pambilin ng manager's cheque po, mawawala po siya sa balance nung... Pinanggaling ang account po.
+
+**[05:08:39.440] Sen. Erwin Tulfo**  
+So are you saying na nawawala po?
+
+**[05:08:42.180] Marwin L. Galvez**  
+Mawawala po talaga siya, Your Honor.
+
+**[05:08:44.600] Sen. Erwin Tulfo**  
+Pero diyan pa siya sa banko?
+
+**[05:08:46.740] Marwin L. Galvez**  
+Nasa banko po in the form of the manager's check account
+
+**[05:08:51.080] Marwin L. Galvez**  
+po.
+
+**[05:08:51.220] Sen. Erwin Tulfo**  
+Pero kung i-check lang mga account balance, etc., hindi po lulutang?
+
+**[05:08:55.340] Marwin L. Galvez**  
+Hindi po siya lalabas as a part of the total balance po, Your Honor, for as long as nasa manager's account.
+
+**[05:09:04.300] Sen. Erwin Tulfo**  
+One last question, sir. Who was the ultimate payee? Who in cash or deposited that manager's cheque?
+
+**[05:09:10.710] Marwin L. Galvez**  
+Your Honor, I would have to refer to all the documents we submitted if that question would be answered by those documents.
+
+**[05:09:20.090] Sen. Erwin Tulfo**  
+Maraming salamat po for your patience. Maraming salamat po. Thank you,
+
+**[05:09:23.990] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Irwin. Senator Judge Riza is recognized.
+
+**[05:09:28.740] Sen. Francis "Chiz" G. Escudero**  
+The Senate President is recognized.
+
+**[05:09:32.380] Sen. Sherwin T. Gatchalian**  
+Thank you, Mr. Presiding Officer.
+
+**[05:09:41.720] Sen. Sherwin T. Gatchalian**  
+Mr. Witness, magandang hapon sa iyo.
+
+**[05:09:45.920] Marwin L. Galvez**  
+Magandang hapon po.
+
+**[05:09:46.780] Sen. Sherwin T. Gatchalian**  
+Sundan ko lang yung tanong ni Senator Pangilinan at [unclear] Senator Lacson.
+
+**[05:09:52.060] Sen. Sherwin T. Gatchalian**  
+Dito sa account na ito, itong account 9539.
+
+**[05:09:57.720] Sen. Sherwin T. Gatchalian**  
+Sabi mo na this is a joint account between the former president and kay Vice President Sara Duterte.
+
+**[05:10:05.640] Sen. Sherwin T. Gatchalian**  
+At nasabi mo rin kanina na pareho sila pumirma ng signature card, tama po ba?
+
+**[05:10:12.030] Marwin L. Galvez**  
+Tama po. Base po sa mga isinimiti naming KYC documents po, pareha po silang nakapirma.
+
+**[05:10:18.430] Sen. Sherwin T. Gatchalian**  
+Ito ay noong 2010?
+
+**[05:10:23.300] Marwin L. Galvez**  
+If I can recall po, tama po, 2010 po. But I would have to look at the documents, Your Honor, po to ascertain if the signature card that bears the signature of both Rodrigo and Sara Duterte is
+
+**[05:10:40.720] Marwin L. Galvez**  
+On the said date, your honor.
+
+**[05:10:42.180] Sen. Sherwin T. Gatchalian**  
+Pero nung binuksan yung account, silang dalawa humerma. Kailangan ba sila pumunta doon personally? Nakita ng bank officer?
+
+**[05:10:51.510] Marwin L. Galvez**  
+Dalawa
+
+**[05:10:52.150] Sen. Sherwin T. Gatchalian**  
+sila?
+
+**[05:10:53.030] Marwin L. Galvez**  
+Dapat po normally, ang kliyente po na mag-open ay makita po ng bank employee po.
+
+**[05:10:59.410] Sen. Sherwin T. Gatchalian**  
+Yung dalawa?
+
+**[05:11:00.540] Marwin L. Galvez**  
+Yes po.
+
+**[05:11:01.180] Sen. Sherwin T. Gatchalian**  
+Si former President Duterte and Vice President Sara.
+
+**[05:11:05.500] Marwin L. Galvez**  
+Yes po. Generally po, Your Honor, pumupunta po sa banko. Pero may mga instances po na hindi kinakailangan pumunta basta na-witness po ng bank personnel yung pag-firma nila.
+
+**[05:11:15.660] Sen. Sherwin T. Gatchalian**  
+Both ba sila dumadaan sa KYC?
+
+**[05:11:18.080] Marwin L. Galvez**  
+Parehas po. Lahat po ng mga nakapangalan sa account na inoopen po ay dadaan po sa... KYC Policy.
+
+**[05:11:25.890] Sen. Sherwin T. Gatchalian**  
+Sa
+
+**[05:11:26.130] Sen. Sherwin T. Gatchalian**  
+KYC Policy. Okay. Anong mga taon na merong time deposits na 40 million? Kanina sinabi nung prosecution 2010 may time deposit na 40 million. Tama?
+
+**[05:11:39.230] Marwin L. Galvez**  
+Tama po base po sa exhibit ng prosecution kanina, Your Honor.
+
+**[05:11:43.230] Sen. Sherwin T. Gatchalian**  
+Sa 2011, meron rin?
+
+**[05:11:45.690] Marwin L. Galvez**  
+Meron din po base po sa mga pinresenta po kanina.
+
+**[05:11:51.570] Sen. Sherwin T. Gatchalian**  
+Alam mo ba kung meron o wala?
+
+**[05:11:54.280] Marwin L. Galvez**  
+Kung maalala ko po kanina yung mga tinanong na dates, mga ganong around those period po, Your Honor. But I would request if you need specific dates po, I would have to refer to the documents, Your Honor.
+
+**[05:12:07.560] Sen. Sherwin T. Gatchalian**  
+Pwede mo bang tignan yung documents? In time deposit lang, anong years merong time
+
+**[05:12:11.300] Sen. Sherwin T. Gatchalian**  
+deposits?
+
+**[05:12:12.080] Marwin L. Galvez**  
+Your Honor, if I may request the...
+
+**[05:12:13.420] Atty. James Bryan Ibrahim A. Alih**  
+Your
+
+**[05:12:16.730] Atty. James Bryan Ibrahim A. Alih**  
+Honor, our assisting counsel is assisting. And just to clarify, Your Honor, it's two time deposits, 41 million and... 55 million, sir. Which was explained kanina po.
+
+**[05:12:28.350] Sen. Sherwin T. Gatchalian**  
+Yes. That was, counsel, that was for year 2010?
+
+**[05:12:32.250] Atty. James Bryan Ibrahim A. Alih**  
+Yes po. Parehas pong tumatakbo yung dalawa na yun. Same time.
+
+**[05:12:38.070] Sen. Sherwin T. Gatchalian**  
+So 2010, magkano ang time deposit?
+
+**[05:12:42.970] Atty. James Bryan Ibrahim A. Alih**  
+Total po 96. Dalawang magkahiwalay, 55 at saka 41.
+
+**[05:12:48.790] Sen. Sherwin T. Gatchalian**  
+For 2010?
+
+**[05:12:49.910] Atty. James Bryan Ibrahim A. Alih**  
+Yes po.
+
+**[05:12:50.570] Sen. Sherwin T. Gatchalian**  
+For 2011?
+
+**[05:12:52.170] Atty. James Bryan Ibrahim A. Alih**  
+Same.
+
+**[05:12:53.390] Sen. Sherwin T. Gatchalian**  
+96 rin. Yes. For 2012?
+
+**[05:12:57.110] Atty. James Bryan Ibrahim A. Alih**  
+Naging ano na po. Naging MCs na po siya.
+
+**[05:13:00.770] Sen. Sherwin T. Gatchalian**  
+May time deposit o wala?
+
+**[05:13:02.610] Atty. James Bryan Ibrahim A. Alih**  
+No, hindi na po nag-renew if I recall it right, sir. So
+
+**[05:13:05.630] Sen. Sherwin T. Gatchalian**  
+2010, 2011 may time deposits.
+
+**[05:13:08.370] Sen. Sherwin T. Gatchalian**  
+2013?
+
+**[05:13:10.470] Atty. James Bryan Ibrahim A. Alih**  
+Based po sa testimony, wala na po. Naging MCs na po lahat. So
+
+**[05:13:14.890] Sen. Sherwin T. Gatchalian**  
+definitely 2010 and 2011. Value of 96?
+
+**[05:13:19.580] Atty. James Bryan Ibrahim A. Alih**  
+96 million.
+
+**[05:13:20.760] Sen. Sherwin T. Gatchalian**  
+96 million.
+
+**[05:13:21.740] Atty. James Bryan Ibrahim A. Alih**  
+Two different time deposits. 41 and 55 million.
+
+**[05:13:26.680] Sen. Sherwin T. Gatchalian**  
+Okay. And then, tama po ba na kanina present, tinitignan ko ngayon, na yung mga managers check, for example, in 2011 na issue ng October? Taman po ba? Mr. Witness?
+
+**[05:13:50.570] Sen. Sherwin T. Gatchalian**  
+Mr.
+
+**[05:13:51.230] Sen. Sherwin T. Gatchalian**  
+Galvez?
+
+**[05:13:51.930] Marwin L. Galvez**  
+Sorry po, Your Honor. Pwede pong pakiulit.
+
+**[05:13:54.450] Sen. Sherwin T. Gatchalian**  
+Noong 2010, kailan na-issue yung manager's check?
+
+**[05:14:04.060] Marwin L. Galvez**  
+Your Honor,
+
+**[05:14:18.680] Marwin L. Galvez**  
+may nakikita po akong manager's check dated April 19, 2012. Ang
+
+**[05:14:23.160] Sen. Sherwin T. Gatchalian**  
+na-issue yung manager's check?
+
+**[05:14:25.140] Marwin L. Galvez**  
+Yes po, Your Honor.
+
+**[05:14:27.180] Sen. Sherwin T. Gatchalian**  
+And then for 2012, kailan na-issue yung manager's check?
+
+**[05:14:32.560] Marwin L. Galvez**  
+April 19, 2012 po.
+
+**[05:14:34.560] Sen. Sherwin T. Gatchalian**  
+Na
+
+**[05:14:34.920] Sen. Sherwin T. Gatchalian**  
+-issue yung manager's check.
+
+**[05:14:36.200] Marwin L. Galvez**  
+Tama po.
+
+**[05:14:36.740] Sen. Sherwin T. Gatchalian**  
+Okay. And then meron pa ba 2013?
+
+**[05:14:59.750] Marwin L. Galvez**  
+Sir, I see, your honor, I see a manager's check po dated October 20, 2011 din po.
+
+**[05:15:08.220] Sen. Sherwin T. Gatchalian**  
+Oh, sorry. Ulitin natin ha. 2010, ano ang date? 2010.
+
+**[05:15:19.700] Sen. Sherwin T. Gatchalian**  
+Yung manager's check.
+
+**[05:15:24.520] Marwin L. Galvez**  
+Wala pong 2010, your honor. 2011 po yung...
+
+**[05:15:28.770] Sen. Sherwin T. Gatchalian**  
+2011 is
+
+**[05:15:29.890] Sen. Sherwin T. Gatchalian**  
+anong date?
+
+**[05:15:31.770] Marwin L. Galvez**  
+For isang October 20, 2011 po. Dalawa po, bali. Dalawa managers check dated October 20, 2011, Your Honor.
+
+**[05:15:42.960] Sen. Sherwin T. Gatchalian**  
+Okay. And then for 2012?
+
+**[05:15:46.220] Marwin L. Galvez**  
+For
+
+**[05:15:46.820] Marwin L. Galvez**  
+2012, yun po yung April 19, 2012 po, Your Honor.
+
+**[05:15:51.440] Sen. Sherwin T. Gatchalian**  
+Okay. And then for 2013?
+
+**[05:16:33.260] Marwin L. Galvez**  
+For 2013, your honor, meron pong dated October 7, 2013.
+
+**[05:16:38.080] Sen. Sherwin T. Gatchalian**  
+Ano ang nauuna? Yung pag-debit ng account mo papunta sa account ng bangko o mag-issue ng manager's cheque?
+
+**[05:16:50.020] Marwin L. Galvez**  
+Kailangan po munang ma-debit yung pinanggalingan po ng account.
+
+**[05:16:53.100] Sen. Sherwin T. Gatchalian**  
+Yung pinanggalingan?
+
+**[05:16:53.820] Marwin L. Galvez**  
+Para pag na-negotiate po yung manager's cheque, may pondo po siya.
+
+**[05:16:56.860] Sen. Sherwin T. Gatchalian**  
+Okay. So, nung 2010, kailangan na-debit yung account?
+
+**[05:17:04.870] Sen. Sherwin T. Gatchalian**  
+9539.
+
+**[05:17:11.990] Sen. Sherwin T. Gatchalian**  
+Yung account 9539. Para pumunta sa account ng banko.
+
+**[05:17:22.960] Sen. Sherwin T. Gatchalian**  
+Maybe the counsel can assist?
+
+**[05:17:26.820] Atty. James Bryan Ibrahim A. Alih**  
+Wala hindi. This is a time deposit.
+
+**[05:17:30.820] Sen. Sherwin T. Gatchalian**  
+From
+
+**[05:17:31.540] Sen. Sherwin T. Gatchalian**  
+account 9539 pumunta sa account ng banko. 2013 siya.
+
+**[05:17:38.400] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor, based po dun sa time deposit po. 2010. 2010. Doon sa 40 million po, the last
+
+**[05:17:53.380] Atty. James Bryan Ibrahim A. Alih**  
+renewal was on February 11,
+
+**[05:17:59.760] Atty. James Bryan Ibrahim A. Alih**  
+2011.
+
+**[05:18:00.820] Atty. James Bryan Ibrahim A. Alih**  
+Bumalik siya ng March?
+
+**[05:18:02.970] Atty. James Bryan Ibrahim A. Alih**  
+March 9 po bumalik sa settlement account. Yan po yung sa 40 million.
+
+**[05:18:11.610] Sen. Sherwin T. Gatchalian**  
+Pero from settlement to the bank account?
+
+**[05:18:15.820] Sen. Sherwin T. Gatchalian**  
+May transfer
+
+**[05:18:16.860] Sen. Sherwin T. Gatchalian**  
+pa yan for the issuance of the manager's check?
+
+**[05:18:20.320] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. Kasi sa settlement account, diretsyo na po sa account ng bank for...
+
+**[05:18:25.240] Sen. Sherwin T. Gatchalian**  
+Diretsyo na siya? Kailan yun? Anong month yun? Tama ba? Mr. Galvez?
+
+**[05:18:31.570] Marwin L. Galvez**  
+Sir, Your Honor, base po sa mga dokumentong tinitignan ko ngayon, wala pong manager's check dated 2010 po.
+
+**[05:18:42.790] Marwin L. Galvez**  
+Meron pong time deposit po. Na dated 2010 po.
+
+**[05:18:47.260] Sen. Sherwin T. Gatchalian**  
+Time deposit na dated 2010. Ito yung 96 million.
+
+**[05:18:50.840] Marwin L. Galvez**  
+40 po plus 55, Your Honor.
+
+**[05:18:56.910] Sen. Sherwin T. Gatchalian**  
+And then yung gusto ko malaman yung from settlement account to the bank account in 2010.
+
+**[05:19:08.720] Marwin L. Galvez**  
+Paumanhin po, Your Honor. Wala po ako
+
+**[05:19:10.540] Marwin L. Galvez**  
+nakita.
+
+**[05:19:11.080] Marwin L. Galvez**  
+2011 meron po.
+
+**[05:19:16.220] Sen. Sherwin T. Gatchalian**  
+For
+
+**[05:19:16.860] Sen. Sherwin T. Gatchalian**  
+2011.
+
+**[05:19:18.040] Atty. James Bryan Ibrahim A. Alih**  
+Maybe I can help your honor. Because this is just part of the record, sir honor. So ang ano po is March 9, 2011. That is for both checks po. 41 million and 55 million.
+
+**[05:19:31.820] Sen. Sherwin T. Gatchalian**  
+Okay. And for 2012?
+
+**[05:19:36.250] Atty. James Bryan Ibrahim A. Alih**  
+Before 2012, your honor, meron pang isa nung October. That is on October 20.
+
+**[05:19:44.560] Atty. James Bryan Ibrahim A. Alih**  
+Parehas din po, October 20. for 41 million, and October 20 for another 55 million.
+
+**[05:19:53.450] Sen. Sherwin T. Gatchalian**  
+And then for 2013?
+
+**[05:19:55.570] Atty. James Bryan Ibrahim A. Alih**  
+For 2012 pa po. Sa 2012 po, April naman po, April 19, for the same amounts, a total of 96.
+
+**[05:20:07.310] Atty. James Bryan Ibrahim A. Alih**  
+And then from April, six months after, October 17, 2012, that is still for 96 million. And then April again, 2013 na po, again for 96, and lastly po nung October 7, parehas pa rin po yung date, for the same amount na dalawang checks, 41 and 55 million.
+
+**[05:20:35.860] Sen. Sherwin T. Gatchalian**  
+Alright, thank you, thank you for that. The reason why I am asking, kasi minabanga ko ito doon sa SALN ni Vice President Sara, at kung merong time deposit na joint account,
+
+**[05:20:49.880] Sen. Sherwin T. Gatchalian**  
+96 million. Dapat mag-reflect yan sa SALN niya. Kasi joint account. And alam niya na mayroong ganun na account. So tinitignan ko dito sa 2010 SALN, wala akong makitang 96 million. Dito sa 2011, wala rin akong makitang 96 million. And then sinabi mo kanina, counsel, na yung 2012, wala na.
+
+**[05:21:16.120] Atty. James Bryan Ibrahim A. Alih**  
+Yes.
+
+**[05:21:16.860] Sen. Sherwin T. Gatchalian**  
+Nawala na siya. Nevertheless, in 2012 wala rin akong makitang 96 million. So I'm trying to link yung sinasabi nyo kaninang bumili ng manager's cheque, ninagay muna sa banko ng account ng banko at nagiging unutilized si manager's cheque. So I'm trying to... Trying to link that to the SALN and see kung merong pattern. That's the point I'm trying to make.
+
+**[05:21:46.820] Atty. James Bryan Ibrahim A. Alih**  
+Understood, your honor. And I think that's the best way of looking at it, yung pattern po na yan because that involved six transactions for the same period, same dates.
+
+**[05:21:59.300] Sen. Sherwin T. Gatchalian**  
+But ang bottom line kasi, for 2010 and 2011, may time deposit na 96 million.
+
+**[05:22:06.520] Atty. James Bryan Ibrahim A. Alih**  
+Yes, your honor.
+
+**[05:22:07.300] Sen. Sherwin T. Gatchalian**  
+I think that is a fact. Tama ko ba, Mr. Galvez?
+
+**[05:22:12.080] Marwin L. Galvez**  
+Tama po, Your Honor, based on the documents we submitted po.
+
+**[05:22:16.160] Sen. Sherwin T. Gatchalian**  
+Thank
+
+**[05:22:16.540] Sen. Sherwin T. Gatchalian**  
+you,
+
+**[05:22:16.740] Sen. Sherwin T. Gatchalian**  
+Mr.
+
+**[05:22:17.160] Atty. Michael Wesley Poa**  
+President. Your Honor, with all due respect, kung okay lang po, since the prosecution was able to say it's a pattern and all that, may I just, and it's up to the court how they will appreciate this.
+
+**[05:22:28.400] Sen. Francis "Chiz" G. Escudero**  
+You can have your fair share of
+
+**[05:22:29.200] Sen. Francis "Chiz" G. Escudero**  
+another word.
+
+**[05:22:30.760] Atty. Michael Wesley Poa**  
+I think tama po yung question ng ating butihing Senate President. The operative word is, if she is aware. Diba? You were saying, these accounts, the time deposit, if she is aware, dapat magbangga sa SALN. Operative phrase there, if she is aware. And secondly, as we demonstrated during CROSS, all these time deposits, all these transactions, wala pong pirma ng ating vice-presidente. And all of them were done by the former president, Rodrigo R. Duterte. We'll leave it at that, Your Honor. We will not make conclusions of law or fact.
+
+**[05:23:07.720] Sen. Sherwin T. Gatchalian**  
+Doon sa signature card ay pumupunta ba doon personally? May KYC? Kailan nagbukas ng account?
+
+**[05:23:17.880] Sen. Sherwin T. Gatchalian**  
+That's why tinanong ko kay Mr. Galvez kung 2010, as early as 2010, meron ng signature. Si vice president doon sa joint account and apparently meron. And
+
+**[05:23:31.510] Atty. Michael Wesley Poa**  
+that's also why we asked your honor for dun sa updating ng accounts because I could not ask the witness kung pumirma ba si BP because obviously he won't have personal knowledge on that but that's also why we asked on dun sa updating kung pumirma ba but again I don't want to cross. The line and I will just leave it to the appreciation of the court, Your Honor. Again, thank you for your patience with me also, Mr. President.
+
+**[05:23:55.090] Sen. Sherwin T. Gatchalian**  
+Thank you, Atty. Poa. Thank you, Mr. Galdas.
+
+**[05:23:57.170] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Mr. President. Senator Judge Antiveros is recognized. You may proceed, Ma'am.
+
+**[05:24:10.150] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Ilan lang, actually a couple lang ng mga tanong para sa defense.
+
+**[05:24:17.550] Sen. Risa Hontiveros**  
+Para lang malinaw. Magandang hapon po, Atty. Poa. Magandang
+
+**[05:24:20.550] Atty. Michael Wesley Poa**  
+hapon po.
+
+**[05:24:23.030] Sen. Risa Hontiveros**  
+Bagamat sinabi niyo nga kanina na Mas importante yung sulat, yung sagot ng BPI Legal sa inyo. Yung letter po ninyo sa BPI Legal, pwede nyo po bang i-flash? With the permission of the presiding officer.
+
+**[05:24:38.820] Atty. Michael Wesley Poa**  
+If they will permit.
+
+**[05:24:40.060] Atty. Michael Wesley Poa**  
+Yes,
+
+**[05:24:42.910] Atty. Michael Wesley Poa**  
+Your Honor, you can ask the tech.
+
+**[05:24:45.350] Sen. Risa Hontiveros**  
+Yung sulat ninyo po sa BPI Legal.
+
+**[05:24:47.230] Sen. Risa Hontiveros**  
+Thank you po.
+
+**[05:24:51.410] Sen. Francis "Chiz" G. Escudero**  
+The tech is so instructed upon the request of Senator Judge Riza.
+
+**[05:24:55.560] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer.
+
+**[05:25:14.050] Atty. Michael Wesley Poa**  
+Sorry, Your Honor, if it's taking some time.
+
+**[05:25:16.250] Sen. Francis "Chiz" G. Escudero**  
+It's alright po.
+
+**[05:25:18.720] Sen. Francis "Chiz" G. Escudero**  
+You
+
+**[05:25:19.120] Sen. Francis "Chiz" G. Escudero**  
+can proceed to another point in the meantime, Senator Judge Riza. Ah, there you go.
+
+**[05:25:23.160] Sen. Francis "Chiz" G. Escudero**  
+Can
+
+**[05:25:23.560] Sen. Francis "Chiz" G. Escudero**  
+you kindly blow it up a bit?
+
+**[05:25:29.900] Sen. Francis "Chiz" G. Escudero**  
+Yes, you may proceed, Senator Judge Riza.
+
+**[05:25:33.280] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Ah, alright.
+
+**[05:25:40.430] Sen. Risa Hontiveros**  
+If
+
+**[05:25:40.830] Sen. Risa Hontiveros**  
+I could just... Should I read this out, Mr. President?
+
+**[05:25:45.540] Sen. Francis "Chiz" G. Escudero**  
+The tech is requested to kindly blow it up a bit.
+
+**[05:25:49.290] Atty. Michael Wesley Poa**  
+Your Honor, may I
+
+**[05:25:51.800] Atty. Michael Wesley Poa**  
+give you a copy?
+
+**[05:25:51.801] Sen. Francis "Chiz" G. Escudero**  
+Kindly give a copy to Senator Judge Riza.
+
+**[05:25:54.020] Sen. Risa Hontiveros**  
+Salamat po. It's simply... Salamat po, Attorney.
+
+**[05:26:06.890] Sen. Risa Hontiveros**  
+So it simply says,
+
+**[05:26:09.000] Sen. Risa Hontiveros**  
+[unclear] We write as counsel for Vice President [unclear] Duterte. Certain public statements have referred to purported bank accounts allegedly maintained with your institution bearing various account numbers, hereto attached as Annex A. In light of these allegations and considering that our client has no knowledge, participation, or recollection of maintaining or having any beneficial interest in such accounts, we respectfully request confirmation of the following.
+
+**[05:26:34.180] Sen. Risa Hontiveros**  
+1. Whether the enumerated accounts exist in your records and 2. If it exists, the present status of said accounts. In the event that such accounts are found to exist, we further request guidance on the procedure for obtaining legally permissible documentation, including, if allowed by law, certified copies of the account opening documents, transaction history, and other relevant records. For this purpose, we have attached the duly executed special power of attorney authorizing the undersigned Atty. Poa, to make this formal inquiry and to receive certifications or documents subject to compliance with applicable banking and privacy laws. This request is being made solely for verification purposes and shall not be construed as any admission, acknowledgement or confirmation of ownership, authority or beneficial interest in any such account. We appreciate your prompt attention and look forward to your response for the firm Atty. Michael T. Poa. So ang kaugnay na tanong ko lamang po dito sa sulat na ito ninyo, Atty. Poa, sa BPI Legal. Yung pagkakaintindi ko po kasi sa sinasabi ninyo so far. Ang tunay na may-ari at may-control doon sa ginawa sa manager's cheque na 41 million pesos ay si Rodrigo Roa Duterte at hindi si Sara Duterte. Tama po ba yun?
+
+**[05:27:56.650] Atty. Michael Wesley Poa**  
+Well, to better phrase it, Your Honor, our client Does not have any recollection kasi of this account. Lumabas lang po ito. Because I don't want to waive, no? Of course, the rights of the former president also to challenge whatever documents he may challenge. But ang punto lang po namin, nung lumabas po ito... I think it was sa Quadcom, if I'm not mistaken. Lumabas yung mga accounts. Tinitingnan namin itong mga accounts na to and I was asked by the vice president to verify kasi hindi niya natatandaan na may ganito yung account at wala daw siyang transaksyon. So, in fact, that's why we wanted to show even the response of the BPI to my letter. But I understand, of course, the objection of the prosecution. I probably would have done the same. So ang sa amin lang po, we will present as instructed by, as advised by the presiding officer to present the response of BPI para lalo nating maintindihan because ang punto lang po namin sa letter na ito is to ask whether or not the accounts exist and if they do exist to at least give us the documents para alam naman po namin dahil noong time na yun ay alam namin may nakahain na rin po na impeachment laban sa ating vicepresidente.
+
+**[05:29:10.320] Sen. Risa Hontiveros**  
+So sabi niyo si VP Duterte walang recollection nitong mga transactions and bagamat ayaw niyong i-waive yung karapatan ng dating presidente, hamuni nito. So ang tinuturo ni VP Duterte ay kanyang ama si Rodrigo Roa Duterte sa mga transactions nito.
+
+**[05:29:28.770] Atty. Michael Wesley Poa**  
+Ang sinasabi lang po niya ay wala siyang naging participation.
+
+**[05:29:31.670] Sen. Risa Hontiveros**  
+Walang participation.
+
+**[05:29:33.330] Atty. Michael Wesley Poa**  
+I hope you understand, Madam Senator. I just don't want to prejudice also the former President and his counsel for any legal defenses they may have regarding these accounts.
+
+**[05:29:43.170] Sen. Risa Hontiveros**  
+I understand, Attorney Poa. So, salamat po, Mr. President. That's all from me for now.
+
+**[05:29:51.250] Sen. Francis "Chiz" G. Escudero**  
+Thank
+
+**[05:29:51.770] Sen. Francis "Chiz" G. Escudero**  
+you for your presence, Madam Senator.
+
+**[05:29:53.630] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Villanueva, you may proceed when you're ready, sir.
+
+**[05:30:02.640] Sen. Francis "Chiz" G. Escudero**  
+Thereafter, Senator Judge Panglinaan and then you're done. Mr. Mao.
+
+**[05:30:08.660] Sen. Joel Villanueva**  
+Thank you, Mr.
+
+**[05:30:11.650] Sen. Joel Villanueva**  
+Presiding Officer, sa ating witness. Sir, maraming nagtanong na po about dun sa gusto kong susugan yung parang naging practice na yung isang account na time deposit.
+
+**[05:30:36.120] Sen. Joel Villanueva**  
+Magiging managers check. And siguro yung unang itatanong ko po, ilan po ba dito sa mga accounts na ito yung from time deposit naging managers check?
+
+**[05:30:53.270] Marwin L. Galvez**  
+Your Honor, I would have to confirm with the docs but based on my recollection mukhang yung Julio Vargas lang po.
+
+**[05:31:01.210] Sen. Joel Villanueva**  
+So ilan pong accounts yan?
+
+**[05:31:03.110] Marwin L. Galvez**  
+Isang account po yan. But I may be wrong, your honor. I would have to confer with the documents.
+
+**[05:31:11.880] Sen. Joel Villanueva**  
+Kasi
+
+**[05:31:12.020] Sen. Joel Villanueva**  
+may biglang gituko kayo yung 4155 naging manager's check. Dalawa na po agad yun.
+
+**[05:31:20.260] Marwin L. Galvez**  
+Sorry, your honor. May I clarify with your earlier question? Are you pertaining to the number of manager's check or the number of deposit accounts?
+
+**[05:31:28.660] Sen. Joel Villanueva**  
+Yes. Actually, if I may repeat the question. Meron pong mga accounts. na from time deposit, predeterminate, naging manager's check. Is that correct? And then meron naman na binili as manager's check.
+
+**[05:31:46.510] Marwin L. Galvez**  
+Tama po, Your
+
+**[05:31:47.490] Sen. Joel Villanueva**  
+Honor. Ilan po yun? Yun yung gusto kong itanong, to lay the predicate.
+
+**[05:31:52.390] Marwin L. Galvez**  
+As to the pinanggalingan po na account, Your Honor, which is the source of the funding. Ang pinambili po ng manager's check, if we're talking about the Julio Vargas account po, isang account po yun, your honor.
+
+**[05:32:06.760] Sen. Joel Villanueva**  
+Isang account po?
+
+**[05:32:07.460] Marwin L. Galvez**  
+Yung pong manager's check na binili galing po doon sa Julio Vargas account, at the least po, based on the documents that we presented kanina, presented by the counsel kanina, at least po, merong dalawang manager's check. At least for the amounts, 41.
+
+**[05:32:25.240] Sen. Joel Villanueva**  
+So
+
+**[05:32:25.520] Sen. Joel Villanueva**  
+dun lang po, ito. Pag-usapan natin. Hindi ba nagiging pattern ito? Kasi kanina nga binanggit ni Senping yung may ilang nagpa-practice ng mga politicians. Pag before the year end, mawawala na yung account nila, magiging manager's check, you're not required to put it in your salon.
+
+**[05:32:45.590] Marwin L. Galvez**  
+Your Honor, I cannot...
+
+**[05:32:50.700] Marwin L. Galvez**  
+I cannot give you a full confirmation. Hindi ko po masasabi na ito po ay prosesong ginagawa ng mga politician.
+
+**[05:32:57.140] Sen. Joel Villanueva**  
+You
+
+**[05:32:57.460] Sen. Joel Villanueva**  
+cannot say it's a pattern.
+
+**[05:32:58.880] Marwin L. Galvez**  
+I cannot say it's a pattern po, Your Honor.
+
+**[05:33:01.120] Sen. Joel Villanueva**  
+But it's a usual practice.
+
+**[05:33:03.880] Marwin L. Galvez**  
+Yung pong practice na, if I may be clarified to your question, Your Honor, as to pertaining to politicians, hindi ko po yun
+
+**[05:33:11.020] Marwin L. Galvez**  
+masasabi.
+
+**[05:33:11.440] Sen. Joel Villanueva**  
+Not necessarily politician.
+
+**[05:33:12.860] Sen. Joel Villanueva**  
+Is it usual?
+
+**[05:33:15.140] Marwin L. Galvez**  
+Your Honor, as earlier mentioned po, Marami pong mga pagkakataon na ang mga biniling manager's check po ay hindi po nagamit or na-negotiate. At para sa mga ganitong pagkakataon po, ibinabalik po yun sa account ng mga bumili po ng manager's check.
+
+**[05:33:33.400] Sen. Joel Villanueva**  
+From the manager's check to account? Paano kung wala na po yung account? Mag-open ulit? Automatic?
+
+**[05:33:42.910] Marwin L. Galvez**  
+Pag wala na po yung account,
+
+**[05:33:46.480] Marwin L. Galvez**  
+Kasi po, yung pong proceeds ng unutilized managers check, your honor, we make it sure na mapunta po siya kung kanino po nanggaling.
+
+**[05:33:58.440] Marwin L. Galvez**  
+So
+
+**[05:33:59.040] Marwin L. Galvez**  
+kung wala na pong account yun, we will require the purchaser to open an account so we can credit back the proceeds of an unutilized managers check.
+
+**[05:34:09.320] Sen. Joel Villanueva**  
+I
+
+**[05:34:09.580] Sen. Joel Villanueva**  
+got it, but it's not automatic.
+
+**[05:34:11.920] Marwin L. Galvez**  
+Automatic, your honor, meaning... Sorry.
+
+**[05:34:16.620] Sen. Joel Villanueva**  
+Sorry, inuhulit ko lang yung tanong ko. Hindi ho automatic na you just create an account for that?
+
+**[05:34:22.100] Marwin L. Galvez**  
+No po, no po.
+
+**[05:34:23.280] Sen. Joel Villanueva**  
+So you have to
+
+**[05:34:24.060] Sen. Joel Villanueva**  
+ask the purchaser to open?
+
+**[05:34:25.960] Marwin L. Galvez**  
+Usually po pagka nandyan pa po ang... Ang pinanggalingan ng account po, active po, at ni-request po ng purchaser po na ibalik po yung MC. Doon po namin ibinabalik. Kung saan po siya kinuha, your honor.
+
+**[05:34:39.560] Sen. Joel Villanueva**  
+Let me go to another point. Kanina ho nandito yung sa Metro bang I don't know if you heard about what she said a while ago na hindi yun ang nangyayari sa kanila yung glitch o yung bug, whatsoever. Pag-usapan ho natin yung nangyayari sa BPI where you previously corrected several... Covered transactions involving Atty. Manases Carpio after determining that a system error had overstated the amounts. Para lang po malinaw dito sa Korte, ano po yung validation process ng BPI na bago niyo po sinumite yung isang covered transaction or STR, suspicious transaction, sa AMLC? At kapag may error po kayo,
+
+**[05:35:29.750] Marwin L. Galvez**  
+Your Honor, if I may answer that similar to how I answered po kanina, I am not in a position po para sagutin po yung mga tanong ninyo bilang iba pong unit po ang gumagawa ng ganyang trabaho. I have no involvement po with regards to the report submitted to AMLC, Your Honor.
+
+**[05:35:49.430] Sen. Joel Villanueva**  
+As division head for Central Manila branches ng BPI, hindi niyo po alam what caused the system error and when was the correction implemented?
+
+**[05:36:00.750] Marwin L. Galvez**  
+I have no information, your honor po. I'm sorry po.
+
+**[05:36:04.550] Sen. Joel Villanueva**  
+It's alright. Nakakalungkot lang ako kasi mga barkada ko sa BPI nag-text po sa akin dahil sabi nila baka pro-Metrobank na po ako. Kaya po binibigyan ko kayo ng pagkakataon na masagot po ninyo. Last na lang po, Sir Presiding Officer. Doon po sa BPI transactions involving the respondent for her spouse during the current term. From 2022, nung naging vice president po si VP Sara hanggang ngayon, may mga transactions po ba na na-report kayo na suspicious transaction o magpo-fall under STR na na-report po ninyo?
+
+**[05:36:39.550] Marwin L. Galvez**  
+Again, Your Honor, I am not in a position to answer your question.
+
+**[05:36:44.360] Sen. Joel Villanueva**  
+Even without disclosing na lang po, any confidential, internal deliberations, ano po yung objective feature as AAA banker? Ano po yung objective feature ng transaction? Maaaring amount, source of funds, pattern, third party involvement, that triggered enhanced review?
+
+**[05:37:06.910] Marwin L. Galvez**  
+Maraming pong mga bagay, Your Honor, but I wouldn't have that information po. Pasensya na po, Your Honor.
+
+**[05:37:12.860] Sen. Joel Villanueva**  
+Salamat to. Wala akong nakuha. Salamat. Thank you.
+
+**[05:37:18.020] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Kiko, given that... Mahaba ka ba, Senator Kiko?
+
+**[05:37:30.220] Sen. Francis "Chiz" G. Escudero**  
+Because Mr. Mao needs to do something that I need not join him.
+
+**[05:37:41.030] Sen. Francis "Chiz" G. Escudero**  
+Mr. Mao or anyone... From both parties, we'll call a brief break of five minutes for the counsels and the witness to answer to the call of nature. I know you've been there for quite some time. Chair declares a brief recess of five minutes. We shall resume at 3.37 or as soon as Mr. Mao comes back.
+
+**[05:44:22.880] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate yourself, Mr. Mao, on
+
+**[05:44:28.440] Sen. Francis "Chiz" G. Escudero**  
+the witness stand. Senator Judge Kika is recognized. You may proceed, sir, when you're ready.
+
+**[05:44:32.000] Sen. Francis “Kiko” Pangilinan**  
+Thank you.
+
+**[05:44:32.500] Sen. Francis "Chiz" G. Escudero**  
+Thereafter, Senator Judge Robin.
+
+**[05:44:36.220] Sen. Francis “Kiko” Pangilinan**  
+Salamat, Mr. Presiding Officer. Magandang hapong ulit.
+
+**[05:44:42.070] Sen. Francis “Kiko” Pangilinan**  
+Meron tayong katanungan. Meron bang peso accounts sa BPI ang Cale88?
+
+**[05:44:51.420] Marwin L. Galvez**  
+Based on the records that we submitted, Your Honor, meron pong isang active peso account po ang Cale88.
+
+**[05:44:57.940] Sen. Francis “Kiko” Pangilinan**  
+Pero ilan ang active at inactive?
+
+**[05:45:01.140] Marwin L. Galvez**  
+Isa po ang
+
+**[05:45:01.900] Marwin L. Galvez**  
+active. At isa po ang closed account, Your Honor.
+
+**[05:45:05.200] Sen. Francis “Kiko” Pangilinan**  
+So dalawang account. Peso account.
+
+**[05:45:07.340] Marwin L. Galvez**  
+Tama po, Your Honor.
+
+**[05:45:08.220] Sen. Francis “Kiko” Pangilinan**  
+Okay.
+
+**[05:45:09.220] Sen. Francis “Kiko” Pangilinan**  
+Can we give the witness time to go through the records?
+
+**[05:45:14.980] Sen. Francis "Chiz" G. Escudero**  
+Do you know where to look for it, Mr. Mao?
+
+**[05:45:22.440] Marwin L. Galvez**  
+Pertaining to... The inflows. I would have to refer to all the statement of accounts submitted to this honorable court, Your Honor.
+
+**[05:45:33.680] Sen. Francis "Chiz" G. Escudero**  
+I think that's part of the request earlier of Senator Judge Kika, if I'm not mistaken. Yes. For the Clerk of Court to take a look at, summarize, furnish the Senator Judges. Let me amend that ruling. And furnish both parties as well for your reference and information.
+
+**[05:45:50.830] Sen. Francis “Kiko” Pangilinan**  
+Thank you,
+
+**[05:45:51.690] Sen. Francis “Kiko” Pangilinan**  
+Mr. Presiding Officer. So, in effect, you are not familiar with the data?
+
+**[05:45:58.310] Marwin L. Galvez**  
+No.
+
+**[05:45:59.140] Sen. Francis “Kiko” Pangilinan**  
+I
+
+**[05:45:59.340] Sen. Francis “Kiko” Pangilinan**  
+hope
+
+**[05:46:00.760] Sen. Francis “Kiko” Pangilinan**  
+you don't mind, it's a bit disappointing that you were sent by BPI and your answers are always, I will have to refer to the voluminous documents. I would have thought that you would have come here ready and prepared with those documents, but perhaps it's so voluminous, but then again, a simple question of
+
+**[05:46:28.810] Sen. Francis “Kiko” Pangilinan**  
+What are the ending accounts of Cale88? What about GenCorp? Ang GenCorp ba merong peso account?
+
+**[05:46:37.020] Marwin L. Galvez**  
+Wala po sa
+
+**[05:46:38.240] Marwin L. Galvez**  
+mga sinabmit
+
+**[05:46:39.260] Marwin L. Galvez**  
+po namin, Your Honor.
+
+**[05:46:40.540] Sen. Francis “Kiko” Pangilinan**  
+Ah, so wala sa sinabmit ninyo. But that doesn't answer the question. Meron bang peso account ang GenCorp? Wala
+
+**[05:46:47.520] Marwin L. Galvez**  
+po, Your Honor. Ah, wala po.
+
+**[05:46:49.900] Sen. Francis “Kiko” Pangilinan**  
+Okay, so isang banko lang pala. Cale88, sana napag-aralan natin. Anyway,
+
+**[05:46:58.840] Sen. Francis “Kiko” Pangilinan**  
+The information that we have is that pumasok yung 319 million. We want to know saan napunta ito. The information that we received from the AMLA yesterday was that 1.2 billion pesos worth of transactions went into Cale88 inflow. We want to know saan dito ang pumasok sa BPI. At ano ang mga transaction na ito? Kasi nga, lumabas na dun sa information ng AMLA, and because this is an impeachment trial, bank records of peso accounts in BPI of the respondent can be, are exempted from the bank secrecy law in terms of divulging the information. So, I don't know, Mr. Presiding Officer, If we will go through these documents as it is called by the Secretariat, can we again call this witness and ask him to explain? The court
+
+**[05:48:05.020] Sen. Francis "Chiz" G. Escudero**  
+can recall the witness in the court's discretion after both sides shall have presented. However, again, for the meantime, the submissions of the bank to this impeachment court in response to the subpoena has been given provenance. Absent proof that they were obtained through fraud or palpable mistake, they would be able to withstand and stand. That is why the chair decided to furnish the parties with a copy so they will be afforded the time to contest or question it at the proper time.
+
+**[05:48:42.240] Sen. Francis “Kiko” Pangilinan**  
+Yes, okay, thank you. We will submit to the ruling and the manifestation of the chair of the presiding officer that Well, kung wala naman tayong makikitang nais pa nating maitanong dun sa mga dokumento, hindi na siya kailangan tawagin ulit. But in the meantime, we'd like to review the CAL documents in terms of the transactions of the peso account of Cale88 in BPI. And if necessary, perhaps recall the witness. But we will cross the bridge when we get there. Balikan ko lang very quickly. Yung sinasabing 9539... Kasi 2011, 2012. Is it still active o wala na ito?
+
+**[05:49:25.370] Marwin L. Galvez**  
+Active pa po, Your Honor.
+
+**[05:49:26.730] Sen. Francis “Kiko” Pangilinan**  
+So it's active until today?
+
+**[05:49:28.310] Marwin L. Galvez**  
+Yes po.
+
+**[05:49:28.750] Sen. Francis “Kiko” Pangilinan**  
+2023?
+
+**[05:49:29.770] Marwin L. Galvez**  
+Yes po, Your Honor.
+
+**[05:49:30.910] Sen. Francis “Kiko” Pangilinan**  
+Okay.
+
+**[05:49:33.290] Sen. Francis “Kiko” Pangilinan**  
+Did you submit records also of the 2023 documents?
+
+**[05:49:39.510] Marwin L. Galvez**  
+Yes po, Your Honor. Lahat po ng KYC transaction documents kasama po ang mga statement of accounts. Until December 31, 2025, Your Honor.
+
+**[05:49:51.310] Sen. Francis “Kiko” Pangilinan**  
+Siguro one last question. Yung nailabas kasi kanina na hindi na nakapirma sa signature card si Vice President Duterte. Pagka ganun ba, what happens to the account? It's now just a... wala nang end?
+
+**[05:50:08.850] Marwin L. Galvez**  
+The account name and the signing instructions remains the same, Your Honor.
+
+**[05:50:18.130] Marwin L. Galvez**  
+It
+
+**[05:50:18.610] Marwin L. Galvez**  
+will only change upon the consent of both depositors.
+
+**[05:50:22.750] Sen. Francis “Kiko” Pangilinan**  
+Yes, but wala nga ang pirma. Paano yun?
+
+**[05:50:25.430] Marwin L. Galvez**  
+Yung po pinakita kanina ni Atty. Mike po refers to an updated signature card, Your Honor.
+
+**[05:50:30.730] Sen. Francis “Kiko” Pangilinan**  
+Kaya nga. So yung pirma ni Sara, Vice President Duterte, wala ron?
+
+**[05:50:35.790] Marwin L. Galvez**  
+Wala po, Your Honor, but the updating of signature card does not change the type.
+
+**[05:50:43.600] Marwin L. Galvez**  
+At least the signing authorities of the account holders. It would have to be explicitly stated in the request should they want to amend the name and the signing arrangements for that account, Your Honor.
+
+**[05:50:56.460] Sen. Francis “Kiko” Pangilinan**  
+So ever since then, wala nang pirma si Vice President?
+
+**[05:50:59.840] Sen. Francis "Chiz" G. Escudero**  
+Allow me, Senator
+
+**[05:51:01.680] Sen. Francis "Chiz" G. Escudero**  
+Judge Kiko. In the interest of fairness, given that the court Through the Clerk of Court, looked into it earlier in relation to the transactions made mention of by Attorney Mike earlier. We confirm that based on the documents submitted by BPI that the signature of the Vice President does not appear in any transaction insofar as account ending 9539 is concerned. We confirm as well the statement made by Attorney James that the signature of the Vice President appears in the document that opened the account, also in the signature sheet or KYC for July 25,
+
+**[05:51:49.170] Sen. Francis "Chiz" G. Escudero**  
+2017, and also the KYC document the signature of the Vice President appears in the KYC document for June 13, 2023.
+
+**[05:52:04.290] Sen. Francis "Chiz" G. Escudero**  
+Insofar as this is the confirmation of the signature, correct? As part of KYC, Mr. Mao?
+
+**[05:52:11.190] Marwin L. Galvez**  
+Yes, Your Honor.
+
+**[05:52:12.130] Sen. Francis "Chiz" G. Escudero**  
+So the signature only appears in 2010, not in 2015, in 2017, and in 2023. It is part of exhibits for the information of the parties.
+
+**[05:52:27.200] Sen. Francis "Chiz" G. Escudero**  
+P-RN 2-8-2-3-1-3, as well as the inventory submitted by BPI as part of their submissions, which is Exhibit P-RN 2-8-2-1-1-8. Thank you, Mr.
+
+**[05:52:49.180] Sen. Francis “Kiko” Pangilinan**  
+Presiding Officer, for that clarification. And just for the record, again, going through some of the documents that we have. That's why I want to know the Cale88 transactions because I'm told or we have seen documentation that about 132 million pesos were the inflows in 2024 and then 39 million pesos inflows in 2025.
+
+**[05:53:16.620] Sen. Francis “Kiko” Pangilinan**  
+So we will go through the... We
+
+**[05:53:20.380] Sen. Francis "Chiz" G. Escudero**  
+will submit the report to the Honorable Senator Judge as well as all the parties, all the Senator Judges and both parties.
+
+**[05:53:26.120] Sen. Francis "Chiz" G. Escudero**  
+Senator
+
+**[05:53:26.500] Sen. Francis "Chiz" G. Escudero**  
+Judge Robin is recognized. Padilla, you may proceed sir when you're ready. You have two minutes.
+
+**[05:53:32.680] Sen. Robinhood “Robin” Padilla**  
+Maraming salamat po. Ginuong pangkalahatang hukom. Nais ko lamang pong tanungin yung ating saksi.
+
+**[05:53:43.320] Sen. Robinhood “Robin” Padilla**  
+Bismillah. Magandang hapon po.
+
+**[05:53:45.020] Marwin L. Galvez**  
+Magandang hapon po, Your Honor.
+
+**[05:53:46.440] Sen. Robinhood “Robin” Padilla**  
+Maiksilang po ito.
+
+**[05:53:47.740] Sen. Robinhood “Robin” Padilla**  
+Opo,
+
+**[05:53:48.260] Sen. Robinhood “Robin” Padilla**  
+kasi po ako po'y laging gumagamit ng manager's check dahil wala naman po akong checking account sa aking mga bangko. Di ba po tama lang sabihin pagka sinabi mong manager's check, nire-represent dito yung bangko? Tama po, di ba po? Ibig sabihin yung credibility ninyo, yung bangko, yung inyong karangalan. Tama po ba?
+
+**[05:54:14.610] Marwin L. Galvez**  
+Tama po.
+
+**[05:54:15.090] Sen. Robinhood “Robin” Padilla**  
+Hindi po kayong naglalabas yan pag alamin niyo siyempre na mayroong kalukuhan.
+
+**[05:54:21.130] Marwin L. Galvez**  
+Tama
+
+**[05:54:21.650] Marwin L. Galvez**  
+po.
+
+**[05:54:22.390] Marwin L. Galvez**  
+Basta
+
+**[05:54:22.910] Marwin L. Galvez**  
+properly authorized po ang mga instructions to purchase a manager's check and at the same time po, equally important, properly funded po, nag-i-issue po kami ng manager's check.
+
+**[05:54:35.610] Sen. Robinhood “Robin” Padilla**  
+Opo. Di ba po, kasi sanay ako dyan eh, ilalagay mo eh kung saan mo dadalhin yung pera. Di ba po?
+
+**[05:54:41.450] Marwin L. Galvez**  
+Opo, tama po.
+
+**[05:54:42.390] Sen. Robinhood “Robin” Padilla**  
+Hindi
+
+**[05:54:42.730] Sen. Robinhood “Robin” Padilla**  
+naman nyo ilalabas yun kung wala yun dun eh, di ba po? Tama
+
+**[05:54:46.210] Sen. Robinhood “Robin” Padilla**  
+po ba
+
+**[05:54:46.550] Sen. Robinhood “Robin” Padilla**  
+ako?
+
+**[05:54:46.870] Marwin L. Galvez**  
+Yes po, your honor.
+
+**[05:54:47.710] Sen. Robinhood “Robin” Padilla**  
+So, kanina po po kasi nababanggit yung pangalan ng dating Pangulong Rodrigo Roa Duterte. Hindi ko alam bakit kailangan idamay pa dito yung matanda. Masasabi po niyan may ginawa bang kalukuhan yung matanda?
+
+**[05:55:01.330] Marwin L. Galvez**  
+Not in the documents that we submitted po, your honor.
+
+**[05:55:03.830] Sen. Robinhood “Robin” Padilla**  
+Wala po, maraming salamat po.
+
+**[05:55:05.510] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Robin. Mr. Mao, salamat po sa inyong panahon at pasensya sa pagsagot sa mga katanungan na magrabe lang panig ay hindi ng mga senator judges. Thank you for your testimony this afternoon.
+
+**[05:55:18.910] Marwin L. Galvez**  
+Maraming salamat po, Your Honor.
+
+**[05:55:21.030] Sen. Francis "Chiz" G. Escudero**  
+Thank you,
+
+**[05:55:21.730] Sen. Francis "Chiz" G. Escudero**  
+sir. Chair now instructs the clerk of court through the sergeant at arms. To kindly situate the next witness, to confirm, Mr. Julius Parian of PNB. Correct, Atty. James?
+
+**[05:55:38.190] Atty. James Bryan Ibrahim A. Alih**  
+Yes, that's correct, Your Honor.
+
+**[05:55:40.130] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate Mr. Parian.
+
+**[05:55:44.240] Atty. Michael Wesley Poa**  
+Your Honor, respectfully, may I just turn it over to Atty. Carlo Joaquin Narvasa, Your Honor, for the next witness.
+
+**[05:55:52.770] Sen. Francis "Chiz" G. Escudero**  
+So we go back to Atty. CJ.
+
+**[05:55:55.550] Atty. Michael Wesley Poa**  
+Thank you for that, Your Honor. Thank you.
+
+**[05:56:02.230] Atty. Carlo Joaquin T. Narvasa**  
+Good afternoon, Your Honor.
+
+**[05:56:03.410] Sen. Francis "Chiz" G. Escudero**  
+Good afternoon, Atty. CJ. Where is our witness?
+
+**[05:56:11.050] Rep. Terry L. Ridon**  
+Your
+
+**[05:56:11.570] Rep. Terry L. Ridon**  
+Honor, please.
+
+**[05:56:12.410] Sen. Francis "Chiz" G. Escudero**  
+Yes, the Honorable Ridon is recognized.
+
+**[05:56:15.730] Rep. Terry L. Ridon**  
+Bago po isalang yung susunod pong testigo, yung pong BIR witness po natin,
+
+**[05:56:20.830] Rep. Terry L. Ridon**  
+pinakikiusap po namin na bukas na lang po siya isalang. We anticipate that
+
+**[05:56:26.890] Rep. Terry L. Ridon**  
+he will not be placed into the witness stand anyway today if we are to finish all of the banks and all of the insurance companies. Your Honor.
+
+**[05:56:49.170] Sen. Francis "Chiz" G. Escudero**  
+We will be winding up anyway as based on the advisory at 6.30 or thereabouts. Let's see how far we can go. Because I believe mahaba lang naman talaga yung BPI, perhaps BDO, maybe? But I doubt if it will take long with respect to the insurance companies. But let's see. The clerk of court is directed to administer the oath to help the witness.
+
+**[05:57:16.170] Atty. Renato N. Bantug Jr.**  
+Sir, can you raise your right hand, please?
+
+**[05:57:19.230] Atty. Renato N. Bantug Jr.**  
+You, Julius Parian, do swear that the evidence that you shall give in the case now pending between the Philippines and Vice President Sara Zimmerman Duterte shall be the truth, the whole truth, and nothing but the truth. So help you God.
+
+**[05:57:32.450] Julius Palma Parian**  
+Yes,
+
+**[05:57:32.830] Julius Palma Parian**  
+Your
+
+**[05:57:32.970] Julius Palma Parian**  
+Honor.
+
+**[05:57:33.770] Sen. Francis "Chiz" G. Escudero**  
+You want to be referred to as Julius or you have another shorter name?
+
+**[05:57:37.470] Julius Palma Parian**  
+Julius, Your Honor.
+
+**[05:57:38.430] Sen. Francis "Chiz" G. Escudero**  
+Julius.
+
+**[05:57:40.650] Sen. Francis "Chiz" G. Escudero**  
+Ginong Julius, naunawaan niyo po ang inyong pinanumpaan. Kaugnayan ang pagbibigay niyo ng inyong testimonya sa hapong ito sa harap ng kumangitap.
+
+**[05:57:46.990] Julius Palma Parian**  
+Yes,
+
+**[05:57:47.390] Julius Palma Parian**  
+Your Honor.
+
+**[05:57:48.130] Sen. Francis "Chiz" G. Escudero**  
+Thank you very much. Atty. James, same offer plus any other offer?
+
+**[05:57:53.890] Atty. James Bryan Ibrahim A. Alih**  
+No, Your Honor. Just the same offer. Same
+
+**[05:57:55.770] Atty. James Bryan Ibrahim A. Alih**  
+offer.
+
+**[05:57:56.740] Atty. Carlo Joaquin T. Narvasa**  
+Same objections, Your Honor.
+
+**[05:57:58.080] Sen. Francis "Chiz" G. Escudero**  
+Same objections, Atty. CJ. You may proceed with your direct examination, Atty. James.
+
+**[05:58:02.080] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Your Honors. Good afternoon, sir.
+
+**[05:58:04.950] Julius Palma Parian**  
+Good
+
+**[05:58:05.410] Julius Palma Parian**  
+afternoon.
+
+**[05:58:10.790] Atty. James Bryan Ibrahim A. Alih**  
+Sir Julius.
+
+**[05:58:12.510] Julius Palma Parian**  
+Yes po.
+
+**[05:58:13.330] Atty. James Bryan Ibrahim A. Alih**  
+Good afternoon, sir. Sir, for the record, can you kindly provide us your full name, yung designation niyo po ngayon, at yung anong bangko po ang nirepresent niyo? Thank you.
+
+**[05:58:23.970] Julius Palma Parian**  
+Your honors, I'm Julius Palma Parian, branch manager for almost nine years with Philippine National Bank.
+
+**[05:58:34.560] Atty. James Bryan Ibrahim A. Alih**  
+You're the branch manager of which branch po?
+
+**[05:58:37.440] Julius Palma Parian**  
+That's PNB Davao, San Pedro, CM Recto Branch.
+
+**[05:58:40.140] Atty. James Bryan Ibrahim A. Alih**  
+Ah, taga Davao? From Davao?
+
+**[05:58:42.000] Julius Palma Parian**  
+Yes. Yes, sir.
+
+**[05:58:42.900] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[05:58:43.500] Atty. James Bryan Ibrahim A. Alih**  
+Sabot niyo ang bisaya, sir?
+
+**[05:58:45.080] Julius Palma Parian**  
+Yes, sir.
+
+**[05:58:45.860] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[05:58:48.630] Atty. James Bryan Ibrahim A. Alih**  
+Sir, based on your records, how many bank accounts does the vice president have? Or does the, how many bank accounts are in the name of the vice president and or? Atorne Manases
+
+**[05:59:14.810] Atty. James Bryan Ibrahim A. Alih**  
+-Scarpio
+
+**[05:59:44.570] Julius Palma Parian**  
+Our savings account.
+
+**[05:59:46.350] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[05:59:49.840] Atty. James Bryan Ibrahim A. Alih**  
+Mr. Witness, Sir Julius, can you confirm if the bank account with last digit is 8912?
+
+**[06:00:05.160] Julius Palma Parian**  
+Yes, Your Honors.
+
+**[06:00:05.920] Atty. James Bryan Ibrahim A. Alih**  
+And can you also confirm if in your records you can find the bank account with last digits 3504 under the name of Manases Carpio?
+
+**[06:00:19.820] Julius Palma Parian**  
+Yes, Your Honor. Yes.
+
+**[06:00:22.320] Atty. James Bryan Ibrahim A. Alih**  
+Third, can you also confirm that a bank account exists in your records with last digit, last digits 3481, also under the name of Atty. Manases Carpio?
+
+**[06:00:35.060] Julius Palma Parian**  
+Yes, Your Honor.
+
+**[06:00:36.240] Atty. James Bryan Ibrahim A. Alih**  
+And lastly, can you confirm the existence of a bank account with last digits 3492 in the name of Atty. Manases Carpio?
+
+**[06:00:46.900] Julius Palma Parian**  
+Yes, Your Honor.
+
+**[06:00:47.980] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, sir. The reason why I asked those four accounts is that my questioning today will revolve around those four accounts. And more particularly, I would like to know the ending balances of this bank account. So I hope you can help us with that, sir. Let's start with the bank account of Atty. Carpio with last digits 8912. Can you check your records please and inform the Honorable Court what is the ending balance of this account for the year 2022?
+
+**[06:01:23.310] Julius Palma Parian**  
+Your Honors, for the year 2021, the ending balance is at 8,268,965
+
+**[06:01:31.270] Julius Palma Parian**  
+.58.
+
+**[06:01:32.610] Atty. James Bryan Ibrahim A. Alih**  
+Sorry, that's for 2021?
+
+**[06:01:35.370] Julius Palma Parian**  
+Yes.
+
+**[06:01:35.850] Atty. James Bryan Ibrahim A. Alih**  
+No, no, for 2022.
+
+**[06:01:37.030] Julius Palma Parian**  
+For
+
+**[06:01:37.710] Julius Palma Parian**  
+2022, that's 19,880,426.03.
+
+**[06:01:44.070] Atty. James Bryan Ibrahim A. Alih**  
+19,880,426. Okay. For the second account with last digits 3504, what is the year-end balance For the year 2022?
+
+**[06:01:59.640] Julius Palma Parian**  
+For the year 2022, that's around 114,067 pesos and 66 centavos.
+
+**[06:02:07.160] Atty. James Bryan Ibrahim A. Alih**  
+Alright. For the bank account ending in 3481, what is the year-end balance for 2022?
+
+**[06:02:18.570] Julius Palma Parian**  
+For 2022, the amount is 114,067 pesos and 66 cents.
+
+**[06:02:27.490] Atty. James Bryan Ibrahim A. Alih**  
+Alright. And lastly for account number 3492. Last digits, 3492. What is the ending balance for 2022?
+
+**[06:02:39.500] Julius Palma Parian**  
+Ending
+
+**[06:02:40.100] Julius Palma Parian**  
+balance for 2022 is 114,067 pesos and 66 cents.
+
+**[06:02:46.140] Atty. James Bryan Ibrahim A. Alih**  
+Alright. I hope you would forgive me Mr. Witness if I'm going by year and not by account. So let's go back to the first bank account with last digits. 8,912. In 2023, what is the ending balance of this account?
+
+**[06:03:03.700] Julius Palma Parian**  
+In 2023, ending balance is around 21,1579.79.
+
+**[06:03:14.310] Atty. James Bryan Ibrahim A. Alih**  
+How about for the bank account with last digits 3504? What is the ending balance for 2023?
+
+**[06:03:23.620] Julius Palma Parian**  
+It's for 2023, that's 197,000.
+
+**[06:03:31.980] Atty. James Bryan Ibrahim A. Alih**  
+How about for the third? With last digits, 3481 What is the ending balance for 2023?
+
+**[06:03:47.300] Atty. James Bryan Ibrahim A. Alih**  
+How about for the fourth one? Last digit is 3,492. What is the ending balance for 2023?
+
+**[06:03:55.240] Julius Palma Parian**  
+That's 197,180.53 Euro.
+
+**[06:03:59.680] Atty. James Bryan Ibrahim A. Alih**  
+With last digit 8912, what is the ending balance of this account in 2024?
+
+**[06:04:12.370] Julius Palma Parian**  
+For account with last digit 8912, ending balance for 2024 is 1,420,883.82.
+
+**[06:04:24.790] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, sir. Doon naman po sa second, last digit 3504, what is the ending balance for 2024?
+
+**[06:04:34.550] Julius Palma Parian**  
+Ending balance for 2024 is around 635,539.25.
+
+**[06:04:44.100] Atty. James Bryan Ibrahim A. Alih**  
+For the third one, last digit 3481, what is the ending balance for the year 2024?
+
+**[06:04:52.660] Julius Palma Parian**  
+Ending balance... Your Honor, is around 635,539.25.
+
+**[06:05:00.420] Atty. James Bryan Ibrahim A. Alih**  
+And another year for 2024, last digits 3492. What is the ending balance for that year, 2024?
+
+**[06:05:10.220] Julius Palma Parian**  
+Ending balance, Your Honor, is around 635,539.25.
+
+**[06:05:16.740] Atty. James Bryan Ibrahim A. Alih**  
+Alright. I'm on to the last year, Sir Julius.
+
+**[06:05:21.860] Atty. James Bryan Ibrahim A. Alih**  
+Last digits 8, 9, 1, 2. What is the ending balance for the year 2025?
+
+**[06:05:29.120] Julius Palma Parian**  
+For the year 2025, ending balance is at around 1,871,934.81 pesos.
+
+**[06:05:40.000] Atty. James Bryan Ibrahim A. Alih**  
+For the second account, last digits 3, 5, 0, 4. What is the ending balance for 2025?
+
+**[06:05:49.090] Julius Palma Parian**  
+The ending balance is around 1,026,203.67.
+
+**[06:05:56.840] Atty. James Bryan Ibrahim A. Alih**  
+For the third one, sir, last digits 3481, what is the ending balance for the year 2025?
+
+**[06:06:05.670] Julius Palma Parian**  
+The ending balance for the year 2025 is 1,026,203.67. And
+
+**[06:06:13.050] Atty. James Bryan Ibrahim A. Alih**  
+lastly, sir, for the last digits bank account with last digits 3492, What is the ending balance for the year 2025?
+
+**[06:06:24.580] Julius Palma Parian**  
+The
+
+**[06:06:25.180] Julius Palma Parian**  
+ending balance is 1,036,210.37.
+
+**[06:06:31.520] Atty. James Bryan Ibrahim A. Alih**  
+Alright, so I'm done with the ending balance. I would just like to ask perhaps two more questions on certain transactions, sir, which is contained in the records that you've submitted. I refer you to Exhibit P
+
+**[06:06:46.000] Atty. James Bryan Ibrahim A. Alih**  
+-Roman numeral 2-8.
+
+**[06:06:57.030] Atty. James Bryan Ibrahim A. Alih**  
+It appears to be a statement of accounts for bank account number 8912 under the name of Atty. Manases Carpio. I would just like to ask you to look at the transaction dated, transactions dated
+
+**[06:07:25.320] Atty. James Bryan Ibrahim A. Alih**  
+August. August 6, 2024. There
+
+**[06:07:33.420] Atty. James Bryan Ibrahim A. Alih**  
+are four transactions in August 6, 2024. For the Honorable Court's perusal, what is this transaction, sir?
+
+**[06:07:43.500] Julius Palma Parian**  
+The transaction is a withdrawal transaction.
+
+**[06:07:46.380] Atty. James Bryan Ibrahim A. Alih**  
+How many transactions are these on August 6, 2024?
+
+**[06:07:52.360] Julius Palma Parian**  
+There are four transactions.
+
+**[06:07:54.020] Atty. James Bryan Ibrahim A. Alih**  
+So there are four withdrawal transactions. Can you kindly inform us What are the amounts for the first, second, third, and fourth transactions all in one day?
+
+**[06:08:06.490] Julius Palma Parian**  
+The amounts are as follows. It's 5 million, 3 million, 5 million, and another 5 million.
+
+**[06:08:15.660] Atty. James Bryan Ibrahim A. Alih**  
+In total, Mr. Witness, if you know, how much was withdrawn in that date, August 6, 2024?
+
+**[06:08:25.690] Julius Palma Parian**  
+In total, it's around... 18 million.
+
+**[06:08:28.170] Atty. James Bryan Ibrahim A. Alih**  
+18 million in just that date?
+
+**[06:08:30.290] Julius Palma Parian**  
+Yes.
+
+**[06:08:30.950] Atty. James Bryan Ibrahim A. Alih**  
+And what date is that?
+
+**[06:08:32.390] Julius Palma Parian**  
+August 6,
+
+**[06:08:33.410] Julius Palma Parian**  
+2024.
+
+**[06:08:34.410] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[06:08:40.040] Atty. James Bryan Ibrahim A. Alih**  
+That would be all for this witness, Your Honor. Thank you.
+
+**[06:08:43.140] Sen. Francis "Chiz" G. Escudero**  
+Atty. CJ Cross.
+
+**[06:08:45.380] Atty. Carlo Joaquin T. Narvasa**  
+Just a few, Your Honor.
+
+**[06:08:46.880] Sen. Francis "Chiz" G. Escudero**  
+You may proceed.
+
+**[06:08:47.780] Atty. Carlo Joaquin T. Narvasa**  
+Good afternoon, sir.
+
+**[06:08:48.980] Julius Palma Parian**  
+Good afternoon, sir.
+
+**[06:08:49.820] Atty. Carlo Joaquin T. Narvasa**  
+Sir, the Vice President does not have any account with your bank, correct?
+
+**[06:08:53.940] Julius Palma Parian**  
+Yes, sir.
+
+**[06:08:54.480] Atty. Carlo Joaquin T. Narvasa**  
+All the accounts talked about and the transactions talked about are only of Atty. Carpio?
+
+**[06:08:59.580] Julius Palma Parian**  
+Yes, sir.
+
+**[06:09:02.360] Atty. Carlo Joaquin T. Narvasa**  
+The bank accounts of Atty. Carpio are individual bank accounts, correct?
+
+**[06:09:07.490] Julius Palma Parian**  
+Yes, sir.
+
+**[06:09:08.150] Atty. Carlo Joaquin T. Narvasa**  
+No further questions here.
+
+**[06:09:14.230] Atty. James Bryan Ibrahim A. Alih**  
+Nori, Director-Owner.
+
+**[06:09:21.020] Sen. Francis "Chiz" G. Escudero**  
+Atty. Riza, you have an interjection? Please proceed. Rather, Senator Judge Riza.
+
+**[06:09:36.370] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. I wish lang po. Mayon hapon, Mr. Parian.
+
+**[06:09:43.880] Sen. Risa Hontiveros**  
+Good
+
+**[06:09:44.760] Sen. Risa Hontiveros**  
+afternoon.
+
+**[06:09:48.330] Sen. Risa Hontiveros**  
+Sa 2022 SALN ni VP Duterte, wala po silang dineklarang cash on hand or cash in bank. Yung halaga naman po ng other personal properties dun sa SALN nilang yun na dineclare niya para sa kanilang mag-asawa ay 13,325,000 pesos. Magkano naman po yung ending balance pag tinotal ninyo? O magkano yung halaga nung kanilang assets, mga accounts sa bangko ninyo noong 2022?
+
+**[06:10:29.200] Julius Palma Parian**  
+It's for Manases Carpio alone.
+
+**[06:10:32.920] Sen. Risa Hontiveros**  
+May accounts po ba doon, si VP Duterte?
+
+**[06:10:36.140] Julius Palma Parian**  
+No.
+
+**[06:10:36.400] Sen. Risa Hontiveros**  
+Pero yung kay Atty. Carpio na supposedly kasama doon sa SALN.
+
+**[06:10:41.910] Julius Palma Parian**  
+For 2022, as mentioned, your honors?
+
+**[06:10:46.840] Julius Palma Parian**  
+Would
+
+**[06:10:52.210] Julius Palma Parian**  
+you give me some time to compute?
+
+**[06:10:54.690] Sen. Risa Hontiveros**  
+Yes, Mr. President.
+
+**[06:10:56.510] Sen. Francis "Chiz" G. Escudero**  
+Isn't there only one account?
+
+**[06:10:58.820] Sen. Francis "Chiz" G. Escudero**  
+The other
+
+**[06:10:59.560] Sen. Francis "Chiz" G. Escudero**  
+are ITFs.
+
+**[06:11:00.620] Julius Palma Parian**  
+Yes.
+
+**[06:11:01.560] Sen. Francis "Chiz" G. Escudero**  
+No, she was referring to the account of including the ITFs.
+
+**[06:11:06.660] Sen. Risa Hontiveros**  
+Yes, Mr. President. I
+
+**[06:11:08.080] Sen. Risa Hontiveros**  
+think the total was flashed earlier. Could
+
+**[06:11:10.620] Sen. Risa Hontiveros**  
+we see that again, po, Mr. President?
+
+**[06:11:12.840] Sen. Francis "Chiz" G. Escudero**  
+Can you
+
+**[06:11:13.100] Sen. Francis "Chiz" G. Escudero**  
+flash
+
+**[06:11:13.460] Sen. Francis "Chiz" G. Escudero**  
+the
+
+**[06:11:13.580] Sen. Francis "Chiz" G. Escudero**  
+total
+
+**[06:11:13.940] Sen. Francis "Chiz" G. Escudero**  
+for
+
+**[06:11:14.160] Sen. Francis "Chiz" G. Escudero**  
+2022, Counsel? Tony James.
+
+**[06:11:16.540] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. We're working on it.
+
+**[06:11:19.650] Sen. Francis "Chiz" G. Escudero**  
+The total was flashed earlier. by the counsel.
+
+**[06:11:32.120] Atty. James Bryan Ibrahim A. Alih**  
+They're working on it, your honor. Apologies.
+
+**[06:11:34.990] Sen. Francis "Chiz" G. Escudero**  
+You may
+
+**[06:11:36.390] Sen. Francis "Chiz" G. Escudero**  
+proceed with another point if you wish.
+
+**[06:11:38.230] Sen. Risa Hontiveros**  
+I need that slide again, Mr. President. Ito na po yata, Mr. Presiding Officer.
+
+**[06:11:43.710] Sen. Francis "Chiz" G. Escudero**  
+Okay, there you go.
+
+**[06:11:44.390] Sen. Risa Hontiveros**  
+So, 20,222,629.01.
+
+**[06:11:55.530] Sen. Risa Hontiveros**  
+Pag binangga ko rin po dun sa Other personal properties sa SALN para sa taong iyon, 2022, 13,325,000 peso. So, Mr. Presiding Officer, sa isang bangko pa lang, PNB, mas malaki na by about 50% sa declared na SALN para sa taong iyon. 20 million dito sa isang bangko as compared sa 13 million sa SALN. Other personal properties. Pangalawang tanong po, Mr. Barriano. Sa 2023, SALN naman po ni VP Duterte, yung halaga nung kanilang other personal properties din na dineclare nila ay 14,725,000 pesos. So kung maaaring makita ulit, Mr. Presiding Officer, yung slide nung ending balance total halaga nung mga accounts nila sa bankong ito noong 2023 din.
+
+**[06:13:00.410] Atty. James Bryan Ibrahim A. Alih**  
+We'll comply, Your Honor.
+
+**[06:13:01.850] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer.
+
+**[06:13:14.020] Sen. Risa Hontiveros**  
+Salamat po. So, 21 million.
+
+**[06:13:18.740] Sen. Risa Hontiveros**  
+593,121 pesos and 38 centavos. So, mas malaki rin po itong suma ng mga accounts sa pangalan ni Atty. Carpio at kahit yung mga ITF nila para sa mga minor children. Again, by about 50% kasi 14 million plus ang nakalagay Para sa other personal property sa SALN ni VP Duterte sa taong 2023, samantalang yung halaga ng lahat ng accounts ay 21 million pesos plus, Mr. Presiding Officer.
+
+**[06:14:02.280] Sen. Risa Hontiveros**  
+Magandang salamat, Mr. Parian. That's all from me for now, Mr. Presiding Officer. Thank you,
+
+**[06:14:08.020] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Riza.
+
+**[06:14:11.150] Sen. Francis "Chiz" G. Escudero**  
+Mr. Julius, maraming salamat po sa inyong panahon, pagsagot sa mga katanungan at pasensya na kung naghihintay ka na medyo matagal. Thank you for testifying before this court this afternoon. You were excused, sir.
+
+**[06:14:22.430] Julius Palma Parian**  
+Thank you, Your Honor.
+
+**[06:14:24.720] Sen. Francis "Chiz" G. Escudero**  
+Kindly call and situate the next witness, Mr. Mario Cirillo M. De Mesa, Jr.
+
+**[06:14:30.280] Atty. James Bryan Ibrahim A. Alih**  
+We confirm that, Your Honor.
+
+**[06:14:31.640] Sen. Francis "Chiz" G. Escudero**  
+Off video.
+
+**[06:14:33.590] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor may request that attorney Batungbacal be
+
+**[06:14:36.670] Atty. Carlo Joaquin T. Narvasa**  
+recognized.
+
+**[06:14:38.970] Atty. Carlo Joaquin T. Narvasa**  
+Thank you, Your Honor.
+
+**[06:14:41.100] Sen. Francis "Chiz" G. Escudero**  
+So it's attorney Rob again. Would that be correct?
+
+**[06:14:43.710] Atty. Roberto N. Batungbacal**  
+Yes, good afternoon, your honor.
+
+**[06:14:57.600] Sen. Francis "Chiz" G. Escudero**  
+Mr. Mario Cirillo de Mesa, Jr.
+
+**[06:15:07.340] Sen. Francis "Chiz" G. Escudero**  
+Clerk is directed to administer the oath.
+
+**[06:15:10.400] Atty. Renato N. Bantug Jr.**  
+Please raise your right hand. You, Mario Cerilo De Mesa, Jr., do swear that the evidence you shall give in the case now pending between the Philippines and Vice President Cyrus Zimmerman Duterte shall be the truth, the whole truth, and nothing but the truth. So help you God.
+
+**[06:15:26.070] Mario Cerilo M. De Mesa Jr.**  
+I do, sir.
+
+**[06:15:28.220] Sen. Francis "Chiz" G. Escudero**  
+Kindly give your answer through the mic, Mr. De Mesa.
+
+**[06:15:33.170] Mario Cerilo M. De Mesa Jr.**  
+Yes, Your Honor.
+
+**[06:15:34.350] Sen. Francis "Chiz" G. Escudero**  
+Kindly sit down.
+
+**[06:15:36.030] Sen. Francis "Chiz" G. Escudero**  
+Paano ko po kayo tatawagin sa mas maikling pangalan? Junior?
+
+**[06:15:40.310] Mario Cerilo M. De Mesa Jr.**  
+June na lang
+
+**[06:15:40.970] Mario Cerilo M. De Mesa Jr.**  
+po, sir.
+
+**[06:15:41.810] Sen. Francis "Chiz" G. Escudero**  
+Ano
+
+**[06:15:42.010] Sen. Francis "Chiz" G. Escudero**  
+po?
+
+**[06:15:42.490] Mario Cerilo M. De Mesa Jr.**  
+Palayo ko
+
+**[06:15:43.070] Mario Cerilo M. De Mesa Jr.**  
+po, June.
+
+**[06:15:43.970] Sen. Francis "Chiz" G. Escudero**  
+June. Mr.
+
+**[06:15:45.530] Sen. Francis "Chiz" G. Escudero**  
+June, naunawaan niyo po ba yun yung pinanumpaan? Kawag na yun ang pagbibigay niyo ng testimonya ngayong hapag ito?
+
+**[06:15:50.170] Mario Cerilo M. De Mesa Jr.**  
+Yes, Your Honor.
+
+**[06:15:51.370] Sen. Francis "Chiz" G. Escudero**  
+Okay. Attorney James, your offer, same?
+
+**[06:15:54.030] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. We will adopt the same offer for our Last witness for the banks, your honor.
+
+**[06:16:00.040] Sen. Francis "Chiz" G. Escudero**  
+Attorney Rob, same objection and same comments?
+
+**[06:16:02.560] Atty. Roberto N. Batungbacal**  
+Same comments and same objections.
+
+**[06:16:04.580] Sen. Francis "Chiz" G. Escudero**  
+Duly noted in relation to the offer and comments thereto by the parties. You may proceed with your direct examination. Attorney James?
+
+**[06:16:10.540] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, your honor. Good afternoon, sir. Sir Jun. Sir, for the record, can you kindly provide us your full name, your designation, and the division that you're representing?
+
+**[06:16:22.780] Mario Cerilo M. De Mesa Jr.**  
+I am Mario Cerilo M. De Mesa, Jr. I am a Senior Assistant Vice President of BDO Branch Banking Group under the Branch Regulatory Support.
+
+**[06:16:35.020] Atty. James Bryan Ibrahim A. Alih**  
+Okay. And as Senior AVP of the Branch Banking Group, briefly, what are your primary functions and responsibilities?
+
+**[06:16:45.260] Mario Cerilo M. De Mesa Jr.**  
+One of my primary functions is to assist branches, supervise them in relation to documents or subpoenas, issued by regulatory bodies, institutions, or government agencies.
+
+**[06:17:02.330] Atty. James Bryan Ibrahim A. Alih**  
+Alright. And how long have you been a part of BDO, sir?
+
+**[06:17:08.390] Mario Cerilo M. De Mesa Jr.**  
+I've been with the bank for 35 years.
+
+**[06:17:10.890] Atty. James Bryan Ibrahim A. Alih**  
+35 years. Congratulations, sir. I hope you're not retiring anytime soon.
+
+**[06:17:15.210] Atty. James Bryan Ibrahim A. Alih**  
+Not yet.
+
+**[06:17:15.930] Mario Cerilo M. De Mesa Jr.**  
+Sana po.
+
+**[06:17:18.630] Atty. James Bryan Ibrahim A. Alih**  
+Sir, today I... These are very limited questions. I'm just going to ask about year-end balances of bank accounts. But before I do that, can you provide us what are the bank accounts in BDO that are under the name of Manases R. Carpio, Sara Zimmerman Duterte, or Manases R. Carpio, and 888 Bistro?
+
+**[06:17:52.010] Mario Cerilo M. De Mesa Jr.**  
+With your permission, can I rely on my notes?
+
+**[06:17:54.390] Sen. Francis "Chiz" G. Escudero**  
+You may refer to your notes, sir.
+
+**[06:17:55.450] Atty. James Bryan Ibrahim A. Alih**  
+Definitely, sir.
+
+**[06:17:56.190] Mario Cerilo M. De Mesa Jr.**  
+Thank you, sir. Sir,
+
+**[06:18:17.800] Mario Cerilo M. De Mesa Jr.**  
+can I will enumerate
+
+**[06:18:19.080] Mario Cerilo M. De Mesa Jr.**  
+per account?
+
+**[06:18:20.100] Atty. James Bryan Ibrahim A. Alih**  
+Yes, sir. No, how many accounts, active accounts, do you have under those individuals that I mentioned?
+
+**[06:18:28.340] Mario Cerilo M. De Mesa Jr.**  
+I will, can I enumerate one by one?
+
+**[06:18:32.180] Atty. James Bryan Ibrahim A. Alih**  
+Of course, sir. Definitely.
+
+**[06:18:33.800] Mario Cerilo M. De Mesa Jr.**  
+For
+
+**[06:18:34.280] Mario Cerilo M. De Mesa Jr.**  
+Manases R. Carpio, we have Three current and savings accounts.
+
+**[06:18:39.790] Atty. James Bryan Ibrahim A. Alih**  
+What was that again, sir? Sorry.
+
+**[06:18:40.990] Mario Cerilo M. De Mesa Jr.**  
+For Manases R. Carpio, under the name Manases R. Carpio, we have three active checking and savings accounts. We have time deposits, we have three closed. We have bonds, one active. We have an IMA account, closed. And we have a UITF account, closed. And a credit card, too.
+
+**[06:19:08.910] Mario Cerilo M. De Mesa Jr.**  
+For Zara J. Duterte, we have a current and savings account, two. One is active and one is closed. And we have one IMA, which is active, and two credit cards.
+
+**[06:19:24.680] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Thank you, sir.
+
+**[06:19:26.780] Atty. James Bryan Ibrahim A. Alih**  
+Sir, can you...
+
+**[06:19:28.020] Atty. James Bryan Ibrahim A. Alih**  
+Sorry. Go ahead, sir.
+
+**[06:19:29.740] Mario Cerilo M. De Mesa Jr.**  
+Sir, for joint account Zara J. Duterte, or Manases R. Carpio. We have three CASA checking and savings accounts active and one Sara J. Duterte Bidanor account which I cannot disclose, Your Honor. Which is already closed.
+
+**[06:19:51.460] Atty. James Bryan Ibrahim A. Alih**  
+Alright, sir.
+
+**[06:19:52.340] Mario Cerilo M. De Mesa Jr.**  
+And for 888 Bistro, we have two checking accounts, Your Honor.
+
+**[06:20:00.470] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[06:20:02.530] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[06:20:04.720] Atty. James Bryan Ibrahim A. Alih**  
+Sige.
+
+**[06:20:05.770] Atty. James Bryan Ibrahim A. Alih**  
+Sir, can you confirm that the bank account with last digits 2393 under the name of Atty. Manases R. Carpio is in your records?
+
+**[06:20:19.550] Mario Cerilo M. De Mesa Jr.**  
+Yes sir, I can
+
+**[06:20:20.970] Mario Cerilo M. De Mesa Jr.**  
+confirm that the account number with ending 2393 is in our records.
+
+**[06:20:26.990] Atty. James Bryan Ibrahim A. Alih**  
+How about account number with last digits 4786 under the husband of the Vice President Atty. Manases Carpio?
+
+**[06:20:38.090] Mario Cerilo M. De Mesa Jr.**  
+Under the... Can you please repeat? Sorry, sir.
+
+**[06:20:42.390] Atty. James Bryan Ibrahim A. Alih**  
+4786. Last digits. 4786. Yes,
+
+**[06:20:45.850] Mario Cerilo M. De Mesa Jr.**  
+we have an account under the last digit 4786.
+
+**[06:20:49.910] Atty. James Bryan Ibrahim A. Alih**  
+All right.
+
+**[06:20:50.610] Mario Cerilo M. De Mesa Jr.**  
+Under the name of Manassas R. Carpio.
+
+**[06:20:54.800] Sen. Francis "Chiz" G. Escudero**  
+Mr. Jun, you don't have to repeat the question. Just answer the question yes or no.
+
+**[06:21:01.360] Mario Cerilo M. De Mesa Jr.**  
+Yes, sir. I'm
+
+**[06:21:02.560] Mario Cerilo M. De Mesa Jr.**  
+sorry.
+
+**[06:21:03.120] Sen. Francis "Chiz" G. Escudero**  
+It's okay. Kindly proceed, Attorney James.
+
+**[06:21:05.720] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, sir. Thank you, Your Honor. Sorry.
+
+**[06:21:09.610] Atty. James Bryan Ibrahim A. Alih**  
+For bank account with last digits 8-4-2-7, Sir Jun, can you confirm that this is part of your records?
+
+**[06:21:20.690] Mario Cerilo M. De Mesa Jr.**  
+Under 8-4-2-7, yes sir.
+
+**[06:21:22.910] Atty. James Bryan Ibrahim A. Alih**  
+Alright. And this is under the name of the Vice President Sara Zimmerman Duterte or Manases, Attorney Manases Reyes Carpio?
+
+**[06:21:32.050] Mario Cerilo M. De Mesa Jr.**  
+Yes, Your Honor.
+
+**[06:21:34.590] Atty. James Bryan Ibrahim A. Alih**  
+How about...
+
+**[06:21:38.030] Atty. James Bryan Ibrahim A. Alih**  
+Bank account with last digits 3686. Can you confirm that you have this in your records?
+
+**[06:21:47.600] Mario Cerilo M. De Mesa Jr.**  
+Under the same account name, sir?
+
+**[06:21:50.260] Mario Cerilo M. De Mesa Jr.**  
+Yes, sir.
+
+**[06:21:52.050] Mario Cerilo M. De Mesa Jr.**  
+3686, yes, sir. Alright.
+
+**[06:21:54.090] Atty. James Bryan Ibrahim A. Alih**  
+How about account with last digits 6168 under the Vice President Sara Zimmerman Duterte? Can you confirm the existence of this account in your records?
+
+**[06:22:05.690] Mario Cerilo M. De Mesa Jr.**  
+Yes, sir.
+
+**[06:22:07.020] Atty. James Bryan Ibrahim A. Alih**  
+Alright. How about bank account with 6071 under the name 888 Bistro? Can you confirm that is part of your records?
+
+**[06:22:17.700] Mario Cerilo M. De Mesa Jr.**  
+Yes, Sir.
+
+**[06:22:18.500] Atty. James Bryan Ibrahim A. Alih**  
+And another 888 Bistro, Sir, can you confirm if the account with last digits 8577 are in your records?
+
+**[06:22:28.660] Mario Cerilo M. De Mesa Jr.**  
+Yes, Sir.
+
+**[06:22:29.460] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Sir, allow me to start by asking you the year-end balances of those accounts that I've mentioned. But I'm going to proceed per year. So let's start with 2022. Let's start with 2393. Bank account 2393. What is the ending balance for the year 2022?
+
+**[06:22:54.520] Mario Cerilo M. De Mesa Jr.**  
+For account number 2393, for Manases R. Carpio, the year-end balance is 120,000.
+
+**[06:23:24.520] Mario Cerilo M. De Mesa Jr.**  
+For the year 2022, under the account of [unclear] Duterte and Manases R. Carpio, the ending balance is 5,131,934.13 centavos.
+
+**[06:23:43.640] Atty. James Bryan Ibrahim A. Alih**  
+With last digits 3686, what is the year-end balance for the year 2022?
+
+**[06:23:54.350] Mario Cerilo M. De Mesa Jr.**  
+For the year-end balance for 2022 under last digit 3686 is 747,291.78
+
+**[06:24:05.230] Atty. James Bryan Ibrahim A. Alih**  
+For bank account with
+
+**[06:24:08.430] Atty. James Bryan Ibrahim A. Alih**  
+Last digit 6168. Magkano po yung ending balance for 2022?
+
+**[06:24:24.560] Mario Cerilo M. De Mesa Jr.**  
+For 6168, for 2022, the ending balance is 414,624.27.
+
+**[06:24:36.020] Atty. James Bryan Ibrahim A. Alih**  
+Thank you,
+
+**[06:24:36.920] Atty. James Bryan Ibrahim A. Alih**  
+sir. Ito naman po, yung ending last digits ay 6071 under 888 Bistro. Magkano po yung year-end balance ng 2022?
+
+**[06:25:00.430] Mario Cerilo M. De Mesa Jr.**  
+Sandali lang po, sir
+
+**[06:25:01.400] Atty. James Bryan Ibrahim A. Alih**  
+Sige lang po.
+
+**[06:25:06.270] Mario Cerilo M. De Mesa Jr.**  
+Can you please repeat the number, sir?
+
+**[06:25:08.160] Atty. James Bryan Ibrahim A. Alih**  
+Certainly, sir. Last digit is 8577.
+
+**[06:25:14.360] Mario Cerilo M. De Mesa Jr.**  
+We do not have, sir, the ending balance for 8577.
+
+**[06:25:32.110] Atty. James Bryan Ibrahim A. Alih**  
+What is the year end balance for 2393 for the year 2023?
+
+**[06:25:40.340] Mario Cerilo M. De Mesa Jr.**  
+The year end balance is 65,585 pesos and 22 centavos.
+
+**[06:25:49.750] Atty. James Bryan Ibrahim A. Alih**  
+Okay, for the second account, 8427, ano po yung ending balance ng 2023?
+
+**[06:25:56.010] Mario Cerilo M. De Mesa Jr.**  
+For
+
+**[06:26:06.460] Mario Cerilo M. De Mesa Jr.**  
+the ending account number 8427 for 2023, The balance is 6,033,978.32. Okay.
+
+**[06:26:25.330] Atty. James Bryan Ibrahim A. Alih**  
+Magkano nga ulit?
+
+**[06:26:26.430] Mario Cerilo M. De Mesa Jr.**  
+Sorry, sir. Can you please repeat the account number again, sir?
+
+**[06:26:32.240] Atty. James Bryan Ibrahim A. Alih**  
+8427.
+
+**[06:26:34.240] Mario Cerilo M. De Mesa Jr.**  
+8427, the ending balance for 2023 is 6,033,978. and 32 centavos.
+
+**[06:26:45.230] Atty. James Bryan Ibrahim A. Alih**  
+Okay. Thank
+
+**[06:26:46.110] Atty. James Bryan Ibrahim A. Alih**  
+you, sir.
+
+**[06:26:46.510] Atty. James Bryan Ibrahim A. Alih**  
+Sir, I'm on 2023. Tapusin ko lang tong 2023.
+
+**[06:26:52.970] Atty. James Bryan Ibrahim A. Alih**  
+But it appears that I've skipped one account. But let me just finish with 2023 and then ihabol natin yung dalawang account. Let's go first to the
+
+**[06:27:05.320] Atty. James Bryan Ibrahim A. Alih**  
+last digit. Last digit is 3686.
+
+**[06:27:11.680] Atty. James Bryan Ibrahim A. Alih**  
+Ano po yung ending balance ng 2023?
+
+**[06:27:16.840] Mario Cerilo M. De Mesa Jr.**  
+3686.
+
+**[06:27:28.500] Mario Cerilo M. De Mesa Jr.**  
+With ending balance, sorry, with ending account number 3686, the balance is, ending balance for 2023 is 748,665.48.
+
+**[06:27:42.940] Atty. James Bryan Ibrahim A. Alih**  
+Sige
+
+**[06:27:43.500] Atty. James Bryan Ibrahim A. Alih**  
+po. Para naman po sa last digit 6168, ano po yung ending balance sa 2023?
+
+**[06:28:06.080] Mario Cerilo M. De Mesa Jr.**  
+6168, sir.
+
+**[06:28:07.060] Atty. James Bryan Ibrahim A. Alih**  
+Can you please confirm?
+
+**[06:28:08.620] Mario Cerilo M. De Mesa Jr.**  
+Yes. 6168. For ending balance 2023, the balance is P415,831.60.
+
+**[06:28:19.780] Atty. James Bryan Ibrahim A. Alih**  
+Sige
+
+**[06:28:20.540] Atty. James Bryan Ibrahim A. Alih**  
+po. For last digits 6071, what is the ending balance for 2023?
+
+**[06:28:27.790] Mario Cerilo M. De Mesa Jr.**  
+For ending balance, ending account number 3, 6071. Am I correct, sir?
+
+**[06:28:35.850] Mario Cerilo M. De Mesa Jr.**  
+Yes. 6071. Yes, sir.
+
+**[06:28:38.810] Mario Cerilo M. De Mesa Jr.**  
+The ending balance is Php
+
+**[06:28:40.390] Mario Cerilo M. De Mesa Jr.**  
+4,668,076.87.
+
+**[06:28:47.210] Atty. James Bryan Ibrahim A. Alih**  
+Alright.
+
+**[06:28:47.990] Atty. James Bryan Ibrahim A. Alih**  
+And can you confirm, yung sa last digits 8577, wala pong year-end balance. Tama po ba?
+
+**[06:28:55.250] Mario Cerilo M. De Mesa Jr.**  
+For 8577, there is no ending balance for 2023.
+
+**[06:29:00.770] Atty. James Bryan Ibrahim A. Alih**  
+So apologies to Sir Witness, Sir, na I may have missed. The bank account and with last digits 4786. I'm really sorry about that. Let's go to 2022. Bank account, last digits 4786. 2022 po, ano yung ending balance niya?
+
+**[06:29:21.280] Mario Cerilo M. De Mesa Jr.**  
+For 2022,
+
+**[06:29:28.200] Mario Cerilo M. De Mesa Jr.**  
+with ending account number 4786, the ending year end balance is 15 million.
+
+**[06:29:40.200] Mario Cerilo M. De Mesa Jr.**  
+284,682, and 606 and tapos.
+
+**[06:29:43.820] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[06:29:44.970] Atty. James Bryan Ibrahim A. Alih**  
+Buti naalala ko malaki pala. 2023 sir, ano po yung year-end balance ng last digit 4786?
+
+**[06:29:55.010] Mario Cerilo M. De Mesa Jr.**  
+The
+
+**[06:29:55.630] Mario Cerilo M. De Mesa Jr.**  
+year-end balance is 20,232,513.79
+
+**[06:30:02.880] Mario Cerilo M. De Mesa Jr.**  
+centavos
+
+**[06:30:42.000] Mario Cerilo M. De Mesa Jr.**  
+Your Honor,
+
+**[06:30:42.920] Mario Cerilo M. De Mesa Jr.**  
+can you please repeat the account number?
+
+**[06:30:44.140] Atty. James Bryan Ibrahim A. Alih**  
+Last digits po, 2393, Sir. Year-end balance for 2024.
+
+**[06:30:50.260] Mario Cerilo M. De Mesa Jr.**  
+For account number 2393, the ending balance is 21,620.19.
+
+**[06:31:01.280] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Sige po, Sir. Dito naman po sa last digit 4786, what is the year-end balance of this account for 2024?
+
+**[06:31:13.540] Mario Cerilo M. De Mesa Jr.**  
+For with account number 4786, the year-end balance is 4,412,857.40.
+
+**[06:31:24.260] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Sir.
+
+**[06:31:25.400] Atty. James Bryan Ibrahim A. Alih**  
+A
+
+**[06:31:25.780] Atty. James Bryan Ibrahim A. Alih**  
+little bit more patience,
+
+**[06:31:27.100] Atty. James Bryan Ibrahim A. Alih**  
+Sir. Sa last digit, 8427 po. Ano po yung year-end balance ng 2024?
+
+**[06:31:36.870] Mario Cerilo M. De Mesa Jr.**  
+8427 po.
+
+**[06:31:38.010] Atty. James Bryan Ibrahim A. Alih**  
+That's right, Sir.
+
+**[06:31:38.910] Mario Cerilo M. De Mesa Jr.**  
+Your Honor. Opo. For 8427, the ending balance is 30,965.60.
+
+**[06:31:48.000] Atty. James Bryan Ibrahim A. Alih**  
+Okay.
+
+**[06:31:49.660] Atty. James Bryan Ibrahim A. Alih**  
+Last digit is 3686. 2024 po ano yung year end balance?
+
+**[06:31:56.310] Atty. James Bryan Ibrahim A. Alih**  
+For
+
+**[06:32:11.670] Mario Cerilo M. De Mesa Jr.**  
+account number 3686, the ending balance for 2024 is 15,030.84. Okay.
+
+**[06:32:24.730] Atty. James Bryan Ibrahim A. Alih**  
+For account with last digit? Last digit, 6168. Ano po yung year-end balance ng 2024?
+
+**[06:32:49.440] Mario Cerilo M. De Mesa Jr.**  
+With ending account number 6168, the ending balance is 16,034.63. Thank
+
+**[06:33:00.880] Atty. James Bryan Ibrahim A. Alih**  
+you, Sir Jun. Dito naman po sa 6071, ano po yung ending balance ng 2024? And this is under 888 Bistro.
+
+**[06:33:13.800] Mario Cerilo M. De Mesa Jr.**  
+The ending balance is 179,928.82
+
+**[06:33:19.420] Atty. James Bryan Ibrahim A. Alih**  
+Alright sir. I'll just skip
+
+**[06:33:22.060] Atty. James Bryan Ibrahim A. Alih**  
+the account number ending 8577 sir because it likewise does not, well the record show at least that it wala pong nakadeklarang ending balance. So I'll go back and we are on our last year sir.
+
+**[06:33:37.340] Atty. James Bryan Ibrahim A. Alih**  
+2025. What is the ending balance for Bank account with last digits 2393 for the year 2025.
+
+**[06:34:01.590] Mario Cerilo M. De Mesa Jr.**  
+For 2393, the ending balance is 27,562.39.
+
+**[06:34:13.860] Atty. James Bryan Ibrahim A. Alih**  
+Bank account with last digits 4786. Ano po yung sa 2025 yung ending balance niya?
+
+**[06:34:33.070] Mario Cerilo M. De Mesa Jr.**  
+Thank you ma'am. With account number 4786, the ending balance for 2025 sir?
+
+**[06:34:42.980] Atty. James Bryan Ibrahim A. Alih**  
+Yes po.
+
+**[06:34:43.680] Mario Cerilo M. De Mesa Jr.**  
+The ending balance is 16,494,211.45 centavos.
+
+**[06:34:51.600] Atty. James Bryan Ibrahim A. Alih**  
+We're almost through sir.
+
+**[06:34:54.610] Atty. James Bryan Ibrahim A. Alih**  
+Sa last digits, 8427, ano po yung ending balance itong account na ito for 2025?
+
+**[06:35:12.300] Mario Cerilo M. De Mesa Jr.**  
+For 2025, the ending balance is 1,101,095.84.
+
+**[06:35:21.110] Atty. James Bryan Ibrahim A. Alih**  
+Alright. For last digits 3686,
+
+**[06:35:24.530] Atty. James Bryan Ibrahim A. Alih**  
+what is the ending balance for the year 2025?
+
+**[06:35:44.860] Mario Cerilo M. De Mesa Jr.**  
+With ending account number 3686, the ending balance is 15,038.31, Your Honor.
+
+**[06:35:55.290] Atty. James Bryan Ibrahim A. Alih**  
+Alright po. For account number 6168, ano po yung ending balance ng 2025?
+
+**[06:36:01.710] Mario Cerilo M. De Mesa Jr.**  
+The ending balance is 16,042.64. Last
+
+**[06:36:07.550] Atty. James Bryan Ibrahim A. Alih**  
+two, Sir Jun.
+
+**[06:36:09.290] Mario Cerilo M. De Mesa Jr.**  
+Last
+
+**[06:36:10.030] Atty. James Bryan Ibrahim A. Alih**  
+digit 6071, what is the ending balance for 2025?
+
+**[06:36:14.510] Mario Cerilo M. De Mesa Jr.**  
+The ending balance is 91,971.81.
+
+**[06:36:21.090] Atty. James Bryan Ibrahim A. Alih**  
+For
+
+**[06:36:21.900] Atty. James Bryan Ibrahim A. Alih**  
+2025 din, last digits 8577.
+
+**[06:36:27.040] Atty. James Bryan Ibrahim A. Alih**  
+Yes, sir. Ano po yung ending balance? Ito yung kaninang walang ending balance from 2022 to 2024. But in 2025, paano po?
+
+**[06:36:35.000] Mario Cerilo M. De Mesa Jr.**  
+The ending balance for 2025 is 1,102,729.64.
+
+**[06:36:42.400] Atty. James Bryan Ibrahim A. Alih**  
+Sir
+
+**[06:36:42.960] Atty. James Bryan Ibrahim A. Alih**  
+Julius, I just have a few more documents that I want you to look at.
+
+**[06:36:52.160] Atty. James Bryan Ibrahim A. Alih**  
+I would like you to, I refer you to
+
+**[06:36:56.570] Atty. James Bryan Ibrahim A. Alih**  
+Page 207. Excuse
+
+**[06:36:58.170] Sen. Francis "Chiz" G. Escudero**  
+me, Attorney James. This table is for what corporation or person?
+
+**[06:37:04.570] Atty. James Bryan Ibrahim A. Alih**  
+This is the total. Your Honor.
+
+**[06:37:06.530] Sen. Francis "Chiz" G. Escudero**  
+Of who?
+
+**[06:37:07.130] Sen. Francis "Chiz" G. Escudero**  
+Of the bank accounts.
+
+**[06:37:10.260] Sen. Francis "Chiz" G. Escudero**  
+So 18 million for 2025 is the total bank accounts of what? Of who? Of the Vice President and her spouse?
+
+**[06:37:18.870] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor.
+
+**[06:37:19.790] Sen. Francis "Chiz" G. Escudero**  
+But how can you factor in the account balances of what's the corporation?
+
+**[06:37:25.090] Atty. James Bryan Ibrahim A. Alih**  
+888 Bistro. It's a sole proprietorship, your honor.
+
+**[06:37:28.050] Sen. Francis "Chiz" G. Escudero**  
+It's a sole proprietorship.
+
+**[06:37:29.210] Atty. James Bryan Ibrahim A. Alih**  
+Yes, that's right. Thank you, your honor.
+
+**[06:37:34.600] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, po. Sir?
+
+**[06:37:38.710] Atty. Roberto N. Batungbacal**  
+Your honor, we apologize. At this point, can we ask that the slide be taken down?
+
+**[06:37:45.530] Sen. Francis "Chiz" G. Escudero**  
+Yes, you
+
+**[06:37:45.830] Sen. Francis "Chiz" G. Escudero**  
+can take it down already. I think you're done.
+
+**[06:37:46.950] Atty. Roberto N. Batungbacal**  
+It doesn't show the person to who those amounts correspond to or the accounts.
+
+**[06:37:54.170] Sen. Francis "Chiz" G. Escudero**  
+As inquired to by the Presiding Officer as well. Kindly continue, Attorney James.
+
+**[06:37:58.290] Atty. James Bryan Ibrahim A. Alih**  
+Thank you, Your Honor.
+
+**[06:38:04.100] Atty. James Bryan Ibrahim A. Alih**  
+Sir, kindly look at Exhibit P-Roman numeral 2-8-1-3-2-3-1.
+
+**[06:38:22.830] Atty. James Bryan Ibrahim A. Alih**  
+Allow me to bring it.
+
+**[06:38:36.200] Atty. James Bryan Ibrahim A. Alih**  
+Hello. Sir, I'm showing you this document.
+
+**[06:38:50.790] Atty. James Bryan Ibrahim A. Alih**  
+Give me a moment, Your Honor. I'll just ask another document, Your Honor.
+
+**[06:39:16.760] Atty. James Bryan Ibrahim A. Alih**  
+Okay. I'm sorry, Your Honor. It's been a long day. I'm really sorry.
+
+**[06:39:22.860] Atty. James Bryan Ibrahim A. Alih**  
+Exhibit P-2-8-1-3-1-2-1-5-BDO. If we can find it, I'll just show this one.
+
+**[06:39:37.290] Atty. James Bryan Ibrahim A. Alih**  
+Page... No,
+
+**[06:39:40.790] Atty. James Bryan Ibrahim A. Alih**  
+no, the other one.
+
+**[06:39:44.260] Atty. James Bryan Ibrahim A. Alih**  
+This, sir.
+
+**[06:39:47.430] Atty. James Bryan Ibrahim A. Alih**  
+Can you look at the...
+
+**[06:39:51.120] Atty. James Bryan Ibrahim A. Alih**  
+Can
+
+**[06:39:53.190] Atty. James Bryan Ibrahim A. Alih**  
+you look at the August 6 transactions? There are three transactions, sir. Can you... This is dated August 6 transaction. What is this transaction, sir? Two transactions?
+
+**[06:40:13.140] Mario Cerilo M. De Mesa Jr.**  
+The
+
+**[06:40:13.860] Mario Cerilo M. De Mesa Jr.**  
+first transaction,
+
+**[06:40:17.370] Mario Cerilo M. De Mesa Jr.**  
+as per our records, shows... 8 million was debited to the account 2700174786 and was transferred to the current account.
+
+**[06:40:33.910] Atty. James Bryan Ibrahim A. Alih**  
+Alright. And how about the other one, sir?
+
+**[06:40:37.190] Mario Cerilo M. De Mesa Jr.**  
+There is a 15 million debit with the same description, sir.
+
+**[06:40:43.910] Atty. James Bryan Ibrahim A. Alih**  
+Alright. And based on this document that you've submitted, whose name appears as the account owner of this bank or this account.
+
+**[06:40:56.000] Mario Cerilo M. De Mesa Jr.**  
+Based on the documents we have submitted, the account belongs to Manases R. Carpio.
+
+**[06:41:01.640] Atty. James Bryan Ibrahim A. Alih**  
+Alright. Sige. Thank
+
+**[06:41:02.800] Atty. James Bryan Ibrahim A. Alih**  
+you, sir.
+
+**[06:41:10.140] Atty. James Bryan Ibrahim A. Alih**  
+Your Honor, what was that?
+
+**[06:41:13.000] Atty. Roberto N. Batungbacal**  
+That was number 6. Your Honor, apologies. May we just be clarified to what account number? Just for clarity.
+
+**[06:41:19.700] Sen. Francis "Chiz" G. Escudero**  
+This is the account of Attorney Carpio. Account number, Attorney James?
+
+**[06:41:23.180] Atty. James Bryan Ibrahim A. Alih**  
+Four
+
+**[06:41:24.020] Sen. Francis "Chiz" G. Escudero**  
+Ending in?
+
+**[06:41:24.860] Atty. James Bryan Ibrahim A. Alih**  
+4786, your honor.
+
+**[06:41:35.980] Atty. James Bryan Ibrahim A. Alih**  
+Sir Jun, what was the date again? Sorry, based on your recollection.
+
+**[06:41:41.220] Mario Cerilo M. De Mesa Jr.**  
+Can I please see the document?
+
+**[06:41:42.940] Sen. Francis "Chiz" G. Escudero**  
+It's in the screen, sir.
+
+**[06:41:44.120] Mario Cerilo M. De Mesa Jr.**  
+I cannot
+
+**[06:41:44.980] Mario Cerilo M. De Mesa Jr.**  
+see, sir.
+
+**[06:41:47.020] Sen. Francis "Chiz" G. Escudero**  
+Then
+
+**[06:41:47.540] Sen. Francis "Chiz" G. Escudero**  
+allow the chair, August 6.
+
+**[06:41:50.560] Sen. Francis "Chiz" G. Escudero**  
+Yes,
+
+**[06:41:51.100] Sen. Francis "Chiz" G. Escudero**  
+August 6. It shows there in the screen, it's August 6.
+
+**[06:41:55.720] Atty. James Bryan Ibrahim A. Alih**  
+Yes, that's correct. And again, just to confirm, you read that this transaction involved, that happened on the same day, 8 million and 15 million. How much is the total of that, sir?
+
+**[06:42:12.170] Atty. Roberto N. Batungbacal**  
+Your Honor, this is ask and answer. The witness already confirmed the digits as reflected in the document, Your Honor.
+
+**[06:42:20.390] Atty. James Bryan Ibrahim A. Alih**  
+I'm asking for a computation, Your Honor.
+
+**[06:42:22.270] Sen. Francis "Chiz" G. Escudero**  
+Just to get over the hump, it's 23 million.
+
+**[06:42:26.100] Atty. James Bryan Ibrahim A. Alih**  
+23 million. I'm
+
+**[06:42:27.220] Sen. Francis "Chiz" G. Escudero**  
+not good at math but that's easy to add. Thank
+
+**[06:42:30.880] Atty. James Bryan Ibrahim A. Alih**  
+you. Thank you, Your Honor.
+
+**[06:42:32.080] Sen. Francis "Chiz" G. Escudero**  
+Move
+
+**[06:42:32.100] Sen. Francis "Chiz" G. Escudero**  
+on,
+
+**[06:42:32.260] Sen. Francis "Chiz" G. Escudero**  
+counsel.
+
+**[06:42:32.780] Atty. James Bryan Ibrahim A. Alih**  
+Alright, Your Honor. That would be all for this witness, Your Honor. I just wanted to ask the August 6 again because that happened the same time as the 18 million withdrawal in PNB. So that's 18 million and 23.
+
+**[06:42:46.840] Sen. Francis "Chiz" G. Escudero**  
+Attorney Rob,
+
+**[06:42:47.700] Sen. Francis "Chiz" G. Escudero**  
+any cross?
+
+**[06:42:49.060] Atty. Roberto N. Batungbacal**  
+Just a few.
+
+**[06:42:50.280] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir, when you're ready.
+
+**[06:42:53.030] Atty. Roberto N. Batungbacal**  
+Mr. De Mesa, good afternoon.
+
+**[06:42:55.560] Mario Cerilo M. De Mesa Jr.**  
+Good afternoon, sir.
+
+**[06:42:56.940] Atty. Roberto N. Batungbacal**  
+Your Honor, I'm sorry.
+
+**[06:42:58.600] Atty. Roberto N. Batungbacal**  
+Mr. De Mesa, during your redirect, you talked about two joint accounts, correct? Of Sara Z. Duterte and Manasis R. Carpio, correct?
+
+**[06:43:13.160] Mario Cerilo M. De Mesa Jr.**  
+Can
+
+**[06:43:13.720] Mario Cerilo M. De Mesa Jr.**  
+I look again on my
+
+**[06:43:15.660] Mario Cerilo M. De Mesa Jr.**  
+record?
+
+**[06:43:16.080] Sen. Francis "Chiz" G. Escudero**  
+Yes, yes.
+
+**[06:43:16.760] Sen. Francis "Chiz" G. Escudero**  
+Continuing authority is given to you, Mr. Jun, to look at your documents.
+
+**[06:43:26.410] Atty. Roberto N. Batungbacal**  
+Just to help you out, Mr. Witness, these are the accounts ending in 8-4-2-7 and 3-6-8-6.
+
+**[06:43:37.410] Mario Cerilo M. De Mesa Jr.**  
+8-4-2-7, Your Honor, and 3
+
+**[06:43:41.950] Mario Cerilo M. De Mesa Jr.**  
+-6
+
+**[06:43:42.230] Mario Cerilo M. De Mesa Jr.**  
+-8-6.
+
+**[06:43:43.370] Atty. Roberto N. Batungbacal**  
+Yes.
+
+**[06:43:43.870] Mario Cerilo M. De Mesa Jr.**  
+Yes.
+
+**[06:43:44.470] Atty. Roberto N. Batungbacal**  
+Mr. De Mesa, you confirm these are joint or accounts?
+
+**[06:43:48.370] Mario Cerilo M. De Mesa Jr.**  
+Yes, Your Honor.
+
+**[06:43:49.810] Atty. Roberto N. Batungbacal**  
+Yes. Joint or accounts, this means that either account holder can transact without the other, correct?
+
+**[06:43:58.430] Mario Cerilo M. De Mesa Jr.**  
+It means that the... Yes, sir.
+
+**[06:44:01.540] Atty. Roberto N. Batungbacal**  
+Yes, even without the knowledge or consent of the other, correct? A joint or account?
+
+**[06:44:07.870] Mario Cerilo M. De Mesa Jr.**  
+Yes, sir, a joint
+
+**[06:44:08.750] Atty. Roberto N. Batungbacal**  
+or
+
+**[06:44:08.990] Mario Cerilo M. De Mesa Jr.**  
+account.
+
+**[06:44:11.140] Atty. Roberto N. Batungbacal**  
+Also, Mr. De Mesa, you were asked about the two transactions on August 6.
+
+**[06:44:17.150] Mario Cerilo M. De Mesa Jr.**  
+Correct, sir.
+
+**[06:44:19.130] Atty. Roberto N. Batungbacal**  
+And, but you confirm, Mr. De Mesa, that your testimony is limited, your knowledge is limited only to the bank records that you brought?
+
+**[06:44:27.470] Mario Cerilo M. De Mesa Jr.**  
+Correct.
+
+**[06:44:28.030] Atty. Roberto N. Batungbacal**  
+That's correct. You confirm that you are not a party to any of these transactions?
+
+**[06:44:34.120] Mario Cerilo M. De Mesa Jr.**  
+Yes, sir.
+
+**[06:44:34.760] Atty. Roberto N. Batungbacal**  
+You do not know why the transactions were made?
+
+**[06:44:37.180] Mario Cerilo M. De Mesa Jr.**  
+Yes, sir.
+
+**[06:44:37.860] Atty. Roberto N. Batungbacal**  
+You do not know the underlying contract or agreement for these transactions?
+
+**[06:44:42.100] Mario Cerilo M. De Mesa Jr.**  
+Correct, sir.
+
+**[06:44:43.100] Atty. Roberto N. Batungbacal**  
+Nothing further to cross, Your Honor.
+
+**[06:44:45.600] Sen. Francis "Chiz" G. Escudero**  
+Redirect?
+
+**[06:44:46.240] Atty. James Bryan Ibrahim A. Alih**  
+No,
+
+**[06:44:46.720] Atty. James Bryan Ibrahim A. Alih**  
+redirect, Your Honor.
+
+**[06:44:48.340] Sen. Francis "Chiz" G. Escudero**  
+If there are no interjections from Senator Judge, Senator Judge Riza is recognized.
+
+**[06:45:01.930] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Magandang hapon po, Mr. de Mesa.
+
+**[06:45:05.370] Mario Cerilo M. De Mesa Jr.**  
+Magandang hapon po, Senator Risa.
+
+**[06:45:08.210] Sen. Risa Hontiveros**  
+Yes, sir.
+
+**[06:45:11.690] Sen. Risa Hontiveros**  
+Sorry. So,
+
+**[06:45:21.090] Sen. Risa Hontiveros**  
+similar po ng mga tanong, no? Sa 2022 SALN ni VP Duterte, wala po siyang... Oh, I'm so sorry. Yes, pa po. Yung halaga po ng other personal properties na dineclare nila para sa kanilang mag-asawa ay 13,325,000 pesos. Nahuli ko po yung... Pag-flash nung slide tungkol sa ending balance o halaga ng kanilang assets sa bangko ninyo nung taong iyon. At kung tama po yung nabasa ko at nasulat, ang halaga po nun ay 22,832,288 pesos at 41 centavos. Naalala niyo po ba yun? Yung na-flash na slide.
+
+**[06:46:13.550] Mario Cerilo M. De Mesa Jr.**  
+Pwede po bang ma-flash po? Kung
+
+**[06:46:14.970] Sen. Risa Hontiveros**  
+maaaring ma-flash ulit po. Kung maaari pong ma-flash ulit yung slide na yun, yung Sinuma. Ayan po.
+
+**[06:46:22.340] Sen. Francis "Chiz" G. Escudero**  
+Yes, the tech is instructed to kindly follow the questions of Senator Judge Riza. Yes.
+
+**[06:46:29.500] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. So, naalala nyo po ito, yung suma ng mga assets nila sa bangko ninyo noong taong 2022.
+
+**[06:46:38.220] Mario Cerilo M. De Mesa Jr.**  
+I'm sorry po, Your Honor, hindi po po masasagot yung sum total kasi ang... Binigay lang po namin ay year-end balances per account po.
+
+**[06:46:48.240] Sen. Risa Hontiveros**  
+Okay po. So, naibigay niyo po yung year-end balances para sa mga accounts nung mag-asawa or nang isa sa kanila or mga ITF para sa mga minor na anak nila and then sinuma na lang po ng prosecution. Tama po, Mr. President. Salamat po. So, I'll just rely on that. noting na yan po yung pagsusuma ng prosecution. Ang point ko lang dito, Mr. Presiding Officer, ay kanina po sa PNB pa lang, mas mataas na yung assets sa bankong iyon sa declared na SALN sa taong ito. Dito rin po sa BDO, mas mataas pa yung assets kaysa sa nasa SALN. In fact, Kung ikikwenta po natin yung 13M sa SALN kumpara sa 22M dito sa BDO taong 2022, almost 60% po yung assets kumpara sa SALN.
+
+**[06:47:49.210] Sen. Francis "Chiz" G. Escudero**  
+You mean deposits, Senator?
+
+**[06:47:50.770] Sen. Risa Hontiveros**  
+The accounts, yes. The accounts, Mr. Presiding Officer. And then sa 2023 SALN naman po, Yung halaga ng kanilang other personal properties na dineklara ni VP Duterte para sa taong iyon ay 14,725,000 pesos. Pwede po bang makita ulit yung slide nung pagsusuma ng prosecution dun sa sinabing ending balances ng BDO? Sa taong iyon. So ang pag-sum up ng prosecution ay 32 million. We're winding up Mr. Presiding Officer 162,651 pesos and 28 centavos. So again, pag ibabangga ko po sa BDO pa lang higit doble na ang laman ng accounts sa BDO sa taong 2023 kaysa sa nakadeclare sa sa SALN para sa tong iyon. In fact, under-declared by almost 45% yung SALN sa other personal properties dun palang sa accounts sa BDO. And adding those two amounts from PNB kanina at BDO ngayon, yun lamang pong dalawa, sa 2022, May undeclared na na 29 million pesos, 730,000. At tumaas naman po sa itong taong 2023 ang undeclared cash to 39 million pesos itong taong ito. I have just one more question, Mr. Presiding Officer. Should I wait for a second
+
+**[06:49:34.990] Sen. Risa Hontiveros**  
+round?
+
+**[06:49:34.991] Sen. Francis "Chiz" G. Escudero**  
+Kindly wind up.
+
+**[06:49:35.670] Sen. Risa Hontiveros**  
+Iwa wind up ko na lang po dito. Okay po. Salamat, Mr. Presiding Officer. So, Mr. De Mesa. Mula sa accounts nila sa BDO, makukumpirma po ba ninyo na nag-issue sila ng mga cheque? May dalawa po akong itatanong sa inyo. Cheque worth 11.35 million pesos in-issue kay Lourdes Lebozada at cheque worth 9.6 million pesos in-issue kay Dexter Latair. Unang tanong pala po sa dalawang cheque nito, mga managers checks po ba ito?
+
+**[06:50:13.320] Mario Cerilo M. De Mesa Jr.**  
+Ay, your honor po, hindi ko po masasagot po. Kailangan po makita yung dokumento po.
+
+**[06:50:18.940] Sen. Risa Hontiveros**  
+Ah, alright po, Mr. De Mesa. Kung ganun po, Mr. Presiding Officer,
+
+**[06:50:25.580] Sen. Francis "Chiz" G. Escudero**  
+We can do that for you,
+
+**[06:50:27.320] Sen. Francis "Chiz" G. Escudero**  
+Senator
+
+**[06:50:28.000] Sen. Francis "Chiz" G. Escudero**  
+Teresa. The
+
+**[06:50:28.980] Sen. Francis "Chiz" G. Escudero**  
+Clerk of Court can do that for you.
+
+**[06:50:30.380] Sen. Risa Hontiveros**  
+Thank you so much po. Isubmit ko na lang po sa Clerk of Court yung detalya na tinatanong kong dalawang cheque. At kung pagka... Pag ma-present po kay Mr. De Mesa, saka ako na lang pong itatanong yung follow-up questions.
+
+**[06:50:46.390] Sen. Francis "Chiz" G. Escudero**  
+We might not be able to produce it before we excuse
+
+**[06:50:48.990] Sen. Francis "Chiz" G. Escudero**  
+the
+
+**[06:50:49.270] Sen. Francis "Chiz" G. Escudero**  
+witness.
+
+**[06:50:49.850] Sen. Risa Hontiveros**  
+Opo, should I put the follow-up questions on record now?
+
+**[06:50:52.850] Sen. Francis "Chiz" G. Escudero**  
+You may put the follow-up questions on record already.
+
+**[06:50:56.230] Sen. Francis "Chiz" G. Escudero**  
+On an assumption you will make.
+
+**[06:50:58.770] Sen. Risa Hontiveros**  
+Sige po. Mr. De Mesa, assuming po na ma-presenta po ng korte sa inyo yung mga... Kaakibat na dokumento. Ang tanong ko po sana dun sa cheque worth 11.35 million pesos kay Ms. Lebozada at cheque worth 9.6 million pesos kay Mr. Latayan ay kung mako-confirm nyo po ba na na-issue yung ganitong cheque, kung managers checks po ba ito, at kung managers checks ang mga ito, ano po yung purpose na ibigay, na ibinigay? Doon sa request para sa transaksyong iyan. So saka ako na lang po ipa-follow up sa inyo, Mr. De Mesa.
+
+**[06:51:40.500] Sen. Francis "Chiz" G. Escudero**  
+We will
+
+**[06:51:41.060] Sen. Francis "Chiz" G. Escudero**  
+call it from the record, Senator Jasvisa. But Mr. Jun, would the reason for the issuance of an MC be part of the subpoena documents by this court? Binibigay po ba yung rason sa pag-iisyo ng MC?
+
+**[06:51:57.360] Sen. Francis "Chiz" G. Escudero**  
+At
+
+**[06:51:57.780] Sen. Francis "Chiz" G. Escudero**  
+kasama po ba yun sa sinabit niyo sa amin?
+
+**[06:52:01.280] Mario Cerilo M. De Mesa Jr.**  
+Sa ngayon po, Your Honor, hindi ko po masasagot kasi sa dami po ng dokumentong pinadala po namin, hindi ko po matatandaan lahat ng dokumento.
+
+**[06:52:14.200] Sen. Francis "Chiz" G. Escudero**  
+So, to respond to Senator Judge Riza, if the explanation for the issuance of the MC is part of what BDO submitted, then we will furnish you with that copy. However, if it is not part of what the prosecution requested to be subpoenaed, then we cannot present it to the good lady.
+
+**[06:52:31.760] Sen. Risa Hontiveros**  
+I understand, Mr. Presiding Officer. Salamat po. In which case, kung ganun nga po na hindi kasama yung dahilan sa request para sa manager's checks. Kung manager's checks ang mga yun, kung hindi po kasama sa subpoena, ang hihingin ko na lang pong impormasyon ay kung...
+
+**[06:52:51.280] Sen. Francis "Chiz" G. Escudero**  
+We will know that.
+
+**[06:52:53.960] Sen. Francis "Chiz" G. Escudero**  
+Again, in the interest of fairness, any document or information asked by a senator-judge to be called from the record submitted to this impeachment court will be furnished to all senator-judges and to both parties for their consideration, perusal, and or comments, should any there be.
+
+**[06:53:14.380] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Dagan salamat, Mr. De Mesa.
+
+**[06:53:17.460] Sen. Francis "Chiz" G. Escudero**  
+Maraming salamat po, Senator.
+
+**[06:53:18.800] Sen. Francis "Chiz" G. Escudero**  
+Senator
+
+**[06:53:19.020] Sen. Francis "Chiz" G. Escudero**  
+Judge Villanueva.
+
+**[06:53:19.940] Sen. Joel Villanueva**  
+Thank you, Mr. President, Mr. Presiding Officer. This will be very quick. Mr. Witness, may we know if you actually dito po sa mga deposits and substantial check... Payments nitong mga accounts sa BDO. May ni-report po ba kayo na covered transactions or suspicious transactions?
+
+**[06:53:49.410] Sen. Francis "Chiz" G. Escudero**  
+Forgive me, Senator Judge Villanueva. This has been a, even with the other Senator Judges, this is part of the subpoena issued by the Court. As well as taking judicial notice of section 9 of RA number 9160. Covered institutions are not allowed to answer questions as to whether or not they reported or did not report, submitted or did not submit, or actually state any information pertaining to a report given to the AMLC. As stated by the previous bank. For the record, the provision states exactly as follows. Covered institutions, their officers including Mr. Jun, are prohibited from communicating directly or indirectly in any manner or by any means to any person the fact that a covered transaction report was made, the contents thereof, or any other information in relation thereto.
+
+**[06:54:53.560] Sen. Francis "Chiz" G. Escudero**  
+We
+
+**[06:54:54.040] Sen. Francis "Chiz" G. Escudero**  
+will be putting Mr. Jun in a bind.
+
+**[06:54:56.900] Sen. Joel Villanueva**  
+Thank you, Mr. Presiding Officer. May I just ask for the policy, Mr. President, when it comes to lawyer-client policy ng BDO, for instance, Your Honor, sa records po ng bangko, ano po yung...
+
+**[06:55:13.880] Sen. Joel Villanueva**  
+Policía ninyo, whether ito po ba tinatanong nyo yung declared source of funds or business ng isang account at yung malalaking transaction na nakikita po natin, consistent po ba, for example, doon sa profile nung may-ari nung account sa banko?
+
+**[06:55:35.410] Mario Cerilo M. De Mesa Jr.**  
+Senator, pwede pong pakihulit po yung
+
+**[06:55:37.810] Sen. Joel Villanueva**  
+tanong. Tungkol po dun sa know your client na pulisiya na inyong ipinapatupad sa bangko, ano po yung mga hinahanap ng bangko na mga record para po makita na ito ay proper at walang itinatago at hindi suspicious na transaction yung pinapasukan ng isang
+
+**[06:56:05.270] Sen. Joel Villanueva**  
+A cliente ng bangko. Ano po yung inyong hinahanap? Hinahanap niyo po ba for example yung declared source of funds? O yung business in itself? Ano yung klaseng negosyo? Kung maliit na negosyo, magtatakaho kayo kung malaki naman yung ipinapasok na salapi.
+
+**[06:56:25.200] Mario Cerilo M. De Mesa Jr.**  
+Part of our customer due diligence na alamin po yung source of funds, negosyo po ng mga kliyente. including their identification po.
+
+**[06:56:36.240] Sen. Joel Villanueva**  
+At kung hindi po tugma yung pong nakita ninyo sa normal na transaksyon ng isang negosyo, ano pong ginagawa nyo po dito?
+
+**[06:56:46.040] Mario Cerilo M. De Mesa Jr.**  
+Kadalasan po humihingi kami ng additional na information sa mga kliyente or documents po.
+
+**[06:56:53.260] Sen. Joel Villanueva**  
+Like, tinahanap nyo po ba? Bine-verify nyo kung, for example, bine-verify nyo po ba kung saan talaga nang galing ang salapi na inilalagay?
+
+**[06:57:04.400] Mario Cerilo M. De Mesa Jr.**  
+Part of the customer due diligence po.
+
+**[06:57:07.300] Sen. Joel Villanueva**  
+Hinahanap nyo po. At ganun din ho, pag nag-issue sila ng cheque, sinusundan nyo din po kung saan po napupunta.
+
+**[06:57:14.880] Mario Cerilo M. De Mesa Jr.**  
+Hindi na po ganun kasi based on know your customer po. So titignan mo po yung negosyo kung yan po naman ay commensurate dun sa kanilang negosyo. Hindi na po kadalasan or hindi naman mayat maya hinihingan ng dokumento.
+
+**[06:57:32.020] Sen. Joel Villanueva**  
+Opo, pero binanggit niyo kanina yung pagpasok, hinihingan niyo, pero kung sakali mag-check eh, isinulat ho cash, for instance.
+
+**[06:57:39.880] Mario Cerilo M. De Mesa Jr.**  
+Ganon din po sa pagpasok ng mga deposito po.
+
+**[06:57:43.600] Sen. Joel Villanueva**  
+Paglabas po, sa paglabas naman po, hindi niyo naaalamin kung saan din deposito yung cash o sino yung nag-encash?
+
+**[06:57:49.880] Mario Cerilo M. De Mesa Jr.**  
+Hindi na po, masyadong, hindi na po tinatanong yun. Kasi po yun ay pera naman po ng kliyente.
+
+**[06:57:56.930] Sen. Joel Villanueva**  
+Salamat po. Thank you.
+
+**[06:57:58.090] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Villanueva. Senator Judge Kiko, correct? Yes, you may proceed, sir.
+
+**[06:58:13.850] Sen. Francis “Kiko” Pangilinan**  
+Magandang hapon po, Mr. Witness.
+
+**[06:58:17.440] Sen. Francis “Kiko” Pangilinan**  
+Yun tanong ko tulad nun tinanong ko sa ibang mga bangko. Merong bang peso account ang GenCorp sa inyong bangko, sa BDO?
+
+**[06:58:29.060] Mario Cerilo M. De Mesa Jr.**  
+Based on our records submitted po, wala po.
+
+**[06:58:33.020] Sen. Francis “Kiko” Pangilinan**  
+So walang peso account ang GenCorp?
+
+**[06:58:35.440] Mario Cerilo M. De Mesa Jr.**  
+Wala po.
+
+**[06:58:36.220] Sen. Francis “Kiko” Pangilinan**  
+Meron bang peso account ang Kale88 sa inyong bangko?
+
+**[06:58:50.930] Mario Cerilo M. De Mesa Jr.**  
+Cale88?
+
+**[06:58:51.440] Sen. Francis “Kiko” Pangilinan**  
+Cale88.
+
+**[06:58:53.580] Mario Cerilo M. De Mesa Jr.**  
+Tignan ko po yung aking record sir.
+
+**[06:58:55.400] Sen. Francis “Kiko” Pangilinan**  
+Yes please go ahead.
+
+**[06:58:57.600] Mario Cerilo M. De Mesa Jr.**  
+Meron po sir.
+
+**[06:59:00.270] Mario Cerilo M. De Mesa Jr.**  
+Meron po.
+
+**[06:59:01.010] Sen. Francis “Kiko” Pangilinan**  
+Would you have kailan binuksan itong account na ito? Is it still active? At ilang mga account?
+
+**[06:59:10.950] Mario Cerilo M. De Mesa Jr.**  
+Ang Cale88 po ay in-open po nung July 13, 2022.
+
+**[06:59:17.730] Sen. Francis “Kiko” Pangilinan**  
+July 2022?
+
+**[06:59:20.070] Mario Cerilo M. De Mesa Jr.**  
+Yes, sir. Isa lang po yung account po.
+
+**[06:59:22.740] Sen. Francis “Kiko” Pangilinan**  
+Is it still an active peso account?
+
+**[06:59:25.300] Mario Cerilo M. De Mesa Jr.**  
+Yes po, Your Honor.
+
+**[06:59:27.000] Sen. Francis “Kiko” Pangilinan**  
+Would you have data on ending balances nung 2022, 2023, and 2024, as well as 2025?
+
+**[06:59:43.600] Mario Cerilo M. De Mesa Jr.**  
+Meron po your honor.
+
+**[06:59:44.820] Sen. Francis “Kiko” Pangilinan**  
+Can you place it on record please?
+
+**[06:59:48.050] Mario Cerilo M. De Mesa Jr.**  
+Isa po ito sa isinamiti po ng bangko. Yes.
+
+**[06:59:53.250] Mario Cerilo M. De Mesa Jr.**  
+Based po on our report, meron pong year-end balance noong 2022. P211,869.84 2023 P12,709.84 2024 P11,206.22 2025 P36,780.69
+
+**[07:00:27.040] Sen. Francis “Kiko” Pangilinan**  
+Yung inflow ng pondos sa Cale88 is about 1.2 billion pesos. Pero ito ang ending balance from 2022. Walang milyon, ano? Any of them, no?
+
+**[07:00:43.320] Mario Cerilo M. De Mesa Jr.**  
+Base po dito sa record po namin, Your Honor.
+
+**[07:00:46.440] Sen. Francis “Kiko” Pangilinan**  
+Yes, so we would like to request the same request for our secretariat to cull the transactions.
+
+**[07:00:56.150] Sen. Francis “Kiko” Pangilinan**  
+Based on the monthly entry of Cale88, just to have a better understanding of how much money went in, how much money went out, in the context also of, well, determining the flow of money. Sabi nga nila, you follow the money. So we just want to see the The bank monthly transactions to better understand. Gusto natin maintindihan eh. 1.2 billion yung pumasok according to AMLA records pero ang ending balance every year for since 2022, 2023, 2024 ay wala pang isang wala pang isang milyon. Meron pa 41,000. So we just want to understand. Based on yung bank records, what is going on. Maraming salamat.
+
+**[07:02:00.600] Sen. Francis "Chiz" G. Escudero**  
+As long
+
+**[07:02:01.280] Sen. Francis "Chiz" G. Escudero**  
+as
+
+**[07:02:01.460] Sen. Francis "Chiz" G. Escudero**  
+it's
+
+**[07:02:01.600] Sen. Francis "Chiz" G. Escudero**  
+part of
+
+**[07:02:01.980] Sen. Francis "Chiz" G. Escudero**  
+the
+
+**[07:02:02.080] Sen. Francis "Chiz" G. Escudero**  
+documents
+
+**[07:02:02.380] Sen. Francis "Chiz" G. Escudero**  
+submitted by the witness, we shall do that. The clerk of court shall do that, shall endeavor to do that. With the same ruling, for all the senator judges to be furnished with a copy as well as the parties of whatever the clerk of court may call as requested by Senator Judge Pangilinan. If there are no other senator judges who wish to make an interjection, Mr. Jun, you are excused. Maraming salamat po sa inyong panahon sa pagsagot, sa
+
+**[07:02:27.010] Sen. Francis "Chiz" G. Escudero**  
+mga katanungan, sa
+
+**[07:02:27.970] Sen. Francis "Chiz" G. Escudero**  
+inyong pasensya, sa paghihintay, at sa inyong panahon. You are excused, sir. Thank you very much po. I was informed, Attorney James, that we are, you are rather, dispensing with the testimony of Mr. Manogid and Ms. Alvarillo.
+
+**[07:02:45.690] Atty. James Bryan Ibrahim A. Alih**  
+Yes, your honor. Based on the direct examination that I just conducted this afternoon, I was able to get the necessary information that I want.
+
+**[07:02:54.710] Sen. Francis "Chiz" G. Escudero**  
+The clerk of court is directed to the sergeant at arms to inform Mr.
+
+**[07:03:03.140] Sen. Francis "Chiz" G. Escudero**  
+Marian Manogid and Patricia Ley Alvarillo that they are excused from the proceedings. At pakiparating na lang po yung aming pasasalamat sa kanila. Senator Judge, Sotto is recognized.
+
+**[07:03:14.730] Sen. Vicente C. Sotto III**  
+Thank you, Mr. Poseidon.
+
+**[07:03:15.990] Sen. Francis "Chiz" G. Escudero**  
+What is your pleasure, sir?
+
+**[07:03:16.910] Sen. Vicente C. Sotto III**  
+Are we done with the witnesses from the
+
+**[07:03:20.010] Sen. Vicente C. Sotto III**  
+banks?
+
+**[07:03:20.450] Sen. Francis "Chiz" G. Escudero**  
+Yes, and we are proceeding to the insurance companies already.
+
+**[07:03:24.210] Sen. Vicente C. Sotto III**  
+Before we do that, may I be allowed to ask a few questions to the prosecution?
+
+**[07:03:28.670] Sen. Francis "Chiz" G. Escudero**  
+The gentleman may. You may proceed, sir. You have two minutes.
+
+**[07:03:31.770] Sen. Vicente C. Sotto III**  
+Thank you very much.
+
+**[07:03:34.190] Sen. Vicente C. Sotto III**  
+Attorney James.
+
+**[07:03:35.230] Atty. James Bryan Ibrahim A. Alih**  
+Yes, sir.
+
+**[07:03:36.030] Sen. Vicente C. Sotto III**  
+After
+
+**[07:03:36.470] Sen. Vicente C. Sotto III**  
+all the witnesses that you have presented from several banks, Just to summarize for our reference, how many bank accounts in total under the respondents and her spouse?
+
+**[07:03:52.460] Atty. James Bryan Ibrahim A. Alih**  
+Did
+
+**[07:03:52.940] Atty. James Bryan Ibrahim A. Alih**  
+we count?
+
+**[07:03:54.300] Atty. James Bryan Ibrahim A. Alih**  
+We have more than 30 bank accounts, sir.
+
+**[07:03:57.600] Sen. Vicente C. Sotto III**  
+30?
+
+**[07:03:58.060] Atty. James Bryan Ibrahim A. Alih**  
+Yeah, more than 30. Yes, Your Honor.
+
+**[07:04:01.690] Sen. Vicente C. Sotto III**  
+So, would you have a total of the combined ending balance for all the banks?
+
+**[07:04:07.430] Atty. James Bryan Ibrahim A. Alih**  
+Yes.
+
+**[07:04:07.910] Sen. Vicente C. Sotto III**  
+For total per year?
+
+**[07:04:09.070] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. In fact, I think we flash it. If you can just allow me, Your Honor, so that we can show. If the presiding
+
+**[07:04:14.530] Atty. James Bryan Ibrahim A. Alih**  
+officer will allow, I will be...
+
+**[07:04:16.150] Sen. Francis "Chiz" G. Escudero**  
+It's from a question of a senator-judge.
+
+**[07:04:23.540] Sen. Francis "Chiz" G. Escudero**  
+Not that one. You're talking of all the banks...
+
+**[07:04:27.000] Sen. Vicente C. Sotto III**  
+Yes, the total. Just the total of all the banks.
+
+**[07:04:31.380] Sen. Francis "Chiz" G. Escudero**  
+You're talking all the banks per year?
+
+**[07:04:33.960] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor.
+
+**[07:04:35.320] Sen. Francis "Chiz" G. Escudero**  
+No,
+
+**[07:04:35.980] Sen. Francis "Chiz" G. Escudero**  
+no, no. You had a table earlier. All the banks...
+
+**[07:04:41.710] Sen. Francis "Chiz" G. Escudero**  
+Across all banks for the years 22 to 25.
+
+**[07:04:45.310] Atty. James Bryan Ibrahim A. Alih**  
+What we have here, Your Honor, is the total of all the banks, if that would suffice, Your Honor.
+
+**[07:04:49.650] Sen. Francis "Chiz" G. Escudero**  
+All
+
+**[07:04:50.010] Atty. James Bryan Ibrahim A. Alih**  
+the banks.
+
+**[07:04:50.450] Sen. Francis "Chiz" G. Escudero**  
+You had a total per bank. All the banks, exactly.
+
+**[07:04:53.250] Atty. James Bryan Ibrahim A. Alih**  
+Opo.
+
+**[07:04:53.790] Sen. Vicente C. Sotto III**  
+Yes.
+
+**[07:04:54.330] Sen. Francis "Chiz" G. Escudero**  
+Is
+
+**[07:04:54.770] Sen. Francis "Chiz" G. Escudero**  
+that what you're asking for, Senator Judge Sotto?
+
+**[07:04:58.190] Sen. Vicente C. Sotto III**  
+Yes, Your Honor.
+
+**[07:04:59.130] Sen. Vicente C. Sotto III**  
+Total per year
+
+**[07:05:00.150] Sen. Vicente C. Sotto III**  
+for each bank.
+
+**[07:05:01.430] Sen. Francis "Chiz" G. Escudero**  
+For all the banks. For all the banks. All
+
+**[07:05:04.130] Sen. Francis "Chiz" G. Escudero**  
+the banks na para isang ano na lang.
+
+**[07:05:05.890] Sen. Francis "Chiz" G. Escudero**  
+For all the banks.
+
+**[07:05:07.830] Sen. Vicente C. Sotto III**  
+No, no, yung total.
+
+**[07:05:35.990] Atty. James Bryan Ibrahim A. Alih**  
+For all the banks. Yung kanina. Ending balances of the vice president in 2022 of 59,024,726 pesos and 27 cents. In 2023, the total ending balances of all the accounts across eight banks is 71,381,223 pesos and 30 cents. In 2024, The total is 22,245,745.99. And lastly, your honor, if you'll allow me, 39 million for 2025. 39,092,037 pesos and 63 cents.
+
+**[07:06:28.790] Sen. Vicente C. Sotto III**  
+Thank you,
+
+**[07:06:29.210] Sen. Vicente C. Sotto III**  
+Tony James. Mr. Presiding Officer, thank you. I am satisfied.
+
+**[07:06:31.950] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Sotto. Can we now proceed to the... Senator Judge Kiko is recognized. What is your pleasure, sir?
+
+**[07:06:40.300] Sen. Francis “Kiko” Pangilinan**  
+Yes, just an
+
+**[07:06:40.980] Sen. Francis “Kiko” Pangilinan**  
+administrative matter because earlier the BPI witness testified and we requested for the calling of the bank transactions for BPI. Could we also include The Culling, if it appears in the bank records. I don't know if it will appear in the bank records. But there are 143 transactions, remittances, and mostly from Bank of the Philippine Islands as the receiving bank of the Chinese companies that remitted to Cale88.
+
+**[07:07:26.260] Sen. Francis “Kiko” Pangilinan**  
+Total amount is 319 million. And therefore, we'd like to know.
+
+**[07:07:33.100] Sen. Francis "Chiz" G. Escudero**  
+Which banks?
+
+**[07:07:33.980] Sen. Francis “Kiko” Pangilinan**  
+Yes.
+
+**[07:07:36.630] Sen. Francis “Kiko” Pangilinan**  
+BPI, Davao.
+
+**[07:07:40.020] Sen. Francis "Chiz" G. Escudero**  
+I think we already have that document ready for the Senator Judge in a few minutes.
+
+**[07:07:45.500] Sen. Francis “Kiko” Pangilinan**  
+Oh, okay. Mostly BPI.
+
+**[07:07:49.130] Sen. Francis "Chiz" G. Escudero**  
+We will have that table for the good gentleman in a few minutes. We're preparing that already as requested by Senator Judge Miggs the other day to include the other countries as well.
+
+**[07:07:59.070] Sen. Francis “Kiko” Pangilinan**  
+I had wanted to ask the BPI witness about the BPI, the post-recipient bank of all these Chinese transactions but I don't know if it's in the peso. He didn't also know whether it was in the peso account or the foreign currency account.
+
+**[07:08:18.860] Sen. Francis "Chiz" G. Escudero**  
+If I remember correctly, the AMLC record showed both amounts in dollar and in peso.
+
+**[07:08:24.710] Sen. Francis “Kiko” Pangilinan**  
+Yes, yes. So hopefully the calling will help us better understand these transactions that came from China.
+
+**[07:08:32.210] Sen. Francis "Chiz" G. Escudero**  
+I initially saw it, Honorable Pangalinan, and it contained, the table will contain the amounts and the banks. Thank
+
+**[07:08:40.130] Sen. Francis “Kiko” Pangilinan**  
+you. Thank you, Mr. Presiding Officer.
+
+**[07:08:43.390] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Next witness is Attorney Roman.
+
+**[07:08:48.350] Sen. Francis "Chiz" G. Escudero**  
+of FWD Life Insurance. Your
+
+**[07:08:50.630] Atty. James Bryan Ibrahim A. Alih**  
+Honor.
+
+**[07:08:51.950] Sen. Francis "Chiz" G. Escudero**  
+Atty. Sheila.
+
+**[07:08:52.730] Atty. James Bryan Ibrahim A. Alih**  
+Before
+
+**[07:08:53.010] Atty. James Bryan Ibrahim A. Alih**  
+proceeding, Your Honor, may I turn over, Your Honor, as I am done with the banks, Your Honor, if you'll allow it.
+
+**[07:09:00.470] Sen. Francis "Chiz" G. Escudero**  
+Who will handle the insurance companies?
+
+**[07:09:04.850] Atty. James Bryan Ibrahim A. Alih**  
+Congressman Lord Dan Suwan, Your Honor.
+
+**[07:09:09.650] Sen. Francis "Chiz" G. Escudero**  
+The Honorable Suan is recognized. Atty. Sheila, what is your pleasure, ma'am?
+
+**[07:09:13.390] Atty. Sheila C. Sison**  
+Good afternoon, Your Honor. Good
+
+**[07:09:14.910] Sen. Francis "Chiz" G. Escudero**  
+afternoon, ma'am.
+
+**[07:09:17.340] Atty. Sheila C. Sison**  
+I respect that the senators, judges under the rules have a right to ask clarificatory questions to the witnesses. However, my manifestation that I would like to put on record today is in relation to the statement and the use of the term or the way that the gentleman from the prosecution
+
+**[07:09:48.420] Atty. Sheila C. Sison**  
+Describe the table that was shown on the screen upon the request of the Honorable Senator Judge Itosoto.
+
+**[07:09:54.780] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, ma'am, with your manifestation.
+
+**[07:09:56.480] Atty. Sheila C. Sison**  
+Yes, Your Honor. He mentioned that all these figures that were shown on screen were the year-end balances of the respondent, Your Honor. And I think he's aware and this Court is aware that we will never meet on this point. And so, in the interest of fairness, and so that the record conforms to the answers of the witnesses that we have heard, and since it is also apparent that this trial is far from over, since the respondent has not yet even begun presenting its evidence, then may I just put on record that we will not take that manifestation.
+
+**[07:10:44.360] Atty. Sheila C. Sison**  
+The figures that he had shown belong or are owned by the respondent. At the very least, if the prosecution wants to maintain that description, I will ask this court that the same be made or be characterized as alleged, Your Honor. Otherwise, Your Honor, then there will be no point in this trial, Your Honor, if these figures... as stated by the prosecution will be accepted as is and as described. Thank you,
+
+**[07:11:20.140] Sen. Francis "Chiz" G. Escudero**  
+Your Honor. If I may, I think earlier when Attorney Mike was the one standing, I forget which bank, Attorney James acceded to the term alleged to be used. Would that be correct? Do you confirm, Attorney James?
+
+**[07:11:35.900] Atty. James Bryan Ibrahim A. Alih**  
+Yes, Your Honor. We have no
+
+**[07:11:37.180] Atty. James Bryan Ibrahim A. Alih**  
+issue with that.
+
+**[07:11:37.820] Sen. Francis "Chiz" G. Escudero**  
+Let the record therefore be changed and so reflect. The word alleged when Attorney James made reference to the figure shown on screen as requested by Senator Judge Sotto.
+
+**[07:11:47.800] Atty. Sheila C. Sison**  
+Thank you, Your Honor.
+
+**[07:11:51.200] Sen. Francis "Chiz" G. Escudero**  
+The Honorable Ridon is recognized.
+
+**[07:11:55.460] Sen. Francis "Chiz" G. Escudero**  
+Rather, sorry, the Honorable Suwan is recognized.
+
+**[07:11:58.560] Rep. Lordan G. Suan**  
+Thank you, Your Honors.
+
+**[07:11:59.800] Sen. Francis "Chiz" G. Escudero**  
+You may rest, Attorney James.
+
+**[07:12:07.790] Sen. Francis "Chiz" G. Escudero**  
+On
+
+**[07:12:08.350] Sen. Francis "Chiz" G. Escudero**  
+the part of the respondent who will be
+
+**[07:12:12.390] Sen. Francis "Chiz" G. Escudero**  
+Standing for the respondent?
+
+**[07:12:14.250] Atty. Carlo Joaquin T. Narvasa**  
+It
+
+**[07:12:14.690] Atty. Carlo Joaquin T. Narvasa**  
+will be I, Your Honor.
+
+**[07:12:16.010] Sen. Francis "Chiz" G. Escudero**  
+Attorney CJ?
+
+**[07:12:17.190] Atty. Carlo Joaquin T. Narvasa**  
+Yes, Your Honor.
+
+**[07:12:18.110] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate the witness, Attorney Roman, to the witness stand.
+
+**[07:12:22.290] Atty. Sheila C. Sison**  
+Oh,
+
+**[07:12:24.190] Sen. Francis "Chiz" G. Escudero**  
+I'm sorry. Hello.
+
+**[07:12:27.690] Sen. Francis "Chiz" G. Escudero**  
+How do we call you, Attorney? How are you called?
+
+**[07:12:33.210] Atty. Juan Sotero Roman**  
+Teroy. My nickname is Teroy, Your Honor. Attorney Teroy.
+
+**[07:12:37.530] Sen. Francis "Chiz" G. Escudero**  
+Yes, kindly stand up. The clerk is directed to administer the oath.
+
+**[07:12:44.450] Atty. Renato N. Bantug Jr.**  
+Sir, please raise your right hand.
+
+**[07:12:47.700] Atty. Renato N. Bantug Jr.**  
+You, Juan Sotero Roman, do swear that the evidence you shall give in the case now pending between the Philippines and Vice President Cyrus Jim Ramon Duterte shall be the truth, the whole truth, and nothing but the truth. So help you God.
+
+**[07:13:00.540] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:13:01.990] Sen. Francis "Chiz" G. Escudero**  
+Kindly speak to the mic, sir.
+
+**[07:13:03.770] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:13:11.530] Sen. Francis "Chiz" G. Escudero**  
+Salamat po.
+
+**[07:13:13.780] Sen. Francis "Chiz" G. Escudero**  
+Honorable Suan, your offer.
+
+**[07:13:18.780] Rep. Lordan G. Suan**  
+May it please the Honorable Impeachment Court, the testimony of Attorney Teroy T. Ruman, the duly authorized representative of FWD Life Insurance Corporation or FWD Life, for brevity, is offered to establish the following. The witness is the authorized representative of FWD Life Insurance. Upang kilalanin At patunayan ang mga record ng FWD Life. May sapat na kaalaman at otoridad ang witness sa mga dokumentong isinumite ng kanyang kumpanya. May policy, may bayad, may record. Ang kumpanyang tumanggap ng pera ang magpapatunay. Number two.
+
+**[07:14:07.520] Rep. Lordan G. Suan**  
+In May 2024, the respondent vice president's husband bought a 10.6 million pesos lump sum insurance investment. Patutunayan na noong May 25, 2024, kumuha si Atty. Manz R. Carpio ng insurance investment sa FWD Life na nagkakahalaga ng 10,600,000 pesos. Isang policy, isang bagsakan. 10,600,000 pesos. Tiyak ang halaga, tiyak ang pecha. Wala ito sa SALN ng Respondent Vice President. Number 3.
+
+**[07:14:50.640] Rep. Lordan G. Suan**  
+Respondent Vice President's insurance alone was worth more than everything she declared as other personal properties in 2022. Kasama ng ebidensya mula sa ibang insurance companies, ipapakita ang agwat sa kanyang 2022 SALN. Sa kanyang SALN as of December 31, 2022,
+
+**[07:15:14.550] Rep. Lordan G. Suan**  
+250,000 pesos ang dineklara niyang kabuoang other personal properties. Pero halos 7 million pesos na ang acquisition cost ng kanyang insurance investments noon. Insurance pa lang lampas na at hindi pa kasama ang bank deposits, baril, at iba pang ari-arian. Number four, the acquisition cost of the insurance of Respondent Vice President's Husband was more than three times what she declared for him in 2022. Mas malaki pa ang agwat sa deklarasyon niya para sa kanyang asawa. Sa sale ng Respondent Vice President, 8,075,000 pesos ang idineklarang other personal properties ni Atty. Carpio. Pero hindi bababa sa 28,000,000 pesos Ang acquisition cost ng kanyang insurance investments. Halos 20 milyon pesos ang agwat. Kung insurance pa lang ay lampas na sa buong deklarasyon, nasaan ang iba pang ari-arian? Yan ang agwat na ihaharap ng prosecution bilang ebidensya ng tahasang hindi pagdideklara ng Respondent Vice President ng tunay na laki ng kanyang yaman at pag-aari sa kanyang SALN. Taliwas sa kautosan ng Constitution. Number 5, 4 SALNs, 4 non-declarations every single year for 4 years. Ihahambing ang insurance records sa mga SALN ng 2022, 2023, 2024, at 2025 upang patunayan ang patuloy at paulit-ulit na hindi buong pagdedeklara ng acquisition cost Nang kanilang insurance investments. Apat na taon, apat na pirma, apat na SALN, at taon-taon kulang ang deklarasyon. Number six,
+
+**[07:17:21.200] Rep. Lordan G. Suan**  
+all documents and figures come from the insurance company's own records. Upang patunayan ang pagiging tunay at wastong pagkakagawa ng mga dokumento. Your Honors, may halaga ang bawat policy, may petsa ang bawat transaksyon. May pirma ang bawat SALN. Pagtatapatin natin ang mga yan. Ang SALN ay deklarasyon ng ari-arian. Hindi listahan ng gusto lang ipakita. Kung kayang magbaya ng milyon-milyon sa insurance, bakit hindi ito mailagay sa SALN?
+
+**[07:18:11.280] Atty. Carlo Joaquin T. Narvasa**  
+Testimony of the prosecution, Your Honor. This would be improper. He is incompetent. As the first offer admitted, he is only testifying on the records of FWD. Whatever the testimony he would provide will only come from the record of his company and provide for only The insurance policies therein. However, Your Honor, the conclusions of law contained in, which I will not repeat, in the second, third, fourth, and fifth offers of testimony involve SALNs, which he would not have any personal knowledge of. And he would also not be able to provide any summation, conclusions, regarding the amounts thereon. As to the first
+
+**[07:19:08.590] Sen. Francis "Chiz" G. Escudero**  
+Are you willing to stipulate the first to
+
+**[07:19:12.820] Sen. Francis "Chiz" G. Escudero**  
+abbreviate this witness that he is who he says he is?
+
+**[07:19:17.760] Atty. Carlo Joaquin T. Narvasa**  
+No, Your Honor. We would like the prosecutor to...
+
+**[07:19:22.580] Sen. Francis "Chiz" G. Escudero**  
+Well, at least it will cover something to comment, Honorable Suwan, to the objection. And
+
+**[07:19:28.540] Atty. Carlo Joaquin T. Narvasa**  
+subject to cross, of course, Your Honor.
+
+**[07:19:29.980] Sen. Francis "Chiz" G. Escudero**  
+Raised by Attorney CJ.
+
+**[07:19:31.940] Rep. Lordan G. Suan**  
+Your Honor, the defense cannot dictate how the prosecution sent its offer of testimony. and what the prosecution intends to prove through the testimony of this witness. And regarding the incompetence of the witness, yes, it is true that the witness does not have personal knowledge regarding the SALNs of the Vice President. That is why we will not be asking him about the SALNs of the Vice President. However, it is essential that the SALN be mentioned in our offer because it provides the baseline. for measuring the under-declaration of the respondent of her insurance investments, Your Honor. And with due respect, I think the Honorable Impeachment Court has already allowed conclusions of law in the offer when necessary.
+
+**[07:20:30.470] Sen. Francis "Chiz" G. Escudero**  
+Forgive me, you just admitted that you used the offer to make conclusions of law although it will not be part of the direct examination of this witness. Because indeed, the witness has no personal knowledge and you can only call a witness to testify on, and I'm sure Attorney Teroy knows that too, on matters that he has personal knowledge of and also based on records. So, do I take it that you will not be asking any questions pertaining to the SALN of the Vice President in relation to this witness, Attorney Teroy, and that you only mentioned it in your offer?
+
+**[07:21:09.520] Rep. Lordan G. Suan**  
+Yes, Your Honor. We will only be asking him about the insurance policies and investments of the Vice President and her husband.
+
+**[07:21:18.700] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, then, with that admission, we move that the offers
+
+**[07:21:25.170] Atty. Carlo Joaquin T. Narvasa**  
+stating the SALN, which are the second, the third, the fourth, and the fifth, be stricken off the record. And then we thank the honorable prosecutor.
+
+**[07:21:33.310] Sen. Francis "Chiz" G. Escudero**  
+Attorney CJ, let it remain in the record, but the court will not allow questions to be asked in relation to the second, third, fourth, and fifth offer. With a reminder to the counsel for the panel of prosecutors, or the panel of prosecutors, that subsequent Prosecutors who will handle the subsequent insurance policy witnesses should avoid making an offer that will not be brought up with this witness. But on condition upon that, we will let the offer remain in the record for this particular witness. With your indulgence, Attorney CJ.
+
+**[07:22:17.210] Atty. Carlo Joaquin T. Narvasa**  
+Of course, Your Honor.
+
+**[07:22:18.050] Sen. Francis "Chiz" G. Escudero**  
+You may continue, you may proceed rather, Honorable Suan, with your direct, as instructed by the Presiding Officer, to focus on what the witness has personal knowledge over with respect to the policies obtained by the Vice President or her spouse from the company he belongs to. You may proceed, sir. Thank you.
+
+**[07:22:37.650] Rep. Lordan G. Suan**  
+Thank you, Your Honor.
+
+**[07:22:39.820] Rep. Lordan G. Suan**  
+Attorney, mayang ngapon. Maaari niyo po bang sabihin ang inyong buong pangalan? Posisyon at ang kumpanyang inyong kinakatawan?
+
+**[07:22:49.980] Atty. Juan Sotero Roman**  
+Yes, Your Honor. Ako po si Atty. Juan Sotero Roman. I am the Chief Legal and Compliance Officer of FWD Life Insurance Corporation, Your Honor.
+
+**[07:23:03.730] Rep. Lordan G. Suan**  
+Sir, bago po kayo naging konektado sa FWD, saan po kayo nagtrabaho, whether sa private man or sa gobyerno?
+
+**[07:23:13.730] Atty. Juan Sotero Roman**  
+I came from the other life insurance companies before I became a member of the FWD Life Insurance Corporation, Your Honor.
+
+**[07:23:23.250] Rep. Lordan G. Suan**  
+Ano po ang inyong mga tungkulin at responsibilidad sa nasabing posisyon sa inyong kasalukuyang kompanya po?
+
+**[07:23:31.450] Atty. Juan Sotero Roman**  
+I oversee the compliance of the company for all laws and regulations.
+
+**[07:23:40.380] Atty. Juan Sotero Roman**  
+that are pertinent to the insurance business of our company, Your Honor.
+
+**[07:23:45.950] Rep. Lordan G. Suan**  
+Ano po ang dahilan ng inyong pagharap dito ngayong araw sa kagalanggalang hukuman ito?
+
+**[07:23:51.270] Atty. Juan Sotero Roman**  
+In my capacity as Chief Legal and Compliance Officer, I have access to the records of the company covering its clients, Your Honor.
+
+**[07:24:01.430] Rep. Lordan G. Suan**  
+Do you have those records here with you?
+
+**[07:24:04.590] Atty. Juan Sotero Roman**  
+If I may open my... for this specific... Covered by the Supina. I have my folder here.
+
+**[07:24:13.880] Sen. Francis "Chiz" G. Escudero**  
+You
+
+**[07:24:14.020] Sen. Francis "Chiz" G. Escudero**  
+may do so, Attorney Teroy. Assisting Counsels may also approach. Continuing authority, as the Chair stated earlier, has been granted. To whomsoever Assisting Counsel, the respective parties will assign to a particular witness, to approach the witness.
+
+**[07:24:31.170] Rep. Lordan G. Suan**  
+So, Mr. Witness, pakisuri po ng mga dokumentong yan?
+
+**[07:24:36.170] Atty. Juan Sotero Roman**  
+Yes, Your Honor. This is the compliance. by the company to the subpoena duces tecum dated August 27, Your Honor.
+
+**[07:24:45.090] Rep. Lordan G. Suan**  
+Okay.
+
+**[07:24:47.860] Rep. Lordan G. Suan**  
+Sige, Mr. Witness, punta na po tayo ngayon sa exhibits P-Roman numeral 2-8-14-1-13 FWD at 14-2-3 FWD po.
+
+**[07:25:04.490] Atty. Juan Sotero Roman**  
+Your Honor, if I may, I'll just look for it.
+
+**[07:25:09.870] Atty. Juan Sotero Roman**  
+Where is that?
+
+**[07:25:10.590] Sen. Francis "Chiz" G. Escudero**  
+Assisting counsel will kindly assist the witness with respect to the exhibits referred to by the Honorable Suan.
+
+**[07:25:19.670] Atty. Juan Sotero Roman**  
+So I have the exhibit, Your Honor.
+
+**[07:25:23.670] Rep. Lordan G. Suan**  
+Sir, sino po ang policyholder ng insurance investment na to?
+
+**[07:25:28.090] Atty. Juan Sotero Roman**  
+The named policy owner for the record is Mr. Manases R. Reyes Carpio, Your Honor.
+
+**[07:25:36.270] Rep. Lordan G. Suan**  
+Kailan po kinuha ang insurance investment na yan?
+
+**[07:25:40.540] Atty. Juan Sotero Roman**  
+The date of the record, Your Honor, reflects 5-16-2024, Your Honor.
+
+**[07:25:48.320] Rep. Lordan G. Suan**  
+So, Sir, base po sa mga dokumento na nasa iyo, magkano po ang total insurance premium na binayad ng policyholder?
+
+**[07:25:57.760] Atty. Juan Sotero Roman**  
+The record reflects, Your Honor, 10,600,000 pesos, Your Honor.
+
+**[07:26:06.210] Rep. Lordan G. Suan**  
+10,600,000 pesos. Gano'ng kalaking pera ang pwedeng ipasok? Bilang premium sa isang insurance policy.
+
+**[07:26:13.810] Atty. Carlo Joaquin T. Narvasa**  
+Objection, Your Honor.
+
+**[07:26:15.810] Atty. Carlo Joaquin T. Narvasa**  
+That would be speculative and vague. I don't understand what you're asking for.
+
+**[07:26:22.150] Sen. Francis "Chiz" G. Escudero**  
+I'll allow it, Atty. CJ. If he knows, how much would be the premium for a 10.6 million policy? Is this the face value of the policy, Atty. Teroy?
+
+**[07:26:30.870] Atty. Juan Sotero Roman**  
+Your Honor, this is already the premium paid to the company, Your Honor.
+
+**[07:26:35.730] Sen. Francis "Chiz" G. Escudero**  
+And that's also the face value of the insurance?
+
+**[07:26:38.270] Atty. Juan Sotero Roman**  
+The face value, your honor, or the sum assured is 13,250,000, your honor.
+
+**[07:26:44.990] Sen. Francis "Chiz" G. Escudero**  
+1, 3. So ang binayad, 10.6. Ang binibiling policy is 13.
+
+**[07:26:50.170] Atty. Juan Sotero Roman**  
+250,000, your honor.
+
+**[07:26:51.520] Sen. Francis "Chiz" G. Escudero**  
+13.2.
+
+**[07:26:51.890] Atty. Juan Sotero Roman**  
+Yes.
+
+**[07:26:52.390] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[07:26:54.000] Atty. Juan Sotero Roman**  
+So,
+
+**[07:26:54.640] Rep. Lordan G. Suan**  
+pwede bang million-million, isang bagsakan?
+
+**[07:27:00.510] Rep. Lordan G. Suan**  
+Yung pagbili ng insurance policy po. Please
+
+**[07:27:06.950] Sen. Francis "Chiz" G. Escudero**  
+answer,
+
+**[07:27:07.310] Sen. Francis "Chiz" G. Escudero**  
+Atty. Teroy.
+
+**[07:27:08.650] Atty. Juan Sotero Roman**  
+Yes, Your Honor, but I'm only reading the record based on the exhibits.
+
+**[07:27:16.290] Sen. Francis "Chiz" G. Escudero**  
+Mas gusto niyo nga yun, di ba? Ano mas gusto niyo, Atty. Teroy? Malaki yung premium o mababang premium?
+
+**[07:27:22.720] Atty. Juan Sotero Roman**  
+Your Honor, we're here to determine the financial needs of the client, Your Honor.
+
+**[07:27:32.490] Sen. Francis "Chiz" G. Escudero**  
+Just like your answer earlier, Attorney Terry, that you came from the other insurance company without mentioning the others. Kindly
+
+**[07:27:39.710] Sen. Francis "Chiz" G. Escudero**  
+proceed, Honorable Suan.
+
+**[07:27:41.470] Rep. Lordan G. Suan**  
+Sir, ano po ang limitasyon ng halagang maaaring ilagay sa isang insurance policy sa isang payment?
+
+**[07:27:49.680] Atty. Juan Sotero Roman**  
+That would be dependent, Your Honor, on the type of product purchased, Your Honor.
+
+**[07:27:57.720] Rep. Lordan G. Suan**  
+Ano pong pinaka-common na product na pinapurchase?
+
+**[07:28:01.390] Atty. Juan Sotero Roman**  
+The common product would be a death benefit or a life insurance.
+
+**[07:28:07.360] Rep. Lordan G. Suan**  
+Ano-ano pong beneficio o financial value ang maaaring makuha ng policyholder mula sa policy na ito bukod ng insurance?
+
+**[07:28:19.420] Atty. Juan Sotero Roman**  
+This has a sum assured of 13,250,000, Your Honor. And if I may just peruse the exhibits, Your Honor. Under the contract, your honor, this policy also has a payout feature, your honor.
+
+**[07:28:41.560] Rep. Lordan G. Suan**  
+Yung payout feature, yan ba yung investment?
+
+**[07:28:45.400] Atty. Juan Sotero Roman**  
+It's a part of the features of the investment aspect, your honor, of this life insurance product.
+
+**[07:28:52.860] Rep. Lordan G. Suan**  
+So kung meron kang ilalagay na 10.6 million pesos, meron kang expectation na lalaki yung pera?
+
+**[07:29:02.760] Atty. Juan Sotero Roman**  
+The expectation, your honor, is there. But the payouts are not guaranteed, your honor, because it is in the nature of an investment, your honor.
+
+**[07:29:12.320] Rep. Lordan G. Suan**  
+Sir, kapag gusto nang kunin ng cash value, gaano kabilis ito makukuha?
+
+**[07:29:19.560] Atty. Juan Sotero Roman**  
+If you're referring, your honor, to any withdrawal, upon the instruction of the client, they can withdraw the Value of the policy, Your Honor.
+
+**[07:29:32.860] Rep. Lordan G. Suan**  
+Gano po kabilis makukuha, Sir?
+
+**[07:29:36.090] Atty. Juan Sotero Roman**  
+If they instruct 3 or 5 business days, Your Honor, they will already be receiving the return of the money, Your Honor.
+
+**[07:29:47.030] Rep. Lordan G. Suan**  
+At ano po ang mga kondisyon or kaltas kung kukuni na ang cash value?
+
+**[07:29:54.250] Atty. Juan Sotero Roman**  
+Meron po mga surrender charges. Depende po on the year or the time that the client instructs withdrawal of the policy, Your Honor.
+
+**[07:30:04.280] Sen. Francis "Chiz" G. Escudero**  
+With your indulgence, Attorney [unclear], you're referring to the cash surrender value, correct?
+
+**[07:30:07.740] Atty. Juan Sotero Roman**  
+I'm referring, Your Honor, to the withdrawal value, Your Honor.
+
+**[07:30:12.080] Sen. Francis "Chiz" G. Escudero**  
+Which is different from the cash surrender value of an insurance policy, if you cut it short?
+
+**[07:30:16.740] Atty. Juan Sotero Roman**  
+A cash
+
+**[07:30:18.060] Atty. Juan Sotero Roman**  
+surrender value apologies are for the traditional life insurance product. For this type of policy, which is a unit-linked product. We usually call it po a withdrawal value.
+
+**[07:30:31.600] Sen. Francis "Chiz" G. Escudero**  
+Which is equivalent to the amount of the premium paid or smaller?
+
+**[07:30:35.080] Atty. Juan Sotero Roman**  
+Which depending on the market, Your Honor, where the fund is invested may go higher or lower than the premiums paid, Your Honor.
+
+**[07:30:44.960] Sen. Francis "Chiz" G. Escudero**  
+Okay,
+
+**[07:30:45.240] Sen. Francis "Chiz" G. Escudero**  
+thank you. Your Witness, Honorable Suan.
+
+**[07:30:47.900] Rep. Lordan G. Suan**  
+Thank you, Your Honor. Sir, base po sa experience niyo o kaya naman sa anti-money laundering training niyo, kung meron man, Paano po pwedeng abusoy ng isang insurance policy para matakpan kung saan talaga galing ang pera o kung sino talaga ang mayari nito?
+
+**[07:31:06.620] Atty. Carlo Joaquin T. Narvasa**  
+Objection, Your
+
+**[07:31:07.280] Atty. Carlo Joaquin T. Narvasa**  
+Honor. Speculative and he calls for a conclusion and he would be incompetent, of course, Attorney. If he knows, Your Honor.
+
+**[07:31:13.620] Sen. Francis "Chiz" G. Escudero**  
+I would have to sustain the objection, Honorable Suan. Move on to your next point.
+
+**[07:31:20.540] Rep. Lordan G. Suan**  
+Kung iligal ang pinanggalingan ng pera, ipinasok sa insurance at kalaunan ay inilabas bilang payout. Pwede po bang magmukhang lehiti mo dahil insurance company ang nagbayad?
+
+**[07:31:32.950] Atty. Carlo Joaquin T. Narvasa**  
+Same objection, Your Honor.
+
+**[07:31:37.960] Rep. Lordan G. Suan**  
+It's a different question, Your Honor.
+
+**[07:31:40.320] Atty. Carlo Joaquin T. Narvasa**  
+Same objection.
+
+**[07:31:41.600] Sen. Francis "Chiz" G. Escudero**  
+Apologies, counsels. Yes, can you repeat your question? Can you repeat your question, Honorable Suan?
+
+**[07:31:47.850] Rep. Lordan G. Suan**  
+Kung iligal ang pinanggalingan ng pera, ipinasok sa insurance, at kalaunan ay inilabas bilang payout, pwede po bang magmukhang lehiti mo dahil insurance company ang nagbayad?
+
+**[07:32:00.940] Sen. Francis "Chiz" G. Escudero**  
+It would be speculative in no basis. You don't have to listen to the objection of the Honorable Attorney CJ.
+
+**[07:32:08.250] Atty. Carlo Joaquin T. Narvasa**  
+Thank you.
+
+**[07:32:09.090] Sen. Francis "Chiz" G. Escudero**  
+But did you say that?
+
+**[07:32:11.070] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:32:12.920] Sen. Francis "Chiz" G. Escudero**  
+Please move on, Honorable Suwan.
+
+**[07:32:15.800] Rep. Lordan G. Suan**  
+Finally, Sir, itong 10.6 million pesos po na insurance investment ng asawa ng respondent, ano po ang status nito ngayon? Ano po siya?
+
+**[07:32:27.980] Atty. Juan Sotero Roman**  
+Active po.
+
+**[07:32:29.140] Rep. Lordan G. Suan**  
+Okay. No further questions, your honor.
+
+**[07:32:31.930] Sen. Francis "Chiz" G. Escudero**  
+Any cross, attorney CJ?
+
+**[07:32:33.430] Atty. Carlo Joaquin T. Narvasa**  
+Just a few,
+
+**[07:32:33.970] Atty. Carlo Joaquin T. Narvasa**  
+your
+
+**[07:32:34.070] Atty. Carlo Joaquin T. Narvasa**  
+honor.
+
+**[07:32:34.410] Sen. Francis "Chiz" G. Escudero**  
+You may proceed when you're ready.
+
+**[07:32:36.610] Atty. Carlo Joaquin T. Narvasa**  
+Good afternoon po, attorney.
+
+**[07:32:38.510] Atty. Juan Sotero Roman**  
+Good afternoon, sir.
+
+**[07:32:39.570] Atty. Carlo Joaquin T. Narvasa**  
+You'd have to forgive me because I'm not as well-versed in insurance law as you are, sir.
+
+**[07:32:45.960] Atty. Carlo Joaquin T. Narvasa**  
+May I show you section 3 of Republic Act number 10607, sir?
+
+**[07:32:54.540] Atty. Carlo Joaquin T. Narvasa**  
+I will be flashing it on the screen.
+
+**[07:32:59.790] Atty. Carlo Joaquin T. Narvasa**  
+May I request that this be flashed on the screen, sir?
+
+**[07:33:04.970] Sen. Francis "Chiz" G. Escudero**  
+The tech is instructed to kindly flash
+
+**[07:33:10.320] Sen. Francis "Chiz" G. Escudero**  
+the requested slide of attorney Cesar.
+
+**[07:33:16.710] Atty. Carlo Joaquin T. Narvasa**  
+Sir, you'd have to help me out a little. Thank you, sir.
+
+**[07:33:36.490] Atty. Carlo Joaquin T. Narvasa**  
+Sir, I'll just read the second paragraph there, alright? It says, Section 3. The consent of the spouse is not necessary for the validity of an insurance policy taken out by a married person on his or her life. or that of his children. Sir, my question is this. A married applicant can take out insurance on his own life without obtaining his spouse's consent or participation. Correct, sir?
+
+**[07:34:09.920] Atty. Carlo Joaquin T. Narvasa**  
+The second paragraph, sir. Of section 3.
+
+**[07:34:14.000] Atty. Juan Sotero Roman**  
+The section 3, it would be consent of the spouse is not necessary, Your Honor.
+
+**[07:34:20.980] Atty. Carlo Joaquin T. Narvasa**  
+Thank you.
+
+**[07:34:22.460] Sen. Francis "Chiz" G. Escudero**  
+What law is this, Attorney CJ?
+
+**[07:34:24.460] Atty. Carlo Joaquin T. Narvasa**  
+Sir, your honor, Republic Act number 10607 or the amendments to the insurance code.
+
+**[07:34:30.780] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[07:34:32.410] Atty. Carlo Joaquin T. Narvasa**  
+Sir, let's go to section 11 of the same law.
+
+**[07:34:42.380] Atty. Carlo Joaquin T. Narvasa**  
+Tech, please scroll. Section 11.
+
+**[07:34:48.780] Atty. Carlo Joaquin T. Narvasa**  
+I shall read for your ease, sir. The insured shall have the right to change the beneficiary he designated in the policy unless he has expressly waived the right in said policy. This sir pertains to a revocable beneficiary, correct sir?
+
+**[07:35:08.720] Atty. Juan Sotero Roman**  
+That's my understanding, your honor.
+
+**[07:35:10.840] Atty. Carlo Joaquin T. Narvasa**  
+And sir, a policyholder may name a beneficiary without informing that person, correct?
+
+**[07:35:18.700] Atty. Juan Sotero Roman**  
+That's my understanding, your honor.
+
+**[07:35:20.360] Atty. Carlo Joaquin T. Narvasa**  
+And sir, based on that, it is the right of a policyholder also to change a revocable beneficiary without informing him or her, correct?
+
+**[07:35:31.200] Atty. Juan Sotero Roman**  
+That is my understanding, your honor. based on section 11.
+
+**[07:35:35.010] Atty. Carlo Joaquin T. Narvasa**  
+Thank
+
+**[07:35:35.230] Atty. Carlo Joaquin T. Narvasa**  
+you.
+
+**[07:35:35.490] Atty. Juan Sotero Roman**  
+Thank
+
+**[07:35:35.930] Atty. Carlo Joaquin T. Narvasa**  
+you, sir. No further questions, sir.
+
+**[07:35:39.760] Atty. Carlo Joaquin T. Narvasa**  
+No further questions, Your Honor.
+
+**[07:35:43.500] Sen. Francis "Chiz" G. Escudero**  
+The Senate President is... Senator Judge Erwin Tulfo is recognized. You may proceed, sir, with your interjection. I'm sorry. I'm sorry, Senator Judge Erwin. Any redirect on the part of the Honorable Suan?
+
+**[07:35:58.810] Rep. Lordan G. Suan**  
+No redirect,
+
+**[07:35:59.930] Rep. Lordan G. Suan**  
+Your Honor.
+
+**[07:36:00.570] Sen. Francis "Chiz" G. Escudero**  
+Thank you. In that case, Senator Judge Erwin.
+
+**[07:36:05.120] Sen. Francis "Chiz" G. Escudero**  
+Apologies for the confusion. You may proceed, sir, when you're ready.
+
+**[07:36:08.880] Sen. Erwin Tulfo**  
+Thank you, presiding officer.
+
+**[07:36:12.040] Sen. Erwin Tulfo**  
+Mr. Witness, mahalaga ba sa insurance company ang source of funds ng isang malaking premium? Or it doesn't matter? Kasi kailangan natin magbenta ng insurance, di ba ba? Talagang binabalik-balikan pa nga natin yung tao.
+
+**[07:36:29.940] Sen. Erwin Tulfo**  
+Do you factor that kung ika nga yung source of funds ng kliyente?
+
+**[07:36:37.510] Atty. Juan Sotero Roman**  
+Yes, Your Honor, because the applicant must pay for the premium, Your Honor.
+
+**[07:36:42.830] Sen. Erwin Tulfo**  
+Okay. Do you also factor if it's a public official or asawa ng public official na kumukuha ng insurance investment? Or it doesn't matter?
+
+**[07:36:55.710] Atty. Juan Sotero Roman**  
+Together with the other factors related to identification, Your Honor, of the applicant, it is part of our process, Your Honor.
+
+**[07:37:03.890] Sen. Erwin Tulfo**  
+So it is important na may perang pambayad ang policyholder?
+
+**[07:37:08.460] Atty. Juan Sotero Roman**  
+That the application form is usually accompanied, Your Honor, with the payment of the premium. Pero it doesn't
+
+**[07:37:14.860] Sen. Erwin Tulfo**  
+matter? You do not care kung saan manggagaling yung perang pambayad niya? Is this correct?
+
+**[07:37:21.440] Atty. Juan Sotero Roman**  
+We
+
+**[07:37:22.000] Atty. Juan Sotero Roman**  
+conduct Our due diligence on the applicant and the funds, Your Honor, that accompanies the premium policy.
+
+**[07:37:31.990] Sen. Erwin Tulfo**  
+So that's you do para malaman kung legitimate ang source ng funding?
+
+**[07:37:38.590] Atty. Juan Sotero Roman**  
+We identify the source, Your Honor, based on the records available to us.
+
+**[07:37:43.670] Sen. Erwin Tulfo**  
+Do you ask the policyholder or yung kliyente? Do you ask them ano ang source of income mo?
+
+**[07:37:51.020] Atty. Juan Sotero Roman**  
+In the application form that will be filled out by the client, they will say their occupation and their source of funds, Your Honor.
+
+**[07:38:02.640] Sen. Erwin Tulfo**  
+So is it safe to say na relevant ang pagsusuri ng financial capacity nung kukuha ng insurance?
+
+**[07:38:11.960] Atty. Juan Sotero Roman**  
+That factor, Your Honor, is part of our due diligence, yes.
+
+**[07:38:18.990] Sen. Erwin Tulfo**  
+Hindi tugma ang transaction sa non-financial profile ng customer. Iri-red flag ho ba yun? Or hindi ninyo itutuloy yung pagbibenta ng
+
+**[07:38:29.950] Sen. Erwin Tulfo**  
+insurance?
+
+**[07:38:31.650] Atty. Juan Sotero Roman**  
+In a hypothetical case of when that happens, Your Honor, we will conduct further due diligence on the application before we accept the insurance.
+
+**[07:38:44.650] Sen. Erwin Tulfo**  
+Nangyari na po ba sa company nyo na gano'n na duda kayo sa kaduda-duda na baka kung saan galing yung pambayad na tinanggihanan ninyo o wala pa? Parang wala pa ako naririnig na gano'n.
+
+**[07:38:56.610] Atty. Juan Sotero Roman**  
+Your Honor, we're mindful of the anti-money laundering law on tipping off and to comply with all of the regulations related to identification.
+
+**[07:39:13.740] Atty. Juan Sotero Roman**  
+All right.
+
+**[07:39:14.940] Sen. Erwin Tulfo**  
+Alam niyo naman po na prominenteng tao ang involved nung kumuha po ng insurance and how he is related to, well, hindi pa siya vice president yata dati or she's already vice president. Alam niyo naman po yun. Tama po ba yan?
+
+**[07:39:35.100] Atty. Juan Sotero Roman**  
+We are aware, Your Honor, of the status of Mr. Maneses R. Carpio in the public, Your Honor.
+
+**[07:39:42.960] Sen. Erwin Tulfo**  
+Alright. Sir, bakit sako po ng anti-money laundering control sa insurance industry? Why is that, in your own opinion?
+
+**[07:39:52.140] Atty. Juan Sotero Roman**  
+In my opinion, Your Honor, any financial institution who receives money from the public is a, what we call it, proper person. to be covered by anti-money laundering law, Your Honor.
+
+**[07:40:09.080] Sen. Erwin Tulfo**  
+Is the right answer dahil maaring gamitin ng insurance products upang magpasok at mag-store ng substantial funds? Could that be one of the reasons?
+
+**[07:40:19.850] Atty. Juan Sotero Roman**  
+Under the anti-money laundering law, there are predicate offenses, Your Honor. So my answer there would be... That is maybe one of the reasons, Your Honor.
+
+**[07:40:28.930] Sen. Erwin Tulfo**  
+Sa money laundering po, ano ang significance ng pagpasok ng pera sa isang insurance product at paglabas nito later as proceeds? Would you happen to know?
+
+**[07:40:39.450] Atty. Juan Sotero Roman**  
+In money laundering law, Your Honor, there's placement or the cash that is put in the financial
+
+**[07:40:47.740] Atty. Juan Sotero Roman**  
+Industry, which includes insurance, layering wherein it passes through one financial institution to another, and of course, ultimately, integration where the proceeds or the withdrawal value will be turning into cash, Your Honor.
+
+**[07:41:03.120] Sen. Erwin Tulfo**  
+May limitations po ba bilang ng insurance policies na maaaring kunin ng isang
+
+**[07:41:09.080] Atty. Juan Sotero Roman**  
+tao? Depende, Your Honor, on the
+
+**[07:41:16.670] Sen. Erwin Tulfo**  
+Occupation, source of funds. I would understand the answer there is there are limitations, Your Honor.
+
+**[07:41:23.930] Sen. Erwin Tulfo**  
+Last question, Mr. Presiding Officer. Can you detect na pag kumuha po ng policy, money laundering na pala nilalabhan nila nila o ng mga tao yung pera through insurance companies that it is already part of the money laundering scheme? Namumonitor nyo ba na yun? Natatrack ninyo? If so, what do you do?
+
+**[07:41:44.600] Atty. Juan Sotero Roman**  
+Your Honor, under the anti-money laundering law, we are obligated to have indicators to determine if there are what you would call suspicious or unusual aspects of an applicant when they try to purchase insurance from us, Your Honor.
+
+**[07:42:04.320] Sen. Erwin Tulfo**  
+But what do you do? For example, talagang suspected na... Nilo-launder yung pera, nililinis sa pamagitan ng pagkuhan po ng policies for investment. What will you do?
+
+**[07:42:18.800] Atty. Juan Sotero Roman**  
+At point of our application, Your Honor, we may not be able to determine if it is money laundering as will be defined by a court of proper jurisdiction. We, however, have a mandate from the Anti-Money Laundering Council and the Insurance Commission to identify the
+
+**[07:43:02.780] Atty. Juan Sotero Roman**  
+So
+
+**[07:43:03.140] Sen. Erwin Tulfo**  
+kahit na alam po ninyo, pero kung wala pong court order, you will not do anything.
+
+**[07:43:08.510] Atty. Juan Sotero Roman**  
+If your honor, the court will order.
+
+**[07:43:12.710] Sen. Erwin Tulfo**  
+As long as wala pong order ang court na may money laundering doon nakikita na ninyo dyan, wala po kayong gagawin.
+
+**[07:43:19.910] Atty. Juan Sotero Roman**  
+As we view, when we say that there is money laundering, that would mean that a court of competent jurisdiction has already proved.
+
+**[07:43:30.430] Sen. Erwin Tulfo**  
+But how would the court know, sir, kung hindi po kayo magre-report, hindi po ninyo titignan? Hindi po ba, I think, mauna muna makikita ninyo bago yung court because kahawak po ninyo, you will look in there.
+
+**[07:43:41.750] Sen. Francis "Chiz" G. Escudero**  
+With the permission of Senator Judge Tulfo, insurance companies are covered institutions under the anti-money laundering law. If they find any transaction in excess of the threshold or found to be suspicious, they are mandated by the law. To report those transactions, but that's as far as it goes. Unless, as Attorney Terry said, a court of competent jurisdiction shall have already found the money for money laundering to have existed in that particular transaction. But they will report it, correct, Attorney Terry?
+
+**[07:44:14.480] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:44:15.540] Sen. Francis "Chiz" G. Escudero**  
+They will just report it to the Presiding Officer, but they will not terminate the contract, right?
+
+**[07:44:19.360] Sen. Francis "Chiz" G. Escudero**  
+Because there is no determination yet by a court of competent jurisdiction in that regard. If they do that, they will be sued by the policyholder, I suppose.
+
+**[07:44:45.050] Sen. Sherwin T. Gatchalian**  
+Hindi katulad ng mga bank deposits na very clear. Bank deposits, cash yan. Itong mga insurance policies, nag-evolve na kasi sila. At marami sa ating mga kababayan, hindi masyadong kabisado kung ano itong insurance policies na nag-evolve na into, sabi nyo kanina, variable unit link insurance. Gusto kong ma-educate para ma-educate rin yung mga kababayan natin. Kanina ay pinakita po na yung premium ay 10.6 million pesos. At nasabi rin kanina na ibabalik ito at one point at 13.200 million pesos. So ang ibig sabihin ba nito ho, guarantee na yung 13.2 million pesos na ibabalik?
+
+**[07:45:36.740] Atty. Juan Sotero Roman**  
+Your Honor, the sum assured reflects the amount payable. When the covered event occurs in a life insurance policy, the covered event po is the death of the named insured.
+
+**[07:45:51.880] Sen. Sherwin T. Gatchalian**  
+So, ibig sabihin kung may yung beneficiary pag namatay, makukuha niya 13.2 million pesos?
+
+**[07:45:59.980] Atty. Juan Sotero Roman**  
+13,250,000 pesos, your honor.
+
+**[07:46:03.200] Sen. Sherwin T. Gatchalian**  
+Yes, oo.
+
+**[07:46:05.120] Sen. Sherwin T. Gatchalian**  
+Yung 10 million naman, 0.6, ito ba ay pwedeng bumaba? O pwede pang lumaki?
+
+**[07:46:13.820] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:46:15.060] Sen. Sherwin T. Gatchalian**  
+Pwede siyang bumaba?
+
+**[07:46:16.020] Atty. Juan Sotero Roman**  
+Apo.
+
+**[07:46:21.400] Sen. Sherwin T. Gatchalian**  
+Dito sa policy ninyo nakita ko ang benefit period is age 100. Anong ibig sabihin nun?
+
+**[07:46:32.340] Atty. Juan Sotero Roman**  
+The person is covered up to the age of 100, Your Honor.
+
+**[07:46:37.580] Sen. Sherwin T. Gatchalian**  
+Okay. At dito rin nakita ko na Yung single premium payable is 10.6 million pesos. So ibig sabihin, ito yung halaga na ibinayad ng policyholder.
+
+**[07:46:50.320] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:46:51.600] Sen. Sherwin T. Gatchalian**  
+Ito ba ay pwede nating matawag asset?
+
+**[07:46:57.370] Sen. Sherwin T. Gatchalian**  
+Itong 10.6 million pesos, is this considered asset of a person, yung policyholder?
+
+**[07:47:03.830] Atty. Juan Sotero Roman**  
+A financial product, Your Honor, is a specie of personal property. and therefore it can be an asset depending of course on other factors.
+
+**[07:47:16.120] Sen. Sherwin T. Gatchalian**  
+Yes, but for this particular policy, itong 10.6 million pesos, considered ba ito asset ng tao?
+
+**[07:47:22.950] Atty. Juan Sotero Roman**  
+I can say sir that the 10.6 million paid for this depending on whether it's withdrawn or it becomes Death Claim, there will be money coming out of this account, Your Honor.
+
+**[07:47:42.110] Sen. Sherwin T. Gatchalian**  
+Correct. So is that considered an asset?
+
+**[07:47:45.490] Atty. Juan Sotero Roman**  
+Specifically solely for this transaction, it is my reading of the law, Your Honor. It's personal property and is therefore an asset.
+
+**[07:47:53.670] Sen. Sherwin T. Gatchalian**  
+An
+
+**[07:47:53.810] Sen. Sherwin T. Gatchalian**  
+asset.
+
+**[07:47:54.430] Sen. Sherwin T. Gatchalian**  
+Yung 13.2
+
+**[07:47:56.920] Sen. Sherwin T. Gatchalian**  
+million pesos, is that considered an asset?
+
+**[07:48:04.240] Atty. Juan Sotero Roman**  
+This is a... What you would call a covered insurance payable. And then of course, unless the covered event occurs, this is not yet, in my view, an asset. This is a future event.
+
+**[07:48:23.710] Atty. Juan Sotero Roman**  
+A life insurance contract is based on a future event, Your Honor.
+
+**[07:48:28.630] Sen. Sherwin T. Gatchalian**  
+Pero guaranteed na yung maibibigay ng 13.2. So do you consider that As an asset in your calculation of your assets.
+
+**[07:48:39.300] Atty. Juan Sotero Roman**  
+Kung
+
+**[07:48:39.780] Sen. Sherwin T. Gatchalian**  
+magkukumpute ka ng asset, ang asset ko ay ganito, in 30.2 ba pwede kong makonsidered as my asset? Kasi guaranteed na yun eh.
+
+**[07:48:48.360] Atty. Juan Sotero Roman**  
+Again, your honor, a life insurance product is dependent on the occurrence of the covert event.
+
+**[07:48:54.200] Sen. Sherwin T. Gatchalian**  
+So hindi pa, kasi hindi pa nangyayari yun.
+
+**[07:48:56.960] Atty. Juan Sotero Roman**  
+My understanding, your honor, is it's not claimable. until the covered event occurs, Your Honor.
+
+**[07:49:04.570] Sen. Sherwin T. Gatchalian**  
+Okay.
+
+**[07:49:05.010] Sen. Sherwin T. Gatchalian**  
+And then, narinig ko kanina tinanong ng ating presiding officer na at any given time, pwedeng tanggalin itong premium na 10.6?
+
+**[07:49:14.460] Atty. Juan Sotero Roman**  
+There is
+
+**[07:49:15.460] Atty. Juan Sotero Roman**  
+a withdrawable value, Your Honor.
+
+**[07:49:17.640] Sen. Sherwin T. Gatchalian**  
+Pag
+
+**[07:49:17.740] Sen. Sherwin T. Gatchalian**  
+winit draw ba ito, may kita?
+
+**[07:49:19.900] Atty. Juan Sotero Roman**  
+Depending on the market performance of which the variable fund is linked, Your Honor.
+
+**[07:49:26.320] Sen. Sherwin T. Gatchalian**  
+So
+
+**[07:49:26.440] Sen. Sherwin T. Gatchalian**  
+pwedeng kumita, pwedeng hindi kumita?
+
+**[07:49:28.880] Atty. Juan Sotero Roman**  
+Hapa.
+
+**[07:49:29.180] Sen. Sherwin T. Gatchalian**  
+Alright. Thank you, Mr. Presiding Officer.
+
+**[07:49:31.350] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator President.
+
+**[07:49:36.600] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Sotto is recognized. You may proceed, sir, when you're ready.
+
+**[07:49:42.240] Sen. Vicente C. Sotto III**  
+Thank you, Mr. President of
+
+**[07:49:43.760] Sen. Vicente C. Sotto III**  
+the Co-Officials. Medyo nagtatalo na ako dito kanina. Gusto lang namin nalinawan eh, dahil baka ang intindi ng iba. Pag sinabing insurance, may
+
+**[07:49:50.900] Sen. Vicente C. Sotto III**  
+ini
+
+**[07:49:51.100] Sen. Vicente C. Sotto III**  
+-insure. Patulad ng regular na insurance. Ito po, investment ito, you know. Attorney Roman?
+
+**[07:49:57.540] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:49:58.600] Sen. Vicente C. Sotto III**  
+So, in this case, dito sa 10.6 na... Pinasok na investment sa insurance. Sinong beneficiary?
+
+**[07:50:08.800] Atty. Juan Sotero Roman**  
+The beneficiary, Your Honor, are the children.
+
+**[07:50:14.830] Sen. Vicente C. Sotto III**  
+Tapos ang in
+
+**[07:50:15.770] Sen. Vicente C. Sotto III**  
+-insure,
+
+**[07:50:16.310] Sen. Vicente C. Sotto III**  
+yung pera at yung siya.
+
+**[07:50:19.190] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:50:20.250] Sen. Vicente C. Sotto III**  
+Si Atty. Calpio. O
+
+**[07:50:22.210] Sen. Vicente C. Sotto III**  
+by the way, are you related
+
+**[07:50:23.330] Sen. Vicente C. Sotto III**  
+to Pablo Roman?
+
+**[07:50:25.500] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:50:26.600] Sen. Vicente C. Sotto III**  
+Ah, you are? Okay.
+
+**[07:50:29.620] Sen. Vicente C. Sotto III**  
+Good friends of ours. Anyway,
+
+**[07:50:34.230] Sen. Vicente C. Sotto III**  
+So,
+
+**[07:50:35.850] Sen. Vicente C. Sotto III**  
+anytime pwedeng bunutin, katulad ng pinag-uusapan niyo ni Senate President. Anytime pwedeng bunutin. So, hanggang kailan yun? Yung 10.6 na yun, hanggang kailan yun?
+
+**[07:50:51.940] Atty. Juan Sotero Roman**  
+The coverage period, Your Honor, based on the record, is up to age 100. And depending on the performance of the fund, Your Honor.
+
+**[07:51:02.020] Sen. Vicente C. Sotto III**  
+So, in-insure niya yung sarili niya?
+
+**[07:51:09.180] Sen. Vicente C. Sotto III**  
+If
+
+**[07:51:09.940] Sen. Vicente C. Sotto III**  
+it is withdrawn,
+
+**[07:51:11.380] Sen. Vicente C. Sotto III**  
+it will terminate the life. So hindi ito yung regular na insurance. Ito yung investment insurance. Di ba ba?
+
+**[07:51:30.680] Atty. Juan Sotero Roman**  
+On a full surrender basis, it will terminate, Your Honor, the life insurance cover.
+
+**[07:51:36.360] Sen. Vicente C. Sotto III**  
+Ang makukuha ng mga beneficiary niya is the 10 plus interest.
+
+**[07:51:44.060] Atty. Juan Sotero Roman**  
+Your Honor, when it is withdrawn, it is the policy owner that withdraws the policy.
+
+**[07:51:49.820] Sen. Vicente C. Sotto III**  
+If it's withdrawn, pero if he stays the policy
+
+**[07:51:53.840] Atty. Juan Sotero Roman**  
+and the covered event of death occurs, Your Honor, then the company will pay the... Some assured to name beneficiaries.
+
+**[07:52:03.070] Sen. Vicente C. Sotto III**  
+Thank
+
+**[07:52:03.370] Sen. Vicente C. Sotto III**  
+you.
+
+**[07:52:06.870] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Pangilinan.
+
+**[07:52:13.560] Sen. Francis “Kiko” Pangilinan**  
+Just a clarification, is there a period within which you are not allowed to withdraw the amount?
+
+**[07:52:18.640] Atty. Juan Sotero Roman**  
+No, Your Honor.
+
+**[07:52:19.520] Sen. Francis “Kiko” Pangilinan**  
+So you can withdraw it anytime?
+
+**[07:52:21.540] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:52:22.240] Sen. Francis “Kiko” Pangilinan**  
+And what would be the withdrawable amount?
+
+**[07:52:25.180] Atty. Juan Sotero Roman**  
+It will depend on the mark to market amount, Your Honor.
+
+**[07:52:29.840] Sen. Francis “Kiko” Pangilinan**  
+So
+
+**[07:52:30.060] Sen. Francis “Kiko” Pangilinan**  
+it can be lower than 10 point, how much was it?
+
+**[07:52:32.700] Atty. Juan Sotero Roman**  
+10.6 million, Your Honor.
+
+**[07:52:34.040] Sen. Francis “Kiko” Pangilinan**  
+So it can be lower than 10.6?
+
+**[07:52:35.700] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:52:36.340] Sen. Francis “Kiko” Pangilinan**  
+But at the same time, depending on market, whether the market is upbeat, it can be higher than 10.6?
+
+**[07:52:43.860] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:52:44.560] Sen. Francis “Kiko” Pangilinan**  
+But now, not higher than 13.250?
+
+**[07:52:50.390] Atty. Juan Sotero Roman**  
+There's no cap as to the performance, Your Honor, of the market.
+
+**[07:52:55.640] Sen. Francis “Kiko” Pangilinan**  
+Oh, so you can also get it higher than 13,250,000?
+
+**[07:53:00.180] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:53:01.200] Sen. Francis “Kiko” Pangilinan**  
+Okay. So, well, yeah. So, there are risks.
+
+**[07:53:07.390] Atty. Juan Sotero Roman**  
+Yes, Your Honor.
+
+**[07:53:08.230] Sen. Francis “Kiko” Pangilinan**  
+I just wanted that clarified. Thank you. Thank you. Thank
+
+**[07:53:10.970] Sen. Francis "Chiz" G. Escudero**  
+you. There being no other senator or judge who wish to make interjections, Atty. Teroy, maraming salamat po sa inyong pasensya sa paghihintay po ninyo at sa pagsagot sa mga katanungan ng magkabi ng partido at ng hukumang ito. You are excused, sir. Thank you very much for your time.
+
+**[07:53:26.390] Atty. Juan Sotero Roman**  
+Thank you, Your Honors.
+
+**[07:53:29.570] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate Ms. Malusa Langit to the witness stand.
+
+**[07:53:37.680] Sen. Francis "Chiz" G. Escudero**  
+Honorable Suan, I presume you monitored the banks that were presented by Attorney James.
+
+**[07:53:44.530] Rep. Lordan G. Suan**  
+Yes, Your Honor. Would
+
+**[07:53:45.510] Sen. Francis "Chiz" G. Escudero**  
+you be having the same offer subject to the limitation that the court mentioned earlier regarding matters that are not within the personal knowledge of the insurance representatives? Would it be the same?
+
+**[07:53:57.470] Rep. Lordan G. Suan**  
+Yes, Your Honor.
+
+**[07:53:58.630] Sen. Francis "Chiz" G. Escudero**  
+So, for the record, Attorney CJ, will it still be you?
+
+**[07:54:02.190] Atty. Carlo Joaquin T. Narvasa**  
+Yes, Your Honor.
+
+**[07:54:03.070] Sen. Francis "Chiz" G. Escudero**  
+I presume it'll still be you, Honorable Suwan?
+
+**[07:54:05.650] Rep. Lordan G. Suan**  
+Yes, Your Honor.
+
+**[07:54:08.890] Sen. Francis "Chiz" G. Escudero**  
+So, similarly, with what we did with Attorney James, with respect to the first offer, it will be the same. It will be deemed read into the record. With respect to offer number two, without the last sentence, wala ito sa sale ng respondent vice president.
+
+**[07:54:33.260] Sen. Francis "Chiz" G. Escudero**  
+Offer number three will no longer be part of the offer. Offer number four, offer number five, offer number six will still be part of the offer of this witness to the exclusion of the second, the third, the last three sentences that have reference to SALNs.
+
+**[07:55:00.730] Sen. Francis "Chiz" G. Escudero**  
+Do I presume that your objection with respect, if any, to the first and sixth offer will be the same, Atty. CJ?
+
+**[07:55:07.530] Atty. Carlo Joaquin T. Narvasa**  
+Yes, Your Honor.
+
+**[07:55:08.450] Sen. Francis "Chiz" G. Escudero**  
+Okay. You may proceed with the direct examination of your witness, Hon. Suan.
+
+**[07:55:17.190] Rep. Lordan G. Suan**  
+Mayong hapon, Ms. Witness.
+
+**[07:55:18.570] Sen. Francis "Chiz" G. Escudero**  
+I'm sorry. Sorry, we've had ten witnesses already. So, kindly stand up, ma'am.
+
+**[07:55:27.340] Sen. Francis "Chiz" G. Escudero**  
+How do I refer to you, Mama Lou? Kindly stand up. Clerk is directed to kindly administer the order of witness. Apologies to the counsels.
+
+**[07:55:36.030] Atty. Renato N. Bantug Jr.**  
+Ma'am kindly raise your right hand. You, Malu R. Salanguit. Do swear that the evidence you shall give in the case now pending between the Philippines and Vice President Cyrus Jim Ramando Tertes shall be the truth, the whole truth, and nothing but the truth. So I hope you God.
+
+**[07:55:52.520] Sen. Francis "Chiz" G. Escudero**  
+Ma'am Malu, naunawaan niyo po. Pakisagot po sa mic para marinig at sa record.
+
+**[07:55:56.480] Malu Remollino Salanguit**  
+I swear.
+
+**[07:56:00.940] Sen. Francis "Chiz" G. Escudero**  
+Yes,
+
+**[07:56:04.840] Malu Remollino Salanguit**  
+Your Honor.
+
+**[07:56:05.520] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Forgive again the faux pas. Honorable Suwan, your
+
+**[07:56:09.920] Sen. Francis "Chiz" G. Escudero**  
+witness.
+
+**[07:56:10.700] Rep. Lordan G. Suan**  
+Thank you, Your Honor. Ma'am Malu, maaaring niyo po bang sabihin ang inyong buong pangalan, posisyon, at ang kumpanya ang inyong kinakatawan?
+
+**[07:56:20.220] Malu Remollino Salanguit**  
+Ako po si Malu Remollino Salanguit. I am the head of Manage and Review Value Stream of Manulife Philippines.
+
+**[07:56:29.380] Rep. Lordan G. Suan**  
+Bago po kayo naging connectado sa Manulife, saan po kayo nagtrabaho maging private man or gobyerno?
+
+**[07:56:37.520] Malu Remollino Salanguit**  
+I worked previously at AXA Philippines and also at AMWAL. It's an investment bank located in Doha, Qatar and also Philam Asset Management.
+
+**[07:56:53.550] Rep. Lordan G. Suan**  
+Okay. Paano po ang inyong mga tungkulin at responsibilidad sa nasabing posisyon niyo ngayon sa kasalukuyang kumpanya?
+
+**[07:57:02.190] Malu Remollino Salanguit**  
+As head of management review value stream, I am in charge of after sales transactions. So these are the entire end-to-end life cycle of after sales for policy management, billing and collection, and suspense management.
+
+**[07:57:19.950] Rep. Lordan G. Suan**  
+Okay. Ano po ang dahilan kung bakit nandito kayo ngayon? Meron
+
+**[07:57:24.530] Rep. Lordan G. Suan**  
+po
+
+**[07:57:24.650] Rep. Lordan G. Suan**  
+kayong natanggap?
+
+**[07:57:25.650] Malu Remollino Salanguit**  
+Yes, I was authorized by my organization after receiving the subpoena from the Senate.
+
+**[07:57:32.270] Rep. Lordan G. Suan**  
+Okay. Ano pong mga dokumento kung meron man ang inyong isunumite bilang sa pagpunta nyo dito ngayon?
+
+**[07:57:41.750] Malu Remollino Salanguit**  
+We actually submitted copies of the policy contract as well as the official receipts and
+
+**[07:57:50.340] Malu Remollino Salanguit**  
+Application forms related to the policies of the Vice President.
+
+**[07:57:56.720] Rep. Lordan G. Suan**  
+Okay. So kung ipapakita po sa inyo itong mga dokumentong ito, would you be able to recognize them?
+
+**[07:58:04.100] Malu Remollino Salanguit**  
+Yes. I can refer to my records as well.
+
+**[07:58:08.340] Rep. Lordan G. Suan**  
+Okay.
+
+**[07:58:09.860] Malu Remollino Salanguit**  
+To
+
+**[07:58:10.360] Malu Remollino Salanguit**  
+compare.
+
+**[07:58:10.980] Sen. Francis "Chiz" G. Escudero**  
+You may
+
+**[07:58:11.320] Sen. Francis "Chiz" G. Escudero**  
+do so, ma'am. You may refer to your records.
+
+**[07:58:15.570] Rep. Lordan G. Suan**  
+Your Honor, may assisting counsel, Atty. Jairo Ladera, also be allowed to...
+
+**[07:58:20.330] Sen. Francis "Chiz" G. Escudero**  
+Again, counsel, continuing authority has been given to assisting counsel from both parties with respect to all the witnesses for today.
+
+**[07:58:29.210] Rep. Lordan G. Suan**  
+Thank you,
+
+**[07:58:29.870] Rep. Lordan G. Suan**  
+Your Honor.
+
+**[07:58:29.930] Sen. Francis "Chiz" G. Escudero**  
+To approach the witnesses at any time.
+
+**[07:58:37.570] Rep. Lordan G. Suan**  
+So, Ma'am Malu, kanino po nakapangalan ang policy na yan?
+
+**[07:58:54.010] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, may we know the marking of this policy?
+
+**[07:58:58.520] Atty. Carlo Joaquin T. Narvasa**  
+Thank you. I can read. Thank you.
+
+**[07:59:04.080] Rep. Lordan G. Suan**  
+Okay.
+
+**[07:59:04.780] Malu Remollino Salanguit**  
+So, this is under the insured Marco D. Gong D. Carpio. And the policy owner is Manases R. Carpio.
+
+**[07:59:13.100] Rep. Lordan G. Suan**  
+Okay. Ma'am Malu, kailan po kinuha ang insurance investment na yan?
+
+**[07:59:18.540] Malu Remollino Salanguit**  
+The policy issue date is 18 January 2019.
+
+**[07:59:23.920] Rep. Lordan G. Suan**  
+So, base po sa mga dokumentong nandyan, makano po ang total insurance premium na binayad ng policyholder?
+
+**[07:59:33.100] Malu Remollino Salanguit**  
+Let me just confirm with my records. Total as of... Sir, can you clarify if it's total as of...
+
+**[07:59:41.980] Rep. Lordan G. Suan**  
+Yung
+
+**[07:59:42.960] Rep. Lordan G. Suan**  
+total na pay.
+
+**[07:59:44.100] Malu Remollino Salanguit**  
+Na bayad po.
+
+**[07:59:46.760] Atty. Carlo Joaquin T. Narvasa**  
+Before anything, may I just request the honorables who want to mention the name of the minor children, if any.
+
+**[07:59:55.400] Sen. Francis "Chiz" G. Escudero**  
+The
+
+**[07:59:56.040] Sen. Francis "Chiz" G. Escudero**  
+witness is
+
+**[07:59:56.660] Sen. Francis "Chiz" G. Escudero**  
+instructed
+
+**[07:59:57.040] Sen. Francis "Chiz" G. Escudero**  
+to kindly avoid mentioning. The beneficiary and or the name of any minor. You can refer to the person as a descendant or daughter or son. I don't know but kindly avoid mentioning the name.
+
+**[08:00:16.040] Atty. Carlo Joaquin T. Narvasa**  
+Ms. Malou. As well as the flashing, please. Thank you.
+
+**[08:00:20.760] Rep. Lordan G. Suan**  
+Your Honor, we also manifest that we have already redacted the names of the beneficiaries. and especially the minor children.
+
+**[08:00:29.060] Sen. Francis "Chiz" G. Escudero**  
+Yes, and the witnesses reminded as well.
+
+**[08:00:31.260] Malu Remollino Salanguit**  
+Noted, Your Honor.
+
+**[08:00:32.680] Sen. Francis "Chiz" G. Escudero**  
+Okay. Kindly answer the question.
+
+**[08:00:34.800] Malu Remollino Salanguit**  
+Total premiums
+
+**[08:00:36.040] Sen. Francis "Chiz" G. Escudero**  
+paid as of today?
+
+**[08:00:37.220] Malu Remollino Salanguit**  
+The total amount premium paid for this policy is 610,000 pesos.
+
+**[08:00:41.480] Sen. Francis "Chiz" G. Escudero**  
+That's as of 2025?
+
+**[08:00:43.020] Malu Remollino Salanguit**  
+Yes, sir. This is a one-time payment.
+
+**[08:00:45.720] Sen. Francis "Chiz" G. Escudero**  
+A one
+
+**[08:00:46.160] Sen. Francis "Chiz" G. Escudero**  
+-time only in 2019?
+
+**[08:00:47.580] Malu Remollino Salanguit**  
+Yes, sir.
+
+**[08:00:48.080] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[08:00:50.950] Rep. Lordan G. Suan**  
+Ms. Malu, punta po tayo ngayon sa dokumentong ito, yung Exhibit 8-15-2-2.
+
+**[08:01:02.530] Rep. Lordan G. Suan**  
+Tapos kasama na rin yung 8-15-2-4, 2-6, and 2-5.
+
+**[08:01:13.540] Rep. Lordan G. Suan**  
+So, Ms. Malu, sino po yung policyholder ng insurance investment na yan?
+
+**[08:01:21.490] Malu Remollino Salanguit**  
+For 2-2, it's under VP Sara Duterte. She's the policy owner.
+
+**[08:01:29.000] Rep. Lordan G. Suan**  
+Okay. Kailan po yan kinuha?
+
+**[08:01:31.920] Malu Remollino Salanguit**  
+This was bought. Last October 23. Actually, issued last October 23, 2014.
+
+**[08:01:39.570] Rep. Lordan G. Suan**  
+Tapos, makano po yung total insurance premium na binayan?
+
+**[08:01:50.520] Malu Remollino Salanguit**  
+So, this is also a single-pay policy. The initial payment paid is 400,000. But there is a top-up of 128,000 in 2019.
+
+**[08:02:07.130] Rep. Lordan G. Suan**  
+So, makano na po yung total?
+
+**[08:02:09.000] Malu Remollino Salanguit**  
+Five hundred thirty-eight thousand pesos.
+
+**[08:02:11.260] Rep. Lordan G. Suan**  
+Five hundred twenty-eight. Five
+
+**[08:02:13.440] Malu Remollino Salanguit**  
+hundred thirty-eight.
+
+**[08:02:15.420] Rep. Lordan G. Suan**  
+Paano naging thirty-eight po?
+
+**[08:02:17.060] Malu Remollino Salanguit**  
+Five hundred twenty-eight thousand pesos. I'm sorry.
+
+**[08:02:22.760] Rep. Lordan G. Suan**  
+Sige po. Ma'am Malu, punta po tayo sa exhibit 8-15-3-2, 3-4, 3-5, and 3-6.
+
+**[08:02:41.680] Rep. Lordan G. Suan**  
+So, sino po ang policyholder ng insurance investment na to?
+
+**[08:02:46.580] Malu Remollino Salanguit**  
+For 3-3, it's also under the Vice President, Sara Zito Terete.
+
+**[08:02:54.660] Rep. Lordan G. Suan**  
+Kailan po kinuha ang insurance investment
+
+**[08:02:57.620] Rep. Lordan G. Suan**  
+na yan?
+
+**[08:02:58.100] Malu Remollino Salanguit**  
+This was purchased last, issued last October 31, 2014.
+
+**[08:03:04.120] Rep. Lordan G. Suan**  
+So, magkano po yung total insurance premium na binayad?
+
+**[08:03:08.360] Malu Remollino Salanguit**  
+445,000 pesos.
+
+**[08:03:11.240] Rep. Lordan G. Suan**  
+Okay. So, punta naman po tayo sa 8-15-4-6, 4-9. Yun lang po muna.
+
+**[08:03:23.580] Rep. Lordan G. Suan**  
+Ma
+
+**[08:03:32.660] Rep. Lordan G. Suan**  
+'am Malou, sino po yung policyholder ng insurance investment na to?
+
+**[08:03:35.940] Malu Remollino Salanguit**  
+This is also under VP Zara C. Duterte. She's the policy owner.
+
+**[08:03:42.600] Rep. Lordan G. Suan**  
+Kailan po kinuha ang insurance investment?
+
+**[08:03:44.980] Malu Remollino Salanguit**  
+This was issued last December 8, 2014.
+
+**[08:03:49.550] Rep. Lordan G. Suan**  
+Tapos, makano po yung total insurance premium na pinayan?
+
+**[08:03:54.930] Malu Remollino Salanguit**  
+As of 2024, because that's the last time, it's 685,535.26.
+
+**[08:04:03.450] Rep. Lordan G. Suan**  
+Okay. So punta po tayo ngayon sa 8-15-7-3.
+
+**[08:04:22.150] Rep. Lordan G. Suan**  
+Sino po yung policyholder ng insurance investment na ito?
+
+**[08:04:28.440] Malu Remollino Salanguit**  
+7-3.
+
+**[08:04:29.840] Rep. Lordan G. Suan**  
+7-3 po.
+
+**[08:04:38.760] Sen. Francis "Chiz" G. Escudero**  
+She would not be familiar with the exhibits. Exhibit numbers, rather.
+
+**[08:04:58.640] Rep. Lordan G. Suan**  
+Can you go to page 3?
+
+**[08:05:09.100] Rep. Lordan G. Suan**  
+Document 8-15-7-3. Page 3 po.
+
+**[08:05:15.460] Malu Remollino Salanguit**  
+I would have
+
+**[08:05:18.680] Sen. Francis "Chiz" G. Escudero**  
+assumed that assisting counsel would have been prepared already. That's why he's assisting. Do you have a copy, Honorable Suan?
+
+**[08:05:28.970] Rep. Lordan G. Suan**  
+Yes, Your
+
+**[08:05:29.450] Sen. Francis "Chiz" G. Escudero**  
+Honor. Can you kindly just confront the witness with a copy?
+
+**[08:05:40.810] Sen. Francis "Chiz" G. Escudero**  
+Assisting counsel from the respondent may look at the document.
+
+**[08:05:52.340] Malu Remollino Salanguit**  
+For this policy, the policy owner is the husband of the vice president, Manases R. Carpio.
+
+**[08:06:02.630] Rep. Lordan G. Suan**  
+Kailan po kinuha ang insurance investment?
+
+**[08:06:05.030] Malu Remollino Salanguit**  
+The issue date is March 6, 2019.
+
+**[08:06:09.970] Rep. Lordan G. Suan**  
+Makano po yung total insurance premium na binayad?
+
+**[08:06:24.420] Malu Remollino Salanguit**  
+So specific to this policy, as of 2026, 154.65 million.
+
+**[08:06:34.260] Sen. Francis "Chiz" G. Escudero**  
+Million?
+
+**[08:06:37.420] Malu Remollino Salanguit**  
+Yes, ma'am.
+
+**[08:06:39.550] Sen. Francis "Chiz" G. Escudero**  
+What was the
+
+**[08:06:41.050] Sen. Francis "Chiz" G. Escudero**  
+question?
+
+**[08:06:42.730] Rep. Lordan G. Suan**  
+Makano po yung total na binayad na premium?
+
+**[08:06:45.350] Sen. Francis "Chiz" G. Escudero**  
+Makano yung premium na binayad na?
+
+**[08:06:47.940] Malu Remollino Salanguit**  
+As of 2026, because this is a regular pay policy, your honor.
+
+**[08:06:53.300] Sen. Francis "Chiz" G. Escudero**  
+Ah, yung monthly or quarterly or semi-annually?
+
+**[08:06:56.100] Malu Remollino Salanguit**  
+It's an annual policy. That's why the total amount of premiums paid from the time the policy was issued in 2019 up to 2026 is 1.435154.65 million pesos.
+
+**[08:07:11.460] Sen. Francis "Chiz" G. Escudero**  
+Okay, because that was not the figure being reflected here. Okay, kindly proceed.
+
+**[08:07:18.220] Rep. Lordan G. Suan**  
+Kuntapo tayo sa exhibit 8-15-6-2 at 6-8.
+
+**[08:07:49.790] Sen. Francis "Chiz" G. Escudero**  
+What seems to be the problem? What's the name of the assisting counsel? What seems to be the problem?
+
+**[08:07:57.610] Sen. Francis "Chiz" G. Escudero**  
+You don't have a copy of the document?
+
+**[08:08:02.880] Sen. Francis "Chiz" G. Escudero**  
+If you have a copy, to abbreviate the proceedings, Honorable Suan, kindly just confront the witness with your copy. If your assisting counsel cannot find
+
+**[08:08:12.590] Sen. Francis "Chiz" G. Escudero**  
+it, you should have prepared, the assisting counsel should have been prepared for this already.
+
+**[08:08:21.790] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, for the record, there's no copy provided by the witness. This is the copy. Just for the record.
+
+**[08:08:29.170] Sen. Francis "Chiz" G. Escudero**  
+It does not come from the witness, yes. What is the copy that the witness is looking at right now? Honorable Suan. Again, you're referring to an exhibit. She is not familiar and aware of the exhibits that we premarked. That's why assisting counsel is there to show her the exhibit you want her to look at and identify.
+
+**[08:08:54.140] Rep. Lordan G. Suan**  
+Your Honor, may I approach the witness?
+
+**[08:08:56.120] Sen. Francis "Chiz" G. Escudero**  
+Yes, kindly do so. If it will help abbreviate the proceedings.
+
+**[08:09:18.000] Sen. Francis "Chiz" G. Escudero**  
+Chair
+
+**[08:09:19.120] Sen. Francis "Chiz" G. Escudero**  
+instructs the assisting counsel to kindly prepare the documents, the other subsequent documents for this witness and for the other witnesses.
+
+**[08:09:28.640] Sen. Francis "Chiz" G. Escudero**  
+Yes, Madam Ms. Malou, can you respond?
+
+**[08:09:33.240] Malu Remollino Salanguit**  
+So I'm looking at 6-8. So this is a copy of an official receipt previously. So it indicates the amount paid last September 21.
+
+**[08:09:54.970] Malu Remollino Salanguit**  
+In
+
+**[08:09:56.060] Sen. Francis "Chiz" G. Escudero**  
+relation to what policy? I presume you're referring to a different policy already.
+
+**[08:10:01.200] Malu Remollino Salanguit**  
+Because it's not 15-6-2.
+
+**[08:10:04.580] Rep. Lordan G. Suan**  
+Yeah, but it's the same contract.
+
+**[08:10:06.880] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor, now I have to object. The witness clearly cannot answer the questions.
+
+**[08:10:14.080] Atty. Carlo Joaquin T. Narvasa**  
+I understand, Your Honor. Apologies, Your Honor. Let me
+
+**[08:10:18.080] Rep. Lordan G. Suan**  
+fix it.
+
+**[08:10:22.490] Rep. Lordan G. Suan**  
+Can we have a five-minute recess, Your Honor? My sincere apologies.
+
+**[08:10:26.440] Sen. Francis "Chiz" G. Escudero**  
+Chair declares a five-minute recess.
+
+**[08:17:09.230] Sen. Francis "Chiz" G. Escudero**  
+Yes, Honorable Suan, you may proceed with your direct.
+
+**[08:17:13.230] Rep. Lordan G. Suan**  
+Thank you for your patience, Your Honor. So, Ms. Witness, punta po tayo ulit sa Exhibit P-R2-8-15-6-2. Nakikita niyo po ba?
+
+**[08:17:27.770] Malu Remollino Salanguit**  
+Yes.
+
+**[08:17:28.730] Rep. Lordan G. Suan**  
+Tapos 15-6-8. Okay na po?
+
+**[08:17:34.130] Malu Remollino Salanguit**  
+Yes.
+
+**[08:17:35.440] Rep. Lordan G. Suan**  
+Okay, so sino po yung policyholder ng insurance investment na to?
+
+**[08:17:39.780] Malu Remollino Salanguit**  
+The policy owner is Manases R. Carpio.
+
+**[08:17:45.010] Rep. Lordan G. Suan**  
+Kailan po kinuha ang insurance investment?
+
+**[08:17:47.400] Malu Remollino Salanguit**  
+The policy was issued last March 6, 2019.
+
+**[08:17:51.980] Rep. Lordan G. Suan**  
+Magkano po yung total insurance premium na binayad?
+
+**[08:17:56.400] Malu Remollino Salanguit**  
+The total as of 2026 is 826,961.05. But the first payment is just 103,365.81.
+
+**[08:18:15.830] Rep. Lordan G. Suan**  
+Okay. So, no further questions, Your Honor.
+
+**[08:18:20.770] Sen. Francis "Chiz" G. Escudero**  
+Attorney CJ?
+
+**[08:18:21.910] Atty. Carlo Joaquin T. Narvasa**  
+Nothing to cross, Your Honor.
+
+**[08:18:23.300] Sen. Francis "Chiz" G. Escudero**  
+If there are no other senator judges who wish to make interjections, Ms. Malou, you are excused, ma'am. Salamat po sa pagsagot sa mga katanungan, sa pasensya, at sa... Oras na ginugul niyo sa hukumang ito.
+
+**[08:18:37.280] Malu Remollino Salanguit**  
+Thank you, Your
+
+**[08:18:38.100] Malu Remollino Salanguit**  
+Honor.
+
+**[08:18:38.600] Sen. Francis "Chiz" G. Escudero**  
+Good
+
+**[08:18:38.820] Sen. Francis "Chiz" G. Escudero**  
+evening, ma'am. Kindly situate the next witness, Atty. Kochet Shua.
+
+**[08:18:54.470] Atty. Carlo Joaquin T. Narvasa**  
+Your Honor,
+
+**[08:19:10.350] Atty. Carlo Joaquin T. Narvasa**  
+while we wait, may I request that Atty. Lindon be...
+
+**[08:19:13.320] Sen. Francis "Chiz" G. Escudero**  
+Yes, Atty. CJ.
+
+**[08:19:15.100] Atty. Carlo Joaquin T. Narvasa**  
+May I request that Atty. Lindon be recognized.
+
+**[08:19:17.900] Sen. Francis "Chiz" G. Escudero**  
+Atty. Lindon now.
+
+**[08:19:19.060] Atty. Carlo Joaquin T. Narvasa**  
+Thank you, Your Honor.
+
+**[08:19:35.820] Sen. Francis "Chiz" G. Escudero**  
+Sir,
+
+**[08:19:49.990] Atty. Renato N. Bantug Jr.**  
+kindly raise your right hand. You, Calvin Kohchet-Chua. do swear that the evidence you shall give in the case now pending between the Philippines and Vice President Sara Zimmerman Duterte shall be the truth, the whole truth, and nothing but the truth. So help you God.
+
+**[08:20:03.430] Atty. Calvin Kohchet-Chua**  
+Yes, I do, sir.
+
+**[08:20:04.770] Sen. Francis "Chiz" G. Escudero**  
+How do we address you, Attorney? Calvin?
+
+**[08:20:08.630] Atty. Calvin Kohchet-Chua**  
+Yes, sir.
+
+**[08:20:09.210] Atty. Calvin Kohchet-Chua**  
+Can I list it down? Your Honor.
+
+**[08:20:11.210] Sen. Francis "Chiz" G. Escudero**  
+Naunawaan niyo po, Attorney Calvin, yung inyong pinanumpaan kaugnay sa testimonyang bibigay niyo sa hukumang ito?
+
+**[08:20:17.710] Atty. Calvin Kohchet-Chua**  
+Opo.
+
+**[08:20:18.890] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Attorney Calvin. Same offer, Honorable Suan?
+
+**[08:20:24.310] Rep. Lordan G. Suan**  
+Yes,
+
+**[08:20:24.510] Rep. Lordan G. Suan**  
+Your
+
+**[08:20:24.670] Rep. Lordan G. Suan**  
+Honor. Again, to reiterate, just with respect to part of the first offer and part of the sixth offer to the exclusion of second, third, fourth, and fifth offer.
+
+**[08:20:34.450] Sen. Francis "Chiz" G. Escudero**  
+Same comment, Atty. Lindon?
+
+**[08:20:37.290] Atty. Lindon Miguel C. Bacquel**  
+Same comments and objections, Your Honor.
+
+**[08:20:39.230] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Your witness for your direct, Hon. Suan.
+
+**[08:20:45.050] Rep. Lordan G. Suan**  
+Thank you, Your Honor. Atty. Calvin, maaari niyo po bang sabihin ang inyong buong pangalan, posisyon, at kumpanyang kinakatawan?
+
+**[08:20:54.440] Atty. Calvin Kohchet-Chua**  
+My name
+
+**[08:20:55.060] Atty. Calvin Kohchet-Chua**  
+is Calvin L. Kohchet-Chua. I'm the Chief Legal, Government Relations, and Sustainability Officer of Pru Life Insurance Corporation of UK.
+
+**[08:21:05.150] Rep. Lordan G. Suan**  
+Ano po ang inyong tungkulin at responsibility bilang sa nasabing posisyon?
+
+**[08:21:12.470] Atty. Calvin Kohchet-Chua**  
+I lead the legal team, the government relations team, which is a policy advocacy team, as well as the sustainability team.
+
+**[08:21:25.620] Atty. Calvin Kohchet-Chua**  
+Ano pong reason
+
+**[08:21:26.160] Rep. Lordan G. Suan**  
+kung bakit nandito kayo
+
+**[08:21:27.360] Atty. Calvin Kohchet-Chua**  
+ngayon?
+
+**[08:21:53.370] Atty. Calvin Kohchet-Chua**  
+to lead the submission of the required documents to the Senate Impeachment Court.
+
+**[08:22:00.350] Rep. Lordan G. Suan**  
+So anong mga dokumento po yun, yung mga sinumitin niyo bilang tugon sa sapina?
+
+**[08:22:09.360] Atty. Calvin Kohchet-Chua**  
+Ito po yung mga policies related to the VP, her husband, and there were a couple of policies of a related person
+
+**[08:22:22.960] Rep. Lordan G. Suan**  
+po. So kung ipapakita po sa inyo itong mga dokumentong ito, would you be able to recognize them?
+
+**[08:22:31.440] Atty. Calvin Kohchet-Chua**  
+Yes, sir.
+
+**[08:22:36.620] Sen. Francis "Chiz" G. Escudero**  
+Ito
+
+**[08:22:37.180] Sen. Francis "Chiz" G. Escudero**  
+muna.
+
+**[08:22:37.700] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[08:22:38.600] Sen. Francis "Chiz" G. Escudero**  
+Policies, how many policies, Attorney Calvin?
+
+**[08:22:42.640] Atty. Calvin Kohchet-Chua**  
+In total? There are ten policies broken down, two policies for VP, Sara, as the policy owner. Three policies for her husband, attorney Mance Carpio, and five other policies to a related person.
+
+**[08:23:01.040] Sen. Francis "Chiz" G. Escudero**  
+For
+
+**[08:23:02.230] Sen. Francis "Chiz" G. Escudero**  
+dependents, I
+
+**[08:23:03.430] Sen. Francis "Chiz" G. Escudero**  
+presume.
+
+**[08:23:05.460] Sen. Francis "Chiz" G. Escudero**  
+Related meaning in favor?
+
+**[08:23:07.320] Atty. Calvin Kohchet-Chua**  
+A relative
+
+**[08:23:07.960] Atty. Calvin Kohchet-Chua**  
+of attorney Carpio as a policy owner.
+
+**[08:23:12.540] Sen. Francis "Chiz" G. Escudero**  
+As I said, dependents. But it's owned by attorney Carpio.
+
+**[08:23:19.140] Atty. Calvin Kohchet-Chua**  
+To clarify,
+
+**[08:23:22.470] Atty. Calvin Kohchet-Chua**  
+Your Honor, there are three policies, policy owned by Atty. Carpio, but we also generated policies of a relative of Atty. Carpio.
+
+**[08:23:37.870] Sen. Francis "Chiz" G. Escudero**  
+Taken out by Atty. Manassas Carpio?
+
+**[08:23:41.470] Atty. Calvin Kohchet-Chua**  
+No po.
+
+**[08:23:45.070] Sen. Francis "Chiz" G. Escudero**  
+Was
+
+**[08:23:45.850] Sen. Francis "Chiz" G. Escudero**  
+that part of the subpoena, Atty. Calvin?
+
+**[08:23:51.080] Atty. Calvin Kohchet-Chua**  
+Your Honor, we deemed it prudent because normally during asset preservation orders, they usually include policies of related or associated persons.
+
+**[08:24:07.000] Sen. Francis "Chiz" G. Escudero**  
+Are these related personalities dependents of Attorney Manasseh Scarfio?
+
+**[08:24:14.780] Atty. Calvin Kohchet-Chua**  
+No, Your Honor. They
+
+**[08:24:17.080] Atty. Calvin Kohchet-Chua**  
+are not.
+
+**[08:24:17.560] Sen. Francis "Chiz" G. Escudero**  
+Then kindly exclude them from Kindly exclude them from the policies that you'll be identifying. So kindly just include the three of the respondent. Sara Duterte. and the three, if I remember correctly.
+
+**[08:24:35.860] Atty. Calvin Kohchet-Chua**  
+Two
+
+**[08:24:36.380] Atty. Calvin Kohchet-Chua**  
+for VP Sara and then three for Atty.
+
+**[08:24:39.700] Sen. Francis "Chiz" G. Escudero**  
+Yes, kindly limit
+
+**[08:24:40.500] Sen. Francis "Chiz" G. Escudero**  
+it therefore to those five policies.
+
+**[08:24:43.100] Atty. Calvin Kohchet-Chua**  
+Yes,
+
+**[08:24:43.620] Atty. Calvin Kohchet-Chua**  
+Your Honor.
+
+**[08:24:44.020] Sen. Francis "Chiz" G. Escudero**  
+And you confirm that the remaining policies are not dependents of Atty. Manassas Carpia?
+
+**[08:24:49.620] Atty. Calvin Kohchet-Chua**  
+Yes, Your Honor.
+
+**[08:24:50.540] Sen. Francis "Chiz" G. Escudero**  
+Okay, kindly limit, Honorable Suan, let's limit ourselves to the five policies.
+
+**[08:24:54.700] Atty. Lindon Miguel C. Bacquel**  
+Your Honor.
+
+**[08:24:55.380] Sen. Francis "Chiz" G. Escudero**  
+Yes.
+
+**[08:24:56.280] Atty. Lindon Miguel C. Bacquel**  
+For the record, can we just ask for the exhibit markings of the... Doc, policies to be excluded, your honor.
+
+**[08:25:03.450] Sen. Francis "Chiz" G. Escudero**  
+Yes, ah, the policies to be excluded. I don't, will you, were you intending to present it, honorable Suan?
+
+**[08:25:09.710] Rep. Lordan G. Suan**  
+No, your honor. There are only five policies that are relevant.
+
+**[08:25:12.770] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[08:25:13.790] Sen. Francis "Chiz" G. Escudero**  
+They won't be presenting it, so, um, the clerk is, um, directed, um, to abbreviate the proceedings to kindly identify the pre-marked exhibit numbers of the excluded policies for their information reference. of the Respondent, Atty. Lindon. You may proceed, Hon. Swan.
+
+**[08:25:32.350] Rep. Lordan G. Suan**  
+Thank you, Your
+
+**[08:25:32.970] Rep. Lordan G. Suan**  
+Honor. Atty. Calvin, punta po tayo sa Exhibit P-R2-8-17-4-3-PRU.
+
+**[08:25:46.060] Rep. Lordan G. Suan**  
+Have
+
+**[08:25:46.580] Rep. Lordan G. Suan**  
+you found it?
+
+**[08:25:47.600] Atty. Calvin Kohchet-Chua**  
+Yes.
+
+**[08:25:48.560] Rep. Lordan G. Suan**  
+Okay.
+
+**[08:25:50.780] Rep. Lordan G. Suan**  
+Kanino po nakapangalan ng insurance policy na ito?
+
+**[08:25:56.670] Atty. Calvin Kohchet-Chua**  
+The applicant owner at this point is Atty. Manases Carpio po.
+
+**[08:26:01.790] Rep. Lordan G. Suan**  
+Anong taon po pinirmahan itong insurance investment na to?
+
+**[08:26:14.790] Rep. Lordan G. Suan**  
+Can
+
+**[08:26:20.260] Rep. Lordan G. Suan**  
+you
+
+**[08:26:27.820] Rep. Lordan G. Suan**  
+go to page 8?
+
+**[08:26:35.250] Atty. Calvin Kohchet-Chua**  
+January 6, 2020 po.
+
+**[08:26:37.510] Rep. Lordan G. Suan**  
+Okay. So makano po yung total insurance premium na binayad para dito?
+
+**[08:26:43.510] Atty. Calvin Kohchet-Chua**  
+The total annual premium po is 200,000 pesos.
+
+**[08:26:48.750] Rep. Lordan G. Suan**  
+Ilang taon po yan?
+
+**[08:26:53.890] Atty. Calvin Kohchet-Chua**  
+This is payable for 5 years.
+
+**[08:26:57.090] Rep. Lordan G. Suan**  
+So makano po yung total?
+
+**[08:26:59.530] Rep. Lordan G. Suan**  
+At 200,000 per year? That would be 1 million. Okay, thank you. So punta na naman po tayo sa ibang document.
+
+**[08:27:09.260] Rep. Lordan G. Suan**  
+P
+
+**[08:27:09.900] Rep. Lordan G. Suan**  
+-Roman numeral 2-8-17-2-3-PRU Yes.
+
+**[08:27:22.620] Rep. Lordan G. Suan**  
+Kanino po nakapangalan itong insurance investment na ito?
+
+**[08:27:26.440] Atty. Calvin Kohchet-Chua**  
+Atty. Manassas Carpe po.
+
+**[08:27:29.800] Rep. Lordan G. Suan**  
+Kailan po kinuha ang insurance investment na yan?
+
+**[08:27:47.880] Atty. Calvin Kohchet-Chua**  
+The effectivity date is January 18, 2011.
+
+**[08:27:52.530] Rep. Lordan G. Suan**  
+At makano po yung total insurance premiums na binayad para sa insurance investments na yan?
+
+**[08:27:59.610] Atty. Calvin Kohchet-Chua**  
+Based on
+
+**[08:28:09.480] Atty. Calvin Kohchet-Chua**  
+this document, sir, this is a regular premium, 10,000 per month.
+
+**[08:28:16.760] Rep. Lordan G. Suan**  
+So ilang taon po yan?
+
+**[08:28:21.820] Atty. Calvin Kohchet-Chua**  
+Five years po.
+
+**[08:28:23.670] Rep. Lordan G. Suan**  
+Five years?
+
+**[08:28:28.650] Sen. Francis "Chiz" G. Escudero**  
+Atty.
+
+**[08:28:29.170] Sen. Francis "Chiz" G. Escudero**  
+Calvin, how much total premiums have been paid on this policy as of today?
+
+**[08:28:36.360] Atty. Calvin Kohchet-Chua**  
+May I refer to my notes?
+
+**[08:28:38.100] Sen. Francis "Chiz" G. Escudero**  
+Yes sir, you may.
+
+**[08:28:39.320] Sen. Francis "Chiz" G. Escudero**  
+If it'll be easier for you.
+
+**[08:28:47.470] Atty. Calvin Kohchet-Chua**  
+The sum
+
+**[08:28:59.670] Atty. Calvin Kohchet-Chua**  
+assured po is 1 million pesos.
+
+**[08:29:02.500] Sen. Francis "Chiz" G. Escudero**  
+No, total premiums paid sir.
+
+**[08:29:12.290] Sen. Francis "Chiz" G. Escudero**  
+If it's 10,000 monthly, then it must have been fully paid a decade ago.
+
+**[08:29:21.800] Atty. Calvin Kohchet-Chua**  
+1 million pesos.
+
+**[08:29:23.740] Sen. Francis "Chiz" G. Escudero**  
+Total premium paid.
+
+**[08:29:25.950] Atty. Calvin Kohchet-Chua**  
+What year, sir?
+
+**[08:29:27.090] Atty. Calvin Kohchet-Chua**  
+I'm sorry po. Total
+
+**[08:29:31.140] Atty. Calvin Kohchet-Chua**  
+premium paid.
+
+**[08:29:37.470] Atty. Calvin Kohchet-Chua**  
+That would be 1.2 million, sir.
+
+**[08:29:42.710] Rep. Lordan G. Suan**  
+Okay. Thank you, Atty. Calvin.
+
+**[08:29:46.580] Rep. Lordan G. Suan**  
+So punta po tayo sa next policy, Exhibit P-Roman numeral 2-17-5-26.
+
+**[08:29:59.270] Rep. Lordan G. Suan**  
+Yes. So, kanina po nakapangalan ng insurance policy?
+
+**[08:30:04.880] Atty. Calvin Kohchet-Chua**  
+The name of the policy owner is Sara Zimmerman Duterte Carpi po.
+
+**[08:30:09.580] Rep. Lordan G. Suan**  
+Kailan po kinuha ang insurance investment na yan?
+
+**[08:30:12.420] Atty. Calvin Kohchet-Chua**  
+Effectivity date is January 27, 2010.
+
+**[08:30:15.760] Rep. Lordan G. Suan**  
+At magkano po ang total insurance premium na binayad?
+
+**[08:30:23.950] Atty. Calvin Kohchet-Chua**  
+Policy number?
+
+**[08:30:33.600] Atty. Calvin Kohchet-Chua**  
+1.2 million.
+
+**[08:30:36.470] Rep. Lordan G. Suan**  
+Okay. Thank you. Punta po tayo sa next policy. Exhibit P-R2-8-17-1-31.
+
+**[08:30:49.220] Atty. Calvin Kohchet-Chua**  
+I have it.
+
+**[08:30:50.680] Rep. Lordan G. Suan**  
+Okay. So in whose name is it?
+
+**[08:30:54.200] Atty. Calvin Kohchet-Chua**  
+The name of the policy owner is Sara Zimmerman Duterte.
+
+**[08:30:58.320] Rep. Lordan G. Suan**  
+Kailan
+
+**[08:30:58.820] Rep. Lordan G. Suan**  
+po ginawa ang
+
+**[08:30:59.380] Rep. Lordan G. Suan**  
+insurance investment na yan?
+
+**[08:31:01.000] Atty. Calvin Kohchet-Chua**  
+Effectivity date is January 27, 2008.
+
+**[08:31:04.570] Rep. Lordan G. Suan**  
+At makano po yung total insurance premium na binayad?
+
+**[08:31:13.960] Atty. Calvin Kohchet-Chua**  
+3,189,720 pesos.
+
+**[08:31:19.200] Rep. Lordan G. Suan**  
+Thank you.
+
+**[08:31:22.510] Rep. Lordan G. Suan**  
+We manifest your honor that this is now the last document for this witness. So let's take a look at P-R2-8-17-3-3.
+
+**[08:31:37.610] Rep. Lordan G. Suan**  
+So kanino po nakapangalan ang insurance investment na yan, Atty. Calvin?
+
+**[08:31:42.610] Atty. Calvin Kohchet-Chua**  
+Policy owner is Manases Carpio po.
+
+**[08:31:46.770] Rep. Lordan G. Suan**  
+Kailan po kinuha ang insurance investment na yan?
+
+**[08:31:54.760] Atty. Calvin Kohchet-Chua**  
+January 31,
+
+**[08:31:57.700] Atty. Calvin Kohchet-Chua**  
+2019.
+
+**[08:31:59.460] Rep. Lordan G. Suan**  
+At magkano po yung total insurance premium na binayad for that policy?
+
+**[08:32:07.210] Rep. Lordan G. Suan**  
+One
+
+**[08:32:07.770] Atty. Calvin Kohchet-Chua**  
+million pesos po.
+
+**[08:32:09.640] Rep. Lordan G. Suan**  
+Okay.
+
+**[08:32:12.900] Rep. Lordan G. Suan**  
+No further questions, Your Honor.
+
+**[08:32:14.980] Sen. Francis "Chiz" G. Escudero**  
+Attorney Linden, Gross.
+
+**[08:32:16.520] Atty. Lindon Miguel C. Bacquel**  
+Few questions, Your Honor.
+
+**[08:32:17.820] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir.
+
+**[08:32:19.870] Atty. Lindon Miguel C. Bacquel**  
+Good evening, sir.
+
+**[08:32:21.190] Atty. Calvin Kohchet-Chua**  
+Good evening, sir.
+
+**[08:32:22.550] Atty. Lindon Miguel C. Bacquel**  
+You identified three policies owned by Manassas R. Carpio, correct, sir?
+
+**[08:32:28.950] Atty. Calvin Kohchet-Chua**  
+That's correct.
+
+**[08:32:31.480] Atty. Lindon Miguel C. Bacquel**  
+And perusing and examining the documents you submitted, the documents would not show that Sara Zimmerman Duterte is aware of the policies owned by Manases R. Carpio, correct?
+
+**[08:32:45.120] Atty. Calvin Kohchet-Chua**  
+I could not answer that part.
+
+**[08:32:46.880] Atty. Lindon Miguel C. Bacquel**  
+But you would confirm also that the documents relating to the policies owned by Manases R. Carpio would not contain any Signature of the Vice President. Correct, sir?
+
+**[08:33:00.800] Atty. Calvin Kohchet-Chua**  
+That's correct.
+
+**[08:33:01.820] Atty. Lindon Miguel C. Bacquel**  
+No further questions, Your Honor.
+
+**[08:33:03.820] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Any redirect, counsel?
+
+**[08:33:05.720] Rep. Lordan G. Suan**  
+No redirect, Your Honor.
+
+**[08:33:07.440] Sen. Francis "Chiz" G. Escudero**  
+Atty. Calvin, maraming salamat po sa inyong panahon at sa pagsagot sa mga katanungan mula sa mga partido, magkabilang partido at sa hukumang ito. Thank you, sir. You are excused, sir.
+
+**[08:33:16.980] Atty. Calvin Kohchet-Chua**  
+Thank you
+
+**[08:33:17.160] Atty. Calvin Kohchet-Chua**  
+po, Your Honor.
+
+**[08:33:20.470] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate, Ms. Christine Cabradilla.
+
+**[08:33:25.460] Rep. Lordan G. Suan**  
+Your Honor, before the witness swears in,
+
+**[08:33:28.930] Sen. Francis "Chiz" G. Escudero**  
+Yes, what is the pleasure of the Honorable
+
+**[08:33:31.090] Sen. Francis "Chiz" G. Escudero**  
+Soan?
+
+**[08:33:31.930] Rep. Lordan G. Suan**  
+May we briefly display on the screen the figures testified by Attorney Calvin? Ito po ay...
+
+**[08:33:37.810] Atty. Sheila C. Sison**  
+We
+
+**[08:33:38.590] Atty. Sheila C. Sison**  
+object, Your Honor.
+
+**[08:33:40.750] Sen. Francis "Chiz" G. Escudero**  
+Too late for that, Honorable Suan. What is the pleasure of the Honorable Pangilinan?
+
+**[08:33:47.490] Sen. Francis “Kiko” Pangilinan**  
+I just wanted to have a... pangatlo na yun, ano, na insurance company.
+
+**[08:33:54.900] Sen. Francis "Chiz" G. Escudero**  
+Yes, that is the third. So,
+
+**[08:33:57.000] Sen. Francis “Kiko” Pangilinan**  
+this is the fourth? So, what is the running total? Ilan na ang policies of the three insurance? How many policies total have you placed on record?
+
+**[08:34:09.330] Rep. Lordan G. Suan**  
+Your Honor, may we be allowed to flash this on the screen, the totals?
+
+**[08:34:12.690] Sen. Francis “Kiko” Pangilinan**  
+No, not the
+
+**[08:34:14.070] Sen. Francis “Kiko” Pangilinan**  
+amounts, just the number. Just the number of policies.
+
+**[08:34:17.110] Sen. Francis "Chiz" G. Escudero**  
+So far, thus far?
+
+**[08:34:20.320] Sen. Francis “Kiko” Pangilinan**  
+With the three companies, there are, I think, three, six, five. I just want to have a sense of...
+
+**[08:34:33.060] Sen. Francis "Chiz" G. Escudero**  
+According to the Senate President, it's 11 policies thus far for the three insurance companies. Eleven policies.
+
+**[08:34:41.400] Sen. Francis "Chiz" G. Escudero**  
+Eleven.
+
+**[08:34:42.280] Rep. Lordan G. Suan**  
+Running total.
+
+**[08:34:43.300] Sen. Francis "Chiz" G. Escudero**  
+Wait lang po. Yes, Honorable Son, you have another figure?
+
+**[08:34:56.740] Sen. Francis "Chiz" G. Escudero**  
+Let's
+
+**[08:34:57.300] Sen. Francis "Chiz" G. Escudero**  
+satisfy ourselves with the eleven figure of the Senate President.
+
+**[08:34:59.960] Rep. Lordan G. Suan**  
+Yes, Your Honor.
+
+**[08:35:01.140] Sen. Francis “Kiko” Pangilinan**  
+Considering the Senate President is a stickler for numbers, I think we will...
+
+**[08:35:05.440] Sen. Francis "Chiz" G. Escudero**  
+What is the pressure of... Atty. Sheila?
+
+**[08:35:09.040] Atty. Sheila C. Sison**  
+Good evening, Your Honor. Just for our guidance, does the court intend to finish all the witnesses who still remain in the DHR tonight, Your Honor?
+
+**[08:35:16.760] Sen. Francis "Chiz" G. Escudero**  
+I know it's
+
+**[08:35:17.100] Sen. Francis "Chiz" G. Escudero**  
+6.30, but I asked, Atty. Sheila, there are only two policies per insurance company.
+
+**[08:35:27.320] Atty. Sheila C. Sison**  
+Yes, Your Honor.
+
+**[08:35:27.880] Atty. Sheila C. Sison**  
+We're not complaining. We just want to know.
+
+**[08:35:32.890] Sen. Francis "Chiz" G. Escudero**  
+Sinabi na natin, dalawang araw
+
+**[08:35:34.230] Sen. Francis "Chiz" G. Escudero**  
+na kasi nandito. So let's
+
+**[08:35:35.890] Sen. Francis "Chiz" G. Escudero**  
+try to finish only up to this, BAR, and the rest tomorrow.
+
+**[08:35:38.990] Atty. Sheila C. Sison**  
+Okay, thank you, Your Honor.
+
+**[08:35:40.570] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Attorney Sheila, for the accommodation. Kindly stand up, Ms. Christine.
+
+**[08:35:46.030] Sen. Francis "Chiz" G. Escudero**  
+The clerk is directed to administer those.
+
+**[08:35:48.410] Atty. Renato N. Bantug Jr.**  
+Kindly raise your right hand. You, Christine Cabradilla, do swear that the evidence you shall give in the case now pending between the Philippines and Vice President Zara Zimmerman Duterte shall be the truth, the whole truth, and nothing but the truth. So help me God.
+
+**[08:36:01.980] Christine Cabradilla**  
+Yes, Your Honor.
+
+**[08:36:03.530] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Naunawa niyo po inyong pinanumpaan, Ma'am Christine?
+
+**[08:36:07.030] Christine Cabradilla**  
+Opo.
+
+**[08:36:08.690] Sen. Francis "Chiz" G. Escudero**  
+Honorable Suan, same offer, subject to the limitations of the court. And Attorney Rob, it'll be you?
+
+**[08:36:15.750] Atty. Roberto N. Batungbacal**  
+Yes, Your Honor.
+
+**[08:36:16.510] Sen. Francis "Chiz" G. Escudero**  
+Same objections and
+
+**[08:36:17.910] Sen. Francis "Chiz" G. Escudero**  
+or comments to the limited offer?
+
+**[08:36:19.750] Atty. Roberto N. Batungbacal**  
+Same objections and comments, Your Honor.
+
+**[08:36:21.450] Sen. Francis "Chiz" G. Escudero**  
+Yes, Your Honor. You may proceed, Honorable Suan, with your direct examination of Ms. Christine.
+
+**[08:36:27.000] Rep. Lordan G. Suan**  
+Good afternoon, Ms. Christine.
+
+**[08:36:29.340] Christine Cabradilla**  
+Good
+
+**[08:36:29.640] Christine Cabradilla**  
+afternoon po.
+
+**[08:36:30.860] Rep. Lordan G. Suan**  
+Let's proceed to exhibit
+
+**[08:36:34.520] Rep. Lordan G. Suan**  
+Roman numeral 2-8-13-3-2 BPI-AIA.
+
+**[08:36:52.300] Sen. Francis "Chiz" G. Escudero**  
+What
+
+**[08:36:52.840] Sen. Francis "Chiz" G. Escudero**  
+is happening?
+
+**[08:36:53.760] Rep. Lordan G. Suan**  
+Before that, my apologies, Your Honor. We would like to get to know the witness first for a little bit.
+
+**[08:37:00.680] Sen. Francis "Chiz" G. Escudero**  
+Please proceed, Honorable Sohan.
+
+**[08:37:04.800] Rep. Lordan G. Suan**  
+Ms. Christine, maaari niyo po bang sabihin ang inyong buong pangalan, posisyon, at kompanyang inyong kinakatawan?
+
+**[08:37:12.090] Christine Cabradilla**  
+Ako po si Christine Cabradilla. Policy changes head po ako sa AIA Philippines.
+
+**[08:37:21.120] Rep. Lordan G. Suan**  
+Ano po ang inyong tungkulin at responsibilidad sa position niyo ngayon sa
+
+**[08:37:27.800] Rep. Lordan G. Suan**  
+inyong kumpanya?
+
+**[08:37:29.060] Christine Cabradilla**  
+My team handles after sales transactions and policy servicing as well as customer records.
+
+**[08:37:37.650] Rep. Lordan G. Suan**  
+So ano po yung dahilan kung bakit nandito kayo ngayon sa hukumang ito?
+
+**[08:37:41.860] Christine Cabradilla**  
+Meron po akong access sa policy records ng mga customers namin.
+
+**[08:37:46.820] Rep. Lordan G. Suan**  
+What did you do with those records regarding this impeachment case?
+
+**[08:37:53.500] Christine Cabradilla**  
+When I received the subpoena from our legal and compliance office, we gathered all the documents and I prepared a certificate and signed it together with all the documents available in our records.
+
+**[08:38:12.290] Rep. Lordan G. Suan**  
+Okay.
+
+**[08:38:12.930] Rep. Lordan G. Suan**  
+So if those documents were shown to you, would you be able to recognize them?
+
+**[08:38:17.930] Christine Cabradilla**  
+Yes, Your Honor.
+
+**[08:38:27.270] Rep. Lordan G. Suan**  
+So punta po tayo sa exhibit number 2- Roman numeral 2-8-13-3-2-BPI-AIA.
+
+**[08:38:41.820] Rep. Lordan G. Suan**  
+Do
+
+**[08:38:44.940] Rep. Lordan G. Suan**  
+you have it?
+
+**[08:38:45.720] Christine Cabradilla**  
+Yes, Your Honor.
+
+**[08:38:47.420] Rep. Lordan G. Suan**  
+So, kanino po nakapangalan ang insurance investment na to?
+
+**[08:38:52.300] Christine Cabradilla**  
+Kay Atty. Manases Carpio.
+
+**[08:38:55.050] Rep. Lordan G. Suan**  
+Kailan po kinuha ang insurance investment na to?
+
+**[08:38:59.920] Christine Cabradilla**  
+Feb 13, 2013.
+
+**[08:39:02.460] Rep. Lordan G. Suan**  
+So,
+
+**[08:39:03.000] Rep. Lordan G. Suan**  
+base po sa dokumentong yan, magkano po yung total insurance premium na binayad?
+
+**[08:39:09.410] Christine Cabradilla**  
+30,000 USD.
+
+**[08:39:15.280] Rep. Lordan G. Suan**  
+Single payment po ba ito?
+
+**[08:39:17.260] Christine Cabradilla**  
+Yes po, single payment po.
+
+**[08:39:19.280] Rep. Lordan G. Suan**  
+How much is this in Philippine pesos?
+
+**[08:39:23.310] Christine Cabradilla**  
+During that time, 2013, around 1.3, 1.4.
+
+**[08:39:30.290] Rep. Lordan G. Suan**  
+Okay. So ano po yung pagkakaiba ng dollar denominated insurance investment sa ordinaryong peso denominated insurance investment pagdating sa paglalagay at pag-withdraw ng pondo?
+
+**[08:39:45.800] Christine Cabradilla**  
+Wala pong... Kaibahan, meron po pala, pag VUL po kasi, pag unit link na dollar, meron po siyang execution date. So, if ngayon ka mag-process ng transaction, kailangan mong hintayin na mag-sell or mag-execute yung funds before you actually paid it out to the customer.
+
+**[08:40:11.260] Rep. Lordan G. Suan**  
+Okay.
+
+**[08:40:16.870] Rep. Lordan G. Suan**  
+No further questions, Your Honor.
+
+**[08:40:20.440] Sen. Francis "Chiz" G. Escudero**  
+Attorney Rob?
+
+**[08:40:21.880] Atty. Roberto N. Batungbacal**  
+Yes, your honor, just a few.
+
+**[08:40:23.340] Sen. Francis "Chiz" G. Escudero**  
+You may proceed with your cross.
+
+**[08:40:24.680] Atty. Roberto N. Batungbacal**  
+Good evening, ma'am. Ma'am, you talked about the invest plus dollar under the name of Manases Carpio, correct? And to open or to get this account, of course, you have to sign forms, correct?
+
+**[08:40:43.320] Christine Cabradilla**  
+Yes, your honor.
+
+**[08:40:44.360] Atty. Roberto N. Batungbacal**  
+Yes, and of course, the policy owner will have to sign the forms, correct?
+
+**[08:40:50.410] Christine Cabradilla**  
+Yes, Your Honor.
+
+**[08:40:51.090] Atty. Roberto N. Batungbacal**  
+Does the spouse have to sign the forms?
+
+**[08:40:53.420] Christine Cabradilla**  
+No, Your Honor.
+
+**[08:40:54.380] Atty. Roberto N. Batungbacal**  
+How about the beneficiary?
+
+**[08:40:55.700] Christine Cabradilla**  
+No, Your Honor.
+
+**[08:40:56.400] Atty. Roberto N. Batungbacal**  
+How about the trustee?
+
+**[08:40:58.200] Christine Cabradilla**  
+No.
+
+**[08:40:59.910] Atty. Roberto N. Batungbacal**  
+No further questions, Your Honor.
+
+**[08:41:01.910] Sen. Francis "Chiz" G. Escudero**  
+Any redirect, Honorable Son?
+
+**[08:41:03.770] Rep. Lordan G. Suan**  
+Yes, Your Honor.
+
+**[08:41:04.630] Sen. Francis "Chiz" G. Escudero**  
+You may proceed,
+
+**[08:41:05.150] Rep. Lordan G. Suan**  
+Sir. Ms. Witness, ano pong dollar na ito?
+
+**[08:41:09.790] Atty. Roberto N. Batungbacal**  
+Your Honor, objection, Your Honor. Not subject to cross, Your Honor.
+
+**[08:41:13.490] Rep. Lordan G. Suan**  
+What was
+
+**[08:41:14.090] Rep. Lordan G. Suan**  
+the question?
+
+**[08:41:14.650] Sen. Francis "Chiz" G. Escudero**  
+Ano tong
+
+**[08:41:15.070] Rep. Lordan G. Suan**  
+dollar na
+
+**[08:41:15.630] Rep. Lordan G. Suan**  
+ito?
+
+**[08:41:15.640] Atty. Roberto N. Batungbacal**  
+Vague, Your Honor
+
+**[08:41:15.650] Rep. Lordan G. Suan**  
+Opposing counsel just mentioned it, Your Honor.
+
+**[08:41:19.270] Rep. Lordan G. Suan**  
+The
+
+**[08:41:19.670] Rep. Lordan G. Suan**  
+dollar.
+
+**[08:41:21.210] Sen. Francis "Chiz" G. Escudero**  
+No, what do you mean by ano tong dollar na to?
+
+**[08:41:23.430] Rep. Lordan G. Suan**  
+Yes, Your Honor.
+
+**[08:41:24.810] Sen. Francis "Chiz" G. Escudero**  
+Kindly be more specific, Honorable Swan.
+
+**[08:41:26.850] Rep. Lordan G. Suan**  
+Which currency from whichever country is this dollar?
+
+**[08:41:33.280] Atty. Roberto N. Batungbacal**  
+Your Honor,
+
+**[08:41:33.880] Atty. Roberto N. Batungbacal**  
+objection. This is not part of cross, Your Honor. Asked and answered already by the witness. Not part
+
+**[08:41:39.440] Atty. Roberto N. Batungbacal**  
+of cross.
+
+**[08:41:40.600] Sen. Francis "Chiz" G. Escudero**  
+And the court can take judicial notice of what's in the document, Honorable Suan.
+
+**[08:41:44.160] Rep. Lordan G. Suan**  
+Very
+
+**[08:41:44.460] Rep. Lordan G. Suan**  
+well,
+
+**[08:41:44.700] Rep. Lordan G. Suan**  
+Your Honor.
+
+**[08:41:46.700] Sen. Francis "Chiz" G. Escudero**  
+Any recross?
+
+**[08:41:48.550] Atty. Roberto N. Batungbacal**  
+No recross, Your Honor.
+
+**[08:41:50.850] Sen. Francis "Chiz" G. Escudero**  
+Atty. Rather, Ms.
+
+**[08:41:53.110] Sen. Francis "Chiz" G. Escudero**  
+Christine.
+
+**[08:41:54.190] Christine Cabradilla**  
+Yes, Your Honor.
+
+**[08:41:55.150] Sen. Francis "Chiz" G. Escudero**  
+Sorry for the wait. Thank you for your patience and thank you for answering the questions of the parties. You are excused, ma'am.
+
+**[08:42:01.690] Christine Cabradilla**  
+Thank you so much, Your  Honor.
+
+**[08:42:02.710] Sen. Francis "Chiz" G. Escudero**  
+With the
+
+**[08:42:02.711] Sen. Francis "Chiz" G. Escudero**  
+court's appreciation.
+
+**[08:42:04.910] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate Ms. Defensor to
+
+**[08:42:10.620] Sen. Francis "Chiz" G. Escudero**  
+the witness stand.
+
+**[08:42:12.060] Atty. Roberto N. Batungbacal**  
+Your Honor, I ask that Atty. Justin be recognized.
+
+**[08:42:16.240] Sen. Francis "Chiz" G. Escudero**  
+Atty. Justin is recognized.
+
+**[08:42:19.920] Atty. Justin Nicol B. Gular**  
+Good evening, Your Honor.
+
+**[08:42:22.180] Sen. Francis "Chiz" G. Escudero**  
+Good evening, Attorney Justin.
+
+**[08:42:27.170] Rep. Lordan G. Suan**  
+Your Honor, may we call to the witness box the representative from Allianz PNB Life Insurance Incorporated.
+
+**[08:42:48.420] Sen. Francis "Chiz" G. Escudero**  
+The clerk is directed to administer the oaths.
+
+**[08:42:52.270] Atty. Renato N. Bantug Jr.**  
+Ma'am, please stand and raise your right hand. You, Hygeia, Defensor, do swear that the evidence you shall give in the case now pending between the Philippines and Vice President Cyrus Jim Ramon Duterte shall be the truth, the whole truth, and nothing but the truth. So help you God.
+
+**[08:43:08.360] Hygeia C. Defensor**  
+Yes, Your Honor.
+
+**[08:43:11.250] Sen. Francis "Chiz" G. Escudero**  
+Kindly answer through the mic, ma'am.
+
+**[08:43:14.810] Hygeia C. Defensor**  
+Yes, Your Honor.
+
+**[08:43:15.930] Sen. Francis "Chiz" G. Escudero**  
+Yes, ma'am. How do you pronounce your name, ma'am?
+
+**[08:43:18.130] Hygeia C. Defensor**  
+Hygeia po.
+
+**[08:43:19.750] Sen. Francis "Chiz" G. Escudero**  
+Hygiea. Okay.
+
+**[08:43:22.670] Sen. Francis "Chiz" G. Escudero**  
+Naunawaan niyo po yung inyong pinanumpaan, Ma'am Hygeia. Ka-ognize sa testimonyong bibigyan niyo sa hukumang ito?
+
+**[08:43:27.870] Hygeia C. Defensor**  
+Opo.
+
+**[08:43:29.770] Sen. Francis "Chiz" G. Escudero**  
+Honorable Suan, same offer, subject to the limitations prescribed by the Presiding Officer?
+
+**[08:43:35.130] Rep. Lordan G. Suan**  
+Yes, Your Honor.
+
+**[08:43:36.520] Sen. Francis "Chiz" G. Escudero**  
+Attorney Justin, same? Objections and comments?
+
+**[08:43:39.960] Rep. Lordan G. Suan**  
+Yes, Your Honor.
+
+**[08:43:41.100] Sen. Francis "Chiz" G. Escudero**  
+You may proceed with your direct examination, Honorable Son.
+
+**[08:43:46.190] Rep. Lordan G. Suan**  
+Ms. Witness, maaari niyo bang sabihin ang inyong buong pangalan, posisyon, at kumpanyang kinakatawan?
+
+**[08:43:53.870] Hygeia C. Defensor**  
+Ako po si Hygeia C. Defensor. Ako po yung Policy Management Head ng Allianz PNB Life Insurance.
+
+**[08:44:02.190] Rep. Lordan G. Suan**  
+Ano po ang inyong tungkulin at responsibilidad sa nasabing posisyon?
+
+**[08:44:07.690] Hygeia C. Defensor**  
+My team handles after-sales transactions so that includes billing and collection, servicing, so any changes and benefits.
+
+**[08:44:17.290] Rep. Lordan G. Suan**  
+So ano po yung dahilan ng inyong pagharap dito ngayong araw sa hukumang ito?
+
+**[08:44:23.430] Hygeia C. Defensor**  
+Ako po yung na-authorize ng company to represent Allianz in connection to the subpoena I received.
+
+**[08:44:30.830] Rep. Lordan G. Suan**  
+Okay, so based on the subpoena, what documents did your... Did your company submit to this honorable court?
+
+**[08:44:39.810] Hygeia C. Defensor**  
+That includes the policy contract, copy of the policy contract, ITR, copy of valid IDs, and then
+
+**[08:44:52.250] Hygeia C. Defensor**  
+e
+
+**[08:44:57.780] Hygeia C. Defensor**  
+-pay copy po.
+
+**[08:45:01.040] Rep. Lordan G. Suan**  
+Okay. Ms. Hyjia, punta po tayo sa exhibit P-Roman numeral 2-8. 16-1-1 PNBA to 16-2-11 So
+
+**[08:45:38.120] Rep. Lordan G. Suan**  
+let's move on to a more specific document P
+
+**[08:45:44.510] Rep. Lordan G. Suan**  
+-Roman numeral 2-8-16-2-1 for the policy So kanino po nakapangalan ng policy na ito?
+
+**[08:45:55.470] Hygeia C. Defensor**  
+Ang policy owner po is si Mr. Manases R. Carpio
+
+**[08:46:00.900] Rep. Lordan G. Suan**  
+Miss Hygiea, kailan po kinuha itong insurance investment na to?
+
+**[08:46:05.080] Hygeia C. Defensor**  
+Ang effectivity date po ng policy ay May 3, 2021.
+
+**[08:46:11.590] Rep. Lordan G. Suan**  
+Based on this document, magkano po yung total insurance payment na binayad?
+
+**[08:46:17.500] Hygeia C. Defensor**  
+Based on this po, $11,700 US dollars.
+
+**[08:46:22.640] Rep. Lordan G. Suan**  
+Okay.
+
+**[08:46:26.400] Rep. Lordan G. Suan**  
+So, punta po tayo sa exhibit. P-Roman numeral 2-8-16-1-1 So
+
+**[08:46:51.030] Rep. Lordan G. Suan**  
+do you have it? Kanino po nakapangalan ng insurance investment na to?
+
+**[08:46:55.990] Hygeia C. Defensor**  
+Policy owner po, Mr. Manases R. Carpio.
+
+**[08:46:59.410] Rep. Lordan G. Suan**  
+At kailan po ito kinuha?
+
+**[08:47:02.350] Hygeia C. Defensor**  
+Effective date po, October 6, 2021.
+
+**[08:47:05.910] Rep. Lordan G. Suan**  
+Makano po yung total insurance premium na binayad para sa policy na ito?
+
+**[08:47:10.360] Hygeia C. Defensor**  
+Premium po is 100,000 USD.
+
+**[08:47:16.570] Rep. Lordan G. Suan**  
+Makano kaya to in pesos?
+
+**[08:47:20.490] Hygeia C. Defensor**  
+Wala po kasi kaming conversion kasi dollar policy siya na ibayad.
+
+**[08:47:25.510] Rep. Lordan G. Suan**  
+Okay,
+
+**[08:47:26.310] Rep. Lordan G. Suan**  
+so 100,000 USD.
+
+**[08:47:31.730] Hygeia C. Defensor**  
+Opo.
+
+**[08:47:34.120] Rep. Lordan G. Suan**  
+So paano po binayaran ng mga insurance investment premiums na nabanggit based sa records whether cash ba, bank transfer, or checks?
+
+**[08:47:42.700] Hygeia C. Defensor**  
+Based po sa records namin, cash po siya.
+
+**[08:47:45.520] Rep. Lordan G. Suan**  
+Okay.
+
+**[08:47:50.640] Rep. Lordan G. Suan**  
+No further questions, Your Honor.
+
+**[08:47:52.480] Sen. Francis "Chiz" G. Escudero**  
+Attorney Justin?
+
+**[08:47:53.660] Atty. Justin Nicol B. Gular**  
+A few questions on Crossroads.
+
+**[08:47:55.140] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir.
+
+**[08:47:56.280] Atty. Justin Nicol B. Gular**  
+Ma'am, kanina po sinabi niyo na dalawa pong insurance policies ang nasa records niyo na nasa ilalim po ng pangalan ni Manases R. Carpio. Tama po ba?
+
+**[08:48:06.700] Hygeia C. Defensor**  
+Tama po.
+
+**[08:48:07.460] Atty. Justin Nicol B. Gular**  
+Ano po yung status ng mga insurance policies na ito?
+
+**[08:48:11.360] Hygeia C. Defensor**  
+Pareho na po silang surrendered.
+
+**[08:48:13.540] Atty. Justin Nicol B. Gular**  
+Okay. Ma'am, sinabi niyo po kanina na ang pinambayad po sa pangalawa ang policy na Dinescuss po ng kagalang-galang na prosecutor ay 100,000 US dollars. Tama po ba?
+
+**[08:48:25.640] Hygeia C. Defensor**  
+Tama po.
+
+**[08:48:26.280] Atty. Justin Nicol B. Gular**  
+At sinabi niyo po kanina na binayaran po ito ng cash. Tama po ba? Wala naman po kayong personal knowledge kung yung 100,000 pesos na binayad ni Atty. Mons ay galing sa kanyang sariling funds. Tama po ba?
+
+**[08:48:40.900] Hygeia C. Defensor**  
+Wala po kami. Yung payment po kasi is coming from the policy owner.
+
+**[08:48:45.700] Atty. Justin Nicol B. Gular**  
+Yes. But hindi niyo po alam kung ang 100,000 mismo ay
+
+**[08:49:05.760] Atty. Justin Nicol B. Gular**  
+Meron
+
+**[08:49:07.120] Hygeia C. Defensor**  
+po tayong KYC na ginagawa kung Able ba sila to pay for the premium?
+
+**[08:49:15.260] Atty. Justin Nicol B. Gular**  
+I'll accept that answer, ma'am. Ma'am, pag kumukuha po yung isang married na tao ng isang insurance policy, hindi naman po required na kumuha ng consent ng ating spouse. Tama po ba?
+
+**[08:49:25.460] Hygeia C. Defensor**  
+Hindi po.
+
+**[08:49:26.400] Atty. Justin Nicol B. Gular**  
+Kahit na yung spouse natin ay isa sa mga beneficiaries na nilalagay sa ating insurance contract. Tama po ba?
+
+**[08:49:32.980] Hygeia C. Defensor**  
+Tama po.
+
+**[08:49:33.620] Atty. Justin Nicol B. Gular**  
+At sa pag-execute po natin ng policy, Kasama sa insurance company, hindi rin po naman kailangan na mag-sign yung ating spouse. Tama po ba?
+
+**[08:49:42.600] Hygeia C. Defensor**  
+Tama po.
+
+**[08:49:43.300] Atty. Justin Nicol B. Gular**  
+Kahit na yung spouse natin ay isa sa mga beneficiary sa insurance policy. Hindi pa rin siya kailangan pumirma sa kontrara. Tama po ba?
+
+**[08:49:51.800] Hygeia C. Defensor**  
+Tama po.
+
+**[08:49:52.480] Atty. Justin Nicol B. Gular**  
+Wala po rin po tayong requirement na sa pagbayad natin ng premium ng insurance holder or yung nag-applicant ay kailangan manotify yung spouse sa pagbayad mismo ng premium. Tama po ba?
+
+**[08:50:03.400] Hygeia C. Defensor**  
+Tama po.
+
+**[08:50:03.980] Atty. Justin Nicol B. Gular**  
+Hindi rin ninonotify ng insurance company. Ang spouse, kahit na beneficiary siya, nabayad na yung premium. Tama po ba?
+
+**[08:50:11.280] Hygeia C. Defensor**  
+Tama po.
+
+**[08:50:11.980] Atty. Justin Nicol B. Gular**  
+At pati po, sa pag-terminate or pag-surrender ng policy, wala pong requirement upon the policyholder or sa insurance company na inotify yung spouse. Tama po ba?
+
+**[08:50:23.840] Hygeia C. Defensor**  
+Tama po.
+
+**[08:50:24.840] Atty. Justin Nicol B. Gular**  
+So, ibig sabihin, yung aware lang sa pagkuha ng policy sa kumpanya niyo po, Sa pag-execute at sa pag-pirma at sa pagbayad ng premiums at pati sa yung sinabi nyo kanina na pag-terminate ay si, sa pagkakaalam nyo lang po, ay si Atty. Manassas R. Carpio. Tama po ba?
+
+**[08:50:42.170] Hygeia C. Defensor**  
+Tama
+
+**[08:50:42.430] Hygeia C. Defensor**  
+po.
+
+**[08:50:42.810] Atty. Justin Nicol B. Gular**  
+No further questions, Your Honor.
+
+**[08:50:44.690] Sen. Francis "Chiz" G. Escudero**  
+Redirect,
+
+**[08:50:45.130] Sen. Francis "Chiz" G. Escudero**  
+um, Honorable Zon.
+
+**[08:50:46.550] Rep. Lordan G. Suan**  
+Just one question, Your Honor.
+
+**[08:50:47.730] Sen. Francis "Chiz" G. Escudero**  
+Please, you may proceed, sir.
+
+**[08:50:48.730] Rep. Lordan G. Suan**  
+Ms. Witness, you mentioned that it was surrendered.
+
+**[08:50:52.490] Hygeia C. Defensor**  
+Ano
+
+**[08:50:52.890] Rep. Lordan G. Suan**  
+pong ibig sabihin yan?
+
+**[08:50:54.410] Hygeia C. Defensor**  
+Um, kinuha na po yung fund. Kinuha na yung policy.
+
+**[08:51:00.050] Rep. Lordan G. Suan**  
+So, nabalik yung perang binayad?
+
+**[08:51:03.350] Hygeia C. Defensor**  
+Ang surrender value po kasi natin hindi siya exactly the amount paid. So, depending on the fund value. Kasi yung plan po na na-mention natin ay VUL, Variable Unit Link Product. So, depending po siya sa fund at the time of surrender.
+
+**[08:51:19.450] Rep. Lordan G. Suan**  
+So, it may be lower or higher?
+
+**[08:51:21.790] Hygeia C. Defensor**  
+Yes po.
+
+**[08:51:22.570] Rep. Lordan G. Suan**  
+Okay. Kailan po kinuha?
+
+**[08:51:25.010] Hygeia C. Defensor**  
+Yung policy po, kinuha.
+
+**[08:52:11.680] Hygeia C. Defensor**  
+Yung surrender po was last March 2025.
+
+**[08:52:17.360] Rep. Lordan G. Suan**  
+Okay, so sino pong nag-benefit sa surrender?
+
+**[08:52:22.930] Hygeia C. Defensor**  
+Yung surrender proceeds po napupunta lang sa policy owner.
+
+**[08:52:27.630] Rep. Lordan G. Suan**  
+And who is the policy owner?
+
+**[08:52:29.250] Hygeia C. Defensor**  
+Ang policy owner po si Mr. Manessis R. Carpio.
+
+**[08:52:32.810] Rep. Lordan G. Suan**  
+Okay. You also mentioned earlier that it's possible that it's not the policyholder who actually paid for it when cross-examined by the defense counsel?
+
+**[08:52:46.440] Hygeia C. Defensor**  
+The payment slip is coming from— yung payment slip po is naka-name sa policy owner.
+
+**[08:52:53.650] Rep. Lordan G. Suan**  
+Okay. No further questions, Your Honor.
+
+**[08:52:57.770] Sen. Francis "Chiz" G. Escudero**  
+Before, Senator Judge Pungin, any recross, Atty. Justin?
+
+**[08:53:01.190] Atty. Justin Nicol B. Gular**  
+Very
+
+**[08:53:01.390] Atty. Justin Nicol B. Gular**  
+short recross,
+
+**[08:53:02.190] Atty. Justin Nicol B. Gular**  
+Your Honor.
+
+**[08:53:02.290] Sen. Francis "Chiz" G. Escudero**  
+Yes, please proceed, Atty. Justin.
+
+**[08:53:04.010] Atty. Justin Nicol B. Gular**  
+Ma'am, sinabi niyo po kanina na nasauli na po yung anumang amount upon the surrender kay attorney Manases R. Carpio. Tama po ba?
+
+**[08:53:13.230] Hygeia C. Defensor**  
+Opo.
+
+**[08:53:13.810] Atty. Justin Nicol B. Gular**  
+Pag nasauli na po yung pera, syempre wala nang alam yung insurance company kung paano ginamit o ginabit ba yung pera.
+
+**[08:53:20.670] Hygeia C. Defensor**  
+Opo.
+
+**[08:53:21.370] Atty. Justin Nicol B. Gular**  
+Thank you. No further questions.
+
+**[08:53:23.110] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Pangilinan, first.
+
+**[08:53:30.180] Sen. Francis “Kiko” Pangilinan**  
+Yes, good evening.
+
+**[08:53:32.740] Hygeia C. Defensor**  
+Good evening po.
+
+**[08:53:33.900] Sen. Francis “Kiko” Pangilinan**  
+Ms. Defensor. Dalawa yung policy na sinorender.
+
+**[08:53:38.610] Sen. Francis “Kiko” Pangilinan**  
+Yung
+
+**[08:53:39.490] Sen. Francis “Kiko” Pangilinan**  
+nabangkit mo yung una, last March 2025.
+
+**[08:53:48.050] Sen. Francis “Kiko” Pangilinan**  
+Yung isa, kailan sinorender?
+
+**[08:53:50.250] Hygeia C. Defensor**  
+Pareho po,
+
+**[08:53:51.030] Hygeia C. Defensor**  
+2025.
+
+**[08:53:52.270] Sen. Francis “Kiko” Pangilinan**  
+So pag sinorender, nasa dokumento magkano yung amount?
+
+**[08:53:57.240] Hygeia C. Defensor**  
+Opo.
+
+**[08:53:58.260] Sen. Francis “Kiko” Pangilinan**  
+So how much was the...
+
+**[08:54:01.940] Sen. Francis “Kiko” Pangilinan**  
+What do you call it? Anong term? Surrender
+
+**[08:54:04.380] Hygeia C. Defensor**  
+value.
+
+**[08:54:05.300] Hygeia C. Defensor**  
+Surrender value.
+
+**[08:54:06.500] Sen. Francis “Kiko” Pangilinan**  
+Okay.
+
+**[08:54:07.640] Hygeia C. Defensor**  
+For policy number 105-178958.
+
+**[08:54:13.800] Sen. Francis "Chiz" G. Escudero**  
+Just
+
+**[08:54:14.140] Sen. Francis "Chiz" G. Escudero**  
+the ending number would suffice, Ms. AJ.
+
+**[08:54:16.660] Hygeia C. Defensor**  
+Surrender value po is 8,547.48 USD.
+
+**[08:54:22.880] Sen. Francis "Chiz" G. Escudero**  
+8,000?
+
+**[08:54:24.100] Hygeia C. Defensor**  
+Yes
+
+**[08:54:24.640] Hygeia C. Defensor**  
+po.
+
+**[08:54:25.500] Sen. Francis “Kiko” Pangilinan**  
+So yung $100,000 naging $8,000?
+
+**[08:54:29.080] Hygeia C. Defensor**  
+Yung 11-7 po.
+
+**[08:54:31.140] Sen. Francis “Kiko” Pangilinan**  
+Ah, okay. And then the other one?
+
+**[08:54:33.240] Hygeia C. Defensor**  
+The other one po, yung ending 11-7 policy number, $74,960.80 USD.
+
+**[08:54:42.060] Sen. Francis “Kiko” Pangilinan**  
+So $8,000 and $74,000, give or take a few dollars, ang total na surrender value of both. Okay, thank you.
+
+**[08:54:56.620] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Erwin Tulfo is recognized.
+
+**[08:55:08.420] Sen. Erwin Tulfo**  
+Ma'am, ilang insurance, ilang pong policies po ito lahat-lahat based sa records po ninyo?
+
+**[08:55:16.360] Hygeia C. Defensor**  
+Dalawang policy po.
+
+**[08:55:17.960] Sen. Erwin Tulfo**  
+Dalawang policy. Tapos we need draw lang, hindi po tinapos yung ika nga, yung ika nga, date or maturity, hindi na.
+
+**[08:55:30.480] Hygeia C. Defensor**  
+Hindi na po.
+
+**[08:55:31.300] Sen. Erwin Tulfo**  
+So pag wini-draw po na ganon, pag hini-tinapos, may bawas po, di po ba?
+
+**[08:55:36.300] Hygeia C. Defensor**  
+Dito po sa nakuha nilang insurance policy, ang basis lang po natin is the fund value based on the next pricing date kung kailan po na-approve yung surrender. So wala po siyang surrender charge.
+
+**[08:55:48.280] Sen. Erwin Tulfo**  
+Okay. Normal ba pag ganyang klaseng policy na yung kumukuha ng policy, wini-withdraw lang nila or mas marami sa inyong company ang Inaantay yung maturity date?
+
+**[08:56:04.040] Hygeia C. Defensor**  
+Depende po sa plan. So, normally po pag ganito na mga investment type of policy, pwede po siya ma-withdraw anytime based on the fund value.
+
+**[08:56:18.110] Sen. Erwin Tulfo**  
+Tinanong ko po ito sa ibang insurance companies din kanina. Alam naman ho ninyo yung ikang ugnaya ng tao na ito sa isang government official. Tama po ba?
+
+**[08:56:29.200] Hygeia C. Defensor**  
+Opo.
+
+**[08:56:30.060] Sen. Erwin Tulfo**  
+Alam ho ninyo yun. Okay. Hindi na ho ninyo kailangang questionin ba because siya po ay asawa. Hindi naman talaga mismo yung government official kundi asawa lang siya. So you did not bother to check anymore.
+
+**[08:56:42.900] Hygeia C. Defensor**  
+Meron po kaming know your customer na process, due diligence. So dumadaan po sa ganong verification.
+
+**[08:56:51.850] Sen. Erwin Tulfo**  
+Yeah, pero yung source of funding, never na dumaan sa kung anong nyo baka nagamit or magagamit yung inyong banko or insurance, ikang some scheme?
+
+**[08:57:03.770] Hygeia C. Defensor**  
+Sa case po, nag-require po tayo ng proof of income so nakapagsubmit naman po sila ng ITR and then nakita naman po natin kung saan yung source of income which is the law office.
+
+**[08:57:18.870] Sen. Erwin Tulfo**  
+So that was sufficient enough?
+
+**[08:57:21.390] Hygeia C. Defensor**  
+As for this policy.
+
+**[08:57:22.890] Sen. Erwin Tulfo**  
+Thank you, Madam Witness.
+
+**[08:57:24.470] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Aquino.
+
+**[08:57:31.200] Sen. Paolo Benigno “Bam” Aquino**  
+Magandang gabi, Hygieia.
+
+**[08:57:32.680] Hygeia C. Defensor**  
+Magandang gabi po.
+
+**[08:57:33.440] Sen. Paolo Benigno “Bam” Aquino**  
+This is just purely curiosity lang. Kitaka lang ako na palugi yung mga investments.
+
+**[08:57:42.320] Sen. Paolo Benigno “Bam” Aquino**  
+How long was the term that the investment was with your company?
+
+**[08:57:48.860] Hygeia C. Defensor**  
+Yung policy po kasi nag... Take effect ng 2021 tapos na-surrender po siya ng 2025.
+
+**[08:57:56.730] Sen. Paolo Benigno “Bam” Aquino**  
+So
+
+**[08:57:57.070] Sen. Paolo Benigno “Bam” Aquino**  
+over 5 years, it lost value actually. Like
+
+**[08:58:00.590] Hygeia C. Defensor**  
+4. Opo.
+
+**[08:58:01.630] Sen. Paolo Benigno “Bam” Aquino**  
+Oo. And over 4 years. And ano ba yan? Normal, if you don't know, you can say you don't know. But nagtataka lang ako. Bakit ipo-pull out na paluge? Usually kasi in my experience, hihintayin mong at least mag-break even or umakyat yung merkado para kumita ka naman.
+
+**[08:58:23.840] Sen. Paolo Benigno “Bam” Aquino**  
+Is the common practice ba, may time bound ba yan? Kinailangan bang ipull out na yung investment at the time it was pulled out or it was the choice of the policyholder?
+
+**[08:58:36.440] Hygeia C. Defensor**  
+It's always the choice naman.
+
+**[08:58:38.400] Sen. Paolo Benigno “Bam” Aquino**  
+So wala siyang set number of years? Ang common practice sa merkado ba ay tama ba ako usually tinatanggal yan kapag kumita ka na or iba-ibang rason kung bakit nagpo-pull out yung mga tao?
+
+**[08:58:52.680] Hygeia C. Defensor**  
+Depende po sa owner kung
+
+**[08:58:54.260] Hygeia C. Defensor**  
+tatanggalin o hindi.
+
+**[08:58:55.940] Sen. Paolo Benigno “Bam” Aquino**  
+Thank you.
+
+**[08:58:57.970] Sen. Francis "Chiz" G. Escudero**  
+Ms. AJ, maraming salamat po sa inyong panahon sa pagsagot sa mga katanungan at paumanhin kung naghintay po kayo kahapon at ang buong araw ngayon. Your excuse ma'am and thank you for your patience. Kindly situate the second to the last witness, Mr.
+
+**[08:59:14.200] Sen. Francis "Chiz" G. Escudero**  
+Joel Desus, to the witness stand.
+
+**[08:59:25.090] Rep. Terry L. Ridon**  
+Your Honor, one moment.
+
+**[08:59:26.810] Sen. Francis "Chiz" G. Escudero**  
+Yes, Honorable Ridon.
+
+**[08:59:29.410] Rep. Terry L. Ridon**  
+Since
+
+**[08:59:29.890] Rep. Terry L. Ridon**  
+the V.I.R. witness will not be presented anymore.
+
+**[08:59:32.550] Sen. Francis "Chiz" G. Escudero**  
+Yes, we cannot present him anymore.
+
+**[08:59:35.450] Sen. Francis "Chiz" G. Escudero**  
+It's okay. Sabina, for him, still subsists up to tomorrow, correct?
+
+**[08:59:40.950] Rep. Terry L. Ridon**  
+For her, for her.
+
+**[08:59:42.230] Sen. Francis "Chiz" G. Escudero**  
+Her, I'm sorry. Yes, for her. We can excuse her. And apologies. Kindly send the court's apologies, Honorable Ridon.
+
+**[08:59:48.860] Rep. Terry L. Ridon**  
+Alright. Thank you, Your Honor.
+
+**[08:59:51.000] Sen. Francis "Chiz" G. Escudero**  
+Clerk is directed to administer those.
+
+**[08:59:53.650] Atty. Renato N. Bantug Jr.**  
+Can you raise your right hand? You, Joel De Jesus, do swear that the evidence you shall give in the case of... Case now pending between the Philippines and Vice President Cyrus Guillermo Duterte shall be the truth, the whole truth, and nothing but the truth. So help you God.
+
+**[09:00:07.120] Joel L. De Jesus**  
+I do.
+
+**[09:00:08.080] Joel L. De Jesus**  
+I
+
+**[09:00:08.180] Joel L. De Jesus**  
+do.
+
+**[09:00:29.520] Sen. Francis "Chiz" G. Escudero**  
+You may proceed with your direct examination, Honorable Suan.
+
+**[09:00:32.500] Rep. Lordan G. Suan**  
+Thank you, Your Honor. Sir Joel, maaari niyo po bang sabihin ang inyong buong pangalan, posisyon, at ang kumpanyang inyong kinakatawan?
+
+**[09:00:42.010] Joel L. De Jesus**  
+Ako po si Joel L. De Jesus, Vice President and Head of the Customer Support Services Individual Life ng BDO Life Assurance Company, Inc.
+
+**[09:00:53.070] Rep. Lordan G. Suan**  
+Ano po ang inyong tungkulin at responsibilidad sa nasabing posisyon?
+
+**[09:00:57.610] Joel L. De Jesus**  
+I manage po the day-to-day activities of the CSS individual life team, basically on policy maintenance, which is sending out billing notices, variable life statement of accounts, letters of taxation, and then we also enroll to auto-debit and change beneficiaries. We actually transact requests from clients, from the policy owners. Like policy surrenders, partial withdrawals, dividend withdrawals,
+
+**[09:01:29.010] Joel L. De Jesus**  
+and the like.
+
+**[09:01:30.460] Rep. Lordan G. Suan**  
+So ano po yung reason kung bakit na dito kayo ngayon yung araw na to sa hukumang ito?
+
+**[09:01:36.660] Joel L. De Jesus**  
+We received po a subpoena to appear as
+
+**[09:01:40.240] Joel L. De Jesus**  
+witness.
+
+**[09:01:42.420] Rep. Lordan G. Suan**  
+Tapos ano pong mga dokumento kung meron man ang inyong isinumiti sa hukumang ito bilang tugon sa subpoena?
+
+**[09:01:49.620] Joel L. De Jesus**  
+We submitted po different documents like application form, contracts. Transaction histories, variable life, so statement
+
+**[09:01:59.120] Joel L. De Jesus**  
+of accounts.
+
+**[09:02:00.180] Rep. Lordan G. Suan**  
+So kung ipapakita po yung dokumentong yun, would you be able to recognize them?
+
+**[09:02:05.320] Joel L. De Jesus**  
+Yes, Your Honor.
+
+**[09:02:06.140] Rep. Lordan G. Suan**  
+Okay.
+
+**[09:02:09.320] Sen. Francis "Chiz" G. Escudero**  
+Mr. Joel, how many policies does the Vice President or her husband have with your company?
+
+**[09:02:14.460] Joel L. De Jesus**  
+We found two policies for policy owners Sara Zimmerman Duterte and one policy for Manassas Carpio.
+
+**[09:02:23.640] Sen. Francis "Chiz" G. Escudero**  
+So
+
+**[09:02:24.060] Sen. Francis "Chiz" G. Escudero**  
+a total of three?
+
+**[09:02:24.840] Joel L. De Jesus**  
+A total of three.
+
+**[09:02:25.540] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[09:02:26.700] Sen. Francis "Chiz" G. Escudero**  
+Your witness, honorableson.
+
+**[09:02:30.810] Rep. Lordan G. Suan**  
+We will only focus on two policies, your honor.
+
+**[09:02:34.250] Joel L. De Jesus**  
+Yes.
+
+**[09:02:35.660] Rep. Lordan G. Suan**  
+Okay. Mr. Witness, punta po tayo sa Exhibit
+
+**[09:02:42.790] Rep. Lordan G. Suan**  
+P-Roman numeral 2-8-11-1-2, BDO Life.
+
+**[09:02:51.750] Rep. Lordan G. Suan**  
+Okay po. Do you have it?
+
+**[09:02:54.250] Joel L. De Jesus**  
+Yes, sir.
+
+**[09:02:54.730] Rep. Lordan G. Suan**  
+Okay. So, kanino po nakapangalan ito?
+
+**[09:02:58.160] Joel L. De Jesus**  
+The policy owner is Sara Zimmerman Duterte.
+
+**[09:03:01.800] Rep. Lordan G. Suan**  
+Okay. Kailan po
+
+**[09:03:03.260] Rep. Lordan G. Suan**  
+kinuha
+
+**[09:03:03.680] Joel L. De Jesus**  
+ang
+
+**[09:03:03.880] Rep. Lordan G. Suan**  
+insurance investment na to?
+
+**[09:03:05.840] Joel L. De Jesus**  
+The effective date of the policy is April 28, 2014.
+
+**[09:03:10.500] Rep. Lordan G. Suan**  
+Tapos, makano po yung total insurance premium na binayad?
+
+**[09:03:14.740] Joel L. De Jesus**  
+Yung annual premium po niya is 100,000 pesos. The policy is payable for 5 years. So, the total premium payment is 500,000 pesos.
+
+**[09:03:26.920] Rep. Lordan G. Suan**  
+Okay, thank you. So, punta na naman po tayo sa exhibit B- Roman numeral 2-8-11-2-2. Okay.
+
+**[09:03:40.480] Rep. Lordan G. Suan**  
+Do
+
+**[09:03:41.100] Rep. Lordan G. Suan**  
+you have it?
+
+**[09:03:41.600] Joel L. De Jesus**  
+Yes, sir. Yes, sir.
+
+**[09:03:42.200] Rep. Lordan G. Suan**  
+Okay. So, kanino po nakapangalan ang insurance policy na ito?
+
+**[09:03:47.020] Joel L. De Jesus**  
+The policy owner
+
+**[09:03:48.380] Joel L. De Jesus**  
+is also Sara Zimmerman Duterte.
+
+**[09:03:50.820] Rep. Lordan G. Suan**  
+At kailan po kinuha?
+
+**[09:03:52.160] Joel L. De Jesus**  
+The policy effective date is April 14, 2014.
+
+**[09:03:55.840] Rep. Lordan G. Suan**  
+Tapos, magkano po yung total insurance premium na binayad?
+
+**[09:03:59.660] Joel L. De Jesus**  
+Yung annual premium po is P103,160 and the policy is payable for 5 years. So the total premium is about P515,000 pesos.
+
+**[09:04:09.960] Rep. Lordan G. Suan**  
+Okay, thank you. No further questions, Your Honor.
+
+**[09:04:13.020] Sen. Francis "Chiz" G. Escudero**  
+Attorney Justin?
+
+**[09:04:14.000] Atty. Justin Nicol B. Gular**  
+Nothing to cross, Your Honor.
+
+**[09:04:16.080] Sen. Francis "Chiz" G. Escudero**  
+If there are no interjections, Mr. Jewell, Senator Judge Kiko, pangalina niya sir.
+
+**[09:04:22.360] Sen. Francis “Kiko” Pangilinan**  
+Good
+
+**[09:04:28.400] Sen. Francis “Kiko” Pangilinan**  
+evening.
+
+**[09:04:31.260] Joel L. De Jesus**  
+Good evening, sir.
+
+**[09:04:34.280] Sen. Francis “Kiko” Pangilinan**  
+Mga policy ba na ito? Merong dividendo?
+
+**[09:04:37.940] Joel L. De Jesus**  
+Ano po? These are variable life insurance. Commonly known as investment-linked policies.
+
+**[09:04:46.640] Sen. Francis “Kiko” Pangilinan**  
+Okay. And it's still an active policy?
+
+**[09:04:48.940] Joel L. De Jesus**  
+It's still enforced po.
+
+**[09:04:50.640] Sen. Francis “Kiko” Pangilinan**  
+And how
+
+**[09:04:54.330] Sen. Francis “Kiko” Pangilinan**  
+much is the coverage?
+
+**[09:05:03.850] Joel L. De Jesus**  
+The sum assured for the first policy is 2.865,310,000 while the sum assured for the second policy is 2,877,545 pesos.
+
+**[09:05:20.550] Sen. Francis “Kiko” Pangilinan**  
+But
+
+**[09:05:21.190] Sen. Francis “Kiko” Pangilinan**  
+these were just two policies, no? Just
+
+**[09:05:24.070] Joel L. De Jesus**  
+two policies for other policy owners, Sara Zimmer, mandatory.
+
+**[09:05:28.070] Sen. Francis “Kiko” Pangilinan**  
+And for Ms. Atty. Carpio, wala?
+
+**[09:05:32.040] Joel L. De Jesus**  
+We found one policy. It's an old
+
+**[09:05:37.100] Joel L. De Jesus**  
+policy issued. Can I refer to my notes?
+
+**[09:05:40.560] Sen. Francis "Chiz" G. Escudero**  
+We
+
+**[09:05:44.400] Joel L. De Jesus**  
+also submitted this to the court.
+
+**[09:05:48.730] Joel L. De Jesus**  
+The
+
+**[09:05:51.200] Joel L. De Jesus**  
+policy was issued in December 15, 2008 under policy owner Manases Reyes Carpio.
+
+**[09:06:02.310] Joel L. De Jesus**  
+It was
+
+**[09:06:03.070] Joel L. De Jesus**  
+only paid for four quarters so it lapsed after one year.
+
+**[09:06:08.210] Sen. Francis “Kiko” Pangilinan**  
+So wala na yun?
+
+**[09:06:09.670] Joel L. De Jesus**  
+Wala na.
+
+**[09:06:10.170] Sen. Francis “Kiko” Pangilinan**  
+Now, would you know if the policyholders secured this through the bank? Because I understand they are also depositors or they have bank accounts.
+
+**[09:06:29.360] Joel L. De Jesus**  
+Your Honor, referring to the application form,
+
+**[09:06:32.540] Joel L. De Jesus**  
+it
+
+**[09:06:33.300] Joel L. De Jesus**  
+was signed at BDO Davao Rizal Branch
+
+**[09:06:36.700] Joel L. De Jesus**  
+in
+
+**[09:06:38.160] Joel L. De Jesus**  
+2014.
+
+**[09:06:40.480] Sen. Francis “Kiko” Pangilinan**  
+And what about the two active?
+
+**[09:06:44.200] Joel L. De Jesus**  
+That's for the active policy.
+
+**[09:06:47.800] Sen. Francis “Kiko” Pangilinan**  
+So it was a course through BDO?
+
+**[09:06:52.060] Joel L. De Jesus**  
+That's what I understand, sir. It was signed at the branch.
+
+**[09:06:59.260] Sen. Francis “Kiko” Pangilinan**  
+How
+
+**[09:07:01.260] Sen. Francis “Kiko” Pangilinan**  
+long have you been with BDO?
+
+**[09:07:04.500] Joel L. De Jesus**  
+I've been with BDO live since 2010.
+
+**[09:07:08.400] Sen. Francis “Kiko” Pangilinan**  
+So that's about 15 years?
+
+**[09:07:11.480] Joel L. De Jesus**  
+16
+
+**[09:07:11.880] Joel L. De Jesus**  
+years.
+
+**[09:07:12.560] Sen. Francis “Kiko” Pangilinan**  
+But
+
+**[09:07:12.880] Sen. Francis “Kiko” Pangilinan**  
+in the insurance industry?
+
+**[09:07:14.940] Joel L. De Jesus**  
+I
+
+**[09:07:15.720] Joel L. De Jesus**  
+started in the insurance industry in 1994.
+
+**[09:07:19.840] Sen. Francis “Kiko” Pangilinan**  
+So that's 32 years this year.
+
+**[09:07:27.550] Sen. Francis “Kiko” Pangilinan**  
+How would you characterize
+
+**[09:07:32.560] Sen. Francis “Kiko” Pangilinan**  
+What is the norm in terms of, if there is any, being covered by insurance of this nature? Would the average Filipino have, what, one, two, five, seven insurance policies for him and his family? Or wala, it doesn't really, there's no norm?
+
+**[09:07:57.780] Joel L. De Jesus**  
+I don't think, sir, there's a norm. But for normal, I mean for insurance company employee, maybe an employee can have three, four policies, five.
+
+**[09:08:11.100] Sen. Francis “Kiko” Pangilinan**  
+Yes, yes. So three, four policies you'd say would be like industry practice. Okay, okay. Thank you. Thank you very much. No other questions. Thank
+
+**[09:08:23.110] Sen. Francis "Chiz" G. Escudero**  
+you. Senator Just Pangilinan. There being no other interjections, Mr. Joel, salamat po sa panahon at pasensya na ginugol nyo kahapon at ngayon. Salamat din po sa pagsagot sa mga katanungan. Your excuse, sir.
+
+**[09:08:34.310] Joel L. De Jesus**  
+Okay, thank you, sir.
+
+**[09:08:36.230] Sen. Francis "Chiz" G. Escudero**  
+Our last and 15th witness for the day, and I thank everyone for your not only patience but also perseverance.
+
+**[09:08:49.460] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate Ms. Janet Amora to the witness stand.
+
+**[09:08:54.260] Atty. Justin Nicol B. Gular**  
+Your Honor.
+
+**[09:08:55.600] Sen. Francis "Chiz" G. Escudero**  
+Attorney Justin?
+
+**[09:08:56.800] Atty. Justin Nicol B. Gular**  
+Yes. To close the day, may I just turn over the podium to Attorney Lindon Miguel Bacquel, your honor.
+
+**[09:09:03.280] Sen. Francis "Chiz" G. Escudero**  
+Yes, of course. Attorney Lindon is recognized once more. Kindly, ma'am, kindly stand up. The clerk is directed to administer the oath. Kindly raise your hand, ma'am.
+
+**[09:09:14.820] Atty. Renato N. Bantug Jr.**  
+You, Janet D. Amora, do swear that the evidence you shall give in the case now pending between the Philippines and Vice President Cyrus Zimmerman Duterte shall be the truth, the whole truth, and nothing but the truth. So help you God.
+
+**[09:09:26.990] Sen. Francis "Chiz" G. Escudero**  
+Kindly answer through the mic, ma'am, so that we can record it and hear it.
+
+**[09:09:30.090] Janet D. Amora**  
+I do, sir.
+
+**[09:09:30.890] Sen. Francis "Chiz" G. Escudero**  
+Thank you, ma'am. Please sit down.
+
+**[09:09:31.990] Janet D. Amora**  
+Thank you.
+
+**[09:09:32.890] Sen. Francis "Chiz" G. Escudero**  
+Ma'am Janet, can I call you Janet?
+
+**[09:09:34.830] Janet D. Amora**  
+Yes, sir.
+
+**[09:09:35.590] Sen. Francis "Chiz" G. Escudero**  
+Ma'am Janet, naunawaan niyo po ba inyong pinanumpaan kaugnay ng inyong testimonyang bibigay sa hukumang ito?
+
+**[09:09:40.950] Janet D. Amora**  
+Opo.
+
+**[09:09:42.070] Sen. Francis "Chiz" G. Escudero**  
+Salamat po. Honorable Suan, same offer?
+
+**[09:09:45.150] Rep. Lordan G. Suan**  
+No, Your Honor. We have a different offer for this last witness considering that this is a different kind of company. This is a securities corporation.
+
+**[09:09:54.930] Sen. Francis "Chiz" G. Escudero**  
+You may proceed with your offer.
+
+**[09:09:57.200] Rep. Lordan G. Suan**  
+The testimony of Janet Amora, the duly authorized representative of BDO Securities Corporation is offered to establish the following.
+
+**[09:10:10.380] Rep. Lordan G. Suan**  
+Una, ang witness ay isang duly authorized representative ng BDO Securities Corporation at may sapat na kaalaman at otoridad upang kilalanin at patunayan ang mga record na isinumiti ng kanyang kumpanya. Pangalawa, Ang asawa ng Respondent Vice President na si Atty. Manases R. Carpio ay kumuha ng mga investments through BDO Securities Corporation noong mga taong 2021 hanggang 2024 na may total acquisition cost na P25,500,000 at ang nasabing investments ay nananatiling nasa pangalan niya hanggang sa kasalukuyan. Pangatlo Si Atty. Carpio ay kumuha ng mga investments sa BDO Nomura Securities noong mga taong 2020 hanggang 2025 na may total acquisition cost na 4,254,987.61. At ang nasabing investments ay nananatiling nasa pangalan niya hanggang sa kasalukuyan.
+
+**[09:11:24.260] Rep. Lordan G. Suan**  
+Fourth, Atty. Carpio's investments totaling at least 29.75 million pesos allegedly exceed the 10.86 million pesos in other assets attributed to him in the Respondent Vice President's 2025 SALN. Panghuli, upang patunayan ang authenticity at due execution ng mga kaugnay na records na may kinalaman sa nasabing mga investment at patunayan Lahat ng mga bagay na may kinalaman sa articles of impeachment na kaugnay ng aking mga nasabi.
+
+**[09:12:28.910] Sen. Francis "Chiz" G. Escudero**  
+You may proceed. Sorry, in
+
+**[09:12:30.710] Sen. Francis "Chiz" G. Escudero**  
+the comment and objection of the counsel is noted accordingly. Kindly proceed, Honorable Suan, sans, or without the referral to the SALN given that the witness will not be competent to answer questions pertaining to that. You may proceed, sir, with your direct...
+
+**[09:12:47.350] Rep. Lordan G. Suan**  
+Your Honor, may we be clarified as to which was expunged? The
+
+**[09:12:51.370] Sen. Francis "Chiz" G. Escudero**  
+reference to SALN. If you ask the witness to total it, then she can total it later if she can compute it. But the reference to it not matching to the declared personal properties, same with the first insurance witness that you presented, Honorable Suan.
+
+**[09:13:06.890] Rep. Lordan G. Suan**  
+Yes, Your Honor.
+
+**[09:13:07.790] Sen. Francis "Chiz" G. Escudero**  
+Kindly proceed,
+
+**[09:13:08.790] Sen. Francis "Chiz" G. Escudero**  
+Honorable Suan.
+
+**[09:13:09.630] Rep. Lordan G. Suan**  
+Thank you, Your Honor. Ms. Janet, maaari niyo po bang sabihin ang inyong buong pangalan, posisyon, at ang kumpanyang inyong kinakatawan?
+
+**[09:13:19.610] Janet D. Amora**  
+Okay, I'm Janet Amora, Vice President, Operations Head for BDO Securities Corporation.
+
+**[09:13:26.470] Rep. Lordan G. Suan**  
+Ano po, Ms. Janet, ang inyong mga tungkulin at responsibilidad sa nasabing posisyon sa kasalukuyang kumpanya?
+
+**[09:13:33.730] Janet D. Amora**  
+Operations team is in charge of trades, processing, and settlements.
+
+**[09:13:40.340] Rep. Lordan G. Suan**  
+Ano po ang dahilan kung bakit nandito kayo ngayon sa hukumang ito?
+
+**[09:13:44.140] Janet D. Amora**  
+To authenticate the records and documents submitted to this court.
+
+**[09:13:50.280] Rep. Lordan G. Suan**  
+Bakit po kayo nagsubmit ng dokumento dito?
+
+**[09:13:53.660] Janet D. Amora**  
+Because we received a subpoena from the
+
+**[09:13:56.140] Rep. Lordan G. Suan**  
+Senate.
+
+**[09:13:58.200] Rep. Lordan G. Suan**  
+Okay. So, punta
+
+**[09:14:04.020] Rep. Lordan G. Suan**  
+po tayo sa CARPIMAR Investments. So, kindly take a look at Exhibit No. P-R2-8-12-2-4-2 BDO Sec.
+
+**[09:14:20.660] Janet D. Amora**  
+Okay.
+
+**[09:14:21.620] Rep. Lordan G. Suan**  
+Do you have it?
+
+**[09:14:23.000] Janet D. Amora**  
+Opo.
+
+**[09:14:24.590] Rep. Lordan G. Suan**  
+Base po sa dokumentong yan, kanino po nakapangalan ng mga investments na nakasaad dito?
+
+**[09:14:32.350] Janet D. Amora**  
+Nakapangalan po kay Manases R. Carpio.
+
+**[09:14:37.180] Rep. Lordan G. Suan**  
+So Ms. Janet, may entry po dito na October 11, 2021.
+
+**[09:14:45.330] Rep. Lordan G. Suan**  
+Ano pong ibig sabihin nito?
+
+**[09:14:47.820] Janet D. Amora**  
+Full subscription po, meaning bumili po siya ng IPO shares ng Jollibee. Preferred.
+
+**[09:14:55.730] Rep. Lordan G. Suan**  
+Makano po yung binayad niya para dito sa shares?
+
+**[09:14:58.750] Janet D. Amora**  
+3 million pesos.
+
+**[09:15:00.770] Rep. Lordan G. Suan**  
+Okay. So, isang bagsakan lang po ba ito?
+
+**[09:15:04.900] Janet D. Amora**  
+Opo.
+
+**[09:15:07.070] Rep. Lordan G. Suan**  
+So, may entry na naman po dito sa November 24, 2021.
+
+**[09:15:15.250] Rep. Lordan G. Suan**  
+Ano pong ibig sabihin ito, Ms. Janet?
+
+**[09:15:18.330] Janet D. Amora**  
+Pumili po siya ulit ng Arthaland IPO shares.
+
+**[09:15:24.040] Atty. Lindon Miguel C. Bacquel**  
+So... Your Honor.
+
+**[09:15:26.240] Sen. Francis "Chiz" G. Escudero**  
+Ah, Attorney Lennon?
+
+**[09:15:27.410] Atty. Lindon Miguel C. Bacquel**  
+I think the document would speak for itself, Your Honor.
+
+**[09:15:30.970] Sen. Francis "Chiz" G. Escudero**  
+We note your objection, your comment. Is that an objection, Atty. Lindon?
+
+**[09:15:35.670] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor.
+
+**[09:15:37.210] Sen. Francis "Chiz" G. Escudero**  
+We'll allow it.
+
+**[09:15:40.610] Sen. Francis "Chiz" G. Escudero**  
+Objection is over. Kindly answer the question, Ms. Janet.
+
+**[09:15:47.110] Janet D. Amora**  
+Bumili po yung client namin ng Arthaland IPO shares noong November 24, 2021 amounting to 5 million pesos.
+
+**[09:15:57.430] Rep. Lordan G. Suan**  
+5 million pesos. Isang bagsakan lang po?
+
+**[09:15:59.890] Janet D. Amora**  
+Isa lang po.
+
+**[09:16:01.070] Rep. Lordan G. Suan**  
+Ng mga shares?
+
+**[09:16:02.610] Janet D. Amora**  
+Opo.
+
+**[09:16:03.330] Rep. Lordan G. Suan**  
+Okay. So, Ms. Janet,
+
+**[09:16:06.690] Janet D. Amora**  
+in
+
+**[09:16:07.790] Rep. Lordan G. Suan**  
+a span of one and a half months, mula October 11, 2021 hanggang November 24, 2021, magkano ang total na binayad po ng asawa ng Vice President?
+
+**[09:16:23.320] Janet D. Amora**  
+Total of 8 million.
+
+**[09:16:25.100] Rep. Lordan G. Suan**  
+8 million pesos. Okay. So, punta naman po tayo dito sa June 30, 2022.
+
+**[09:16:37.050] Rep. Lordan G. Suan**  
+Ano pong ibig sabihin ito?
+
+**[09:16:39.710] Janet D. Amora**  
+Bumili naman po siya ng Ali Bonds.
+
+**[09:16:43.110] Rep. Lordan G. Suan**  
+Ano po yung Ali Bonds?
+
+**[09:16:46.210] Janet D. Amora**  
+Dalawa po kasi yung products ni BDO Securities. Meron po kaming equities, meaning shares and stocks, and meron din pong fixed income or bonds.
+
+**[09:16:55.630] Rep. Lordan G. Suan**  
+Okay. So, magkano po yung binayad para sa Ali Bonds?
+
+**[09:17:00.900] Janet D. Amora**  
+3
+
+**[09:17:01.240] Janet D. Amora**  
+million pesos.
+
+**[09:17:02.780] Rep. Lordan G. Suan**  
+Isang bagsakan?
+
+**[09:17:04.380] Janet D. Amora**  
+Isa lang
+
+**[09:17:04.660] Janet D. Amora**  
+din po.
+
+**[09:17:05.180] Rep. Lordan G. Suan**  
+Okay.
+
+**[09:17:07.580] Rep. Lordan G. Suan**  
+So, punta naman po tayo sa July 22, 2022.
+
+**[09:17:12.740] Janet D. Amora**  
+Okay po.
+
+**[09:17:14.900] Rep. Lordan G. Suan**  
+So, ano pong ibig sabihin ito, Ms. Janet?
+
+**[09:17:17.700] Janet D. Amora**  
+Bumili po ulit siya ng San Miguel Bonds worth 2 million pesos.
+
+**[09:17:22.820] Rep. Lordan G. Suan**  
+Ah,
+
+**[09:17:23.460] Rep. Lordan G. Suan**  
+sorry, 2.5. 2
+
+**[09:17:25.000] Rep. Lordan G. Suan**  
+.5 million pesos. Isang bagsakan?
+
+**[09:17:27.660] Janet D. Amora**  
+Eh, opo.
+
+**[09:17:28.660] Rep. Lordan G. Suan**  
+Okay, so Ms. Janet, in less than a month or from June 30, 2022 to July 22, 2022, magkano po ang inilabas o binayat ng asawa ng ating Vice President?
+
+**[09:17:46.000] Janet D. Amora**  
+So that would be 8 million plus 5.5, so 13.5 million.
+
+**[09:17:52.040] Rep. Lordan G. Suan**  
+Hindi, yun lang muna sa June 30
+
+**[09:17:54.920] Janet D. Amora**  
+hanggang
+
+**[09:17:56.480] Rep. Lordan G. Suan**  
+July 22.
+
+**[09:17:57.520] Janet D. Amora**  
+June 30, 5.5 million.
+
+**[09:18:00.800] Rep. Lordan G. Suan**  
+So kung ito talahat-lahat, 13.5.
+
+**[09:18:04.700] Janet D. Amora**  
+Okay,
+
+**[09:18:05.640] Rep. Lordan G. Suan**  
+thank you po.
+
+**[09:18:08.220] Rep. Lordan G. Suan**  
+So punta naman po tayo sa exhibit P-Roman numeral 2-8-12-2-2-1. Video sec.
+
+**[09:18:19.940] Rep. Lordan G. Suan**  
+Do
+
+**[09:18:25.600] Rep. Lordan G. Suan**  
+you have it?
+
+**[09:18:26.340] Janet D. Amora**  
+Opo.
+
+**[09:18:27.610] Rep. Lordan G. Suan**  
+So pagpatingin po dito sa my payment for net of. Ano pong ibig sabihin yan?
+
+**[09:18:37.290] Janet D. Amora**  
+The document po is an official receipt, meaning proof of payment from the client.
+
+**[09:18:44.590] Rep. Lordan G. Suan**  
+Makano po yung?
+
+**[09:18:46.050] Janet D. Amora**  
+5 million pesos.
+
+**[09:18:48.230] Rep. Lordan G. Suan**  
+5 million. Ano pong nakalagay? May mga numbers po kasi, tsaka mga words.
+
+**[09:18:53.530] Janet D. Amora**  
+Description po
+
+**[09:18:54.310] Janet D. Amora**  
+siya ng bonds na binili po nung client.
+
+**[09:18:57.570] Rep. Lordan G. Suan**  
+Description ng bonds. So ano po itong 6.5635%?
+
+**[09:19:04.690] Janet D. Amora**  
+Ito po yung interest rate nung bond na binili niya.
+
+**[09:19:08.070] Rep. Lordan G. Suan**  
+Yung bond na binili, lalaki yan.
+
+**[09:19:09.910] Janet D. Amora**  
+Interest earning siya, ang rate is 6.56 something.
+
+**[09:19:13.830] Rep. Lordan G. Suan**  
+Per annum?
+
+**[09:19:14.870] Janet D. Amora**  
+Per annum.
+
+**[09:19:16.250] Rep. Lordan G. Suan**  
+Okay.
+
+**[09:19:17.610] Rep. Lordan G. Suan**  
+So itong halagang 5M po, Ms. Janet, isang bagsakan lang na naman.
+
+**[09:19:22.580] Janet D. Amora**  
+Opo.
+
+**[09:19:23.480] Rep. Lordan G. Suan**  
+Okay. So punta na naman po tayo sa exhibit P-Roman numeral 2-8-12-2-2-2.
+
+**[09:19:37.740] Rep. Lordan G. Suan**  
+So, meron na namang payment for net of. Magkano po yung nakalagay dito?
+
+**[09:19:44.380] Janet D. Amora**  
+Five million pesos.
+
+**[09:19:46.380] Rep. Lordan G. Suan**  
+Okay.
+
+**[09:19:48.840] Rep. Lordan G. Suan**  
+Kanino po nakapangalan nito, Ms. Janet?
+
+**[09:19:51.280] Janet D. Amora**  
+Kay Manases R. Carpio.
+
+**[09:19:53.160] Rep. Lordan G. Suan**  
+At isang bagsakan lang to?
+
+**[09:19:55.180] Janet D. Amora**  
+Opo.
+
+**[09:19:55.980] Rep. Lordan G. Suan**  
+Yung bayad. Okay. So, let's go to exhibit P-Roman numeral 2-8-12-2-2-3. Video sec.
+
+**[09:20:14.120] Rep. Lordan G. Suan**  
+So, punta po tayo sa yung may payment for net of. Magkano pong halaga ang nakalagay?
+
+**[09:20:22.880] Janet D. Amora**  
+2 million pesos.
+
+**[09:20:24.510] Rep. Lordan G. Suan**  
+Kanino po nakapangalan?
+
+**[09:20:26.230] Janet D. Amora**  
+Kay Manases R. Carpio.
+
+**[09:20:28.290] Rep. Lordan G. Suan**  
+Ano po yung petsa ng resibo?
+
+**[09:20:32.250] Janet D. Amora**  
+October 30, 2024.
+
+**[09:20:35.530] Rep. Lordan G. Suan**  
+So, itong halaga na 2M, 2 million pesos. Isang bagsakan lang to.
+
+**[09:20:40.030] Janet D. Amora**  
+Opo.
+
+**[09:20:40.610] Rep. Lordan G. Suan**  
+Okay. So, Ms. Witness, ano na po ang total ng investments ng mga resibo na to? After sa 13.5 million.
+
+**[09:20:50.120] Rep. Lordan G. Suan**  
+Plus 12
+
+**[09:20:51.000] Janet D. Amora**  
+million.
+
+**[09:20:51.900] Rep. Lordan G. Suan**  
+12 million po. Okay.
+
+**[09:20:56.940] Rep. Lordan G. Suan**  
+So, ano po, base sa mga records nyo, ano po kung meron man ang pinapakita ng mga records regarding sa status, present status ng mga investments na yan?
+
+**[09:21:10.330] Janet D. Amora**  
+Meron po siyang total purchases ng equities and bonds pero meron din naman pong mga na-redeem na or nag-mature.
+
+**[09:21:18.790] Rep. Lordan G. Suan**  
+Nag
+
+**[09:21:19.530] Rep. Lordan G. Suan**  
+-mature?
+
+**[09:21:20.090] Janet D. Amora**  
+Opo.
+
+**[09:21:20.640] Rep. Lordan G. Suan**  
+So yung iba?
+
+**[09:21:22.640] Janet D. Amora**  
+Yung iba po outstanding. Opo.
+
+**[09:21:25.510] Rep. Lordan G. Suan**  
+Okay.
+
+**[09:21:26.850] Janet D. Amora**  
+Yung 12.5 million po outstanding siya as of December 31, 2025.
+
+**[09:21:36.410] Rep. Lordan G. Suan**  
+Okay. So punta naman tayo sa Exhibit
+
+**[09:21:41.700] Rep. Lordan G. Suan**  
+P
+
+**[09:21:42.900] Rep. Lordan G. Suan**  
+-Roman numeral 2-8-12-3-5, Biliosec. This is our last document.
+
+**[09:21:52.580] Rep. Lordan G. Suan**  
+So, base po sa dokumentong ito, kanino po nakapangalan ng mga investments na nakasaad dito?
+
+**[09:22:00.670] Janet D. Amora**  
+Kay Manases Reyes Carpio.
+
+**[09:22:05.000] Rep. Lordan G. Suan**  
+Okay, punta po tayo sa page 12.
+
+**[09:22:10.090] Rep. Lordan G. Suan**  
+...
+
+**[09:22:20.720] Rep. Lordan G. Suan**  
+OK meron po dito may kahon. May nakalagay na ending security position.
+
+**[09:22:29.490] Rep. Lordan G. Suan**  
+Ms. Janet, ano pong nakalagay dito?
+
+**[09:22:32.460] Janet D. Amora**  
+Ito po yung total na outstanding position ng client as of December 31, 2025.
+
+**[09:22:38.380] Rep. Lordan G. Suan**  
+Ano pong ibig sabihin yan?
+
+**[09:22:39.600] Janet D. Amora**  
+Ito po yung kasalukuyang hawak na investments dito sa mga nakasulat na stocks.
+
+**[09:22:45.740] Janet D. Amora**  
+Iba-ibay
+
+**[09:22:46.820] Janet D. Amora**  
+po siya.
+
+**[09:22:49.920] Janet D. Amora**  
+ASEN, Corp, BDO Unibank, DITO, International Container, Jollibee, Manila Broadcasting, San Miguel Corp, and Vistaland.
+
+**[09:22:59.060] Rep. Lordan G. Suan**  
+Okay. So, makano po ang acquisition cost nito, Ms. Janet?
+
+**[09:23:06.400] Janet D. Amora**  
+Makikita lang po yung acquisition cost at the time na pinurchase. Ito pong nasa ending balance ang nandito po, valuation. May market value po, meaning whatever is the closing price, Of the shares of stock as of December 31, that's the market value. Pero hindi po ito yung acquisition cost.
+
+**[09:23:26.580] Rep. Lordan G. Suan**  
+Okay. So may kaugnayan ba yung market value sa acquisition cost? Malapit lang ba yan?
+
+**[09:23:32.200] Janet D. Amora**  
+Depende po kung kailan binili yung stock. Most of the time po magkaiba sila kesa dun sa market valuation. So pwedeng yung market valuation mas mababa or mas mataas kesa dun sa purchase price.
+
+**[09:23:46.360] Rep. Lordan G. Suan**  
+Okay. So kung... Magkano po yung market value ng lahat ng securities na to?
+
+**[09:23:53.270] Janet D. Amora**  
+Based po dito sa document na to, around 5 million, 5.3 million.
+
+**[09:23:58.930] Rep. Lordan G. Suan**  
+Okay. So ano naman po ang pinapakita ng record na yan regarding sa kasulukuyang status ng mga investments na yan?
+
+**[09:24:09.890] Janet D. Amora**  
+Outstanding po siya, meaning nasa position pa rin ni client.
+
+**[09:24:13.490] Rep. Lordan G. Suan**  
+Okay. So parang online pa rin?
+
+**[09:24:15.630] Janet D. Amora**  
+Opo.
+
+**[09:24:17.470] Janet D. Amora**  
+Meaning the client
+
+**[09:24:18.650] Janet D. Amora**  
+has custody of the shares actually.
+
+**[09:24:21.710] Rep. Lordan G. Suan**  
+So
+
+**[09:24:22.650] Rep. Lordan G. Suan**  
+all in all, magkano po yung total acquisition cost ng lahat ng mga investments na to?
+
+**[09:24:31.520] Atty. Lindon Miguel C. Bacquel**  
+As you answered,
+
+**[09:24:32.500] Atty. Lindon Miguel C. Bacquel**  
+your honor.
+
+**[09:24:33.460] Sen. Francis "Chiz" G. Escudero**  
+Let the witness
+
+**[09:24:35.180] Sen. Francis "Chiz" G. Escudero**  
+answer, counsel. He's winding up. Please, Ms. Janet. Sumaganda po ba kayo?
+
+**[09:24:42.580] Janet D. Amora**  
+Yung purchase cost po ng mga to is makikita po dun sa complete ledger. So, wala pong grand total dito.
+
+**[09:24:51.620] Rep. Lordan G. Suan**  
+Add na lang po natin.
+
+**[09:24:53.660] Janet D. Amora**  
+Ay, sige. Can I refer to my notes?
+
+**[09:24:57.560] Sen. Francis "Chiz" G. Escudero**  
+Ma'am, you can refer to your documents. Yes.
+
+**[09:25:07.140] Janet D. Amora**  
+Total
+
+**[09:25:14.130] Janet D. Amora**  
+purchases po as of December 31, 2025, that's for the period covered 2020 to 2025 amount to
+
+**[09:25:26.380] Janet D. Amora**  
+For equities only is 12,945,117.53. And for the bonds naman po, total subscriptions amounting to 22.5 million. Pero as I've mentioned kanina, may mga redemptions. So the only outstanding balance for the bonds is only 12 million. 12
+
+**[09:25:49.480] Janet D. Amora**  
+million
+
+**[09:25:50.660] Janet D. Amora**  
+plus yung outstanding... Equities position na 13 million. So that's the total
+
+**[09:25:57.290] Janet D. Amora**  
+of 25
+
+**[09:25:58.410] Janet D. Amora**  
+million.
+
+**[09:25:59.290] Rep. Lordan G. Suan**  
+12 million plus 13
+
+**[09:26:01.190] Rep. Lordan G. Suan**  
+million?
+
+**[09:26:02.030] Janet D. Amora**  
+12 million for the bonds and 13 million for the equities. So that's the total of 25 million.
+
+**[09:26:09.490] Rep. Lordan G. Suan**  
+Okay.
+
+**[09:26:10.270] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, can I just be given a moment to examine the document perused by the witness, Your Honor?
+
+**[09:26:17.970] Sen. Francis "Chiz" G. Escudero**  
+Please, you may do so.
+
+**[09:26:27.070] Sen. Francis "Chiz" G. Escudero**  
+I
+
+**[09:26:27.590] Sen. Francis "Chiz" G. Escudero**  
+believe that came from the witness.
+
+**[09:27:00.000] Janet D. Amora**  
+Yes,
+
+**[09:27:09.380] Sen. Francis "Chiz" G. Escudero**  
+attorney Lindon.
+
+**[09:27:13.350] Atty. Lindon Miguel C. Bacquel**  
+We will just manifest your honor that The document being perused by the witness appears to be a tabulation, your honor, upon which no basis has been laid by the prosecution, your honor.
+
+**[09:27:31.560] Sen. Francis "Chiz" G. Escudero**  
+Yes, although on the record, the court allowed her to look into her notes. And yes, we confirm that has not yet been identified by the witness, although she was asked about totals already. Kindly proceed, honorable Suan.
+
+**[09:27:48.330] Rep. Lordan G. Suan**  
+No further questions, Your
+
+**[09:27:49.670] Rep. Lordan G. Suan**  
+Honor.
+
+**[09:27:50.280] Sen. Francis "Chiz" G. Escudero**  
+Attorney Lindon, cross.
+
+**[09:27:52.600] Atty. Lindon Miguel C. Bacquel**  
+A few questions, Your Honor.
+
+**[09:27:54.220] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir.
+
+**[09:27:55.580] Atty. Lindon Miguel C. Bacquel**  
+Good evening, ma'am.
+
+**[09:27:56.840] Janet D. Amora**  
+Good evening, po.
+
+**[09:27:57.480] Atty. Lindon Miguel C. Bacquel**  
+Ma'am, the accounts you identified are all under the name of Manases R. Carpio, correct ma'am?
+
+**[09:28:03.820] Janet D. Amora**  
+Yes po.
+
+**[09:28:04.820] Atty. Lindon Miguel C. Bacquel**  
+And when a person opens a securities account in BDO Securities or acquires bonds or equities,
+
+**[09:28:15.880] Atty. Lindon Miguel C. Bacquel**  
+You do not inform the account holder spouse, correct?
+
+**[09:28:23.370] Janet D. Amora**  
+With regards to onboarding, are you referring to the onboarding process?
+
+**[09:28:27.470] Atty. Lindon Miguel C. Bacquel**  
+Pagbili lang po ng equities and bonds, kailangan ba ng consent ng asawa niya?
+
+**[09:28:34.280] Janet D. Amora**  
+The account po is opened singly, meaning walang co-owner. Therefore, the invoice or the trade confirmation will be sent directly to the account holder, which is Manas
+
+**[09:28:46.040] Janet D. Amora**  
+Scorpio.
+
+**[09:28:46.880] Atty. Lindon Miguel C. Bacquel**  
+So kahit po mag-a-acquire ng equities or bonds, hindi po nai-inform yung spouse ng isang account holder?
+
+**[09:28:53.860] Janet D. Amora**  
+Hindi po.
+
+**[09:28:53.900] Atty. Lindon Miguel C. Bacquel**  
+Kung
+
+**[09:28:53.940] Janet D. Amora**  
+sino lang po yung account holder.
+
+**[09:28:55.940] Atty. Lindon Miguel C. Bacquel**  
+And would you confirm, ma'am, that the document submitted, your BDO security submitted to this court? would not show that the vice president is aware of the accounts opened, equities and bonds acquired by Manases R. Carpio. Correct ma'am?
+
+**[09:29:18.500] Janet D. Amora**  
+I cannot answer whether the vice president is aware of the investments.
+
+**[09:29:23.060] Atty. Lindon Miguel C. Bacquel**  
+I'm asking based on the documents.
+
+**[09:29:24.580] Janet D. Amora**  
+Based on records, the account is opened singly, no joint co-owner.
+
+**[09:29:31.170] Atty. Lindon Miguel C. Bacquel**  
+So,
+
+**[09:29:31.770] Janet D. Amora**  
+therefore, it is only Manassas.
+
+**[09:29:33.410] Atty. Lindon Miguel C. Bacquel**  
+And your records, which you submitted to this honorable court, you confirm does not contain any signature of the vice president. Correct, ma'am?
+
+**[09:29:41.510] Janet D. Amora**  
+Correct.
+
+**[09:29:42.770] Atty. Lindon Miguel C. Bacquel**  
+No further questions, ma'am.
+
+**[09:29:45.270] Sen. Francis "Chiz" G. Escudero**  
+Redirect, honorable Suan?
+
+**[09:29:47.010] Rep. Lordan G. Suan**  
+No redirect, your honor, but we have a manifestation.
+
+**[09:29:51.210] Sen. Francis "Chiz" G. Escudero**  
+Regarding, can we excuse the witness? Is it in relation to the witness?
+
+**[09:29:55.290] Rep. Lordan G. Suan**  
+Yes, your honor. We would like to request for a marking of the document that she...
+
+**[09:30:00.000] Sen. Francis "Chiz" G. Escudero**  
+Red, the total?
+
+**[09:30:02.800] Sen. Francis "Chiz" G. Escudero**  
+Yes. At the proper time, you can mark it. We don't need to do it in open court.
+
+**[09:30:10.040] Rep. Lordan G. Suan**  
+Thank you, Your Honor.
+
+**[09:30:11.570] Sen. Francis "Chiz" G. Escudero**  
+So, ordered.
+
+**[09:30:15.400] Sen. Francis "Chiz" G. Escudero**  
+Ms. Janet, salamat po. Wala na pong katanungan sa inyo. Paumanhin kung naghintay kayo ng buong araw kahapon at buong araw ngayon. Salamat po sa pasensya, panahon, at pagsagot sa mga katanungan ng magkabilang panig. You are excused, ma'am, and thank you for your time.
+
+**[09:30:29.280] Janet D. Amora**  
+Thank you po.
+
+**[09:30:31.370] Sen. Francis "Chiz" G. Escudero**  
+It's 7.24. It's our longest day and we went through 15, a total of 15 witnesses and dispensed with 4, if I'm not mistaken. Senator Judge Kiko is recognized.
+
+**[09:30:43.750] Sen. Francis "Chiz" G. Escudero**  
+What is
+
+**[09:30:46.710] Sen. Francis "Chiz" G. Escudero**  
+your pleasure, sir?
+
+**[09:30:47.510] Sen. Francis “Kiko” Pangilinan**  
+Just wanted to check if the Senate President has the complete number of insurance policies.
+
+**[09:30:57.670] Sen. Francis “Kiko” Pangilinan**  
+We
+
+**[09:30:58.310] Sen. Francis “Kiko” Pangilinan**  
+started at 11. I mean, when I first It was 11. There were 3 other witnesses. So the total number of insurance policies?
+
+**[09:31:12.960] Sen. Sherwin T. Gatchalian**  
+According to our clerk of court is 19 insurance policies. Excluding the shares and bonds that were manifested earlier.
+
+**[09:31:25.280] Sen. Francis “Kiko” Pangilinan**  
+19. Okay. For the record. Thank you.
+
+**[09:31:28.790] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Due to the lateness of the hour and the long day, again, Chair would like to thank everyone for their patience and perseverance. We shall suspend trial until tomorrow at 10 a.m.

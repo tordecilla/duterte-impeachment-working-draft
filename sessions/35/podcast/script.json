@@ -1,0 +1,5371 @@
+{
+  "description": "A source-linked English overview of bank, insurance and securities testimony, transaction signatures and the court's questioning limits.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for October 7, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00679",
+          "start_seconds": 11331.62,
+          "clock": "03:08:51",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00681",
+          "start_seconds": 11346.44,
+          "clock": "03:09:06",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00693",
+          "start_seconds": 11446.92,
+          "clock": "03:10:46",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00732",
+          "start_seconds": 11787.21,
+          "clock": "03:16:27",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01168D",
+          "start_seconds": 15444.99,
+          "clock": "04:17:24",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01169",
+          "start_seconds": 15445.79,
+          "clock": "04:17:25",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01170B",
+          "start_seconds": 15454.11,
+          "clock": "04:17:34",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01172B",
+          "start_seconds": 15462.47,
+          "clock": "04:17:42",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01179F",
+          "start_seconds": 15609.71,
+          "clock": "04:20:09",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01179H",
+          "start_seconds": 15617.74,
+          "clock": "04:20:17",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01179J",
+          "start_seconds": 15629.66,
+          "clock": "04:20:29",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00822",
+          "start_seconds": 12651.3,
+          "clock": "03:30:51",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00824",
+          "start_seconds": 12679.53,
+          "clock": "03:31:19",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00837",
+          "start_seconds": 12817.47,
+          "clock": "03:33:37",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00841",
+          "start_seconds": 12878.95,
+          "clock": "03:34:38",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00850",
+          "start_seconds": 12934.31,
+          "clock": "03:35:34",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00860",
+          "start_seconds": 13061.32,
+          "clock": "03:37:41",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00862",
+          "start_seconds": 13098.46,
+          "clock": "03:38:18",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01128",
+          "start_seconds": 15136.27,
+          "clock": "04:12:16",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01136",
+          "start_seconds": 15192.82,
+          "clock": "04:13:12",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01145",
+          "start_seconds": 15273.06,
+          "clock": "04:14:33",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00664D",
+          "start_seconds": 11205.71,
+          "clock": "03:06:45",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00665",
+          "start_seconds": 11221.76,
+          "clock": "03:07:01",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00668",
+          "start_seconds": 11252.62,
+          "clock": "03:07:32",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00949",
+          "start_seconds": 13932.31,
+          "clock": "03:52:12",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00966MF2",
+          "start_seconds": 14043.85,
+          "clock": "03:54:03",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01003",
+          "start_seconds": 14342.71,
+          "clock": "03:59:02",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01661",
+          "start_seconds": 19306.82,
+          "clock": "05:21:46",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01137",
+          "start_seconds": 15220.22,
+          "clock": "04:13:40",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01146",
+          "start_seconds": 15282.34,
+          "clock": "04:14:42",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01156B",
+          "start_seconds": 15369.41,
+          "clock": "04:16:09",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S02411",
+          "start_seconds": 25998.78,
+          "clock": "07:13:18",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02412",
+          "start_seconds": 26047.52,
+          "clock": "07:14:07",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02413",
+          "start_seconds": 26090.64,
+          "clock": "07:14:50",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02414",
+          "start_seconds": 26114.55,
+          "clock": "07:15:14",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02415",
+          "start_seconds": 26241.2,
+          "clock": "07:17:21",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02424",
+          "start_seconds": 26371.94,
+          "clock": "07:19:31",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02426",
+          "start_seconds": 26469.52,
+          "clock": "07:21:09",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03354",
+          "start_seconds": 32985.15,
+          "clock": "09:09:45",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03356",
+          "start_seconds": 32997.2,
+          "clock": "09:09:57",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03357",
+          "start_seconds": 33010.38,
+          "clock": "09:10:10",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03358",
+          "start_seconds": 33084.26,
+          "clock": "09:11:24",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03362",
+          "start_seconds": 33167.35,
+          "clock": "09:12:47",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03364",
+          "start_seconds": 33186.89,
+          "clock": "09:13:06",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S01174C",
+          "start_seconds": 15493.86,
+          "clock": "04:18:13",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01176",
+          "start_seconds": 15532.97,
+          "clock": "04:18:52",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01179C",
+          "start_seconds": 15579.16,
+          "clock": "04:19:39",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01179E",
+          "start_seconds": 15593.4,
+          "clock": "04:19:53",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01179I",
+          "start_seconds": 15619.6,
+          "clock": "04:20:19",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01265",
+          "start_seconds": 16350.89,
+          "clock": "04:32:30",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01265C",
+          "start_seconds": 16380.54,
+          "clock": "04:33:00",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01275",
+          "start_seconds": 16442.84,
+          "clock": "04:34:02",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01438",
+          "start_seconds": 17719.46,
+          "clock": "04:55:19",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01442",
+          "start_seconds": 17765.58,
+          "clock": "04:56:05",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00669",
+          "start_seconds": 11277.52,
+          "clock": "03:07:57",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00809",
+          "start_seconds": 12526.75,
+          "clock": "03:28:46",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01711",
+          "start_seconds": 19676.65,
+          "clock": "05:27:56",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01713",
+          "start_seconds": 19768.77,
+          "clock": "05:29:28",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01715",
+          "start_seconds": 19773.33,
+          "clock": "05:29:33",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        }
+      ],
+      "heading": "The central dispute",
+      "id": "P002",
+      "kind": "finding",
+      "text": "Marwin L. Galvez, Division Head for Central Metro Manila Branches of the Bank of the Philippine Islands, gave the day's principal sustained testimony. He explained subpoenaed records, rather than accounts he had personally handled. The long financial-evidence day moved from bank balances and manager's checks to insurance policies and securities.\n\nThe prosecution sought to trace money and support alleged under-declaration. The defense tested whether those records established Vice President Sara Duterte's participation or knowledge."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00061",
+          "start_seconds": 812.63,
+          "clock": "00:13:32",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00062B",
+          "start_seconds": 816.61,
+          "clock": "00:13:36",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 843.88,
+          "clock": "00:14:03",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00073",
+          "start_seconds": 896.59,
+          "clock": "00:14:56",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00075",
+          "start_seconds": 910.22,
+          "clock": "00:15:10",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00078",
+          "start_seconds": 935.96,
+          "clock": "00:15:35",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00080",
+          "start_seconds": 951.79,
+          "clock": "00:15:51",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00083",
+          "start_seconds": 973.83,
+          "clock": "00:16:13",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00085",
+          "start_seconds": 988.85,
+          "clock": "00:16:28",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00087",
+          "start_seconds": 1003.37,
+          "clock": "00:16:43",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00088C",
+          "start_seconds": 1013.45,
+          "clock": "00:16:53",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00089",
+          "start_seconds": 1023.64,
+          "clock": "00:17:03",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 851.35,
+          "clock": "00:14:11",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00113",
+          "start_seconds": 1161.23,
+          "clock": "00:19:21",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S00121D",
+          "start_seconds": 1217.93,
+          "clock": "00:20:17",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S00170",
+          "start_seconds": 1581.48,
+          "clock": "00:26:21",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00176",
+          "start_seconds": 1609.3,
+          "clock": "00:26:49",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00180",
+          "start_seconds": 1642.88,
+          "clock": "00:27:22",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00182",
+          "start_seconds": 1671.45,
+          "clock": "00:27:51",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00184",
+          "start_seconds": 1699.09,
+          "clock": "00:28:19",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00186",
+          "start_seconds": 1721.03,
+          "clock": "00:28:41",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00188",
+          "start_seconds": 1744.59,
+          "clock": "00:29:04",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00190",
+          "start_seconds": 1768.4,
+          "clock": "00:29:28",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00192",
+          "start_seconds": 1794.67,
+          "clock": "00:29:54",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00194",
+          "start_seconds": 1814.44,
+          "clock": "00:30:14",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00265",
+          "start_seconds": 2208.46,
+          "clock": "00:36:48",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00281",
+          "start_seconds": 2317.92,
+          "clock": "00:38:37",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00359",
+          "start_seconds": 2902.13,
+          "clock": "00:48:22",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00363",
+          "start_seconds": 2985.13,
+          "clock": "00:49:45",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00394",
+          "start_seconds": 3276.1099999999997,
+          "clock": "00:54:36",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00400",
+          "start_seconds": 3344.59,
+          "clock": "00:55:44",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00404",
+          "start_seconds": 3386.58,
+          "clock": "00:56:26",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00410",
+          "start_seconds": 3419.1800000000003,
+          "clock": "00:56:59",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00414",
+          "start_seconds": 3461.85,
+          "clock": "00:57:41",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00451",
+          "start_seconds": 3798.58,
+          "clock": "01:03:18",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00511C",
+          "start_seconds": 4202.42,
+          "clock": "01:10:02",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00519",
+          "start_seconds": 4256.78,
+          "clock": "01:10:56",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00521",
+          "start_seconds": 4281.91,
+          "clock": "01:11:21",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00627B",
+          "start_seconds": 5288.72,
+          "clock": "01:28:08",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00634",
+          "start_seconds": 5344.5599999999995,
+          "clock": "01:29:04",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00635",
+          "start_seconds": 5400.0,
+          "clock": "01:30:00",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00640",
+          "start_seconds": 5469.8,
+          "clock": "01:31:09",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00641",
+          "start_seconds": 5538.29,
+          "clock": "01:32:18",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00642",
+          "start_seconds": 5559.53,
+          "clock": "01:32:39",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00525",
+          "start_seconds": 4312.9400000000005,
+          "clock": "01:11:52",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00561",
+          "start_seconds": 4823.0,
+          "clock": "01:20:23",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00572",
+          "start_seconds": 4891.47,
+          "clock": "01:21:31",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00496",
+          "start_seconds": 4068.4,
+          "clock": "01:07:48",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00502",
+          "start_seconds": 4130.73,
+          "clock": "01:08:50",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00547",
+          "start_seconds": 4588.95,
+          "clock": "01:16:28",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00553",
+          "start_seconds": 4654.8,
+          "clock": "01:17:34",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00555",
+          "start_seconds": 4690.37,
+          "clock": "01:18:10",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00596",
+          "start_seconds": 5002.9,
+          "clock": "01:23:22",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00614",
+          "start_seconds": 5107.9,
+          "clock": "01:25:07",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00617",
+          "start_seconds": 5150.79,
+          "clock": "01:25:50",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00617C",
+          "start_seconds": 5172.91,
+          "clock": "01:26:12",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00398",
+          "start_seconds": 3312.75,
+          "clock": "00:55:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00399C",
+          "start_seconds": 3325.8,
+          "clock": "00:55:25",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00412",
+          "start_seconds": 3441.98,
+          "clock": "00:57:21",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00415",
+          "start_seconds": 3474.91,
+          "clock": "00:57:54",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00558",
+          "start_seconds": 4762.93,
+          "clock": "01:19:22",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00559",
+          "start_seconds": 4793.96,
+          "clock": "01:19:53",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00560",
+          "start_seconds": 4805.89,
+          "clock": "01:20:05",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00576",
+          "start_seconds": 4907.8,
+          "clock": "01:21:47",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00582",
+          "start_seconds": 4928.92,
+          "clock": "01:22:08",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00585",
+          "start_seconds": 4941.0599999999995,
+          "clock": "01:22:21",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00587",
+          "start_seconds": 4951.87,
+          "clock": "01:22:31",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00591",
+          "start_seconds": 4961.16,
+          "clock": "01:22:41",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00594",
+          "start_seconds": 4977.34,
+          "clock": "01:22:57",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00595",
+          "start_seconds": 4995.36,
+          "clock": "01:23:15",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00601",
+          "start_seconds": 5024.52,
+          "clock": "01:23:44",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00601B",
+          "start_seconds": 5031.54,
+          "clock": "01:23:51",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00203",
+          "start_seconds": 1854.34,
+          "clock": "00:30:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00205",
+          "start_seconds": 1858.92,
+          "clock": "00:30:58",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00207",
+          "start_seconds": 1869.93,
+          "clock": "00:31:09",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Balances and money moving through accounts",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Morning witnesses from AUB and PSBank identified accounts and annual balances. Metrobank described customer checks and reporting procedures. Security Bank distinguished company accounts from personal ones and said Sara Duterte had no account there.\n\nSenator Raffy Tulfo questioned why a relatively small ending balance differed from roughly forty million pesos in a forensic report. Security Bank's Leslie Y. Cham separated the year-end snapshot from money moving through the account: about forty point one four million pesos flowed in during 2024, and about forty million flowed out. Those transaction amounts were not the ending balance. The court allowed totals within one year but prohibited adding ending balances across different years."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00822",
+          "start_seconds": 12651.3,
+          "clock": "03:30:51",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00824",
+          "start_seconds": 12679.53,
+          "clock": "03:31:19",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00837",
+          "start_seconds": 12817.47,
+          "clock": "03:33:37",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00841",
+          "start_seconds": 12878.95,
+          "clock": "03:34:38",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00850",
+          "start_seconds": 12934.31,
+          "clock": "03:35:34",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00860",
+          "start_seconds": 13061.32,
+          "clock": "03:37:41",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00862",
+          "start_seconds": 13098.46,
+          "clock": "03:38:18",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00899",
+          "start_seconds": 13474.69,
+          "clock": "03:44:34",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00901",
+          "start_seconds": 13495.75,
+          "clock": "03:44:55",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00979C",
+          "start_seconds": 14187.11,
+          "clock": "03:56:27",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00983",
+          "start_seconds": 14217.49,
+          "clock": "03:56:57",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00991",
+          "start_seconds": 14277.89,
+          "clock": "03:57:57",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00997",
+          "start_seconds": 14298.67,
+          "clock": "03:58:18",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01538",
+          "start_seconds": 18506.02,
+          "clock": "05:08:26",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01544",
+          "start_seconds": 18535.34,
+          "clock": "05:08:55",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01008",
+          "start_seconds": 14427.4,
+          "clock": "04:00:27",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01012",
+          "start_seconds": 14474.33,
+          "clock": "04:01:14",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01033",
+          "start_seconds": 14610.68,
+          "clock": "04:03:30",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01733",
+          "start_seconds": 19970.7,
+          "clock": "05:32:50",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01743B",
+          "start_seconds": 19995.14,
+          "clock": "05:33:15",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01748",
+          "start_seconds": 20039.04,
+          "clock": "05:33:59",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01128",
+          "start_seconds": 15136.27,
+          "clock": "04:12:16",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01136",
+          "start_seconds": 15192.82,
+          "clock": "04:13:12",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01145",
+          "start_seconds": 15273.06,
+          "clock": "04:14:33",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01323",
+          "start_seconds": 16808.84,
+          "clock": "04:40:08",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01327",
+          "start_seconds": 16844.9,
+          "clock": "04:40:44",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01332",
+          "start_seconds": 16881.08,
+          "clock": "04:41:21",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01372",
+          "start_seconds": 17286.61,
+          "clock": "04:48:06",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01374",
+          "start_seconds": 17305.19,
+          "clock": "04:48:25",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01758",
+          "start_seconds": 20129.75,
+          "clock": "05:35:29",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01136C",
+          "start_seconds": 15218.82,
+          "clock": "04:13:38",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01155",
+          "start_seconds": 15360.84,
+          "clock": "04:16:00",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01156",
+          "start_seconds": 15368.87,
+          "clock": "04:16:08",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01157",
+          "start_seconds": 15381.41,
+          "clock": "04:16:21",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01158",
+          "start_seconds": 15390.44,
+          "clock": "04:16:30",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01159",
+          "start_seconds": 15397.73,
+          "clock": "04:16:37",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00276",
+          "start_seconds": 2284.76,
+          "clock": "00:38:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00277",
+          "start_seconds": 2298.7200000000003,
+          "clock": "00:38:18",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00278B",
+          "start_seconds": 2303.84,
+          "clock": "00:38:23",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00279",
+          "start_seconds": 2311.2,
+          "clock": "00:38:31",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00527B",
+          "start_seconds": 4388.98,
+          "clock": "01:13:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00529",
+          "start_seconds": 4403.62,
+          "clock": "01:13:23",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00531B",
+          "start_seconds": 4423.0599999999995,
+          "clock": "01:13:43",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00533",
+          "start_seconds": 4431.3,
+          "clock": "01:13:51",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00564",
+          "start_seconds": 4841.12,
+          "clock": "01:20:41",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00565",
+          "start_seconds": 4849.88,
+          "clock": "01:20:49",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00971",
+          "start_seconds": 14083.380000000001,
+          "clock": "03:54:43",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00973C",
+          "start_seconds": 14111.29,
+          "clock": "03:55:11",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00975",
+          "start_seconds": 14139.34,
+          "clock": "03:55:39",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00976",
+          "start_seconds": 14146.76,
+          "clock": "03:55:46",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00981E",
+          "start_seconds": 14209.4,
+          "clock": "03:56:49",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00992",
+          "start_seconds": 14290.19,
+          "clock": "03:58:10",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00999",
+          "start_seconds": 14321.26,
+          "clock": "03:58:41",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01266",
+          "start_seconds": 16384.7,
+          "clock": "04:33:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01267C",
+          "start_seconds": 16416.8,
+          "clock": "04:33:36",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01269",
+          "start_seconds": 16425.02,
+          "clock": "04:33:45",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01326",
+          "start_seconds": 16837.5,
+          "clock": "04:40:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01360",
+          "start_seconds": 17104.57,
+          "clock": "04:45:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01363",
+          "start_seconds": 17156.56,
+          "clock": "04:45:56",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01364B",
+          "start_seconds": 17159.98,
+          "clock": "04:45:59",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01364D",
+          "start_seconds": 17164.56,
+          "clock": "04:46:04",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01460",
+          "start_seconds": 17995.04,
+          "clock": "04:59:55",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01461",
+          "start_seconds": 18005.64,
+          "clock": "05:00:05",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01463",
+          "start_seconds": 18025.05,
+          "clock": "05:00:25",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01465",
+          "start_seconds": 18034.27,
+          "clock": "05:00:34",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01469",
+          "start_seconds": 18045.9,
+          "clock": "05:00:45",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01485",
+          "start_seconds": 18110.14,
+          "clock": "05:01:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01485B",
+          "start_seconds": 18114.3,
+          "clock": "05:01:54",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01946MV1",
+          "start_seconds": 22256.51,
+          "clock": "06:10:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01949B",
+          "start_seconds": 22260.62,
+          "clock": "06:11:00",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01950",
+          "start_seconds": 22261.56,
+          "clock": "06:11:01",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02135",
+          "start_seconds": 23818.17,
+          "clock": "06:36:58",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02139",
+          "start_seconds": 23838.87,
+          "clock": "06:37:18",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S02141",
+          "start_seconds": 23845.09,
+          "clock": "06:37:25",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S02252",
+          "start_seconds": 24701.06,
+          "clock": "06:51:41",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02255",
+          "start_seconds": 24721.28,
+          "clock": "06:52:01",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02462",
+          "start_seconds": 26782.15,
+          "clock": "07:26:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02463",
+          "start_seconds": 26790.87,
+          "clock": "07:26:30",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02465",
+          "start_seconds": 26798.27,
+          "clock": "07:26:38",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02477",
+          "start_seconds": 26836.29,
+          "clock": "07:27:16",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02478",
+          "start_seconds": 26842.72,
+          "clock": "07:27:22",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02495B",
+          "start_seconds": 27004.28,
+          "clock": "07:30:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02498",
+          "start_seconds": 27018.06,
+          "clock": "07:30:18",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02500",
+          "start_seconds": 27035.08,
+          "clock": "07:30:35",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02586",
+          "start_seconds": 27821.75,
+          "clock": "07:43:41",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02587",
+          "start_seconds": 27854.48,
+          "clock": "07:44:14",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02587B",
+          "start_seconds": 27855.54,
+          "clock": "07:44:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02588",
+          "start_seconds": 27859.36,
+          "clock": "07:44:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02744",
+          "start_seconds": 28836.04,
+          "clock": "08:00:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02745",
+          "start_seconds": 28837.22,
+          "clock": "08:00:37",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02749",
+          "start_seconds": 28843.02,
+          "clock": "08:00:43",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02751",
+          "start_seconds": 28847.58,
+          "clock": "08:00:47",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02801",
+          "start_seconds": 29194.26,
+          "clock": "08:06:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02804",
+          "start_seconds": 29207.94,
+          "clock": "08:06:47",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02806",
+          "start_seconds": 29216.1,
+          "clock": "08:06:56",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02877",
+          "start_seconds": 30158.6,
+          "clock": "08:22:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02878",
+          "start_seconds": 30162.64,
+          "clock": "08:22:42",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02883",
+          "start_seconds": 30187.96,
+          "clock": "08:23:07",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02886",
+          "start_seconds": 30202.47,
+          "clock": "08:23:22",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02887B",
+          "start_seconds": 30221.47,
+          "clock": "08:23:41",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02927",
+          "start_seconds": 30508.65,
+          "clock": "08:28:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02932",
+          "start_seconds": 30539.67,
+          "clock": "08:28:59",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02938",
+          "start_seconds": 30577.47,
+          "clock": "08:29:37",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S03272",
+          "start_seconds": 32529.32,
+          "clock": "09:02:09",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03273",
+          "start_seconds": 32534.46,
+          "clock": "09:02:14",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03275",
+          "start_seconds": 32544.84,
+          "clock": "09:02:24",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S00608",
+          "start_seconds": 5039.28,
+          "clock": "01:23:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00609",
+          "start_seconds": 5045.62,
+          "clock": "01:24:05",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00617C",
+          "start_seconds": 5172.91,
+          "clock": "01:26:12",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00618",
+          "start_seconds": 5207.79,
+          "clock": "01:26:47",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00620",
+          "start_seconds": 5222.3099999999995,
+          "clock": "01:27:02",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00621",
+          "start_seconds": 5237.12,
+          "clock": "01:27:17",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00959",
+          "start_seconds": 14027.24,
+          "clock": "03:53:47",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00963",
+          "start_seconds": 14036.77,
+          "clock": "03:53:56",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00964",
+          "start_seconds": 14038.57,
+          "clock": "03:53:58",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00966MF2",
+          "start_seconds": 14043.85,
+          "clock": "03:54:03",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00970",
+          "start_seconds": 14076.98,
+          "clock": "03:54:36",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01489",
+          "start_seconds": 18128.4,
+          "clock": "05:02:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01490B",
+          "start_seconds": 18131.68,
+          "clock": "05:02:11",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01499",
+          "start_seconds": 18191.5,
+          "clock": "05:03:11",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01500B",
+          "start_seconds": 18202.35,
+          "clock": "05:03:22",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01500C",
+          "start_seconds": 18204.59,
+          "clock": "05:03:24",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01502",
+          "start_seconds": 18230.03,
+          "clock": "05:03:50",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01503",
+          "start_seconds": 18233.83,
+          "clock": "05:03:53",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01506",
+          "start_seconds": 18269.11,
+          "clock": "05:04:29",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00537",
+          "start_seconds": 4434.8,
+          "clock": "01:13:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00538",
+          "start_seconds": 4440.53,
+          "clock": "01:14:00",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00541",
+          "start_seconds": 4518.01,
+          "clock": "01:15:18",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00543",
+          "start_seconds": 4547.75,
+          "clock": "01:15:47",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00544B",
+          "start_seconds": 4559.15,
+          "clock": "01:15:59",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00548BB",
+          "start_seconds": 4612.2,
+          "clock": "01:16:52",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00548BD",
+          "start_seconds": 4621.17,
+          "clock": "01:17:01",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00553",
+          "start_seconds": 4654.8,
+          "clock": "01:17:34",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00555",
+          "start_seconds": 4690.37,
+          "clock": "01:18:10",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00556B",
+          "start_seconds": 4703.13,
+          "clock": "01:18:23",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00556E",
+          "start_seconds": 4722.67,
+          "clock": "01:18:42",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S01005",
+          "start_seconds": 14390.98,
+          "clock": "03:59:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01007",
+          "start_seconds": 14400.0,
+          "clock": "04:00:00",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01016",
+          "start_seconds": 14507.71,
+          "clock": "04:01:47",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01026",
+          "start_seconds": 14553.55,
+          "clock": "04:02:33",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01027B",
+          "start_seconds": 14561.52,
+          "clock": "04:02:41",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01028",
+          "start_seconds": 14570.48,
+          "clock": "04:02:50",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S03230",
+          "start_seconds": 32251.2,
+          "clock": "08:57:31",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S03236",
+          "start_seconds": 32268.86,
+          "clock": "08:57:48",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03239",
+          "start_seconds": 32281.63,
+          "clock": "08:58:01",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S03240",
+          "start_seconds": 32303.84,
+          "clock": "08:58:23",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S03241",
+          "start_seconds": 32316.44,
+          "clock": "08:58:36",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03242",
+          "start_seconds": 32318.4,
+          "clock": "08:58:38",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S03244",
+          "start_seconds": 32334.26,
+          "clock": "08:58:54",
+          "speaker_name": "Hygeia C. Defensor"
+        }
+      ],
+      "heading": "How the BPI checks worked",
+      "id": "P004",
+      "kind": "finding",
+      "text": "Galvez explained that time deposits count toward total balances, and matured proceeds go into a settlement account. Buying a funded manager's check debits the purchaser's account and moves the backing money to the bank's settlement account. The amount therefore leaves the customer's visible deposit balance before the check is encashed.\n\nExpiration alone does not return it. The original unused check must be returned; reissuing a check debits the funds again. Senator Chiz Escudero explored those mechanics. Senator Panfilo Lacson asked whether the prosecution was arguing concealment through circulating checks, and counsel James Bryan Ibrahim A. Alih agreed. But Galvez could not confirm deliberate year-end concealment or explain the clients' purposes. Senator Bam Aquino's questions about deliberate six-month cycling produced no definitive answer about legality."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00664D",
+          "start_seconds": 11205.71,
+          "clock": "03:06:45",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00665",
+          "start_seconds": 11221.76,
+          "clock": "03:07:01",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00668",
+          "start_seconds": 11252.62,
+          "clock": "03:07:32",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00949",
+          "start_seconds": 13932.31,
+          "clock": "03:52:12",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00966MF2",
+          "start_seconds": 14043.85,
+          "clock": "03:54:03",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01003",
+          "start_seconds": 14342.71,
+          "clock": "03:59:02",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01661",
+          "start_seconds": 19306.82,
+          "clock": "05:21:46",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01137",
+          "start_seconds": 15220.22,
+          "clock": "04:13:40",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01146",
+          "start_seconds": 15282.34,
+          "clock": "04:14:42",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01156B",
+          "start_seconds": 15369.41,
+          "clock": "04:16:09",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01174C",
+          "start_seconds": 15493.86,
+          "clock": "04:18:13",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01176",
+          "start_seconds": 15532.97,
+          "clock": "04:18:52",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01179C",
+          "start_seconds": 15579.16,
+          "clock": "04:19:39",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01179E",
+          "start_seconds": 15593.4,
+          "clock": "04:19:53",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01179I",
+          "start_seconds": 15619.6,
+          "clock": "04:20:19",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01265",
+          "start_seconds": 16350.89,
+          "clock": "04:32:30",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01265C",
+          "start_seconds": 16380.54,
+          "clock": "04:33:00",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01275",
+          "start_seconds": 16442.84,
+          "clock": "04:34:02",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01438",
+          "start_seconds": 17719.46,
+          "clock": "04:55:19",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01442",
+          "start_seconds": 17765.58,
+          "clock": "04:56:05",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00669",
+          "start_seconds": 11277.52,
+          "clock": "03:07:57",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00809",
+          "start_seconds": 12526.75,
+          "clock": "03:28:46",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01711",
+          "start_seconds": 19676.65,
+          "clock": "05:27:56",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01713",
+          "start_seconds": 19768.77,
+          "clock": "05:29:28",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01715",
+          "start_seconds": 19773.33,
+          "clock": "05:29:33",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01435",
+          "start_seconds": 17659.32,
+          "clock": "04:54:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01818",
+          "start_seconds": 21061.68,
+          "clock": "05:51:01",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01819",
+          "start_seconds": 21109.17,
+          "clock": "05:51:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01175",
+          "start_seconds": 15510.16,
+          "clock": "04:18:30",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01177B",
+          "start_seconds": 15540.89,
+          "clock": "04:19:00",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01214",
+          "start_seconds": 15863.06,
+          "clock": "04:24:23",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01231",
+          "start_seconds": 15953.7,
+          "clock": "04:25:53",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01450",
+          "start_seconds": 17903.17,
+          "clock": "04:58:23",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01452",
+          "start_seconds": 17919.86,
+          "clock": "04:58:39",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01445",
+          "start_seconds": 17797.39,
+          "clock": "04:56:37",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01445B",
+          "start_seconds": 17823.43,
+          "clock": "04:57:03",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01462",
+          "start_seconds": 18018.47,
+          "clock": "05:00:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01463",
+          "start_seconds": 18025.05,
+          "clock": "05:00:25",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01464",
+          "start_seconds": 18027.81,
+          "clock": "05:00:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01465",
+          "start_seconds": 18034.27,
+          "clock": "05:00:34",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01466",
+          "start_seconds": 18036.33,
+          "clock": "05:00:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01469",
+          "start_seconds": 18045.9,
+          "clock": "05:00:45",
+          "speaker_name": "Marwin L. Galvez"
+        }
+      ],
+      "heading": "Tracing funds and testing signatures",
+      "id": "P005",
+      "kind": "finding",
+      "text": "Alih described approximately forty-one million and fifty-five million pesos moving through transactions and later combining for insurance purchases. His presentation included four twenty-million-peso transfers for peso plans and a separate payment of approximately sixteen million pesos.\n\nDefense counsel Michael Wesley Poa asked for the Vice President's signatures on actual transaction instructions. The chair reported none in the premarked transaction-document inventory, while distinguishing account-opening and know-your-customer forms bearing her signature. For the account discussed, Galvez said Rodrigo Duterte's signature was required; Sara Duterte's signature alone could not operate it. Both had signed customer-identification documents. Galvez could not determine her knowledge of the transactions."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00494",
+          "start_seconds": 4010.67,
+          "clock": "01:06:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00495",
+          "start_seconds": 4015.51,
+          "clock": "01:06:55",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00496",
+          "start_seconds": 4068.4,
+          "clock": "01:07:48",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00497",
+          "start_seconds": 4086.37,
+          "clock": "01:08:06",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00499",
+          "start_seconds": 4099.51,
+          "clock": "01:08:19",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00501",
+          "start_seconds": 4113.11,
+          "clock": "01:08:33",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00502",
+          "start_seconds": 4130.73,
+          "clock": "01:08:50",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S01549",
+          "start_seconds": 18568.74,
+          "clock": "05:09:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01556",
+          "start_seconds": 18612.03,
+          "clock": "05:10:12",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01558",
+          "start_seconds": 18623.3,
+          "clock": "05:10:23",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01565FR2",
+          "start_seconds": 18665.5,
+          "clock": "05:11:05",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01571",
+          "start_seconds": 18678.08,
+          "clock": "05:11:18",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01580",
+          "start_seconds": 18736.73,
+          "clock": "05:12:16",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01590",
+          "start_seconds": 18777.11,
+          "clock": "05:12:57",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01623",
+          "start_seconds": 19010.02,
+          "clock": "05:16:50",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01623C",
+          "start_seconds": 19013.82,
+          "clock": "05:16:53",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01639",
+          "start_seconds": 19111.57,
+          "clock": "05:18:31",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01650",
+          "start_seconds": 19158.04,
+          "clock": "05:19:18",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01654",
+          "start_seconds": 19176.25,
+          "clock": "05:19:36",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01655",
+          "start_seconds": 19184.56,
+          "clock": "05:19:44",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01657",
+          "start_seconds": 19195.57,
+          "clock": "05:19:55",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01658",
+          "start_seconds": 19207.31,
+          "clock": "05:20:07",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01659",
+          "start_seconds": 19235.86,
+          "clock": "05:20:35",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01660",
+          "start_seconds": 19249.88,
+          "clock": "05:20:49",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01660MV2",
+          "start_seconds": 19276.86,
+          "clock": "05:21:16",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01672",
+          "start_seconds": 19350.76,
+          "clock": "05:22:30",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S02589",
+          "start_seconds": 27885.05,
+          "clock": "07:44:45",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02590",
+          "start_seconds": 27936.74,
+          "clock": "07:45:36",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02592",
+          "start_seconds": 27959.98,
+          "clock": "07:45:59",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02597",
+          "start_seconds": 27992.34,
+          "clock": "07:46:32",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02606",
+          "start_seconds": 28065.49,
+          "clock": "07:47:45",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02610",
+          "start_seconds": 28084.24,
+          "clock": "07:48:04",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02617",
+          "start_seconds": 28136.96,
+          "clock": "07:48:56",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02619",
+          "start_seconds": 28155.46,
+          "clock": "07:49:15",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02621",
+          "start_seconds": 28159.9,
+          "clock": "07:49:19",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S03569",
+          "start_seconds": 34272.96,
+          "clock": "09:31:12",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00352",
+          "start_seconds": 2829.45,
+          "clock": "00:47:09",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00358",
+          "start_seconds": 2852.51,
+          "clock": "00:47:32",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00359",
+          "start_seconds": 2902.13,
+          "clock": "00:48:22",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S00363",
+          "start_seconds": 2985.13,
+          "clock": "00:49:45",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S01681",
+          "start_seconds": 19437.17,
+          "clock": "05:23:57",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01708",
+          "start_seconds": 19594.18,
+          "clock": "05:26:34",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01711",
+          "start_seconds": 19676.65,
+          "clock": "05:27:56",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01713",
+          "start_seconds": 19768.77,
+          "clock": "05:29:28",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01715",
+          "start_seconds": 19773.33,
+          "clock": "05:29:33",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01937",
+          "start_seconds": 22176.37,
+          "clock": "06:09:36",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01941",
+          "start_seconds": 22229.2,
+          "clock": "06:10:29",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01942B",
+          "start_seconds": 22236.14,
+          "clock": "06:10:36",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01962MV3",
+          "start_seconds": 22304.39,
+          "clock": "06:11:44",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01964",
+          "start_seconds": 22315.53,
+          "clock": "06:11:55",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01968",
+          "start_seconds": 22398.74,
+          "clock": "06:13:18",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02220",
+          "start_seconds": 24288.34,
+          "clock": "06:44:48",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02225",
+          "start_seconds": 24321.09,
+          "clock": "06:45:21",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02232",
+          "start_seconds": 24398.22,
+          "clock": "06:46:38",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02233",
+          "start_seconds": 24408.24,
+          "clock": "06:46:48",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02235",
+          "start_seconds": 24470.77,
+          "clock": "06:47:50",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02238",
+          "start_seconds": 24613.32,
+          "clock": "06:50:13",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02243",
+          "start_seconds": 24630.38,
+          "clock": "06:50:30",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02250",
+          "start_seconds": 24652.85,
+          "clock": "06:50:52",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02251B",
+          "start_seconds": 24658.77,
+          "clock": "06:50:58",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02255",
+          "start_seconds": 24721.28,
+          "clock": "06:52:01",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02258",
+          "start_seconds": 24734.2,
+          "clock": "06:52:14",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02261",
+          "start_seconds": 24773.96,
+          "clock": "06:52:53",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00112",
+          "start_seconds": 1153.67,
+          "clock": "00:19:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00113",
+          "start_seconds": 1161.23,
+          "clock": "00:19:21",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S00119",
+          "start_seconds": 1204.89,
+          "clock": "00:20:04",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00121",
+          "start_seconds": 1211.95,
+          "clock": "00:20:11",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01365",
+          "start_seconds": 17171.23,
+          "clock": "04:46:11",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01367",
+          "start_seconds": 17198.06,
+          "clock": "04:46:38",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S01368B",
+          "start_seconds": 17239.25,
+          "clock": "04:47:19",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01369B",
+          "start_seconds": 17246.83,
+          "clock": "04:47:26",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01371",
+          "start_seconds": 17248.23,
+          "clock": "04:47:28",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01371B",
+          "start_seconds": 17249.81,
+          "clock": "04:47:29",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S01374",
+          "start_seconds": 17305.19,
+          "clock": "04:48:25",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01376",
+          "start_seconds": 17326.23,
+          "clock": "04:48:46",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01377",
+          "start_seconds": 17331.76,
+          "clock": "04:48:51",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02319",
+          "start_seconds": 25383.14,
+          "clock": "07:03:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02330",
+          "start_seconds": 25416.47,
+          "clock": "07:03:36",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02333",
+          "start_seconds": 25434.3,
+          "clock": "07:03:54",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S02354",
+          "start_seconds": 25535.99,
+          "clock": "07:05:35",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S02624",
+          "start_seconds": 28176.6,
+          "clock": "07:49:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02629",
+          "start_seconds": 28191.1,
+          "clock": "07:49:51",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02631",
+          "start_seconds": 28198.6,
+          "clock": "07:49:58",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02632",
+          "start_seconds": 28208.8,
+          "clock": "07:50:08",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02636",
+          "start_seconds": 28219.19,
+          "clock": "07:50:19",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02639",
+          "start_seconds": 28223.33,
+          "clock": "07:50:23",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02640",
+          "start_seconds": 28225.5,
+          "clock": "07:50:25",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02644",
+          "start_seconds": 28235.85,
+          "clock": "07:50:35",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02645",
+          "start_seconds": 28251.94,
+          "clock": "07:50:51",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02652",
+          "start_seconds": 28290.68,
+          "clock": "07:51:30",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02653",
+          "start_seconds": 28296.36,
+          "clock": "07:51:36",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02654",
+          "start_seconds": 28304.06,
+          "clock": "07:51:44",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02656",
+          "start_seconds": 28313.84,
+          "clock": "07:51:53",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S00393",
+          "start_seconds": 3170.3199999999997,
+          "clock": "00:52:50",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00393C",
+          "start_seconds": 3174.56,
+          "clock": "00:52:54",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00394",
+          "start_seconds": 3276.1099999999997,
+          "clock": "00:54:36",
+          "speaker_name": "Atty. Niña Feren Alquiroz-Aguilar"
+        },
+        {
+          "segment_id": "S01719B",
+          "start_seconds": 19808.66,
+          "clock": "05:30:08",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01722C",
+          "start_seconds": 19863.11,
+          "clock": "05:31:03",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01730",
+          "start_seconds": 19927.46,
+          "clock": "05:32:07",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01731",
+          "start_seconds": 19945.52,
+          "clock": "05:32:25",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01733",
+          "start_seconds": 19970.7,
+          "clock": "05:32:50",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01743B",
+          "start_seconds": 19995.14,
+          "clock": "05:33:15",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01748",
+          "start_seconds": 20039.04,
+          "clock": "05:33:59",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01753B",
+          "start_seconds": 20062.1,
+          "clock": "05:34:22",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01757",
+          "start_seconds": 20079.56,
+          "clock": "05:34:39",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01758",
+          "start_seconds": 20129.75,
+          "clock": "05:35:29",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01759",
+          "start_seconds": 20149.43,
+          "clock": "05:35:49",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01760",
+          "start_seconds": 20160.75,
+          "clock": "05:36:00",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01761",
+          "start_seconds": 20164.55,
+          "clock": "05:36:04",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01762",
+          "start_seconds": 20199.55,
+          "clock": "05:36:39",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01763",
+          "start_seconds": 20204.36,
+          "clock": "05:36:44",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01764",
+          "start_seconds": 20226.91,
+          "clock": "05:37:06",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S02264B",
+          "start_seconds": 24799.94,
+          "clock": "06:53:19",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S02265",
+          "start_seconds": 24829.41,
+          "clock": "06:53:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02273",
+          "start_seconds": 24985.2,
+          "clock": "06:56:25",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02274",
+          "start_seconds": 24996.24,
+          "clock": "06:56:36",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S02275",
+          "start_seconds": 25006.04,
+          "clock": "06:56:46",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02279",
+          "start_seconds": 25034.88,
+          "clock": "06:57:14",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02282",
+          "start_seconds": 25063.6,
+          "clock": "06:57:43",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S02283",
+          "start_seconds": 25069.88,
+          "clock": "06:57:49",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S01290",
+          "start_seconds": 16593.95,
+          "clock": "04:36:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01308",
+          "start_seconds": 16688.96,
+          "clock": "04:38:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01337",
+          "start_seconds": 16927.29,
+          "clock": "04:42:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01341",
+          "start_seconds": 16940.57,
+          "clock": "04:42:20",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01280",
+          "start_seconds": 16482.8,
+          "clock": "04:34:42",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 16510.77,
+          "clock": "04:35:10",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01287",
+          "start_seconds": 16576.57,
+          "clock": "04:36:16",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01321",
+          "start_seconds": 16765.88,
+          "clock": "04:39:25",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01322",
+          "start_seconds": 16790.02,
+          "clock": "04:39:50",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01333B",
+          "start_seconds": 16894.75,
+          "clock": "04:41:34",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01337B",
+          "start_seconds": 16933.79,
+          "clock": "04:42:13",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01338",
+          "start_seconds": 16934.41,
+          "clock": "04:42:14",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01347E",
+          "start_seconds": 17009.78,
+          "clock": "04:43:29",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01349",
+          "start_seconds": 17040.11,
+          "clock": "04:44:00",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01353",
+          "start_seconds": 17052.28,
+          "clock": "04:44:12",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01355",
+          "start_seconds": 17059.12,
+          "clock": "04:44:19",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01357",
+          "start_seconds": 17062.2,
+          "clock": "04:44:22",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01357FR2",
+          "start_seconds": 17077.5,
+          "clock": "04:44:37",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01348",
+          "start_seconds": 17028.35,
+          "clock": "04:43:48",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01351",
+          "start_seconds": 17047.93,
+          "clock": "04:44:07",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01352",
+          "start_seconds": 17048.29,
+          "clock": "04:44:08",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01357FR1",
+          "start_seconds": 17073.5,
+          "clock": "04:44:33",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01357FR3",
+          "start_seconds": 17089.73,
+          "clock": "04:44:49",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00096",
+          "start_seconds": 1055.89,
+          "clock": "00:17:35",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S00098",
+          "start_seconds": 1074.7,
+          "clock": "00:17:54",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S00105",
+          "start_seconds": 1111.48,
+          "clock": "00:18:31",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S00107",
+          "start_seconds": 1124.5,
+          "clock": "00:18:44",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S00107Q",
+          "start_seconds": 1130.04,
+          "clock": "00:18:50",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S00109",
+          "start_seconds": 1136.39,
+          "clock": "00:18:56",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S00109Q",
+          "start_seconds": 1142.34,
+          "clock": "00:19:02",
+          "speaker_name": "Atty. Roberto N. Batungbacal"
+        },
+        {
+          "segment_id": "S00225",
+          "start_seconds": 1967.95,
+          "clock": "00:32:47",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00235",
+          "start_seconds": 1996.77,
+          "clock": "00:33:16",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00235C",
+          "start_seconds": 2004.88,
+          "clock": "00:33:24",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00226",
+          "start_seconds": 1977.42,
+          "clock": "00:32:57",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00227",
+          "start_seconds": 1977.94,
+          "clock": "00:32:57",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00235B",
+          "start_seconds": 2003.41,
+          "clock": "00:33:23",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S00235D",
+          "start_seconds": 2016.12,
+          "clock": "00:33:36",
+          "speaker_name": "Irene Joy Cadiente Ishida"
+        },
+        {
+          "segment_id": "S01931E",
+          "start_seconds": 22129.82,
+          "clock": "06:08:49",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S01931G",
+          "start_seconds": 22134.48,
+          "clock": "06:08:54",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S01932",
+          "start_seconds": 22142.36,
+          "clock": "06:09:02",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        }
+      ],
+      "heading": "Questions the bank witness could not settle",
+      "id": "P006",
+      "kind": "finding",
+      "text": "Senator Sherwin Gatchalian explored the paired deposits and checks and their absence from earlier asset declarations. Poa stressed that awareness remained the issue and said Rodrigo Duterte signed the transactions. Senator Risa Hontiveros questioned control of the forty-one-million-peso check; Poa said the Vice President recalled no account or transaction and denied participation, while reserving her father's defenses.\n\nSenators Vicente Sotto and Joel Villanueva also pursued BPI's corrected reporting error. Galvez lacked the relevant responsibility or information to explain it. The court required a proper witness to authenticate BPI legal correspondence after Galvez could not identify it, and removed its display. Poa undertook to present that witness during the defense's turn."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01878",
+          "start_seconds": 21605.16,
+          "clock": "06:00:05",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01878SR2",
+          "start_seconds": 21619.82,
+          "clock": "06:00:19",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01878CC1",
+          "start_seconds": 21635.06,
+          "clock": "06:00:35",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01878CC3",
+          "start_seconds": 21646.9,
+          "clock": "06:00:46",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01885",
+          "start_seconds": 21697.71,
+          "clock": "06:01:37",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01931F",
+          "start_seconds": 22133.94,
+          "clock": "06:08:53",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01931H",
+          "start_seconds": 22139.58,
+          "clock": "06:08:59",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01933",
+          "start_seconds": 22147.49,
+          "clock": "06:09:07",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01923",
+          "start_seconds": 22063.5,
+          "clock": "06:07:43",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01923C",
+          "start_seconds": 22072.36,
+          "clock": "06:07:52",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01924",
+          "start_seconds": 22086.49,
+          "clock": "06:08:06",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01925B",
+          "start_seconds": 22105.69,
+          "clock": "06:08:25",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01928",
+          "start_seconds": 22113.41,
+          "clock": "06:08:33",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S02017C",
+          "start_seconds": 22720.99,
+          "clock": "06:18:40",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02018",
+          "start_seconds": 22748.91,
+          "clock": "06:19:08",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02018R4",
+          "start_seconds": 22769.74,
+          "clock": "06:19:29",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02042",
+          "start_seconds": 22974.52,
+          "clock": "06:22:54",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02043",
+          "start_seconds": 23004.52,
+          "clock": "06:23:24",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02047",
+          "start_seconds": 23034.35,
+          "clock": "06:23:54",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02068",
+          "start_seconds": 23166.46,
+          "clock": "06:26:06",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02090",
+          "start_seconds": 23368.2,
+          "clock": "06:29:28",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02102",
+          "start_seconds": 23473.54,
+          "clock": "06:31:13",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02162",
+          "start_seconds": 24017.37,
+          "clock": "06:40:17",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02166",
+          "start_seconds": 24056.0,
+          "clock": "06:40:56",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02232",
+          "start_seconds": 24398.22,
+          "clock": "06:46:38",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02238",
+          "start_seconds": 24613.32,
+          "clock": "06:50:13",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02255",
+          "start_seconds": 24721.28,
+          "clock": "06:52:01",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02273",
+          "start_seconds": 24985.2,
+          "clock": "06:56:25",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02275",
+          "start_seconds": 25006.04,
+          "clock": "06:56:46",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02279",
+          "start_seconds": 25034.88,
+          "clock": "06:57:14",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02283",
+          "start_seconds": 25069.88,
+          "clock": "06:57:49",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02303",
+          "start_seconds": 25193.25,
+          "clock": "06:59:53",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S00508",
+          "start_seconds": 4146.78,
+          "clock": "01:09:06",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02265",
+          "start_seconds": 24829.41,
+          "clock": "06:53:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01086",
+          "start_seconds": 14911.21,
+          "clock": "04:08:31",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01087",
+          "start_seconds": 14925.19,
+          "clock": "04:08:45",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01088",
+          "start_seconds": 14927.99,
+          "clock": "04:08:47",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01089",
+          "start_seconds": 14931.66,
+          "clock": "04:08:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01826",
+          "start_seconds": 21206.5,
+          "clock": "05:53:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01828MV4",
+          "start_seconds": 21228.26,
+          "clock": "05:53:48",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01828MV5",
+          "start_seconds": 21254.61,
+          "clock": "05:54:14",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01828MV6",
+          "start_seconds": 21255.09,
+          "clock": "05:54:15",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01828MV7",
+          "start_seconds": 21261.13,
+          "clock": "05:54:21",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01831",
+          "start_seconds": 21262.91,
+          "clock": "05:54:22",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01832",
+          "start_seconds": 21275.61,
+          "clock": "05:54:35",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01833",
+          "start_seconds": 21281.45,
+          "clock": "05:54:41",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01834",
+          "start_seconds": 21282.73,
+          "clock": "05:54:42",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01837",
+          "start_seconds": 21286.87,
+          "clock": "05:54:46",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01838",
+          "start_seconds": 21287.71,
+          "clock": "05:54:47",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01839",
+          "start_seconds": 21301.33,
+          "clock": "05:55:01",
+          "speaker_name": "Marwin L. Galvez"
+        }
+      ],
+      "heading": "Other banks and limits on disclosure",
+      "id": "P007",
+      "kind": "finding",
+      "text": "PNB's Julius Palma Parian said the accounts discussed belonged individually to Manases Reyes Carpio, and Sara Duterte had no PNB account. He identified four withdrawals on August 6, 2024, totaling eighteen million pesos. BDO presented separate and joint records, but its witness could not confirm the prosecution's displayed combined figures as a bank total.\n\nThe chair prohibited disclosure of covered and suspicious transaction report submissions. Foreign-account questions outside the subpoena were also stopped. Senator Robin Padilla asked about manager's-check authorization; Galvez explained that proper instructions and adequate funds were required. Galvez said the submitted documents showed no wrongdoing by Rodrigo Duterte."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02447",
+          "start_seconds": 26676.17,
+          "clock": "07:24:36",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02455",
+          "start_seconds": 26728.09,
+          "clock": "07:25:28",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02457",
+          "start_seconds": 26740.54,
+          "clock": "07:25:40",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02463",
+          "start_seconds": 26790.87,
+          "clock": "07:26:30",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02465",
+          "start_seconds": 26798.27,
+          "clock": "07:26:38",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02489",
+          "start_seconds": 26942.76,
+          "clock": "07:29:02",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02493",
+          "start_seconds": 26976.09,
+          "clock": "07:29:36",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02495",
+          "start_seconds": 26994.25,
+          "clock": "07:29:54",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02498",
+          "start_seconds": 27018.06,
+          "clock": "07:30:18",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02500",
+          "start_seconds": 27035.08,
+          "clock": "07:30:35",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02590",
+          "start_seconds": 27936.74,
+          "clock": "07:45:36",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02652",
+          "start_seconds": 28290.68,
+          "clock": "07:51:30",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02551",
+          "start_seconds": 27442.0,
+          "clock": "07:37:22",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02553",
+          "start_seconds": 27458.59,
+          "clock": "07:37:38",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02555",
+          "start_seconds": 27471.02,
+          "clock": "07:37:51",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02559B",
+          "start_seconds": 27511.65,
+          "clock": "07:38:31",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02578",
+          "start_seconds": 27704.6,
+          "clock": "07:41:44",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02580",
+          "start_seconds": 27738.8,
+          "clock": "07:42:18",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02584",
+          "start_seconds": 27799.91,
+          "clock": "07:43:19",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02602",
+          "start_seconds": 28023.83,
+          "clock": "07:47:03",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02606",
+          "start_seconds": 28065.49,
+          "clock": "07:47:45",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02610",
+          "start_seconds": 28084.24,
+          "clock": "07:48:04",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02617",
+          "start_seconds": 28136.96,
+          "clock": "07:48:56",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S00276",
+          "start_seconds": 2284.76,
+          "clock": "00:38:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00277",
+          "start_seconds": 2298.7200000000003,
+          "clock": "00:38:18",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00278B",
+          "start_seconds": 2303.84,
+          "clock": "00:38:23",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00279",
+          "start_seconds": 2311.2,
+          "clock": "00:38:31",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00527B",
+          "start_seconds": 4388.98,
+          "clock": "01:13:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00529",
+          "start_seconds": 4403.62,
+          "clock": "01:13:23",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00531B",
+          "start_seconds": 4423.0599999999995,
+          "clock": "01:13:43",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00533",
+          "start_seconds": 4431.3,
+          "clock": "01:13:51",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00564",
+          "start_seconds": 4841.12,
+          "clock": "01:20:41",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00565",
+          "start_seconds": 4849.88,
+          "clock": "01:20:49",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00971",
+          "start_seconds": 14083.380000000001,
+          "clock": "03:54:43",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00973C",
+          "start_seconds": 14111.29,
+          "clock": "03:55:11",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00975",
+          "start_seconds": 14139.34,
+          "clock": "03:55:39",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00976",
+          "start_seconds": 14146.76,
+          "clock": "03:55:46",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00979C",
+          "start_seconds": 14187.11,
+          "clock": "03:56:27",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00981E",
+          "start_seconds": 14209.4,
+          "clock": "03:56:49",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00983",
+          "start_seconds": 14217.49,
+          "clock": "03:56:57",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00991",
+          "start_seconds": 14277.89,
+          "clock": "03:57:57",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00992",
+          "start_seconds": 14290.19,
+          "clock": "03:58:10",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00997",
+          "start_seconds": 14298.67,
+          "clock": "03:58:18",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S00999",
+          "start_seconds": 14321.26,
+          "clock": "03:58:41",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01266",
+          "start_seconds": 16384.7,
+          "clock": "04:33:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01267C",
+          "start_seconds": 16416.8,
+          "clock": "04:33:36",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01269",
+          "start_seconds": 16425.02,
+          "clock": "04:33:45",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01326",
+          "start_seconds": 16837.5,
+          "clock": "04:40:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01327",
+          "start_seconds": 16844.9,
+          "clock": "04:40:44",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01332",
+          "start_seconds": 16881.08,
+          "clock": "04:41:21",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01360",
+          "start_seconds": 17104.57,
+          "clock": "04:45:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01363",
+          "start_seconds": 17156.56,
+          "clock": "04:45:56",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01364B",
+          "start_seconds": 17159.98,
+          "clock": "04:45:59",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01364D",
+          "start_seconds": 17164.56,
+          "clock": "04:46:04",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01460",
+          "start_seconds": 17995.04,
+          "clock": "04:59:55",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01461",
+          "start_seconds": 18005.64,
+          "clock": "05:00:05",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01463",
+          "start_seconds": 18025.05,
+          "clock": "05:00:25",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01465",
+          "start_seconds": 18034.27,
+          "clock": "05:00:34",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01469",
+          "start_seconds": 18045.9,
+          "clock": "05:00:45",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01485",
+          "start_seconds": 18110.14,
+          "clock": "05:01:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01485B",
+          "start_seconds": 18114.3,
+          "clock": "05:01:54",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01946MV1",
+          "start_seconds": 22256.51,
+          "clock": "06:10:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01949B",
+          "start_seconds": 22260.62,
+          "clock": "06:11:00",
+          "speaker_name": "Julius Palma Parian"
+        },
+        {
+          "segment_id": "S01950",
+          "start_seconds": 22261.56,
+          "clock": "06:11:01",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02135",
+          "start_seconds": 23818.17,
+          "clock": "06:36:58",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02139",
+          "start_seconds": 23838.87,
+          "clock": "06:37:18",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S02141",
+          "start_seconds": 23845.09,
+          "clock": "06:37:25",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S02252",
+          "start_seconds": 24701.06,
+          "clock": "06:51:41",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02255",
+          "start_seconds": 24721.28,
+          "clock": "06:52:01",
+          "speaker_name": "Mario Cerilo M. De Mesa Jr."
+        },
+        {
+          "segment_id": "S02462",
+          "start_seconds": 26782.15,
+          "clock": "07:26:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02477",
+          "start_seconds": 26836.29,
+          "clock": "07:27:16",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02478",
+          "start_seconds": 26842.72,
+          "clock": "07:27:22",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02495B",
+          "start_seconds": 27004.28,
+          "clock": "07:30:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02586",
+          "start_seconds": 27821.75,
+          "clock": "07:43:41",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02587",
+          "start_seconds": 27854.48,
+          "clock": "07:44:14",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02587B",
+          "start_seconds": 27855.54,
+          "clock": "07:44:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02588",
+          "start_seconds": 27859.36,
+          "clock": "07:44:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02744",
+          "start_seconds": 28836.04,
+          "clock": "08:00:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02745",
+          "start_seconds": 28837.22,
+          "clock": "08:00:37",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02749",
+          "start_seconds": 28843.02,
+          "clock": "08:00:43",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02751",
+          "start_seconds": 28847.58,
+          "clock": "08:00:47",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02801",
+          "start_seconds": 29194.26,
+          "clock": "08:06:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02804",
+          "start_seconds": 29207.94,
+          "clock": "08:06:47",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02806",
+          "start_seconds": 29216.1,
+          "clock": "08:06:56",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02877",
+          "start_seconds": 30158.6,
+          "clock": "08:22:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02878",
+          "start_seconds": 30162.64,
+          "clock": "08:22:42",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02883",
+          "start_seconds": 30187.96,
+          "clock": "08:23:07",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02886",
+          "start_seconds": 30202.47,
+          "clock": "08:23:22",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02887B",
+          "start_seconds": 30221.47,
+          "clock": "08:23:41",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02927",
+          "start_seconds": 30508.65,
+          "clock": "08:28:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02932",
+          "start_seconds": 30539.67,
+          "clock": "08:28:59",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02938",
+          "start_seconds": 30577.47,
+          "clock": "08:29:37",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S03272",
+          "start_seconds": 32529.32,
+          "clock": "09:02:09",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03273",
+          "start_seconds": 32534.46,
+          "clock": "09:02:14",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03275",
+          "start_seconds": 32544.84,
+          "clock": "09:02:24",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S00494",
+          "start_seconds": 4010.67,
+          "clock": "01:06:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00495",
+          "start_seconds": 4015.51,
+          "clock": "01:06:55",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00496",
+          "start_seconds": 4068.4,
+          "clock": "01:07:48",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00497",
+          "start_seconds": 4086.37,
+          "clock": "01:08:06",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00499",
+          "start_seconds": 4099.51,
+          "clock": "01:08:19",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S00501",
+          "start_seconds": 4113.11,
+          "clock": "01:08:33",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00502",
+          "start_seconds": 4130.73,
+          "clock": "01:08:50",
+          "speaker_name": "Leslie Y. Cham"
+        },
+        {
+          "segment_id": "S01549",
+          "start_seconds": 18568.74,
+          "clock": "05:09:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01556",
+          "start_seconds": 18612.03,
+          "clock": "05:10:12",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01558",
+          "start_seconds": 18623.3,
+          "clock": "05:10:23",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01565FR2",
+          "start_seconds": 18665.5,
+          "clock": "05:11:05",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01571",
+          "start_seconds": 18678.08,
+          "clock": "05:11:18",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01580",
+          "start_seconds": 18736.73,
+          "clock": "05:12:16",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01590",
+          "start_seconds": 18777.11,
+          "clock": "05:12:57",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01623",
+          "start_seconds": 19010.02,
+          "clock": "05:16:50",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01623C",
+          "start_seconds": 19013.82,
+          "clock": "05:16:53",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01639",
+          "start_seconds": 19111.57,
+          "clock": "05:18:31",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01650",
+          "start_seconds": 19158.04,
+          "clock": "05:19:18",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01654",
+          "start_seconds": 19176.25,
+          "clock": "05:19:36",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01655",
+          "start_seconds": 19184.56,
+          "clock": "05:19:44",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01657",
+          "start_seconds": 19195.57,
+          "clock": "05:19:55",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01658",
+          "start_seconds": 19207.31,
+          "clock": "05:20:07",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01659",
+          "start_seconds": 19235.86,
+          "clock": "05:20:35",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01660",
+          "start_seconds": 19249.88,
+          "clock": "05:20:49",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01660MV2",
+          "start_seconds": 19276.86,
+          "clock": "05:21:16",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01672",
+          "start_seconds": 19350.76,
+          "clock": "05:22:30",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S02589",
+          "start_seconds": 27885.05,
+          "clock": "07:44:45",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02592",
+          "start_seconds": 27959.98,
+          "clock": "07:45:59",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02597",
+          "start_seconds": 27992.34,
+          "clock": "07:46:32",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02619",
+          "start_seconds": 28155.46,
+          "clock": "07:49:15",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02621",
+          "start_seconds": 28159.9,
+          "clock": "07:49:19",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S03569",
+          "start_seconds": 34272.96,
+          "clock": "09:31:12",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00112",
+          "start_seconds": 1153.67,
+          "clock": "00:19:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00113",
+          "start_seconds": 1161.23,
+          "clock": "00:19:21",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S00119",
+          "start_seconds": 1204.89,
+          "clock": "00:20:04",
+          "speaker_name": "Arcy James Gonzales"
+        },
+        {
+          "segment_id": "S00121",
+          "start_seconds": 1211.95,
+          "clock": "00:20:11",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S01365",
+          "start_seconds": 17171.23,
+          "clock": "04:46:11",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01367",
+          "start_seconds": 17198.06,
+          "clock": "04:46:38",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S01368B",
+          "start_seconds": 17239.25,
+          "clock": "04:47:19",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01369B",
+          "start_seconds": 17246.83,
+          "clock": "04:47:26",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01371",
+          "start_seconds": 17248.23,
+          "clock": "04:47:28",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01371B",
+          "start_seconds": 17249.81,
+          "clock": "04:47:29",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S01374",
+          "start_seconds": 17305.19,
+          "clock": "04:48:25",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01376",
+          "start_seconds": 17326.23,
+          "clock": "04:48:46",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01377",
+          "start_seconds": 17331.76,
+          "clock": "04:48:51",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02319",
+          "start_seconds": 25383.14,
+          "clock": "07:03:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02330",
+          "start_seconds": 25416.47,
+          "clock": "07:03:36",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02333",
+          "start_seconds": 25434.3,
+          "clock": "07:03:54",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S02354",
+          "start_seconds": 25535.99,
+          "clock": "07:05:35",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S02624",
+          "start_seconds": 28176.6,
+          "clock": "07:49:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02629",
+          "start_seconds": 28191.1,
+          "clock": "07:49:51",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02631",
+          "start_seconds": 28198.6,
+          "clock": "07:49:58",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02632",
+          "start_seconds": 28208.8,
+          "clock": "07:50:08",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02636",
+          "start_seconds": 28219.19,
+          "clock": "07:50:19",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02639",
+          "start_seconds": 28223.33,
+          "clock": "07:50:23",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02640",
+          "start_seconds": 28225.5,
+          "clock": "07:50:25",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02644",
+          "start_seconds": 28235.85,
+          "clock": "07:50:35",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02645",
+          "start_seconds": 28251.94,
+          "clock": "07:50:51",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02653",
+          "start_seconds": 28296.36,
+          "clock": "07:51:36",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02654",
+          "start_seconds": 28304.06,
+          "clock": "07:51:44",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02656",
+          "start_seconds": 28313.84,
+          "clock": "07:51:53",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S01507",
+          "start_seconds": 18274.2,
+          "clock": "05:04:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01514",
+          "start_seconds": 18324.46,
+          "clock": "05:05:24",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01519",
+          "start_seconds": 18341.07,
+          "clock": "05:05:41",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01520",
+          "start_seconds": 18373.87,
+          "clock": "05:06:13",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01525",
+          "start_seconds": 18386.99,
+          "clock": "05:06:26",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01526",
+          "start_seconds": 18400.08,
+          "clock": "05:06:40",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01528",
+          "start_seconds": 18427.45,
+          "clock": "05:07:07",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01528MV2",
+          "start_seconds": 18430.85,
+          "clock": "05:07:10",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01530",
+          "start_seconds": 18447.05,
+          "clock": "05:07:27",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01532",
+          "start_seconds": 18472.19,
+          "clock": "05:07:52",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01536",
+          "start_seconds": 18490.88,
+          "clock": "05:08:10",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01538",
+          "start_seconds": 18506.02,
+          "clock": "05:08:26",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01542",
+          "start_seconds": 18526.74,
+          "clock": "05:08:46",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S01546",
+          "start_seconds": 18550.71,
+          "clock": "05:09:10",
+          "speaker_name": "Marwin L. Galvez"
+        },
+        {
+          "segment_id": "S02538",
+          "start_seconds": 27343.5,
+          "clock": "07:35:43",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02547",
+          "start_seconds": 27415.71,
+          "clock": "07:36:55",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02561",
+          "start_seconds": 27536.61,
+          "clock": "07:38:56",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02564",
+          "start_seconds": 27575.1,
+          "clock": "07:39:35",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02573",
+          "start_seconds": 27647.74,
+          "clock": "07:40:47",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S02575",
+          "start_seconds": 27669.08,
+          "clock": "07:41:09",
+          "speaker_name": "Atty. Juan Sotero Roman"
+        },
+        {
+          "segment_id": "S03211",
+          "start_seconds": 32096.62,
+          "clock": "08:54:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03213",
+          "start_seconds": 32116.36,
+          "clock": "08:55:16",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03215",
+          "start_seconds": 32130.48,
+          "clock": "08:55:30",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03217",
+          "start_seconds": 32136.3,
+          "clock": "08:55:36",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03219",
+          "start_seconds": 32164.04,
+          "clock": "08:56:04",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03223",
+          "start_seconds": 32202.9,
+          "clock": "08:56:42",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03225",
+          "start_seconds": 32223.77,
+          "clock": "08:57:03",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03227",
+          "start_seconds": 32241.39,
+          "clock": "08:57:21",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S02411",
+          "start_seconds": 25998.78,
+          "clock": "07:13:18",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02412",
+          "start_seconds": 26047.52,
+          "clock": "07:14:07",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02413",
+          "start_seconds": 26090.64,
+          "clock": "07:14:50",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02414",
+          "start_seconds": 26114.55,
+          "clock": "07:15:14",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02415",
+          "start_seconds": 26241.2,
+          "clock": "07:17:21",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02424",
+          "start_seconds": 26371.94,
+          "clock": "07:19:31",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02426",
+          "start_seconds": 26469.52,
+          "clock": "07:21:09",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03354",
+          "start_seconds": 32985.15,
+          "clock": "09:09:45",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03356",
+          "start_seconds": 32997.2,
+          "clock": "09:09:57",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03357",
+          "start_seconds": 33010.38,
+          "clock": "09:10:10",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03358",
+          "start_seconds": 33084.26,
+          "clock": "09:11:24",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03362",
+          "start_seconds": 33167.35,
+          "clock": "09:12:47",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03364",
+          "start_seconds": 33186.89,
+          "clock": "09:13:06",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02427",
+          "start_seconds": 26478.7,
+          "clock": "07:21:18",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S02428",
+          "start_seconds": 26485.17,
+          "clock": "07:21:25",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S02429",
+          "start_seconds": 26493.31,
+          "clock": "07:21:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02431",
+          "start_seconds": 26538.05,
+          "clock": "07:22:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02502",
+          "start_seconds": 27047.9,
+          "clock": "07:30:47",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02503",
+          "start_seconds": 27067.28,
+          "clock": "07:31:07",
+          "speaker_name": "Atty. Carlo Joaquin T. Narvasa"
+        },
+        {
+          "segment_id": "S02506",
+          "start_seconds": 27073.62,
+          "clock": "07:31:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02512",
+          "start_seconds": 27107.85,
+          "clock": "07:31:47",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02513",
+          "start_seconds": 27120.94,
+          "clock": "07:32:00",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02684",
+          "start_seconds": 28448.89,
+          "clock": "07:54:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02685",
+          "start_seconds": 28473.26,
+          "clock": "07:54:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03011",
+          "start_seconds": 30968.69,
+          "clock": "08:36:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03095",
+          "start_seconds": 31409.77,
+          "clock": "08:43:29",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03361",
+          "start_seconds": 33150.71,
+          "clock": "09:12:30",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03363",
+          "start_seconds": 33171.37,
+          "clock": "09:12:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Insurance: three different values",
+      "id": "P008",
+      "kind": "finding",
+      "text": "Insurance testimony required separating the premium paid, the death benefit, and the amount available on withdrawal. FWD's Juan Sotero Roman authenticated Carpio's policy with a premium of ten million six hundred thousand pesos and a sum assured of thirteen million two hundred fifty thousand pesos. The withdrawal value depended on investments and surrender charges; full surrender ended coverage.\n\nEscudero, Gatchalian and Sotto tested those distinctions. The death benefit was not an immediately withdrawable amount. Roman also distinguished suspicion from court-established money laundering. The prosecution offered policy records for its under-declaration theory, but the court limited questions to company records and personal knowledge, stopped speculative hypotheticals, and later removed specified asset-declaration material from offers."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02707",
+          "start_seconds": 28645.65,
+          "clock": "07:57:25",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02709",
+          "start_seconds": 28661.75,
+          "clock": "07:57:41",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02727",
+          "start_seconds": 28744.78,
+          "clock": "07:59:04",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02758",
+          "start_seconds": 28891.92,
+          "clock": "08:01:31",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02760",
+          "start_seconds": 28910.52,
+          "clock": "08:01:50",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02794",
+          "start_seconds": 29152.34,
+          "clock": "08:05:52",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02806",
+          "start_seconds": 29216.1,
+          "clock": "08:06:56",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02847",
+          "start_seconds": 29876.4,
+          "clock": "08:17:56",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02762",
+          "start_seconds": 28929.0,
+          "clock": "08:02:09",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02766",
+          "start_seconds": 28937.06,
+          "clock": "08:02:17",
+          "speaker_name": "Malu Remollino Salanguit"
+        },
+        {
+          "segment_id": "S02878",
+          "start_seconds": 30162.64,
+          "clock": "08:22:42",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02886",
+          "start_seconds": 30202.47,
+          "clock": "08:23:22",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02892",
+          "start_seconds": 30254.78,
+          "clock": "08:24:14",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02893B",
+          "start_seconds": 30257.56,
+          "clock": "08:24:17",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02894",
+          "start_seconds": 30276.38,
+          "clock": "08:24:36",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02895",
+          "start_seconds": 30280.5,
+          "clock": "08:24:40",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02932",
+          "start_seconds": 30539.67,
+          "clock": "08:28:59",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02932B",
+          "start_seconds": 30542.5,
+          "clock": "08:29:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02934",
+          "start_seconds": 30561.8,
+          "clock": "08:29:21",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02938",
+          "start_seconds": 30577.47,
+          "clock": "08:29:37",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02969",
+          "start_seconds": 30742.55,
+          "clock": "08:32:22",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S02970",
+          "start_seconds": 30751.48,
+          "clock": "08:32:31",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S02970C",
+          "start_seconds": 30766.88,
+          "clock": "08:32:46",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S02969B",
+          "start_seconds": 30748.95,
+          "clock": "08:32:28",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02970B",
+          "start_seconds": 30765.12,
+          "clock": "08:32:45",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S02971",
+          "start_seconds": 30780.8,
+          "clock": "08:33:00",
+          "speaker_name": "Atty. Calvin Kohchet-Chua"
+        },
+        {
+          "segment_id": "S03028",
+          "start_seconds": 31073.5,
+          "clock": "08:37:53",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03036",
+          "start_seconds": 31132.3,
+          "clock": "08:38:52",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03038",
+          "start_seconds": 31139.92,
+          "clock": "08:38:59",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03041",
+          "start_seconds": 31149.41,
+          "clock": "08:39:09",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03043",
+          "start_seconds": 31157.26,
+          "clock": "08:39:17",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03047",
+          "start_seconds": 31185.8,
+          "clock": "08:39:45",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03050E",
+          "start_seconds": 31243.32,
+          "clock": "08:40:43",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03050G",
+          "start_seconds": 31250.41,
+          "clock": "08:40:50",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03050I",
+          "start_seconds": 31253.42,
+          "clock": "08:40:53",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03050K",
+          "start_seconds": 31255.7,
+          "clock": "08:40:55",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03050M",
+          "start_seconds": 31258.2,
+          "clock": "08:40:58",
+          "speaker_name": "Christine Cabradilla"
+        },
+        {
+          "segment_id": "S03105",
+          "start_seconds": 31463.43,
+          "clock": "08:44:23",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03107",
+          "start_seconds": 31479.81,
+          "clock": "08:44:39",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03113",
+          "start_seconds": 31555.47,
+          "clock": "08:45:55",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03115",
+          "start_seconds": 31565.08,
+          "clock": "08:46:05",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03117",
+          "start_seconds": 31577.5,
+          "clock": "08:46:17",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03121",
+          "start_seconds": 31615.99,
+          "clock": "08:46:55",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03123",
+          "start_seconds": 31622.35,
+          "clock": "08:47:02",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03125",
+          "start_seconds": 31630.36,
+          "clock": "08:47:10",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03131",
+          "start_seconds": 31662.7,
+          "clock": "08:47:42",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03168",
+          "start_seconds": 31863.35,
+          "clock": "08:51:03",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03217",
+          "start_seconds": 32136.3,
+          "clock": "08:55:36",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03219",
+          "start_seconds": 32164.04,
+          "clock": "08:56:04",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03223",
+          "start_seconds": 32202.9,
+          "clock": "08:56:42",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03225",
+          "start_seconds": 32223.77,
+          "clock": "08:57:03",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03236",
+          "start_seconds": 32268.86,
+          "clock": "08:57:48",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03150",
+          "start_seconds": 31782.6,
+          "clock": "08:49:42",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03152",
+          "start_seconds": 31791.8,
+          "clock": "08:49:51",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03154",
+          "start_seconds": 31803.4,
+          "clock": "08:50:03",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03156",
+          "start_seconds": 31811.28,
+          "clock": "08:50:11",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03158",
+          "start_seconds": 31823.84,
+          "clock": "08:50:23",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03160",
+          "start_seconds": 31842.43,
+          "clock": "08:50:42",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03177",
+          "start_seconds": 31949.25,
+          "clock": "08:52:29",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03178",
+          "start_seconds": 31952.81,
+          "clock": "08:52:32",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03179",
+          "start_seconds": 31966.44,
+          "clock": "08:52:46",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03188",
+          "start_seconds": 31984.01,
+          "clock": "08:53:04",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S03190",
+          "start_seconds": 31993.81,
+          "clock": "08:53:13",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S03190C",
+          "start_seconds": 32001.37,
+          "clock": "08:53:21",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S03189",
+          "start_seconds": 31993.23,
+          "clock": "08:53:13",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03190B",
+          "start_seconds": 32000.67,
+          "clock": "08:53:20",
+          "speaker_name": "Hygeia C. Defensor"
+        },
+        {
+          "segment_id": "S03273",
+          "start_seconds": 32534.46,
+          "clock": "09:02:14",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03282",
+          "start_seconds": 32578.16,
+          "clock": "09:02:58",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03286",
+          "start_seconds": 32585.84,
+          "clock": "09:03:05",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03286C",
+          "start_seconds": 32594.74,
+          "clock": "09:03:14",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03290",
+          "start_seconds": 32628.38,
+          "clock": "09:03:48",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03292",
+          "start_seconds": 32632.16,
+          "clock": "09:03:52",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03292C",
+          "start_seconds": 32639.66,
+          "clock": "09:03:59",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03299",
+          "start_seconds": 32677.94,
+          "clock": "09:04:37",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03311",
+          "start_seconds": 32751.2,
+          "clock": "09:05:51",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03313",
+          "start_seconds": 32763.07,
+          "clock": "09:06:03",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03314B",
+          "start_seconds": 32769.67,
+          "clock": "09:06:09",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03317",
+          "start_seconds": 32793.3,
+          "clock": "09:06:33",
+          "speaker_name": "Joel L. De Jesus"
+        },
+        {
+          "segment_id": "S03332",
+          "start_seconds": 32877.78,
+          "clock": "09:07:57",
+          "speaker_name": "Joel L. De Jesus"
+        }
+      ],
+      "heading": "Policy ownership and knowledge",
+      "id": "P009",
+      "kind": "finding",
+      "text": "Manulife presented premiums, top-ups and regular payments, correcting one total to five hundred twenty-eight thousand pesos. Pru Life initially described ten policies, but the court confined presentation to the five owned by the respondent and spouse. Its witness distinguished premiums from sums assured and could not establish the Vice President's knowledge of Carpio's policies.\n\nAIA identified a single premium of thirty thousand US dollars. Allianz PNB Life identified premiums of eleven thousand seven hundred and one hundred thousand US dollars. Their witnesses explained that spousal signatures or notifications were not required in the circumstances discussed. Allianz did not know how surrendered proceeds were subsequently used. BDO Life identified two Sara Duterte policies and one Carpio policy, and said no fixed industry norm governed policy count."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S03371",
+          "start_seconds": 33224.14,
+          "clock": "09:13:44",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03408",
+          "start_seconds": 33406.21,
+          "clock": "09:16:46",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03471",
+          "start_seconds": 33670.33,
+          "clock": "09:21:10",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03487",
+          "start_seconds": 33752.46,
+          "clock": "09:22:32",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03494",
+          "start_seconds": 33786.4,
+          "clock": "09:23:06",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03496",
+          "start_seconds": 33812.2,
+          "clock": "09:23:32",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03395",
+          "start_seconds": 33347.11,
+          "clock": "09:15:47",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03520",
+          "start_seconds": 33914.13,
+          "clock": "09:25:14",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03521",
+          "start_seconds": 33926.38,
+          "clock": "09:25:26",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03523",
+          "start_seconds": 33950.66,
+          "clock": "09:25:50",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03527B",
+          "start_seconds": 33962.03,
+          "clock": "09:26:02",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03542",
+          "start_seconds": 34114.28,
+          "clock": "09:28:34",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03543C",
+          "start_seconds": 34133.86,
+          "clock": "09:28:53",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03548",
+          "start_seconds": 34158.5,
+          "clock": "09:29:18",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03549B",
+          "start_seconds": 34164.58,
+          "clock": "09:29:24",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S03555",
+          "start_seconds": 34181.51,
+          "clock": "09:29:41",
+          "speaker_name": "Janet D. Amora"
+        },
+        {
+          "segment_id": "S02411",
+          "start_seconds": 25998.78,
+          "clock": "07:13:18",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02412",
+          "start_seconds": 26047.52,
+          "clock": "07:14:07",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02413",
+          "start_seconds": 26090.64,
+          "clock": "07:14:50",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02414",
+          "start_seconds": 26114.55,
+          "clock": "07:15:14",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02415",
+          "start_seconds": 26241.2,
+          "clock": "07:17:21",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02424",
+          "start_seconds": 26371.94,
+          "clock": "07:19:31",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02426",
+          "start_seconds": 26469.52,
+          "clock": "07:21:09",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03354",
+          "start_seconds": 32985.15,
+          "clock": "09:09:45",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03356",
+          "start_seconds": 32997.2,
+          "clock": "09:09:57",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03357",
+          "start_seconds": 33010.38,
+          "clock": "09:10:10",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03358",
+          "start_seconds": 33084.26,
+          "clock": "09:11:24",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03362",
+          "start_seconds": 33167.35,
+          "clock": "09:12:47",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03364",
+          "start_seconds": 33186.89,
+          "clock": "09:13:06",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S02684",
+          "start_seconds": 28448.89,
+          "clock": "07:54:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02685",
+          "start_seconds": 28473.26,
+          "clock": "07:54:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03011",
+          "start_seconds": 30968.69,
+          "clock": "08:36:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03095",
+          "start_seconds": 31409.77,
+          "clock": "08:43:29",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03361",
+          "start_seconds": 33150.71,
+          "clock": "09:12:30",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03363",
+          "start_seconds": 33171.37,
+          "clock": "09:12:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Securities purchases and remaining holdings",
+      "id": "P010",
+      "kind": "finding",
+      "text": "The final witness, Janet D. Amora of BDO Securities, separated purchases from redemptions and acquisition cost from market valuation. For 2020 through 2025, she reported about twelve million nine hundred forty-five thousand pesos in equity purchases and twenty-two million five hundred thousand pesos in bond subscriptions. After redemptions, outstanding bonds were twelve million pesos. She described the equity position as about thirteen million and the combined year-end 2025 position as twenty-five million.\n\nThe account was solely Carpio's; notices went to him, and records lacked the Vice President's signature. Amora could not say whether she knew of the investments."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01333B",
+          "start_seconds": 16894.75,
+          "clock": "04:41:34",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01337B",
+          "start_seconds": 16933.79,
+          "clock": "04:42:13",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01338",
+          "start_seconds": 16934.41,
+          "clock": "04:42:14",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S01781",
+          "start_seconds": 20733.68,
+          "clock": "05:45:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01797",
+          "start_seconds": 20885.02,
+          "clock": "05:48:05",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02258",
+          "start_seconds": 24734.2,
+          "clock": "06:52:14",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00557",
+          "start_seconds": 4724.95,
+          "clock": "01:18:44",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01854",
+          "start_seconds": 21380.83,
+          "clock": "05:56:20",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S03248",
+          "start_seconds": 32369.89,
+          "clock": "08:59:29",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S03249",
+          "start_seconds": 32372.55,
+          "clock": "08:59:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03253",
+          "start_seconds": 32382.23,
+          "clock": "08:59:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03556",
+          "start_seconds": 34182.77,
+          "clock": "09:29:42",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S03557B",
+          "start_seconds": 34187.01,
+          "clock": "09:29:47",
+          "speaker_name": "Rep. Lordan G. Suan"
+        },
+        {
+          "segment_id": "S03560",
+          "start_seconds": 34202.8,
+          "clock": "09:30:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03560C",
+          "start_seconds": 34211.57,
+          "clock": "09:30:11",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03561",
+          "start_seconds": 34215.4,
+          "clock": "09:30:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S03571",
+          "start_seconds": 34288.79,
+          "clock": "09:31:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Where the hearing stopped",
+      "id": "P011",
+      "kind": "finding",
+      "text": "Amora completed cross-examination with no redirect and was excused. Her totals document remained for marking at the proper time outside open court. The prosecution requested deferral of the BIR witness; she was not presented and was excused for the day.\n\nThe clerk was to summarize requested bank material for the senator-judges and both parties. A requested BDO manager's-check explanation would be supplied if included in subpoenaed submissions, and the China and Hong Kong company-information request remained in process. The chair suspended trial until the following day at ten in the morning."
+    },
+    {
+      "citations": [],
+      "heading": "Closing",
+      "id": "P012",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the October 7, 2026 audio overview."
+    }
+  ],
+  "source_digest_id": 96,
+  "source_digest_sha256": "4c49f792723746c039de8779f48fbdf9857b3bc1b7bf5628efefca171fdb51f6",
+  "title": "October 7, 2026: Bank transactions, insurance values and the question of knowledge"
+}
