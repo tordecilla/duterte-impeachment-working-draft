@@ -1,0 +1,1650 @@
+{
+  "description": "An audio account of the BIR witness's income and cash figures, public-display rulings, and unfinished cross-examination.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for October 8, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00145",
+          "start_seconds": 18669.82,
+          "clock": "05:11:09",
+          "speaker_name": "Atty. Renato N. Bantug Jr."
+        },
+        {
+          "segment_id": "S00146",
+          "start_seconds": 18685.06,
+          "clock": "05:11:25",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00188",
+          "start_seconds": 19301.39,
+          "clock": "05:21:41",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00195",
+          "start_seconds": 19374.75,
+          "clock": "05:22:54",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00199",
+          "start_seconds": 19413.46,
+          "clock": "05:23:33",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00203",
+          "start_seconds": 19468.97,
+          "clock": "05:24:28",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00205",
+          "start_seconds": 19484.56,
+          "clock": "05:24:44",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00960",
+          "start_seconds": 27613.76,
+          "clock": "07:40:13",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01046R3",
+          "start_seconds": 28500.47,
+          "clock": "07:55:00",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01080R4",
+          "start_seconds": 28752.18,
+          "clock": "07:59:12",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01088",
+          "start_seconds": 28835.61,
+          "clock": "08:00:35",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01104",
+          "start_seconds": 28961.94,
+          "clock": "08:02:41",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01132",
+          "start_seconds": 29165.48,
+          "clock": "08:06:05",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ],
+      "id": "P002",
+      "kind": "finding",
+      "text": "Attorney Anne Loraine Garcia-Marquez, chief of staff to Bureau of Internal Revenue Commissioner Charlito Martin R. Mendoza, was the main witness. A lawyer and certified public accountant, she testified about tax records for Vice President Sara Duterte, her husband, Attorney Manases R. Carpio, and identified businesses. The prosecution examined income, cash balances and corporate interests. Defense counsel began testing the source and preparation of the BIR summaries."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00014B",
+          "start_seconds": 301.55,
+          "clock": "00:05:01",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00033",
+          "start_seconds": 503.26,
+          "clock": "00:08:23",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00055B",
+          "start_seconds": 1181.86,
+          "clock": "00:19:41",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00139",
+          "start_seconds": 18570.39,
+          "clock": "05:09:30",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00026",
+          "start_seconds": 362.28,
+          "clock": "00:06:02",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00052",
+          "start_seconds": 1007.27,
+          "clock": "00:16:47",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00064",
+          "start_seconds": 1420.46,
+          "clock": "00:23:40",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00084B2",
+          "start_seconds": 1849.62,
+          "clock": "00:30:49",
+          "speaker_name": "Atty. Sheila C. Sison"
+        }
+      ],
+      "id": "P003",
+      "kind": "finding",
+      "text": "The morning opened with a dispute over witness order. Representative Terry L. Ridon asked to present financial analyst Attorney Alexander Cabrera first because Attorney Erwin G. Matib, the lawyer assigned to the BIR witness, was ill. Attorney Sheila C. Sison objected: the defense had prepared for the BIR and had received no timely notice of a switch. She argued that preparation mattered during direct examination, not only during cross-examination."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00035",
+          "start_seconds": 766.12,
+          "clock": "00:12:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00036",
+          "start_seconds": 770.97,
+          "clock": "00:12:50",
+          "speaker_name": "Sen. Francis Pangilinan"
+        },
+        {
+          "segment_id": "S00037",
+          "start_seconds": 850.46,
+          "clock": "00:14:10",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00038",
+          "start_seconds": 857.72,
+          "clock": "00:14:17",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00039",
+          "start_seconds": 880.63,
+          "clock": "00:14:40",
+          "speaker_name": "Sen. Francis Pangilinan"
+        },
+        {
+          "segment_id": "S00043",
+          "start_seconds": 926.93,
+          "clock": "00:15:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00045",
+          "start_seconds": 941.68,
+          "clock": "00:15:41",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00052",
+          "start_seconds": 1007.27,
+          "clock": "00:16:47",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00078B3",
+          "start_seconds": 1672.38,
+          "clock": "00:27:52",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00105",
+          "start_seconds": 2624.18,
+          "clock": "00:43:44",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00106",
+          "start_seconds": 2629.4700000000003,
+          "clock": "00:43:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00110",
+          "start_seconds": 2638.9700000000003,
+          "clock": "00:43:58",
+          "speaker_name": "Sen. Francis Pangilinan"
+        },
+        {
+          "segment_id": "S00110B",
+          "start_seconds": 2662.49,
+          "clock": "00:44:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00056",
+          "start_seconds": 1188.23,
+          "clock": "00:19:48",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00057B",
+          "start_seconds": 1191.11,
+          "clock": "00:19:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00057B2",
+          "start_seconds": 1192.41,
+          "clock": "00:19:52",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S00058",
+          "start_seconds": 1238.54,
+          "clock": "00:20:38",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S00059",
+          "start_seconds": 1277.6,
+          "clock": "00:21:17",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00081B2",
+          "start_seconds": 1802.77,
+          "clock": "00:30:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00098",
+          "start_seconds": 2384.15,
+          "clock": "00:39:44",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00099",
+          "start_seconds": 2401.81,
+          "clock": "00:40:01",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S00100",
+          "start_seconds": 2532.63,
+          "clock": "00:42:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00061B2",
+          "start_seconds": 1294.19,
+          "clock": "00:21:34",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S00062",
+          "start_seconds": 1356.1,
+          "clock": "00:22:36",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S00076",
+          "start_seconds": 1640.54,
+          "clock": "00:27:20",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00081",
+          "start_seconds": 1732.52,
+          "clock": "00:28:52",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00113",
+          "start_seconds": 2708.89,
+          "clock": "00:45:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00114",
+          "start_seconds": 2754.71,
+          "clock": "00:45:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "id": "P004",
+      "kind": "finding",
+      "text": "Senator Francis Pangilinan initially proposed using the morning for the expert witness, with cross-examination later. The clerk confirmed that the forensic report had reached both parties on October 3. Senator Juan Miguel “Migz” F. Zubiri preferred BIR evidence first, asking about income taxes and export duties on Cale88 transactions before a financial analyst tied the evidence together. Senator Camille Villar urged a fair accommodation of both sides."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00069",
+          "start_seconds": 1507.96,
+          "clock": "00:25:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00070",
+          "start_seconds": 1542.5,
+          "clock": "00:25:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00070B",
+          "start_seconds": 1544.8,
+          "clock": "00:25:44",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00072",
+          "start_seconds": 1578.38,
+          "clock": "00:26:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00073",
+          "start_seconds": 1584.49,
+          "clock": "00:26:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00074",
+          "start_seconds": 1591.02,
+          "clock": "00:26:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00076",
+          "start_seconds": 1640.54,
+          "clock": "00:27:20",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00078B3",
+          "start_seconds": 1672.38,
+          "clock": "00:27:52",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00110B",
+          "start_seconds": 2662.49,
+          "clock": "00:44:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00113",
+          "start_seconds": 2708.89,
+          "clock": "00:45:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00124",
+          "start_seconds": 18498.24,
+          "clock": "05:08:18",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00100",
+          "start_seconds": 2532.63,
+          "clock": "00:42:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00100B",
+          "start_seconds": 2542.16,
+          "clock": "00:42:22",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00104",
+          "start_seconds": 2608.95,
+          "clock": "00:43:28",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00105",
+          "start_seconds": 2624.18,
+          "clock": "00:43:44",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00110",
+          "start_seconds": 2638.9700000000003,
+          "clock": "00:43:58",
+          "speaker_name": "Sen. Francis Pangilinan"
+        },
+        {
+          "segment_id": "S00114",
+          "start_seconds": 2754.71,
+          "clock": "00:45:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 1436.32,
+          "clock": "00:23:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00065B",
+          "start_seconds": 1445.97,
+          "clock": "00:24:05",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 1478.41,
+          "clock": "00:24:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00094",
+          "start_seconds": 2114.5,
+          "clock": "00:35:14",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S00095",
+          "start_seconds": 2120.5,
+          "clock": "00:35:20",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S00095B",
+          "start_seconds": 2186.42,
+          "clock": "00:36:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00099",
+          "start_seconds": 2401.81,
+          "clock": "00:40:01",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S00115",
+          "start_seconds": 2782.63,
+          "clock": "00:46:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00116",
+          "start_seconds": 2792.7200000000003,
+          "clock": "00:46:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "id": "P005",
+      "kind": "finding",
+      "text": "Senator Paolo Benigno “Bam” Aquino proposed giving another prosecutor time to prepare the BIR examination after the legislative session. Senator Erwin Tulfo questioned why the other prosecutors could not take over and warned against repeated delays. Senator Vicente C. Sotto III appealed for a morning recess. Pangilinan then yielded, saying proceeding would save less than an hour. Presiding Officer Senator Francis \"Chiz\" G. Escudero granted the appeal without a vote. That afternoon, Matib arrived and the BIR testimony went ahead."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00156B2",
+          "start_seconds": 18759.4,
+          "clock": "05:12:39",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00156B3",
+          "start_seconds": 18795.48,
+          "clock": "05:13:15",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00169",
+          "start_seconds": 19015.54,
+          "clock": "05:16:55",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00170",
+          "start_seconds": 19047.0,
+          "clock": "05:17:27",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00166",
+          "start_seconds": 18949.67,
+          "clock": "05:15:49",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00172",
+          "start_seconds": 19065.44,
+          "clock": "05:17:45",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00173",
+          "start_seconds": 19074.45,
+          "clock": "05:17:54",
+          "speaker_name": "Atty. Erwin G. Matib"
+        }
+      ],
+      "id": "P006",
+      "kind": "finding",
+      "text": "Before the testimony, Attorney Kristine R. Ferrer reserved the right to challenge submission of the tax records and asked that returns and summaries not be flashed publicly. She distinguished authorization for the court to inspect records from permission for public viewing. Matib argued that the records needed to be shown to prove their contents and said personal addresses, unrelated names and tax identification numbers had been redacted."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00213",
+          "start_seconds": 19569.79,
+          "clock": "05:26:09",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00214",
+          "start_seconds": 19593.45,
+          "clock": "05:26:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00215",
+          "start_seconds": 19620.49,
+          "clock": "05:27:00",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00215B2",
+          "start_seconds": 19629.81,
+          "clock": "05:27:09",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00298",
+          "start_seconds": 20943.64,
+          "clock": "05:49:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00299",
+          "start_seconds": 20953.83,
+          "clock": "05:49:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00307",
+          "start_seconds": 21053.81,
+          "clock": "05:50:53",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00315",
+          "start_seconds": 21230.36,
+          "clock": "05:53:50",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00316",
+          "start_seconds": 21270.74,
+          "clock": "05:54:30",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00253",
+          "start_seconds": 20500.92,
+          "clock": "05:41:40",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00257",
+          "start_seconds": 20530.97,
+          "clock": "05:42:10",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00264B",
+          "start_seconds": 20560.55,
+          "clock": "05:42:40",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00269",
+          "start_seconds": 20601.18,
+          "clock": "05:43:21",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00273",
+          "start_seconds": 20627.08,
+          "clock": "05:43:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00303B",
+          "start_seconds": 21044.48,
+          "clock": "05:50:44",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00308",
+          "start_seconds": 21093.52,
+          "clock": "05:51:33",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        }
+      ],
+      "id": "P007",
+      "kind": "finding",
+      "text": "The court made two separate decisions. It treated BIR records as public documents and prima facie evidence of authenticity, preserving defense challenges to execution and custody. For public display, it allowed the witness-created summaries and tables. Displaying the underlying subpoenaed source records required a separate request. Ferrer maintained that the summaries disclosed the same private information. Senator Pia S. Cayetano also questioned whether inspection authority extended to public display."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00234",
+          "start_seconds": 19824.76,
+          "clock": "05:30:24",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00235",
+          "start_seconds": 19838.17,
+          "clock": "05:30:38",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00237",
+          "start_seconds": 19867.5,
+          "clock": "05:31:07",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00318",
+          "start_seconds": 21309.49,
+          "clock": "05:55:09",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00320",
+          "start_seconds": 21342.96,
+          "clock": "05:55:42",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00322",
+          "start_seconds": 21351.2,
+          "clock": "05:55:51",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00324",
+          "start_seconds": 21357.43,
+          "clock": "05:55:57",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00346",
+          "start_seconds": 21440.49,
+          "clock": "05:57:20",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00348",
+          "start_seconds": 21469.94,
+          "clock": "05:57:49",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00353",
+          "start_seconds": 21515.01,
+          "clock": "05:58:35",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00354",
+          "start_seconds": 21525.55,
+          "clock": "05:58:45",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00355",
+          "start_seconds": 21530.85,
+          "clock": "05:58:50",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00359",
+          "start_seconds": 21566.28,
+          "clock": "05:59:26",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00362B",
+          "start_seconds": 21598.72,
+          "clock": "05:59:58",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00371",
+          "start_seconds": 21664.82,
+          "clock": "06:01:04",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        }
+      ],
+      "id": "P008",
+      "kind": "finding",
+      "text": "Garcia-Marquez said the October 6 summaries answered the prosecution panel's request. Revenue district staff encoded figures, while technical assistants in the commissioner's office reviewed them. She finalized the summaries. Reading Annex A, she gave the spouses' combined income net of expenses and tax from 2007 through 2025 as 85 million, 343 thousand, 803 pesos and 23 centavos."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00346",
+          "start_seconds": 21440.49,
+          "clock": "05:57:20",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00348",
+          "start_seconds": 21469.94,
+          "clock": "05:57:49",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00353",
+          "start_seconds": 21515.01,
+          "clock": "05:58:35",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00354",
+          "start_seconds": 21525.55,
+          "clock": "05:58:45",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00355",
+          "start_seconds": 21530.85,
+          "clock": "05:58:50",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00359",
+          "start_seconds": 21566.28,
+          "clock": "05:59:26",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00362B",
+          "start_seconds": 21598.72,
+          "clock": "05:59:58",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00371",
+          "start_seconds": 21664.82,
+          "clock": "06:01:04",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00410",
+          "start_seconds": 22137.47,
+          "clock": "06:08:57",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00412",
+          "start_seconds": 22161.24,
+          "clock": "06:09:21",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00419",
+          "start_seconds": 22218.51,
+          "clock": "06:10:18",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00422",
+          "start_seconds": 22239.5,
+          "clock": "06:10:39",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00423",
+          "start_seconds": 22247.86,
+          "clock": "06:10:47",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00425",
+          "start_seconds": 22261.72,
+          "clock": "06:11:01",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00461",
+          "start_seconds": 22496.03,
+          "clock": "06:14:56",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00463B",
+          "start_seconds": 22505.03,
+          "clock": "06:15:05",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        }
+      ],
+      "id": "P009",
+      "kind": "finding",
+      "text": "She said the filed returns reported no amounts in the non-taxable-income and final-tax-income lines. From the spouses' joint audited financial statements, she read cash on hand and in banks of about 21.23 million pesos at the end of 2022, 28.97 million in 2023, 15.53 million in 2024 and 13.80 million in 2025."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00176",
+          "start_seconds": 19124.64,
+          "clock": "05:18:44",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00177",
+          "start_seconds": 19153.13,
+          "clock": "05:19:13",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00178",
+          "start_seconds": 19205.77,
+          "clock": "05:20:05",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00179",
+          "start_seconds": 19210.38,
+          "clock": "05:20:10",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00373B3",
+          "start_seconds": 21687.86,
+          "clock": "06:01:27",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00375",
+          "start_seconds": 21752.54,
+          "clock": "06:02:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00378",
+          "start_seconds": 21762.71,
+          "clock": "06:02:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00434B",
+          "start_seconds": 22293.99,
+          "clock": "06:11:33",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00437",
+          "start_seconds": 22313.04,
+          "clock": "06:11:53",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00385",
+          "start_seconds": 21807.39,
+          "clock": "06:03:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "id": "P010",
+      "kind": "finding",
+      "text": "Matib compared the combined income total with roughly 98.66 million pesos in net worth declared in Duterte's 2025 SALN. He argued that the records supported discrepancies in income, assets and professional earnings under Article Two. Escudero cautioned him against supplying the forensic comparison himself, allowing the statement to remain but directing that it not be repeated. The chair sustained an objection to asking this witness how cash should be classified in a SALN."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00224",
+          "start_seconds": 19693.81,
+          "clock": "05:28:13",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00227",
+          "start_seconds": 19726.95,
+          "clock": "05:28:46",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00446",
+          "start_seconds": 22394.53,
+          "clock": "06:13:14",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00448",
+          "start_seconds": 22416.02,
+          "clock": "06:13:36",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00449B",
+          "start_seconds": 22430.18,
+          "clock": "06:13:50",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00461",
+          "start_seconds": 22496.03,
+          "clock": "06:14:56",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00463B",
+          "start_seconds": 22505.03,
+          "clock": "06:15:05",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00486",
+          "start_seconds": 22634.69,
+          "clock": "06:17:14",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00489",
+          "start_seconds": 22669.28,
+          "clock": "06:17:49",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00490",
+          "start_seconds": 22679.01,
+          "clock": "06:17:59",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00491",
+          "start_seconds": 22688.35,
+          "clock": "06:18:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00434B",
+          "start_seconds": 22293.99,
+          "clock": "06:11:33",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00607",
+          "start_seconds": 23502.36,
+          "clock": "06:31:42",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00608B",
+          "start_seconds": 23534.59,
+          "clock": "06:32:14",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ],
+      "id": "P011",
+      "kind": "finding",
+      "text": "Other income drew a separate challenge. Garcia-Marquez read approximately 1.08 million pesos for 2025 and 1.06 million for 2024 from the joint financial statements, apart from compensation. She said the statements did not identify its source. Her association with legal practice came from Duterte's BIR registration as a professional engaged in legal activities. Ferrer challenged that inference. The chair noted that the witness had not been qualified as an expert."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00506",
+          "start_seconds": 22839.11,
+          "clock": "06:20:39",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00509",
+          "start_seconds": 22852.38,
+          "clock": "06:20:52",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00511",
+          "start_seconds": 22858.6,
+          "clock": "06:20:58",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00513",
+          "start_seconds": 22879.14,
+          "clock": "06:21:19",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00515",
+          "start_seconds": 22907.11,
+          "clock": "06:21:47",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00594",
+          "start_seconds": 23337.68,
+          "clock": "06:28:57",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00599",
+          "start_seconds": 23406.41,
+          "clock": "06:30:06",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00601",
+          "start_seconds": 23427.32,
+          "clock": "06:30:27",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00602",
+          "start_seconds": 23435.42,
+          "clock": "06:30:35",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00613",
+          "start_seconds": 23563.41,
+          "clock": "06:32:43",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00615",
+          "start_seconds": 23586.45,
+          "clock": "06:33:06",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00617",
+          "start_seconds": 23624.65,
+          "clock": "06:33:44",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00618",
+          "start_seconds": 23631.55,
+          "clock": "06:33:51",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00668",
+          "start_seconds": 24044.23,
+          "clock": "06:40:44",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00670",
+          "start_seconds": 24065.4,
+          "clock": "06:41:05",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00672",
+          "start_seconds": 24086.67,
+          "clock": "06:41:26",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00673B",
+          "start_seconds": 24107.49,
+          "clock": "06:41:47",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00627B",
+          "start_seconds": 23704.45,
+          "clock": "06:35:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00629",
+          "start_seconds": 23708.11,
+          "clock": "06:35:08",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00630",
+          "start_seconds": 23714.17,
+          "clock": "06:35:14",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00631",
+          "start_seconds": 23715.17,
+          "clock": "06:35:15",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00634",
+          "start_seconds": 23726.81,
+          "clock": "06:35:26",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00638",
+          "start_seconds": 23741.68,
+          "clock": "06:35:41",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00638B",
+          "start_seconds": 23751.38,
+          "clock": "06:35:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00640",
+          "start_seconds": 23758.25,
+          "clock": "06:35:58",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00643",
+          "start_seconds": 23778.62,
+          "clock": "06:36:18",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00645",
+          "start_seconds": 23795.86,
+          "clock": "06:36:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00675",
+          "start_seconds": 24120.11,
+          "clock": "06:42:00",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00688",
+          "start_seconds": 24244.78,
+          "clock": "06:44:04",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00606",
+          "start_seconds": 23491.55,
+          "clock": "06:31:31",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00589B2",
+          "start_seconds": 23319.98,
+          "clock": "06:28:39",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ],
+      "id": "P012",
+      "kind": "finding",
+      "text": "The witness also identified a signed BIR Form 2316 attached to Duterte's 2023 return naming the City Government of Davao as employer. Earlier-year returns supplied additional revenue entries. Senator Panfilo “Ping” M. Lacson questioned applying the constitutional professional-practice restriction to 2021, when Duterte was mayor. The court limited pre-vice-presidency material to a baseline or pattern, not an additional impeachment charge, and required counsel to separate document contents from requested BIR inferences."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00781",
+          "start_seconds": 25083.46,
+          "clock": "06:58:03",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00783",
+          "start_seconds": 25143.36,
+          "clock": "06:59:03",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00785",
+          "start_seconds": 25176.29,
+          "clock": "06:59:36",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00787",
+          "start_seconds": 25236.39,
+          "clock": "07:00:36",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00791",
+          "start_seconds": 25283.4,
+          "clock": "07:01:23",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00793",
+          "start_seconds": 25302.2,
+          "clock": "07:01:42",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00826",
+          "start_seconds": 25586.42,
+          "clock": "07:06:26",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00836",
+          "start_seconds": 25741.73,
+          "clock": "07:09:01",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00841",
+          "start_seconds": 25762.69,
+          "clock": "07:09:22",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00794",
+          "start_seconds": 25303.5,
+          "clock": "07:01:43",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00797",
+          "start_seconds": 25323.48,
+          "clock": "07:02:03",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00802",
+          "start_seconds": 25333.68,
+          "clock": "07:02:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00828",
+          "start_seconds": 25668.37,
+          "clock": "07:07:48",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00833",
+          "start_seconds": 25703.62,
+          "clock": "07:08:23",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "id": "P013",
+      "kind": "finding",
+      "text": "On Cale88, Garcia-Marquez read a certification that the BIR database held no record of Manases Carpio's share transfer or related tax payments. She said no electronic certificate authorizing registration had been issued and no application was pending. She described tax-payment requirements before stock-book registration. Escudero asked whether the absence of an electronic certificate invalidated a transfer; she said it could remain valid between the parties. The court struck Matib's characterization of the sale as fake after Ferrer objected that it was a conclusion."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00853",
+          "start_seconds": 25853.91,
+          "clock": "07:10:53",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00855",
+          "start_seconds": 25921.65,
+          "clock": "07:12:01",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00856",
+          "start_seconds": 25931.28,
+          "clock": "07:12:11",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00860",
+          "start_seconds": 25964.97,
+          "clock": "07:12:44",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00862",
+          "start_seconds": 25973.34,
+          "clock": "07:12:53",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00866R1",
+          "start_seconds": 26018.29,
+          "clock": "07:13:38",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00871",
+          "start_seconds": 26072.26,
+          "clock": "07:14:32",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00874",
+          "start_seconds": 26092.49,
+          "clock": "07:14:52",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00876",
+          "start_seconds": 26099.57,
+          "clock": "07:14:59",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00553",
+          "start_seconds": 23160.81,
+          "clock": "06:26:00",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00555",
+          "start_seconds": 23172.53,
+          "clock": "06:26:12",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00557",
+          "start_seconds": 23174.87,
+          "clock": "06:26:14",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00559",
+          "start_seconds": 23182.43,
+          "clock": "06:26:22",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00562",
+          "start_seconds": 23198.33,
+          "clock": "06:26:38",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00565",
+          "start_seconds": 23209.53,
+          "clock": "06:26:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00566",
+          "start_seconds": 23215.67,
+          "clock": "06:26:55",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00574B2",
+          "start_seconds": 23233.81,
+          "clock": "06:27:13",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00579",
+          "start_seconds": 23239.09,
+          "clock": "06:27:19",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00581",
+          "start_seconds": 23246.09,
+          "clock": "06:27:26",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00581B",
+          "start_seconds": 23247.49,
+          "clock": "06:27:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00584",
+          "start_seconds": 23263.33,
+          "clock": "06:27:43",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00585B2",
+          "start_seconds": 23274.17,
+          "clock": "06:27:54",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00587",
+          "start_seconds": 23279.75,
+          "clock": "06:27:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "id": "P014",
+      "kind": "finding",
+      "text": "The witness confirmed that Duterte and Carpio had signed the 2025 management-responsibility statements as proprietors, but that the statements were not sworn. She also said lawful and unlawful income are taxable. Asked about a BIR audit, she confirmed a letter of authority had been issued in relation to Duterte or her spouse, but said the details were confidential and outside the subpoena. Escudero left that inquiry there."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00938",
+          "start_seconds": 27405.69,
+          "clock": "07:36:45",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00938R1",
+          "start_seconds": 27427.64,
+          "clock": "07:37:07",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00941",
+          "start_seconds": 27444.23,
+          "clock": "07:37:24",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00942",
+          "start_seconds": 27456.67,
+          "clock": "07:37:36",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00943",
+          "start_seconds": 27464.05,
+          "clock": "07:37:44",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00960",
+          "start_seconds": 27613.76,
+          "clock": "07:40:13",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00962R4",
+          "start_seconds": 27653.47,
+          "clock": "07:40:53",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00969",
+          "start_seconds": 27733.17,
+          "clock": "07:42:13",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00970",
+          "start_seconds": 27753.42,
+          "clock": "07:42:33",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00971",
+          "start_seconds": 27768.56,
+          "clock": "07:42:48",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00972",
+          "start_seconds": 27770.2,
+          "clock": "07:42:50",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00974",
+          "start_seconds": 27773.54,
+          "clock": "07:42:53",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00975",
+          "start_seconds": 27795.59,
+          "clock": "07:43:15",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01077",
+          "start_seconds": 28717.24,
+          "clock": "07:58:37",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01079",
+          "start_seconds": 28727.9,
+          "clock": "07:58:47",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01082",
+          "start_seconds": 28769.21,
+          "clock": "07:59:29",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01098",
+          "start_seconds": 28883.79,
+          "clock": "08:01:23",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01099",
+          "start_seconds": 28893.9,
+          "clock": "08:01:33",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01106R2",
+          "start_seconds": 29018.41,
+          "clock": "08:03:38",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01124",
+          "start_seconds": 29096.64,
+          "clock": "08:04:56",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01126",
+          "start_seconds": 29118.58,
+          "clock": "08:05:18",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01128",
+          "start_seconds": 29125.87,
+          "clock": "08:05:25",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01130",
+          "start_seconds": 29139.66,
+          "clock": "08:05:39",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00206",
+          "start_seconds": 19494.46,
+          "clock": "05:24:54",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S01058",
+          "start_seconds": 28633.97,
+          "clock": "07:57:13",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S01100R1",
+          "start_seconds": 28945.05,
+          "clock": "08:02:25",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S01105",
+          "start_seconds": 28996.4,
+          "clock": "08:03:16",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "id": "P015",
+      "kind": "finding",
+      "text": "Ferrer's cross-examination focused on how the evidence was assembled. Garcia-Marquez said she instructed regional offices to retrieve records with the commissioner's permission, but did not personally retrieve them. Revenue district staff encoded the original figures. Escudero compared the July 30 tables with the October 6 summaries. She said the later summaries were simpler, answered a specific prosecution request and added columns for non-taxable income and income subject to final tax. Her office encoded those columns and income net of tax from copies of annual returns. Matib resisted describing the later summaries as merely copied from the earlier tables."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01149",
+          "start_seconds": 29283.92,
+          "clock": "08:08:03",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01158",
+          "start_seconds": 29352.68,
+          "clock": "08:09:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01165",
+          "start_seconds": 29419.97,
+          "clock": "08:10:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01166",
+          "start_seconds": 29438.53,
+          "clock": "08:10:38",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01173",
+          "start_seconds": 29468.01,
+          "clock": "08:11:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01174",
+          "start_seconds": 29474.09,
+          "clock": "08:11:14",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "id": "P016",
+      "kind": "finding",
+      "text": "Cross-examination was unfinished when the court stopped. Ferrer estimated at least two more hours. Escudero aimed to finish the BIR before lunch the next day, then proceed to the financial analyst. Garcia-Marquez committed to return with a new subpoena. The trial adjourned until October 9 at ten in the morning."
+    },
+    {
+      "citations": [],
+      "id": "P017",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the October 8, 2026 audio overview."
+    }
+  ],
+  "source_digest_id": 99,
+  "source_digest_sha256": "c0409268f324a15f4b7b34e4c572837fcb1fb67c288e76d5743fbf5fbf861809",
+  "title": "October 8, 2026: BIR testimony and the tax-record summaries"
+}
