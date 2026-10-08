@@ -1,0 +1,4158 @@
+{
+  "session_id": 35,
+  "revision_id": 109,
+  "state": "approved",
+  "scope": "Account amounts stated or expressly confirmed by witnesses; excludes SALN comparisons and counsel/senator readouts.",
+  "rows": [
+    {
+      "id": "early-001-2022",
+      "institution": "Asia United Bank",
+      "owner": "Manases Carpio-related account ending 4387",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "314,059.17",
+      "measure": "year-end balances",
+      "asserted_by": "Arcy James Gonzales",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00073",
+          "start_seconds": 896.59
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 843.88
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 851.35
+        },
+        {
+          "segment_id": "S00069",
+          "start_seconds": 887.09
+        }
+      ],
+      "summary": "Witness did not name the other account holder."
+    },
+    {
+      "id": "early-001-2023",
+      "institution": "Asia United Bank",
+      "owner": "Manases Carpio-related account ending 4387",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "470,869.30",
+      "measure": "year-end balances",
+      "asserted_by": "Arcy James Gonzales",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00078",
+          "start_seconds": 935.96
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 843.88
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 851.35
+        }
+      ],
+      "summary": "Witness did not name the other account holder."
+    },
+    {
+      "id": "early-001-2024",
+      "institution": "Asia United Bank",
+      "owner": "Manases Carpio-related account ending 4387",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "456,352.28",
+      "measure": "year-end balances",
+      "asserted_by": "Arcy James Gonzales",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00083",
+          "start_seconds": 973.83
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 843.88
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 851.35
+        }
+      ],
+      "summary": "Witness did not name the other account holder."
+    },
+    {
+      "id": "early-001-2025",
+      "institution": "Asia United Bank",
+      "owner": "Manases Carpio-related account ending 4387",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "0.00",
+      "measure": "year-end balances",
+      "asserted_by": "Arcy James Gonzales",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00087",
+          "start_seconds": 1003.37
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 843.88
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 851.35
+        }
+      ],
+      "summary": "Account closed in 2025."
+    },
+    {
+      "id": "early-005-2022",
+      "institution": "Asia United Bank",
+      "owner": "Manases Carpio-related account ending 0301",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "1,682,094.21",
+      "measure": "year-end balances",
+      "asserted_by": "Arcy James Gonzales",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00075",
+          "start_seconds": 910.22
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 843.88
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 851.35
+        }
+      ],
+      "summary": "Witness did not name the other account holder."
+    },
+    {
+      "id": "early-005-2023",
+      "institution": "Asia United Bank",
+      "owner": "Manases Carpio-related account ending 0301",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "1,774,663.58",
+      "measure": "year-end balances",
+      "asserted_by": "Arcy James Gonzales",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00080",
+          "start_seconds": 951.79
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 843.88
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 851.35
+        }
+      ],
+      "summary": "Witness did not name the other account holder."
+    },
+    {
+      "id": "early-005-2024",
+      "institution": "Asia United Bank",
+      "owner": "Manases Carpio-related account ending 0301",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "867,291.90",
+      "measure": "year-end balances",
+      "asserted_by": "Arcy James Gonzales",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00085",
+          "start_seconds": 988.85
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 843.88
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 851.35
+        }
+      ],
+      "summary": "Witness did not name the other account holder."
+    },
+    {
+      "id": "early-005-2025",
+      "institution": "Asia United Bank",
+      "owner": "Manases Carpio-related account ending 0301",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "871,998.77",
+      "measure": "year-end balances",
+      "asserted_by": "Arcy James Gonzales",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00089",
+          "start_seconds": 1023.64
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 843.88
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 851.35
+        }
+      ],
+      "summary": "Witness did not name the other account holder."
+    },
+    {
+      "id": "early-009-2022",
+      "institution": "PSBank",
+      "owner": "Sara Zimmerman Duterte, peso time deposit ending 3853",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "2,029,237.88",
+      "measure": "year-end balances",
+      "asserted_by": "Irene Joy Cadiente Ishida",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00180",
+          "start_seconds": 1642.88
+        },
+        {
+          "segment_id": "S00170",
+          "start_seconds": 1581.48
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-009-2023",
+      "institution": "PSBank",
+      "owner": "Sara Zimmerman Duterte, peso time deposit ending 3853",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "2,080,023.45",
+      "measure": "year-end balances",
+      "asserted_by": "Irene Joy Cadiente Ishida",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00184",
+          "start_seconds": 1699.09
+        },
+        {
+          "segment_id": "S00170",
+          "start_seconds": 1581.48
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-009-2024",
+      "institution": "PSBank",
+      "owner": "Sara Zimmerman Duterte, peso time deposit ending 3853",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "2,133,658.78",
+      "measure": "year-end balances",
+      "asserted_by": "Irene Joy Cadiente Ishida",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00188",
+          "start_seconds": 1744.59
+        },
+        {
+          "segment_id": "S00170",
+          "start_seconds": 1581.48
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-009-2025",
+      "institution": "PSBank",
+      "owner": "Sara Zimmerman Duterte, peso time deposit ending 3853",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "2,188,222.18",
+      "measure": "year-end balances",
+      "asserted_by": "Irene Joy Cadiente Ishida",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00192",
+          "start_seconds": 1794.67
+        },
+        {
+          "segment_id": "S00170",
+          "start_seconds": 1581.48
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-013-2022",
+      "institution": "PSBank",
+      "owner": "Manases Reyes Carpio, passbook savings ending 2107",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "473,845.96",
+      "measure": "year-end balances",
+      "asserted_by": "Irene Joy Cadiente Ishida",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00182",
+          "start_seconds": 1671.45
+        },
+        {
+          "segment_id": "S00176",
+          "start_seconds": 1609.3
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-013-2023",
+      "institution": "PSBank",
+      "owner": "Manases Reyes Carpio, passbook savings ending 2107",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "503,550.96",
+      "measure": "year-end balances",
+      "asserted_by": "Irene Joy Cadiente Ishida",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00186",
+          "start_seconds": 1721.03
+        },
+        {
+          "segment_id": "S00176",
+          "start_seconds": 1609.3
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-013-2024",
+      "institution": "PSBank",
+      "owner": "Manases Reyes Carpio, passbook savings ending 2107",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "480,076.09",
+      "measure": "year-end balances",
+      "asserted_by": "Irene Joy Cadiente Ishida",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00190",
+          "start_seconds": 1768.4
+        },
+        {
+          "segment_id": "S00176",
+          "start_seconds": 1609.3
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-013-2025",
+      "institution": "PSBank",
+      "owner": "Manases Reyes Carpio, passbook savings ending 2107",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "259,792.87",
+      "measure": "year-end balances",
+      "asserted_by": "Irene Joy Cadiente Ishida",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00194",
+          "start_seconds": 1814.44
+        },
+        {
+          "segment_id": "S00176",
+          "start_seconds": 1609.3
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-017-2022",
+      "institution": "Metrobank",
+      "owner": "Manases Reyes Carpio or Sara Zimmerman Duterte, joint account ending 3876",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "2,278,832.33",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00297",
+          "start_seconds": 2457.32
+        },
+        {
+          "segment_id": "S00298",
+          "start_seconds": 2466.33
+        },
+        {
+          "segment_id": "S00289",
+          "start_seconds": 2385.04
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-017-2023",
+      "institution": "Metrobank",
+      "owner": "Manases Reyes Carpio or Sara Zimmerman Duterte, joint account ending 3876",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "2,436,156.69",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00308",
+          "start_seconds": 2558.36
+        },
+        {
+          "segment_id": "S00289",
+          "start_seconds": 2385.04
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-017-2024",
+      "institution": "Metrobank",
+      "owner": "Manases Reyes Carpio or Sara Zimmerman Duterte, joint account ending 3876",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "330,896.40",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00314",
+          "start_seconds": 2629.82
+        },
+        {
+          "segment_id": "S00289",
+          "start_seconds": 2385.04
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-017-2025",
+      "institution": "Metrobank",
+      "owner": "Manases Reyes Carpio or Sara Zimmerman Duterte, joint account ending 3876",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "55,273.18",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00320",
+          "start_seconds": 2689.26
+        },
+        {
+          "segment_id": "S00289",
+          "start_seconds": 2385.04
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-025-2022",
+      "institution": "Metrobank",
+      "owner": "Unnamed child of Duterte/Carpio, account ending 5263",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "1,184,168.02",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00304",
+          "start_seconds": 2514.7
+        },
+        {
+          "segment_id": "S00293",
+          "start_seconds": 2418.2799999999997
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-025-2023",
+      "institution": "Metrobank",
+      "owner": "Unnamed child of Duterte/Carpio, account ending 5263",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "1,330,800.53",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00312",
+          "start_seconds": 2606.21
+        },
+        {
+          "segment_id": "S00293",
+          "start_seconds": 2418.2799999999997
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-025-2024",
+      "institution": "Metrobank",
+      "owner": "Unnamed child of Duterte/Carpio, account ending 5263",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "1,458,423.09",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00318",
+          "start_seconds": 2668.46
+        },
+        {
+          "segment_id": "S00293",
+          "start_seconds": 2418.2799999999997
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-025-2025",
+      "institution": "Metrobank",
+      "owner": "Unnamed child of Duterte/Carpio, account ending 5263",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "1,459,162.56",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00326",
+          "start_seconds": 2722.13
+        },
+        {
+          "segment_id": "S00293",
+          "start_seconds": 2418.2799999999997
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-021-2022",
+      "institution": "Metrobank",
+      "owner": "Sara Zimmerman Duterte, account ending 2445",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "85,556.33",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00300",
+          "start_seconds": 2484.6
+        },
+        {
+          "segment_id": "S00295",
+          "start_seconds": 2431.54
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-021-2023",
+      "institution": "Metrobank",
+      "owner": "Sara Zimmerman Duterte, account ending 2445",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "85,556.33",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00310",
+          "start_seconds": 2580.69
+        },
+        {
+          "segment_id": "S00295",
+          "start_seconds": 2431.54
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-021-2024",
+      "institution": "Metrobank",
+      "owner": "Sara Zimmerman Duterte, account ending 2445",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "85,581.89",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00316",
+          "start_seconds": 2650.08
+        },
+        {
+          "segment_id": "S00295",
+          "start_seconds": 2431.54
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-021-2025",
+      "institution": "Metrobank",
+      "owner": "Sara Zimmerman Duterte, account ending 2445",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "85,625.29",
+      "measure": "year-end balances",
+      "asserted_by": "Atty. Niña Feren Alquiroz-Aguilar",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00323",
+          "start_seconds": 2706.16
+        },
+        {
+          "segment_id": "S00295",
+          "start_seconds": 2431.54
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-029-2022",
+      "institution": "Security Bank",
+      "owner": "Manases Reyes Carpio, checking account ending 4534",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "25,074.34",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00473",
+          "start_seconds": 3892.06
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "early-029-2023",
+      "institution": "Security Bank",
+      "owner": "Manases Reyes Carpio, checking account ending 4534",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "232,134.27",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00475",
+          "start_seconds": 3916.92
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "early-029-2024",
+      "institution": "Security Bank",
+      "owner": "Manases Reyes Carpio, checking account ending 4534",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "344,388.90",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00477",
+          "start_seconds": 3934.02
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "early-029-2025",
+      "institution": "Security Bank",
+      "owner": "Manases Reyes Carpio, checking account ending 4534",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "935,923.41",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00479",
+          "start_seconds": 3949.35
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "early-033-2024",
+      "institution": "Security Bank",
+      "owner": "Cale88 account ending 2013",
+      "period": "2024 (later explicit testimony)",
+      "currency": "PHP",
+      "amount": "332,530.95",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00519",
+          "start_seconds": 4256.78
+        },
+        {
+          "segment_id": "S00521",
+          "start_seconds": 4281.91
+        },
+        {
+          "segment_id": "S00559",
+          "start_seconds": 4793.96
+        },
+        {
+          "segment_id": "S00529",
+          "start_seconds": 4403.62
+        }
+      ],
+      "summary": "Witness later assigned this balance to 2024; the initial answer gave December 2025."
+    },
+    {
+      "id": "early-033-2025",
+      "institution": "Security Bank",
+      "owner": "Cale88 account ending 2013",
+      "period": "December 2025",
+      "currency": "PHP",
+      "amount": "16,987.59",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00529",
+          "start_seconds": 4403.62
+        }
+      ],
+      "summary": "Witness’s later year-by-year answer."
+    },
+    {
+      "id": "early-034",
+      "institution": "Security Bank",
+      "owner": "Cale88 account ending 8581",
+      "period": "December 2025",
+      "currency": "PHP",
+      "amount": "21,164.27",
+      "measure": "year-end balance",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00519",
+          "start_seconds": 4256.78
+        },
+        {
+          "segment_id": "S00521",
+          "start_seconds": 4281.91
+        }
+      ],
+      "summary": "Not a closure-date balance: witness specifies December 2025 and says both closed July 2026."
+    },
+    {
+      "id": "early-037",
+      "institution": "Security Bank",
+      "owner": "Cale88",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "40,138,766.28",
+      "measure": "annual inflow",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00582",
+          "start_seconds": 4928.92
+        },
+        {
+          "segment_id": "S00572",
+          "start_seconds": 4891.47
+        },
+        {
+          "segment_id": "S00566",
+          "start_seconds": 4853.57
+        }
+      ],
+      "summary": "Annual inflow."
+    },
+    {
+      "id": "early-038",
+      "institution": "Security Bank",
+      "owner": "Cale88",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "40,001,101.79",
+      "measure": "annual outflow",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00576",
+          "start_seconds": 4907.8
+        },
+        {
+          "segment_id": "S00578",
+          "start_seconds": 4919.68
+        },
+        {
+          "segment_id": "S00580",
+          "start_seconds": 4924.68
+        }
+      ],
+      "summary": "Annual outflow."
+    },
+    {
+      "id": "early-039",
+      "institution": "Security Bank",
+      "owner": "Cale88",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "6,265,915.66",
+      "measure": "annual inflow",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00585",
+          "start_seconds": 4941.0599999999995
+        },
+        {
+          "segment_id": "S00586B",
+          "start_seconds": 4951.51
+        },
+        {
+          "segment_id": "S00587",
+          "start_seconds": 4951.87
+        }
+      ],
+      "summary": "Annual inflow."
+    },
+    {
+      "id": "early-041-2022",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 6890",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "7,881,829.18",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00634",
+          "start_seconds": 5344.5599999999995
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-041-2023",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 6890",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "10,674,113.05",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00634",
+          "start_seconds": 5344.5599999999995
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-041-2024",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 6890",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "9,044,516.71",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00634",
+          "start_seconds": 5344.5599999999995
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-041-2025",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 6890",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "3,279,422.28",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00634",
+          "start_seconds": 5344.5599999999995
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-045-2022",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 7044",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "2,276,435.05",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00634",
+          "start_seconds": 5344.5599999999995
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-045-2023",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 7044",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "3,116,258.02",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00634",
+          "start_seconds": 5344.5599999999995
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-045-2024",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 7044",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "4,547,203.46",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00635",
+          "start_seconds": 5400.0
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-045-2025",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 7044",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "2,372,195.00",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00635",
+          "start_seconds": 5400.0
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-049-2023",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 7204",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "3,181,032.06",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00635",
+          "start_seconds": 5400.0
+        }
+      ],
+      "summary": "Corporate account."
+    },
+    {
+      "id": "early-049-2024",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 7204",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "5,053,327.02",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00635",
+          "start_seconds": 5400.0
+        }
+      ],
+      "summary": "Corporate account."
+    },
+    {
+      "id": "early-049-2025",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 7204",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "4,138,640.65",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00637",
+          "start_seconds": 5449.51
+        },
+        {
+          "segment_id": "S00635",
+          "start_seconds": 5400.0
+        }
+      ],
+      "summary": "Witness initially gave 4,138,640.05, then repeated 4,138,640.65."
+    },
+    {
+      "id": "early-052-2022",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 7215",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "14,593,620.72",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00640",
+          "start_seconds": 5469.8
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-052-2023",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 7215",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "15,658,349.55",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00640",
+          "start_seconds": 5469.8
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-052-2024",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 7215",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "11,301,205.63",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00640",
+          "start_seconds": 5469.8
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-055-2023",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 6022",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "501,390.50",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00640",
+          "start_seconds": 5469.8
+        }
+      ],
+      "summary": "Corporate account."
+    },
+    {
+      "id": "early-055-2024",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 6022",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "1,500,642.31",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00640",
+          "start_seconds": 5469.8
+        }
+      ],
+      "summary": "Corporate account."
+    },
+    {
+      "id": "early-055-2025",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 6022",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "1,501,492.75",
+      "measure": "year-end balances",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00640",
+          "start_seconds": 5469.8
+        }
+      ],
+      "summary": "Corporate account."
+    },
+    {
+      "id": "early-058",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 2772",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "3,189,501.58",
+      "measure": "year-end balance",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00641",
+          "start_seconds": 5538.29
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-059",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 18336",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "18,656.16",
+      "measure": "year-end balance",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00642",
+          "start_seconds": 5559.53
+        }
+      ],
+      "summary": "Corporate owner, not a personal Duterte balance."
+    },
+    {
+      "id": "early-060",
+      "institution": "Security Bank",
+      "owner": "GenCorp, corporate account ending 9710",
+      "period": "current testimony; year not explicit",
+      "currency": "PHP",
+      "amount": "0.00",
+      "measure": "Current balance; year not specified",
+      "asserted_by": "Leslie Y. Cham",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00642",
+          "start_seconds": 5559.53
+        }
+      ],
+      "summary": "Corporate account; witness reported a zero balance at the time discussed, without an explicit year-end date."
+    },
+    {
+      "id": "early-061-2022",
+      "institution": "BPI",
+      "owner": "Sara Zimmerman Duterte; Greenhills EDSA, account ending 7742",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "10,542.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00743",
+          "start_seconds": 11926.79
+        },
+        {
+          "segment_id": "S00712",
+          "start_seconds": 11572.21
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-061-2023",
+      "institution": "BPI",
+      "owner": "Sara Zimmerman Duterte; Greenhills EDSA, account ending 7742",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "9,442.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00758",
+          "start_seconds": 12126.05
+        },
+        {
+          "segment_id": "S00712",
+          "start_seconds": 11572.21
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-061-2024",
+      "institution": "BPI",
+      "owner": "Sara Zimmerman Duterte; Greenhills EDSA, account ending 7742",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "6,842.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00774B",
+          "start_seconds": 12283.98
+        },
+        {
+          "segment_id": "S00712",
+          "start_seconds": 11572.21
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-061-2025",
+      "institution": "BPI",
+      "owner": "Sara Zimmerman Duterte; Greenhills EDSA, account ending 7742",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "3,228.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00795",
+          "start_seconds": 12403.09
+        },
+        {
+          "segment_id": "S00712",
+          "start_seconds": 11572.21
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-065-2022",
+      "institution": "BPI",
+      "owner": "Manases Reyes Carpio or Sara Zimmerman Duterte; Greenhills EDSA, account ending 6928",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "639,833.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00745",
+          "start_seconds": 11962.54
+        },
+        {
+          "segment_id": "S00714",
+          "start_seconds": 11599.3
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-065-2023",
+      "institution": "BPI",
+      "owner": "Manases Reyes Carpio or Sara Zimmerman Duterte; Greenhills EDSA, account ending 6928",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "642,424.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00763",
+          "start_seconds": 12177.84
+        },
+        {
+          "segment_id": "S00714",
+          "start_seconds": 11599.3
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-065-2024",
+      "institution": "BPI",
+      "owner": "Manases Reyes Carpio or Sara Zimmerman Duterte; Greenhills EDSA, account ending 6928",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "645,026.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00779",
+          "start_seconds": 12298.57
+        },
+        {
+          "segment_id": "S00714",
+          "start_seconds": 11599.3
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-065-2025",
+      "institution": "BPI",
+      "owner": "Manases Reyes Carpio or Sara Zimmerman Duterte; Greenhills EDSA, account ending 6928",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "647,639.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00797",
+          "start_seconds": 12418.98
+        },
+        {
+          "segment_id": "S00714",
+          "start_seconds": 11599.3
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-069-2022",
+      "institution": "BPI",
+      "owner": "Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Zimmerman Duterte; Julia Vargas, account ending 9539",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "1,285,909.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00747",
+          "start_seconds": 11993.81
+        },
+        {
+          "segment_id": "S00716",
+          "start_seconds": 11606.91
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-069-2023",
+      "institution": "BPI",
+      "owner": "Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Zimmerman Duterte; Julia Vargas, account ending 9539",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "1,291,569.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00765",
+          "start_seconds": 12192.619999999999
+        },
+        {
+          "segment_id": "S00716",
+          "start_seconds": 11606.91
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-069-2024",
+      "institution": "BPI",
+      "owner": "Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Zimmerman Duterte; Julia Vargas, account ending 9539",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "1,292,532.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00781",
+          "start_seconds": 12314.9
+        },
+        {
+          "segment_id": "S00716",
+          "start_seconds": 11606.91
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-069-2025",
+      "institution": "BPI",
+      "owner": "Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Zimmerman Duterte; Julia Vargas, account ending 9539",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "1,296,236.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00799",
+          "start_seconds": 12440.380000000001
+        },
+        {
+          "segment_id": "S00716",
+          "start_seconds": 11606.91
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-073-2022",
+      "institution": "BPI",
+      "owner": "Rodrigo R. Duterte in trust for Sara Zimmerman Duterte; Davao Main, account ending 9891",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "3,257,306.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00749",
+          "start_seconds": 12024.55
+        },
+        {
+          "segment_id": "S00718",
+          "start_seconds": 11635.99
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-073-2023",
+      "institution": "BPI",
+      "owner": "Rodrigo R. Duterte in trust for Sara Zimmerman Duterte; Davao Main, account ending 9891",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "3,259,800.51",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00767",
+          "start_seconds": 12211.39
+        },
+        {
+          "segment_id": "S00718",
+          "start_seconds": 11635.99
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-073-2024",
+      "institution": "BPI",
+      "owner": "Rodrigo R. Duterte in trust for Sara Zimmerman Duterte; Davao Main, account ending 9891",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "3,262,404.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00783",
+          "start_seconds": 12335.42
+        },
+        {
+          "segment_id": "S00784",
+          "start_seconds": 12341.55
+        },
+        {
+          "segment_id": "S00718",
+          "start_seconds": 11635.99
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-073-2025",
+      "institution": "BPI",
+      "owner": "Rodrigo R. Duterte in trust for Sara Zimmerman Duterte; Davao Main, account ending 9891",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "3,264,952.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00801",
+          "start_seconds": 12460.5
+        },
+        {
+          "segment_id": "S00718",
+          "start_seconds": 11635.99
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-077-2022",
+      "institution": "BPI",
+      "owner": "Manases Carpio in trust for minor; Davao Main, account ending 7455",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "1,033,461.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00751",
+          "start_seconds": 12053.83
+        },
+        {
+          "segment_id": "S00720B",
+          "start_seconds": 11661.09
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-077-2023",
+      "institution": "BPI",
+      "owner": "Manases Carpio in trust for minor; Davao Main, account ending 7455",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "1,132,207.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00770",
+          "start_seconds": 12235.54
+        },
+        {
+          "segment_id": "S00720B",
+          "start_seconds": 11661.09
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-077-2024",
+      "institution": "BPI",
+      "owner": "Manases Carpio in trust for minor; Davao Main, account ending 7455",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "1,262,830.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00786",
+          "start_seconds": 12354.83
+        },
+        {
+          "segment_id": "S00720B",
+          "start_seconds": 11661.09
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-077-2025",
+      "institution": "BPI",
+      "owner": "Manases Carpio in trust for minor; Davao Main, account ending 7455",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "1,263,470.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00803",
+          "start_seconds": 12477.46
+        },
+        {
+          "segment_id": "S00720B",
+          "start_seconds": 11661.09
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-081-2022",
+      "institution": "BPI",
+      "owner": "Manases R. Carpio; Better Living Don Bosco, account ending 8095",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "1,892,884.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00753",
+          "start_seconds": 12086.09
+        },
+        {
+          "segment_id": "S00754",
+          "start_seconds": 12101.82
+        },
+        {
+          "segment_id": "S00722",
+          "start_seconds": 11691.88
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-081-2023",
+      "institution": "BPI",
+      "owner": "Manases R. Carpio; Better Living Don Bosco, account ending 8095",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "2,153,880.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00773",
+          "start_seconds": 12259.66
+        },
+        {
+          "segment_id": "S00722",
+          "start_seconds": 11691.88
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-081-2024",
+      "institution": "BPI",
+      "owner": "Manases R. Carpio; Better Living Don Bosco, account ending 8095",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "2,144,957.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00793",
+          "start_seconds": 12380.52
+        },
+        {
+          "segment_id": "S00722",
+          "start_seconds": 11691.88
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-081-2025",
+      "institution": "BPI",
+      "owner": "Manases R. Carpio; Better Living Don Bosco, account ending 8095",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "2,241,066.00",
+      "measure": "year-end balances",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00805",
+          "start_seconds": 12496.71
+        },
+        {
+          "segment_id": "S00722",
+          "start_seconds": 11691.88
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "early-085",
+      "institution": "BPI",
+      "owner": "Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Z. Duterte; Julia Vargas time deposit / account ending 9539",
+      "period": "January 22, 2010",
+      "currency": "PHP",
+      "amount": "40,650,000.00",
+      "measure": "time-deposit principal",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00826",
+          "start_seconds": 12706.63
+        },
+        {
+          "segment_id": "S00824",
+          "start_seconds": 12679.53
+        },
+        {
+          "segment_id": "S00824B",
+          "start_seconds": 12692.56
+        },
+        {
+          "segment_id": "S00829",
+          "start_seconds": 12730.24
+        }
+      ],
+      "summary": "Time-deposit principal."
+    },
+    {
+      "id": "early-087",
+      "institution": "BPI",
+      "owner": "Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Z. Duterte; Julia Vargas time deposit / account ending 9539",
+      "period": "March 9, 2011",
+      "currency": "PHP",
+      "amount": "41,721,035.62",
+      "measure": "Matured time-deposit proceeds / manager's check",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Credit-memo amount confirmed by witness",
+      "citations": [
+        {
+          "segment_id": "S00860",
+          "start_seconds": 13061.32
+        },
+        {
+          "segment_id": "S00860C",
+          "start_seconds": 13082.89
+        },
+        {
+          "segment_id": "S00879",
+          "start_seconds": 13282.54
+        },
+        {
+          "segment_id": "S00874",
+          "start_seconds": 13227.17
+        },
+        {
+          "segment_id": "S00875",
+          "start_seconds": 13248.67
+        },
+        {
+          "segment_id": "S00897",
+          "start_seconds": 13450.53
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "early-103",
+      "institution": "BPI",
+      "owner": "Rodrigo Roa Duterte-related Julia Vargas proceeds / account ending 9539",
+      "period": "October 20, 2011",
+      "currency": "PHP",
+      "amount": "41,721,037.12",
+      "measure": "debit memo amount",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00933C",
+          "start_seconds": 13793.76
+        }
+      ],
+      "summary": "Proceeds moved through successive checks; these are not separate new funds."
+    },
+    {
+      "id": "early-104",
+      "institution": "BPI",
+      "owner": "Rodrigo Roa Duterte-related Julia Vargas proceeds / account ending 9539",
+      "period": "October 20, 2011",
+      "currency": "PHP",
+      "amount": "41,721,035.62",
+      "measure": "credit to manager's check settlement account",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00934",
+          "start_seconds": 13807.01
+        }
+      ],
+      "summary": "Proceeds moved through successive checks; these are not separate new funds."
+    },
+    {
+      "id": "early-105",
+      "institution": "BPI",
+      "owner": "Rodrigo Roa Duterte-related Julia Vargas proceeds / account ending 9539",
+      "period": "October 17, 2012",
+      "currency": "PHP",
+      "amount": "41,721,035.62",
+      "measure": "manager's check amount",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S01063",
+          "start_seconds": 14754.73
+        },
+        {
+          "segment_id": "S01059B",
+          "start_seconds": 14747.76
+        }
+      ],
+      "summary": "Proceeds moved through successive checks; these are not separate new funds."
+    },
+    {
+      "id": "early-106",
+      "institution": "BPI",
+      "owner": "Rodrigo Roa Duterte-related Julia Vargas proceeds / account ending 9539",
+      "period": "October 7, 2013",
+      "currency": "PHP",
+      "amount": "41,721,035.62",
+      "measure": "manager's check amount",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Bank-record testimony",
+      "citations": [
+        {
+          "segment_id": "S01069C",
+          "start_seconds": 14801.77
+        },
+        {
+          "segment_id": "S01069",
+          "start_seconds": 14796.49
+        }
+      ],
+      "summary": "Proceeds moved through successive checks; these are not separate new funds."
+    },
+    {
+      "id": "early-096",
+      "institution": "BPI",
+      "owner": "Source account ending 9539; manager-check payee Samuel C. Uy",
+      "period": "May 30, 2016",
+      "currency": "PHP",
+      "amount": "16,852,782.94",
+      "measure": "manager's check amount",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Witness read submitted records",
+      "citations": [
+        {
+          "segment_id": "S01155",
+          "start_seconds": 15360.84
+        },
+        {
+          "segment_id": "S01156",
+          "start_seconds": 15368.87
+        },
+        {
+          "segment_id": "S01158",
+          "start_seconds": 15390.44
+        },
+        {
+          "segment_id": "S01159C",
+          "start_seconds": 15399.41
+        }
+      ],
+      "summary": "Manager’s check 20536."
+    },
+    {
+      "id": "early-095-1",
+      "institution": "BPI / BPI-Philam Life",
+      "owner": "Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Z. Duterte; Julia Vargas time deposit / account ending 9539",
+      "period": "March 28, 2014",
+      "currency": "PHP",
+      "amount": "20,000,000.00",
+      "measure": "Debit instruction 1",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Witness-read debit instructions",
+      "citations": [
+        {
+          "segment_id": "S01146",
+          "start_seconds": 15282.34
+        },
+        {
+          "segment_id": "S01137",
+          "start_seconds": 15220.22
+        },
+        {
+          "segment_id": "S01145",
+          "start_seconds": 15273.06
+        },
+        {
+          "segment_id": "S01128",
+          "start_seconds": 15136.27
+        },
+        {
+          "segment_id": "S01108",
+          "start_seconds": 14997.3
+        },
+        {
+          "segment_id": "S01136",
+          "start_seconds": 15192.82
+        },
+        {
+          "segment_id": "S01130",
+          "start_seconds": 15151.03
+        },
+        {
+          "segment_id": "S01132",
+          "start_seconds": 15162.42
+        },
+        {
+          "segment_id": "S01134",
+          "start_seconds": 15167.9
+        },
+        {
+          "segment_id": "S00665",
+          "start_seconds": 11221.76
+        }
+      ],
+      "summary": "BPI-Philam peso plan."
+    },
+    {
+      "id": "early-095-2",
+      "institution": "BPI / BPI-Philam Life",
+      "owner": "Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Z. Duterte; Julia Vargas time deposit / account ending 9539",
+      "period": "March 28, 2014",
+      "currency": "PHP",
+      "amount": "20,000,000.00",
+      "measure": "Debit instruction 2",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Witness-read debit instructions",
+      "citations": [
+        {
+          "segment_id": "S01146",
+          "start_seconds": 15282.34
+        },
+        {
+          "segment_id": "S01137",
+          "start_seconds": 15220.22
+        },
+        {
+          "segment_id": "S01145",
+          "start_seconds": 15273.06
+        },
+        {
+          "segment_id": "S01128",
+          "start_seconds": 15136.27
+        },
+        {
+          "segment_id": "S01108",
+          "start_seconds": 14997.3
+        },
+        {
+          "segment_id": "S01136",
+          "start_seconds": 15192.82
+        },
+        {
+          "segment_id": "S01130",
+          "start_seconds": 15151.03
+        },
+        {
+          "segment_id": "S01132",
+          "start_seconds": 15162.42
+        },
+        {
+          "segment_id": "S01134",
+          "start_seconds": 15167.9
+        },
+        {
+          "segment_id": "S00665",
+          "start_seconds": 11221.76
+        }
+      ],
+      "summary": "BPI-Philam peso plan."
+    },
+    {
+      "id": "early-095-3",
+      "institution": "BPI / BPI-Philam Life",
+      "owner": "Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Z. Duterte; Julia Vargas time deposit / account ending 9539",
+      "period": "March 28, 2014",
+      "currency": "PHP",
+      "amount": "20,000,000.00",
+      "measure": "Debit instruction 3",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Witness-read debit instructions",
+      "citations": [
+        {
+          "segment_id": "S01146",
+          "start_seconds": 15282.34
+        },
+        {
+          "segment_id": "S01137",
+          "start_seconds": 15220.22
+        },
+        {
+          "segment_id": "S01145",
+          "start_seconds": 15273.06
+        },
+        {
+          "segment_id": "S01128",
+          "start_seconds": 15136.27
+        },
+        {
+          "segment_id": "S01108",
+          "start_seconds": 14997.3
+        },
+        {
+          "segment_id": "S01136",
+          "start_seconds": 15192.82
+        },
+        {
+          "segment_id": "S01130",
+          "start_seconds": 15151.03
+        },
+        {
+          "segment_id": "S01132",
+          "start_seconds": 15162.42
+        },
+        {
+          "segment_id": "S01134",
+          "start_seconds": 15167.9
+        },
+        {
+          "segment_id": "S00665",
+          "start_seconds": 11221.76
+        }
+      ],
+      "summary": "BPI-Philam peso plan."
+    },
+    {
+      "id": "early-095-4",
+      "institution": "BPI / BPI-Philam Life",
+      "owner": "Rodrigo Roa Duterte or Rodrigo Roa Duterte and Sara Z. Duterte; Julia Vargas time deposit / account ending 9539",
+      "period": "March 28, 2014",
+      "currency": "PHP",
+      "amount": "20,000,000.00",
+      "measure": "Debit instruction 4",
+      "asserted_by": "Marwin L. Galvez",
+      "status": "Witness-read debit instructions",
+      "citations": [
+        {
+          "segment_id": "S01146",
+          "start_seconds": 15282.34
+        },
+        {
+          "segment_id": "S01137",
+          "start_seconds": 15220.22
+        },
+        {
+          "segment_id": "S01145",
+          "start_seconds": 15273.06
+        },
+        {
+          "segment_id": "S01128",
+          "start_seconds": 15136.27
+        },
+        {
+          "segment_id": "S01108",
+          "start_seconds": 14997.3
+        },
+        {
+          "segment_id": "S01136",
+          "start_seconds": 15192.82
+        },
+        {
+          "segment_id": "S01130",
+          "start_seconds": 15151.03
+        },
+        {
+          "segment_id": "S01132",
+          "start_seconds": 15162.42
+        },
+        {
+          "segment_id": "S01134",
+          "start_seconds": 15167.9
+        },
+        {
+          "segment_id": "S00665",
+          "start_seconds": 11221.76
+        }
+      ],
+      "summary": "BPI-Philam peso plan."
+    },
+    {
+      "id": "middle-001-2021",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 8912 (personal)",
+      "period": "2021 year-end",
+      "currency": "PHP",
+      "amount": "8,268,965.58",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01881",
+          "start_seconds": 21683.31
+        },
+        {
+          "segment_id": "S01882",
+          "start_seconds": 21691.27
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-001-2022",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 8912 (personal)",
+      "period": "2022 year-end",
+      "currency": "PHP",
+      "amount": "19,880,426.03",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01885",
+          "start_seconds": 21697.71
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-001-2023",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 8912 (personal)",
+      "period": "2023 year-end",
+      "currency": "PHP",
+      "amount": "21,001,579.79",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01894",
+          "start_seconds": 21783.7
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-001-2024",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 8912 (personal)",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "1,420,883.82",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01901",
+          "start_seconds": 21852.37
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-001-2025",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 8912 (personal)",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "1,871,934.81",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01910",
+          "start_seconds": 21929.12
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-003-2022",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3504 (ITF for children)",
+      "period": "2022 year-end",
+      "currency": "PHP",
+      "amount": "114,067.66",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01887",
+          "start_seconds": 21719.64
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-003-2023",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3504 (ITF for children)",
+      "period": "2023 year-end",
+      "currency": "PHP",
+      "amount": "197,000.00",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01896",
+          "start_seconds": 21803.62
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-003-2024",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3504 (ITF for children)",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "635,539.25",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01903",
+          "start_seconds": 21874.55
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-003-2025",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3504 (ITF for children)",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "1,026,203.67",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01912",
+          "start_seconds": 21949.09
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-004-2022",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3481 (ITF for children)",
+      "period": "2022 year-end",
+      "currency": "PHP",
+      "amount": "114,067.66",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01889",
+          "start_seconds": 21738.57
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-004-2024",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3481 (ITF for children)",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "635,539.25",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01905",
+          "start_seconds": 21892.66
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-004-2025",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3481 (ITF for children)",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "1,026,203.67",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01914",
+          "start_seconds": 21965.67
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-005-2022",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3492 (ITF for children)",
+      "period": "2022 year-end",
+      "currency": "PHP",
+      "amount": "114,067.66",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01892",
+          "start_seconds": 21760.1
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-005-2024",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3492 (ITF for children)",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "635,539.25",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01907",
+          "start_seconds": 21910.22
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-005-2025",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3492 (ITF for children)",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "1,036,210.37",
+      "measure": "year-end balances",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01916",
+          "start_seconds": 21984.58
+        },
+        {
+          "segment_id": "S01917",
+          "start_seconds": 21985.18
+        }
+      ],
+      "summary": "In-trust-for account; the witness said Sara Duterte had no personal PNB account."
+    },
+    {
+      "id": "middle-008",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; account 3492 (ITF for children)",
+      "period": "2023 year-end",
+      "currency": "PHP",
+      "amount": "197,180.53",
+      "measure": "year-end balance",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01897",
+          "start_seconds": 21835.24
+        }
+      ],
+      "summary": "PNB table denominates this balance in PHP; witness said euros."
+    },
+    {
+      "id": "middle-017-1",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; 8912",
+      "period": "2024-08-06",
+      "currency": "PHP",
+      "amount": "5,000,000.00",
+      "measure": "Withdrawal 1",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01924",
+          "start_seconds": 22086.49
+        },
+        {
+          "segment_id": "S01925B",
+          "start_seconds": 22105.69
+        },
+        {
+          "segment_id": "S01928",
+          "start_seconds": 22113.41
+        }
+      ],
+      "summary": "Separate withdrawal on August 6, 2024."
+    },
+    {
+      "id": "middle-017-2",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; 8912",
+      "period": "2024-08-06",
+      "currency": "PHP",
+      "amount": "3,000,000.00",
+      "measure": "Withdrawal 2",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01924",
+          "start_seconds": 22086.49
+        },
+        {
+          "segment_id": "S01925B",
+          "start_seconds": 22105.69
+        },
+        {
+          "segment_id": "S01928",
+          "start_seconds": 22113.41
+        }
+      ],
+      "summary": "Separate withdrawal on August 6, 2024."
+    },
+    {
+      "id": "middle-017-3",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; 8912",
+      "period": "2024-08-06",
+      "currency": "PHP",
+      "amount": "5,000,000.00",
+      "measure": "Withdrawal 3",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01924",
+          "start_seconds": 22086.49
+        },
+        {
+          "segment_id": "S01925B",
+          "start_seconds": 22105.69
+        },
+        {
+          "segment_id": "S01928",
+          "start_seconds": 22113.41
+        }
+      ],
+      "summary": "Separate withdrawal on August 6, 2024."
+    },
+    {
+      "id": "middle-017-4",
+      "institution": "PNB",
+      "owner": "Manases R. Carpio; 8912",
+      "period": "2024-08-06",
+      "currency": "PHP",
+      "amount": "5,000,000.00",
+      "measure": "Withdrawal 4",
+      "asserted_by": "Julius Palma Parian",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S01924",
+          "start_seconds": 22086.49
+        },
+        {
+          "segment_id": "S01925B",
+          "start_seconds": 22105.69
+        },
+        {
+          "segment_id": "S01928",
+          "start_seconds": 22113.41
+        }
+      ],
+      "summary": "Separate withdrawal on August 6, 2024."
+    },
+    {
+      "id": "middle-022-2022",
+      "institution": "BDO",
+      "owner": "Manases R. Carpio; 2393",
+      "period": "2022 year-end",
+      "currency": "PHP",
+      "amount": "120,570.50",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02042",
+          "start_seconds": 22974.52
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-022-2023",
+      "institution": "BDO",
+      "owner": "Manases R. Carpio; 2393",
+      "period": "2023 year-end",
+      "currency": "PHP",
+      "amount": "65,585.22",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02065",
+          "start_seconds": 23140.34
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-022-2024",
+      "institution": "BDO",
+      "owner": "Manases R. Carpio; 2393",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "21,620.19",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02100",
+          "start_seconds": 23450.26
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-022-2025",
+      "institution": "BDO",
+      "owner": "Manases R. Carpio; 2393",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "27,562.39",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02116",
+          "start_seconds": 23641.59
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-023-2022",
+      "institution": "BDO",
+      "owner": "Sara Duterte and Manases R. Carpio joint account; 8427",
+      "period": "2022 year-end",
+      "currency": "PHP",
+      "amount": "5,131,934.13",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02043",
+          "start_seconds": 23004.52
+        }
+      ],
+      "summary": "Displayed table: PHP5,131,943.13; witness read PHP5,131,934.13."
+    },
+    {
+      "id": "middle-023-2023",
+      "institution": "BDO",
+      "owner": "Sara Duterte and Manases R. Carpio joint account; 8427",
+      "period": "2023 year-end",
+      "currency": "PHP",
+      "amount": "6,033,978.32",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02068",
+          "start_seconds": 23166.46
+        },
+        {
+          "segment_id": "S02069D",
+          "start_seconds": 23194.24
+        }
+      ],
+      "summary": "Joint-or account."
+    },
+    {
+      "id": "middle-023-2024",
+      "institution": "BDO",
+      "owner": "Sara Duterte and Manases R. Carpio joint account; 8427",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "30,965.60",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02106C",
+          "start_seconds": 23498.91
+        }
+      ],
+      "summary": "Joint-or account."
+    },
+    {
+      "id": "middle-023-2025",
+      "institution": "BDO",
+      "owner": "Sara Duterte and Manases R. Carpio joint account; 8427",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "1,101,095.84",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02120",
+          "start_seconds": 23712.3
+        }
+      ],
+      "summary": "Joint-or account."
+    },
+    {
+      "id": "middle-024-2022",
+      "institution": "BDO",
+      "owner": "Sara Duterte and Manases R. Carpio joint account; 3686",
+      "period": "2022 year-end",
+      "currency": "PHP",
+      "amount": "747,291.78",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02047",
+          "start_seconds": 23034.35
+        }
+      ],
+      "summary": "Joint-or account."
+    },
+    {
+      "id": "middle-024-2023",
+      "institution": "BDO",
+      "owner": "Sara Duterte and Manases R. Carpio joint account; 3686",
+      "period": "2023 year-end",
+      "currency": "PHP",
+      "amount": "748,665.48",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02077",
+          "start_seconds": 23248.5
+        }
+      ],
+      "summary": "Joint-or account."
+    },
+    {
+      "id": "middle-024-2024",
+      "institution": "BDO",
+      "owner": "Sara Duterte and Manases R. Carpio joint account; 3686",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "15,030.84",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02109",
+          "start_seconds": 23531.67
+        }
+      ],
+      "summary": "Joint-or account."
+    },
+    {
+      "id": "middle-024-2025",
+      "institution": "BDO",
+      "owner": "Sara Duterte and Manases R. Carpio joint account; 3686",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "15,038.31",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02122",
+          "start_seconds": 23744.86
+        }
+      ],
+      "summary": "Joint-or account."
+    },
+    {
+      "id": "middle-025-2022",
+      "institution": "BDO",
+      "owner": "Sara Zimmerman Duterte; 6168",
+      "period": "2022 year-end",
+      "currency": "PHP",
+      "amount": "414,624.27",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02049",
+          "start_seconds": 23064.56
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-025-2023",
+      "institution": "BDO",
+      "owner": "Sara Zimmerman Duterte; 6168",
+      "period": "2023 year-end",
+      "currency": "PHP",
+      "amount": "415,831.60",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02079C",
+          "start_seconds": 23288.62
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-025-2024",
+      "institution": "BDO",
+      "owner": "Sara Zimmerman Duterte; 6168",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "16,034.63",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02111",
+          "start_seconds": 23569.44
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-025-2025",
+      "institution": "BDO",
+      "owner": "Sara Zimmerman Duterte; 6168",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "16,042.64",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02124",
+          "start_seconds": 23761.71
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-031-2023",
+      "institution": "BDO",
+      "owner": "888 Bistro; 6071",
+      "period": "2023 year-end",
+      "currency": "PHP",
+      "amount": "4,668,076.87",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02083",
+          "start_seconds": 23318.81
+        },
+        {
+          "segment_id": "S02085",
+          "start_seconds": 23320.39
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-031-2024",
+      "institution": "BDO",
+      "owner": "888 Bistro; 6071",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "179,928.82",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02113",
+          "start_seconds": 23593.8
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-031-2025",
+      "institution": "BDO",
+      "owner": "888 Bistro; 6071",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "91,971.81",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02128",
+          "start_seconds": 23774.51
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-026-2022",
+      "institution": "BDO",
+      "owner": "Manases R. Carpio; 4786",
+      "period": "2022 year-end",
+      "currency": "PHP",
+      "amount": "15,284,682.06",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02090",
+          "start_seconds": 23368.2
+        },
+        {
+          "segment_id": "S02091",
+          "start_seconds": 23380.2
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-026-2023",
+      "institution": "BDO",
+      "owner": "Manases R. Carpio; 4786",
+      "period": "2023 year-end",
+      "currency": "PHP",
+      "amount": "20,232,513.79",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02094",
+          "start_seconds": 23395.63
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-026-2024",
+      "institution": "BDO",
+      "owner": "Manases R. Carpio; 4786",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "4,412,857.40",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02102",
+          "start_seconds": 23473.54
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-026-2025",
+      "institution": "BDO",
+      "owner": "Manases R. Carpio; 4786",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "16,494,211.45",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02118C",
+          "start_seconds": 23683.68
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-045",
+      "institution": "BDO",
+      "owner": "888 Bistro; 8577",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "1,102,729.64",
+      "measure": "year-end balance",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02131",
+          "start_seconds": 23795.0
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-046-1",
+      "institution": "BDO",
+      "owner": "Manases R. Carpio; 4786 to current account",
+      "period": "August 6, 2024",
+      "currency": "PHP",
+      "amount": "8,000,000.00",
+      "measure": "Transfer to current account",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02162",
+          "start_seconds": 24017.37
+        },
+        {
+          "segment_id": "S02164",
+          "start_seconds": 24037.19
+        },
+        {
+          "segment_id": "S02166",
+          "start_seconds": 24056.0
+        },
+        {
+          "segment_id": "S02184",
+          "start_seconds": 24142.27
+        }
+      ],
+      "summary": "Debited from account 4786; witness did not know the underlying purpose."
+    },
+    {
+      "id": "middle-046-2",
+      "institution": "BDO",
+      "owner": "Manases R. Carpio; 4786 to current account",
+      "period": "August 6, 2024",
+      "currency": "PHP",
+      "amount": "15,000,000.00",
+      "measure": "Transfer to current account",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02162",
+          "start_seconds": 24017.37
+        },
+        {
+          "segment_id": "S02164",
+          "start_seconds": 24037.19
+        },
+        {
+          "segment_id": "S02166",
+          "start_seconds": 24056.0
+        },
+        {
+          "segment_id": "S02184",
+          "start_seconds": 24142.27
+        }
+      ],
+      "summary": "Debited from account 4786; witness did not know the underlying purpose."
+    },
+    {
+      "id": "middle-054-2022",
+      "institution": "BDO",
+      "owner": "Cale88",
+      "period": "2022 year-end",
+      "currency": "PHP",
+      "amount": "211,869.84",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02303",
+          "start_seconds": 25193.25
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "middle-054-2023",
+      "institution": "BDO",
+      "owner": "Cale88",
+      "period": "2023 year-end",
+      "currency": "PHP",
+      "amount": "12,709.84",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02303",
+          "start_seconds": 25193.25
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "middle-054-2024",
+      "institution": "BDO",
+      "owner": "Cale88",
+      "period": "2024 year-end",
+      "currency": "PHP",
+      "amount": "11,206.22",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02303",
+          "start_seconds": 25193.25
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "middle-054-2025",
+      "institution": "BDO",
+      "owner": "Cale88",
+      "period": "2025 year-end",
+      "currency": "PHP",
+      "amount": "36,780.69",
+      "measure": "year-end balances",
+      "asserted_by": "Mario Cerilo M. De Mesa Jr.",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02303",
+          "start_seconds": 25193.25
+        }
+      ],
+      "summary": "Year-end balances."
+    },
+    {
+      "id": "middle-076",
+      "institution": "FWD",
+      "owner": "Manases R. Carpio",
+      "period": "policy record 2024-05-16",
+      "currency": "PHP",
+      "amount": "10,600,000.00",
+      "measure": "single premium paid",
+      "asserted_by": "Atty. Juan Sotero Roman",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02459",
+          "start_seconds": 26757.76
+        },
+        {
+          "segment_id": "S02455",
+          "start_seconds": 26728.09
+        },
+        {
+          "segment_id": "S02457",
+          "start_seconds": 26740.54
+        },
+        {
+          "segment_id": "S02463",
+          "start_seconds": 26790.87
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "middle-077",
+      "institution": "FWD",
+      "owner": "Manases R. Carpio; children beneficiaries",
+      "period": "same policy",
+      "currency": "PHP",
+      "amount": "13,250,000.00",
+      "measure": "sum assured / covered-event death benefit",
+      "asserted_by": "Atty. Juan Sotero Roman",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02465",
+          "start_seconds": 26798.27
+        },
+        {
+          "segment_id": "S02485",
+          "start_seconds": 26899.42
+        },
+        {
+          "segment_id": "S02592",
+          "start_seconds": 27959.98
+        }
+      ],
+      "summary": "Payable upon covered event, not guaranteed current surrender value. Withdrawal value depends on market, can be below or above premium and no performance cap (S02500, S02664-S02670)."
+    },
+    {
+      "id": "middle-080",
+      "institution": "Manulife",
+      "owner": "Manases R. Carpio; insured minor child (name omitted)",
+      "period": "issued 2019-01-18; one-time payment in 2019",
+      "currency": "PHP",
+      "amount": "610,000.00",
+      "measure": "single premium paid",
+      "asserted_by": "Malu Remollino Salanguit",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02745",
+          "start_seconds": 28837.22
+        },
+        {
+          "segment_id": "S02749",
+          "start_seconds": 28843.02
+        },
+        {
+          "segment_id": "S02751",
+          "start_seconds": 28847.58
+        },
+        {
+          "segment_id": "S02727",
+          "start_seconds": 28744.78
+        },
+        {
+          "segment_id": "S02729",
+          "start_seconds": 28758.54
+        }
+      ],
+      "summary": "Single premium paid."
+    },
+    {
+      "id": "middle-081",
+      "institution": "Manulife",
+      "owner": "Sara Duterte",
+      "period": "issued 2014-10-23; top-up 2019",
+      "currency": "PHP",
+      "amount": "528,000.00",
+      "measure": "Total premium payments",
+      "asserted_by": "Malu Remollino Salanguit",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02760",
+          "start_seconds": 28910.52
+        },
+        {
+          "segment_id": "S02766",
+          "start_seconds": 28937.06
+        },
+        {
+          "segment_id": "S02756",
+          "start_seconds": 28881.49
+        },
+        {
+          "segment_id": "S02758",
+          "start_seconds": 28891.92
+        }
+      ],
+      "summary": "400,000.00 initial premium plus 128,000.00 top-up in 2019."
+    },
+    {
+      "id": "middle-082",
+      "institution": "Manulife",
+      "owner": "Sara Duterte",
+      "period": "issued 2014-10-31",
+      "currency": "PHP",
+      "amount": "445,000.00",
+      "measure": "total premiums paid",
+      "asserted_by": "Malu Remollino Salanguit",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02773",
+          "start_seconds": 28988.36
+        },
+        {
+          "segment_id": "S02769",
+          "start_seconds": 28966.58
+        },
+        {
+          "segment_id": "S02771B",
+          "start_seconds": 28978.1
+        }
+      ],
+      "summary": "Total premiums paid."
+    },
+    {
+      "id": "middle-083",
+      "institution": "Manulife",
+      "owner": "Sara Duterte",
+      "period": "issued 2014-12-08; total as of 2024",
+      "currency": "PHP",
+      "amount": "685,535.26",
+      "measure": "total premiums paid",
+      "asserted_by": "Malu Remollino Salanguit",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02781",
+          "start_seconds": 29034.93
+        },
+        {
+          "segment_id": "S02777",
+          "start_seconds": 29015.94
+        },
+        {
+          "segment_id": "S02779",
+          "start_seconds": 29024.98
+        }
+      ],
+      "summary": "Total premiums paid."
+    },
+    {
+      "id": "late-01",
+      "institution": "Manulife",
+      "owner": "Manases R. Carpio",
+      "period": "Policy issued March 6, 2019; premiums through 2026",
+      "currency": "PHP",
+      "amount": "1,435,154.65",
+      "measure": "Cumulative premiums paid",
+      "asserted_by": "Malu Remollino Salanguit",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02800",
+          "start_seconds": 29184.42
+        },
+        {
+          "segment_id": "S02806",
+          "start_seconds": 29216.1
+        },
+        {
+          "segment_id": "S02807",
+          "start_seconds": 29231.46
+        },
+        {
+          "segment_id": "S02794",
+          "start_seconds": 29152.34
+        },
+        {
+          "segment_id": "S02798",
+          "start_seconds": 29165.03
+        },
+        {
+          "segment_id": "S02801",
+          "start_seconds": 29194.26
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "late-02",
+      "institution": "Manulife",
+      "owner": "Manases R. Carpio",
+      "period": "Issued March 6, 2019; as of 2026",
+      "currency": "PHP",
+      "amount": "826,961.05",
+      "measure": "Cumulative insurance premiums paid",
+      "asserted_by": "Malu Remollino Salanguit",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02841",
+          "start_seconds": 29859.78
+        },
+        {
+          "segment_id": "S02844",
+          "start_seconds": 29867.4
+        },
+        {
+          "segment_id": "S02847",
+          "start_seconds": 29876.4
+        }
+      ],
+      "summary": "Cumulative premiums from a subsequent document examination."
+    },
+    {
+      "id": "late-03",
+      "institution": "Manulife",
+      "owner": "Manases R. Carpio",
+      "period": "Issued March 6, 2019",
+      "currency": "PHP",
+      "amount": "103,365.81",
+      "measure": "First premium payment",
+      "asserted_by": "Malu Remollino Salanguit",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02847",
+          "start_seconds": 29876.4
+        }
+      ],
+      "summary": "Subset of cumulative premiums, not an additional asset."
+    },
+    {
+      "id": "late-04",
+      "institution": "Pru Life UK",
+      "owner": "Manases R. Carpio",
+      "period": "January 6, 2020; payable five years",
+      "currency": "PHP",
+      "amount": "200,000.00",
+      "measure": "Annual premium",
+      "asserted_by": "Atty. Calvin Kohchet-Chua",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02908",
+          "start_seconds": 30356.67
+        },
+        {
+          "segment_id": "S02913",
+          "start_seconds": 30395.25
+        },
+        {
+          "segment_id": "S02914",
+          "start_seconds": 30403.51
+        },
+        {
+          "segment_id": "S02916",
+          "start_seconds": 30413.89
+        }
+      ],
+      "summary": "Annual premium."
+    },
+    {
+      "id": "late-06",
+      "institution": "Pru Life UK",
+      "owner": "Manases R. Carpio",
+      "period": "Effective January 18, 2011",
+      "currency": "PHP",
+      "amount": "10,000.00",
+      "measure": "Regular monthly premium",
+      "asserted_by": "Atty. Calvin Kohchet-Chua",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02920B",
+          "start_seconds": 30446.44
+        },
+        {
+          "segment_id": "S02921",
+          "start_seconds": 30467.88
+        },
+        {
+          "segment_id": "S02923",
+          "start_seconds": 30489.48
+        }
+      ],
+      "summary": "Regular monthly premium."
+    },
+    {
+      "id": "late-07",
+      "institution": "Pru Life UK",
+      "owner": "Manases R. Carpio",
+      "period": "Effective January 18, 2011",
+      "currency": "PHP",
+      "amount": "1,000,000.00",
+      "measure": "Sum assured",
+      "asserted_by": "Atty. Calvin Kohchet-Chua",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02931",
+          "start_seconds": 30527.47
+        },
+        {
+          "segment_id": "S02932",
+          "start_seconds": 30539.67
+        },
+        {
+          "segment_id": "S02932B",
+          "start_seconds": 30542.5
+        }
+      ],
+      "summary": "Explicitly rejected as answer to premium-total question; coverage is not cash balance."
+    },
+    {
+      "id": "late-08",
+      "institution": "Pru Life UK",
+      "owner": "Manases R. Carpio",
+      "period": "Effective January 18, 2011; as of hearing",
+      "currency": "PHP",
+      "amount": "1,200,000.00",
+      "measure": "Total premiums paid",
+      "asserted_by": "Atty. Calvin Kohchet-Chua",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02934",
+          "start_seconds": 30561.8
+        },
+        {
+          "segment_id": "S02938",
+          "start_seconds": 30577.47
+        }
+      ],
+      "summary": "Witness initially said 1 million, then corrected to 1.2 million after chair clarified premiums versus sum assured."
+    },
+    {
+      "id": "late-09",
+      "institution": "Pru Life UK",
+      "owner": "Sara Zimmerman Duterte",
+      "period": "Effective January 27, 2010",
+      "currency": "PHP",
+      "amount": "1,200,000.00",
+      "measure": "Total premiums paid",
+      "asserted_by": "Atty. Calvin Kohchet-Chua",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02942",
+          "start_seconds": 30604.88
+        },
+        {
+          "segment_id": "S02944",
+          "start_seconds": 30612.42
+        },
+        {
+          "segment_id": "S02947",
+          "start_seconds": 30633.6
+        }
+      ],
+      "summary": "Total premiums paid."
+    },
+    {
+      "id": "late-10",
+      "institution": "Pru Life UK",
+      "owner": "Sara Zimmerman Duterte",
+      "period": "Effective January 27, 2008",
+      "currency": "PHP",
+      "amount": "3,189,720.00",
+      "measure": "Total premiums paid",
+      "asserted_by": "Atty. Calvin Kohchet-Chua",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02949",
+          "start_seconds": 30654.2
+        },
+        {
+          "segment_id": "S02951B",
+          "start_seconds": 30661.0
+        },
+        {
+          "segment_id": "S02953",
+          "start_seconds": 30673.96
+        }
+      ],
+      "summary": "Total premiums paid."
+    },
+    {
+      "id": "late-11",
+      "institution": "Pru Life UK",
+      "owner": "Manases R. Carpio",
+      "period": "Effective January 31, 2019",
+      "currency": "PHP",
+      "amount": "1,000,000.00",
+      "measure": "Total premiums paid",
+      "asserted_by": "Atty. Calvin Kohchet-Chua",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S02957",
+          "start_seconds": 30702.61
+        },
+        {
+          "segment_id": "S02959",
+          "start_seconds": 30714.76
+        },
+        {
+          "segment_id": "S02960",
+          "start_seconds": 30717.7
+        },
+        {
+          "segment_id": "S02962",
+          "start_seconds": 30727.21
+        },
+        {
+          "segment_id": "S02963",
+          "start_seconds": 30727.77
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "late-12",
+      "institution": "AIA Philippines",
+      "owner": "Manases R. Carpio",
+      "period": "February 13, 2013",
+      "currency": "USD",
+      "amount": "30,000.00",
+      "measure": "Single insurance premium payment",
+      "asserted_by": "Christine Cabradilla",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03036",
+          "start_seconds": 31132.3
+        },
+        {
+          "segment_id": "S03038",
+          "start_seconds": 31139.92
+        },
+        {
+          "segment_id": "S03041",
+          "start_seconds": 31149.41
+        },
+        {
+          "segment_id": "S03043",
+          "start_seconds": 31157.26
+        }
+      ],
+      "summary": "Single insurance premium payment."
+    },
+    {
+      "id": "late-14",
+      "institution": "Allianz PNB Life",
+      "owner": "Manases R. Carpio",
+      "period": "Effective May 3, 2021",
+      "currency": "USD",
+      "amount": "11,700.00",
+      "measure": "Insurance premium paid",
+      "asserted_by": "Hygeia C. Defensor",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03113",
+          "start_seconds": 31555.47
+        },
+        {
+          "segment_id": "S03115",
+          "start_seconds": 31565.08
+        },
+        {
+          "segment_id": "S03117",
+          "start_seconds": 31577.5
+        },
+        {
+          "segment_id": "S03131",
+          "start_seconds": 31662.7
+        }
+      ],
+      "summary": "Cash according to records; distinct from surrender value."
+    },
+    {
+      "id": "late-15",
+      "institution": "Allianz PNB Life",
+      "owner": "Manases R. Carpio",
+      "period": "Effective October 6, 2021",
+      "currency": "USD",
+      "amount": "100,000.00",
+      "measure": "Insurance premium paid",
+      "asserted_by": "Hygeia C. Defensor",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03121",
+          "start_seconds": 31615.99
+        },
+        {
+          "segment_id": "S03123",
+          "start_seconds": 31622.35
+        },
+        {
+          "segment_id": "S03125",
+          "start_seconds": 31630.36
+        },
+        {
+          "segment_id": "S03131",
+          "start_seconds": 31662.7
+        }
+      ],
+      "summary": "Cash payment; separate from surrender proceeds."
+    },
+    {
+      "id": "late-16",
+      "institution": "Allianz PNB Life",
+      "owner": "Manases R. Carpio",
+      "period": "Surrender in 2025; policy associated with USD11,700 premium",
+      "currency": "USD",
+      "amount": "8,547.48",
+      "measure": "Surrender value",
+      "asserted_by": "Hygeia C. Defensor",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03203",
+          "start_seconds": 32056.66
+        },
+        {
+          "segment_id": "S03206",
+          "start_seconds": 32065.5
+        },
+        {
+          "segment_id": "S03207",
+          "start_seconds": 32069.08
+        }
+      ],
+      "summary": "Surrender proceeds for the USD11,700-premium policy."
+    },
+    {
+      "id": "late-17",
+      "institution": "Allianz PNB Life",
+      "owner": "Manases R. Carpio",
+      "period": "Surrender in 2025; other policy described, suffix association inconsistent",
+      "currency": "USD",
+      "amount": "74,960.80",
+      "measure": "Surrender value",
+      "asserted_by": "Hygeia C. Defensor",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03209",
+          "start_seconds": 32073.24
+        }
+      ],
+      "summary": "Witness repeated a policy suffix inconsistent with the preceding answer."
+    },
+    {
+      "id": "late-18",
+      "institution": "BDO Life",
+      "owner": "Sara Zimmerman Duterte",
+      "period": "Effective April 28, 2014; five-year payment term",
+      "currency": "PHP",
+      "amount": "100,000.00",
+      "measure": "Annual premium",
+      "asserted_by": "Joel L. De Jesus",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03282",
+          "start_seconds": 32578.16
+        },
+        {
+          "segment_id": "S03286",
+          "start_seconds": 32585.84
+        },
+        {
+          "segment_id": "S03286C",
+          "start_seconds": 32594.74
+        }
+      ],
+      "summary": "Annual premium."
+    },
+    {
+      "id": "late-19",
+      "institution": "BDO Life",
+      "owner": "Sara Zimmerman Duterte",
+      "period": "Effective April 28, 2014; five-year payment term",
+      "currency": "PHP",
+      "amount": "500,000.00",
+      "measure": "Total premium payment",
+      "asserted_by": "Joel L. De Jesus",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03286C",
+          "start_seconds": 32594.74
+        }
+      ],
+      "summary": "Total premium payment."
+    },
+    {
+      "id": "late-20",
+      "institution": "BDO Life",
+      "owner": "Sara Zimmerman Duterte",
+      "period": "Effective April 14, 2014; five-year payment term",
+      "currency": "PHP",
+      "amount": "103,160.00",
+      "measure": "Annual premium",
+      "asserted_by": "Joel L. De Jesus",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03290",
+          "start_seconds": 32628.38
+        },
+        {
+          "segment_id": "S03292",
+          "start_seconds": 32632.16
+        },
+        {
+          "segment_id": "S03292C",
+          "start_seconds": 32639.66
+        }
+      ],
+      "summary": "Annual premium."
+    },
+    {
+      "id": "late-21",
+      "institution": "BDO Life",
+      "owner": "Sara Zimmerman Duterte",
+      "period": "Effective April 14, 2014; five-year payment term",
+      "currency": "PHP",
+      "amount": "515,000.00",
+      "measure": "Total premiums",
+      "asserted_by": "Joel L. De Jesus",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03292C",
+          "start_seconds": 32639.66
+        }
+      ],
+      "summary": "Approximate total premium payments."
+    },
+    {
+      "id": "late-22",
+      "institution": "BDO Life",
+      "owner": "Sara Zimmerman Duterte",
+      "period": "First current policy discussed, effective April 28, 2014",
+      "currency": "PHP",
+      "amount": "2,865,310.00",
+      "measure": "Sum assured / coverage",
+      "asserted_by": "Joel L. De Jesus",
+      "status": "Witness-identified policy",
+      "citations": [
+        {
+          "segment_id": "S03303",
+          "start_seconds": 32703.85
+        }
+      ],
+      "summary": "The first policy schedule gives a sum assured of PHP2,865,310.00, effective April 28, 2014."
+    },
+    {
+      "id": "late-23",
+      "institution": "BDO Life",
+      "owner": "Sara Zimmerman Duterte",
+      "period": "Second current policy discussed, effective April 14, 2014",
+      "currency": "PHP",
+      "amount": "2,877,545.00",
+      "measure": "Sum assured / coverage",
+      "asserted_by": "Joel L. De Jesus",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03303",
+          "start_seconds": 32703.85
+        }
+      ],
+      "summary": "Coverage, not premium or cash balance."
+    },
+    {
+      "id": "late-28",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "October 11, 2021",
+      "currency": "PHP",
+      "amount": "3,000,000.00",
+      "measure": "Jollibee preferred IPO subscription payment",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03381",
+          "start_seconds": 33272.35
+        },
+        {
+          "segment_id": "S03382",
+          "start_seconds": 33277.18
+        },
+        {
+          "segment_id": "S03384",
+          "start_seconds": 33287.82
+        },
+        {
+          "segment_id": "S03386",
+          "start_seconds": 33298.75
+        }
+      ],
+      "summary": "Jollibee preferred ipo subscription payment."
+    },
+    {
+      "id": "late-29",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "November 24, 2021",
+      "currency": "PHP",
+      "amount": "5,000,000.00",
+      "measure": "Arthaland IPO shares purchase payment",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03395",
+          "start_seconds": 33347.11
+        }
+      ],
+      "summary": "Arthaland ipo shares purchase payment."
+    },
+    {
+      "id": "late-34",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "October 2021-July 2022 purchases discussed",
+      "currency": "PHP",
+      "amount": "13,500,000.00",
+      "measure": "Running purchase-payment aggregate",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03423",
+          "start_seconds": 33466.0
+        },
+        {
+          "segment_id": "S03428",
+          "start_seconds": 33480.8
+        }
+      ],
+      "summary": "Includes 8 million earlier subscriptions plus 5.5 million later bonds; not a present balance."
+    },
+    {
+      "id": "late-37",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "October 30, 2024",
+      "currency": "PHP",
+      "amount": "2,000,000.00",
+      "measure": "Purchase receipt payment",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03459",
+          "start_seconds": 33622.88
+        },
+        {
+          "segment_id": "S03461",
+          "start_seconds": 33626.23
+        },
+        {
+          "segment_id": "S03463",
+          "start_seconds": 33632.25
+        }
+      ],
+      "summary": "Purchase receipt payment."
+    },
+    {
+      "id": "late-39",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "As of December 31, 2025",
+      "currency": "PHP",
+      "amount": "12,500,000.00",
+      "measure": "Initially stated outstanding investments",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03471",
+          "start_seconds": 33670.33
+        },
+        {
+          "segment_id": "S03477",
+          "start_seconds": 33686.85
+        }
+      ],
+      "summary": "Witness later gave outstanding bonds as 12 million."
+    },
+    {
+      "id": "late-40",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "As of December 31, 2025",
+      "currency": "PHP",
+      "amount": "5,300,000.00",
+      "measure": "Market valuation of securities in ending-position document",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03482",
+          "start_seconds": 33720.67
+        },
+        {
+          "segment_id": "S03487",
+          "start_seconds": 33752.46
+        },
+        {
+          "segment_id": "S03494",
+          "start_seconds": 33786.4
+        },
+        {
+          "segment_id": "S03500",
+          "start_seconds": 33833.27
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "late-41",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "Purchases 2020-2025; as of December 31, 2025",
+      "currency": "PHP",
+      "amount": "12,945,117.53",
+      "measure": "Gross equities purchases / acquisition flow",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03520",
+          "start_seconds": 33914.13
+        },
+        {
+          "segment_id": "S03521",
+          "start_seconds": 33926.38
+        },
+        {
+          "segment_id": "S03534",
+          "start_seconds": 34033.35
+        },
+        {
+          "segment_id": "S03535",
+          "start_seconds": 34051.56
+        }
+      ],
+      "summary": "From witness tabulation; foundation challenged."
+    },
+    {
+      "id": "late-42",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "2020-2025; as of December 31, 2025",
+      "currency": "PHP",
+      "amount": "22,500,000.00",
+      "measure": "Gross bond subscriptions / acquisition flow",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03520",
+          "start_seconds": 33914.13
+        },
+        {
+          "segment_id": "S03521",
+          "start_seconds": 33926.38
+        },
+        {
+          "segment_id": "S03534",
+          "start_seconds": 34033.35
+        },
+        {
+          "segment_id": "S03535",
+          "start_seconds": 34051.56
+        }
+      ],
+      "summary": "From witness tabulation; foundation challenged."
+    },
+    {
+      "id": "late-43",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "As of December 31, 2025",
+      "currency": "PHP",
+      "amount": "12,000,000.00",
+      "measure": "Outstanding bonds after redemptions",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03521",
+          "start_seconds": 33926.38
+        },
+        {
+          "segment_id": "S03527B",
+          "start_seconds": 33962.03
+        },
+        {
+          "segment_id": "S03534",
+          "start_seconds": 34033.35
+        },
+        {
+          "segment_id": "S03535",
+          "start_seconds": 34051.56
+        }
+      ],
+      "summary": "From witness tabulation; foundation challenged."
+    },
+    {
+      "id": "late-44",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "As of December 31, 2025",
+      "currency": "PHP",
+      "amount": "13,000,000.00",
+      "measure": "Witness-described outstanding equities position",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03523",
+          "start_seconds": 33950.66
+        },
+        {
+          "segment_id": "S03527B",
+          "start_seconds": 33962.03
+        },
+        {
+          "segment_id": "S03534",
+          "start_seconds": 34033.35
+        },
+        {
+          "segment_id": "S03535",
+          "start_seconds": 34051.56
+        }
+      ],
+      "summary": "From witness tabulation; foundation challenged."
+    },
+    {
+      "id": "late-45",
+      "institution": "BDO Securities / BDO Nomura",
+      "owner": "Manases R. Carpio",
+      "period": "As of December 31, 2025",
+      "currency": "PHP",
+      "amount": "25,000,000.00",
+      "measure": "Witness-described combined bonds/equities position",
+      "asserted_by": "Janet D. Amora",
+      "status": "Witness testimony",
+      "citations": [
+        {
+          "segment_id": "S03524",
+          "start_seconds": 33957.29
+        },
+        {
+          "segment_id": "S03525",
+          "start_seconds": 33958.41
+        },
+        {
+          "segment_id": "S03527B",
+          "start_seconds": 33962.03
+        },
+        {
+          "segment_id": "S03534",
+          "start_seconds": 34033.35
+        },
+        {
+          "segment_id": "S03535",
+          "start_seconds": 34051.56
+        }
+      ],
+      "summary": "From witness tabulation; foundation challenged."
+    }
+  ]
+}

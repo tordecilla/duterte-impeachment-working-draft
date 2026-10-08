@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=XoYw-kKytwk
-Status: Reviewed working draft, revision 3
+Status: Reviewed working draft, revision 4
 
 **[00:04:24.780] Atty. Renato N. Bantug Jr.**  
 The Senate President, the Presiding Officer, and the Senator-Judges of the Impeachment Court.
@@ -2376,7 +2376,7 @@ Which number, account number 8, 9, I mean, sorry, 7, 8. You said there are 8 acc
 We're only on the 4th account.
 
 **[01:31:09.800] Leslie Y. Cham**  
-The fourth account is 7215 2022 14,593,620.72 2023 is 15,658,349.55 2024 is 11,301,205.63 I don't have the figure of the 2025 right now. Then the fifth account is 6022 Starting in 2023 501,390.50 Then 2024 is 1,5642.31 Then December 2025 is 1,501,492.75 Then the next account which is 2772.
+The fourth account is 7215 2022 14,593,620.72 2023 is 15,658,349.55 2024 is 11,301,205.63 I don't have the figure of the 2025 right now. Then the fifth account is 6022 Starting in 2023 501,390.50 Then 2024 is one million five hundred six hundred forty-two point thirty-one Then December 2025 is 1,501,492.75 Then the next account which is 2772.
 
 **[01:32:18.290] Leslie Y. Cham**  
 Since this account is open only in 2025, I have only 2025 ending balance which is 3,189,501.58. And the next account is 18336.
@@ -10083,7 +10083,7 @@ The issue date is March 6, 2019.
 Makano po yung total insurance premium na binayad?
 
 **[08:06:24.420] Malu Remollino Salanguit**  
-So specific to this policy, as of 2026, 154.65 million.
+So specific to this policy, as of 2026, 1.435, 154.65 million.
 
 **[08:06:34.260] Sen. Francis "Chiz" G. Escudero**  
 Million?

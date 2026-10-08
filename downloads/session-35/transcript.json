@@ -9,7 +9,7 @@
   },
   "transcript": {
     "status": "Reviewed working draft",
-    "revision": 3,
+    "revision": 4,
     "turn_count": 4266,
     "turns": [
       {
@@ -7193,7 +7193,7 @@
         "start_seconds": 5469.8,
         "end_seconds": 5536.48,
         "speaker": "Leslie Y. Cham",
-        "text": "The fourth account is 7215 2022 14,593,620.72 2023 is 15,658,349.55 2024 is 11,301,205.63 I don't have the figure of the 2025 right now. Then the fifth account is 6022 Starting in 2023 501,390.50 Then 2024 is 1,5642.31 Then December 2025 is 1,501,492.75 Then the next account which is 2772.",
+        "text": "The fourth account is 7215 2022 14,593,620.72 2023 is 15,658,349.55 2024 is 11,301,205.63 I don't have the figure of the 2025 right now. Then the fifth account is 6022 Starting in 2023 501,390.50 Then 2024 is one million five hundred six hundred forty-two point thirty-one Then December 2025 is 1,501,492.75 Then the next account which is 2772.",
         "confidence": 0.8988846067398314,
         "editorial_flags": []
       },
@@ -30457,7 +30457,7 @@
         "start_seconds": 29184.42,
         "end_seconds": 29193.22,
         "speaker": "Malu Remollino Salanguit",
-        "text": "So specific to this policy, as of 2026, 154.65 million.",
+        "text": "So specific to this policy, as of 2026, 1.435, 154.65 million.",
         "confidence": 0.8484080921519886,
         "editorial_flags": []
       },
