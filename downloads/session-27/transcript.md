@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=PEiTyH_gyBU
-Status: Reviewed working draft, revision 3
+Status: Reviewed working draft, revision 4
 
 **[00:05:32.000] Sen. Sherwin T. Gatchalian**  
 The sergeant at arms is directed to make a proclamation.
@@ -746,7 +746,7 @@ Can you go back first to the first slide? Showing the authorized, okay. The firs
 **[01:05:12.510] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge Panglinan, forgive me, I was looking at the chart. Yes, what is your pleasure, sir?
 
-**[01:05:17.900] Sen. Francis Pangilinan**  
+**[01:05:17.900] Sen. Francis “Kiko” Pangilinan**  
 Just a request perhaps moving forward. If there is an anticipation of such documents in the next trial dates that they prepare beforehand rather than have it distributed here or reproduced here before it's distributed. Just a request, Mr. President. They may or may not accede to the request, but it will really help facilitate things if These copies are prepared beforehand rather than while we're doing the trial. The
 
 **[01:05:53.120] Sen. Francis "Chiz" G. Escudero**  

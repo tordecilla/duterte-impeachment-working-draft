@@ -9,7 +9,7 @@
   },
   "transcript": {
     "status": "Reviewed working draft",
-    "revision": 2,
+    "revision": 3,
     "turn_count": 2613,
     "turns": [
       {
@@ -4048,7 +4048,7 @@
         "stable_id": "S00419",
         "start_seconds": 11593.12,
         "end_seconds": 11593.84,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Thank you, Mr.",
         "confidence": 0.9986979166666666,
         "editorial_flags": []
@@ -4057,7 +4057,7 @@
         "stable_id": "S00420",
         "start_seconds": 11594.3,
         "end_seconds": 11611.53,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Presiding Officer. Just a quick manifestation, Mr. President, on this matter, on this issue at hand. Mr. President, for the record, this representation was one of the two primary sponsors of the Anti-Money Laundry Act in 2001.",
         "confidence": 0.9888123629385964,
         "editorial_flags": []
@@ -4066,7 +4066,7 @@
         "stable_id": "S00421",
         "start_seconds": 11614.02,
         "end_seconds": 11688.41,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Senator Ramon Magsaysay, as chairman of the Committee on Banks and Financial Institutions, defended the measure with respect to the financial institutions and the banking community and the concerns raised. This representation, Mr. President, as chairman of the then chairman of the Committee on Justice and Human Rights, we focused on defending the measure in terms of harmonizing various laws. And in this case, as correctly earlier pointed out, the Bank Secrecy Act and the proposed measure, the Anti-Money Laundering Law, we needed to harmonize both. And as for legislative intent, Mr. President, Republic versus Sandigan Bayan, the Supreme Court ruling is correct that the intention of legislation then when we defended this measure in 2001 was for the absolute prohibition or the confidentiality rather was for the covered institutions and not for the AMLA. At least that was what the minutes of the debates would",
         "confidence": 0.9666086486678006,
         "editorial_flags": []
@@ -4075,7 +4075,7 @@
         "stable_id": "S00422",
         "start_seconds": 11690.33,
         "end_seconds": 11744.83,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "clearly spell out. And so, Mr. President, if I may add, it would be absurd that a private bank in an impeachment case, trial, can be compelled to divulge bank records while the AMLA, which is the government entity that is supposed to address issues of criminal activity and money laundering, cannot. Be compelled to present AMLA transactions and records. So, Mr. President, with respect to legislative intent, with respect to the ruling of the Supreme Court on Republic versus Sandigan Bayan, maliwanag, Mr. President, that the ruling of the Chair is foursquare behind jurisprudence and the law, Mr. President.",
         "confidence": 0.971939697265625,
         "editorial_flags": []
@@ -10285,7 +10285,7 @@
         "stable_id": "S01063",
         "start_seconds": 20615.73,
         "end_seconds": 20628.89,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Yes, thank you, Mr. Presiding Officer. And just to add to the point raised by the Presiding Officer, precisely, it was the banks that submitted that suspicious transaction report.",
         "confidence": 0.9787008351293104,
         "editorial_flags": []
@@ -10294,7 +10294,7 @@
         "stable_id": "S01064",
         "start_seconds": 20629.31,
         "end_seconds": 20629.95,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "They",
         "confidence": 0.5537109375,
         "editorial_flags": []
@@ -10303,7 +10303,7 @@
         "stable_id": "S01065",
         "start_seconds": 20629.95,
         "end_seconds": 20636.97,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "worded the basis of their suspicion. And",
         "confidence": 0.9946637834821429,
         "editorial_flags": []
@@ -10312,7 +10312,7 @@
         "stable_id": "S01066",
         "start_seconds": 20636.97,
         "end_seconds": 20638.17,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "I",
         "confidence": 0.958984375,
         "editorial_flags": []
@@ -10321,7 +10321,7 @@
         "stable_id": "S01067",
         "start_seconds": 20638.17,
         "end_seconds": 20671.88,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "would give the banks the benefit of the doubt. I don't know. How much exactly are the amounts involved in such bank accounts? For all we know, well, we don't know, but the banks know. And therefore, they know, based on the amounts that are in the accounts, whether it does appear suspicious or not. So I will give the banks the benefit of the doubt. These are our banks, our financial institutions are responsible.",
         "confidence": 0.9722233072916666,
         "editorial_flags": []
@@ -10330,7 +10330,7 @@
         "stable_id": "S01068",
         "start_seconds": 20686.29,
         "end_seconds": 20697.29,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "I will give them the benefit of the doubt, Mr. President.",
         "confidence": 0.9038363370028409,
         "editorial_flags": []
@@ -23024,7 +23024,7 @@
         "stable_id": "S02174",
         "start_seconds": 31359.69,
         "end_seconds": 31390.03,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Yes, I'd just like a follow-up question on the earlier question raised by Senator Lacson because I recall the witness has not had lunch. And so, yes, he says he's okay. But I'd like to know if he can proceed with, you know, continuing with the cross-examination as well as the Questions from the Senator-Judges or would you like to likewise have a break or a few minutes?",
         "confidence": 0.9415981344980736,
         "editorial_flags": []
@@ -23051,7 +23051,7 @@
         "stable_id": "S02175A",
         "start_seconds": 31393.0,
         "end_seconds": 31393.42,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Are you sure?",
         "confidence": 0.98193359375,
         "editorial_flags": []
@@ -23069,7 +23069,7 @@
         "stable_id": "S02176",
         "start_seconds": 31394.28,
         "end_seconds": 31396.92,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "We don't want to undermine or compromise your health?",
         "confidence": 0.9971516927083334,
         "editorial_flags": []
@@ -23096,7 +23096,7 @@
         "stable_id": "S02178A",
         "start_seconds": 31399.3,
         "end_seconds": 31406.58,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Maybe we can give him a banana or something para may energy siya but it's up to him, Mr. Presiding Officer.",
         "confidence": 0.9070951021634616,
         "editorial_flags": []
@@ -23321,7 +23321,7 @@
         "stable_id": "S02204",
         "start_seconds": 32531.78,
         "end_seconds": 32542.06,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Yes, Mr. Presiding Officer. Just a quick manifestation. Earlier, the Defense counsel was raising the issue of criminal liability as to disclosure.",
         "confidence": 0.9869051846590909,
         "editorial_flags": []
@@ -23330,7 +23330,7 @@
         "stable_id": "S02205",
         "start_seconds": 32544.07,
         "end_seconds": 32555.71,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "of AMLA records. The witness has already said that it is his view that his disclosure is authorized because of the subpoena.",
         "confidence": 0.9674294211647727,
         "editorial_flags": []
@@ -23339,7 +23339,7 @@
         "stable_id": "S02206",
         "start_seconds": 32557.36,
         "end_seconds": 32572.22,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "The defense counsel likewise mentioned or raised issues about the house prosecution and the disclosure of AMLA records in the house, again raising issues of criminal liability.",
         "confidence": 0.9597800925925926,
         "editorial_flags": []
@@ -23348,7 +23348,7 @@
         "stable_id": "S02207",
         "start_seconds": 32576.12,
         "end_seconds": 32618.77,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "It leads us to think that maybe in the cross-examination, I don't know. The defense counsel will raise the issue of the possible criminal liability of the senator-judges. I don't know. It's a matter of concern. And I just want that placed on record. We have the Senate presiding officer has ruled. If the defense wishes to raise this issue, bring it. To the Supreme Court, perhaps. But raising the issue of possible criminal liability for authorized disclosure in this impeachment court, I believe, is",
         "confidence": 0.9675919689894635,
         "editorial_flags": []
@@ -23357,7 +23357,7 @@
         "stable_id": "S02208",
         "start_seconds": 32621.42,
         "end_seconds": 32622.02,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "uncalled for.",
         "confidence": 0.99737548828125,
         "editorial_flags": []

@@ -9,7 +9,7 @@
   },
   "transcript": {
     "status": "Reviewed working draft",
-    "revision": 2,
+    "revision": 3,
     "turn_count": 1761,
     "turns": [
       {
@@ -7962,7 +7962,7 @@
         "stable_id": "S00496",
         "start_seconds": 6313.4,
         "end_seconds": 6314.0599999999995,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Thank you",
         "confidence": 0.8740234375,
         "editorial_flags": []
@@ -7998,7 +7998,7 @@
         "stable_id": "S00500B",
         "start_seconds": 6316.63,
         "end_seconds": 6318.860000000001,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Magandang umaga, Attorney...",
         "confidence": 0.9493281923491379,
         "editorial_flags": []
@@ -8016,7 +8016,7 @@
         "stable_id": "S00500D",
         "start_seconds": 6320.08,
         "end_seconds": 6330.41,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "...Del Rosario. Tama ba na doon sa GIS ng GenCorp ay ang kumpanyang JTC Group ay",
         "confidence": 0.9493281923491379,
         "editorial_flags": []
@@ -8025,7 +8025,7 @@
         "stable_id": "S00501",
         "start_seconds": 6332.28,
         "end_seconds": 6334.78,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Nasa list ng shareholders.",
         "confidence": 0.9205322265625,
         "editorial_flags": []
@@ -8043,7 +8043,7 @@
         "stable_id": "S00504",
         "start_seconds": 6378.8,
         "end_seconds": 6387.25,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "At ilang porsyento ng shares ang pag-aari ng JTC Group sa GenCorp?",
         "confidence": 0.9944348457532052,
         "editorial_flags": []
@@ -8061,7 +8061,7 @@
         "stable_id": "S00506",
         "start_seconds": 6392.85,
         "end_seconds": 6399.35,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "So majority ng GENCORP is owned by JTC?",
         "confidence": 0.9720120337701613,
         "editorial_flags": []
@@ -8079,7 +8079,7 @@
         "stable_id": "S00506C",
         "start_seconds": 6401.3,
         "end_seconds": 6411.73,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Okay. Hindi ba may requirement ng disclosure as to sino talaga ang may control ng GENCORP sa SEC?",
         "confidence": 0.9720120337701613,
         "editorial_flags": []
@@ -8097,7 +8097,7 @@
         "stable_id": "S00507B",
         "start_seconds": 6418.945,
         "end_seconds": 6420.63,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Ano yung BO?",
         "confidence": 0.953528362771739,
         "editorial_flags": []
@@ -8124,7 +8124,7 @@
         "stable_id": "S00508B",
         "start_seconds": 6422.58,
         "end_seconds": 6424.75,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "So, required yan?",
         "confidence": 0.9924916049890351,
         "editorial_flags": []
@@ -8142,7 +8142,7 @@
         "stable_id": "S00508D",
         "start_seconds": 6425.9,
         "end_seconds": 6434.9400000000005,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "So, would you have that document? Sino ang beneficial owner ng JTC Corporation?",
         "confidence": 0.9924916049890351,
         "editorial_flags": []
@@ -8160,7 +8160,7 @@
         "stable_id": "S00510",
         "start_seconds": 6442.89,
         "end_seconds": 6456.84,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "So, in other words, based on the documents, ang JTC Corporation ang majority stockholder ng GenCorp.",
         "confidence": 0.9866710844494048,
         "editorial_flags": []
@@ -8178,7 +8178,7 @@
         "stable_id": "S00510C",
         "start_seconds": 6458.445,
         "end_seconds": 6464.16,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Para lang sa ating mga kababayan, pag majority stockholder ka,",
         "confidence": 0.9866710844494048,
         "editorial_flags": []
@@ -8187,7 +8187,7 @@
         "stable_id": "S00511",
         "start_seconds": 6466.97,
         "end_seconds": 6474.8150000000005,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Ano ang mga kapangyarihan na meron ka bilang majority stockholder ng isang kumpanya?",
         "confidence": 0.9101874033610027,
         "editorial_flags": []
@@ -8205,7 +8205,7 @@
         "stable_id": "S00512",
         "start_seconds": 6480.38,
         "end_seconds": 6481.08,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Mataas",
         "confidence": 0.87646484375,
         "editorial_flags": []
@@ -8241,7 +8241,7 @@
         "stable_id": "S00515B",
         "start_seconds": 6508.2,
         "end_seconds": 6515.41,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "So pwede mong tanggalin ang presidente with 54% of the votes of the shares at palitan?",
         "confidence": 0.9369228033371916,
         "editorial_flags": []
@@ -8259,7 +8259,7 @@
         "stable_id": "S00515D",
         "start_seconds": 6517.19,
         "end_seconds": 6521.045,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Pwede rin palitan ang members of the board?",
         "confidence": 0.9369228033371916,
         "editorial_flags": []
@@ -8277,7 +8277,7 @@
         "stable_id": "S00515F",
         "start_seconds": 6523.35,
         "end_seconds": 6532.9400000000005,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Yes, tama. Two-thirds pagka Board of Directors. Pero yung Presidente, Treasurer, pwede ng majority.",
         "confidence": 0.9369228033371916,
         "editorial_flags": []
@@ -8295,7 +8295,7 @@
         "stable_id": "S00517",
         "start_seconds": 6539.15,
         "end_seconds": 6552.370000000001,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Yes. So in other words, JTC na ang beneficial owner or ang major shareholder ng GenCorp, pwede palitan. Yung presidente ng GENCO.",
         "confidence": 0.9609250500427551,
         "editorial_flags": []
@@ -8313,7 +8313,7 @@
         "stable_id": "S00517C",
         "start_seconds": 6553.49,
         "end_seconds": 6578.28,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Okay. Hindi ba dapat, well, I will leave that to the presiding officer, but perhaps at this time, we should be able to subpoena the records, should we, after the presentation, of course, of both panels, the corporate documents and records of JTC.",
         "confidence": 0.9609250500427551,
         "editorial_flags": []
@@ -8322,7 +8322,7 @@
         "stable_id": "S00518",
         "start_seconds": 6580.15,
         "end_seconds": 6586.01,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "But I will address that or we will tackle that later on.",
         "confidence": 0.953369140625,
         "editorial_flags": []
@@ -8340,7 +8340,7 @@
         "stable_id": "S00520",
         "start_seconds": 6601.47,
         "end_seconds": 6603.17,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "So kung",
         "confidence": 0.6552734375,
         "editorial_flags": []
@@ -8349,7 +8349,7 @@
         "stable_id": "S00521",
         "start_seconds": 6605.45,
         "end_seconds": 6611.32,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "ang JTC ay stockholder ng GenCorp, kailangan,",
         "confidence": 0.969668433779762,
         "editorial_flags": []
@@ -8358,7 +8358,7 @@
         "stable_id": "S00522",
         "start_seconds": 6615.77,
         "end_seconds": 6631.92,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "yes, just to place it on record, we must Know who JTC, who the stockholders are of JTC because they ultimately control or at least through, I mean GenCorp.",
         "confidence": 0.9401518723060345,
         "editorial_flags": []
@@ -8367,7 +8367,7 @@
         "stable_id": "S00523",
         "start_seconds": 6633.87,
         "end_seconds": 6634.49,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Okay.",
         "confidence": 0.88232421875,
         "editorial_flags": []
@@ -8376,7 +8376,7 @@
         "stable_id": "S00524",
         "start_seconds": 6636.58,
         "end_seconds": 6649.4400000000005,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Tama ba na sa GenCorp, stockholder ang City Hall, may mga officers at stockholders ng GenCorp na sila rin ay nasa City Hall Chow Foods Corporation?",
         "confidence": 0.9910074869791666,
         "editorial_flags": []
@@ -8385,7 +8385,7 @@
         "stable_id": "S00525",
         "start_seconds": 6651.3,
         "end_seconds": 6652.16,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Just to...",
         "confidence": 0.6756591796875,
         "editorial_flags": []
@@ -8412,7 +8412,7 @@
         "stable_id": "S00528",
         "start_seconds": 6690.64,
         "end_seconds": 6706.83,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Yes, so City Corp, City Hall, King Chow Foods at GenCorp. Just to wrap up, pati ang Metro City Chow Foods, iba pa yun, meron ding stockholder ang GenCorp sa Metro City",
         "confidence": 0.9632034301757811,
         "editorial_flags": []
@@ -8430,7 +8430,7 @@
         "stable_id": "S00530",
         "start_seconds": 6709.77,
         "end_seconds": 6722.8,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "At meron din sa... Okay. So yung dalawang yun, no? City Hall at Metro ay mayroong shareholders, common shareholders and officers with GenCorp.",
         "confidence": 0.8934007727581523,
         "editorial_flags": []
@@ -8457,7 +8457,7 @@
         "stable_id": "S00532B",
         "start_seconds": 6728.219999999999,
         "end_seconds": 6733.34,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "And GenCorp is majority shareholder is JTC.",
         "confidence": 0.9927416604662699,
         "editorial_flags": []
@@ -8475,7 +8475,7 @@
         "stable_id": "S00532D",
         "start_seconds": 6734.4,
         "end_seconds": 6737.99,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Okay. No other questions at this first round,",
         "confidence": 0.9927416604662699,
         "editorial_flags": []
@@ -8493,7 +8493,7 @@
         "stable_id": "S00534",
         "start_seconds": 6738.57,
         "end_seconds": 6739.3099999999995,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Thank you. Thank",
         "confidence": 0.97998046875,
         "editorial_flags": []
@@ -10446,7 +10446,7 @@
         "stable_id": "S00741B",
         "start_seconds": 8757.83,
         "end_seconds": 8763.57,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Ginong Atty. Del Rosario. Kayo naghandaan ng summary, no?",
         "confidence": 0.958748059395032,
         "editorial_flags": []
@@ -10464,7 +10464,7 @@
         "stable_id": "S00741D",
         "start_seconds": 8764.27,
         "end_seconds": 8776.79,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Okay. Dito sa summary, lahat, or at least from years 2007, depende sa kumpanya, hanggang 2024, inilaan ninyo yung total sales. Tama?",
         "confidence": 0.958748059395032,
         "editorial_flags": []
@@ -10482,7 +10482,7 @@
         "stable_id": "S00741F",
         "start_seconds": 8777.53,
         "end_seconds": 8787.15,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "So, from 2007 to 2017, City Hall King Chow, about 311 million ang kanyang sales.",
         "confidence": 0.958748059395032,
         "editorial_flags": []
@@ -10500,7 +10500,7 @@
         "stable_id": "S00743",
         "start_seconds": 8791.39,
         "end_seconds": 8806.75,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "2017 naman hanggang 2025, yung Metro Chow, sabi ninyo, basis sales, 309 million. Ang Great Jolly Times naman from 2007 to 2013, 209 million ang benta.",
         "confidence": 0.9300411909054487,
         "editorial_flags": []
@@ -10509,7 +10509,7 @@
         "stable_id": "S00744",
         "start_seconds": 8811.99,
         "end_seconds": 8821.91,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "At yung Times Square, B-Food, 2013 hanggang 2022, 335 million ang benta.",
         "confidence": 0.8595389341696715,
         "editorial_flags": []
@@ -10527,7 +10527,7 @@
         "stable_id": "S00746",
         "start_seconds": 8826.58,
         "end_seconds": 8839.15,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Tama po. So ang City Hall, King Chow, Metro Chow, Great Jolly Times, Times Square B Food, ang total niya is about 1.15 billion sales. Tama po.",
         "confidence": 0.9348798479352679,
         "editorial_flags": []
@@ -10545,7 +10545,7 @@
         "stable_id": "S00748",
         "start_seconds": 8840.869999999999,
         "end_seconds": 8876.3,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "ang GenCorp naman from 2020 to 2024, nakasabi ang kanyang sales ay 1.04 billion. Sa iyong summary. Tama po. So ang total ng GenCorp, City Hall King, Metro Chow, Great Jolly Times, Times Square B Food from 2007 until 2024, total is about 2.159 billion worth of sales. Tama po. And in all those instances, walang dineklarang dividendo. Wala pong information on dividend declaration.",
         "confidence": 0.9399802468039773,
         "editorial_flags": []
@@ -10554,7 +10554,7 @@
         "stable_id": "S00749",
         "start_seconds": 8878.18,
         "end_seconds": 8899.2,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Sinabi mo kaninang 50-50 ang nagde-deklara at hindi nagde-deklara ng dividendo. Apo. Pero sabi nyo para sa taong yun. Apo. Pero sa kabuan, experience nyo sa taong-taon, ganun din? 50% ang mga nagde-deklara at 50% ang hindi nagde-deklara?",
         "confidence": 0.9459723873414854,
         "editorial_flags": []
@@ -10572,7 +10572,7 @@
         "stable_id": "S00751",
         "start_seconds": 8904.47,
         "end_seconds": 8925.85,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Pero dito naman sa itong 2007 to 2025 o 24 na hindi nagde-deklara, is that part of ano yan? Tama ba? Most companies ganyan ba sa pakiwari mo na taong taon for several years na 2.1 billion ang sales?",
         "confidence": 0.9043008447662603,
         "editorial_flags": []
@@ -10599,7 +10599,7 @@
         "stable_id": "S00754",
         "start_seconds": 8942.49,
         "end_seconds": 8955.880000000001,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "-declaration does not mean illegal. Yun nga lang, non-declaration means wala kang kinita, wala kang income. Wala pong pinamahagi sa shareholders.",
         "confidence": 0.9800267075047349,
         "editorial_flags": []
@@ -10608,7 +10608,7 @@
         "stable_id": "S00755",
         "start_seconds": 8963.16,
         "end_seconds": 8989.79,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Kasi ang mga pangalan, King Chow, Chow, Jolly, Times, Bee. Would you know, itong 2.1 billion na sales, would this be, kasi restaurants eh, di ba? Yes, Your Honor. Pulo restaurants po. So ano yan? Mga Jollibee ba yan? Tsaka mga Chowking? Kasi mukhang yun ang may kinalaman sa Chowking ba yan? Or Jollibee? Would you know? Only if you know.",
         "confidence": 0.9440484816028226,
         "editorial_flags": []
@@ -10617,7 +10617,7 @@
         "stable_id": "S00756",
         "start_seconds": 8990.09,
         "end_seconds": 8997.83,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Lumalabas po sa isang financial statement na in-identify kahapon ng witness, may lumabas po yung salitang Jollibee.",
         "confidence": 0.9708830180921053,
         "editorial_flags": []
@@ -10635,7 +10635,7 @@
         "stable_id": "S00757B",
         "start_seconds": 9002.57,
         "end_seconds": 9002.97,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "So",
         "confidence": 0.8095024956597222,
         "editorial_flags": []
@@ -10644,7 +10644,7 @@
         "stable_id": "S00758",
         "start_seconds": 9002.97,
         "end_seconds": 9021.36,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "would you know? Only if you know. Ibig sabihin ba itong mga kumpanya na ito ay mga Medialibi and Chowking franchises? Only if you know. Based on your... Kasi kanina sabi mo yung Jaime T. Cruz ay basis sa inyong research. Would you know?",
         "confidence": 0.9343576142282196,
         "editorial_flags": []
@@ -10662,7 +10662,7 @@
         "stable_id": "S00760",
         "start_seconds": 9024.6,
         "end_seconds": 9025.36,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Would you know how many?",
         "confidence": 0.99931640625,
         "editorial_flags": []
@@ -10680,7 +10680,7 @@
         "stable_id": "S00762",
         "start_seconds": 9030.75,
         "end_seconds": 9046.29,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "More or less. Kasi billion eh. So I would assume maraming franchisees ito ng Jollibee at ng Chowking, kaya umaabot ng billion yung kanilang sales over a period of time. Yes, Your Honor. Okay. Thank you for that clarification.",
         "confidence": 0.9117783766526443,
         "editorial_flags": []

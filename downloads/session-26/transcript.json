@@ -9,7 +9,7 @@
   },
   "transcript": {
     "status": "Reviewed working draft",
-    "revision": 4,
+    "revision": 5,
     "turn_count": 852,
     "turns": [
       {
@@ -4885,7 +4885,7 @@
         "stable_id": "S00594",
         "start_seconds": 17463.66,
         "end_seconds": 17523.09,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Just one question, Chief Justice Art, Chief Justice Rene, Justice Adolfo. There have been some commentary that the threshold vote, changing the rules, and therefore the due process. Requirement of the respondent and actually even the prosecution. When you change the rules in the middle of the proceedings, maapektuhan yung due process clause kasi dapat hindi binabago habang nagkakaroon ng paglilitis. Would you care to comment?",
         "confidence": 0.9564825231378729,
         "editorial_flags": []
@@ -4894,7 +4894,7 @@
         "stable_id": "S00595",
         "start_seconds": 17525.61,
         "end_seconds": 17540.41,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Totoo ba pag halimbawa pinagbotohan yung unang ruling baguhin yung unang ruling ng ating presiding officer ay meron ng paglabag sa due process ng nasasakdal o yung responded?",
         "confidence": 0.9379964192708333,
         "editorial_flags": []
@@ -4939,7 +4939,7 @@
         "stable_id": "S00600",
         "start_seconds": 17673.85,
         "end_seconds": 17675.11,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Yes, yes, Chief.",
         "confidence": 0.9443359375,
         "editorial_flags": []
@@ -4957,7 +4957,7 @@
         "stable_id": "S00602",
         "start_seconds": 17697.09,
         "end_seconds": 17703.85,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Salamat po. Maraming salamat po. Thank you for your kind words. Senator, ah, Senator Tuloy.",
         "confidence": 0.921435546875,
         "editorial_flags": []
@@ -4966,7 +4966,7 @@
         "stable_id": "S00603",
         "start_seconds": 17706.68,
         "end_seconds": 17750.83,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Senator Rene Puno. The same question, if I may be allowed. The question actually is on the issue of the threshold because our presiding officer has ruled that it is 16. Now, if we reconsider that ruling and decide as a court that it is lower than 16 or if we decide that it is 16, walang problema. In other words, there were no changes. But if we decide it's lower, I go back to that question. Isn't that a denial of the respondent's right to due process that the rule was changed in the middle of the proceeding?",
         "confidence": 0.9779714462331649,
         "editorial_flags": []
@@ -5056,7 +5056,7 @@
         "stable_id": "S00613",
         "start_seconds": 17856.69,
         "end_seconds": 17857.49,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Ay",
         "confidence": 0.06451416015625,
         "editorial_flags": []
@@ -5101,7 +5101,7 @@
         "stable_id": "S00618",
         "start_seconds": 17937.79,
         "end_seconds": 17943.39,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Chief Justice. Would Justice Adolf be willing to... I",
         "confidence": 0.9088677300347222,
         "editorial_flags": []
@@ -5119,7 +5119,7 @@
         "stable_id": "S00620",
         "start_seconds": 18000.0,
         "end_seconds": 18025.9,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "eminent jurists and maraming salamat sa oras ninyo. Malaking bagay po. Minomonitor din po natin sa social media. Marami po nakikinig sa inyong mga at maraming nagiging tagahanga ninyo. Baka sakali dahil dito sa ano na ito eh, baka maging senator ang ilan sa inyo. Liro lang po. Maraming salamat po. Salamat.",
         "confidence": 0.9574671036157854,
         "editorial_flags": []

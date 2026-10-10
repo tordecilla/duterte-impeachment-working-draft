@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=UtB7tSTVWiI
-Status: Reviewed working draft, revision 3
+Status: Reviewed working draft, revision 4
 
 **[00:05:13.360] Atty. Renato N. Bantug Jr.**  
 President, the Presiding Officer, and Senator-Judges of the Impeachment Court.
@@ -1568,22 +1568,22 @@ Thank
 **[02:04:36.510] Sen. Francis "Chiz" G. Escudero**  
 you, Senator Judge Rafi. Senator Judge Kiko Pangilinan, you may proceed, sir, with your interjection. Thank you. Actually,
 
-**[02:04:45.960] Sen. Francis Pangilinan**  
+**[02:04:45.960] Sen. Francis “Kiko” Pangilinan**  
 isang question lang. Siguro may isang follow-up kung kailangan.
 
-**[02:04:51.640] Sen. Francis Pangilinan**  
+**[02:04:51.640] Sen. Francis “Kiko” Pangilinan**  
 Marami kasi ang ating mga kababayan nakikinig, nanonood. Ngayong ill-gotten wealth ang pinag-uusapan. Yung ill-gotten wealth ba kinakailangan pondo ng gobyerno?
 
 **[02:05:06.070] Justice Amparo M. Cabotaje-Tang**  
 Not necessarily po kasi if you look at the plunder law, there are five overt or criminal acts kung tawagin na if committed through a series or combination at ang na-amass or na-acquire or na-amass na wealth is at the threshold, the minimum threshold of 50 million pesos can still constitute plunder.
 
-**[02:05:27.720] Sen. Francis Pangilinan**  
+**[02:05:27.720] Sen. Francis “Kiko” Pangilinan**  
 And the 50 million need not be public funds?
 
 **[02:05:33.960] Justice Amparo M. Cabotaje-Tang**  
 No sir, because I think it's paragraph B about bribery. Bribery, the money generally does not come from government but from other persons.
 
-**[02:05:48.360] Sen. Francis Pangilinan**  
+**[02:05:48.360] Sen. Francis “Kiko” Pangilinan**  
 Okay. Yun lang. Maraming salamat Justice.
 
 **[02:05:52.140] Justice Amparo M. Cabotaje-Tang**  
@@ -2477,7 +2477,7 @@ the future? No, sir. As I have said earlier, I've never been political in my lif
 **[03:28:22.030] Rep. Jose Manuel “Chel” I. Diokno**  
 Your Honor, may I just make a manifestation that earlier, Council for the Defense mentioned that I was part of the photograph. No, not photograph. It listed as one of the participants. May I finish,
 
-**[03:28:35.550] Sen. Francis Pangilinan**  
+**[03:28:35.550] Sen. Francis “Kiko” Pangilinan**  
 please, sir?
 
 **[03:28:36.510] Rep. Jose Manuel “Chel” I. Diokno**  
@@ -3503,7 +3503,7 @@ No, sir.
 **[04:07:32.800] Atty. Mark C. Vinluan**  
 I'll refresh your memory po and then I'll ask last few questions. This was beautifully penned by Justice Leonen.
 
-**[04:07:40.940] Sen. Francis Pangilinan**  
+**[04:07:40.940] Sen. Francis “Kiko” Pangilinan**  
 To
 
 **[04:07:43.820] Atty. Mark C. Vinluan**  
@@ -3983,43 +3983,43 @@ Salamat po sa payo niyo, Justice Tang. Kung sakaling dumating man po yung panaho
 **[04:29:46.490] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge Pangilinan is recognized for your intervention. You have two minutes, sir.
 
-**[04:29:57.360] Sen. Francis Pangilinan**  
+**[04:29:57.360] Sen. Francis “Kiko” Pangilinan**  
 Thank you, Mr. Presiding Officer. Mayroong alam si Senate President na hindi natin alam tungkol sa mga plano niyang pag-aasawa. Basis sa mga katanungan. Just one or two questions, Justice. Earlier, your testimony was being objected to and one of the grounds was Rule 129. Is that correct? Yes. And the ground being, or Rule 29, stating that your testimony hindi na kailangan kasi dapat judicial notice na. Hindi po ba?
 
 **[04:30:29.450] Justice Amparo M. Cabotaje-Tang**  
 Yes,
 
-**[04:30:29.750] Sen. Francis Pangilinan**  
+**[04:30:29.750] Sen. Francis “Kiko” Pangilinan**  
 sir. Bilang Korte. But you also mentioned sa testimony niyo kadina, this refers, Rule 129 refers to the judiciary primarily. Yes,
 
 **[04:30:43.810] Justice Amparo M. Cabotaje-Tang**  
 sir.
 
-**[04:30:44.190] Sen. Francis Pangilinan**  
+**[04:30:44.190] Sen. Francis “Kiko” Pangilinan**  
 It is, the rules of court is suppletory to the impeachment court. And the reason, I believe, it is for the courts because the court is presided over by a lawyer. Yes. A judge. Yes. Who is Learned in the law. In the case of the Senate Impeachment Court, we're only five lawyers here out of 24 senators. And therefore, while you can insist that the judge in the judiciary should take judicial notice of the laws, etc., that is not the case for the Impeachment Court. Would you agree to that?
 
 **[04:31:27.820] Justice Amparo M. Cabotaje-Tang**  
 Yes, sir.
 
-**[04:31:28.820] Sen. Francis Pangilinan**  
+**[04:31:28.820] Sen. Francis “Kiko” Pangilinan**  
 Yes, and therefore, invoking Rule 129 of the Rules of Court is acceptable and necessary when it comes to the judiciary and the courts, but not so in the impeachment court.
 
 **[04:31:48.540] Justice Amparo M. Cabotaje-Tang**  
 Yes, sir.
 
-**[04:31:49.420] Sen. Francis Pangilinan**  
+**[04:31:49.420] Sen. Francis “Kiko” Pangilinan**  
 Okay. No other question, Mr.
 
 **[04:31:52.400] Sen. Francis "Chiz" G. Escudero**  
 Fajarda?
 
-**[04:31:52.700] Sen. Francis Pangilinan**  
+**[04:31:52.700] Sen. Francis “Kiko” Pangilinan**  
 Thank you,
 
 **[04:31:53.000] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge Pangilinan. Senator-Judge Hontiveros is recognized.
 
-**[04:31:57.580] Sen. Francis Pangilinan**  
+**[04:31:57.580] Sen. Francis “Kiko” Pangilinan**  
 Manifestation,
 
 **[04:31:58.040] Sen. Francis "Chiz" G. Escudero**  

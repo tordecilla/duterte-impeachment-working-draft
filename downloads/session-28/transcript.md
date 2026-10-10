@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=gtoJDFavcLY
-Status: Reviewed working draft, revision 2
+Status: Reviewed working draft, revision 3
 
 **[00:06:42.420] Sen. Sherwin T. Gatchalian**  
 The Sergeant at Arms is directed to make a proclamation.
@@ -2651,7 +2651,7 @@ You
 **[01:45:08.180] Sen. Francis "Chiz" G. Escudero**  
 may proceed, sir, when you're ready. You have two minutes. Thereafter, Senator-Judge Hontiveros.
 
-**[01:45:13.400] Sen. Francis Pangilinan**  
+**[01:45:13.400] Sen. Francis “Kiko” Pangilinan**  
 Thank you
 
 **[01:45:14.060] Sen. Francis "Chiz" G. Escudero**  
@@ -2663,40 +2663,40 @@ Let's try to
 **[01:45:14.580] Sen. Francis "Chiz" G. Escudero**  
 wrap up with this witness before lunch.
 
-**[01:45:16.630] Sen. Francis Pangilinan**  
+**[01:45:16.630] Sen. Francis “Kiko” Pangilinan**  
 Magandang umaga, Attorney...
 
 **[01:45:18.860] Atty. Gerardo F. del Rosario**  
 Magandang umaga po.
 
-**[01:45:20.080] Sen. Francis Pangilinan**  
+**[01:45:20.080] Sen. Francis “Kiko” Pangilinan**  
 ...Del Rosario. Tama ba na doon sa GIS ng GenCorp ay ang kumpanyang JTC Group ay
 
-**[01:45:32.280] Sen. Francis Pangilinan**  
+**[01:45:32.280] Sen. Francis “Kiko” Pangilinan**  
 Nasa list ng shareholders.
 
 **[01:46:06.620] Atty. Gerardo F. del Rosario**  
 ayon po sa 2025 GIS ng GenCorp Industries Inc., si JTC Group of Companies po ay shareholders ng nasabing korporasyon.
 
-**[01:46:18.800] Sen. Francis Pangilinan**  
+**[01:46:18.800] Sen. Francis “Kiko” Pangilinan**  
 At ilang porsyento ng shares ang pag-aari ng JTC Group sa GenCorp?
 
 **[01:46:27.850] Atty. Gerardo F. del Rosario**  
 Ayon po rito meron po siyang 54.99% ownership.
 
-**[01:46:32.850] Sen. Francis Pangilinan**  
+**[01:46:32.850] Sen. Francis “Kiko” Pangilinan**  
 So majority ng GENCORP is owned by JTC?
 
 **[01:46:39.350] Atty. Gerardo F. del Rosario**  
 Tama po. Ayon po dito.
 
-**[01:46:41.300] Sen. Francis Pangilinan**  
+**[01:46:41.300] Sen. Francis “Kiko” Pangilinan**  
 Okay. Hindi ba may requirement ng disclosure as to sino talaga ang may control ng GENCORP sa SEC?
 
 **[01:46:52.460] Atty. Gerardo F. del Rosario**  
 Yan po yung mga, yung pong informasyon na yan ay nakasaad sa ating, sa aming BO declaration form.
 
-**[01:46:58.945] Sen. Francis Pangilinan**  
+**[01:46:58.945] Sen. Francis “Kiko” Pangilinan**  
 Ano yung BO?
 
 **[01:47:00.630] Atty. Gerardo F. del Rosario**  
@@ -2705,34 +2705,34 @@ Beneficial Ownership
 **[01:47:02.090] Atty. Gerardo F. del Rosario**  
 Declaration.
 
-**[01:47:02.580] Sen. Francis Pangilinan**  
+**[01:47:02.580] Sen. Francis “Kiko” Pangilinan**  
 So, required yan?
 
 **[01:47:04.750] Atty. Gerardo F. del Rosario**  
 Kailangan po.
 
-**[01:47:05.900] Sen. Francis Pangilinan**  
+**[01:47:05.900] Sen. Francis “Kiko” Pangilinan**  
 So, would you have that document? Sino ang beneficial owner ng JTC Corporation?
 
 **[01:47:15.790] Atty. Gerardo F. del Rosario**  
 Gaya po nang nasabi ko, sinusubite po yan sa SEC pero wala po sa aming pangangalaga sa aking departamento ang kopya na yan.
 
-**[01:47:22.890] Sen. Francis Pangilinan**  
+**[01:47:22.890] Sen. Francis “Kiko” Pangilinan**  
 So, in other words, based on the documents, ang JTC Corporation ang majority stockholder ng GenCorp.
 
 **[01:47:36.840] Atty. Gerardo F. del Rosario**  
 Tama po.
 
-**[01:47:38.445] Sen. Francis Pangilinan**  
+**[01:47:38.445] Sen. Francis “Kiko” Pangilinan**  
 Para lang sa ating mga kababayan, pag majority stockholder ka,
 
-**[01:47:46.970] Sen. Francis Pangilinan**  
+**[01:47:46.970] Sen. Francis “Kiko” Pangilinan**  
 Ano ang mga kapangyarihan na meron ka bilang majority stockholder ng isang kumpanya?
 
 **[01:47:54.815] Atty. Gerardo F. del Rosario**  
 Meron po kayong guaranteed seat sa board.
 
-**[01:48:00.380] Sen. Francis Pangilinan**  
+**[01:48:00.380] Sen. Francis “Kiko” Pangilinan**  
 Mataas
 
 **[01:48:01.080] Atty. Gerardo F. del Rosario**  
@@ -2744,55 +2744,55 @@ Gawa po ng malaking porsyento rin po yung board na maaari mong ilagay sa board d
 **[01:48:27.070] Atty. Gerardo F. del Rosario**  
 ang magagawa mo.
 
-**[01:48:28.200] Sen. Francis Pangilinan**  
+**[01:48:28.200] Sen. Francis “Kiko” Pangilinan**  
 So pwede mong tanggalin ang presidente with 54% of the votes of the shares at palitan?
 
 **[01:48:35.410] Atty. Gerardo F. del Rosario**  
 Kung presidente po, opo.
 
-**[01:48:37.190] Sen. Francis Pangilinan**  
+**[01:48:37.190] Sen. Francis “Kiko” Pangilinan**  
 Pwede rin palitan ang members of the board?
 
 **[01:48:41.045] Atty. Gerardo F. del Rosario**  
 Meron pong required votes na two-thirds.
 
-**[01:48:43.350] Sen. Francis Pangilinan**  
+**[01:48:43.350] Sen. Francis “Kiko” Pangilinan**  
 Yes, tama. Two-thirds pagka Board of Directors. Pero yung Presidente, Treasurer, pwede ng majority.
 
 **[01:48:55.030] Atty. Gerardo F. del Rosario**  
 Tama po. Ang Presidente, solong na hindi mo siya tatanggalin as member of the Board.
 
-**[01:48:59.150] Sen. Francis Pangilinan**  
+**[01:48:59.150] Sen. Francis “Kiko” Pangilinan**  
 Yes. So in other words, JTC na ang beneficial owner or ang major shareholder ng GenCorp, pwede palitan. Yung presidente ng GENCO.
 
 **[01:49:12.370] Atty. Gerardo F. del Rosario**  
 Tama po.
 
-**[01:49:13.490] Sen. Francis Pangilinan**  
+**[01:49:13.490] Sen. Francis “Kiko” Pangilinan**  
 Okay. Hindi ba dapat, well, I will leave that to the presiding officer, but perhaps at this time, we should be able to subpoena the records, should we, after the presentation, of course, of both panels, the corporate documents and records of JTC.
 
-**[01:49:40.150] Sen. Francis Pangilinan**  
+**[01:49:40.150] Sen. Francis “Kiko” Pangilinan**  
 But I will address that or we will tackle that later on.
 
 **[01:49:49.940] Sen. Francis "Chiz" G. Escudero**  
 The chair will take it under advisement and shall await action emanating from the panel of prosecutors, Senator-Judge Pangilinan. Thank you. And will act accordingly thereafter.
 
-**[01:50:01.470] Sen. Francis Pangilinan**  
+**[01:50:01.470] Sen. Francis “Kiko” Pangilinan**  
 So kung
 
-**[01:50:05.450] Sen. Francis Pangilinan**  
+**[01:50:05.450] Sen. Francis “Kiko” Pangilinan**  
 ang JTC ay stockholder ng GenCorp, kailangan,
 
-**[01:50:15.770] Sen. Francis Pangilinan**  
+**[01:50:15.770] Sen. Francis “Kiko” Pangilinan**  
 yes, just to place it on record, we must Know who JTC, who the stockholders are of JTC because they ultimately control or at least through, I mean GenCorp.
 
-**[01:50:33.870] Sen. Francis Pangilinan**  
+**[01:50:33.870] Sen. Francis “Kiko” Pangilinan**  
 Okay.
 
-**[01:50:36.580] Sen. Francis Pangilinan**  
+**[01:50:36.580] Sen. Francis “Kiko” Pangilinan**  
 Tama ba na sa GenCorp, stockholder ang City Hall, may mga officers at stockholders ng GenCorp na sila rin ay nasa City Hall Chow Foods Corporation?
 
-**[01:50:51.300] Sen. Francis Pangilinan**  
+**[01:50:51.300] Sen. Francis “Kiko” Pangilinan**  
 Just to...
 
 **[01:50:54.370] Atty. Gerardo F. del Rosario**  
@@ -2801,13 +2801,13 @@ Ayon
 **[01:51:21.730] Atty. Gerardo F. del Rosario**  
 po sa GS ng GenCorp, maging ang City Chow Food Corporation, meron po silang common stockholders.
 
-**[01:51:30.640] Sen. Francis Pangilinan**  
+**[01:51:30.640] Sen. Francis “Kiko” Pangilinan**  
 Yes, so City Corp, City Hall, King Chow Foods at GenCorp. Just to wrap up, pati ang Metro City Chow Foods, iba pa yun, meron ding stockholder ang GenCorp sa Metro City
 
 **[01:51:46.830] Atty. Gerardo F. del Rosario**  
 Chow Food. Sa Metro City po meron po.
 
-**[01:51:49.770] Sen. Francis Pangilinan**  
+**[01:51:49.770] Sen. Francis “Kiko” Pangilinan**  
 At meron din sa... Okay. So yung dalawang yun, no? City Hall at Metro ay mayroong shareholders, common shareholders and officers with GenCorp.
 
 **[01:52:02.980] Atty. Gerardo F. del Rosario**  
@@ -2816,19 +2816,19 @@ Tama po. City Hall, Metro and... City
 **[01:52:06.650] Atty. Gerardo F. del Rosario**  
 Hall, Metro and GenCorp.
 
-**[01:52:08.220] Sen. Francis Pangilinan**  
+**[01:52:08.220] Sen. Francis “Kiko” Pangilinan**  
 And GenCorp is majority shareholder is JTC.
 
 **[01:52:13.340] Atty. Gerardo F. del Rosario**  
 Tama po.
 
-**[01:52:14.400] Sen. Francis Pangilinan**  
+**[01:52:14.400] Sen. Francis “Kiko” Pangilinan**  
 Okay. No other questions at this first round,
 
 **[01:52:18.030] Sen. Francis "Chiz" G. Escudero**  
 Mr. President?
 
-**[01:52:18.570] Sen. Francis Pangilinan**  
+**[01:52:18.570] Sen. Francis “Kiko” Pangilinan**  
 Thank you. Thank
 
 **[01:52:19.310] Sen. Francis "Chiz" G. Escudero**  
@@ -3479,49 +3479,49 @@ Sorry, gutom na yata. Yan eh, kaya natagalan ng konti. For the
 **[02:25:57.150] Sen. Francis "Chiz" G. Escudero**  
 second round,
 
-**[02:25:57.830] Sen. Francis Pangilinan**  
+**[02:25:57.830] Sen. Francis “Kiko” Pangilinan**  
 Ginong Atty. Del Rosario. Kayo naghandaan ng summary, no?
 
 **[02:26:03.570] Atty. Gerardo F. del Rosario**  
 Tama po.
 
-**[02:26:04.270] Sen. Francis Pangilinan**  
+**[02:26:04.270] Sen. Francis “Kiko” Pangilinan**  
 Okay. Dito sa summary, lahat, or at least from years 2007, depende sa kumpanya, hanggang 2024, inilaan ninyo yung total sales. Tama?
 
 **[02:26:16.790] Atty. Gerardo F. del Rosario**  
 Tama po.
 
-**[02:26:17.530] Sen. Francis Pangilinan**  
+**[02:26:17.530] Sen. Francis “Kiko” Pangilinan**  
 So, from 2007 to 2017, City Hall King Chow, about 311 million ang kanyang sales.
 
 **[02:26:30.490] Atty. Gerardo F. del Rosario**  
 Nung
 
-**[02:26:31.390] Sen. Francis Pangilinan**  
+**[02:26:31.390] Sen. Francis “Kiko” Pangilinan**  
 2017 naman hanggang 2025, yung Metro Chow, sabi ninyo, basis sales, 309 million. Ang Great Jolly Times naman from 2007 to 2013, 209 million ang benta.
 
-**[02:26:51.990] Sen. Francis Pangilinan**  
+**[02:26:51.990] Sen. Francis “Kiko” Pangilinan**  
 At yung Times Square, B-Food, 2013 hanggang 2022, 335 million ang benta.
 
 **[02:27:02.460] Atty. Gerardo F. del Rosario**  
 Times Square po ay 335,087,332.
 
-**[02:27:06.580] Sen. Francis Pangilinan**  
+**[02:27:06.580] Sen. Francis “Kiko” Pangilinan**  
 Tama po. So ang City Hall, King Chow, Metro Chow, Great Jolly Times, Times Square B Food, ang total niya is about 1.15 billion sales. Tama po.
 
 **[02:27:19.250] Atty. Gerardo F. del Rosario**  
 Yes. Okay. At
 
-**[02:27:20.870] Sen. Francis Pangilinan**  
+**[02:27:20.870] Sen. Francis “Kiko” Pangilinan**  
 ang GenCorp naman from 2020 to 2024, nakasabi ang kanyang sales ay 1.04 billion. Sa iyong summary. Tama po. So ang total ng GenCorp, City Hall King, Metro Chow, Great Jolly Times, Times Square B Food from 2007 until 2024, total is about 2.159 billion worth of sales. Tama po. And in all those instances, walang dineklarang dividendo. Wala pong information on dividend declaration.
 
-**[02:27:58.180] Sen. Francis Pangilinan**  
+**[02:27:58.180] Sen. Francis “Kiko” Pangilinan**  
 Sinabi mo kaninang 50-50 ang nagde-deklara at hindi nagde-deklara ng dividendo. Apo. Pero sabi nyo para sa taong yun. Apo. Pero sa kabuan, experience nyo sa taong-taon, ganun din? 50% ang mga nagde-deklara at 50% ang hindi nagde-deklara?
 
 **[02:28:19.540] Atty. Gerardo F. del Rosario**  
 Yun po yung aking presumption. Mga 50-50 po ang hindi nakapag-deklara.
 
-**[02:28:24.470] Sen. Francis Pangilinan**  
+**[02:28:24.470] Sen. Francis “Kiko” Pangilinan**  
 Pero dito naman sa itong 2007 to 2025 o 24 na hindi nagde-deklara, is that part of ano yan? Tama ba? Most companies ganyan ba sa pakiwari mo na taong taon for several years na 2.1 billion ang sales?
 
 **[02:28:46.970] Atty. Gerardo F. del Rosario**  
@@ -3530,34 +3530,34 @@ Kasi po baka meron namang proyekto yung kumpanya. Expansion sabi ninyo. Expansio
 **[02:29:00.810] Atty. Gerardo F. del Rosario**  
 So non
 
-**[02:29:02.490] Sen. Francis Pangilinan**  
+**[02:29:02.490] Sen. Francis “Kiko” Pangilinan**  
 -declaration does not mean illegal. Yun nga lang, non-declaration means wala kang kinita, wala kang income. Wala pong pinamahagi sa shareholders.
 
-**[02:29:23.160] Sen. Francis Pangilinan**  
+**[02:29:23.160] Sen. Francis “Kiko” Pangilinan**  
 Kasi ang mga pangalan, King Chow, Chow, Jolly, Times, Bee. Would you know, itong 2.1 billion na sales, would this be, kasi restaurants eh, di ba? Yes, Your Honor. Pulo restaurants po. So ano yan? Mga Jollibee ba yan? Tsaka mga Chowking? Kasi mukhang yun ang may kinalaman sa Chowking ba yan? Or Jollibee? Would you know? Only if you know.
 
-**[02:29:50.090] Sen. Francis Pangilinan**  
+**[02:29:50.090] Sen. Francis “Kiko” Pangilinan**  
 Lumalabas po sa isang financial statement na in-identify kahapon ng witness, may lumabas po yung salitang Jollibee.
 
 **[02:30:00.750] Atty. Gerardo F. del Rosario**  
 Gencorp Industries.
 
-**[02:30:02.570] Sen. Francis Pangilinan**  
+**[02:30:02.570] Sen. Francis “Kiko” Pangilinan**  
 So
 
-**[02:30:02.970] Sen. Francis Pangilinan**  
+**[02:30:02.970] Sen. Francis “Kiko” Pangilinan**  
 would you know? Only if you know. Ibig sabihin ba itong mga kumpanya na ito ay mga Medialibi and Chowking franchises? Only if you know. Based on your... Kasi kanina sabi mo yung Jaime T. Cruz ay basis sa inyong research. Would you know?
 
 **[02:30:21.880] Atty. Gerardo F. del Rosario**  
 Yes, Your Honor. May mga franchises po.
 
-**[02:30:24.600] Sen. Francis Pangilinan**  
+**[02:30:24.600] Sen. Francis “Kiko” Pangilinan**  
 Would you know how many?
 
 **[02:30:27.150] Atty. Gerardo F. del Rosario**  
 I don't have the exact number, Your Honor. Pero we have...
 
-**[02:30:30.750] Sen. Francis Pangilinan**  
+**[02:30:30.750] Sen. Francis “Kiko” Pangilinan**  
 More or less. Kasi billion eh. So I would assume maraming franchisees ito ng Jollibee at ng Chowking, kaya umaabot ng billion yung kanilang sales over a period of time. Yes, Your Honor. Okay. Thank you for that clarification.
 
 **[02:30:46.930] Sen. Francis "Chiz" G. Escudero**  

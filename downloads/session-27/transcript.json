@@ -9,7 +9,7 @@
   },
   "transcript": {
     "status": "Reviewed working draft",
-    "revision": 3,
+    "revision": 4,
     "turn_count": 1385,
     "turns": [
       {
@@ -2239,7 +2239,7 @@
         "stable_id": "S00242",
         "start_seconds": 3917.9,
         "end_seconds": 3953.12,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Just a request perhaps moving forward. If there is an anticipation of such documents in the next trial dates that they prepare beforehand rather than have it distributed here or reproduced here before it's distributed. Just a request, Mr. President. They may or may not accede to the request, but it will really help facilitate things if These copies are prepared beforehand rather than while we're doing the trial. The",
         "confidence": 0.9244088309151786,
         "editorial_flags": []

@@ -9,7 +9,7 @@
   },
   "transcript": {
     "status": "Reviewed working draft",
-    "revision": 2,
+    "revision": 3,
     "turn_count": 1280,
     "turns": [
       {
@@ -5587,7 +5587,7 @@
         "stable_id": "S00592B",
         "start_seconds": 6268.85,
         "end_seconds": 6288.3099999999995,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Thank you, Mr. Presiding Officer. It's actually a follow-up to the points raised by the Presiding Officer. Atty. Batu, sabi po ninyo na noong 2017 at 20, yung walang corrected SALN in your possession, tama po ba?",
         "confidence": 0.9609026227678571,
         "editorial_flags": []
@@ -5605,7 +5605,7 @@
         "stable_id": "S00594",
         "start_seconds": 6289.4,
         "end_seconds": 6309.02,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Dalawang beses daw kasi, according to our presiding officer, Kinorek. Would you know kung yung sinubmit ninyo sa House of Representatives and I would assume hanggang dito sa impeachment court, would you know if it was a corrected copy? Kasi sabi nyo isa lang eh. Or the original copy?",
         "confidence": 0.9703975340136055,
         "editorial_flags": []
@@ -5623,7 +5623,7 @@
         "stable_id": "S00596",
         "start_seconds": 6312.36,
         "end_seconds": 6318.42,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "isa lang, di ba? Dalawang sinubmit, pero yung pangalawang dalawang sinubmit, corrected.",
         "confidence": 0.9600246853298611,
         "editorial_flags": []
@@ -5632,7 +5632,7 @@
         "stable_id": "S00597",
         "start_seconds": 6319.23,
         "end_seconds": 6319.71,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "So",
         "confidence": 0.91943359375,
         "editorial_flags": []
@@ -5641,7 +5641,7 @@
         "stable_id": "S00598",
         "start_seconds": 6319.71,
         "end_seconds": 6337.12,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "ang tanong ko, yung sinabit ba ninyo sa house as based on this subpoena ay yung corrected? Kaya isa lang? O yung hindi corrected? Would you know? Would you know? If",
         "confidence": 0.9144234606014786,
         "editorial_flags": []
@@ -5650,7 +5650,7 @@
         "stable_id": "S00599",
         "start_seconds": 6337.12,
         "end_seconds": 6337.36,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "you know.",
         "confidence": 0.9353515625,
         "editorial_flags": []
@@ -5695,7 +5695,7 @@
         "stable_id": "S00603",
         "start_seconds": 6392.01,
         "end_seconds": 6395.75,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Thank you for the clarification, Mr. Presiding Officer. Maraming salamat, ma'am.",
         "confidence": 0.9691975911458334,
         "editorial_flags": []
@@ -7072,7 +7072,7 @@
         "stable_id": "S00759",
         "start_seconds": 7918.16,
         "end_seconds": 7919.16,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Thank you,",
         "confidence": 0.895751953125,
         "editorial_flags": []
@@ -7090,7 +7090,7 @@
         "stable_id": "S00761",
         "start_seconds": 7923.09,
         "end_seconds": 7924.1900000000005,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Atty. Batu,",
         "confidence": 0.78125,
         "editorial_flags": []
@@ -7099,7 +7099,7 @@
         "stable_id": "S00762",
         "start_seconds": 7926.21,
         "end_seconds": 7932.8099999999995,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Tinitingnan niyo, sabi niyo kanina, yung correctness nung filed SAL-N on the basis of yung form.",
         "confidence": 0.945214365042892,
         "editorial_flags": []
@@ -7117,7 +7117,7 @@
         "stable_id": "S00764",
         "start_seconds": 7934.29,
         "end_seconds": 7942.55,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Okay. Hindi ba yung SAL-N merong... Yung form niya, sabi niyo, nagbabago minsan based on CSE. Tama",
         "confidence": 0.9410309968171298,
         "editorial_flags": []
@@ -7135,7 +7135,7 @@
         "stable_id": "S00766",
         "start_seconds": 7942.95,
         "end_seconds": 7950.97,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Okay. Pero alam ninyo na dito sa form na ito, merong one, two pages ata, merong...",
         "confidence": 0.9365132649739584,
         "editorial_flags": []
@@ -7144,7 +7144,7 @@
         "stable_id": "S00767",
         "start_seconds": 7952.48,
         "end_seconds": 7963.25,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Parang declaration on business interest on one hand. Pero meron din declaration on personal properties.",
         "confidence": 0.8910481770833333,
         "editorial_flags": []
@@ -7153,7 +7153,7 @@
         "stable_id": "S00768",
         "start_seconds": 7966.77,
         "end_seconds": 7967.95,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "So merong",
         "confidence": 0.6514892578125,
         "editorial_flags": []
@@ -7162,7 +7162,7 @@
         "stable_id": "S00769",
         "start_seconds": 7967.95,
         "end_seconds": 7971.89,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "business interest, merong personal properties. Hindi ba sa form?",
         "confidence": 0.9346245659722222,
         "editorial_flags": []
@@ -7180,7 +7180,7 @@
         "stable_id": "S00771",
         "start_seconds": 7973.05,
         "end_seconds": 8001.85,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "tinitingnan niyo yun. So walang acquisition cost area sa business interest. Pero naalala ko kasi kahapon sabi ni Justice Cabotaje Tang na based on the law, kinakailangan yung personal properties dinedeklara. So there is a separate declaration or form sa form yung personal property declaration, di ba?",
         "confidence": 0.945554476257757,
         "editorial_flags": []
@@ -7198,7 +7198,7 @@
         "stable_id": "S00773",
         "start_seconds": 8002.53,
         "end_seconds": 8021.08,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "At naroon sa personal property declaration yung acquisition cost. Nandun po. Okay, so it may not be indeed... Business interest form, part of the form, but it is in the personal properties part of the form yung nire-require yung acquisition cost.",
         "confidence": 0.94256591796875,
         "editorial_flags": []
@@ -7216,7 +7216,7 @@
         "stable_id": "S00775",
         "start_seconds": 8022.6,
         "end_seconds": 8032.9400000000005,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Okay, yun lang. Just to clarify that. So may requirement ng acquisition cost for personal properties and shares would be considered personal property?",
         "confidence": 0.9887164572010869,
         "editorial_flags": []
@@ -7234,7 +7234,7 @@
         "stable_id": "S00777",
         "start_seconds": 8058.72,
         "end_seconds": 8062.76,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Thank you. You just clarified that.",
         "confidence": 0.77581787109375,
         "editorial_flags": []

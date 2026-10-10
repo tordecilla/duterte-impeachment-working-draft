@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=Z1wvCRoe5qI
-Status: Reviewed working draft, revision 2
+Status: Reviewed working draft, revision 3
 
 **[00:03:03.440] Atty. Renato N. Bantug Jr.**  
 The Senate President, the Presiding Officer, and Senator-Judges of the Impeachment Court.
@@ -101,7 +101,7 @@ Chair declares a brief recess to consult the senator judges.
 **[00:12:46.120] Sen. Francis "Chiz" G. Escudero**  
 What is the pleasure of Senator Judge Pangilinan?
 
-**[00:12:50.970] Sen. Francis Pangilinan**  
+**[00:12:50.970] Sen. Francis “Kiko” Pangilinan**  
 Thank you Mr. President, Mr. Presiding Officer. After conferring with our colleagues as well as listening to the manifestation, may we suggest that to save on time, So that we don't have to waste the whole morning. If the prosecution can proceed with the direct examination, after which we can have the cross-examination of the expert witness after our session this afternoon because we do have a regular session. And then... The defense can do the cross-examination either after our session this afternoon or tomorrow morning. I say this because my understanding is the documents of the BIR were already made available since last Saturday. In other words, both parties, both the defense and the prosecution have had enough time. Is that correct? The documents were made available?
 
 **[00:14:10.460] Sen. Francis "Chiz" G. Escudero**  
@@ -110,7 +110,7 @@ Can the Clerk of Court please? We
 **[00:14:17.720] Sen. Francis "Chiz" G. Escudero**  
 confirm, Senator Judge Pangilinan. I'm quoting Annika from the Clerk of Court. The parties received the manifestation and the attached annex containing the report of the forensic expert last October 3. which is a Saturday. So,
 
-**[00:14:40.630] Sen. Francis Pangilinan**  
+**[00:14:40.630] Sen. Francis “Kiko” Pangilinan**  
 they had Sunday, Monday, Tuesday, Wednesday to be able to prepare and go through the documents. So, I think it's a reasonable compromise. Let's proceed with direct, not to waste the time of the court, a whole morning, and then have the cross either this afternoon or tomorrow.
 
 **[00:15:01.680] Sen. Francis "Chiz" G. Escudero**  
@@ -335,7 +335,7 @@ Thank you. Senator Judge Pangilinan is recognized.
 **[00:43:49.470] Sen. Francis "Chiz" G. Escudero**  
 We might as well hear from everybody since this might be what we'll be doing before we break for lunch.
 
-**[00:43:58.970] Sen. Francis Pangilinan**  
+**[00:43:58.970] Sen. Francis “Kiko” Pangilinan**  
 Earlier, when I made the manifestation that we proceed with direct, I said to save on the court's time. But it looks like we will be saving less than one hour if we proceed. So I will yield and I share the sentiment at this time of the appeal of our former Senate President.
 
 **[00:44:22.490] Sen. Francis "Chiz" G. Escudero**  

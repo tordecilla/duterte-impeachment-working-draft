@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=c8rrszFOqEI
-Status: Reviewed working draft, revision 2
+Status: Reviewed working draft, revision 3
 
 **[00:07:29.270] Sen. Sherwin T. Gatchalian**  
 The sergeant at arms is directed to make a proclamation.
@@ -1862,28 +1862,28 @@ Senator-Judge Pangilinan is recognized. We can entertain Senator-Judges until 12
 **[01:44:26.130] Sen. Francis "Chiz" G. Escudero**  
 You have two minutes, sir. You may proceed when you're ready.
 
-**[01:44:28.850] Sen. Francis Pangilinan**  
+**[01:44:28.850] Sen. Francis “Kiko” Pangilinan**  
 Thank you, Mr. Presiding Officer. It's actually a follow-up to the points raised by the Presiding Officer. Atty. Batu, sabi po ninyo na noong 2017 at 20, yung walang corrected SALN in your possession, tama po ba?
 
 **[01:44:48.370] Atty. Karen S. Batu**  
 Opo, Your Honor.
 
-**[01:44:49.400] Sen. Francis Pangilinan**  
+**[01:44:49.400] Sen. Francis “Kiko” Pangilinan**  
 Dalawang beses daw kasi, according to our presiding officer, Kinorek. Would you know kung yung sinubmit ninyo sa House of Representatives and I would assume hanggang dito sa impeachment court, would you know if it was a corrected copy? Kasi sabi nyo isa lang eh. Or the original copy?
 
 **[01:45:10.640] Atty. Karen S. Batu**  
 Your Honor, I... Kasi
 
-**[01:45:12.360] Sen. Francis Pangilinan**  
+**[01:45:12.360] Sen. Francis “Kiko” Pangilinan**  
 isa lang, di ba? Dalawang sinubmit, pero yung pangalawang dalawang sinubmit, corrected.
 
-**[01:45:19.230] Sen. Francis Pangilinan**  
+**[01:45:19.230] Sen. Francis “Kiko” Pangilinan**  
 So
 
-**[01:45:19.710] Sen. Francis Pangilinan**  
+**[01:45:19.710] Sen. Francis “Kiko” Pangilinan**  
 ang tanong ko, yung sinabit ba ninyo sa house as based on this subpoena ay yung corrected? Kaya isa lang? O yung hindi corrected? Would you know? Would you know? If
 
-**[01:45:37.120] Sen. Francis Pangilinan**  
+**[01:45:37.120] Sen. Francis “Kiko” Pangilinan**  
 you know.
 
 **[01:45:37.360] Atty. Karen S. Batu**  
@@ -1898,7 +1898,7 @@ So, to answer Senator-Judge Pangilinan, actually what was submitted was not the 
 **[01:46:26.990] Sen. Francis "Chiz" G. Escudero**  
 So they did not reflect it anymore in the salin. It was simply contained in a letter. Correcting. Okay.
 
-**[01:46:32.010] Sen. Francis Pangilinan**  
+**[01:46:32.010] Sen. Francis “Kiko” Pangilinan**  
 Thank you for the clarification, Mr. Presiding Officer. Maraming salamat, ma'am.
 
 **[01:46:35.910] Atty. Karen S. Batu**  
@@ -2357,61 +2357,61 @@ you, Mr. Presiding Officer.
 **[02:11:52.600] Sen. Francis "Chiz" G. Escudero**  
 Habol, bago mag-go, Senator-Judge Pangilinan, before we break for lunch, for your interjection.
 
-**[02:11:58.160] Sen. Francis Pangilinan**  
+**[02:11:58.160] Sen. Francis “Kiko” Pangilinan**  
 Thank you,
 
 **[02:11:59.280] Sen. Francis "Chiz" G. Escudero**  
 Mr. Presiding Officer.
 
-**[02:12:03.090] Sen. Francis Pangilinan**  
+**[02:12:03.090] Sen. Francis “Kiko” Pangilinan**  
 Atty. Batu,
 
-**[02:12:06.210] Sen. Francis Pangilinan**  
+**[02:12:06.210] Sen. Francis “Kiko” Pangilinan**  
 Tinitingnan niyo, sabi niyo kanina, yung correctness nung filed SAL-N on the basis of yung form.
 
 **[02:12:13.010] Atty. Karen S. Batu**  
 Opo, Your Honor.
 
-**[02:12:14.290] Sen. Francis Pangilinan**  
+**[02:12:14.290] Sen. Francis “Kiko” Pangilinan**  
 Okay. Hindi ba yung SAL-N merong... Yung form niya, sabi niyo, nagbabago minsan based on CSE. Tama
 
 **[02:12:22.550] Atty. Karen S. Batu**  
 po.
 
-**[02:12:22.950] Sen. Francis Pangilinan**  
+**[02:12:22.950] Sen. Francis “Kiko” Pangilinan**  
 Okay. Pero alam ninyo na dito sa form na ito, merong one, two pages ata, merong...
 
-**[02:12:32.480] Sen. Francis Pangilinan**  
+**[02:12:32.480] Sen. Francis “Kiko” Pangilinan**  
 Parang declaration on business interest on one hand. Pero meron din declaration on personal properties.
 
-**[02:12:46.770] Sen. Francis Pangilinan**  
+**[02:12:46.770] Sen. Francis “Kiko” Pangilinan**  
 So merong
 
-**[02:12:47.950] Sen. Francis Pangilinan**  
+**[02:12:47.950] Sen. Francis “Kiko” Pangilinan**  
 business interest, merong personal properties. Hindi ba sa form?
 
 **[02:12:52.090] Atty. Karen S. Batu**  
 Tama po. So
 
-**[02:12:53.050] Sen. Francis Pangilinan**  
+**[02:12:53.050] Sen. Francis “Kiko” Pangilinan**  
 tinitingnan niyo yun. So walang acquisition cost area sa business interest. Pero naalala ko kasi kahapon sabi ni Justice Cabotaje Tang na based on the law, kinakailangan yung personal properties dinedeklara. So there is a separate declaration or form sa form yung personal property declaration, di ba?
 
 **[02:13:22.010] Atty. Karen S. Batu**  
 Opo.
 
-**[02:13:22.530] Sen. Francis Pangilinan**  
+**[02:13:22.530] Sen. Francis “Kiko” Pangilinan**  
 At naroon sa personal property declaration yung acquisition cost. Nandun po. Okay, so it may not be indeed... Business interest form, part of the form, but it is in the personal properties part of the form yung nire-require yung acquisition cost.
 
 **[02:13:41.380] Atty. Karen S. Batu**  
 Tama po, Your Honor.
 
-**[02:13:42.600] Sen. Francis Pangilinan**  
+**[02:13:42.600] Sen. Francis “Kiko” Pangilinan**  
 Okay, yun lang. Just to clarify that. So may requirement ng acquisition cost for personal properties and shares would be considered personal property?
 
 **[02:13:54.840] Atty. Karen S. Batu**  
 Yes po, meron po tayong acquisition cost.
 
-**[02:14:18.720] Sen. Francis Pangilinan**  
+**[02:14:18.720] Sen. Francis “Kiko” Pangilinan**  
 Thank you. You just clarified that.
 
 **[02:14:24.510] Sen. Francis "Chiz" G. Escudero**  
