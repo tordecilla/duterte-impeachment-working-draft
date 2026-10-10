@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T00:02:23+08:00",
+  "generated_at": "2026-10-11T00:10:14+08:00",
   "complete_artifacts_only": true,
   "partner": null,
   "through_date": "20261009",
@@ -25,8 +25,8 @@
   },
   "document_library": null,
   "related_document_library": {
-    "records": 152,
-    "date_references": 173,
+    "records": 228,
+    "date_references": 266,
     "source": "related_document_artifacts",
     "approved_only": true
   },
@@ -58,8 +58,8 @@
       "revision": 3,
       "segments": 1217,
       "status": "Reviewed working draft",
-      "digest": false,
-      "podcast": false
+      "digest": true,
+      "podcast": true
     },
     {
       "id": 35,
@@ -85,8 +85,8 @@
       "revision": 3,
       "segments": 2613,
       "status": "Reviewed working draft",
-      "digest": false,
-      "podcast": false
+      "digest": true,
+      "podcast": true
     },
     {
       "id": 32,
@@ -94,8 +94,8 @@
       "revision": 3,
       "segments": 1252,
       "status": "Reviewed working draft",
-      "digest": false,
-      "podcast": false
+      "digest": true,
+      "podcast": true
     },
     {
       "id": 31,
@@ -103,8 +103,8 @@
       "revision": 3,
       "segments": 1420,
       "status": "Reviewed working draft",
-      "digest": false,
-      "podcast": false
+      "digest": true,
+      "podcast": true
     },
     {
       "id": 30,
@@ -130,8 +130,8 @@
       "revision": 3,
       "segments": 1761,
       "status": "Reviewed working draft",
-      "digest": false,
-      "podcast": false
+      "digest": true,
+      "podcast": true
     },
     {
       "id": 27,
@@ -139,8 +139,8 @@
       "revision": 4,
       "segments": 1385,
       "status": "Reviewed working draft",
-      "digest": false,
-      "podcast": false
+      "digest": true,
+      "podcast": true
     },
     {
       "id": 26,
@@ -148,7 +148,7 @@
       "revision": 5,
       "segments": 852,
       "status": "Reviewed working draft",
-      "digest": false,
+      "digest": true,
       "podcast": false
     },
     {
@@ -157,7 +157,7 @@
       "revision": 3,
       "segments": 1280,
       "status": "Reviewed working draft",
-      "digest": false,
+      "digest": true,
       "podcast": false
     },
     {
@@ -166,7 +166,7 @@
       "revision": 4,
       "segments": 1421,
       "status": "Reviewed working draft",
-      "digest": false,
+      "digest": true,
       "podcast": false
     },
     {
@@ -379,9 +379,9 @@
   ],
   "document_releases": {
     "repository": "tordecilla/duterte-impeachment-working-draft",
-    "asset_count": 249,
-    "rewritten_links": 452,
-    "pdf_payloads_removed": 250,
-    "bytes_hosted_outside_pages": 361770678
+    "asset_count": 250,
+    "rewritten_links": 486,
+    "pdf_payloads_removed": 253,
+    "bytes_hosted_outside_pages": 370603065
   }
 }
