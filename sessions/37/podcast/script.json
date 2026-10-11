@@ -1,0 +1,1688 @@
+{
+  "description": "A source-linked account of financial expert Alexander B. Cabrera's calculations, BIR testimony, senator questions, defense objections and the cross-examination scheduled for October 12.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for October 9, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00528",
+          "start_seconds": 5534.06,
+          "clock": "01:32:14",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00569",
+          "start_seconds": 6027.27,
+          "clock": "01:40:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00807",
+          "start_seconds": 8652.11,
+          "clock": "02:24:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00842",
+          "start_seconds": 8966.15,
+          "clock": "02:29:26",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00843",
+          "start_seconds": 8971.29,
+          "clock": "02:29:31",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00845",
+          "start_seconds": 8978.380000000001,
+          "clock": "02:29:38",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01626",
+          "start_seconds": 17003.14,
+          "clock": "04:43:23",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01627",
+          "start_seconds": 17015.72,
+          "clock": "04:43:35",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01699",
+          "start_seconds": 17699.18,
+          "clock": "04:54:59",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01727",
+          "start_seconds": 17835.04,
+          "clock": "04:57:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01728",
+          "start_seconds": 17841.07,
+          "clock": "04:57:21",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ],
+      "heading": "The principal testimony",
+      "id": "P002",
+      "kind": "finding",
+      "text": "Attorney Alexander B. Cabrera, a lawyer and certified public accountant appearing for the prosecution, presented a financial review for Vice President Sara Zimmerman Duterte and her husband, Attorney Manases Carpio. He calculated 817 million, 874 thousand, 867 pesos in undeclared assets and income across 2022 to 2025. Representative Jose Manuel \"Chel\" I. Diokno handled the direct examination."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00807",
+          "start_seconds": 8652.11,
+          "clock": "02:24:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00818",
+          "start_seconds": 8732.47,
+          "clock": "02:25:32",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00819",
+          "start_seconds": 8743.869999999999,
+          "clock": "02:25:43",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00820",
+          "start_seconds": 8749.1,
+          "clock": "02:25:49",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00835",
+          "start_seconds": 8879.32,
+          "clock": "02:27:59",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00837",
+          "start_seconds": 8911.77,
+          "clock": "02:28:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00838",
+          "start_seconds": 8916.33,
+          "clock": "02:28:36",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00840",
+          "start_seconds": 8952.09,
+          "clock": "02:29:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00849",
+          "start_seconds": 9000.0,
+          "clock": "02:30:00",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00861",
+          "start_seconds": 9151.16,
+          "clock": "02:32:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "How Cabrera conducted the review",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Cabrera said prosecutors engaged him to examine financial, corporate and tax records concerning Article Two of the impeachment complaint. He worked pro bono, in his personal capacity, independently and without promising a predetermined result. The documents supplied by prosecutors included statements of assets, liabilities and net worth, or SALNs; bank accounts; income-tax returns; Anti-Money Laundering Council reports; corporate filings; and financial statements."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01619",
+          "start_seconds": 16960.02,
+          "clock": "04:42:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01621",
+          "start_seconds": 16972.92,
+          "clock": "04:42:52",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01623",
+          "start_seconds": 16986.25,
+          "clock": "04:43:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01625",
+          "start_seconds": 16998.88,
+          "clock": "04:43:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01627",
+          "start_seconds": 17015.72,
+          "clock": "04:43:35",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01628",
+          "start_seconds": 17021.4,
+          "clock": "04:43:41",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01629",
+          "start_seconds": 17024.69,
+          "clock": "04:43:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01648",
+          "start_seconds": 17238.93,
+          "clock": "04:47:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01649",
+          "start_seconds": 17247.94,
+          "clock": "04:47:27",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01659",
+          "start_seconds": 17315.28,
+          "clock": "04:48:35",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01660",
+          "start_seconds": 17324.44,
+          "clock": "04:48:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01661",
+          "start_seconds": 17328.86,
+          "clock": "04:48:48",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01661B",
+          "start_seconds": 17333.4,
+          "clock": "04:48:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01664",
+          "start_seconds": 17367.34,
+          "clock": "04:49:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01665C",
+          "start_seconds": 17403.52,
+          "clock": "04:50:03",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01666",
+          "start_seconds": 17411.1,
+          "clock": "04:50:11",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01700",
+          "start_seconds": 17703.05,
+          "clock": "04:55:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01706",
+          "start_seconds": 17710.27,
+          "clock": "04:55:10",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01707",
+          "start_seconds": 17721.44,
+          "clock": "04:55:21",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01709",
+          "start_seconds": 17727.46,
+          "clock": "04:55:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01712",
+          "start_seconds": 17734.99,
+          "clock": "04:55:34",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01713",
+          "start_seconds": 17742.05,
+          "clock": "04:55:42",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "What the total meant",
+      "id": "P004",
+      "kind": "finding",
+      "text": "Cabrera's summary table set out annual amounts: 190 million, 628 thousand, 12 pesos for 2022; 167 million, 337 thousand, 227 pesos for 2023; 264 million, 217 thousand, 123 pesos for 2024; and 195 million, 692 thousand, 505 pesos for 2025. Diokno asked about double counting. Cabrera said each asset was counted once. Senator Paolo Benigno \"Bam\" Aquino asked whether the total was Duterte's net worth and which year it covered. Cabrera agreed that the aggregate undeclared amount should be added to the declared 2025 SALN amount. Senator Sherwin T. Gatchalian asked whether the total should appear in that SALN; Cabrera agreed."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00969",
+          "start_seconds": 10354.17,
+          "clock": "02:52:34",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00969B",
+          "start_seconds": 10371.33,
+          "clock": "02:52:51",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00984",
+          "start_seconds": 10527.25,
+          "clock": "02:55:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01012",
+          "start_seconds": 10818.92,
+          "clock": "03:00:18",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01013",
+          "start_seconds": 10833.58,
+          "clock": "03:00:33",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01020",
+          "start_seconds": 10890.16,
+          "clock": "03:01:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01026",
+          "start_seconds": 10929.19,
+          "clock": "03:02:09",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01028",
+          "start_seconds": 10945.5,
+          "clock": "03:02:25",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01030",
+          "start_seconds": 10976.05,
+          "clock": "03:02:56",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01038",
+          "start_seconds": 11034.52,
+          "clock": "03:03:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01041",
+          "start_seconds": 11070.83,
+          "clock": "03:04:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01057",
+          "start_seconds": 11300.22,
+          "clock": "03:08:20",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01288",
+          "start_seconds": 13682.3,
+          "clock": "03:48:02",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01291",
+          "start_seconds": 13698.58,
+          "clock": "03:48:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01293",
+          "start_seconds": 13749.22,
+          "clock": "03:49:09",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "Assets and personal income",
+      "id": "P005",
+      "kind": "finding",
+      "text": "The asset analysis covered year-end bank cash, insurance, firearms, investments, business equity and other property. Cabrera identified about seventeen insurance policies as undeclared in the SALN. He excluded the Matina Crossing property from the calculation and deducted declared property additions to avoid duplication. For personal income, he compared 63 million, 106 thousand, 886 pesos in declared income with 174 million, 959 thousand, 235 pesos in identified bank inflows. His computed difference was 111 million, 852 thousand, 349 pesos."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69,
+          "clock": "03:44:07",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01264",
+          "start_seconds": 13496.16,
+          "clock": "03:44:56",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00976",
+          "start_seconds": 10432.09,
+          "clock": "02:53:52",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00979",
+          "start_seconds": 10470.43,
+          "clock": "02:54:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01631",
+          "start_seconds": 17045.98,
+          "clock": "04:44:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01473",
+          "start_seconds": 15501.32,
+          "clock": "04:18:21",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01475",
+          "start_seconds": 15546.66,
+          "clock": "04:19:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01476",
+          "start_seconds": 15566.22,
+          "clock": "04:19:26",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01478",
+          "start_seconds": 15585.16,
+          "clock": "04:19:45",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01482",
+          "start_seconds": 15619.369999999999,
+          "clock": "04:20:19",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01495",
+          "start_seconds": 15761.19,
+          "clock": "04:22:41",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01519",
+          "start_seconds": 15962.130000000001,
+          "clock": "04:26:02",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01577",
+          "start_seconds": 16493.25,
+          "clock": "04:34:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01114",
+          "start_seconds": 11924.89,
+          "clock": "03:18:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01118",
+          "start_seconds": 11999.14,
+          "clock": "03:19:59",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01120",
+          "start_seconds": 12014.74,
+          "clock": "03:20:14",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01121",
+          "start_seconds": 12055.56,
+          "clock": "03:20:55",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01149",
+          "start_seconds": 12320.76,
+          "clock": "03:25:20",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01584",
+          "start_seconds": 16586.61,
+          "clock": "04:36:26",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "Exclusions and corporate estimates",
+      "id": "P006",
+      "kind": "finding",
+      "text": "Cabrera excluded loan proceeds, rolling time deposits, investment proceeds and transfers between savings and checking from his income calculation. His information did not cover cash outside banks or digital wallets; he said dollar accounts were excluded apart from some Cale88 information. For corporate inflows, he applied ownership percentages through his analysis of piercing the corporate veil. He reported average annual understatements of sixty-nine percent for Metro City Chow, fifty-one percent for Cale88 and eighty-seven percent for GenCorp. Metro City Chow's corporate filing gave Duterte a twenty-percent interest. For GenCorp, her SALN listed a stockholding but the corporate filing did not name her. Cabrera used a twenty-percent sensitivity estimate, citing accounting and SEC benchmarks and the related ownership and directorships."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01539",
+          "start_seconds": 16151.75,
+          "clock": "04:29:11",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01540",
+          "start_seconds": 16162.8,
+          "clock": "04:29:22",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01356",
+          "start_seconds": 14320.98,
+          "clock": "03:58:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01373",
+          "start_seconds": 14427.68,
+          "clock": "04:00:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01378",
+          "start_seconds": 14494.15,
+          "clock": "04:01:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01384",
+          "start_seconds": 14592.91,
+          "clock": "04:03:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01386",
+          "start_seconds": 14638.58,
+          "clock": "04:03:58",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01389",
+          "start_seconds": 14672.74,
+          "clock": "04:04:32",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01390",
+          "start_seconds": 14704.08,
+          "clock": "04:05:04",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01392",
+          "start_seconds": 14759.24,
+          "clock": "04:05:59",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01453",
+          "start_seconds": 15241.06,
+          "clock": "04:14:01",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01455",
+          "start_seconds": 15256.3,
+          "clock": "04:14:16",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "Transactions Cabrera flagged",
+      "id": "P007",
+      "kind": "finding",
+      "text": "Cabrera calculated almost 194 million pesos in Chinese-company remittances to Cale88. He also flagged 11.35 million pesos in checks payable to Lourdes Lebosada, Carpio's Cale88 business partner, and 41 million pesos in cash encashments and withdrawals through BDO and PNB within about an hour. He described earlier manager's-check transactions totaling 96 million pesos in a joint account of Duterte and former President Rodrigo Duterte. The checks remained undeposited until stale and the funds returned to the account. Cabrera called this a variation of check kiting that kept amounts out of year-end balances. He said eighty million pesos later funded four insurance payments, and sixteen million eventually went by check to Samuel Uy."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01675",
+          "start_seconds": 17451.69,
+          "clock": "04:50:51",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01679",
+          "start_seconds": 17491.62,
+          "clock": "04:51:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01681",
+          "start_seconds": 17501.46,
+          "clock": "04:51:41",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01688",
+          "start_seconds": 17560.55,
+          "clock": "04:52:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01692",
+          "start_seconds": 17581.3,
+          "clock": "04:53:01",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01694",
+          "start_seconds": 17602.66,
+          "clock": "04:53:22",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01161",
+          "start_seconds": 12503.96,
+          "clock": "03:28:23",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01163",
+          "start_seconds": 12519.76,
+          "clock": "03:28:39",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01164",
+          "start_seconds": 12531.84,
+          "clock": "03:28:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01165",
+          "start_seconds": 12536.1,
+          "clock": "03:28:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01167",
+          "start_seconds": 12542.16,
+          "clock": "03:29:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01306B",
+          "start_seconds": 13861.47,
+          "clock": "03:51:01",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01307B",
+          "start_seconds": 13865.23,
+          "clock": "03:51:05",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01311",
+          "start_seconds": 13922.79,
+          "clock": "03:52:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The expert and the objections",
+      "id": "P008",
+      "kind": "finding",
+      "text": "Cabrera concluded that the 2022 to 2025 SALNs were substantially understated, that Duterte continued participating in businesses during her vice presidency, and that constitutional and other legal violations had occurred or might have occurred. Defense counsel Attorney Kristine R. Ferrer objected to an opinion about Duterte's state of mind. Diokno defended Cabrera's ability to give a professional opinion; the chair allowed it. Senator Panfilo \"Ping\" M. Lacson observed that cross-examination could expose weaknesses and affect the expert's credibility. Presiding Officer Senator Francis \"Chiz\" G. Escudero read Rule 133, Section Five, covering the facts, methods and application used in weighing expert opinion."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00465",
+          "start_seconds": 4256.9,
+          "clock": "01:10:56",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00468",
+          "start_seconds": 4506.89,
+          "clock": "01:15:06",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00484",
+          "start_seconds": 5011.99,
+          "clock": "01:23:31",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00486",
+          "start_seconds": 5089.43,
+          "clock": "01:24:49",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00487",
+          "start_seconds": 5140.86,
+          "clock": "01:25:40",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00480C",
+          "start_seconds": 4925.14,
+          "clock": "01:22:05",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00475",
+          "start_seconds": 4764.04,
+          "clock": "01:19:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00476",
+          "start_seconds": 4820.43,
+          "clock": "01:20:20",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00488",
+          "start_seconds": 5169.64,
+          "clock": "01:26:09",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00509",
+          "start_seconds": 5408.18,
+          "clock": "01:30:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00511",
+          "start_seconds": 5424.2,
+          "clock": "01:30:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00513",
+          "start_seconds": 5433.84,
+          "clock": "01:30:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00517",
+          "start_seconds": 5469.73,
+          "clock": "01:31:09",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00925",
+          "start_seconds": 10044.31,
+          "clock": "02:47:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01093",
+          "start_seconds": 11721.4,
+          "clock": "03:15:21",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01094",
+          "start_seconds": 11745.85,
+          "clock": "03:15:45",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Access and public display",
+      "id": "P009",
+      "kind": "finding",
+      "text": "Lead defense counsel Attorney Sheila C. Sison challenged Cabrera's access to protected records. She argued that an executive memorandum authorized submission to the court, rather than sharing with a third party. Diokno said prosecutors supplied documents obtained through court subpoenas. Escudero clarified that no special subpoena directed records to Cabrera, and allowed legally obtained evidence to be supplied to experts under existing access conditions. The same rule would apply to defense experts. The chair allowed Cabrera's summaries to be displayed but required redaction of protected source material and personal identifiers."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00900",
+          "start_seconds": 9784.67,
+          "clock": "02:43:04",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00902",
+          "start_seconds": 9836.78,
+          "clock": "02:43:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00903",
+          "start_seconds": 9855.04,
+          "clock": "02:44:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00904",
+          "start_seconds": 9859.87,
+          "clock": "02:44:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01212",
+          "start_seconds": 12884.05,
+          "clock": "03:34:44",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01214",
+          "start_seconds": 12893.98,
+          "clock": "03:34:53",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01215",
+          "start_seconds": 12896.61,
+          "clock": "03:34:56",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01219",
+          "start_seconds": 12915.94,
+          "clock": "03:35:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01348",
+          "start_seconds": 14268.33,
+          "clock": "03:57:48",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01349",
+          "start_seconds": 14278.67,
+          "clock": "03:57:58",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01350",
+          "start_seconds": 14280.03,
+          "clock": "03:58:00",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01411B",
+          "start_seconds": 14877.67,
+          "clock": "04:07:57",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01427",
+          "start_seconds": 14991.64,
+          "clock": "04:09:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01428",
+          "start_seconds": 15002.19,
+          "clock": "04:10:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01446",
+          "start_seconds": 15157.23,
+          "clock": "04:12:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01448",
+          "start_seconds": 15169.51,
+          "clock": "04:12:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Headings and terminology",
+      "id": "P010",
+      "kind": "finding",
+      "text": "Ferrer asked for the cash figures to be described as alleged. The chair overruled that objection because counsel was reading the witness's table. He partly sustained a heading objection, and Diokno switched to the actual report. He stopped display of names and decipherable redacted checks after their point had been made. He struck the word scheme, which was absent from the report, but allowed tinikling as descriptive wording. A manager's-check display objection was partly sustained for account-number redaction."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00002",
+          "start_seconds": 17.01,
+          "clock": "00:00:17",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00003",
+          "start_seconds": 26.03,
+          "clock": "00:00:26",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00004",
+          "start_seconds": 27.33,
+          "clock": "00:00:27",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00007",
+          "start_seconds": 52.44,
+          "clock": "00:00:52",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00008",
+          "start_seconds": 60.76,
+          "clock": "00:01:00",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00021",
+          "start_seconds": 220.27,
+          "clock": "00:03:40",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00023",
+          "start_seconds": 235.05,
+          "clock": "00:03:55",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00025",
+          "start_seconds": 244.34,
+          "clock": "00:04:04",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00026",
+          "start_seconds": 261.45,
+          "clock": "00:04:21",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00028",
+          "start_seconds": 267.45,
+          "clock": "00:04:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00033B",
+          "start_seconds": 286.82,
+          "clock": "00:04:46",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00035",
+          "start_seconds": 299.92,
+          "clock": "00:04:59",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00036",
+          "start_seconds": 311.3,
+          "clock": "00:05:11",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00037",
+          "start_seconds": 327.68,
+          "clock": "00:05:27",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00038",
+          "start_seconds": 353.07,
+          "clock": "00:05:53",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00040",
+          "start_seconds": 407.61,
+          "clock": "00:06:47",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00426",
+          "start_seconds": 3993.11,
+          "clock": "01:06:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The BIR testimony",
+      "id": "P011",
+      "kind": "finding",
+      "text": "Earlier, the court completed questions to Attorney Anne Loraine Garcia-Marquez, Chief of Staff in the Office of the BIR Commissioner and a prosecution witness. Senator Erwin Tulfo asked about the spouses' tax audit and Cale88's registration and income sources. Garcia-Marquez confirmed an ongoing audit, gave the registration date as October 15, 2021, and said the records described banana-chip exports. Senator Risa Hontiveros compared 208 million, 493 thousand, 545 pesos in reported sales for 2021 to 2025 with 776 million pesos in AMLC-reported inflows. Garcia-Marquez explained bank-secrecy limits on ordinary audit records, voluntary submission by taxpayers and BIR-AMLC coordination."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00042",
+          "start_seconds": 460.89,
+          "clock": "00:07:40",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00044",
+          "start_seconds": 543.7,
+          "clock": "00:09:03",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00045",
+          "start_seconds": 567.15,
+          "clock": "00:09:27",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00046",
+          "start_seconds": 585.05,
+          "clock": "00:09:45",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00349",
+          "start_seconds": 3007.41,
+          "clock": "00:50:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00351",
+          "start_seconds": 3018.52,
+          "clock": "00:50:18",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00351B",
+          "start_seconds": 3052.06,
+          "clock": "00:50:52",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S01595",
+          "start_seconds": 16775.97,
+          "clock": "04:39:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01601",
+          "start_seconds": 16792.19,
+          "clock": "04:39:52",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01602",
+          "start_seconds": 16818.5,
+          "clock": "04:40:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Hontiveros and the remittances",
+      "id": "P012",
+      "kind": "finding",
+      "text": "Hontiveros said her office linked Ukrainian remitter Arkmen LLC to fraud and money-laundering proceedings opened in May 2025, followed by search and shareholding-freeze orders in 2026. She noted a Cale88 remittance after proceedings began. Garcia-Marquez said sales should be reported in the income-tax return and a Run After Tax Evaders review was possible. Later, the chair granted Hontiveros's request for complete Cale88 and GenCorp covered- and suspicious-transaction reports, including inflows and outflows."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00119",
+          "start_seconds": 1132.81,
+          "clock": "00:18:52",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00122",
+          "start_seconds": 1168.43,
+          "clock": "00:19:28",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00150",
+          "start_seconds": 1432.14,
+          "clock": "00:23:52",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00155",
+          "start_seconds": 1460.94,
+          "clock": "00:24:20",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00162",
+          "start_seconds": 1529.91,
+          "clock": "00:25:29",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00169",
+          "start_seconds": 1586.75,
+          "clock": "00:26:26",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00170",
+          "start_seconds": 1602.89,
+          "clock": "00:26:42",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00177",
+          "start_seconds": 1657.41,
+          "clock": "00:27:37",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00178",
+          "start_seconds": 1683.62,
+          "clock": "00:28:03",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00382",
+          "start_seconds": 3469.8,
+          "clock": "00:57:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00383",
+          "start_seconds": 3477.7,
+          "clock": "00:57:57",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00384",
+          "start_seconds": 3553.24,
+          "clock": "00:59:13",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00388",
+          "start_seconds": 3583.02,
+          "clock": "00:59:43",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00391",
+          "start_seconds": 3590.98,
+          "clock": "00:59:50",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00393",
+          "start_seconds": 3604.02,
+          "clock": "01:00:04",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00397",
+          "start_seconds": 3666.06,
+          "clock": "01:01:06",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00399",
+          "start_seconds": 3692.67,
+          "clock": "01:01:32",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00402",
+          "start_seconds": 3729.83,
+          "clock": "01:02:09",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00404",
+          "start_seconds": 3753.34,
+          "clock": "01:02:33",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00406",
+          "start_seconds": 3759.66,
+          "clock": "01:02:39",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00407",
+          "start_seconds": 3767.06,
+          "clock": "01:02:47",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00409",
+          "start_seconds": 3784.52,
+          "clock": "01:03:04",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00410",
+          "start_seconds": 3796.96,
+          "clock": "01:03:16",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00412",
+          "start_seconds": 3820.08,
+          "clock": "01:03:40",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        }
+      ],
+      "heading": "Villanueva and the company operations",
+      "id": "P013",
+      "kind": "finding",
+      "text": "Senator Joel Villanueva questioned Cale88's roughly 150-million-peso sales alongside a 6.13-million-peso loss, its operating support and its small workforce. Garcia-Marquez read a management undertaking to provide continuing financial support, promised employee records and said the audit would examine supporting invoices. Villanueva also asked how Carpio's law-firm and restaurant income reached his personal return. Garcia-Marquez identified both sources, said the partnership statements showed no distribution, and agreed any distributed share belonged in the annual return. Asked for a link between 888 Bistro's books, withholding records and the personal return, she said the documents provided no reconciliation reference."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00181",
+          "start_seconds": 1764.66,
+          "clock": "00:29:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00229",
+          "start_seconds": 2093.39,
+          "clock": "00:34:53",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00230",
+          "start_seconds": 2113.5299999999997,
+          "clock": "00:35:13",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00354",
+          "start_seconds": 3127.45,
+          "clock": "00:52:07",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00367",
+          "start_seconds": 3205.9,
+          "clock": "00:53:25",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00370",
+          "start_seconds": 3238.52,
+          "clock": "00:53:58",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00371",
+          "start_seconds": 3268.3599999999997,
+          "clock": "00:54:28",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00373",
+          "start_seconds": 3285.48,
+          "clock": "00:54:45",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00374",
+          "start_seconds": 3294.1800000000003,
+          "clock": "00:54:54",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00375",
+          "start_seconds": 3335.98,
+          "clock": "00:55:35",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00376",
+          "start_seconds": 3337.2799999999997,
+          "clock": "00:55:37",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00377",
+          "start_seconds": 3377.69,
+          "clock": "00:56:17",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00379",
+          "start_seconds": 3424.1400000000003,
+          "clock": "00:57:04",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00380",
+          "start_seconds": 3442.95,
+          "clock": "00:57:22",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00381",
+          "start_seconds": 3468.26,
+          "clock": "00:57:48",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        }
+      ],
+      "heading": "Pangilinan and the cash discrepancies",
+      "id": "P014",
+      "kind": "finding",
+      "text": "Senator Francis \"Kiko\" Pangilinan questioned differences between the spouses' financial-statement cash and SALN declarations. Garcia-Marquez said unreconciled cash could be treated as income unless substantiated, potentially leading to deficiency taxes. Pangilinan also contrasted GenCorp's reported cash of 924 thousand, 695 pesos in 2023 with 46.19 million pesos in bank balances, and 683 thousand, 838 pesos in 2024 with 19.11 million in bank balances. Garcia-Marquez agreed the gaps raised concerns. He asked how Pikimong, with small reported assets and capital, could purchase ninety-five percent of Cale88, and proposed an in-camera discussion about obtaining its records. The witness took note."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00242",
+          "start_seconds": 2206.44,
+          "clock": "00:36:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00246",
+          "start_seconds": 2228.24,
+          "clock": "00:37:08",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00247",
+          "start_seconds": 2248.84,
+          "clock": "00:37:28",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00253",
+          "start_seconds": 2290.86,
+          "clock": "00:38:10",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00256",
+          "start_seconds": 2333.87,
+          "clock": "00:38:53",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00259",
+          "start_seconds": 2350.95,
+          "clock": "00:39:10",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00260",
+          "start_seconds": 2356.81,
+          "clock": "00:39:16",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00268",
+          "start_seconds": 2420.63,
+          "clock": "00:40:20",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00277",
+          "start_seconds": 2499.09,
+          "clock": "00:41:39",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00285",
+          "start_seconds": 2538.14,
+          "clock": "00:42:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00298",
+          "start_seconds": 2601.54,
+          "clock": "00:43:21",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00299",
+          "start_seconds": 2638.0,
+          "clock": "00:43:58",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00300",
+          "start_seconds": 2667.4700000000003,
+          "clock": "00:44:27",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00343",
+          "start_seconds": 2961.96,
+          "clock": "00:49:21",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00344",
+          "start_seconds": 2965.92,
+          "clock": "00:49:25",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00345",
+          "start_seconds": 2969.5,
+          "clock": "00:49:29",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00346",
+          "start_seconds": 2976.42,
+          "clock": "00:49:36",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00414",
+          "start_seconds": 3852.62,
+          "clock": "01:04:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00416B",
+          "start_seconds": 3858.02,
+          "clock": "01:04:18",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00417",
+          "start_seconds": 3903.73,
+          "clock": "01:05:03",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00420",
+          "start_seconds": 3928.7200000000003,
+          "clock": "01:05:28",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00421",
+          "start_seconds": 3939.58,
+          "clock": "01:05:39",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        }
+      ],
+      "heading": "Shares, taxes and losses",
+      "id": "P015",
+      "kind": "finding",
+      "text": "Gatchalian asked whether unpaid transfer taxes left Cale88 in its former owners' names. Garcia-Marquez distinguished contractual validity from tax obligations and said tax payment should precede entry in the stock-transfer books. Loans or donations were possible explanations for inflows beyond sales, she said, and Cale88 already had a letter of authority for audit. Lacson tried to reconcile GenCorp's sales, tax due, credits and payment; the payment reconciliation remained unfinished. On Cale88's losses, Garcia-Marquez said the audit would check possible overstated expenses or understated sales."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00052",
+          "start_seconds": 623.84,
+          "clock": "00:10:23",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00055",
+          "start_seconds": 654.32,
+          "clock": "00:10:54",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00055B",
+          "start_seconds": 666.3,
+          "clock": "00:11:06",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00055C",
+          "start_seconds": 667.04,
+          "clock": "00:11:07",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00056",
+          "start_seconds": 670.02,
+          "clock": "00:11:10",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S00063",
+          "start_seconds": 727.49,
+          "clock": "00:12:07",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00065",
+          "start_seconds": 743.11,
+          "clock": "00:12:23",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00066",
+          "start_seconds": 747.07,
+          "clock": "00:12:27",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00067",
+          "start_seconds": 747.79,
+          "clock": "00:12:27",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00071",
+          "start_seconds": 767.56,
+          "clock": "00:12:47",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00075",
+          "start_seconds": 803.42,
+          "clock": "00:13:23",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00076",
+          "start_seconds": 825.55,
+          "clock": "00:13:45",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00077",
+          "start_seconds": 841.37,
+          "clock": "00:14:01",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00078",
+          "start_seconds": 842.57,
+          "clock": "00:14:02",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00079",
+          "start_seconds": 924.96,
+          "clock": "00:15:24",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00088",
+          "start_seconds": 1019.65,
+          "clock": "00:16:59",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00089",
+          "start_seconds": 1025.73,
+          "clock": "00:17:05",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00096",
+          "start_seconds": 1040.06,
+          "clock": "00:17:20",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00105",
+          "start_seconds": 1073.89,
+          "clock": "00:17:53",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00116",
+          "start_seconds": 1120.01,
+          "clock": "00:18:40",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        }
+      ],
+      "heading": "The Davao compensation entry",
+      "id": "P016",
+      "kind": "finding",
+      "text": "Senator Raffy T. Tulfo questioned Davao City compensation paid to Duterte and described it as payment for legal activities; prosecution counsel Attorney Erwin G. Matib affirmed that description. Garcia-Marquez read 82 thousand, 327 pesos and 45 centavos in gross compensation from Form 2316, called it salary, and ultimately said she could identify only what the form stated. Tulfo raised constitutional restrictions on outside employment and criticized Duterte's advisers. In the ensuing clarification, Garcia-Marquez said the entry concerned taxable year 2023, filed on April 11, 2024. Defense counsel Attorney Michael Wesley Poa promised a relevant witness and documents to explain the payment during defense evidence."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01699",
+          "start_seconds": 17699.18,
+          "clock": "04:54:59",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01725",
+          "start_seconds": 17806.06,
+          "clock": "04:56:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01725B",
+          "start_seconds": 17824.32,
+          "clock": "04:57:04",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01727",
+          "start_seconds": 17835.04,
+          "clock": "04:57:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01728",
+          "start_seconds": 17841.07,
+          "clock": "04:57:21",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01732C",
+          "start_seconds": 17877.45,
+          "clock": "04:57:57",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01735",
+          "start_seconds": 17942.16,
+          "clock": "04:59:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01737",
+          "start_seconds": 17954.38,
+          "clock": "04:59:14",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01742",
+          "start_seconds": 17993.18,
+          "clock": "04:59:53",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01743",
+          "start_seconds": 17998.42,
+          "clock": "04:59:58",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01745",
+          "start_seconds": 18006.56,
+          "clock": "05:00:06",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00391",
+          "start_seconds": 3590.98,
+          "clock": "00:59:50",
+          "speaker_name": "Atty. Anne Loraine Garcia-Marquez"
+        },
+        {
+          "segment_id": "S00426",
+          "start_seconds": 3993.11,
+          "clock": "01:06:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The next sitting",
+      "id": "P017",
+      "kind": "finding",
+      "text": "Cabrera's direct examination ended. Cross-examination was set for Monday, October 12, at ten in the morning. Sison sought assurance of his attendance before his planned three-week Europe trip beginning October 13. Prosecutors undertook to produce him without a subpoena. Diokno identified him as their last case-in-chief witness. The chair relied on that assurance, leaving any remedy for nonappearance for later. Requested BIR submissions were to follow through the Clerk of Court. Trial was adjourned to Monday."
+    },
+    {
+      "citations": [],
+      "heading": "Closing",
+      "id": "P018",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the October 9, 2026 audio overview."
+    }
+  ],
+  "source_digest_id": 100,
+  "source_digest_sha256": "e67867c62ee5a292d1eac2629985618cf984e32745f469c25bf485e19d471efb",
+  "state": "draft",
+  "title": "October 9, 2026: Cabrera traces the financial records"
+}
