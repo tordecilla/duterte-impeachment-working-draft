@@ -1,0 +1,4107 @@
+{
+  "description": "A source-linked account of Cabrera's forensic report, the ownership and tracing challenges, numerical reconciliation, court directions and the next procedural sitting.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for October 12, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00027",
+          "start_seconds": 1004.14,
+          "clock": "00:16:44",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00039",
+          "start_seconds": 1071.79,
+          "clock": "00:17:51",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00040",
+          "start_seconds": 1082.49,
+          "clock": "00:18:02",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00043",
+          "start_seconds": 1099.48,
+          "clock": "00:18:19",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00044",
+          "start_seconds": 1114.5,
+          "clock": "00:18:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00157",
+          "start_seconds": 1719.14,
+          "clock": "00:28:39",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00159",
+          "start_seconds": 1758.85,
+          "clock": "00:29:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00164",
+          "start_seconds": 1785.65,
+          "clock": "00:29:45",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00165",
+          "start_seconds": 1791.81,
+          "clock": "00:29:51",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01329",
+          "start_seconds": 13473.62,
+          "clock": "03:44:33",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01330",
+          "start_seconds": 13500.36,
+          "clock": "03:45:00",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01172",
+          "start_seconds": 11399.41,
+          "clock": "03:09:59",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01174",
+          "start_seconds": 11410.05,
+          "clock": "03:10:10",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01183",
+          "start_seconds": 11526.64,
+          "clock": "03:12:06",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02919_COVERAGE_1",
+          "start_seconds": 27583.49,
+          "clock": "07:39:43",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02922",
+          "start_seconds": 27613.23,
+          "clock": "07:40:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02923",
+          "start_seconds": 27645.47,
+          "clock": "07:40:45",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S02924",
+          "start_seconds": 27646.73,
+          "clock": "07:40:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02925",
+          "start_seconds": 27667.58,
+          "clock": "07:41:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02941",
+          "start_seconds": 27833.4,
+          "clock": "07:43:53",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02949",
+          "start_seconds": 27987.06,
+          "clock": "07:46:27",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S02955",
+          "start_seconds": 28196.08,
+          "clock": "07:49:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The examination ends",
+      "id": "P002",
+      "kind": "finding",
+      "text": "The day's main event was the completion of testimony from Attorney Alexander B. Cabrera, a lawyer and certified public accountant appearing as the prosecution's forensic-accounting witness. He defended a report estimating 817 million, 874 thousand, 867 pesos in unexplained wealth for 2022 to 2025. Attorney Kristine R. Ferrer conducted the defense cross-examination. When she finished, the prosecution declined redirect, and senator-judges questioned Cabrera at length. The court then excused him. Representative Jose Manuel \"Chel\" I. Diokno confirmed that Cabrera was the prosecution's last witness for Article Two. The remaining business shifted to party manifestations and preparations for the next procedural stage."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01325",
+          "start_seconds": 13411.05,
+          "clock": "03:43:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01326",
+          "start_seconds": 13425.28,
+          "clock": "03:43:45",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00541",
+          "start_seconds": 3988.13,
+          "clock": "01:06:28",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00542",
+          "start_seconds": 3997.36,
+          "clock": "01:06:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00543",
+          "start_seconds": 4000.9,
+          "clock": "01:06:40",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00544",
+          "start_seconds": 4008.28,
+          "clock": "01:06:48",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00545",
+          "start_seconds": 4009.74,
+          "clock": "01:06:49",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00545_LIST",
+          "start_seconds": 4012.37,
+          "clock": "01:06:52",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00546",
+          "start_seconds": 4015.01,
+          "clock": "01:06:55",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00655",
+          "start_seconds": 4587.67,
+          "clock": "01:16:27",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00656",
+          "start_seconds": 4602.07,
+          "clock": "01:16:42",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00657",
+          "start_seconds": 4603.11,
+          "clock": "01:16:43",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00658",
+          "start_seconds": 4616.99,
+          "clock": "01:16:56",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00659",
+          "start_seconds": 4617.99,
+          "clock": "01:16:57",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00660",
+          "start_seconds": 4629.8,
+          "clock": "01:17:09",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00662",
+          "start_seconds": 4632.8,
+          "clock": "01:17:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01365",
+          "start_seconds": 13836.4,
+          "clock": "03:50:36",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01366",
+          "start_seconds": 13847.16,
+          "clock": "03:50:47",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01373",
+          "start_seconds": 13897.58,
+          "clock": "03:51:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01374",
+          "start_seconds": 13910.82,
+          "clock": "03:51:50",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01375",
+          "start_seconds": 13945.83,
+          "clock": "03:52:25",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01334",
+          "start_seconds": 13518.51,
+          "clock": "03:45:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01339",
+          "start_seconds": 13550.62,
+          "clock": "03:45:50",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01340",
+          "start_seconds": 13554.05,
+          "clock": "03:45:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01357_L2",
+          "start_seconds": 13745.27,
+          "clock": "03:49:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01359",
+          "start_seconds": 13767.69,
+          "clock": "03:49:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01360",
+          "start_seconds": 13791.2,
+          "clock": "03:49:51",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01362",
+          "start_seconds": 13812.58,
+          "clock": "03:50:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "The documents and method",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Cabrera described examining statements of assets, liabilities and net worth, known as SALNs, alongside property records, insurance and investment information, income-tax returns, corporate statements and Anti-Money Laundering Council material. His corporate review focused on GenCorp, Metro City Chow and Cale88. He compared bank balances against declared cash, using zero where the SALN had no cash entry. He accepted that cash could have been classified elsewhere, but said that reclassification would not remove the difference in his total-property comparison. He combined the spouses' property under SALN requirements and presumed absolute community of property, saying his team had received no contrary marital-property documents. To avoid duplicates, the team compared accounts, used multiple reviewers and traced fresh inflows behind annual ending balances."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00051",
+          "start_seconds": 1144.81,
+          "clock": "00:19:04",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00087",
+          "start_seconds": 1356.93,
+          "clock": "00:22:36",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00124",
+          "start_seconds": 1584.3,
+          "clock": "00:26:24",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00267",
+          "start_seconds": 2323.23,
+          "clock": "00:38:43",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00339",
+          "start_seconds": 2717.02,
+          "clock": "00:45:17",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00396",
+          "start_seconds": 3068.51,
+          "clock": "00:51:08",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00407",
+          "start_seconds": 3123.73,
+          "clock": "00:52:03",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00466",
+          "start_seconds": 3364.5,
+          "clock": "00:56:04",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00480",
+          "start_seconds": 3418.35,
+          "clock": "00:56:58",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00492",
+          "start_seconds": 3480.67,
+          "clock": "00:58:00",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00501_D2",
+          "start_seconds": 3623.12,
+          "clock": "01:00:23",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00521",
+          "start_seconds": 3821.91,
+          "clock": "01:03:41",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00533",
+          "start_seconds": 3851.99,
+          "clock": "01:04:11",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00547",
+          "start_seconds": 4015.4700000000003,
+          "clock": "01:06:55",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00549",
+          "start_seconds": 4028.24,
+          "clock": "01:07:08",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00578",
+          "start_seconds": 4192.29,
+          "clock": "01:09:52",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00597",
+          "start_seconds": 4265.97,
+          "clock": "01:11:05",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00603",
+          "start_seconds": 4283.54,
+          "clock": "01:11:23",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00657",
+          "start_seconds": 4603.11,
+          "clock": "01:16:43",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00659",
+          "start_seconds": 4617.99,
+          "clock": "01:16:57",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00691",
+          "start_seconds": 4825.07,
+          "clock": "01:20:25",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00706",
+          "start_seconds": 4916.25,
+          "clock": "01:21:56",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00713_D2",
+          "start_seconds": 4950.89,
+          "clock": "01:22:30",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00727",
+          "start_seconds": 5058.67,
+          "clock": "01:24:18",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00758",
+          "start_seconds": 5223.3099999999995,
+          "clock": "01:27:03",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00764",
+          "start_seconds": 5263.89,
+          "clock": "01:27:43",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00755",
+          "start_seconds": 5197.91,
+          "clock": "01:26:37",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00783",
+          "start_seconds": 5349.0,
+          "clock": "01:29:09",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00789",
+          "start_seconds": 5394.5599999999995,
+          "clock": "01:29:54",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00798",
+          "start_seconds": 5519.0,
+          "clock": "01:31:59",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00800",
+          "start_seconds": 5534.12,
+          "clock": "01:32:14",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01117",
+          "start_seconds": 7432.34,
+          "clock": "02:03:52",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01120",
+          "start_seconds": 7465.1,
+          "clock": "02:04:25",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01127",
+          "start_seconds": 7523.46,
+          "clock": "02:05:23",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01132_J2",
+          "start_seconds": 7555.22,
+          "clock": "02:05:55",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01136",
+          "start_seconds": 7570.6,
+          "clock": "02:06:10",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01138",
+          "start_seconds": 7580.4,
+          "clock": "02:06:20",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01140",
+          "start_seconds": 7590.51,
+          "clock": "02:06:30",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01168",
+          "start_seconds": 11378.38,
+          "clock": "03:09:38",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01170",
+          "start_seconds": 11385.63,
+          "clock": "03:09:45",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01073",
+          "start_seconds": 7159.99,
+          "clock": "01:59:19",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01073_Q2",
+          "start_seconds": 7194.02,
+          "clock": "01:59:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01074",
+          "start_seconds": 7194.14,
+          "clock": "01:59:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01406",
+          "start_seconds": 14487.63,
+          "clock": "04:01:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01411",
+          "start_seconds": 14542.65,
+          "clock": "04:02:22",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01467",
+          "start_seconds": 15180.84,
+          "clock": "04:13:00",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01469",
+          "start_seconds": 15186.48,
+          "clock": "04:13:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01471",
+          "start_seconds": 15190.25,
+          "clock": "04:13:10",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02158",
+          "start_seconds": 21353.7,
+          "clock": "05:55:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02163",
+          "start_seconds": 21368.52,
+          "clock": "05:56:08",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02165",
+          "start_seconds": 21414.76,
+          "clock": "05:56:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00593",
+          "start_seconds": 4251.51,
+          "clock": "01:10:51",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00594",
+          "start_seconds": 4258.65,
+          "clock": "01:10:58",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00595",
+          "start_seconds": 4259.29,
+          "clock": "01:10:59",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00596",
+          "start_seconds": 4264.17,
+          "clock": "01:11:04",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00598",
+          "start_seconds": 4272.54,
+          "clock": "01:11:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00601",
+          "start_seconds": 4276.36,
+          "clock": "01:11:16",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00602",
+          "start_seconds": 4280.8,
+          "clock": "01:11:20",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00604",
+          "start_seconds": 4289.88,
+          "clock": "01:11:29",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00694",
+          "start_seconds": 4865.96,
+          "clock": "01:21:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00696",
+          "start_seconds": 4875.38,
+          "clock": "01:21:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00696_SHORT_COVERAGE_1",
+          "start_seconds": 4878.48,
+          "clock": "01:21:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00699_D2",
+          "start_seconds": 4890.1900000000005,
+          "clock": "01:21:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00700",
+          "start_seconds": 4890.77,
+          "clock": "01:21:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00709",
+          "start_seconds": 4932.98,
+          "clock": "01:22:12",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00710",
+          "start_seconds": 4941.29,
+          "clock": "01:22:21",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00711",
+          "start_seconds": 4941.77,
+          "clock": "01:22:21",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00712",
+          "start_seconds": 4947.63,
+          "clock": "01:22:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01165",
+          "start_seconds": 11366.92,
+          "clock": "03:09:26",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01165_SHORT_COVERAGE_1",
+          "start_seconds": 11371.96,
+          "clock": "03:09:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01168_L2",
+          "start_seconds": 11384.91,
+          "clock": "03:09:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01171",
+          "start_seconds": 11398.35,
+          "clock": "03:09:58",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02369",
+          "start_seconds": 23148.64,
+          "clock": "06:25:48",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02371_F2",
+          "start_seconds": 23166.56,
+          "clock": "06:26:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 12853.74,
+          "clock": "03:34:13",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "What the defense tested",
+      "id": "P004",
+      "kind": "finding",
+      "text": "Ferrer tested both the scope of the review and Cabrera's basis for drawing conclusions. She questioned his independence, his pro bono engagement by prosecutors, his tax and audit background, and his forensic credentials. She asked how subpoenaed financial records reached him and about inventories of those documents, confidentiality and limited preparation time. She also challenged incomplete checks of ownership and transactions, absent interviews, liabilities and Cabrera's personal knowledge of the Vice President's awareness of her spouse's accounts and insurance. Cabrera acknowledged that he had interviewed neither spouse nor their accountants or auditor. He also confirmed that the report had no PwC review or endorsement. Ferrer separately asked about BIR fraud findings, tax cases and judgments."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01678",
+          "start_seconds": 17105.75,
+          "clock": "04:45:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01680",
+          "start_seconds": 17115.25,
+          "clock": "04:45:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01682",
+          "start_seconds": 17122.93,
+          "clock": "04:45:22",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01683",
+          "start_seconds": 17134.63,
+          "clock": "04:45:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01691",
+          "start_seconds": 17225.42,
+          "clock": "04:47:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01692",
+          "start_seconds": 17246.27,
+          "clock": "04:47:26",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02048",
+          "start_seconds": 20522.97,
+          "clock": "05:42:02",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02049",
+          "start_seconds": 20547.25,
+          "clock": "05:42:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02050",
+          "start_seconds": 20548.85,
+          "clock": "05:42:28",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02051",
+          "start_seconds": 20564.43,
+          "clock": "05:42:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00925_Q2",
+          "start_seconds": 6266.22,
+          "clock": "01:44:26",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00926",
+          "start_seconds": 6285.5,
+          "clock": "01:44:45",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00929",
+          "start_seconds": 6301.8,
+          "clock": "01:45:01",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00930",
+          "start_seconds": 6315.67,
+          "clock": "01:45:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01957_Q3",
+          "start_seconds": 19776.01,
+          "clock": "05:29:36",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01958",
+          "start_seconds": 19813.32,
+          "clock": "05:30:13",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02747",
+          "start_seconds": 26579.04,
+          "clock": "07:22:59",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02749",
+          "start_seconds": 26592.02,
+          "clock": "07:23:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02750",
+          "start_seconds": 26598.84,
+          "clock": "07:23:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02751",
+          "start_seconds": 26604.38,
+          "clock": "07:23:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02754",
+          "start_seconds": 26605.8,
+          "clock": "07:23:25",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02755",
+          "start_seconds": 26608.2,
+          "clock": "07:23:28",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02756",
+          "start_seconds": 26608.76,
+          "clock": "07:23:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02758",
+          "start_seconds": 26615.58,
+          "clock": "07:23:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02760",
+          "start_seconds": 26620.0,
+          "clock": "07:23:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00937",
+          "start_seconds": 6380.85,
+          "clock": "01:46:20",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00941",
+          "start_seconds": 6387.65,
+          "clock": "01:46:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00944_D2",
+          "start_seconds": 6400.88,
+          "clock": "01:46:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00945",
+          "start_seconds": 6401.08,
+          "clock": "01:46:41",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00965",
+          "start_seconds": 6567.97,
+          "clock": "01:49:27",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00966",
+          "start_seconds": 6572.27,
+          "clock": "01:49:32",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00967",
+          "start_seconds": 6573.49,
+          "clock": "01:49:33",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00968",
+          "start_seconds": 6581.25,
+          "clock": "01:49:41",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01974",
+          "start_seconds": 19950.27,
+          "clock": "05:32:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02004",
+          "start_seconds": 20073.02,
+          "clock": "05:34:33",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02005",
+          "start_seconds": 20092.93,
+          "clock": "05:34:52",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02009",
+          "start_seconds": 20131.16,
+          "clock": "05:35:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02014",
+          "start_seconds": 20165.37,
+          "clock": "05:36:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01941",
+          "start_seconds": 19441.13,
+          "clock": "05:24:01",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01948",
+          "start_seconds": 19536.92,
+          "clock": "05:25:36",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01948_I3",
+          "start_seconds": 19613.739999999998,
+          "clock": "05:26:53",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01949",
+          "start_seconds": 19630.55,
+          "clock": "05:27:10",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01950",
+          "start_seconds": 19631.93,
+          "clock": "05:27:11",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01951",
+          "start_seconds": 19659.63,
+          "clock": "05:27:39",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01952",
+          "start_seconds": 19661.21,
+          "clock": "05:27:41",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01952_Q2",
+          "start_seconds": 19686.59,
+          "clock": "05:28:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01955",
+          "start_seconds": 19732.73,
+          "clock": "05:28:52",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01955_D2",
+          "start_seconds": 19755.57,
+          "clock": "05:29:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01957",
+          "start_seconds": 19756.83,
+          "clock": "05:29:16",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01960",
+          "start_seconds": 19817.02,
+          "clock": "05:30:17",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01961",
+          "start_seconds": 19834.36,
+          "clock": "05:30:34",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01962",
+          "start_seconds": 19837.5,
+          "clock": "05:30:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01963",
+          "start_seconds": 19838.06,
+          "clock": "05:30:38",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01964",
+          "start_seconds": 19838.84,
+          "clock": "05:30:38",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01966",
+          "start_seconds": 19847.2,
+          "clock": "05:30:47",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01968",
+          "start_seconds": 19855.16,
+          "clock": "05:30:55",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01970",
+          "start_seconds": 19872.42,
+          "clock": "05:31:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01972",
+          "start_seconds": 19881.86,
+          "clock": "05:31:21",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01973",
+          "start_seconds": 19906.73,
+          "clock": "05:31:46",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01980",
+          "start_seconds": 19976.97,
+          "clock": "05:32:56",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01994",
+          "start_seconds": 19999.33,
+          "clock": "05:33:19",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02000",
+          "start_seconds": 20017.58,
+          "clock": "05:33:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02001",
+          "start_seconds": 20021.97,
+          "clock": "05:33:41",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02003",
+          "start_seconds": 20050.61,
+          "clock": "05:34:10",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02008",
+          "start_seconds": 20109.88,
+          "clock": "05:35:09",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02015",
+          "start_seconds": 20168.31,
+          "clock": "05:36:08",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02016",
+          "start_seconds": 20190.47,
+          "clock": "05:36:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02017",
+          "start_seconds": 20195.01,
+          "clock": "05:36:35",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02017_F2",
+          "start_seconds": 20226.52,
+          "clock": "05:37:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02018",
+          "start_seconds": 20227.48,
+          "clock": "05:37:07",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02027",
+          "start_seconds": 20268.21,
+          "clock": "05:37:48",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02052",
+          "start_seconds": 20564.99,
+          "clock": "05:42:44",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02056",
+          "start_seconds": 20599.04,
+          "clock": "05:43:19",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02060",
+          "start_seconds": 20610.74,
+          "clock": "05:43:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02064",
+          "start_seconds": 20617.5,
+          "clock": "05:43:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02073",
+          "start_seconds": 20633.68,
+          "clock": "05:43:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02082",
+          "start_seconds": 20740.97,
+          "clock": "05:45:40",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02083",
+          "start_seconds": 20772.09,
+          "clock": "05:46:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02090",
+          "start_seconds": 20788.25,
+          "clock": "05:46:28",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02091",
+          "start_seconds": 20800.97,
+          "clock": "05:46:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02094",
+          "start_seconds": 20856.14,
+          "clock": "05:47:36",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02095",
+          "start_seconds": 20864.04,
+          "clock": "05:47:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02101",
+          "start_seconds": 20871.58,
+          "clock": "05:47:51",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02106",
+          "start_seconds": 20900.35,
+          "clock": "05:48:20",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02107",
+          "start_seconds": 20929.64,
+          "clock": "05:48:49",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02109",
+          "start_seconds": 20936.26,
+          "clock": "05:48:56",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02110",
+          "start_seconds": 20951.13,
+          "clock": "05:49:11",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02117",
+          "start_seconds": 21002.87,
+          "clock": "05:50:02",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02119",
+          "start_seconds": 21025.8,
+          "clock": "05:50:25",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02119_Q2",
+          "start_seconds": 21063.59,
+          "clock": "05:51:03",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02123",
+          "start_seconds": 21076.01,
+          "clock": "05:51:16",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02131",
+          "start_seconds": 21112.4,
+          "clock": "05:51:52",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02133",
+          "start_seconds": 21127.07,
+          "clock": "05:52:07",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02134",
+          "start_seconds": 21152.12,
+          "clock": "05:52:32",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02136",
+          "start_seconds": 21156.11,
+          "clock": "05:52:36",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02138",
+          "start_seconds": 21165.29,
+          "clock": "05:52:45",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02140",
+          "start_seconds": 21177.29,
+          "clock": "05:52:57",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02141",
+          "start_seconds": 21204.85,
+          "clock": "05:53:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02143_COVERAGE_1",
+          "start_seconds": 21214.57,
+          "clock": "05:53:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02143_COVERAGE_3",
+          "start_seconds": 21218.23,
+          "clock": "05:53:38",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02146",
+          "start_seconds": 21244.48,
+          "clock": "05:54:04",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02152",
+          "start_seconds": 21340.46,
+          "clock": "05:55:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02157",
+          "start_seconds": 21350.44,
+          "clock": "05:55:50",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02158",
+          "start_seconds": 21353.7,
+          "clock": "05:55:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02163",
+          "start_seconds": 21368.52,
+          "clock": "05:56:08",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02164",
+          "start_seconds": 21377.6,
+          "clock": "05:56:17",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02165",
+          "start_seconds": 21414.76,
+          "clock": "05:56:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02169",
+          "start_seconds": 21494.3,
+          "clock": "05:58:14",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02170",
+          "start_seconds": 21513.57,
+          "clock": "05:58:33",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02184",
+          "start_seconds": 21555.72,
+          "clock": "05:59:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02200",
+          "start_seconds": 21608.96,
+          "clock": "06:00:08",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02201",
+          "start_seconds": 21611.26,
+          "clock": "06:00:11",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02203",
+          "start_seconds": 21613.72,
+          "clock": "06:00:13",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02207",
+          "start_seconds": 21641.89,
+          "clock": "06:00:41",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02212",
+          "start_seconds": 21677.12,
+          "clock": "06:01:17",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02217",
+          "start_seconds": 21763.35,
+          "clock": "06:02:43",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02230",
+          "start_seconds": 21882.24,
+          "clock": "06:04:42",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02248",
+          "start_seconds": 21972.9,
+          "clock": "06:06:12",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02249",
+          "start_seconds": 21997.03,
+          "clock": "06:06:37",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02220",
+          "start_seconds": 21791.01,
+          "clock": "06:03:11",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02222",
+          "start_seconds": 21810.78,
+          "clock": "06:03:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02223",
+          "start_seconds": 21817.66,
+          "clock": "06:03:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02229",
+          "start_seconds": 21854.98,
+          "clock": "06:04:14",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02245_F2",
+          "start_seconds": 21947.58,
+          "clock": "06:05:47",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02247",
+          "start_seconds": 21960.22,
+          "clock": "06:06:00",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "The GenCorp assumption",
+      "id": "P005",
+      "kind": "finding",
+      "text": "A central dispute concerned the assumed 20 percent GenCorp interest. Cabrera relied on Duterte's SALN declaration and other business relationships, while acknowledging that he had no document specifying her ownership percentage. Senator Camille Villar asked about actual acquisition costs, franchise agreements and alternative financing. Senator Pia S. Cayetano questioned why an interest in one company should determine the percentage in another. Cabrera accepted that holdings could differ and acknowledged that no doctrine automatically carried a percentage across companies. He maintained that his 20 percent estimate was conservative and would revise his report if contrary documents were produced. Cayetano urged him to make assumptions prominent in the conclusions; he said the bases were explained inside the report."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01678",
+          "start_seconds": 17105.75,
+          "clock": "04:45:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01680",
+          "start_seconds": 17115.25,
+          "clock": "04:45:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01682",
+          "start_seconds": 17122.93,
+          "clock": "04:45:22",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01683",
+          "start_seconds": 17134.63,
+          "clock": "04:45:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01691",
+          "start_seconds": 17225.42,
+          "clock": "04:47:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01692",
+          "start_seconds": 17246.27,
+          "clock": "04:47:26",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02048",
+          "start_seconds": 20522.97,
+          "clock": "05:42:02",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02049",
+          "start_seconds": 20547.25,
+          "clock": "05:42:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02050",
+          "start_seconds": 20548.85,
+          "clock": "05:42:28",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02051",
+          "start_seconds": 20564.43,
+          "clock": "05:42:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00925_Q2",
+          "start_seconds": 6266.22,
+          "clock": "01:44:26",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00926",
+          "start_seconds": 6285.5,
+          "clock": "01:44:45",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00929",
+          "start_seconds": 6301.8,
+          "clock": "01:45:01",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00930",
+          "start_seconds": 6315.67,
+          "clock": "01:45:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01957_Q3",
+          "start_seconds": 19776.01,
+          "clock": "05:29:36",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01958",
+          "start_seconds": 19813.32,
+          "clock": "05:30:13",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02747",
+          "start_seconds": 26579.04,
+          "clock": "07:22:59",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02749",
+          "start_seconds": 26592.02,
+          "clock": "07:23:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02750",
+          "start_seconds": 26598.84,
+          "clock": "07:23:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02751",
+          "start_seconds": 26604.38,
+          "clock": "07:23:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02754",
+          "start_seconds": 26605.8,
+          "clock": "07:23:25",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02755",
+          "start_seconds": 26608.2,
+          "clock": "07:23:28",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02756",
+          "start_seconds": 26608.76,
+          "clock": "07:23:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02758",
+          "start_seconds": 26615.58,
+          "clock": "07:23:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02760",
+          "start_seconds": 26620.0,
+          "clock": "07:23:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00937",
+          "start_seconds": 6380.85,
+          "clock": "01:46:20",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00941",
+          "start_seconds": 6387.65,
+          "clock": "01:46:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00944_D2",
+          "start_seconds": 6400.88,
+          "clock": "01:46:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00945",
+          "start_seconds": 6401.08,
+          "clock": "01:46:41",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00965",
+          "start_seconds": 6567.97,
+          "clock": "01:49:27",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00966",
+          "start_seconds": 6572.27,
+          "clock": "01:49:32",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00967",
+          "start_seconds": 6573.49,
+          "clock": "01:49:33",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00968",
+          "start_seconds": 6581.25,
+          "clock": "01:49:41",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01974",
+          "start_seconds": 19950.27,
+          "clock": "05:32:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02004",
+          "start_seconds": 20073.02,
+          "clock": "05:34:33",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02005",
+          "start_seconds": 20092.93,
+          "clock": "05:34:52",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02009",
+          "start_seconds": 20131.16,
+          "clock": "05:35:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02014",
+          "start_seconds": 20165.37,
+          "clock": "05:36:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01941",
+          "start_seconds": 19441.13,
+          "clock": "05:24:01",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01948",
+          "start_seconds": 19536.92,
+          "clock": "05:25:36",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01948_I3",
+          "start_seconds": 19613.739999999998,
+          "clock": "05:26:53",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01949",
+          "start_seconds": 19630.55,
+          "clock": "05:27:10",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01950",
+          "start_seconds": 19631.93,
+          "clock": "05:27:11",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01951",
+          "start_seconds": 19659.63,
+          "clock": "05:27:39",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01952",
+          "start_seconds": 19661.21,
+          "clock": "05:27:41",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01952_Q2",
+          "start_seconds": 19686.59,
+          "clock": "05:28:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01955",
+          "start_seconds": 19732.73,
+          "clock": "05:28:52",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01955_D2",
+          "start_seconds": 19755.57,
+          "clock": "05:29:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01957",
+          "start_seconds": 19756.83,
+          "clock": "05:29:16",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01960",
+          "start_seconds": 19817.02,
+          "clock": "05:30:17",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01961",
+          "start_seconds": 19834.36,
+          "clock": "05:30:34",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01962",
+          "start_seconds": 19837.5,
+          "clock": "05:30:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01963",
+          "start_seconds": 19838.06,
+          "clock": "05:30:38",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01964",
+          "start_seconds": 19838.84,
+          "clock": "05:30:38",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01966",
+          "start_seconds": 19847.2,
+          "clock": "05:30:47",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01968",
+          "start_seconds": 19855.16,
+          "clock": "05:30:55",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01970",
+          "start_seconds": 19872.42,
+          "clock": "05:31:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01972",
+          "start_seconds": 19881.86,
+          "clock": "05:31:21",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01973",
+          "start_seconds": 19906.73,
+          "clock": "05:31:46",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S01980",
+          "start_seconds": 19976.97,
+          "clock": "05:32:56",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01994",
+          "start_seconds": 19999.33,
+          "clock": "05:33:19",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02000",
+          "start_seconds": 20017.58,
+          "clock": "05:33:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02001",
+          "start_seconds": 20021.97,
+          "clock": "05:33:41",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02003",
+          "start_seconds": 20050.61,
+          "clock": "05:34:10",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02008",
+          "start_seconds": 20109.88,
+          "clock": "05:35:09",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02015",
+          "start_seconds": 20168.31,
+          "clock": "05:36:08",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02016",
+          "start_seconds": 20190.47,
+          "clock": "05:36:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02017",
+          "start_seconds": 20195.01,
+          "clock": "05:36:35",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02017_F2",
+          "start_seconds": 20226.52,
+          "clock": "05:37:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02018",
+          "start_seconds": 20227.48,
+          "clock": "05:37:07",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02027",
+          "start_seconds": 20268.21,
+          "clock": "05:37:48",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02052",
+          "start_seconds": 20564.99,
+          "clock": "05:42:44",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02056",
+          "start_seconds": 20599.04,
+          "clock": "05:43:19",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02060",
+          "start_seconds": 20610.74,
+          "clock": "05:43:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02064",
+          "start_seconds": 20617.5,
+          "clock": "05:43:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02073",
+          "start_seconds": 20633.68,
+          "clock": "05:43:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02082",
+          "start_seconds": 20740.97,
+          "clock": "05:45:40",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02083",
+          "start_seconds": 20772.09,
+          "clock": "05:46:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02090",
+          "start_seconds": 20788.25,
+          "clock": "05:46:28",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02091",
+          "start_seconds": 20800.97,
+          "clock": "05:46:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02094",
+          "start_seconds": 20856.14,
+          "clock": "05:47:36",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02095",
+          "start_seconds": 20864.04,
+          "clock": "05:47:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02101",
+          "start_seconds": 20871.58,
+          "clock": "05:47:51",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02106",
+          "start_seconds": 20900.35,
+          "clock": "05:48:20",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02107",
+          "start_seconds": 20929.64,
+          "clock": "05:48:49",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02109",
+          "start_seconds": 20936.26,
+          "clock": "05:48:56",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02110",
+          "start_seconds": 20951.13,
+          "clock": "05:49:11",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02117",
+          "start_seconds": 21002.87,
+          "clock": "05:50:02",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02119",
+          "start_seconds": 21025.8,
+          "clock": "05:50:25",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02119_Q2",
+          "start_seconds": 21063.59,
+          "clock": "05:51:03",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02123",
+          "start_seconds": 21076.01,
+          "clock": "05:51:16",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02131",
+          "start_seconds": 21112.4,
+          "clock": "05:51:52",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02133",
+          "start_seconds": 21127.07,
+          "clock": "05:52:07",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02134",
+          "start_seconds": 21152.12,
+          "clock": "05:52:32",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02136",
+          "start_seconds": 21156.11,
+          "clock": "05:52:36",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02138",
+          "start_seconds": 21165.29,
+          "clock": "05:52:45",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02140",
+          "start_seconds": 21177.29,
+          "clock": "05:52:57",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02141",
+          "start_seconds": 21204.85,
+          "clock": "05:53:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02143_COVERAGE_1",
+          "start_seconds": 21214.57,
+          "clock": "05:53:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02143_COVERAGE_3",
+          "start_seconds": 21218.23,
+          "clock": "05:53:38",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02146",
+          "start_seconds": 21244.48,
+          "clock": "05:54:04",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02152",
+          "start_seconds": 21340.46,
+          "clock": "05:55:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02157",
+          "start_seconds": 21350.44,
+          "clock": "05:55:50",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02158",
+          "start_seconds": 21353.7,
+          "clock": "05:55:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02163",
+          "start_seconds": 21368.52,
+          "clock": "05:56:08",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02164",
+          "start_seconds": 21377.6,
+          "clock": "05:56:17",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02165",
+          "start_seconds": 21414.76,
+          "clock": "05:56:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02169",
+          "start_seconds": 21494.3,
+          "clock": "05:58:14",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02170",
+          "start_seconds": 21513.57,
+          "clock": "05:58:33",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02184",
+          "start_seconds": 21555.72,
+          "clock": "05:59:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02200",
+          "start_seconds": 21608.96,
+          "clock": "06:00:08",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02201",
+          "start_seconds": 21611.26,
+          "clock": "06:00:11",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02203",
+          "start_seconds": 21613.72,
+          "clock": "06:00:13",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02207",
+          "start_seconds": 21641.89,
+          "clock": "06:00:41",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02212",
+          "start_seconds": 21677.12,
+          "clock": "06:01:17",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02217",
+          "start_seconds": 21763.35,
+          "clock": "06:02:43",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02230",
+          "start_seconds": 21882.24,
+          "clock": "06:04:42",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02248",
+          "start_seconds": 21972.9,
+          "clock": "06:06:12",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02249",
+          "start_seconds": 21997.03,
+          "clock": "06:06:37",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02220",
+          "start_seconds": 21791.01,
+          "clock": "06:03:11",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02222",
+          "start_seconds": 21810.78,
+          "clock": "06:03:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02223",
+          "start_seconds": 21817.66,
+          "clock": "06:03:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02229",
+          "start_seconds": 21854.98,
+          "clock": "06:04:14",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02245_F2",
+          "start_seconds": 21947.58,
+          "clock": "06:05:47",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02247",
+          "start_seconds": 21960.22,
+          "clock": "06:06:00",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "Why the same amount appeared each year",
+      "id": "P006",
+      "kind": "finding",
+      "text": "The franchise calculation also needed clarification. Cabrera used five Jollibee franchises at a minimum estimate of 35 million pesos each, giving 175 million pesos, and attributed 20 percent, or 35 million pesos, to Duterte. He had no franchise agreements or information establishing when the stores opened. The 35 million appeared in successive annual rows. Cabrera explained that this represented an amount remaining undeclared from year to year. It was counted once in the overall wealth estimate, rather than added afresh every year. Villar challenged certainty that the respondent had actually contributed that amount and raised loans or other funding as possibilities. Cabrera continued to describe it as attributed capital."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01107",
+          "start_seconds": 7356.4,
+          "clock": "02:02:36",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01108",
+          "start_seconds": 7370.77,
+          "clock": "02:02:50",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01117",
+          "start_seconds": 7432.34,
+          "clock": "02:03:52",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01117A",
+          "start_seconds": 7446.48,
+          "clock": "02:04:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01118",
+          "start_seconds": 7451.96,
+          "clock": "02:04:11",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01119",
+          "start_seconds": 7464.53,
+          "clock": "02:04:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01388",
+          "start_seconds": 14238.869999999999,
+          "clock": "03:57:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01700",
+          "start_seconds": 17339.46,
+          "clock": "04:48:59",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02735",
+          "start_seconds": 26510.86,
+          "clock": "07:21:50",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02737",
+          "start_seconds": 26529.23,
+          "clock": "07:22:09",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02739",
+          "start_seconds": 26536.75,
+          "clock": "07:22:16",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02741",
+          "start_seconds": 26544.61,
+          "clock": "07:22:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01268",
+          "start_seconds": 12645.16,
+          "clock": "03:30:45",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01269",
+          "start_seconds": 12665.51,
+          "clock": "03:31:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01270",
+          "start_seconds": 12680.61,
+          "clock": "03:31:20",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01271",
+          "start_seconds": 12682.49,
+          "clock": "03:31:22",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01276",
+          "start_seconds": 12708.55,
+          "clock": "03:31:48",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00984",
+          "start_seconds": 6668.97,
+          "clock": "01:51:08",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00986",
+          "start_seconds": 6684.25,
+          "clock": "01:51:24",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00988",
+          "start_seconds": 6702.4,
+          "clock": "01:51:42",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00991",
+          "start_seconds": 6707.02,
+          "clock": "01:51:47",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00992",
+          "start_seconds": 6722.96,
+          "clock": "01:52:02",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00993",
+          "start_seconds": 6726.54,
+          "clock": "01:52:06",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00994",
+          "start_seconds": 6738.57,
+          "clock": "01:52:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00995_D2",
+          "start_seconds": 6744.27,
+          "clock": "01:52:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00996",
+          "start_seconds": 6744.85,
+          "clock": "01:52:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02780",
+          "start_seconds": 26700.29,
+          "clock": "07:25:00",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02784",
+          "start_seconds": 26711.01,
+          "clock": "07:25:11",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02788",
+          "start_seconds": 26722.07,
+          "clock": "07:25:22",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02790",
+          "start_seconds": 26725.64,
+          "clock": "07:25:25",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02792",
+          "start_seconds": 26732.49,
+          "clock": "07:25:32",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02794",
+          "start_seconds": 26744.91,
+          "clock": "07:25:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01668_COVERAGE_1",
+          "start_seconds": 16999.54,
+          "clock": "04:43:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01677_L5",
+          "start_seconds": 17082.32,
+          "clock": "04:44:42",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01678",
+          "start_seconds": 17105.75,
+          "clock": "04:45:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01679",
+          "start_seconds": 17106.67,
+          "clock": "04:45:06",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01680",
+          "start_seconds": 17115.25,
+          "clock": "04:45:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01682",
+          "start_seconds": 17122.93,
+          "clock": "04:45:22",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01683",
+          "start_seconds": 17134.63,
+          "clock": "04:45:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01691",
+          "start_seconds": 17225.42,
+          "clock": "04:47:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01692",
+          "start_seconds": 17246.27,
+          "clock": "04:47:26",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01695",
+          "start_seconds": 17311.43,
+          "clock": "04:48:31",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01701",
+          "start_seconds": 17361.85,
+          "clock": "04:49:21",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01706",
+          "start_seconds": 17403.97,
+          "clock": "04:50:03",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01706_F2",
+          "start_seconds": 17425.11,
+          "clock": "04:50:25",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01709_T2",
+          "start_seconds": 17431.49,
+          "clock": "04:50:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01713",
+          "start_seconds": 17457.91,
+          "clock": "04:50:57",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01719",
+          "start_seconds": 17468.09,
+          "clock": "04:51:08",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01720",
+          "start_seconds": 17472.21,
+          "clock": "04:51:12",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01731",
+          "start_seconds": 17551.47,
+          "clock": "04:52:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01737",
+          "start_seconds": 17577.6,
+          "clock": "04:52:57",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01739",
+          "start_seconds": 17599.64,
+          "clock": "04:53:19",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01741",
+          "start_seconds": 17643.34,
+          "clock": "04:54:03",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01742",
+          "start_seconds": 17662.26,
+          "clock": "04:54:22",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01743",
+          "start_seconds": 17691.86,
+          "clock": "04:54:51",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01744",
+          "start_seconds": 17714.7,
+          "clock": "04:55:14",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01750",
+          "start_seconds": 17731.58,
+          "clock": "04:55:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01754",
+          "start_seconds": 17751.76,
+          "clock": "04:55:51",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01758",
+          "start_seconds": 17770.52,
+          "clock": "04:56:10",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01766_T2",
+          "start_seconds": 17803.84,
+          "clock": "04:56:43",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01767_R2",
+          "start_seconds": 17821.65,
+          "clock": "04:57:01",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01767_R4",
+          "start_seconds": 17828.22,
+          "clock": "04:57:08",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01767_R6",
+          "start_seconds": 17831.34,
+          "clock": "04:57:11",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01768",
+          "start_seconds": 17837.93,
+          "clock": "04:57:17",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01768_A2",
+          "start_seconds": 17843.29,
+          "clock": "04:57:23",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01768_A3",
+          "start_seconds": 17844.59,
+          "clock": "04:57:24",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01768_A4",
+          "start_seconds": 17856.68,
+          "clock": "04:57:36",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01769",
+          "start_seconds": 17856.8,
+          "clock": "04:57:36",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "Corporate funds and personal wealth",
+      "id": "P007",
+      "kind": "finding",
+      "text": "Another dispute concerned setting aside the corporations' separate personality, often called piercing the corporate veil. Cabrera used that approach to attribute undeclared corporate income to shareholders and identified tax fraud as his basis. He left the senator-judges to evaluate the approach. He could not establish that corporate outflows had reached the spouses personally. For Cale88 shareholder advances, he used the spouse's 47.5 percent interest and corporate statements, without loan documents, and treated the amount as a receivable requiring SALN disclosure. Senator Paolo Benigno \"Bam\" Aquino tested the assumptions about ownership and distribution, and insisted that the final figure follow the evidence when Cabrera suggested excluded confidential funds could replace a removed component."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02848",
+          "start_seconds": 26950.52,
+          "clock": "07:29:10",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02849",
+          "start_seconds": 26974.4,
+          "clock": "07:29:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02851",
+          "start_seconds": 26975.76,
+          "clock": "07:29:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02853",
+          "start_seconds": 26991.9,
+          "clock": "07:29:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02854",
+          "start_seconds": 27015.76,
+          "clock": "07:30:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02856",
+          "start_seconds": 27018.72,
+          "clock": "07:30:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02858",
+          "start_seconds": 27020.28,
+          "clock": "07:30:20",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02859",
+          "start_seconds": 27020.8,
+          "clock": "07:30:20",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02860",
+          "start_seconds": 27051.88,
+          "clock": "07:30:51",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02862",
+          "start_seconds": 27111.52,
+          "clock": "07:31:51",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02864",
+          "start_seconds": 27115.18,
+          "clock": "07:31:55",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02866",
+          "start_seconds": 27124.75,
+          "clock": "07:32:04",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02876",
+          "start_seconds": 27175.25,
+          "clock": "07:32:55",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02877",
+          "start_seconds": 27187.32,
+          "clock": "07:33:07",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02879",
+          "start_seconds": 27194.97,
+          "clock": "07:33:14",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02881",
+          "start_seconds": 27208.66,
+          "clock": "07:33:28",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02882",
+          "start_seconds": 27209.58,
+          "clock": "07:33:29",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02883",
+          "start_seconds": 27216.46,
+          "clock": "07:33:36",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01221",
+          "start_seconds": 12095.369999999999,
+          "clock": "03:21:35",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01223",
+          "start_seconds": 12112.1,
+          "clock": "03:21:52",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01226",
+          "start_seconds": 12127.76,
+          "clock": "03:22:07",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01227",
+          "start_seconds": 12134.08,
+          "clock": "03:22:14",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01229",
+          "start_seconds": 12167.79,
+          "clock": "03:22:47",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01231",
+          "start_seconds": 12195.369999999999,
+          "clock": "03:23:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01233",
+          "start_seconds": 12257.98,
+          "clock": "03:24:17",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01235",
+          "start_seconds": 12268.68,
+          "clock": "03:24:28",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01245",
+          "start_seconds": 12394.35,
+          "clock": "03:26:34",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01247",
+          "start_seconds": 12484.51,
+          "clock": "03:28:04",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01263_A2",
+          "start_seconds": 12596.96,
+          "clock": "03:29:56",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01267_Q2",
+          "start_seconds": 12634.2,
+          "clock": "03:30:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01790",
+          "start_seconds": 18000.0,
+          "clock": "05:00:00",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01792",
+          "start_seconds": 18003.75,
+          "clock": "05:00:03",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01794",
+          "start_seconds": 18014.18,
+          "clock": "05:00:14",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02591",
+          "start_seconds": 25518.82,
+          "clock": "07:05:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02593",
+          "start_seconds": 25529.12,
+          "clock": "07:05:29",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02595",
+          "start_seconds": 25538.02,
+          "clock": "07:05:38",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02607",
+          "start_seconds": 25585.97,
+          "clock": "07:06:25",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02611",
+          "start_seconds": 25613.43,
+          "clock": "07:06:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02614",
+          "start_seconds": 25633.27,
+          "clock": "07:07:13",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02618_Q2",
+          "start_seconds": 25648.62,
+          "clock": "07:07:28",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "Separate components and figures to reconcile",
+      "id": "P008",
+      "kind": "finding",
+      "text": "In substantive questioning, Senator Francis \"Chiz\" G. Escudero separated the estimate into about 212.63 million pesos attributed to GenCorp, about 142.20 million to Metro City Chow and Cale88, and about 463.05 million remaining in the bank-and-insurance calculation. Cabrera agreed that the remainder excluded the corporations. Asked for a less conservative ceiling, he estimated roughly 1.5 billion pesos using excluded confidential funds, an AMLC discrepancy and a higher GenCorp ownership assumption. He agreed that payable taxes and other liabilities would be deducted. Separately, he acknowledged possible repeated compensation in the income calculation, saying correction of the roughly 14.37 million peso addition would increase his wealth estimate. Differences between wealth and tax tables still needed reconciliation."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01221",
+          "start_seconds": 12095.369999999999,
+          "clock": "03:21:35",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01223",
+          "start_seconds": 12112.1,
+          "clock": "03:21:52",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01226",
+          "start_seconds": 12127.76,
+          "clock": "03:22:07",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01227",
+          "start_seconds": 12134.08,
+          "clock": "03:22:14",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01229",
+          "start_seconds": 12167.79,
+          "clock": "03:22:47",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01231",
+          "start_seconds": 12195.369999999999,
+          "clock": "03:23:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01233",
+          "start_seconds": 12257.98,
+          "clock": "03:24:17",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01235",
+          "start_seconds": 12268.68,
+          "clock": "03:24:28",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01245",
+          "start_seconds": 12394.35,
+          "clock": "03:26:34",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01247",
+          "start_seconds": 12484.51,
+          "clock": "03:28:04",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01263_A2",
+          "start_seconds": 12596.96,
+          "clock": "03:29:56",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01267_Q2",
+          "start_seconds": 12634.2,
+          "clock": "03:30:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01790",
+          "start_seconds": 18000.0,
+          "clock": "05:00:00",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01792",
+          "start_seconds": 18003.75,
+          "clock": "05:00:03",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01794",
+          "start_seconds": 18014.18,
+          "clock": "05:00:14",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02591",
+          "start_seconds": 25518.82,
+          "clock": "07:05:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02593",
+          "start_seconds": 25529.12,
+          "clock": "07:05:29",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02595",
+          "start_seconds": 25538.02,
+          "clock": "07:05:38",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02607",
+          "start_seconds": 25585.97,
+          "clock": "07:06:25",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02611",
+          "start_seconds": 25613.43,
+          "clock": "07:06:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02614",
+          "start_seconds": 25633.27,
+          "clock": "07:07:13",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02618_Q2",
+          "start_seconds": 25648.62,
+          "clock": "07:07:28",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01513",
+          "start_seconds": 15467.31,
+          "clock": "04:17:47",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01515",
+          "start_seconds": 15474.33,
+          "clock": "04:17:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01516",
+          "start_seconds": 15474.89,
+          "clock": "04:17:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02382",
+          "start_seconds": 23416.4,
+          "clock": "06:30:16",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02386",
+          "start_seconds": 23429.68,
+          "clock": "06:30:29",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01435",
+          "start_seconds": 14844.48,
+          "clock": "04:07:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01436",
+          "start_seconds": 14851.28,
+          "clock": "04:07:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01438_L3",
+          "start_seconds": 14904.78,
+          "clock": "04:08:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02273",
+          "start_seconds": 22258.85,
+          "clock": "06:10:58",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01194",
+          "start_seconds": 11664.9,
+          "clock": "03:14:24",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01195",
+          "start_seconds": 11680.18,
+          "clock": "03:14:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01196",
+          "start_seconds": 11685.84,
+          "clock": "03:14:45",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01203",
+          "start_seconds": 11825.66,
+          "clock": "03:17:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01204",
+          "start_seconds": 11874.46,
+          "clock": "03:17:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02398_F3",
+          "start_seconds": 23552.16,
+          "clock": "06:32:32",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02412",
+          "start_seconds": 23777.02,
+          "clock": "06:36:17",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02413",
+          "start_seconds": 23786.11,
+          "clock": "06:36:26",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02413_UNCOVERED_3",
+          "start_seconds": 23798.5,
+          "clock": "06:36:38",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02415",
+          "start_seconds": 23804.99,
+          "clock": "06:36:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02472",
+          "start_seconds": 24578.11,
+          "clock": "06:49:38",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02473",
+          "start_seconds": 24590.41,
+          "clock": "06:49:50",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01416",
+          "start_seconds": 14597.05,
+          "clock": "04:03:17",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01418",
+          "start_seconds": 14624.72,
+          "clock": "04:03:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02485",
+          "start_seconds": 24673.86,
+          "clock": "06:51:13",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02486",
+          "start_seconds": 24697.08,
+          "clock": "06:51:37",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02910",
+          "start_seconds": 27445.47,
+          "clock": "07:37:25",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        }
+      ],
+      "heading": "Tax and remittance reconciliation",
+      "id": "P009",
+      "kind": "finding",
+      "text": "The tax discussion produced another unfinished numerical issue. Cabrera later called an earlier 250 million peso GenCorp tax discussion theoretical. He read a basic-tax total of 158 million, 36 thousand pesos from his report, covering individuals and corporations, and promised to reconcile the figures. He said the tax figures were outside the 817 million peso wealth computation. On Cale88 remittances, he said eliminating paired transactions reduced AMLC's 319 million pesos to 222 million in his report. He had no foreign-currency deposit statements and could not trace the conversion or destination. He described inventories, equipment and operating disclosures as weak relative to the company's reported scale, and called rapid pass-throughs money-laundering symptoms while expressly declining a money-laundering conclusion."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01073",
+          "start_seconds": 7159.99,
+          "clock": "01:59:19",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01073_Q2",
+          "start_seconds": 7194.02,
+          "clock": "01:59:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01074",
+          "start_seconds": 7194.14,
+          "clock": "01:59:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01406",
+          "start_seconds": 14487.63,
+          "clock": "04:01:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01411",
+          "start_seconds": 14542.65,
+          "clock": "04:02:22",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01467",
+          "start_seconds": 15180.84,
+          "clock": "04:13:00",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01469",
+          "start_seconds": 15186.48,
+          "clock": "04:13:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01471",
+          "start_seconds": 15190.25,
+          "clock": "04:13:10",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02158",
+          "start_seconds": 21353.7,
+          "clock": "05:55:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02163",
+          "start_seconds": 21368.52,
+          "clock": "05:56:08",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02165",
+          "start_seconds": 21414.76,
+          "clock": "05:56:54",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00593",
+          "start_seconds": 4251.51,
+          "clock": "01:10:51",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00594",
+          "start_seconds": 4258.65,
+          "clock": "01:10:58",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00595",
+          "start_seconds": 4259.29,
+          "clock": "01:10:59",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00596",
+          "start_seconds": 4264.17,
+          "clock": "01:11:04",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00597",
+          "start_seconds": 4265.97,
+          "clock": "01:11:05",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00598",
+          "start_seconds": 4272.54,
+          "clock": "01:11:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00601",
+          "start_seconds": 4276.36,
+          "clock": "01:11:16",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00602",
+          "start_seconds": 4280.8,
+          "clock": "01:11:20",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00603",
+          "start_seconds": 4283.54,
+          "clock": "01:11:23",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00604",
+          "start_seconds": 4289.88,
+          "clock": "01:11:29",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00694",
+          "start_seconds": 4865.96,
+          "clock": "01:21:05",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00696",
+          "start_seconds": 4875.38,
+          "clock": "01:21:15",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00696_SHORT_COVERAGE_1",
+          "start_seconds": 4878.48,
+          "clock": "01:21:18",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00699_D2",
+          "start_seconds": 4890.1900000000005,
+          "clock": "01:21:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00700",
+          "start_seconds": 4890.77,
+          "clock": "01:21:30",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00709",
+          "start_seconds": 4932.98,
+          "clock": "01:22:12",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00710",
+          "start_seconds": 4941.29,
+          "clock": "01:22:21",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00711",
+          "start_seconds": 4941.77,
+          "clock": "01:22:21",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00712",
+          "start_seconds": 4947.63,
+          "clock": "01:22:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01165",
+          "start_seconds": 11366.92,
+          "clock": "03:09:26",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01165_SHORT_COVERAGE_1",
+          "start_seconds": 11371.96,
+          "clock": "03:09:31",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01168",
+          "start_seconds": 11378.38,
+          "clock": "03:09:38",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01168_L2",
+          "start_seconds": 11384.91,
+          "clock": "03:09:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01170",
+          "start_seconds": 11385.63,
+          "clock": "03:09:45",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01171",
+          "start_seconds": 11398.35,
+          "clock": "03:09:58",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02369",
+          "start_seconds": 23148.64,
+          "clock": "06:25:48",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02371_F2",
+          "start_seconds": 23166.56,
+          "clock": "06:26:06",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 12853.74,
+          "clock": "03:34:13",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01286",
+          "start_seconds": 12908.42,
+          "clock": "03:35:08",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01287",
+          "start_seconds": 12984.4,
+          "clock": "03:36:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01288",
+          "start_seconds": 12988.7,
+          "clock": "03:36:28",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01289",
+          "start_seconds": 13031.99,
+          "clock": "03:37:11",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01290",
+          "start_seconds": 13056.66,
+          "clock": "03:37:36",
+          "speaker_name": "Video Playback Narration"
+        },
+        {
+          "segment_id": "S01296",
+          "start_seconds": 13157.61,
+          "clock": "03:39:17",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01298",
+          "start_seconds": 13184.2,
+          "clock": "03:39:44",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01300",
+          "start_seconds": 13202.34,
+          "clock": "03:40:02",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01302",
+          "start_seconds": 13243.66,
+          "clock": "03:40:43",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01304",
+          "start_seconds": 13280.3,
+          "clock": "03:41:20",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01305_L2",
+          "start_seconds": 13295.78,
+          "clock": "03:41:35",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01305_L3",
+          "start_seconds": 13296.22,
+          "clock": "03:41:36",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01306",
+          "start_seconds": 13307.3,
+          "clock": "03:41:47",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00809",
+          "start_seconds": 5614.3,
+          "clock": "01:33:34",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00872",
+          "start_seconds": 5976.26,
+          "clock": "01:39:36",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00882",
+          "start_seconds": 6038.74,
+          "clock": "01:40:38",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00884",
+          "start_seconds": 6048.79,
+          "clock": "01:40:48",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00932_Q3",
+          "start_seconds": 6345.22,
+          "clock": "01:45:45",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00942",
+          "start_seconds": 6389.71,
+          "clock": "01:46:29",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00946",
+          "start_seconds": 6401.82,
+          "clock": "01:46:41",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00961",
+          "start_seconds": 6531.52,
+          "clock": "01:48:51",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00963_Q3",
+          "start_seconds": 6555.64,
+          "clock": "01:49:15",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00965",
+          "start_seconds": 6567.97,
+          "clock": "01:49:27",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00967",
+          "start_seconds": 6573.49,
+          "clock": "01:49:33",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00984",
+          "start_seconds": 6668.97,
+          "clock": "01:51:08",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00987",
+          "start_seconds": 6690.85,
+          "clock": "01:51:30",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01032",
+          "start_seconds": 6951.77,
+          "clock": "01:55:51",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01056",
+          "start_seconds": 7073.1,
+          "clock": "01:57:53",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01062",
+          "start_seconds": 7105.79,
+          "clock": "01:58:25",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01066",
+          "start_seconds": 7126.49,
+          "clock": "01:58:46",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01082",
+          "start_seconds": 7228.41,
+          "clock": "02:00:28",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01095",
+          "start_seconds": 7284.55,
+          "clock": "02:01:24",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01098",
+          "start_seconds": 7312.41,
+          "clock": "02:01:52",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S01102_VIS2",
+          "start_seconds": 7331.94,
+          "clock": "02:02:11",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        }
+      ],
+      "heading": "Other evidence questions",
+      "id": "P010",
+      "kind": "finding",
+      "text": "Cabrera characterized repeated year-end movements through manager's checks as concealment, while acknowledging that Duterte had not signed the applications and the transactions preceded 2022. He said self-payable checks still created receivables for SALN disclosure. Credit-card spending discussed in the hearing was flagged for investigation and excluded from the wealth total. Ferrer put sports-team purchases and group-travel expenses to him as explanations. Senator Erwin Tulfo also played property footage he described as coming from an NBI press conference and media reports. Cabrera said he needed titles, addresses, areas and related records to identify the properties or decide whether they were already declared or included. Diokno undertook to check the video."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02941",
+          "start_seconds": 27833.4,
+          "clock": "07:43:53",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02942",
+          "start_seconds": 27914.75,
+          "clock": "07:45:14",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02950",
+          "start_seconds": 28086.57,
+          "clock": "07:48:06",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02954",
+          "start_seconds": 28181.04,
+          "clock": "07:49:41",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02964",
+          "start_seconds": 28291.24,
+          "clock": "07:51:31",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02966",
+          "start_seconds": 28306.0,
+          "clock": "07:51:46",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02968",
+          "start_seconds": 28339.54,
+          "clock": "07:52:19",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02969",
+          "start_seconds": 28411.3,
+          "clock": "07:53:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02970",
+          "start_seconds": 28464.73,
+          "clock": "07:54:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02979",
+          "start_seconds": 28596.64,
+          "clock": "07:56:36",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02982",
+          "start_seconds": 28601.66,
+          "clock": "07:56:41",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02949",
+          "start_seconds": 27987.06,
+          "clock": "07:46:27",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S02960",
+          "start_seconds": 28250.46,
+          "clock": "07:50:50",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S02265",
+          "start_seconds": 22215.06,
+          "clock": "06:10:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02267",
+          "start_seconds": 22223.82,
+          "clock": "06:10:23",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02268",
+          "start_seconds": 22228.8,
+          "clock": "06:10:28",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S02271",
+          "start_seconds": 22242.81,
+          "clock": "06:10:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02930",
+          "start_seconds": 27706.33,
+          "clock": "07:41:46",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02932",
+          "start_seconds": 27739.23,
+          "clock": "07:42:19",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S02934_N4",
+          "start_seconds": 27787.29,
+          "clock": "07:43:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02936",
+          "start_seconds": 27806.27,
+          "clock": "07:43:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02955",
+          "start_seconds": 28196.08,
+          "clock": "07:49:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02967",
+          "start_seconds": 28317.42,
+          "clock": "07:51:57",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The parties and the court",
+      "id": "P011",
+      "kind": "finding",
+      "text": "After Cabrera was excused, Attorney Sheila C. Sison argued that wrongdoing must be clearly and convincingly established before corporate personality is disregarded. She cited Kukan International Corporation versus Reyes and said the respondent had not begun presenting evidence. Diokno answered with cases on corporations used for illegal acts or fraudulent schemes and argued that the reported underdeclaration percentages supplied clear and convincing evidence. The court allowed Sison's criticism of Cabrera's conclusions to remain after Diokno moved to strike it. Escudero directed that the cited cases be circulated to the senator-judges through official email, retained Sison's reply and closed the exchange. Earlier, the chair had directed a private AMLC-list rundown for the judges, explaining that the materials had not yet been formally offered or admitted."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02919_COVERAGE_1",
+          "start_seconds": 27583.49,
+          "clock": "07:39:43",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02922",
+          "start_seconds": 27613.23,
+          "clock": "07:40:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02923",
+          "start_seconds": 27645.47,
+          "clock": "07:40:45",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S02924",
+          "start_seconds": 27646.73,
+          "clock": "07:40:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02977",
+          "start_seconds": 28567.8,
+          "clock": "07:56:07",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02985",
+          "start_seconds": 28609.86,
+          "clock": "07:56:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02941",
+          "start_seconds": 27833.4,
+          "clock": "07:43:53",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02942",
+          "start_seconds": 27914.75,
+          "clock": "07:45:14",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02950",
+          "start_seconds": 28086.57,
+          "clock": "07:48:06",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02954",
+          "start_seconds": 28181.04,
+          "clock": "07:49:41",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02964",
+          "start_seconds": 28291.24,
+          "clock": "07:51:31",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02966",
+          "start_seconds": 28306.0,
+          "clock": "07:51:46",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02968",
+          "start_seconds": 28339.54,
+          "clock": "07:52:19",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02969",
+          "start_seconds": 28411.3,
+          "clock": "07:53:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02970",
+          "start_seconds": 28464.73,
+          "clock": "07:54:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02979",
+          "start_seconds": 28596.64,
+          "clock": "07:56:36",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02982",
+          "start_seconds": 28601.66,
+          "clock": "07:56:41",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01245",
+          "start_seconds": 12394.35,
+          "clock": "03:26:34",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01247",
+          "start_seconds": 12484.51,
+          "clock": "03:28:04",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01263_A2",
+          "start_seconds": 12596.96,
+          "clock": "03:29:56",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S01267_Q2",
+          "start_seconds": 12634.2,
+          "clock": "03:30:34",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02607",
+          "start_seconds": 25585.97,
+          "clock": "07:06:25",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02611",
+          "start_seconds": 25613.43,
+          "clock": "07:06:53",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02614",
+          "start_seconds": 25633.27,
+          "clock": "07:07:13",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02618_Q2",
+          "start_seconds": 25648.62,
+          "clock": "07:07:28",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S00872",
+          "start_seconds": 5976.26,
+          "clock": "01:39:36",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S00882",
+          "start_seconds": 6038.74,
+          "clock": "01:40:38",
+          "speaker_name": "Atty. Kristine R. Ferrer"
+        },
+        {
+          "segment_id": "S02048",
+          "start_seconds": 20522.97,
+          "clock": "05:42:02",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02049",
+          "start_seconds": 20547.25,
+          "clock": "05:42:27",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02082",
+          "start_seconds": 20740.97,
+          "clock": "05:45:40",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02083",
+          "start_seconds": 20772.09,
+          "clock": "05:46:12",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02090",
+          "start_seconds": 20788.25,
+          "clock": "05:46:28",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S02091",
+          "start_seconds": 20800.97,
+          "clock": "05:46:40",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02136",
+          "start_seconds": 21156.11,
+          "clock": "05:52:36",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02245_F2",
+          "start_seconds": 21947.58,
+          "clock": "06:05:47",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02247",
+          "start_seconds": 21960.22,
+          "clock": "06:06:00",
+          "speaker_name": "Atty. Alexander B. Cabrera"
+        },
+        {
+          "segment_id": "S02925",
+          "start_seconds": 27667.58,
+          "clock": "07:41:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02980",
+          "start_seconds": 28598.28,
+          "clock": "07:56:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02984",
+          "start_seconds": 28603.04,
+          "clock": "07:56:43",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        }
+      ],
+      "heading": "What happens next",
+      "id": "P012",
+      "kind": "finding",
+      "text": "The prosecution's stated intention to withdraw Article Three remained under advisement. The court planned final prosecution manifestations and administrative matters for the next sitting. Sison proposed handling formal-offer arrangements that afternoon, but Escudero explained that the court was still preparing confidentiality and transparency procedures for documents in the anticipated prosecution formal offer. She agreed to defer her remaining manifestations, and Diokno deferred manifestations on exhibit markings. Acting on Senator Vicente C. Sotto the Third's motion, the chair suspended the trial until one p.m. the next day. Cabrera's examination had ended, while numerical reconciliation, the GenCorp ownership dispute and the next procedural arrangements remained open."
+    },
+    {
+      "citations": [],
+      "heading": "Closing",
+      "id": "P013",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the October 12, 2026 audio overview."
+    }
+  ],
+  "source_digest_id": 101,
+  "source_digest_sha256": "d6ac428523d6b86af2a5932579dc69dcb6b5b0d25c3f7dcb80aa103d30d56e91",
+  "title": "October 12, 2026: Cabrera completes examination"
+}
