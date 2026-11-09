@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T02:08:43+08:00",
+  "generated_at": "2026-11-10T02:36:38+08:00",
   "complete_artifacts_only": true,
   "partner": null,
-  "through_date": "20261006",
+  "through_date": "20261109",
   "articles_of_impeachment": {
     "source_pdf": "https://docs.congress.hrep.online/legisdocs/first_20/CR00261.pdf",
     "pages": [
@@ -25,8 +25,8 @@
   },
   "document_library": null,
   "related_document_library": {
-    "records": 174,
-    "date_references": 209,
+    "records": 286,
+    "date_references": 326,
     "source": "related_document_artifacts",
     "approved_only": true
   },
@@ -44,6 +44,60 @@
   },
   "sessions": [
     {
+      "id": 40,
+      "youtube_id": "TdzTorwtovI",
+      "revision": 2,
+      "segments": 1410,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 39,
+      "youtube_id": "kHO_wfDgKIg",
+      "revision": 2,
+      "segments": 314,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 38,
+      "youtube_id": "6z6d3pm6cjs",
+      "revision": 2,
+      "segments": 3442,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 37,
+      "youtube_id": "fiqfrZTZ1tE",
+      "revision": 2,
+      "segments": 1893,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 36,
+      "youtube_id": "Z1wvCRoe5qI",
+      "revision": 3,
+      "segments": 1217,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
+      "id": 35,
+      "youtube_id": "XoYw-kKytwk",
+      "revision": 4,
+      "segments": 4266,
+      "status": "Reviewed working draft",
+      "digest": true,
+      "podcast": true
+    },
+    {
       "id": 34,
       "youtube_id": "NvD7eFqFhW4",
       "revision": 2,
@@ -55,7 +109,7 @@
     {
       "id": 33,
       "youtube_id": "zyRATfNfnD4",
-      "revision": 2,
+      "revision": 3,
       "segments": 2613,
       "status": "Reviewed working draft",
       "digest": true,
@@ -64,7 +118,7 @@
     {
       "id": 32,
       "youtube_id": "IdixNI0wjqk",
-      "revision": 2,
+      "revision": 3,
       "segments": 1252,
       "status": "Reviewed working draft",
       "digest": true,
@@ -73,7 +127,7 @@
     {
       "id": 31,
       "youtube_id": "ayMab1u4Pzo",
-      "revision": 2,
+      "revision": 3,
       "segments": 1420,
       "status": "Reviewed working draft",
       "digest": true,
@@ -100,7 +154,7 @@
     {
       "id": 28,
       "youtube_id": "gtoJDFavcLY",
-      "revision": 2,
+      "revision": 3,
       "segments": 1761,
       "status": "Reviewed working draft",
       "digest": true,
@@ -109,7 +163,7 @@
     {
       "id": 27,
       "youtube_id": "PEiTyH_gyBU",
-      "revision": 3,
+      "revision": 4,
       "segments": 1385,
       "status": "Reviewed working draft",
       "digest": true,
@@ -118,7 +172,7 @@
     {
       "id": 26,
       "youtube_id": "NlxgbDnIIoQ",
-      "revision": 4,
+      "revision": 5,
       "segments": 852,
       "status": "Reviewed working draft",
       "digest": true,
@@ -127,7 +181,7 @@
     {
       "id": 25,
       "youtube_id": "c8rrszFOqEI",
-      "revision": 2,
+      "revision": 3,
       "segments": 1280,
       "status": "Reviewed working draft",
       "digest": true,
@@ -136,7 +190,7 @@
     {
       "id": 24,
       "youtube_id": "UtB7tSTVWiI",
-      "revision": 3,
+      "revision": 4,
       "segments": 1421,
       "status": "Reviewed working draft",
       "digest": true,
@@ -352,9 +406,9 @@
   ],
   "document_releases": {
     "repository": "tordecilla/duterte-impeachment-working-draft",
-    "asset_count": 248,
-    "rewritten_links": 474,
-    "pdf_payloads_removed": 251,
-    "bytes_hosted_outside_pages": 356749475
+    "asset_count": 256,
+    "rewritten_links": 521,
+    "pdf_payloads_removed": 259,
+    "bytes_hosted_outside_pages": 396120146
   }
 }

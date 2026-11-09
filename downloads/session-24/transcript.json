@@ -9,7 +9,7 @@
   },
   "transcript": {
     "status": "Reviewed working draft",
-    "revision": 3,
+    "revision": 4,
     "turn_count": 1421,
     "turns": [
       {
@@ -4705,7 +4705,7 @@
         "stable_id": "S00528",
         "start_seconds": 7485.96,
         "end_seconds": 7489.52,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "isang question lang. Siguro may isang follow-up kung kailangan.",
         "confidence": 0.9728922526041666,
         "editorial_flags": []
@@ -4714,7 +4714,7 @@
         "stable_id": "S00529",
         "start_seconds": 7491.64,
         "end_seconds": 7505.44,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Marami kasi ang ating mga kababayan nakikinig, nanonood. Ngayong ill-gotten wealth ang pinag-uusapan. Yung ill-gotten wealth ba kinakailangan pondo ng gobyerno?",
         "confidence": 0.9747314453124999,
         "editorial_flags": []
@@ -4732,7 +4732,7 @@
         "stable_id": "S00531",
         "start_seconds": 7527.72,
         "end_seconds": 7533.6,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "And the 50 million need not be public funds?",
         "confidence": 0.9535047743055556,
         "editorial_flags": []
@@ -4750,7 +4750,7 @@
         "stable_id": "S00533",
         "start_seconds": 7548.36,
         "end_seconds": 7551.66,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Okay. Yun lang. Maraming salamat Justice.",
         "confidence": 0.901611328125,
         "editorial_flags": []
@@ -7432,7 +7432,7 @@
         "stable_id": "S00832",
         "start_seconds": 12515.55,
         "end_seconds": 12516.17,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "please, sir?",
         "confidence": 0.95263671875,
         "editorial_flags": []
@@ -10510,7 +10510,7 @@
         "stable_id": "S01186",
         "start_seconds": 14860.94,
         "end_seconds": 14861.74,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "To",
         "confidence": 0.98193359375,
         "editorial_flags": []
@@ -11950,7 +11950,7 @@
         "stable_id": "S01346",
         "start_seconds": 16197.36,
         "end_seconds": 16229.22,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Thank you, Mr. Presiding Officer. Mayroong alam si Senate President na hindi natin alam tungkol sa mga plano niyang pag-aasawa. Basis sa mga katanungan. Just one or two questions, Justice. Earlier, your testimony was being objected to and one of the grounds was Rule 129. Is that correct? Yes. And the ground being, or Rule 29, stating that your testimony hindi na kailangan kasi dapat judicial notice na. Hindi po ba?",
         "confidence": 0.9713352344654224,
         "editorial_flags": []
@@ -11968,7 +11968,7 @@
         "stable_id": "S01348",
         "start_seconds": 16229.75,
         "end_seconds": 16243.81,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "sir. Bilang Korte. But you also mentioned sa testimony niyo kadina, this refers, Rule 129 refers to the judiciary primarily. Yes,",
         "confidence": 0.8906017485119048,
         "editorial_flags": []
@@ -11986,7 +11986,7 @@
         "stable_id": "S01350",
         "start_seconds": 16244.19,
         "end_seconds": 16287.58,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "It is, the rules of court is suppletory to the impeachment court. And the reason, I believe, it is for the courts because the court is presided over by a lawyer. Yes. A judge. Yes. Who is Learned in the law. In the case of the Senate Impeachment Court, we're only five lawyers here out of 24 senators. And therefore, while you can insist that the judge in the judiciary should take judicial notice of the laws, etc., that is not the case for the Impeachment Court. Would you agree to that?",
         "confidence": 0.9635089376698369,
         "editorial_flags": []
@@ -12004,7 +12004,7 @@
         "stable_id": "S01352",
         "start_seconds": 16288.82,
         "end_seconds": 16308.16,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Yes, and therefore, invoking Rule 129 of the Rules of Court is acceptable and necessary when it comes to the judiciary and the courts, but not so in the impeachment court.",
         "confidence": 0.9799883442540323,
         "editorial_flags": []
@@ -12022,7 +12022,7 @@
         "stable_id": "S01354",
         "start_seconds": 16309.42,
         "end_seconds": 16312.26,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Okay. No other question, Mr.",
         "confidence": 0.91123046875,
         "editorial_flags": []
@@ -12040,7 +12040,7 @@
         "stable_id": "S01356",
         "start_seconds": 16312.7,
         "end_seconds": 16313.0,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Thank you,",
         "confidence": 0.994873046875,
         "editorial_flags": []
@@ -12058,7 +12058,7 @@
         "stable_id": "S01358",
         "start_seconds": 16317.58,
         "end_seconds": 16318.02,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Manifestation,",
         "confidence": 0.7591705322265625,
         "editorial_flags": []

@@ -1,0 +1,434 @@
+{
+  "session_id": 36,
+  "revision_id": 111,
+  "state": "approved",
+  "scope": "Amounts read by the BIR witness at the October 8, 2026 hearing.",
+  "rows": [
+    {
+      "id": "bir-spouses-net-2007-2025",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte and Atty. Manases R. Carpio (joint records)",
+      "period": "2007–2025",
+      "currency": "PHP",
+      "amount": "85,343,803.23",
+      "measure": "Combined net income after expenses and tax",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00346",
+          "start_seconds": 21440.49
+        },
+        {
+          "segment_id": "S00348",
+          "start_seconds": 21469.94
+        },
+        {
+          "segment_id": "S00353",
+          "start_seconds": 21515.01
+        },
+        {
+          "segment_id": "S00355",
+          "start_seconds": 21530.85
+        },
+        {
+          "segment_id": "S00359",
+          "start_seconds": 21566.28
+        }
+      ],
+      "summary": "Combined amount for both spouses over 2007-2025."
+    },
+    {
+      "id": "bir-spouses-cash-2022",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte and Atty. Manases R. Carpio (joint records)",
+      "period": "December 31, 2022",
+      "currency": "PHP",
+      "amount": "21,234,980",
+      "measure": "Cash on hand and in banks",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00409",
+          "start_seconds": 22127.62
+        },
+        {
+          "segment_id": "S00410",
+          "start_seconds": 22137.47
+        },
+        {
+          "segment_id": "S00460",
+          "start_seconds": 22490.87
+        },
+        {
+          "segment_id": "S00461",
+          "start_seconds": 22496.03
+        },
+        {
+          "segment_id": "S00463",
+          "start_seconds": 22500.89
+        },
+        {
+          "segment_id": "S00463B",
+          "start_seconds": 22505.03
+        }
+      ],
+      "summary": "Joint year-end cash balance."
+    },
+    {
+      "id": "bir-spouses-cash-2023",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte and Atty. Manases R. Carpio (joint records)",
+      "period": "December 31, 2023",
+      "currency": "PHP",
+      "amount": "28,971,725",
+      "measure": "Cash on hand and in banks",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00411",
+          "start_seconds": 22152.74
+        },
+        {
+          "segment_id": "S00412",
+          "start_seconds": 22161.24
+        },
+        {
+          "segment_id": "S00460",
+          "start_seconds": 22490.87
+        },
+        {
+          "segment_id": "S00461",
+          "start_seconds": 22496.03
+        },
+        {
+          "segment_id": "S00463",
+          "start_seconds": 22500.89
+        },
+        {
+          "segment_id": "S00463B",
+          "start_seconds": 22505.03
+        }
+      ],
+      "summary": "Joint year-end cash balance."
+    },
+    {
+      "id": "bir-spouses-cash-2024",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte and Atty. Manases R. Carpio (joint records)",
+      "period": "December 31, 2024",
+      "currency": "PHP",
+      "amount": "15,525,209",
+      "measure": "Cash on hand and in banks",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00418",
+          "start_seconds": 22210.62
+        },
+        {
+          "segment_id": "S00419",
+          "start_seconds": 22218.51
+        },
+        {
+          "segment_id": "S00460",
+          "start_seconds": 22490.87
+        },
+        {
+          "segment_id": "S00461",
+          "start_seconds": 22496.03
+        },
+        {
+          "segment_id": "S00463",
+          "start_seconds": 22500.89
+        },
+        {
+          "segment_id": "S00463B",
+          "start_seconds": 22505.03
+        }
+      ],
+      "summary": "Joint year-end cash balance."
+    },
+    {
+      "id": "bir-spouses-cash-2025",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte and Atty. Manases R. Carpio (joint records)",
+      "period": "December 31, 2025",
+      "currency": "PHP",
+      "amount": "13,804,540",
+      "measure": "Cash on hand and in banks",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00420",
+          "start_seconds": 22232.37
+        },
+        {
+          "segment_id": "S00422",
+          "start_seconds": 22239.5
+        },
+        {
+          "segment_id": "S00423",
+          "start_seconds": 22247.86
+        },
+        {
+          "segment_id": "S00460",
+          "start_seconds": 22490.87
+        },
+        {
+          "segment_id": "S00461",
+          "start_seconds": 22496.03
+        },
+        {
+          "segment_id": "S00463",
+          "start_seconds": 22500.89
+        },
+        {
+          "segment_id": "S00463B",
+          "start_seconds": 22505.03
+        }
+      ],
+      "summary": "Joint year-end cash balance."
+    },
+    {
+      "id": "bir-spouses-other-income-2024",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte and Atty. Manases R. Carpio (joint records)",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "1,058,021",
+      "measure": "Other income",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00447B2",
+          "start_seconds": 22408.51
+        },
+        {
+          "segment_id": "S00448",
+          "start_seconds": 22416.02
+        },
+        {
+          "segment_id": "S00449",
+          "start_seconds": 22423.78
+        },
+        {
+          "segment_id": "S00449B",
+          "start_seconds": 22430.18
+        },
+        {
+          "segment_id": "S00460",
+          "start_seconds": 22490.87
+        },
+        {
+          "segment_id": "S00461",
+          "start_seconds": 22496.03
+        },
+        {
+          "segment_id": "S00463",
+          "start_seconds": 22500.89
+        },
+        {
+          "segment_id": "S00463B",
+          "start_seconds": 22505.03
+        }
+      ],
+      "summary": "Other income in the joint financial statements; source not identified in the statements."
+    },
+    {
+      "id": "bir-spouses-other-income-2025",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte and Atty. Manases R. Carpio (joint records)",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "1,082,800",
+      "measure": "Other income",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00444",
+          "start_seconds": 22377.42
+        },
+        {
+          "segment_id": "S00445",
+          "start_seconds": 22387.62
+        },
+        {
+          "segment_id": "S00446",
+          "start_seconds": 22394.53
+        },
+        {
+          "segment_id": "S00449",
+          "start_seconds": 22423.78
+        },
+        {
+          "segment_id": "S00449B",
+          "start_seconds": 22430.18
+        },
+        {
+          "segment_id": "S00460",
+          "start_seconds": 22490.87
+        },
+        {
+          "segment_id": "S00461",
+          "start_seconds": 22496.03
+        },
+        {
+          "segment_id": "S00463",
+          "start_seconds": 22500.89
+        },
+        {
+          "segment_id": "S00463B",
+          "start_seconds": 22505.03
+        }
+      ],
+      "summary": "Other income in the joint financial statements; source not identified in the statements."
+    },
+    {
+      "id": "bir-sara-gross-compensation-2021",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte",
+      "period": "2021",
+      "currency": "PHP",
+      "amount": "2,361,252",
+      "measure": "Gross compensation income",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00594B",
+          "start_seconds": 23354.9
+        },
+        {
+          "segment_id": "S00596",
+          "start_seconds": 23382.09
+        },
+        {
+          "segment_id": "S00597",
+          "start_seconds": 23390.78
+        },
+        {
+          "segment_id": "S00598",
+          "start_seconds": 23399.0
+        },
+        {
+          "segment_id": "S00599",
+          "start_seconds": 23406.41
+        }
+      ],
+      "summary": "Individual compensation-income entry for 2021."
+    },
+    {
+      "id": "bir-sara-receipts-2017",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte",
+      "period": "2017",
+      "currency": "PHP",
+      "amount": "3,188,776",
+      "measure": "Net sales / revenues / receipts / fees",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00665",
+          "start_seconds": 24007.94
+        },
+        {
+          "segment_id": "S00666",
+          "start_seconds": 24023.65
+        },
+        {
+          "segment_id": "S00667",
+          "start_seconds": 24028.07
+        },
+        {
+          "segment_id": "S00668",
+          "start_seconds": 24044.23
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "bir-sara-receipts-2018",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte",
+      "period": "2018",
+      "currency": "PHP",
+      "amount": "1,876,417",
+      "measure": "Sales / revenues / receipts / fees",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00670",
+          "start_seconds": 24065.4
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "bir-sara-receipts-2019",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte",
+      "period": "2019",
+      "currency": "PHP",
+      "amount": "4,051,000",
+      "measure": "Sales / revenues / receipts / fees",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00671",
+          "start_seconds": 24077.21
+        },
+        {
+          "segment_id": "S00672",
+          "start_seconds": 24086.67
+        }
+      ],
+      "summary": ""
+    },
+    {
+      "id": "bir-sara-receipts-2021",
+      "institution": "Bureau of Internal Revenue",
+      "owner": "Vice President Sara Duterte",
+      "period": "2021",
+      "currency": "PHP",
+      "amount": "4,650,000",
+      "measure": "Sales / revenues / receipts / fees",
+      "asserted_by": "Atty. Anne Loraine Garcia-Marquez",
+      "status": "BIR-record testimony",
+      "citations": [
+        {
+          "segment_id": "S00600",
+          "start_seconds": 23417.87
+        },
+        {
+          "segment_id": "S00601",
+          "start_seconds": 23427.32
+        },
+        {
+          "segment_id": "S00602",
+          "start_seconds": 23435.42
+        },
+        {
+          "segment_id": "S00603",
+          "start_seconds": 23453.48
+        },
+        {
+          "segment_id": "S00613",
+          "start_seconds": 23563.41
+        }
+      ],
+      "summary": ""
+    }
+  ],
+  "hearing_description": "On October 8, 2026, the prosecution called Atty. Anne Loraine Garcia-Marquez, chief of staff to the BIR commissioner, to testify about tax records and summaries for Vice President Sara Duterte, Atty. Manases R. Carpio and identified businesses. She read the spouses' combined income for 2007-2025, joint cash balances and other-income entries, and individual compensation and revenue entries from Sara Duterte's earlier returns.",
+  "table_sha256": "d3f7ac4dbaf6c1bda4790c1b2628499a3064d087a23d401c9c7905cbb2468e27"
+}

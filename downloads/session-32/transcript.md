@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=IdixNI0wjqk
-Status: Reviewed working draft, revision 2
+Status: Reviewed working draft, revision 3
 
 **[00:02:23.310] Atty. Renato N. Bantug Jr.**  
 The Senate President, the Presiding Officer, and Senator-Judges of the Impeachment Court.
@@ -20,13 +20,13 @@ All persons are commanded to keep silent under pain of penalty while the Impeach
 **[00:03:33.330] Sen. Sherwin T. Gatchalian**  
 The impeachment trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator-Judge Kiko Pangilinan.
 
-**[00:03:47.050] Sen. Francis Pangilinan**  
+**[00:03:47.050] Sen. Francis “Kiko” Pangilinan**  
 Ilagay natin ang ating mga sarili sa harap ng Panginoon. Ngayong tatlumpu?t pangalawang araw ng impeachment trial, naway maging gabay nating lahat ang salita ng Diyos mula sa Proverbs 18:5. Hindi mabuting magpakita ng pagkiling sa masama o ipagkait ang katarungan sa matuwid. It is not good to be partial to the wicked and so deprive the innocent of justice. Panginoon Diyos ng katarungan, katotohanan, at katapatan, dalangin namin ang kalinawan ng isip at katatagan ng paninindigan. Tulungan niyo po kaming maging patas ang aming mga pagsusuri sa bawat ebidensya at testigong inihaharap sa impeachment court na ito. Naway maging gabay din ng lahat ang Proverbs 12:22 Namumuhi si Yahweh sa mga taong sinungaling, ngunit ang tapat ay ligaya niya at aliw. The Lord detests lying lips, but He delights in people who are trustworthy. Kalugdan mo o Diyos ang aming inang bayang Pilipinas na uhaw sa katotohanan, katarungan, pananagutan. Look with favor O God, upon our motherland,
 
-**[00:05:14.940] Sen. Francis Pangilinan**  
+**[00:05:14.940] Sen. Francis “Kiko” Pangilinan**  
 the
 
-**[00:05:15.690] Sen. Francis Pangilinan**  
+**[00:05:15.690] Sen. Francis “Kiko” Pangilinan**  
 Philippines, a nation that thirsts for truth and justice. Amen.
 
 **[00:05:22.000] Sen. Sherwin T. Gatchalian**  
@@ -3686,7 +3686,7 @@ Decisions from their comments to the offer to whether or not they will object to
 **[05:22:12.330] Sen. Risa Hontiveros**  
 Salamat po, Mr. Presiding Officer. Regardless po kung iyong mga pananalita ay galing sa prosecution o sa defense at bago po mag-ruling ang Presiding Officer para sa impeachment court, kailangan ko lang po sabihin ng representasyong ito, Mr. Presiding Officer, nasa isyong tinatalakay at importanteng i-gawin ito of record. para sa mga susunod na trial days na haharapin natin o di kaya para sa mga susunod na posibleng impeachment trial sa mga susunod na taon. Wala pong sinasabing absolute confidentiality na nagdatali sa kamay ng isang impeachment court sa usaping ito na tinatalakay natin sa ngayon. For the record po, Mr. Presiding Officer, yung confidentiality requirement para sa AMLAC officials sa mismong Anti-Money Laundering Act ay prohibition sa indiscriminate o voluntaryong pag-leak ng impormasyon. Hindi po yan prohibition sa compliance sa sabina issued ng isang proper court. Kasama na po ang isang impeachment court. Hindi po ito prohibition sa compliance o hindi po ito prohibition sa lawful disclosure ng impormasyon sa mga law enforcement agencies. Kasi po ang isang absolute reading ay magiging na pong Kabulastugan dahil hindi na po magagawa ng AMLOC ang mismong trabaho niya kung bakit siya nilikha ng ating batas. And in this case po, Mr. Presiding Officer, mukha namang willing mag-testigo ang AMLOC official. Ano pa man po ang maging ruling po ng Korte sa pamamagitan ng ating Presiding Officer kung itutuloy po niya ngayong hapon. or Bukas pa kaya. At magpatuloy ang trial na ito sa mga usapin ng records ng mga bangko sa susunod na linggo. Kinailangan lang po nitong representasyon bilang miyembro ng impeachment court na ito. Going of record po itong mga... Itong mga puntong ito. As I mentioned earlier, Mr. Presiding Officer, hindi lang para sa kasalukuyang trial, pero sa mga susunod pa kung sa kasagali, kung kailan ang mga impeachment courts na iyon ay maaaring mga ilangan tawagin ang AMLOC or rather... Either side, prosecution or defense, tawagin ang mga opisyal ng AMLAC bilang mga testigo, Mr. Presiding Officer. Salamat po, Mr. Presiding Officer.
 
-**[05:25:13.880] Sen. Francis Pangilinan**  
+**[05:25:13.880] Sen. Francis “Kiko” Pangilinan**  
 Thank you very much, Mr. Presiding Officer. Just very briefly, I share the concern of some of our colleagues regarding the matter having been resolved by way of oral arguments in July. and as such therefore there should be no reason why we should go back reiterate or return to the debate but I also recognize that that this is a one day trial delay in other words I think the prosecution is asking for Monday so So, hindi naman nila hininging Tuesday, Wednesday, or Thursday. So, if we're going to miss one day to be able to process this and have both panels prepare, I would go by allowing for that one day, one trial day delay. I think it's reasonable in that regard. For the record, Mr. President.
 
 **[05:26:18.900] Rep. Jose Manuel “Chel” I. Diokno**  

@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=NlxgbDnIIoQ
-Status: Reviewed working draft, revision 4
+Status: Reviewed working draft, revision 5
 
 **[00:17:51.780] Sen. Sherwin T. Gatchalian**  
 The sergeant at arms is directed to make a proclamation.
@@ -1628,10 +1628,10 @@ up before that
 **[04:50:32.890] Sen. Francis "Chiz" G. Escudero**  
 time.
 
-**[04:51:03.660] Sen. Francis Pangilinan**  
+**[04:51:03.660] Sen. Francis “Kiko” Pangilinan**  
 Just one question, Chief Justice Art, Chief Justice Rene, Justice Adolfo. There have been some commentary that the threshold vote, changing the rules, and therefore the due process. Requirement of the respondent and actually even the prosecution. When you change the rules in the middle of the proceedings, maapektuhan yung due process clause kasi dapat hindi binabago habang nagkakaroon ng paglilitis. Would you care to comment?
 
-**[04:52:05.610] Sen. Francis Pangilinan**  
+**[04:52:05.610] Sen. Francis “Kiko” Pangilinan**  
 Totoo ba pag halimbawa pinagbotohan yung unang ruling baguhin yung unang ruling ng ating presiding officer ay meron ng paglabag sa due process ng nasasakdal o yung responded?
 
 **[04:52:23.160] Chief Justice Artemio V. Panganiban**  
@@ -1646,16 +1646,16 @@ Teacher ka lang. Hindi ka naman abogado. Hindi po pwede sapagkat all of us, citi
 **[04:54:24.710] Chief Justice Artemio V. Panganiban**  
 And by the way, I mean, Senator, you called me CJ Art, so I may be able to call you Senator Kiko.
 
-**[04:54:33.850] Sen. Francis Pangilinan**  
+**[04:54:33.850] Sen. Francis “Kiko” Pangilinan**  
 Yes, yes, Chief.
 
 **[04:54:35.330] Chief Justice Artemio V. Panganiban**  
 Well, I've seen you in action. When I was incumbent Chief Justice and Chairman of the JBC, you were representing the Senate in the JBC. And I must say, without any qualms about, that you have been an excellent member of the JBC in representing the Senate. And I think that you should have been in the Court. As a matter of fact.
 
-**[04:54:57.090] Sen. Francis Pangilinan**  
+**[04:54:57.090] Sen. Francis “Kiko” Pangilinan**  
 Salamat po. Maraming salamat po. Thank you for your kind words. Senator, ah, Senator Tuloy.
 
-**[04:55:06.680] Sen. Francis Pangilinan**  
+**[04:55:06.680] Sen. Francis “Kiko” Pangilinan**  
 Senator Rene Puno. The same question, if I may be allowed. The question actually is on the issue of the threshold because our presiding officer has ruled that it is 16. Now, if we reconsider that ruling and decide as a court that it is lower than 16 or if we decide that it is 16, walang problema. In other words, there were no changes. But if we decide it's lower, I go back to that question. Isn't that a denial of the respondent's right to due process that the rule was changed in the middle of the proceeding?
 
 **[04:55:56.370] Chief Justice Reynato S. Puno**  
@@ -1685,7 +1685,7 @@ Number two, of course, at this point, there is no way of raising this particular
 **[04:57:29.630] Chief Justice Reynato S. Puno**  
 Merong requirement po doon na ripeness of the issue.
 
-**[04:57:36.690] Sen. Francis Pangilinan**  
+**[04:57:36.690] Sen. Francis “Kiko” Pangilinan**  
 Ay
 
 **[04:57:37.490] Chief Justice Reynato S. Puno**  
@@ -1700,13 +1700,13 @@ Paano mong i-demonstrate yung injury na yun? Kung wala pang final interpretation
 **[04:58:26.730] Chief Justice Reynato S. Puno**  
 Baka yung bago nga interpretation ay makinabag pa yung magre-raise nung constitutional issue na yun. Kanya palagay ko po hindi tatagapin ng Korte Suprema itong issue na ito sa panahon ito. It's a matter of perfect timing.
 
-**[04:58:57.790] Sen. Francis Pangilinan**  
+**[04:58:57.790] Sen. Francis “Kiko” Pangilinan**  
 Chief Justice. Would Justice Adolf be willing to... I
 
 **[04:59:04.260] Justice Adolfo S. Azcuna**  
 fully concur with my colleagues, Your Honor, because the question of the interpretation of the two-thirds is a procedural matter. And procedural matters can be retroactive. There is no vested right to a procedure. So the rule is, if it is procedural, it can be applied to pending cases. So even if the trial has already started, you are midway through the trial, and you change the interpretation of the presiding officer, I think there is no violation of due process. There is no vested right that has been violated because all these matters are procedural. Thank you.
 
-**[05:00:00.000] Sen. Francis Pangilinan**  
+**[05:00:00.000] Sen. Francis “Kiko” Pangilinan**  
 eminent jurists and maraming salamat sa oras ninyo. Malaking bagay po. Minomonitor din po natin sa social media. Marami po nakikinig sa inyong mga at maraming nagiging tagahanga ninyo. Baka sakali dahil dito sa ano na ito eh, baka maging senator ang ilan sa inyo. Liro lang po. Maraming salamat po. Salamat.
 
 **[05:00:26.420] Sen. Francis "Chiz" G. Escudero**  

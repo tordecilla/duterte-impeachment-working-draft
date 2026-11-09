@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=zyRATfNfnD4
-Status: Reviewed working draft, revision 2
+Status: Reviewed working draft, revision 3
 
 **[00:05:25.390] Sen. Sherwin T. Gatchalian**  
 The sergeant at arms is directed to make a proclamation.
@@ -1349,16 +1349,16 @@ My desire that we conduct our trial in a manner that would leave the least amoun
 **[03:13:03.560] Sen. Francis "Chiz" G. Escudero**  
 The manifestation of Senator-Judge Pia Caetano. It's noted. Senator-Judge Pangilinan, what is your pleasure, sir?
 
-**[03:13:13.120] Sen. Francis Pangilinan**  
+**[03:13:13.120] Sen. Francis “Kiko” Pangilinan**  
 Thank you, Mr.
 
-**[03:13:14.300] Sen. Francis Pangilinan**  
+**[03:13:14.300] Sen. Francis “Kiko” Pangilinan**  
 Presiding Officer. Just a quick manifestation, Mr. President, on this matter, on this issue at hand. Mr. President, for the record, this representation was one of the two primary sponsors of the Anti-Money Laundry Act in 2001.
 
-**[03:13:34.020] Sen. Francis Pangilinan**  
+**[03:13:34.020] Sen. Francis “Kiko” Pangilinan**  
 Senator Ramon Magsaysay, as chairman of the Committee on Banks and Financial Institutions, defended the measure with respect to the financial institutions and the banking community and the concerns raised. This representation, Mr. President, as chairman of the then chairman of the Committee on Justice and Human Rights, we focused on defending the measure in terms of harmonizing various laws. And in this case, as correctly earlier pointed out, the Bank Secrecy Act and the proposed measure, the Anti-Money Laundering Law, we needed to harmonize both. And as for legislative intent, Mr. President, Republic versus Sandigan Bayan, the Supreme Court ruling is correct that the intention of legislation then when we defended this measure in 2001 was for the absolute prohibition or the confidentiality rather was for the covered institutions and not for the AMLA. At least that was what the minutes of the debates would
 
-**[03:14:50.330] Sen. Francis Pangilinan**  
+**[03:14:50.330] Sen. Francis “Kiko” Pangilinan**  
 clearly spell out. And so, Mr. President, if I may add, it would be absurd that a private bank in an impeachment case, trial, can be compelled to divulge bank records while the AMLA, which is the government entity that is supposed to address issues of criminal activity and money laundering, cannot. Be compelled to present AMLA transactions and records. So, Mr. President, with respect to legislative intent, with respect to the ruling of the Supreme Court on Republic versus Sandigan Bayan, maliwanag, Mr. President, that the ruling of the Chair is foursquare behind jurisprudence and the law, Mr. President.
 
 **[03:15:48.250] Sen. Francis "Chiz" G. Escudero**  
@@ -3428,22 +3428,22 @@ This is just an official Marites report in the end.
 **[05:42:28.870] Sen. Francis "Chiz" G. Escudero**  
 Your Honor, personally, I do not disagree with you on that point. This was an eye-opener too for this representation. But as you said, this is a proper subject matter for the exercise of the Senate's oversight function as to how the law is being implemented or interpreted by covert institutions. To be fair to the MLC, they simply received this report from a covert institution. As earlier asked by the Chair, this did not come from them. They are merely mirroring the report submitted to them by a covered institution. And that covered institutions at times do submit it based on available information. whether from news or media reports or other information. Dahil sabi nga niya, suspicious dapat from the point of view of the covert institution. Again, I will join the good gentleman at the proper time in the exercise of the Senate's oversight function, perhaps, to make sure that this is not abused or in any way used outside of the intent of Congress. Senator-Judge Pangalina is recognized.
 
-**[05:43:35.730] Sen. Francis Pangilinan**  
+**[05:43:35.730] Sen. Francis “Kiko” Pangilinan**  
 Yes, thank you, Mr. Presiding Officer. And just to add to the point raised by the Presiding Officer, precisely, it was the banks that submitted that suspicious transaction report.
 
-**[05:43:49.310] Sen. Francis Pangilinan**  
+**[05:43:49.310] Sen. Francis “Kiko” Pangilinan**  
 They
 
-**[05:43:49.950] Sen. Francis Pangilinan**  
+**[05:43:49.950] Sen. Francis “Kiko” Pangilinan**  
 worded the basis of their suspicion. And
 
-**[05:43:56.970] Sen. Francis Pangilinan**  
+**[05:43:56.970] Sen. Francis “Kiko” Pangilinan**  
 I
 
-**[05:43:58.170] Sen. Francis Pangilinan**  
+**[05:43:58.170] Sen. Francis “Kiko” Pangilinan**  
 would give the banks the benefit of the doubt. I don't know. How much exactly are the amounts involved in such bank accounts? For all we know, well, we don't know, but the banks know. And therefore, they know, based on the amounts that are in the accounts, whether it does appear suspicious or not. So I will give the banks the benefit of the doubt. These are our banks, our financial institutions are responsible.
 
-**[05:44:46.290] Sen. Francis Pangilinan**  
+**[05:44:46.290] Sen. Francis “Kiko” Pangilinan**  
 I will give them the benefit of the doubt, Mr. President.
 
 **[05:44:57.770] Sen. Francis "Chiz" G. Escudero**  
@@ -7673,7 +7673,7 @@ Attorney Sheila is recognized. Senator Prior to Atty. Sheila, with their indulge
 **[08:42:38.990] Sen. Francis "Chiz" G. Escudero**  
 recognized.
 
-**[08:42:39.690] Sen. Francis Pangilinan**  
+**[08:42:39.690] Sen. Francis “Kiko” Pangilinan**  
 Yes, I'd just like a follow-up question on the earlier question raised by Senator Lacson because I recall the witness has not had lunch. And so, yes, he says he's okay. But I'd like to know if he can proceed with, you know, continuing with the cross-examination as well as the Questions from the Senator-Judges or would you like to likewise have a break or a few minutes?
 
 **[08:43:11.160] AMLC Executive Director Atty. Ronel U. Buenaventura**  
@@ -7682,13 +7682,13 @@ I can
 **[08:43:11.740] AMLC Executive Director Atty. Ronel U. Buenaventura**  
 proceed po, Your Honor.
 
-**[08:43:13.000] Sen. Francis Pangilinan**  
+**[08:43:13.000] Sen. Francis “Kiko” Pangilinan**  
 Are you sure?
 
 **[08:43:13.620] AMLC Executive Director Atty. Ronel U. Buenaventura**  
 Yes, Your Honor.
 
-**[08:43:14.280] Sen. Francis Pangilinan**  
+**[08:43:14.280] Sen. Francis “Kiko” Pangilinan**  
 We don't want to undermine or compromise your health?
 
 **[08:43:16.940] AMLC Executive Director Atty. Ronel U. Buenaventura**  
@@ -7697,7 +7697,7 @@ Yes, Your Honor. We understand. Thank
 **[08:43:18.640] AMLC Executive Director Atty. Ronel U. Buenaventura**  
 you po for the concern.
 
-**[08:43:19.300] Sen. Francis Pangilinan**  
+**[08:43:19.300] Sen. Francis “Kiko” Pangilinan**  
 Maybe we can give him a banana or something para may energy siya but it's up to him, Mr. Presiding Officer.
 
 **[08:43:27.760] Sen. Francis "Chiz" G. Escudero**  
@@ -7772,19 +7772,19 @@ No further matters, Your Honor.
 **[09:02:06.620] Sen. Francis "Chiz" G. Escudero**  
 Senator-Judge Kiko, Pangilinan is recognized.
 
-**[09:02:11.780] Sen. Francis Pangilinan**  
+**[09:02:11.780] Sen. Francis “Kiko” Pangilinan**  
 Yes, Mr. Presiding Officer. Just a quick manifestation. Earlier, the Defense counsel was raising the issue of criminal liability as to disclosure.
 
-**[09:02:24.070] Sen. Francis Pangilinan**  
+**[09:02:24.070] Sen. Francis “Kiko” Pangilinan**  
 of AMLA records. The witness has already said that it is his view that his disclosure is authorized because of the subpoena.
 
-**[09:02:37.360] Sen. Francis Pangilinan**  
+**[09:02:37.360] Sen. Francis “Kiko” Pangilinan**  
 The defense counsel likewise mentioned or raised issues about the house prosecution and the disclosure of AMLA records in the house, again raising issues of criminal liability.
 
-**[09:02:56.120] Sen. Francis Pangilinan**  
+**[09:02:56.120] Sen. Francis “Kiko” Pangilinan**  
 It leads us to think that maybe in the cross-examination, I don't know. The defense counsel will raise the issue of the possible criminal liability of the senator-judges. I don't know. It's a matter of concern. And I just want that placed on record. We have the Senate presiding officer has ruled. If the defense wishes to raise this issue, bring it. To the Supreme Court, perhaps. But raising the issue of possible criminal liability for authorized disclosure in this impeachment court, I believe, is
 
-**[09:03:41.420] Sen. Francis Pangilinan**  
+**[09:03:41.420] Sen. Francis “Kiko” Pangilinan**  
 uncalled for.
 
 **[09:03:42.120] Sen. Francis "Chiz" G. Escudero**  

@@ -3,7 +3,7 @@
 Impeachment Trial of Vice President Sara Duterte
 
 Source: https://www.youtube.com/watch?v=ayMab1u4Pzo
-Status: Reviewed working draft, revision 2
+Status: Reviewed working draft, revision 3
 
 **[00:07:12.180] Atty. Renato N. Bantug Jr.**  
 The Senate President, the Presiding Officer, and Senator-Judges
@@ -3959,31 +3959,31 @@ Thank you, Mr. Presiding Officer. Maayong hapon mayor.
 **[04:00:02.750] Mayor Sebastian “Baste” Z. Duterte**  
 Maayong hapon, Your Honor.
 
-**[04:00:06.660] Sen. Francis Pangilinan**  
+**[04:00:06.660] Sen. Francis “Kiko” Pangilinan**  
 Kanina nabanggit po ninyo na you have to check kung yung five years operational requirement ay minodify ba yung requirement. Kasi kung minodify at iniklian, most likely hindi na required yung five years.
 
-**[04:00:32.060] Sen. Francis Pangilinan**  
+**[04:00:32.060] Sen. Francis “Kiko” Pangilinan**  
 Pero
 
-**[04:00:32.620] Sen. Francis Pangilinan**  
+**[04:00:32.620] Sen. Francis “Kiko” Pangilinan**  
 hindi natin alam kung na-modify ba o hindi. So hindi rin natin alam kung may violation o hindi. At least based on the testimony. Doon sa usapin ng isa pang requirement, yung the supplier bidder must have at least five store outlets in Davao City. Ang tanong ko, yung gen, would you know? If you know. Yung Gencor ba? May five store outlets?
 
 **[04:01:03.710] Mayor Sebastian “Baste” Z. Duterte**  
 I do not know.
 
-**[04:01:05.320] Sen. Francis Pangilinan**  
+**[04:01:05.320] Sen. Francis “Kiko” Pangilinan**  
 You would not know, no?
 
-**[04:01:06.330] Sen. Francis Pangilinan**  
+**[04:01:06.330] Sen. Francis “Kiko” Pangilinan**  
 So
 
-**[04:01:06.730] Sen. Francis Pangilinan**  
+**[04:01:06.730] Sen. Francis “Kiko” Pangilinan**  
 you also would not know kung mga franchise ng Jollibee o ng Chowking ang mag-supply, if at all, no? Nung requirements nung city. Your Honor, we can go back to Davao City and provide you with everything. So we can check that. Yes, we
 
 **[04:01:28.540] Mayor Sebastian “Baste” Z. Duterte**  
 can check that.
 
-**[04:01:29.260] Sen. Francis Pangilinan**  
+**[04:01:29.260] Sen. Francis “Kiko” Pangilinan**  
 If they have five store outlets, ano yung mga outlets na yun? At ano yung sinupply na pagkain? Kasi yun nga, merong food catering services, May 15, food catering services, December 2. Food Catering Services, August 8. Then we will find out kung compliant din ba sila number one dun sa they have five stores. Maybe it's also interesting to know ano yung five stores na ito ng GenCorp. But of course, because nga nabanggit nyo, hindi rin nyo alam ngayon yung detaily na ito. But thank you for your Being candid, Mayor, and salamat.
 
 **[04:02:22.220] Mayor Sebastian “Baste” Z. Duterte**  

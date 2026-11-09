@@ -9,7 +9,7 @@
   },
   "transcript": {
     "status": "Reviewed working draft",
-    "revision": 2,
+    "revision": 3,
     "turn_count": 1252,
     "turns": [
       {
@@ -61,7 +61,7 @@
         "stable_id": "S00009",
         "start_seconds": 227.05,
         "end_seconds": 314.84,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Ilagay natin ang ating mga sarili sa harap ng Panginoon. Ngayong tatlumpu?t pangalawang araw ng impeachment trial, naway maging gabay nating lahat ang salita ng Diyos mula sa Proverbs 18:5. Hindi mabuting magpakita ng pagkiling sa masama o ipagkait ang katarungan sa matuwid. It is not good to be partial to the wicked and so deprive the innocent of justice. Panginoon Diyos ng katarungan, katotohanan, at katapatan, dalangin namin ang kalinawan ng isip at katatagan ng paninindigan. Tulungan niyo po kaming maging patas ang aming mga pagsusuri sa bawat ebidensya at testigong inihaharap sa impeachment court na ito. Naway maging gabay din ng lahat ang Proverbs 12:22 Namumuhi si Yahweh sa mga taong sinungaling, ngunit ang tapat ay ligaya niya at aliw. The Lord detests lying lips, but He delights in people who are trustworthy. Kalugdan mo o Diyos ang aming inang bayang Pilipinas na uhaw sa katotohanan, katarungan, pananagutan. Look with favor O God, upon our motherland,",
         "confidence": 0.9597950179137554,
         "editorial_flags": []
@@ -70,7 +70,7 @@
         "stable_id": "S00010",
         "start_seconds": 314.94,
         "end_seconds": 315.66,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "the",
         "confidence": 0.9853515625,
         "editorial_flags": []
@@ -79,7 +79,7 @@
         "stable_id": "S00011",
         "start_seconds": 315.69,
         "end_seconds": 320.37,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Philippines, a nation that thirsts for truth and justice. Amen.",
         "confidence": 0.9941650390625,
         "editorial_flags": [
@@ -11540,7 +11540,7 @@
         "stable_id": "S01192",
         "start_seconds": 19513.88,
         "end_seconds": 19578.02,
-        "speaker": "Sen. Francis Pangilinan",
+        "speaker": "Sen. Francis “Kiko” Pangilinan",
         "text": "Thank you very much, Mr. Presiding Officer. Just very briefly, I share the concern of some of our colleagues regarding the matter having been resolved by way of oral arguments in July. and as such therefore there should be no reason why we should go back reiterate or return to the debate but I also recognize that that this is a one day trial delay in other words I think the prosecution is asking for Monday so So, hindi naman nila hininging Tuesday, Wednesday, or Thursday. So, if we're going to miss one day to be able to process this and have both panels prepare, I would go by allowing for that one day, one trial day delay. I think it's reasonable in that regard. For the record, Mr. President.",
         "confidence": 0.9789403279622396,
         "editorial_flags": [

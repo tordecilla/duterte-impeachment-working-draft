@@ -1,0 +1,4236 @@
+# November 9, 2026
+
+Impeachment Trial of Vice President Sara Duterte
+
+Source: https://www.youtube.com/watch?v=TdzTorwtovI
+Status: Reviewed working draft, revision 2
+
+**[00:04:26.740] Sen. Sherwin T. Gatchalian**  
+The Sergeant at Arms is directed to make a proclamation.
+
+**[00:04:30.930] Alfredo Sotto Corpuz**  
+All persons are commanded to keep silent under pain of penalty while the impeachment court is in session for the trial of Vice President Sara Zimmerman Duterte.
+
+**[00:04:42.680] Sen. Sherwin T. Gatchalian**  
+The impeachment trial of Vice President Sara Zimmerman Duterte is hereby called to order. We shall be led in prayer by Senator Judge Juan Miguel Zubiri.
+
+**[00:04:57.090] Sen. Juan Miguel “Migz” F. Zubiri**  
+In the name of the Father, and the Son, and the Holy Spirit. Amen. Dear Lord, we come to you today with prayers for your grace and mercy for our country and our people. As we carry on with our pursuit of truth and justice, may you remind us always of the wisdom of the book of Ecclesiastes 3.1-8. There is a time for everything and a season for every activity under the heavens, a time to be born and a time to die. A time to plant and a time to harvest. A time to kill and a time to heal. A time to tear down and a time to build. A time to weep and a time to laugh. A time to scatter stones and a time to gather them. A time to embrace and a time to refrain from embracing. A time to search and a time to give up. A time to keep and a time to throw away. A time to tear and a time to mend. A time to be silent and a time to speak. A time to love and a time to hate. A time for war and a time for peace. Lord, let everyone in this room be your instruments in ushering in a time of peace, togetherness, and healing for our beloved nation. Amen.
+
+**[00:06:16.000] Sen. Sherwin T. Gatchalian**  
+The Clerk of Court will now call the roll.
+
+**[00:06:20.760] Atty. Renato N. Bantug Jr.**  
+Roll call of members. Senator-Judge Aquino. Senator-Judge Cayetano, Alan. Senator-Judge Cayetano, Pia. Senator-Judge Dela Rosa. Senator-Judge Ejercito, Senator-Judge Estrada, Senator-Judge Go, Senator-Judge Hontiveros, Senator-Judge Lacson, Senator-Judge Lapid, Senator-Judge Legarda, Senator-Judge Marcoleta, Senator-Judge Marcos, Senator-Judge Padilla, Senator-Judge Pangilinan, Senator-Judge Sotto III, Senator-Judge Tulfo Erwin, Senator-Judge Tulfo Raffy, Senator-Judge Villanueva. Senator-Judge Villar Camille, Senator-Judge Villar Mark, Senator-Judge Zubiri, The Presiding Officer Senator-Judge Escudero, The Senate President Senator-Judge Gatchalian.
+
+**[00:07:03.880] Sen. Sherwin T. Gatchalian**  
+With 14 Senator-Judges present, the Chair declares the presence of a quorum. In accordance with the Rules of Procedure on Impeachment Trials, the Chair now recognizes the duly elected Presiding Officer to preside over the proceedings of the Impeachment Court.
+
+**[00:07:18.180] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Mr. Senate President. If there are no objections, we shall dispense with the reading of the journal, journal number 37, for October 12 and October 13 of the Senate, sitting as an impeachment court, and shall consider the same as approved.
+
+**[00:07:35.760] Sen. Francis "Chiz" G. Escudero**  
+The Clerk of Court will please call the case before the impeachment court.
+
+**[00:07:39.120] Atty. Renato N. Bantug Jr.**  
+Case number 004-2026, in the matter of impeachment trial, Vice President Sara Zimmerman Duterte.
+
+**[00:07:46.370] Sen. Francis "Chiz" G. Escudero**  
+Before asking for the appearances of the parties, the Presiding Officer would like to make some remarks. In order to update the senator judges, the parties, and the public with respect to what happened in the course of the recess.
+
+**[00:08:01.540] Sen. Francis "Chiz" G. Escudero**  
+The chair deems it necessary to place on record certain developments that have transpired since the adjournment of the proceedings on October 13, 2026. In particular, the chair would like to take this opportunity to appraise the parties of the pleadings and submissions received as well as the corresponding orders issued during the recess. This is intended to place relevant documents on the record. and provide proper context for the continuation of today's proceedings. First, reconsideration of the ruling on the application of Rule 18. Following the decision of the prosecution to withdraw Articles 1, 2, and 4 of the Articles of Impeachment, the Chair stated that the subjudicial principle under Rule 18 of the Rules of Procedure on Impeachment Trials shall no longer apply to the withdrawn articles. After Council for Respondent through Attorney Sison registered its objection to the abandonment of Rule 18, Senator Judge Pangilinan, Move for reconsideration or appeal of the chair's ruling and the body. Authorize the presiding officer to rule on the reconsideration or appeal during the recess. In view of the respondents, November 4, 2026 manifestation, on her non-waiver of Rule 18. The court acting on the appeal of Senator Judge Pangilinan issued an order dated November 5, 2026, resolving the subjudice principle under Rule 18 of the Rules of Procedure on Impeachment Trials shall continue to apply with equal force to all articles of impeachment, whether withdrawn or pending adjudication. And reiterating the August 26, 2026 ruling of the court enjoining all covered persons to refrain from issuing public statements or commentaries in violation of section of rule 18 rather. Second, order the prosecution's formal offer of evidence. In compliance with the court's directive, the prosecution filed its formal offer of evidence on October 20, 2026 and the respondent filed their comment on October 30, 2026. The court resolved the formal offer in its November 5, 2026 order, copies of which were furnished to the panel of prosecutors and counsel for respondent, as well as the senator judges. Accordingly, the prosecution is deemed to have rested its evidence-in-chief on Article 2.
+
+**[00:10:13.760] Sen. Francis "Chiz" G. Escudero**  
+Next, respondent's manifestation regarding its witnesses. The court has also received the respondents' manifestations dated November 4 and 5, 2026. The November 4 manifestation lists 24 witnesses for the November 9 to 13, 2026 hearings and requests subpoenas for them. The November 5 manifestation withdraws Dean Ralph A. Sarmiento as a witness and requests the recall of the subpoena issued for him. On Dean Sarmiento, the November 5 manifestation is noted. The court clarifies that no subpoena has yet been issued to Dean Sarmiento and thus no withdrawal is necessary. On other witnesses, the respondent by counsel filed a manifestation on November 6, 2026 stating that one of its witnesses, Attorney Suzette Balucanagpunay, who was subpoenaed to appear as its first witness, will undergo MRI examination on November 9 and will thus not be able to appear as scheduled. The respondent does request that her presentation be reset to November 10 and to proceed with the succeeding witnesses. The prosecution filed a comment on respondent's manifestation with request for subpoena dosis tecum on November 6, 2026. The court is in receipt. of the Council for Respondents' Latest Manifestation dated November 7, 2026, listing the intended names of witnesses to be presented from November 9 to 13 and the respective purposes for their testimonies. Accordingly, the court, number 1, grants the respondent's request in her manifestation dated November 6 on witness Suzette Punay that she may appear on November 10. Number 2, notes the November 6 comment of the prosecution and the manifestation. 3. Notes the respondents of the November 7, 2026 Manifestation reiterating her request through counsel for the issuance of subpoenas at the Certificandum Induces Tecum to witnesses Attorney Anel S. Antero, Mr. Chadrin Parian, and Bimar M. Barceliano who are scheduled for presentation on November 9-13 for purposes stated in the Manifestation. Subpoenas will accordingly be issued by the Court today. Finally, On the reclassification of access to exhibits, the presiding officer on November 6, 2026 issued an order governing the classification of exhibits attached to the prosecution's formal offer of evidence and corollary manner and extent of access to it. A copy of the order was furnished to the parties and the senator judges accordingly.
+
+**[00:12:51.700] Sen. Francis "Chiz" G. Escudero**  
+I think that's all by way of update with respect to what happened during the recess. Appearances of the parties?
+
+**[00:12:59.470] Rep. Terry L. Ridon**  
+Good morning, Your Honors. The prosecution is ready.
+
+**[00:13:02.550] Sen. Francis "Chiz" G. Escudero**  
+Good morning, Honorable Ridon.
+
+**[00:13:05.890] Atty. Sheila C. Sison**  
+Good morning, Your Honor. Same appearance for the respondent of case.
+
+**[00:13:09.630] Sen. Francis "Chiz" G. Escudero**  
+And good morning to you too as well, Attorney Sheila.
+
+**[00:13:11.930] Atty. Sheila C. Sison**  
+Good morning, Your Honor.
+
+**[00:13:12.950] Sen. Francis "Chiz" G. Escudero**  
+Are you ready to present your first witness, Attorney Sheila?
+
+**[00:13:15.590] Atty. Sheila C. Sison**  
+Yes, Your Honor. We are ready.
+
+**[00:13:17.670] Sen. Francis "Chiz" G. Escudero**  
+Kindly call your first witness.
+
+**[00:13:20.450] Atty. Sheila C. Sison**  
+At this point, I'll turn over the examination of our first witness to Attorney Lindon Miguel Bacquel, Your Honor.
+
+**[00:13:29.400] Sen. Francis "Chiz" G. Escudero**  
+Attorney Lindon, good morning.
+
+**[00:13:33.600] Atty. Lindon Miguel C. Bacquel**  
+Good morning, Your Honor.
+
+**[00:13:35.240] Sen. Francis "Chiz" G. Escudero**  
+Kindly call your first witness, Atty. Lindon.
+
+**[00:13:37.780] Atty. Lindon Miguel C. Bacquel**  
+May we call Engineer Jaime A. Adalin to the witness stand, Your Honor.
+
+**[00:13:44.350] Sen. Francis "Chiz" G. Escudero**  
+Kindly situate the engineer to the witness stand.
+
+**[00:13:53.280] Rep. Terry L. Ridon**  
+Your Honor, we are yielding to Atty. Tolosa.
+
+**[00:13:56.450] Sen. Francis "Chiz" G. Escudero**  
+Atty. Tolosa is also recognized on the part of the prosecution to handle the witness as well as the cross-examination in relation thereto.
+
+**[00:14:05.380] Atty. Benjamin Tolosa Jr.**  
+Good morning, Your Honors.
+
+**[00:14:06.580] Sen. Francis "Chiz" G. Escudero**  
+Good morning, Atty. Tolosa.
+
+**[00:14:25.660] Sen. Francis "Chiz" G. Escudero**  
+The clerk is directed to administer the oath.
+
+**[00:14:29.640] Atty. Renato N. Bantug Jr.**  
+Sir, please sign up and raise your right hand.
+
+**[00:14:31.540] Sen. Francis "Chiz" G. Escudero**  
+pwede kayong umupo Atty. Adalin, ah, Engineer Adalin.
+
+**[00:14:34.440] Atty. Renato N. Bantug Jr.**  
+You, Jaime Adalin, do swear that the evidence you shall give in the case now pending between the Philippines and Vice President Sara Zimmerman Duterte shall be the truth, the whole truth, and nothing but the truth. So help you God.
+
+**[00:14:49.750] Sen. Francis "Chiz" G. Escudero**  
+Atty. Adalin, pakisagot po sa mikropono para marinig po at malagay sa record.
+
+**[00:14:55.760] Sen. Francis "Chiz" G. Escudero**  
+Naunawa niyo po ang inyong pinanumpaan?
+
+**[00:14:57.970] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[00:14:59.810] Sen. Francis "Chiz" G. Escudero**  
+Ano po ang inyong mas maikling pangalan? Engineer Adalin.
+
+**[00:15:04.420] Engr. Jaime G. Adalin**  
+I am Jaime Gallinero Adalin, sir.
+
+**[00:15:07.900] Sen. Francis "Chiz" G. Escudero**  
+Ano po ang inyong palayaw?
+
+**[00:15:10.040] Engr. Jaime G. Adalin**  
+Jimmy po.
+
+**[00:15:11.180] Sen. Francis "Chiz" G. Escudero**  
+Jimmy?
+
+**[00:15:12.220] Engr. Jaime G. Adalin**  
+Yes, your honor.
+
+**[00:15:13.760] Sen. Francis "Chiz" G. Escudero**  
+Engineer Jimmy.
+
+**[00:15:17.750] Sen. Francis "Chiz" G. Escudero**  
+Offer, Attorney Lindon?
+
+**[00:15:20.110] Atty. Lindon Miguel C. Bacquel**  
+Can we ask the tech, your honor, to flash the offer on the screen, your honor?
+
+**[00:15:26.530] Sen. Francis "Chiz" G. Escudero**  
+Yes, the tech is directed to kindly flash on the screen the formal, the offer rather, of Attorney Lindon.
+
+**[00:15:45.040] Atty. Lindon Miguel C. Bacquel**  
+May I proceed, Your Honor?
+
+**[00:15:49.140] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, Counsel.
+
+**[00:15:50.520] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor. The testimony of Engineer Jaime G. Adalin is offered to prove that he is the City Assessor of Davao City, his duties and responsibilities, and that he has personal knowledge on tax declarations concerning the real property covered by TCT No.
+
+**[00:16:13.380] Atty. Lindon Miguel C. Bacquel**  
+2024-010,146-2024-010775 to prove that the real property covered by the said transfer certificate of title is disclosed by the vice president in her statement of assets, liabilities, and net worth to prove that the prosecution's accusation that the respondent did not disclose. Said transfer certificate of title and the real property in her statement of assets, liabilities, and net worth is malicious and completely false. To identify and authenticate tax declarations and other related documents concerning the transfer certificate of title number 146-12024010775 and to prove other relevant matters.
+
+**[00:17:17.260] Sen. Francis "Chiz" G. Escudero**  
+Atty. Tolosa?
+
+**[00:17:18.260] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor. Just to abbreviate the proceedings, with respect to the offer number one, we're willing to stipulate regarding the position of this witness and that he has personal knowledge regarding the issuance of the tax declaration covered by the TCT mentioned during the offer. With respect to offer number two, that the testimony of this witness would supposedly establish that that TCT was disclosed in the SALN of the Vice President. We object to that for being improper and misleading. There's no way that this witness could prove that that property indicated in the SALN is the same property covered by the subject TCT. The only thing that this witness could testify on is that Possibly, these two properties are in the same barangay. But that will not in any way prove that they are talking about the same property considering the glaring discrepancies between the two, specifically with respect to the acquisition value.
+
+**[00:18:29.340] Atty. Benjamin Tolosa Jr.**  
+declared into those two documents. And for the reason number three, we also vehemently oppose that, especially their characterization that our position that that property covered by the TCT was not disclosed in the SALN was maliciously and completely false. We take the strongest exceptions to these accusations, Your Honor. It cannot be said that it's completely false because again, just a mere Facial examination of those two documents would show that there are obvious discrepancies between the two.
+
+**[00:19:05.950] Atty. Lindon Miguel C. Bacquel**  
+Can I reply, Your Honor?
+
+**[00:19:07.650] Sen. Francis "Chiz" G. Escudero**  
+No need, counsel. Duly noted, subject to cross, you may proceed with your direct examination, Attorney Lindon.
+
+**[00:19:14.190] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:19:16.920] Atty. Lindon Miguel C. Bacquel**  
+Good morning, Engineer Jaime Adalin.
+
+**[00:19:19.680] Engr. Jaime G. Adalin**  
+Good morning, sir.
+
+**[00:19:21.240] Atty. Lindon Miguel C. Bacquel**  
+Please state your name for the record, sir.
+
+**[00:19:24.300] Engr. Jaime G. Adalin**  
+Good morning, Your Honors. I am Jaime Gallinero Adalin. resident of Cabantian, Davao City.
+
+**[00:19:31.960] Atty. Lindon Miguel C. Bacquel**  
+How long have you been a resident of Cabantian, sir? Am I correct, sir?
+
+**[00:19:36.520] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[00:19:37.220] Atty. Lindon Miguel C. Bacquel**  
+How long have you been a resident of Cabantian, Davao City, sir?
+
+**[00:19:40.140] Engr. Jaime G. Adalin**  
+More or less, nasa 10 years na ako sa Cabantian, sir.
+
+**[00:19:44.200] Atty. Lindon Miguel C. Bacquel**  
+What is your profession, sir?
+
+**[00:19:46.860] Engr. Jaime G. Adalin**  
+I am a civil engineer by profession and at the same time a real estate appraiser.
+
+**[00:19:52.800] Atty. Lindon Miguel C. Bacquel**  
+How long have you been the civil engineer?
+
+**[00:19:56.400] Engr. Jaime G. Adalin**  
+I passed the board exam sometime in 1984, so more or less 23 years, sir.
+
+**[00:20:02.780] Atty. Lindon Miguel C. Bacquel**  
+How about how long have you been a real estate appraiser?
+
+**[00:20:07.000] Engr. Jaime G. Adalin**  
+I passed the licensure examination sometime in 2015, so that would be 9 years.
+
+**[00:20:17.360] Atty. Lindon Miguel C. Bacquel**  
+What is your present occupation, sir?
+
+**[00:20:20.280] Engr. Jaime G. Adalin**  
+Currently, I am the city assessor of Davao, sir.
+
+**[00:20:24.660] Atty. Lindon Miguel C. Bacquel**  
+How long have you been the City Assessor of Davao City?
+
+**[00:20:28.950] Engr. Jaime G. Adalin**  
+More or less nasa nine years, although in Cotabato City, galing ako doon in the City Assessor's Office also.
+
+**[00:20:36.620] Atty. Lindon Miguel C. Bacquel**  
+What are your duties and responsibilities as the City Assessor of Davao City, Sir?
+
+**[00:20:42.480] Engr. Jaime G. Adalin**  
+Among others, number one is to ensure that all those governing real property shall be properly executed. to establish a systematic real property assessment including a systematic identification and accounting system and also to issue certification as to the records of assessment and other relevant information.
+
+**[00:21:15.940] Atty. Lindon Miguel C. Bacquel**  
+Sir, I just ask you to speak more clearly and louder at the microphone.
+
+**[00:21:20.640] Engr. Jaime G. Adalin**  
+Okay, yes sir.
+
+**[00:21:21.400] Atty. Lindon Miguel C. Bacquel**  
+Thank you sir. Just a follow-up question, sir, regarding your duties and responsibilities. Does it require you to be familiar with the different barangays in Davao City?
+
+**[00:21:32.730] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[00:21:38.930] Atty. Lindon Miguel C. Bacquel**  
+What records are maintained in the City Assessor's Office of Davao City, sir?
+
+**[00:21:44.430] Engr. Jaime G. Adalin**  
+Number one, as required by the manual issued by the Department of Finance, of course, the tax declaration, tax month, and other Tax mapping control role, quarterly report on real property assessment, notice of assessment, and all others, sir.
+
+**[00:22:04.900] Atty. Lindon Miguel C. Bacquel**  
+Are there any other documents, sir? Or is that all you can remember, sir?
+
+**[00:22:09.480] Engr. Jaime G. Adalin**  
+That includes assessment role and property record form or the ownership record form.
+
+**[00:22:19.140] Atty. Lindon Miguel C. Bacquel**  
+Sir, you mentioned tax maps, correct, sir?
+
+**[00:22:23.680] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[00:22:24.350] Atty. Lindon Miguel C. Bacquel**  
+What are tax maps, sir?
+
+**[00:22:26.760] Engr. Jaime G. Adalin**  
+Tax maps are one of the most important tools in real property assessment. The tax map establishes a permanent link between real property on the ground and the records of the city assessor's office.
+
+**[00:22:47.880] Atty. Lindon Miguel C. Bacquel**  
+How are tax maps created, sir?
+
+**[00:22:51.600] Engr. Jaime G. Adalin**  
+The tax maps are being created to start with the gathering of data that includes approved survey including also cadastral survey and that will form part of the base map and after such it will be segregated and magkakaroon ng mga section maps, index maps, barangay maps.
+
+**[00:23:17.760] Atty. Lindon Miguel C. Bacquel**  
+Sino po yung gumagawa ng mga tax map na ito sir?
+
+**[00:23:21.280] Engr. Jaime G. Adalin**  
+In our office, we have a tax mapping operation division that will take charge of the preparation of the maps including gathering of data and information.
+
+**[00:23:34.830] Atty. Lindon Miguel C. Bacquel**  
+Pag nagawa na po itong tax map, sino po yung nag-a-approve kung alam niyo po?
+
+**[00:23:40.090] Engr. Jaime G. Adalin**  
+Ang approval po, just to abide with the guidelines prescribed by the BLGF, ang city assessor po ang nag-a-approve. It is prepared by the tax mapper and verified by the division head of the tax mapping operation division.
+
+**[00:23:59.670] Atty. Lindon Miguel C. Bacquel**  
+Thank you, sir. What is the purpose of a tax map, sir?
+
+**[00:24:04.210] Engr. Jaime G. Adalin**  
+The purpose of tax map is to properly identify the properties on the ground and to discover properties that may have been covered by assessment. And as I was saying a while ago, it will establish a link. Between the real properties on the ground and the records, without the tax map, it would be hard for us to determine ano ba yung mga properties na wala pang assessment.
+
+**[00:24:37.320] Atty. Lindon Miguel C. Bacquel**  
+Sir, I would just ask you to clarify, what is this link? Why is it important to establish such link?
+
+**[00:24:45.120] Engr. Jaime G. Adalin**  
+Pardon, sir?
+
+**[00:24:46.740] Atty. Lindon Miguel C. Bacquel**  
+Why is it important to establish this link you mentioned?
+
+**[00:24:52.960] Engr. Jaime G. Adalin**  
+Again, kapag hindi po kasi natin na-establish sa MAPA yung mga real properties na yan, napakahirap po siyang magawa ng assessment for taxation purposes. At yan din po ang MAPA na ginagamit ng Treasurer's Office for the Collection of Real Property Tax.
+
+**[00:25:15.680] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Sir. Sir, how do you ensure the accuracy of tax maps?
+
+**[00:25:23.160] Engr. Jaime G. Adalin**  
+To ensure accuracy, recently, may ginagamit na po tayong tool or yung QGIS map wherein maps are being plotted based on technical description. Nung una, manual po yan siya na parang video drawing lang based on the approved survey but in most cases, other LGUs, other assessors are now Going into QGIS mapping. Ginagawa na po namin yan sa Davao City.
+
+**[00:25:53.930] Atty. Lindon Miguel C. Bacquel**  
+Sorry sir, can you repeat? What is QDS mapping?
+
+**[00:25:56.830] Engr. Jaime G. Adalin**  
+QGIS mapping, sir.
+
+**[00:25:58.670] Atty. Lindon Miguel C. Bacquel**  
+Ano pong ibig sabihin nun, sir?
+
+**[00:26:00.130] Engr. Jaime G. Adalin**  
+It is somewhat a system that you will encode the technical description as described in the title. Then the technical description, the system will plot the exact geographical presentation. or drone to a scale.
+
+**[00:26:21.300] Atty. Lindon Miguel C. Bacquel**  
+Okay. So, just to clarify, sir, is it this system which helps in generating the tax maps?
+
+**[00:26:30.040] Engr. Jaime G. Adalin**  
+You're correct, sir.
+
+**[00:26:32.560] Atty. Lindon Miguel C. Bacquel**  
+You also mentioned, sir, that the City Assessor's Office of Davao City also maintains tax declarations, sir. You remember that, sir?
+
+**[00:26:41.840] Engr. Jaime G. Adalin**  
+You're correct, sir.
+
+**[00:26:43.260] Atty. Lindon Miguel C. Bacquel**  
+What are tax declarations, sir?
+
+**[00:26:46.250] Engr. Jaime G. Adalin**  
+Tax declaration is issued by the assessor informing the owner of the property, describing also the description kung ano yung property na yan. Also included there are the market value and the assessed value. Again, as a basis for the city treasurer to compute for the basic and SEF tax.
+
+**[00:27:15.420] Atty. Lindon Miguel C. Bacquel**  
+Sir, anong tax po ba ang may kinalaman sa tax declaration?
+
+**[00:27:23.320] Engr. Jaime G. Adalin**  
+Basically, yung pong real property tax and SEF or special education fund.
+
+**[00:27:31.990] Atty. Lindon Miguel C. Bacquel**  
+Ito po bang nabanggit yung real property tax? Pareho lang to sa tinatawag nilang amilyar? O may pagkakaiba po ba?
+
+**[00:27:40.060] Engr. Jaime G. Adalin**  
+Tingin ko pare lang po. Parang old term po yung amilyar na yan.
+
+**[00:27:44.590] Atty. Lindon Miguel C. Bacquel**  
+Sir, paano po binabayaran yung real property taxes?
+
+**[00:27:48.900] Engr. Jaime G. Adalin**  
+Normally, yung aming tax declaration na in-issue, yun po ang dinadala ng taxpayer sa City Treasurer's Office and then naka-automate na po yan. Pag-present po ng tax declaration, i-compute po yung statement of account ng City Treasurer's Office.
+
+**[00:28:10.260] Atty. Lindon Miguel C. Bacquel**  
+Sino po ba yung mga kailangan magbayad ng real property tax?
+
+**[00:28:14.570] Engr. Jaime G. Adalin**  
+Normally, ang magbabayad talaga yung property owner.
+
+**[00:28:18.590] Atty. Lindon Miguel C. Bacquel**  
+Property owner. May alam pa po ba kayong instances na hindi property owner ang nagbabayad?
+
+**[00:28:25.230] Engr. Jaime G. Adalin**  
+I'm not quite aware, no? Kasi ang collection is na sa city treasurer. I'm also not aware if the treasurer would require authorization. But as far as tax declaration, na doon lang po kami.
+
+**[00:28:39.060] Atty. Lindon Miguel C. Bacquel**  
+Thank you, sir. Sir, in relation to this case, Do you confirm having received a subpina, ducis tecum, and subpina ad testificandum, sir?
+
+**[00:28:50.160] Engr. Jaime G. Adalin**  
+Yes, I am aware to receive sometime last week.
+
+**[00:28:53.990] Atty. Lindon Miguel C. Bacquel**  
+What documents did you bring in compliance with the subpina you received, sir?
+
+**[00:28:59.990] Engr. Jaime G. Adalin**  
+I submitted three sets.
+
+**[00:29:02.510] Atty. Lindon Miguel C. Bacquel**  
+Sir, sorry. Can you kindly enumerate each document you received, sir?
+
+**[00:29:08.630] Engr. Jaime G. Adalin**  
+Okay. I submitted in three sets the tax declaration covering title number 146-2024-01-10-775 in three sets including the tax map. We have the administrative district map, the barangay map, and the property identification map. including certifications, sir.
+
+**[00:29:43.700] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, at this point, may we just ask Your Honor for, from the witness, copies of the documents he produced in court.
+
+**[00:29:51.420] Sen. Francis "Chiz" G. Escudero**  
+Yes, please.
+
+**[00:29:52.120] Atty. Lindon Miguel C. Bacquel**  
+And with due respect, Your Honor, if we can also be given a few minutes to examine and peruse.
+
+**[00:30:03.080] Atty. Lindon Miguel C. Bacquel**  
+We have copies of the tax declaration, but to ensure that all the other, to examine the other documents which was brought by the witness and which we may have not any copy, Your Honor.
+
+**[00:30:19.300] Sen. Francis "Chiz" G. Escudero**  
+Engineer Jimmy, ilan pong dokumento ang dala ninyo?
+
+**[00:30:22.280] Engr. Jaime G. Adalin**  
+Meron po akong dalang tatlong dokumento, sets of documents. Kinuha na po ng isa.
+
+**[00:30:30.100] Engr. Jaime G. Adalin**  
+Senate. Mayroon pa akong dalawa dito.
+
+**[00:30:32.520] Sen. Francis "Chiz" G. Escudero**  
+May copy na tayo, Atty. Ray.
+
+**[00:30:38.070] Sen. Francis "Chiz" G. Escudero**  
+Kindly reproduce it and furnish the counsel for the panel of prosecutors with a copy.
+
+**[00:30:42.690] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:30:43.630] Sen. Francis "Chiz" G. Escudero**  
+Do you want your three minutes now, Atty. Lindon?
+
+**[00:30:47.050] Atty. Lindon Miguel C. Bacquel**  
+If I may just examine the documents now, Your Honor.
+
+**[00:30:49.950] Sen. Francis "Chiz" G. Escudero**  
+Okay. Chair declares a brief recess.
+
+**[00:30:53.950] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:30:55.010] Sen. Francis "Chiz" G. Escudero**  
+Of three minutes.
+
+**[00:31:04.020] Sen. Francis "Chiz" G. Escudero**  
+Assisting counsel from both sides may approach the witness.
+
+**[00:35:09.280] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor.
+
+**[00:35:10.000] Atty. Lindon Miguel C. Bacquel**  
+Ready, Your Honor.
+
+**[00:35:10.800] Sen. Francis "Chiz" G. Escudero**  
+Atty. Lindon, you may proceed. Atty. Tolosa, do you confirm receiving a copy of the document submitted by Engineer Jimmy?
+
+**[00:35:18.220] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor. Confirmed, Your Honor.
+
+**[00:35:19.780] Sen. Francis "Chiz" G. Escudero**  
+Atty. Lindon, you may proceed.
+
+**[00:35:21.760] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:35:41.790] Atty. Lindon Miguel C. Bacquel**  
+Good afternoon, Lieutenant Engineer.
+
+**[00:35:44.790] Atty. Lindon Miguel C. Bacquel**  
+Dito sa, nag-nakita ko na sa document na mga dala mo, Mayroong kang binalang administrative district index map.
+
+**[00:35:53.850] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[00:35:55.090] Atty. Lindon Miguel C. Bacquel**  
+May we request the tech to flash the administrative district index map from the USB provided by the witness, Your Honor.
+
+**[00:36:05.270] Atty. Lindon Miguel C. Bacquel**  
+...
+
+**[00:36:09.680] Sen. Francis "Chiz" G. Escudero**  
+Thank you, please do so.
+
+**[00:36:26.550] Atty. Lindon Miguel C. Bacquel**  
+Ano po itong document na ito?
+
+**[00:36:30.880] Engr. Jaime G. Adalin**  
+That administrative district map, index map, is one of the requirements provided in the local assessment regulation showing that 11 Administrative District of Davao City.
+
+**[00:36:46.020] Atty. Benjamin Tolosa Jr.**  
+Your Honor, excuse me. Just to move things along, Your Honor, if the purpose of this succeeding questions would only be to establish that the Barangay Matina Crossing is also known as Barangay 74-A, just to abbreviate the proceedings we're willing to stipulate on that matter, Your Honor.
+
+**[00:37:04.920] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, if I may, Your Honor.
+
+**[00:37:07.640] Sen. Francis "Chiz" G. Escudero**  
+Yes.
+
+**[00:37:08.280] Atty. Lindon Miguel C. Bacquel**  
+We prefer that the witness
+
+**[00:37:12.380] Atty. Lindon Miguel C. Bacquel**  
+The answers be elicited from the witness, Your Honor, so that the dishonorable court and as well as the public would be sufficiently informed of the nature, the purpose, and the purpose of the documents provided by the witnesses. Because if we only be subjecting this to stipulation, Your Honor, then the records will not be enriched and the public may not be sufficiently informed, Your Honor.
+
+**[00:37:36.910] Sen. Francis "Chiz" G. Escudero**  
+Nevertheless, Attorney Lindon, since Attorney Tolosa in the prosecution is willing to stipulate, you can go direct to the point and need not belabor it. You can go directly without need of laying any basis given that the willingness of the prosecutor to stipulate. For brevity and for clarity also, para wala nang dagdag na tanong maliban sa yung puntong ninanais niyong patunayan.
+
+**[00:38:04.030] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor. We will just proceed to ask the...
+
+**[00:38:06.710] Sen. Francis "Chiz" G. Escudero**  
+Without shortening, but you can go direct to the point.
+
+**[00:38:10.110] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor. We will just proceed to ask the witness regarding the nature of the documents you provided.
+
+**[00:38:15.810] Sen. Francis "Chiz" G. Escudero**  
+Yes, please. You may proceed, Attorney Lindon.
+
+**[00:38:17.870] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:38:19.940] Atty. Lindon Miguel C. Bacquel**  
+What is the purpose of this document, sir? The Administrative District Index Map which you provided, sir.
+
+**[00:38:26.460] Engr. Jaime G. Adalin**  
+The purpose of this Administrative District Index Map is to, again, to identify The subject property kung saan siya na-locate. And in this particular case, it is situated in Talomo District, shown on the lowest part of this document, sir.
+
+**[00:38:45.000] Atty. Lindon Miguel C. Bacquel**  
+How will this document, sir, establish the link between the real property on the ground and the records which you earlier mentioned, sir?
+
+**[00:38:54.620] Engr. Jaime G. Adalin**  
+For the exact detail, from this administrative district map, next to this will be the Barangay Index map. And next is the property identification maps where the property identification number is stated on that maps, yung property identification map. Ang property index map kasi is, or real properties are, meron siyang unique number na merong kung anong city siya.
+
+**[00:39:28.470] Atty. Lindon Miguel C. Bacquel**  
+Sir, I'll ask about the other maps you provided. But in this administrative district index map, there appears to be a signature above the name Engineer Jaime G. Adalin. Whose signature is that, sir?
+
+**[00:39:44.840] Engr. Jaime G. Adalin**  
+That's my signature, sir.
+
+**[00:39:48.630] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, for the record, we have the administrative district index map provided by Witness Engineer Jaime G. Adalin. which appears to be an originally signed document certified correct by the witness, Your Honor. We thus respectfully request that this be marked as Defense Exhibits D-2-5-DBO, Your Honor.
+
+**[00:40:20.830] Sen. Francis "Chiz" G. Escudero**  
+So ordered.
+
+**[00:40:22.250] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:40:33.990] Atty. Lindon Miguel C. Bacquel**  
+Engineer, you also brought the Barangay Index Map of Talomo District. What is this document, sir?
+
+**[00:40:42.380] Engr. Jaime G. Adalin**  
+The barangay index map will show Talomo District. Showing the different barangays within the Talomo District.
+
+**[00:40:53.100] Atty. Lindon Miguel C. Bacquel**  
+What is the purpose of this document?
+
+**[00:40:56.380] Engr. Jaime G. Adalin**  
+Again, for the purpose of identifying kung saan nakalocate yung barangay.
+
+**[00:41:01.090] Atty. Lindon Miguel C. Bacquel**  
+How is the barangay index map of Talomo District different with the administrative district index map?
+
+**[00:41:13.520] Engr. Jaime G. Adalin**  
+Yung administrative district map, nandun po din yung Atolomo District.
+
+**[00:41:19.500] Atty. Lindon Miguel C. Bacquel**  
+Sir, again, I'll ask the question. How does this barangay index map of Atolomo District establish the link between the real property on the ground and the records which you earlier mentioned?
+
+**[00:41:34.230] Engr. Jaime G. Adalin**  
+On the upper left corner, nandyan po yung barangay code. Nakalagay po diyan yung 172 representing the Davao City and 09 representing Talomo District and 012 representing Matina Crossing 74-A.
+
+**[00:41:57.440] Atty. Lindon Miguel C. Bacquel**  
+Can I ask the tech to please scroll down? The document.
+
+**[00:42:03.240] Atty. Benjamin Tolosa Jr.**  
+Your Honor, again, just to, sorry, just to abbreviate the proceedings again, we're willing to stipulate on the authenticity of this document, we're willing to stipulate that this was signed by the witness himself, Your Honor.
+
+**[00:42:13.120] Atty. Lindon Miguel C. Bacquel**  
+Thank you, thank you, Your Honor.
+
+**[00:42:14.640] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Attorney Tolosa. You may proceed with marking at the appropriate time, Attorney Levin.
+
+**[00:42:18.660] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:42:20.460] Sen. Francis "Chiz" G. Escudero**  
+Kindly proceed.
+
+**[00:42:21.580] Atty. Lindon Miguel C. Bacquel**  
+What is the highlighted portion seen there, sir?
+
+**[00:42:25.940] Engr. Jaime G. Adalin**  
+That highlighted portion represents Matina Crossing.
+
+**[00:42:30.870] Atty. Lindon Miguel C. Bacquel**  
+How do you know that, sir?
+
+**[00:42:32.590] Engr. Jaime G. Adalin**  
+It is based on our existing records or existing tax pap.
+
+**[00:42:37.570] Atty. Lindon Miguel C. Bacquel**  
+Can the tech please scroll up the document?
+
+**[00:42:43.240] Atty. Lindon Miguel C. Bacquel**  
+In this document, sir, there also appears to be a highlighted portion in the table. What is the highlighted portion, sir?
+
+**[00:42:53.250] Engr. Jaime G. Adalin**  
+That highlighted portion represents Matina Crossing 74-A.
+
+**[00:43:01.390] Atty. Lindon Miguel C. Bacquel**  
+So yung 7-4-A and Matina Crossing, sir, pareho lang ba yun?
+
+**[00:43:04.930] Atty. Benjamin Tolosa Jr.**  
+Yes, that is stipulated earlier yun.
+
+**[00:43:08.800] Atty. Lindon Miguel C. Bacquel**  
+Thank you for confirming that.
+
+**[00:43:13.750] Atty. Lindon Miguel C. Bacquel**  
+Considering the stipulation regarding the authenticity and the capacity of the witness to identify and authenticate this document,
+
+**[00:43:23.080] Atty. Lindon Miguel C. Bacquel**  
+we respectfully request that the Barangay Index Map of Talomo District be marked as Defense Exhibit D-2. Dash 6, Dash DVO, Your Honor.
+
+**[00:43:37.940] Sen. Francis "Chiz" G. Escudero**  
+So ordered.
+
+**[00:43:39.240] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:43:49.880] Atty. Lindon Miguel C. Bacquel**  
+Engineer, you also brought a property identification map.
+
+**[00:43:54.620] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[00:43:56.460] Atty. Benjamin Tolosa Jr.**  
+Sorry, counsel. Again, just to move things along, we're also willing to stipulate on the authenticity of this document that this was signed by the witness himself.
+
+**[00:44:05.360] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Thank you, Atty. Tolosa. At the appropriate time, Atty. Linen can ask for its marking, given the stipulation.
+
+**[00:44:16.980] Atty. Lindon Miguel C. Bacquel**  
+What is the property identification map you brought? What is this, sir?
+
+**[00:44:23.390] Engr. Jaime G. Adalin**  
+This property identification map, this will establish on records kung ano yung description dun sa tax declaration.
+
+**[00:44:34.090] Atty. Lindon Miguel C. Bacquel**  
+Ano po yung purpose ng document na ito?
+
+**[00:44:37.170] Engr. Jaime G. Adalin**  
+Again, to magkaroon ng graphical presentation yung tax declaration and the tax map.
+
+**[00:44:51.710] Atty. Lindon Miguel C. Bacquel**  
+Dito po sa document na to, may nakikita akong naka-highlight in red. Ano po ito, sir?
+
+**[00:44:59.490] Engr. Jaime G. Adalin**  
+That 910 represent the count on this specific property identification number.
+
+**[00:45:07.400] Atty. Lindon Miguel C. Bacquel**  
+Okay.
+
+**[00:45:09.500] Atty. Lindon Miguel C. Bacquel**  
+Sir, this document which you brought, this property identification map, how would this establish the link between the real property on the ground? and the record as you've mentioned earlier.
+
+**[00:45:23.270] Atty. Benjamin Tolosa Jr.**  
+Your Honor, just to be more accurate, when we're talking about real property on the ground, are we talking about the property covered by TCT number 146-2024-010775?
+
+**[00:45:40.280] Atty. Lindon Miguel C. Bacquel**  
+We are asking in general and specific terms, Your Honor.
+
+**[00:45:43.960] Atty. Benjamin Tolosa Jr.**  
+Yes, so since you're asking specific terms, are you specifically asking about the property? covered by the TCT that I've just mentioned and which you mentioned in your own offer.
+
+**[00:45:54.790] Atty. Lindon Miguel C. Bacquel**  
+My question is only limited as to how this document could establish the link. As I've mentioned earlier, Your Honor.
+
+**[00:46:03.090] Atty. Benjamin Tolosa Jr.**  
+Your Honor, we understand that. But as explained by counsel, he is asking in general terms and in specific terms. So if you're asking in specific terms about the property in the ground, we're asking him now to specify. Are you specifically asking about that property covered by TCT number 146-2024010775? Again, the same property mentioned in your offer.
+
+**[00:46:33.260] Sen. Francis "Chiz" G. Escudero**  
+Are you making an objection?
+
+**[00:46:36.680] Atty. Benjamin Tolosa Jr.**  
+It is vague, Your Honor. That's why we're asking. For clarification and specification because the question is vague.
+
+**[00:46:43.650] Sen. Francis "Chiz" G. Escudero**  
+You can make the corresponding objection on the ground of vagueness and let the court rule instead of asking questions of opposing.
+
+**[00:46:50.270] Atty. Benjamin Tolosa Jr.**  
+Yes, we submit, Your Honor. We submit.
+
+**[00:46:52.770] Sen. Francis "Chiz" G. Escudero**  
+I believe Attorney Lindon is laying the basis and will proceed to, in relation to this formal offer, TCT ending in 0775. Correct, Attorney Lindon? You will proceed to that point in a bit?
+
+**[00:47:05.270] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor.
+
+**[00:47:06.330] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, counsel. Objection is overruled on the ground of vagueness.
+
+**[00:47:10.640] Atty. Lindon Miguel C. Bacquel**  
+Again sir, I'll ask the question. How does this property identification map establish the link between the real property on the ground and the record?
+
+**[00:47:23.850] Engr. Jaime G. Adalin**  
+If you will look into the tax declaration that we issued on the upper right first portion, nandun po yung property index number. Then, yun sa tax map,
+
+**[00:47:37.310] Engr. Jaime G. Adalin**  
+sa
+
+**[00:47:38.550] Engr. Jaime G. Adalin**  
+lower portion on the labeling box, Nandun po yung property index number.
+
+**[00:47:44.450] Atty. Lindon Miguel C. Bacquel**  
+So, what property does this correspond to, sir?
+
+**[00:47:50.430] Engr. Jaime G. Adalin**  
+It corresponds to the transfer certificate of title ending 0775, sir.
+
+**[00:47:59.010] Atty. Lindon Miguel C. Bacquel**  
+And how do you know this, sir, based on the maps you mentioned?
+
+**[00:48:04.160] Engr. Jaime G. Adalin**  
+Again, as I've said, ito pong tax declaration na in-issue namin, meron po siyang property index number. At makikita mo po yan dyan sa property index map, yun sa baba, na nandun din po yung property index number, including the count that is 910.
+
+**[00:48:23.370] Atty. Lindon Miguel C. Bacquel**  
+Thank you for clarifying, Engineer. For the record, Your Honor, the witness produced property identification map approved by Engineer Jaime G. Adalin and appears to be originally signed. We request that this Document be marked as Defense Exhibit D-2-7-DVO, Your Honor. Your Honor.
+
+**[00:49:38.230] Sen. Francis "Chiz" G. Escudero**  
+Yes.
+
+**[00:49:40.230] Atty. Lindon Miguel C. Bacquel**  
+We request for the marking of the property identification map brought by the witness as Defense Exhibit D-2-7-DVO, Your Honor.
+
+**[00:49:53.190] Sen. Francis "Chiz" G. Escudero**  
+So ordered.
+
+**[00:49:54.510] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:49:57.700] Atty. Lindon Miguel C. Bacquel**  
+Engineer, you also brought the certification dated November 6, 2026.
+
+**[00:50:09.080] Atty. Lindon Miguel C. Bacquel**  
+How did you obtain a copy of this certification, sir?
+
+**[00:50:17.210] Engr. Jaime G. Adalin**  
+We requested this certification to the Office of the Barangay and Cultural Communities Affairs Division who are in charge in the coordinating the different activities of barangay who has a record of all names of barangay.
+
+**[00:50:37.640] Atty. Lindon Miguel C. Bacquel**  
+Thank you sir. Your Honor, we also respectfully request the marking of the certification dated November 6, 2026 from the Barangay and Cultural Community Affairs Division, City of Davao as defense exhibit D-2-2-BVO, Your Honor.
+
+**[00:51:07.890] Sen. Francis "Chiz" G. Escudero**  
+It's ordered.
+
+**[00:51:08.950] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:51:23.500] Atty. Lindon Miguel C. Bacquel**  
+Engineer, in the documents you produced before this honorable court, you confirmed that you produced five tax declarations. Tama po ba yung house document?
+
+**[00:51:38.580] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[00:51:42.000] Atty. Lindon Miguel C. Bacquel**  
+Ano po itong mga tax declaration na to?
+
+**[00:51:45.830] Atty. Lindon Miguel C. Bacquel**  
+Bakit po iba yung form nung dalawa, iba rin po yung form nung tatlo?
+
+**[00:51:51.940] Engr. Jaime G. Adalin**  
+The new form, the colored one, are the new forms that we are adopting after we implemented the new Integrated Real Property Tax Administration. Meron na po kaming bagong sistema na In-house ng City Government, City Assessor for that purpose. Just to upgrade our system, sir.
+
+**[00:52:20.500] Atty. Lindon Miguel C. Bacquel**  
+Let's go one by one sa tax declaration, sir.
+
+**[00:52:23.320] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[00:52:24.540] Atty. Lindon Miguel C. Bacquel**  
+Sir, I'm referring to the tax declaration number AG-09012-17129 related to transfer certificate of title.
+
+**[00:52:40.450] Atty. Lindon Miguel C. Bacquel**  
+146-2024-010775. That is for the land. Do you have that, sir?
+
+**[00:52:48.650] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[00:52:51.880] Atty. Benjamin Tolosa Jr.**  
+Your Honor, just a quick clarification, Your Honor.
+
+**[00:52:54.980] Sen. Francis "Chiz" G. Escudero**  
+Yes, Atty. Tolosa.
+
+**[00:52:56.080] Atty. Benjamin Tolosa Jr.**  
+The witness stated a while ago that he confirmed receipt of the subpoena wherein he was requested to produce, among others, tax declarations covering the property covered by the TCT that we mentioned a while ago. Is our understanding correct that he only presented these tax declarations and not the others pertaining to previous years, 2024, 2025? He just submitted the one dated 2026. Just for confirmation, so we know what are the tax declarations that the witness brought with him.
+
+**[00:53:37.110] Atty. Lindon Miguel C. Bacquel**  
+Your Honor. I just mentioned that the witness produced five tax declarations, Your Honor. And I think, with due respect to the prosecution, I think whatever their inquiry is would be proper subject for their cross-examination, if any, Your Honor.
+
+**[00:53:53.860] Sen. Francis "Chiz" G. Escudero**  
+But
+
+**[00:53:54.160] Sen. Francis "Chiz" G. Escudero**  
+he brought for more than a year?
+
+**[00:53:56.300] Atty. Lindon Miguel C. Bacquel**  
+Sorry, Your Honor. He brought
+
+**[00:53:57.300] Sen. Francis "Chiz" G. Escudero**  
+tax declarations for more than a year?
+
+**[00:54:00.360] Atty. Lindon Miguel C. Bacquel**  
+Based on the documents, he...
+
+**[00:54:02.460] Sen. Francis "Chiz" G. Escudero**  
+Or is it?
+
+**[00:54:05.010] Atty. Lindon Miguel C. Bacquel**  
+It's... In my possession, your honor, there appears to be five tax declarations, your honor.
+
+**[00:54:13.110] Sen. Francis "Chiz" G. Escudero**  
+Kindly proceed with your direct examination, counsel.
+
+**[00:54:17.410] Atty. Lindon Miguel C. Bacquel**  
+Thank you. Thank you, sir. Sir, I'm referring to the same tax declaration. Itong AG-09012-17129. Sir, just to clarify, ito po ba yung sa new system na colored na sinasabi nyo?
+
+**[00:54:33.370] Engr. Jaime G. Adalin**  
+Yes, sir. That is the new system and we follow the standard format of the Bureau of Local Government Finance.
+
+**[00:54:40.370] Atty. Lindon Miguel C. Bacquel**  
+Anong property po ang covered nitong tax declaration na ito?
+
+**[00:54:45.360] Engr. Jaime G. Adalin**  
+This tax declaration is covered by transfer certificate of title ending 0775, sir.
+
+**[00:54:54.660] Atty. Lindon Miguel C. Bacquel**  
+Can you please complete for the record, sir?
+
+**[00:54:58.100] Engr. Jaime G. Adalin**  
+Okay. Transfer certificate of title.
+
+**[00:55:07.030] Engr. Jaime G. Adalin**  
+146-2024010775
+
+**[00:55:08.070] Atty. Lindon Miguel C. Bacquel**  
+Based on the tax declaration, sir, what is the location of the property?
+
+**[00:55:16.770] Engr. Jaime G. Adalin**  
+This property is located in Huna Subdivision, Matina Crossing, Talomo, Davao City.
+
+**[00:55:23.710] Atty. Lindon Miguel C. Bacquel**  
+And based on the record, sir, who is the registered owner of this property?
+
+**[00:55:28.970] Engr. Jaime G. Adalin**  
+is attorney Manases Carpio married to Sara Duterte.
+
+**[00:55:33.170] Atty. Lindon Miguel C. Bacquel**  
+What is the assessed value of this property, sir?
+
+**[00:55:37.630] Engr. Jaime G. Adalin**  
+The assessed value is 82,046 pesos, sir.
+
+**[00:55:42.950] Atty. Lindon Miguel C. Bacquel**  
+What is the market value of this property, sir?
+
+**[00:55:46.130] Engr. Jaime G. Adalin**  
+The market value is 1,864,680 pesos.
+
+**[00:55:52.280] Atty. Lindon Miguel C. Bacquel**  
+Sir, in the same document, there appears to be a Signature above the name Jaime G. Adalin. Whose signature is that, sir?
+
+**[00:56:04.370] Engr. Jaime G. Adalin**  
+That is my signature, sir.
+
+**[00:56:07.380] Atty. Lindon Miguel C. Bacquel**  
+For the record, Your Honor,
+
+**[00:56:11.180] Atty. Lindon Miguel C. Bacquel**  
+the witness produced a tax declaration number AG-09012-17129, a certified electronic printout of the same document. We thus respectfully request that this be marked as Defense Exhibit D-2-1-DVO, Your Honor. Thank you, Your Honor. I'm going to go to the next document, Sir.
+
+**[00:56:42.310] Atty. Lindon Miguel C. Bacquel**  
+Tax Declaration Number AG-09012-029426, Sir.
+
+**[00:56:56.150] Atty. Lindon Miguel C. Bacquel**  
+Just to confirm, Sir. This is a tax declaration under the new system, correct? Which you mentioned.
+
+**[00:57:03.500] Engr. Jaime G. Adalin**  
+Yes, sir. That's correct.
+
+**[00:57:10.620] Atty. Lindon Miguel C. Bacquel**  
+What property does this tax declaration correspond to?
+
+**[00:57:15.270] Engr. Jaime G. Adalin**  
+This property corresponds to a building with property identification number 172-09-012-028-910-
+
+**[00:57:33.080] Engr. Jaime G. Adalin**  
+1002, representing the building.
+
+**[00:57:35.700] Atty. Lindon Miguel C. Bacquel**  
+Thank you, sir. What transfer certificate of title, if any, does this tax declaration correspond to?
+
+**[00:57:45.440] Engr. Jaime G. Adalin**  
+Pardon, sir?
+
+**[00:57:46.900] Atty. Lindon Miguel C. Bacquel**  
+Ano pong transfer certificate of title, kung meron man, ang may kinalaman sa tax declaration na ito?
+
+**[00:57:54.480] Engr. Jaime G. Adalin**  
+Okay. This property, this building is constructed on lot or on title certificate
+
+**[00:58:03.530] Engr. Jaime G. Adalin**  
+Subtitle 146-2024010775, Sir.
+
+**[00:58:10.630] Atty. Lindon Miguel C. Bacquel**  
+What is the location of this property, Sir?
+
+**[00:58:14.570] Engr. Jaime G. Adalin**  
+It is located in Subdivision Matina Crossing, Tolomo, Davao City.
+
+**[00:58:20.650] Atty. Lindon Miguel C. Bacquel**  
+And based on this record, who is the registered owner?
+
+**[00:58:24.590] Engr. Jaime G. Adalin**  
+The registered owner is Atty. Manases Carpio, married to Sara Duterte.
+
+**[00:58:29.570] Atty. Lindon Miguel C. Bacquel**  
+And what is the assessed value of this property, sir?
+
+**[00:58:32.570] Engr. Jaime G. Adalin**  
+The assessed value is 5,244,635 pesos and 85 centavos, sir.
+
+**[00:58:40.970] Atty. Lindon Miguel C. Bacquel**  
+And what is the market value, sir?
+
+**[00:58:43.630] Engr. Jaime G. Adalin**  
+The market value is 6,992,847 pesos and 80 centavos.
+
+**[00:58:52.370] Atty. Lindon Miguel C. Bacquel**  
+In this tax declaration, sir, there appears to be a signature above the name Engineer Jaime G. Adalin. Whose signature is this, sir?
+
+**[00:59:01.530] Engr. Jaime G. Adalin**  
+That's my signature, sir.
+
+**[00:59:03.150] Atty. Lindon Miguel C. Bacquel**  
+For the record, Your Honor, the witness produced in court, tax declaration number AG-09012-029426, which is a certified electronic printout. We thus respectfully request that this be marked as Defense Exhibit T-2-1-1-DVO, Your Honor.
+
+**[00:59:32.500] Sen. Francis "Chiz" G. Escudero**  
+So ordered.
+
+**[00:59:33.640] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[00:59:49.540] Atty. Lindon Miguel C. Bacquel**  
+Okay, sir. I'm gonna proceed with the tax declaration on land with property Identification number which is under the name of Basilio Madelo Cintia. It appears to involve the parcel of land, sir. Do you have that with you, sir?
+
+**[01:00:18.310] Engr. Jaime G. Adalin**  
+Yes.
+
+**[01:00:18.750] Atty. Lindon Miguel C. Bacquel**  
+Okay. Sir, ito pong tax declaration ito, iba yung itsura dun sa mga naunang tax declaration.
+
+**[01:00:28.510] Engr. Jaime G. Adalin**  
+Yes, that is the old form, sir.
+
+**[01:00:31.050] Atty. Lindon Miguel C. Bacquel**  
+Bakit po siya magkaiba? Ano po bang reason ba't nagkaroon ng pagkakaiba?
+
+**[01:00:34.970] Engr. Jaime G. Adalin**  
+Ito po ang form na to. Ito po yung old system namin na nagamit before and napalta na po siya ng bago.
+
+**[01:00:42.030] Atty. Lindon Miguel C. Bacquel**  
+Okay. Alam niyo po ba kung bakit pinulitan ng bago yung system?
+
+**[01:00:46.410] Engr. Jaime G. Adalin**  
+I may say that the old system hindi masyadong sumunod doon sa standard form ng bill yet.
+
+**[01:00:54.690] Atty. Lindon Miguel C. Bacquel**  
+Okay. Sir, proceed po tayo dito sa sinabi kong tax declaration on land. Anong property po yung involvement sir?
+
+**[01:01:03.420] Atty. Benjamin Tolosa Jr.**  
+Your Honor, excuse me. Sorry to interrupt. Again, just to abbreviate the proceedings, we're again willing to stipulate that this tax declaration that the witness has just identified along with the other two tax declaration that I'm sure he will be asked to identify later on. All pertain to the property covered by TCT No. 146-2024-010775. Again, the same property mentioned in the offer of testimony given by the defense earlier and that we are also willing to stipulate on the authenticity of these documents and that these were signed by the witness himself and that the figures there, the assessed value, the market value, they are, well, they appear in these documents.
+
+**[01:01:56.530] Atty. Lindon Miguel C. Bacquel**  
+Noted. Your Honor. If I may, we just clarify that the stipulation proposed by the prosecution is inaccurate or mistaken, considering that not all of these tax declarations pertain to TCT ending 0775, which we will ask the witness to explain, Your Honor.
+
+**[01:02:23.210] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, counsel.
+
+**[01:02:24.910] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[01:02:28.270] Atty. Lindon Miguel C. Bacquel**  
+Dito po tayo sa tax declaration on land sir. Ano pong property ang involved dito sir?
+
+**[01:02:37.130] Engr. Jaime G. Adalin**  
+The property involved in this tax declaration is identified as property index number 172-09-012-028-910 sir.
+
+**[01:02:54.430] Atty. Lindon Miguel C. Bacquel**  
+And based on the record po, anong transfer certificate of title ang involved dito sa tax declaration na to? Ang related?
+
+**[01:03:03.980] Engr. Jaime G. Adalin**  
+On the first tax declaration, it is title number 146-2024-01-0775, sir.
+
+**[01:03:19.540] Atty. Lindon Miguel C. Bacquel**  
+Sir, I think we're looking at different documents.
+
+**[01:03:23.400] Engr. Jaime G. Adalin**  
+Ah, yeah, the other one.
+
+**[01:03:25.420] Atty. Lindon Miguel C. Bacquel**  
+Yes, sir.
+
+**[01:03:26.420] Engr. Jaime G. Adalin**  
+Okay. It has a title number of 146-2013-006766, sir.
+
+**[01:03:39.500] Atty. Lindon Miguel C. Bacquel**  
+Who is the registered owner of this property, sir?
+
+**[01:03:42.980] Engr. Jaime G. Adalin**  
+It is registered in the name of Cynthia Basilio Modelo.
+
+**[01:03:50.020] Atty. Lindon Miguel C. Bacquel**  
+And what is the location of this property?
+
+**[01:03:54.190] Engr. Jaime G. Adalin**  
+The property is located in Matina Crossing, Huna Subdivision.
+
+**[01:04:01.000] Atty. Lindon Miguel C. Bacquel**  
+What is the assessed value, sir?
+
+**[01:04:03.220] Engr. Jaime G. Adalin**  
+The assessed value is 82,046.
+
+**[01:04:07.260] Atty. Lindon Miguel C. Bacquel**  
+What is the market value, sir?
+
+**[01:04:09.260] Engr. Jaime G. Adalin**  
+The market value is 2,051,150 pesos, sir.
+
+**[01:04:14.800] Atty. Lindon Miguel C. Bacquel**  
+Sir, in the subpoena, the subpoena mentioned that you should bring documents related to transfer certificate of title. 146-2024-010-7753 What is the relation of the TCT involved in this tax declaration with the TCT ending 0775?
+
+**[01:04:39.090] Engr. Jaime G. Adalin**  
+This TCT ending 6766 has been cancelled by title number 0775.
+
+**[01:04:52.190] Atty. Lindon Miguel C. Bacquel**  
+Why was it cancelled, sir?
+
+**[01:04:53.790] Engr. Jaime G. Adalin**  
+It was transferred from Basilio to Atty. Manases Carpio.
+
+**[01:05:03.040] Atty. Lindon Miguel C. Bacquel**  
+How do you know that this was transferred, sir?
+
+**[01:05:07.930] Engr. Jaime G. Adalin**  
+It was requested and transacted and if you will see the memoranda as stated, it was revised. Pursuant to Section 203 and to change name of ownership for taxation purposes.
+
+**[01:05:23.670] Atty. Lindon Miguel C. Bacquel**  
+So what was the transaction involved based on the record, sir, in this case?
+
+**[01:05:29.270] Engr. Jaime G. Adalin**  
+The transaction is deed of sale and also attached there is the e-card, the capital gain tax, documentary stamp, and all others.
+
+**[01:05:41.730] Atty. Lindon Miguel C. Bacquel**  
+Thank you, sir. For the record, Your Honor, we... would respectfully request the marking of this document as Defense Exhibit D-2-3-DBO, Your Honor, considering the stipulation of the prosecution regarding the authenticity and the capacity of the witness to identify this document.
+
+**[01:06:04.450] Sen. Francis "Chiz" G. Escudero**  
+It's ordered.
+
+**[01:06:06.920] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[01:06:10.770] Atty. Lindon Miguel C. Bacquel**  
+Engineer, I'm proceeding to the other tax declaration. Declaration of Real Property Value Building under the same registered owner you identified earlier which is Cynthia Basilo Madelo. Do you have that with you, sir?
+
+**[01:06:30.530] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[01:06:32.690] Atty. Lindon Miguel C. Bacquel**  
+What property is involved in this document, sir?
+
+**[01:06:36.310] Engr. Jaime G. Adalin**  
+This property is described as a single detached building with property index number 172-09-012-028-910-1001.
+
+**[01:06:55.610] Atty. Lindon Miguel C. Bacquel**  
+Who is the registered owner based on this document, sir?
+
+**[01:06:59.610] Engr. Jaime G. Adalin**  
+It is registered to Cynthia Basilio Modelo.
+
+**[01:07:04.890] Atty. Lindon Miguel C. Bacquel**  
+And what is the location of this property, sir?
+
+**[01:07:10.700] Engr. Jaime G. Adalin**  
+It is located in Talomo, Matina Crossing, Huna Subdivision.
+
+**[01:07:15.890] Atty. Lindon Miguel C. Bacquel**  
+What is the assessed value of this property, sir?
+
+**[01:07:19.510] Engr. Jaime G. Adalin**  
+The assessed value is 296,241 pesos.
+
+**[01:07:25.370] Atty. Lindon Miguel C. Bacquel**  
+What is the market value based on this document, sir?
+
+**[01:07:29.770] Engr. Jaime G. Adalin**  
+The market value is 987,470 pesos, sir.
+
+**[01:07:35.960] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Engineer. Your Honor. Again, considering the stipulation of the prosecution regarding the authenticity and the competence of the witness to identify and authenticate the document, we respectfully request that we would mark this document as Defense Exhibit D-2-3-1-DVO.
+
+**[01:07:59.590] Sen. Francis "Chiz" G. Escudero**  
+It's ordered.
+
+**[01:08:01.160] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[01:08:05.040] Atty. Lindon Miguel C. Bacquel**  
+Finally, Engineer, we have the last Tax declaration you identified, you brought before this honorable court.
+
+**[01:08:17.190] Atty. Lindon Miguel C. Bacquel**  
+Do you have it with you, sir? This is the tax declaration on land under the name of Attorney Manases R. Carpio, married to Sara Z. Duterte. Do you have that with you, sir?
+
+**[01:08:32.880] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[01:08:34.860] Atty. Lindon Miguel C. Bacquel**  
+What properties involved in this tax declaration, sir?
+
+**[01:08:39.630] Engr. Jaime G. Adalin**  
+This property is described as lot number 23-B with survey number PSD-11-019221 and with property index number 172-09-012-028-910.
+
+**[01:09:00.530] Atty. Lindon Miguel C. Bacquel**  
+What transfer certificate of title does this tax declaration correspond to, sir?
+
+**[01:09:07.570] Engr. Jaime G. Adalin**  
+It has a title number 146-2024-01-0775, sir.
+
+**[01:09:17.270] Atty. Lindon Miguel C. Bacquel**  
+And based on this document, sir, who is the registered owner?
+
+**[01:09:20.570] Engr. Jaime G. Adalin**  
+The registered owner is attorney Manases Carpio, married to Sara Duterte.
+
+**[01:09:25.190] Atty. Lindon Miguel C. Bacquel**  
+What is the location of the property, sir?
+
+**[01:09:27.870] Engr. Jaime G. Adalin**  
+It is located in Talomo, Matina Crossing, Una Subdivision.
+
+**[01:09:32.270] Atty. Lindon Miguel C. Bacquel**  
+What is the assessed value of this property as... Reflected in the document, sir.
+
+**[01:09:39.490] Engr. Jaime G. Adalin**  
+The asset value is 82,046 pesos, sir.
+
+**[01:09:45.180] Atty. Lindon Miguel C. Bacquel**  
+And what is the market value, sir?
+
+**[01:09:47.980] Engr. Jaime G. Adalin**  
+The market value is 2,051,150 pesos.
+
+**[01:09:53.790] Atty. Lindon Miguel C. Bacquel**  
+Okay. For the record, Your Honor, the witness provided a certified machine copy of this document which we request to mark as defense exhibit D-2-3-2-DBO, Your Honor.
+
+**[01:10:14.580] Sen. Francis "Chiz" G. Escudero**  
+It's ordered.
+
+**[01:10:16.820] Atty. Lindon Miguel C. Bacquel**  
+Sir, when I asked you to explain the contents of the tax declarations which you produced before this honorable court, you've mentioned the assessed value and the market value. Who determines these values, sir?
+
+**[01:10:38.650] Engr. Jaime G. Adalin**  
+The assessed value?
+
+**[01:10:40.070] Atty. Lindon Miguel C. Bacquel**  
+The assessed value. Doon mo na tayo, sir. Paano po nade-determine to?
+
+**[01:10:44.770] Engr. Jaime G. Adalin**  
+Okay. Part po ng appraisal and assessment is the computation of the assessed value based on the assessment level prescribed by ordinance, particularly in the Schedule of Market Value.
+
+**[01:11:00.020] Atty. Lindon Miguel C. Bacquel**  
+Okay. E yung market value naman po, paano po nade-determine yun?
+
+**[01:11:04.020] Engr. Jaime G. Adalin**  
+The market value is also based on the ordinance approved by the Sangguniang Panlungsod and signed by the City Mayor.
+
+**[01:11:11.560] Atty. Lindon Miguel C. Bacquel**  
+So naka-tama po na naka-contain siya sa isang ordinance?
+
+**[01:11:15.560] Engr. Jaime G. Adalin**  
+Yes, sir. There are base value including classification ng mga lupa.
+
+**[01:11:22.420] Atty. Lindon Miguel C. Bacquel**  
+Okay. Thank you for confirming that.
+
+**[01:11:27.530] Atty. Lindon Miguel C. Bacquel**  
+Sir, as City Assessor of Davao City, you confirmed sir na public official po kayo, no?
+
+**[01:11:34.910] Engr. Jaime G. Adalin**  
+Pardon sir?
+
+**[01:11:35.750] Atty. Lindon Miguel C. Bacquel**  
+You confirm sir na as the city assessor of Davao City, public official po kayo? Public official po kayo?
+
+**[01:11:43.000] Engr. Jaime G. Adalin**  
+Yes, correct sir. Sorry.
+
+**[01:11:44.560] Atty. Lindon Miguel C. Bacquel**  
+So, since public official kayo, required din kayo mag-file ng SALN, tama ba?
+
+**[01:11:49.120] Engr. Jaime G. Adalin**  
+You're correct sir.
+
+**[01:11:50.300] Atty. Lindon Miguel C. Bacquel**  
+So, ibig sabihin, familiar naman kayo sa itsura ng SALN?
+
+**[01:11:53.880] Engr. Jaime G. Adalin**  
+You're correct sir.
+
+**[01:11:55.040] Atty. Lindon Miguel C. Bacquel**  
+And alam nyo naman yung mga kailangan i-disclose na property dun sa SALN, tama ba sir?
+
+**[01:12:01.400] Engr. Jaime G. Adalin**  
+Yes sir.
+
+**[01:12:02.040] Atty. Lindon Miguel C. Bacquel**  
+I will be confronting you with the...
+
+**[01:12:06.120] Atty. Lindon Miguel C. Bacquel**  
+Statement of Assets, Liabilities, and Net Worth of the Vice President as of December 31, 2024.
+
+**[01:12:13.960] Atty. Benjamin Tolosa Jr.**  
+Your Honor, I'm sure the good counsel would recall that when he cross-examined the RDs presented by the prosecution, he objected to the presentation of the silence of the Vice President on the ground that
+
+**[01:12:33.310] Atty. Benjamin Tolosa Jr.**  
+Several grounds actually. I think he raised opinion rule, relevance, basis, etc. So I'm sure he anticipated that we're throwing back the same objections to him.
+
+**[01:12:47.760] Atty. Lindon Miguel C. Bacquel**  
+So what's the ground of the objection you're on? Maybe we just clarify from the...
+
+**[01:12:51.140] Atty. Benjamin Tolosa Jr.**  
+Again, same objections that you raised. Ask for an opinion, incompetence, no basis.
+
+**[01:12:59.110] Sen. Francis "Chiz" G. Escudero**  
+To abbreviate the proceedings, allow me. Atty. Jimmy, rather Engineer Jimmy.
+
+**[01:13:05.390] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[01:13:06.650] Sen. Francis "Chiz" G. Escudero**  
+If I may go direct to the point. Kindly furnish Atty. Engineer Jimmy with a copy of the SALN of the Vice President and kindly indicate or point the Assisting Counsel to the line on page 3 of the SALN.
+
+**[01:13:26.070] Sen. Francis "Chiz" G. Escudero**  
+Third to the last line in real properties. Assisting Counsel from the Prosecution may likewise approach. I presume that's what the Governor Lindon is leading to.
+
+**[01:13:35.780] Atty. Lindon Miguel C. Bacquel**  
+Correct, Your Honor. Thank you, Your Honor.
+
+**[01:13:37.680] Sen. Francis "Chiz" G. Escudero**  
+So, Engineer Jimmy, ito po bang nakalagay dyan na Barangay 74A, Davao City, assessed value 82,046, market value, tama ba? Fair market value 2,051,150, 2024 sale 10 million. Yan po ba yung parehong property yung kanina pa niyo pinag-uusapan ni Atty. Lindon na may kaugnayan sa TCT na nagtatapos sa 0775?
+
+**[01:14:10.050] Engr. Jaime G. Adalin**  
+Yes, Your Honor. That is the same property, Your Honor.
+
+**[01:14:13.010] Sen. Francis "Chiz" G. Escudero**  
+Paano niyo nasabi yan?
+
+**[01:14:14.900] Engr. Jaime G. Adalin**  
+It is based on the tax declaration that was presented a while ago na nakalagay po doon yung 2,051,150 pesos.
+
+**[01:14:30.900] Engr. Jaime G. Adalin**  
+that yung tax declaration na yun was cancelled after the sale.
+
+**[01:14:37.300] Sen. Francis "Chiz" G. Escudero**  
+Naalala ko rin binanggit niyo yung halagang 82,046 na assessed value. Tama po ba?
+
+**[01:14:42.540] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[01:14:43.760] Sen. Francis "Chiz" G. Escudero**  
+Ngayon, nakalagay sa deed of sale na pinresenta sa hukumang ito na 6 na milyon lamang ang pinag-binayaran kaugnay sa property. Bakit po 10 milyon na nakalagay dito sa pananon ninyo? Kung alam niyo.
+
+**[01:14:55.700] Engr. Jaime G. Adalin**  
+I'm actually not aware, sir.
+
+**[01:14:58.360] Sen. Francis "Chiz" G. Escudero**  
+Pero familiar kayo dun sa deed of sale na naglipat ng pangalan mula sa dating may-ari patungo sa mag-asawang Carpio?
+
+**[01:15:05.460] Engr. Jaime G. Adalin**  
+Based on the memoranda, nakalagay po dun na merong sale po.
+
+**[01:15:09.260] Sen. Francis "Chiz" G. Escudero**  
+Na merong sale po?
+
+**[01:15:10.660] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[01:15:11.600] Sen. Francis "Chiz" G. Escudero**  
+Pero hindi niyo po nakakita yung deed of sale?
+
+**[01:15:15.130] Engr. Jaime G. Adalin**  
+Probably during the transfer, usually, meron po mga examination of document. That is why it is indicated in the memoranda na yung mga documents na in-attach po.
+
+**[01:15:27.700] Sen. Francis "Chiz" G. Escudero**  
+Ngayon, maliban po dun sa fair market value at saka maliban dun sa assessed value na pinabanggit nyo, ano pa po ang basihan nyo kung meron man na itong Barangay 74A Davao City Residential Lot ayun nga pong 0075 nagtatapos na TCT? Kung meron pa po kayo bang ibang basihan?
+
+**[01:15:46.380] Engr. Jaime G. Adalin**  
+Meron po kaming basihan. Actually, we inquired from our comprehensive land use plan. It is an ordinance implementing the comprehensive land use plan. Nakalagay po doon Matina Crossing 74-A. And even in the barangay office themselves, may mga pictures pong inatouch. Matina Crossing, nakalagay po doon Barangay 74-A, Matina Crossing.
+
+**[01:16:19.470] Sen. Francis "Chiz" G. Escudero**  
+Ano ba po kung meron pa?
+
+**[01:16:22.390] Engr. Jaime G. Adalin**  
+Again, from the BCAD, meron din po kaming nirequest na certification and it has been kumaga parang naging common knowledge doon sa area na yung Matina Crossing is also the same with 74.8.
+
+**[01:16:42.920] Sen. Francis "Chiz" G. Escudero**  
+Bakit po ba pinangalan ng Matina Crossing yun?
+
+**[01:16:47.630] Engr. Jaime G. Adalin**  
+Based on our research,
+
+**[01:16:52.960] Engr. Jaime G. Adalin**  
+The name Matina Crossing is based on Republic 4354 issued in 1965. That meron na pong Matina Crossing, Matina Pangi, Matina... Parang tatlo po yan.
+
+**[01:17:13.050] Sen. Francis "Chiz" G. Escudero**  
+So pangalan po ng barangay Matina Crossing noon?
+
+**[01:17:16.710] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[01:17:17.970] Sen. Francis "Chiz" G. Escudero**  
+Ngayon ang pangalan ng parehong barangay na yun na Matina Crossing ay Barangay 74A.
+
+**[01:17:23.230] Engr. Jaime G. Adalin**  
+Pardon nyo ano, dati siyang Matina lang, kumbaga nagkaroon siya ng apelido, nagkaroon ng Matina Crossing, Matina, and so tatlo po yan.
+
+**[01:17:33.590] Sen. Francis "Chiz" G. Escudero**  
+Tapos ngayon po, 74A na ang pangalan ng barangay.
+
+**[01:17:36.830] Engr. Jaime G. Adalin**  
+Yes
+
+**[01:17:37.050] Engr. Jaime G. Adalin**  
+po.
+
+**[01:17:37.470] Sen. Francis "Chiz" G. Escudero**  
+Pero iisa at parehong barangay lamang yan?
+
+**[01:17:40.210] Engr. Jaime G. Adalin**  
+Yes po.
+
+**[01:17:41.290] Sen. Francis "Chiz" G. Escudero**  
+Okay. Your witness, Attorney Lindon if any?
+
+**[01:17:44.450] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, for the record, witness was confronted with the SALN of the respondent. as of December 31, 2024. May we also be allowed to confront the SALN as of December 31, 2025, Your Honor.
+
+**[01:18:01.000] Sen. Francis "Chiz" G. Escudero**  
+So you're referring to lines... You do that, counsel. You're referring to the third and fourth to the last line of page 3 also.
+
+**[01:18:10.740] Atty. Lindon Miguel C. Bacquel**  
+Correct, Your Honor.
+
+**[01:18:12.260] Sen. Francis "Chiz" G. Escudero**  
+Proceed. Assisting counsel may approach the witness at any time. Please proceed, Attorney Lindon.
+
+**[01:18:24.300] Atty. Lindon Miguel C. Bacquel**  
+Anong property po dyan, Engineer, yung tugma o kaparehas ng assessed value at market value sa mga tax declaration na in-identify mo kanina, Sir?
+
+**[01:18:39.680] Atty. Benjamin Tolosa Jr.**  
+It assumes that there's a property there that corresponds with the property indicated in the TCT.
+
+**[01:18:46.740] Sen. Francis "Chiz" G. Escudero**  
+If any, counsel. If any, witness may answer.
+
+**[01:18:54.440] Engr. Jaime G. Adalin**  
+Uh, pardon.
+
+**[01:18:55.300] Sen. Francis "Chiz" G. Escudero**  
+Engineer Jimmy, pwede po kayong sumagot.
+
+**[01:18:59.270] Sen. Francis "Chiz" G. Escudero**  
+May katumbas po bang ari-arian dito sa salay na pinapakita sa inyo, yung mga in-identify niyong dokumento kanina?
+
+**[01:19:06.170] Engr. Jaime G. Adalin**  
+Okay po. Yung residential lot with asset value of 82,046, yun po yung pinakita kanina. And ito pong building commercial located in Barangay 74-A is the same dito po sa tax declaration.
+
+**[01:19:31.830] Atty. Lindon Miguel C. Bacquel**  
+And
+
+**[01:19:32.390] Atty. Lindon Miguel C. Bacquel**  
+yung pong sa portion na binanggit nyo sa SALN, anong nakalagay na location nun sa Statement of Assets, Liabilities and Net Worth? Anong location po? Anong location ng property na binanggit mo?
+
+**[01:19:47.770] Engr. Jaime G. Adalin**  
+Barangay 74
+
+**[01:19:48.930] Engr. Jaime G. Adalin**  
+-A, Sir.
+
+**[01:19:51.250] Atty. Lindon Miguel C. Bacquel**  
+Anong kinalaman ng Barangay 74-A sa Barangay Matina Crossing, kung meron man?
+
+**[01:19:56.450] Engr. Jaime G. Adalin**  
+Isa lang po yan sila.
+
+**[01:19:58.070] Atty. Lindon Miguel C. Bacquel**  
+Isa lang. Okay. Sir, so tama po na wala pong basihan yung sinasabi ng prosecution na hindi ito kabilang sa mga itiniklarang pag-aari ng vice-presidente sa kanyang salin.
+
+**[01:20:11.370] Atty. Benjamin Tolosa Jr.**  
+Your Honor, objection. Hope this calls for an opinion.
+
+**[01:20:14.030] Sen. Francis "Chiz" G. Escudero**  
+I will
+
+**[01:20:14.250] Sen. Francis "Chiz" G. Escudero**  
+have to sustain the objection, counsel.
+
+**[01:20:17.270] Atty. Lindon Miguel C. Bacquel**  
+Nothing
+
+**[01:20:17.750] Atty. Lindon Miguel C. Bacquel**  
+further,
+
+**[01:20:18.150] Atty. Lindon Miguel C. Bacquel**  
+Your Honor.
+
+**[01:20:19.580] Sen. Francis "Chiz" G. Escudero**  
+Cross, Atty. Telosa.
+
+**[01:20:21.200] Atty. Benjamin Tolosa Jr.**  
+We
+
+**[01:20:21.500] Atty. Benjamin Tolosa Jr.**  
+will just have a few questions for Cross. But maybe you could proceed to the next witness first. Although we admitted the authenticity of the maps identified by the witness a while ago, there's just some information that we would want to verify.
+
+**[01:20:39.440] Sen. Francis "Chiz" G. Escudero**  
+You want to proceed with the next witness first?
+
+**[01:20:41.740] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor.
+
+**[01:20:42.360] Sen. Francis "Chiz" G. Escudero**  
+Before doing your cross?
+
+**[01:20:44.000] Atty. Benjamin Tolosa Jr.**  
+Yes,
+
+**[01:20:44.420] Atty. Benjamin Tolosa Jr.**  
+Your Honor.
+
+**[01:20:45.260] Sen. Francis "Chiz" G. Escudero**  
+We'll allow that. Atty. Lindon?
+
+**[01:20:48.190] Atty. Lindon Miguel C. Bacquel**  
+We would oppose that, Your Honor. It's unprocedural and the defense would construe that as a waiver of the right to cross-examine.
+
+**[01:20:56.750] Atty. Benjamin Tolosa Jr.**  
+Your Honor,
+
+**[01:20:57.070] Atty. Benjamin Tolosa Jr.**  
+may I respond? That is rich considering from the good counsel because it seems that he has forgotten that he did exactly the same thing when he was cross-examining the RDs presented by the prosecution on the same ground that because that witness The Register of Deeds presented new documents. He asked that he be given time to peruse these documents first and that the cross-examination be conducted after the lunch break. We're only
+
+**[01:21:26.010] Atty. Benjamin Tolosa Jr.**  
+asking
+
+**[01:21:26.390] Atty. Benjamin Tolosa Jr.**  
+for same treatment, Your Honor.
+
+**[01:21:28.490] Sen. Francis "Chiz" G. Escudero**  
+What
+
+**[01:21:29.090] Sen. Francis "Chiz" G. Escudero**  
+is the pleasure of Senator Judge Raffy before Attorney Lindon?
+
+**[01:21:34.650] Sen. Raffy T. Tulfo**  
+Mr. Presiding Officer, mayigit isang oras na tayo rito, pinag-uusapan natin, tapos 370 square meters lang. Meron akong suggestion sana. Yung dineclare ni VP Sara sa kanyang SALN sa Davao, yung pinag-uusapan sa Matina ba yun? Barangay 70 sa Matina Crossing. What if isabpinan natin yung title na yun and then yung title na pinag-uusapan natin ngayon na sinasabi niya may tax declaration, pagbabanggay na lang natin? Para shortcut.
+
+**[01:22:08.000] Sen. Francis "Chiz" G. Escudero**  
+We
+
+**[01:22:08.360] Sen. Francis "Chiz" G. Escudero**  
+have it in evidence, Senator Judge Raffy. The title is with us, identified by both parties.
+
+**[01:22:14.700] Sen. Raffy T. Tulfo**  
+So
+
+**[01:22:15.300] Sen. Raffy T. Tulfo**  
+we have the title doon sa dineklara ni BP Sara sa kanyang SALN versus sa title na pinag-usapan natin ngayon na tax declaration.
+
+**[01:22:24.300] Sen. Francis "Chiz" G. Escudero**  
+According to the witness, it's one and the same, Senator Judge Raffy.
+
+**[01:22:28.060] Sen. Raffy T. Tulfo**  
+So pag-umbangin na natin. Kung nakakatugma, then tapos usapan. Kung hindi magkatugma, then tuloy natin usapan. Kasi ibig sabihin, mis-declared. My right? Otherwise, abutin tayo dito hanggang hapon dahil namang sa 370 square meters na lupa. Maraming salamat po.
+
+**[01:22:45.050] Sen. Francis "Chiz" G. Escudero**  
+Julie noted, Senator Judge Raffy. Yes, Attorney Lindon, before the chair makes a ruling.
+
+**[01:22:50.210] Atty. Lindon Miguel C. Bacquel**  
+Can I just quickly respond, Your Honor? The situation is different considering that the defense was not the one who asked.
+
+**[01:23:00.570] Atty. Lindon Miguel C. Bacquel**  
+Another witness be presented prior to the cross-examination, Your Honor. In this case, it is the prosecution, counsel for the prosecution who is asking that, Your Honor. It was not proposed by the defense. Rather, that was the procedure taken by the court. But it was not requested by the defense, Your Honor. So it's a different...
+
+**[01:23:21.690] Sen. Francis "Chiz" G. Escudero**  
+Cheryl, therefore, make her ruling. Attorney Lindon.
+
+**[01:23:25.220] Atty. Lindon Miguel C. Bacquel**  
+Thank you.
+
+**[01:23:25.600] Sen. Francis "Chiz" G. Escudero**  
+But before the chair makes a ruling, how many, approximately how many minutes? Will you be still the same counsel to handle Engineer Enumerables, Atty. Telosa?
+
+**[01:23:36.000] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor, as well as the Punong Barangay if they'll also present her today.
+
+**[01:23:40.140] Sen. Francis "Chiz" G. Escudero**  
+So how will you prepare for Engineer Jimmy if you're the one also
+
+**[01:23:46.200] Sen. Francis "Chiz" G. Escudero**  
+to stand?
+
+**[01:23:47.300] Atty. Benjamin Tolosa Jr.**  
+Sorry, during the lunch break. During the lunch break because we think If we will proceed to the next two witnesses, once we're done, it will be in time for the next meeting.
+
+**[01:23:58.910] Sen. Francis "Chiz" G. Escudero**  
+Perhaps only until the city assessor of the Island Garden City of Samal. Otherwise, you will have to proceed with your cross with the accountant, attorney to Lhasa, right after direct.
+
+**[01:24:16.740] Sen. Francis "Chiz" G. Escudero**  
+We
+
+**[01:24:17.220] Sen. Francis "Chiz" G. Escudero**  
+will not force the three witnesses to be finished before lunch, Atty.
+
+**[01:24:20.900] Sen. Francis "Chiz" G. Escudero**  
+Tolosa. So I'm telling you already.
+
+**[01:24:22.220] Atty. Benjamin Tolosa Jr.**  
+Yes, sir. We submit yun.
+
+**[01:24:23.700] Sen. Francis "Chiz" G. Escudero**  
+The chair is willing to call Engineer Enumerables on direct but only until there. And then you will have to do your cross for both.
+
+**[01:24:35.440] Sen. Francis "Chiz" G. Escudero**  
+Sequentially, thereafter, we will call on the city accountant of Davao, whether before or after lunch.
+
+**[01:24:40.980] Atty. Benjamin Tolosa Jr.**  
+We submit yun.
+
+**[01:24:42.920] Sen. Francis "Chiz" G. Escudero**  
+Atty. Lindon?
+
+**[01:24:46.080] Atty. Lindon Miguel C. Bacquel**  
+With your respect to this honorable court, I think it seems that the prosecution
+
+**[01:24:54.810] Atty. Benjamin Tolosa Jr.**  
+is somehow dictating how the defense would want to present its evidence, Your Honor. So we would actually request this honorable court to conclude with the... Examination of Engineer Innumerables, whether it be with the cross-examination of the counsel for the prosecution or not, Your Honor. Is
+
+**[01:25:25.570] Atty. Benjamin Tolosa Jr.**  
+this a motion for reconsideration, which is obviously not allowed, Your Honor?
+
+**[01:25:29.670] Sen. Francis "Chiz" G. Escudero**  
+The court has not yet made a ruling. The court merely stated its intention.
+
+**[01:25:33.970] Sen. Francis "Chiz" G. Escudero**  
+So, kindly wind up, Attorney Lindon, with respect to your manifestation.
+
+**[01:25:43.400] Atty. Lindon Miguel C. Bacquel**  
+Yes, Your Honor. If they need time to cross-examine the Engineer Adelin, then they could simply ask this Honorable Court but not compel us, so to speak, to present another witness while they're preparing for that.
+
+**[01:26:03.610] Sen. Francis "Chiz" G. Escudero**  
+Actually, I perceive this will be a short cross.
+
+**[01:26:06.630] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor.
+
+**[01:26:07.350] Sen. Francis "Chiz" G. Escudero**  
+Correct?
+
+**[01:26:07.830] Atty. Benjamin Tolosa Jr.**  
+Yes, that's correct, Your Honor. We just need... Just to do away with asking for a recess of 5 to 10 minutes.
+
+**[01:26:15.540] Sen. Francis "Chiz" G. Escudero**  
+I
+
+**[01:26:15.800] Sen. Francis "Chiz" G. Escudero**  
+think that'll be shorter. How many minutes do you need at council?
+
+**[01:26:21.740] Atty. Benjamin Tolosa Jr.**  
+Maybe just 5 minutes.
+
+**[01:26:23.800] Sen. Francis "Chiz" G. Escudero**  
+Because I'm sure we
+
+**[01:26:25.040] Sen. Francis "Chiz" G. Escudero**  
+will not be able to finish with the direct, or if we do finish with the direct, you will do your cross with the assessor of the Island Guardian City of Samal after lunch. We're only talking of this witness.
+
+**[01:26:37.900] Atty. Benjamin Tolosa Jr.**  
+Can I give you a few minutes,
+
+**[01:26:39.360] Sen. Francis "Chiz" G. Escudero**  
+counsel?
+
+**[01:26:40.100] Atty. Benjamin Tolosa Jr.**  
+Yes,
+
+**[01:26:40.660] Atty. Benjamin Tolosa Jr.**  
+Your Honor. So not to belabor the point, just ask for five minutes, Your Honor, then we'll proceed with the cross.
+
+**[01:26:45.940] Atty. Benjamin Tolosa Jr.**  
+Thank you,
+
+**[01:26:46.180] Atty. Benjamin Tolosa Jr.**  
+Your Honor.
+
+**[01:26:46.860] Sen. Francis "Chiz" G. Escudero**  
+Chair declares a recess of five minutes in order to afford the prosecution time to prepare for cross. Those who would like to address or answer the call of nature, you may also do so at this time.
+
+**[01:37:21.580] Sen. Francis "Chiz" G. Escudero**  
+We shall proceed with the cross-examination of Engineer Jimmy. Attorney Talosa, you are recognized.
+
+**[01:37:28.320] Atty. Benjamin Tolosa Jr.**  
+Thank you, Your Honor.
+
+**[01:37:31.390] Atty. Benjamin Tolosa Jr.**  
+Just for administrative matters, Your Honor, may we ask for continuing authority that it be granted to Attorney Ameera Julia Tungupon, our Assistant Counsel for today, so that I could approach the witness when necessary to confront him with documents.
+
+**[01:37:46.450] Sen. Francis "Chiz" G. Escudero**  
+Similar authority is given to Assistant Counsel from the respondent.
+
+**[01:37:49.790] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor. And that attorney... Marieth Kimberly Almonte, who's situated in the tech booth right now, that she be allowed to flash the same documents that will be handed to the witness on the screen. Thank
+
+**[01:38:04.650] Atty. Benjamin Tolosa Jr.**  
+you, Your Honor.
+
+**[01:38:05.370] Atty. Benjamin Tolosa Jr.**  
+May I
+
+**[01:38:07.910] Atty. Benjamin Tolosa Jr.**  
+proceed, Your Honor?
+
+**[01:38:08.610] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir.
+
+**[01:38:09.550] Atty. Benjamin Tolosa Jr.**  
+Thank you, Your Honor. Good afternoon. May I call you Engineer Adeline, sir?
+
+**[01:38:16.110] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[01:38:17.470] Atty. Benjamin Tolosa Jr.**  
+So, Engineer, a while ago, Please correct me if I'm wrong, but you positively asserted that the property covered by TCT number 146-2024-010775 is the same property indicated in the 2024 and 2025 SALNs of the Vice President. which is described as having a location of Barangay 74-8, Davao City. Is that correct?
+
+**[01:39:00.380] Engr. Jaime G. Adalin**  
+That's correct, sir.
+
+**[01:39:01.480] Atty. Benjamin Tolosa Jr.**  
+For
+
+**[01:39:02.000] Atty. Benjamin Tolosa Jr.**  
+brevity, Your Honor, every time I will be talking about the TCT, I'm referring to TCT number 146-2024010775, which has been admitted in evidence as exhibit P-Roman numeral 2-4-1-LRA of the prosecution.
+
+**[01:39:21.550] Atty. Benjamin Tolosa Jr.**  
+Okay. And your basis for making this claim is that basically three things. You stated one, they're located in the same barangay. According to you, the barangay is Barangay Matina Crossing, which is the same as Barangay 74-8. And second, you said they had the same assessed value. And third, You mentioned they had the same fair market value. With these three information, you concluded that they pertain to the exact same property. Is that correct?
+
+**[01:40:03.660] Engr. Jaime G. Adalin**  
+You're correct, sir.
+
+**[01:40:04.680] Atty. Benjamin Tolosa Jr.**  
+Okay. Now, do
+
+**[01:40:11.320] Atty. Benjamin Tolosa Jr.**  
+you already have a copy of the SALNs with you? The 2024-2025?
+
+**[01:40:18.040] Engr. Jaime G. Adalin**  
+I don't have a copy, sir.
+
+**[01:40:19.420] Atty. Benjamin Tolosa Jr.**  
+Your Honor, we will hand the witness a copy of the SALNs, Your Honor.
+
+**[01:40:28.160] Atty. Benjamin Tolosa Jr.**  
+For the record, these have been... Previously admitted in evidence as prosecutions P-R-2-1-1-Q and R.
+
+**[01:40:59.930] Atty. Benjamin Tolosa Jr.**  
+So
+
+**[01:41:00.570] Atty. Benjamin Tolosa Jr.**  
+please refer to the SALN for the year ending 2024.
+
+**[01:41:08.190] Engr. Jaime G. Adalin**  
+Okay, sir.
+
+**[01:41:09.210] Atty. Benjamin Tolosa Jr.**  
+Yes, sir. Please go to the line pertaining to the property that you identified a while ago. That one with the location Barangay... 74-A Dabao City.
+
+**[01:41:25.220] Engr. Jaime G. Adalin**  
+Page 3 of 5, sir.
+
+**[01:41:27.700] Atty. Benjamin Tolosa Jr.**  
+Yes, that's correct.
+
+**[01:41:28.900] Engr. Jaime G. Adalin**  
+Okay. Describe as lot, residential, Barangay 74-A.
+
+**[01:41:33.720] Atty. Benjamin Tolosa Jr.**  
+It's
+
+**[01:41:33.900] Atty. Benjamin Tolosa Jr.**  
+pre-reference. May we ask the book to please reflect it.
+
+**[01:41:37.020] Engr. Jaime G. Adalin**  
+Okay. Thank you.
+
+**[01:41:38.800] Atty. Benjamin Tolosa Jr.**  
+So you'll admit that actually as pointed out by the good presiding officer a while ago, the acquisition cost indicated in the SALN was 10 million pesos, correct?
+
+**[01:41:51.430] Engr. Jaime G. Adalin**  
+Pardon, sir?
+
+**[01:41:52.840] Atty. Benjamin Tolosa Jr.**  
+The acquisition cost of that property as reflected and disclosed in the SALN is 10 million pesos, correct?
+
+**[01:42:01.360] Engr. Jaime G. Adalin**  
+Again, I'm not aware actually of the selling price of 10
+
+**[01:42:06.900] Atty. Benjamin Tolosa Jr.**  
+million. I'm asking you about the acquisition cost indicated in the SALN.
+
+**[01:42:15.160] Sen. Francis "Chiz" G. Escudero**  
+Engineer Jimmy, base po sa SALN na nasa harap ninyo, para sa 2024 ng Vice President, ano po yung nakalagay na...
+
+**[01:42:22.560] Engr. Jaime G. Adalin**  
+Ang nakalagay po dito as per record is 10 million. Sir.
+
+**[01:42:29.980] Atty. Benjamin Tolosa Jr.**  
+Okay, thank you. And since you're the City Assessor of Davao, you remember, you stated a while ago that several documents pertaining to the sale of this property were in your custody, in the custody of your office.
+
+**[01:42:49.980] Atty. Benjamin Tolosa Jr.**  
+So, you mentioned this includes the title of the property, is that correct?
+
+**[01:42:54.180] Engr. Jaime G. Adalin**  
+You're correct, sir.
+
+**[01:42:55.240] Atty. Benjamin Tolosa Jr.**  
+Is it correct that the e-car was also provided to your office?
+
+**[01:43:02.820] Engr. Jaime G. Adalin**  
+You're correct, sir.
+
+**[01:43:03.840] Atty. Benjamin Tolosa Jr.**  
+Yes, okay. So, Your Honor, may we ask that the e-car dated July 24, 2024, which was admitted in evidence as the prosecution's P- Roman numeral number 2-4-1-A-LRA be provided to the witness.
+
+**[01:43:59.470] Atty. Benjamin Tolosa Jr.**  
+Okay. So, this
+
+**[01:44:07.630] Atty. Benjamin Tolosa Jr.**  
+property, will you confirm that this pertains to a property located in Huna Subdivision, Matina Crossing, Talomo, Davao City, Davao del Sur?
+
+**[01:44:19.260] Engr. Jaime G. Adalin**  
+Probably yes, sir, as indicated in this e-card.
+
+**[01:44:24.610] Atty. Benjamin Tolosa Jr.**  
+Probably yes or an affirmative yes, sir?
+
+**[01:44:28.410] Engr. Jaime G. Adalin**  
+Pardon, sir.
+
+**[01:44:31.440] Atty. Benjamin Tolosa Jr.**  
+So,
+
+**[01:44:31.960] Atty. Benjamin Tolosa Jr.**  
+we don't have to guess you. Let's be certain. Please refer to the contents of that document so you could give us an affirmative answer. That is the location or the address indicated in that document.
+
+**[01:44:47.690] Engr. Jaime G. Adalin**  
+As per location, it is Huna Subdivision, Matina Crossing, Talomo, Davao City, Davao Sur, sir.
+
+**[01:44:56.650] Atty. Benjamin Tolosa Jr.**  
+Okay. And you would also admit that this refers to the... Title 20-13.
+
+**[01:45:09.020] Sen. Francis "Chiz" G. Escudero**  
+Just refer to it as ending in 0775, counsel. For
+
+**[01:45:13.180] Atty. Benjamin Tolosa Jr.**  
+this, Your Honor, it's ending 766.
+
+**[01:45:16.520] Sen. Francis "Chiz" G. Escudero**  
+Ah, the one canceled.
+
+**[01:45:18.380] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor.
+
+**[01:45:19.220] Atty. Lindon Miguel C. Bacquel**  
+We object, Your Honor. No basis, Your Honor.
+
+**[01:45:22.960] Atty. Benjamin Tolosa Jr.**  
+It is in the document, Your Honor, and the witness already confirmed that that is correct.
+
+**[01:45:27.020] Sen. Francis "Chiz" G. Escudero**  
+Overruled, counsel.
+
+**[01:45:28.820] Sen. Francis "Chiz" G. Escudero**  
+Witness may answer and already did. And
+
+**[01:45:30.920] Atty. Benjamin Tolosa Jr.**  
+now... You'll admit that that title is the same title that you explained a while ago, which was cancelled when the property covered by it was sold to a certain Maneses Carpio, which was then covered by TCT ending 775, correct?
+
+**[01:45:51.150] Engr. Jaime G. Adalin**  
+Yes, that is correct, sir, as indicated in the tax declaration number.
+
+**[01:45:55.110] Atty. Benjamin Tolosa Jr.**  
+Okay, thank you. And now you'll admit that in this certificate authorizing registration,
+
+**[01:46:04.340] Engr. Jaime G. Adalin**  
+Number 463.
+
+**[01:46:05.660] Atty. Benjamin Tolosa Jr.**  
+The same certificate authorizing registration that you would see here, the total selling price of
+
+**[01:46:20.690] Atty. Benjamin Tolosa Jr.**  
+6 million pesos.
+
+**[01:46:26.120] Engr. Jaime G. Adalin**  
+I don't have a data on that, sir.
+
+**[01:46:32.590] Atty. Benjamin Tolosa Jr.**  
+I approached the witness to guide him wrong. Thank you.
+
+**[01:46:38.160] Engr. Jaime G. Adalin**  
+Date of sale?
+
+**[01:46:46.910] Engr. Jaime G. Adalin**  
+Okay, as indicated in this e-card.
+
+**[01:46:58.010] Atty. Benjamin Tolosa Jr.**  
+Okay, thank you. So, first, as you've confirmed, the total... Selling price is 6 million pesos.
+
+**[01:47:06.040] Engr. Jaime G. Adalin**  
+You're correct, sir.
+
+**[01:47:07.140] Atty. Benjamin Tolosa Jr.**  
+Okay. And this e-car, this was issued in connection with the purchase of the property by Manases Carpio. Correct?
+
+**[01:47:22.440] Atty. Lindon Miguel C. Bacquel**  
+The witness would be incompetent to answer that.
+
+**[01:47:25.060] Atty. Benjamin Tolosa Jr.**  
+Your Honor, that's reflected in the eCAR.
+
+**[01:47:27.630] Atty. Benjamin Tolosa Jr.**  
+And as he has confirmed a while ago, these documents were in his custody in relation to the transfer of this property.
+
+**[01:47:35.730] Sen. Francis "Chiz" G. Escudero**  
+Witness
+
+**[01:47:36.070] Sen. Francis "Chiz" G. Escudero**  
+may answer.
+
+**[01:47:38.150] Engr. Jaime G. Adalin**  
+I actually don't have the copy of what is being attached during the transaction made.
+
+**[01:47:44.730] Atty. Benjamin Tolosa Jr.**  
+There is, can you refer to it and you will see the name of the buyer indicated in the e-car.
+
+**[01:47:53.900] Engr. Jaime G. Adalin**  
+Again, ito kasing car is not a document that we are producing.
+
+**[01:48:00.830] Atty. Benjamin Tolosa Jr.**  
+That is not my question, sir. The same way that when you were asked to identify certain figures in the SALN by the Council of Defense a while ago, we're asking you just to do the same thing. Confirm the contents of the document before you, which you've already confirmed is in the custody of your office.
+
+**[01:48:19.590] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. No basis and argumentative, Your Honor.
+
+**[01:48:23.990] Atty. Benjamin Tolosa Jr.**  
+I
+
+**[01:48:24.450] Atty. Benjamin Tolosa Jr.**  
+don't think I need to respond.
+
+**[01:48:25.510] Sen. Francis "Chiz" G. Escudero**  
+I'll allow it. I'll allow it, counsel. Kung alam niyo po ang kasagutan ng engineer, Jimmy?
+
+**[01:48:31.330] Engr. Jaime G. Adalin**  
+Again, as per document, and as indicated in the tax declaration, where it reflects the tax declaration that we are issuing, and probably that is the same, I may say, sir.
+
+**[01:48:46.880] Atty. Benjamin Tolosa Jr.**  
+Your Honor.
+
+**[01:48:47.760] Sen. Francis "Chiz" G. Escudero**  
+Yes.
+
+**[01:48:49.000] Atty. Benjamin Tolosa Jr.**  
+You're quite fond of using the word probably, no? But again, we don't have to venture into probabilities. Let's talk about facts. I'm asking you, the name of the buyer clearly indicated in that e-car, sir. Would you please confirm that the name of the buyer indicated in that document is Manases Carpio?
+
+**[01:49:11.810] Engr. Jaime G. Adalin**  
+As presented in this document, yes, sir.
+
+**[01:49:14.470] Atty. Benjamin Tolosa Jr.**  
+Thank you. So now, you already know, based on that e-car, which is again in their custody, the acquisition value of that property, which is 6 million, correct?
+
+**[01:49:26.710] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. Again, based on the document. Ask and answer, Your Honor. The question on cost of acquisition has been answered multiple times. Ask
+
+**[01:49:33.970] Sen. Francis "Chiz" G. Escudero**  
+and answer, counsel. Move on.
+
+**[01:49:35.330] Atty. Benjamin Tolosa Jr.**  
+We will take that. That cost of acquisition is 6 million. Aside from that...
+
+**[01:49:39.910] Atty. Lindon Miguel C. Bacquel**  
+We move
+
+**[01:49:40.130] Atty. Lindon Miguel C. Bacquel**  
+to strike that, Your Honor.
+
+**[01:49:42.150] Atty. Benjamin Tolosa Jr.**  
+I thought the objection is ask and answer.
+
+**[01:49:45.090] Sen. Francis "Chiz" G. Escudero**  
+Ask
+
+**[01:49:45.490] Sen. Francis "Chiz" G. Escudero**  
+and answer, but you cannot make a conclusion of law either, counsel. So, strict enough. Move on, counsel.
+
+**[01:49:51.210] Atty. Benjamin Tolosa Jr.**  
+We submit, Your Honor. We submit. And you would also admit, based on this e-car, What was purchased was not just a bare lot. It also included an improvement. Correct?
+
+**[01:50:04.490] Engr. Jaime G. Adalin**  
+As indicated in this e-call, sir.
+
+**[01:50:06.790] Atty. Benjamin Tolosa Jr.**  
+Yes, thank you. Okay. So, now, let's go to the SALN for year ending 2024 of the Vice President.
+
+**[01:50:25.200] Atty. Benjamin Tolosa Jr.**  
+You will admit that with respect to the property in the location Barangay 74-A, Davao City,
+
+**[01:50:33.560] Atty. Benjamin Tolosa Jr.**  
+what
+
+**[01:50:35.400] Atty. Benjamin Tolosa Jr.**  
+was declared there was just a lot? There's no separate declaration for any improvement or building, correct sir?
+
+**[01:50:45.050] Engr. Jaime G. Adalin**  
+As indicated in this SALN, it is a residential lot.
+
+**[01:50:49.790] Atty. Benjamin Tolosa Jr.**  
+A lot, correct?
+
+**[01:50:53.470] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[01:50:54.270] Atty. Benjamin Tolosa Jr.**  
+Yes, okay. And as you've mentioned a while ago, the acquisition is not 6 million, it is 10 million, correct?
+
+**[01:51:01.300] Engr. Jaime G. Adalin**  
+As indicated in this SALN, sir.
+
+**[01:51:03.440] Atty. Benjamin Tolosa Jr.**  
+Okay.
+
+**[01:51:26.410] Atty. Benjamin Tolosa Jr.**  
+Again, you also stated that...
+
+**[01:51:30.090] Atty. Benjamin Tolosa Jr.**  
+One of your basis for saying that the property indicated in the TCT and the one declared in the SALN pertain to one and the same property is that they are in the same barangay, 74-A.
+
+**[01:51:41.590] Engr. Jaime G. Adalin**  
+You're correct, sir.
+
+**[01:51:42.870] Atty. Benjamin Tolosa Jr.**  
+So you're aware that the size of that barangay is around, let me see, 5,000 square kilometers. Will you admit that?
+
+**[01:51:57.630] Engr. Jaime G. Adalin**  
+I don't have a record for now, sir.
+
+**[01:51:59.990] Atty. Benjamin Tolosa Jr.**  
+Okay, but insofar as you're aware, since you referred to all of these maps pertaining to that barangay, as an assessor, you stated your office had to do field investigation, tax mapping, etc. Would you admit that more or less, that is the size of that barangay?
+
+**[01:52:22.650] Atty. Lindon Miguel C. Bacquel**  
+Ask and answer, your honor.
+
+**[01:52:24.410] Sen. Francis "Chiz" G. Escudero**  
+If he knows, if
+
+**[01:52:26.390] Sen. Francis "Chiz" G. Escudero**  
+he can answer. Alam niyo po ba yung sagot, Engineer Jimmy, o hindi? Kung hindi po, sabihin niyo rin po hindi.
+
+**[01:52:32.100] Engr. Jaime G. Adalin**  
+Again, I don't have a record with me, sir.
+
+**[01:52:35.440] Atty. Benjamin Tolosa Jr.**  
+So you can't even give an estimate of the size?
+
+**[01:52:37.680] Atty. Lindon Miguel C. Bacquel**  
+Argumentative,
+
+**[01:52:38.360] Atty. Lindon Miguel C. Bacquel**  
+Your Honor.
+
+**[01:52:40.280] Atty. Benjamin Tolosa Jr.**  
+You're on a probing question, Your Honor.
+
+**[01:52:42.160] Atty. Lindon Miguel C. Bacquel**  
+No, it's argumentative, Your Honor.
+
+**[01:52:47.180] Sen. Francis "Chiz" G. Escudero**  
+Engineer Jimmy, 94A is a barangay, hindi po ba? 74A? Ah, 74A, rather. Isang buong barangay yun, hindi po ba?
+
+**[01:52:57.480] Engr. Jaime G. Adalin**  
+Yes,
+
+**[01:52:57.940] Engr. Jaime G. Adalin**  
+Your Honor.
+
+**[01:52:59.157] Sen. Francis "Chiz" G. Escudero**  
+Kung saan maraming mga ari-ariang nandoon, hindi po ba?
+
+**[01:53:02.836] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[01:53:03.460] Sen. Francis "Chiz" G. Escudero**  
+Hindi lang naman po itong ari-ariang ito ending in TCT 0775 ang laman nito, hindi po ba?
+
+**[01:53:09.260] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[01:53:10.520] Sen. Francis "Chiz" G. Escudero**  
+So, yun lamang po naman ang tinatanong ni Atty. Tolosa. Malaking barangay ito at paano niyo nalaman at nasabi na ito nga yung parehong ari-arian ng Vice President na dineklara sa kanyang SALN? Dahil barangay lamang naman po yung pinangalanan. Hindi po kasi tulad sa Maynila, hindi ba, na merong
+
+**[01:53:27.700] Sen. Francis "Chiz" G. Escudero**  
+Numero po yung bahay eh. May street yung bahay. Sa probinsya po kasi madalas, di ba, barangay lang yung binabanggit. Kahit ho kami, barangay lang din address namin eh, sa probinsya eh. So, paano niyo po matitiyak, dahil wala naman pong numero yung bahay, walang kalye, na ito nga po yung property yung tinutukoy sa SALN na kanina niyo po pinag-uusapan?
+
+**[01:53:48.540] Engr. Jaime G. Adalin**  
+Base po doon sa property identification map.
+
+**[01:53:51.580] Engr. Jaime G. Adalin**  
+If you will overlay that property identification map with the Google, Makikita po niyo na doon siya nakalagay. And as far as the term 74-A, again, as I mentioned, sa aming comprehensive land use plan, nakalagay ang 74-A.
+
+**[01:54:13.790] Sen. Francis "Chiz" G. Escudero**  
+So pinagbabasihan niyo yung mapa? Yung mapa ng lokasyon ng property mismo na covered by TCT ending in 0775?
+
+**[01:54:23.810] Engr. Jaime G. Adalin**  
+You're correct, Your Honor.
+
+**[01:54:25.800] Sen. Francis "Chiz" G. Escudero**  
+Your witness Attorney Tolosa
+
+**[01:54:27.560] Atty. Benjamin Tolosa Jr.**  
+So to clarify, What you're stating, na sinasabi niyong kaya niyong i-identify, specifically dito sa property identification map niyo, itong shaded in red, 910, na sabi niyong na-identify niyo, yan ang property, you're pertaining to the property stated in the TCT. Tama ho ba? Dahil sa TCT, nakalagay ang coordinates niyan. Tama ho ba? At kapag binangga mo sa tax declaration, nandyan yung block number, lot number, street, etc. Tama ho ba? Pero lahat ng mga impormasyon na yan, wala yan sa SALN. Tama ho ba?
+
+**[01:55:08.910] Atty. Benjamin Tolosa Jr.**  
+Other than the barangay, hindi mo makikita yung coordinates na yan. Tama ho ba, Engineer?
+
+**[01:55:14.370] Engr. Jaime G. Adalin**  
+Ang nakalagay po sa SALN, as per document, is 74-A.
+
+**[01:55:18.470] Atty. Benjamin Tolosa Jr.**  
+Exactly. So, ang nakalagay lang ang barangay, ang exact coordinates ng property, wala sa SALN. Tama ho ba?
+
+**[01:55:26.050] Engr. Jaime G. Adalin**  
+Yes, I
+
+**[01:55:26.610] Engr. Jaime G. Adalin**  
+may say so.
+
+**[01:55:27.250] Atty. Benjamin Tolosa Jr.**  
+Yes. So hindi nakalagay block number, lot number. Tama ho ba?
+
+**[01:55:31.090] Engr. Jaime G. Adalin**  
+Sorry.
+
+**[01:55:38.150] Engr. Jaime G. Adalin**  
+Pakialit po yung tanong.
+
+**[01:55:40.630] Atty. Benjamin Tolosa Jr.**  
+So
+
+**[01:55:41.070] Atty. Benjamin Tolosa Jr.**  
+dyan sa SALN na yan, hindi rin nakalagay ano ang block number or lot number ng property indicated in that SALN. Tama ho ba?
+
+**[01:55:50.650] Atty. Lindon Miguel C. Bacquel**  
+Asking answer, Your
+
+**[01:55:51.470] Atty. Lindon Miguel C. Bacquel**  
+Honor.
+
+**[01:55:51.890] Atty. Benjamin Tolosa Jr.**  
+Not yet, Your Honor. A while ago, he was asked about the coordinates as reflected in the TCT.
+
+**[01:55:59.060] Engr. Jaime G. Adalin**  
+Yan, di po nakalagay.
+
+**[01:56:00.600] Atty. Benjamin Tolosa Jr.**  
+Yes. So, just confining your identification to the information indicated in the four corners of the SALN, there's no way for you to say that this property marked as 910 is that property indicated in the SALN, correct?
+
+**[01:56:19.340] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. Misleading and argumentative, Your Honor.
+
+**[01:56:22.720] Atty. Lindon Miguel C. Bacquel**  
+Very wrong, Your Honor.
+
+**[01:56:23.880] Sen. Francis "Chiz" G. Escudero**  
+We will allow
+
+**[01:56:24.600] Sen. Francis "Chiz" G. Escudero**  
+it,
+
+**[01:56:25.820] Sen. Francis "Chiz" G. Escudero**  
+counsel. Chair would also like to hear the answer of the witness. Please answer, Engineer Jimmy, kung alam niyo po yung sagot sa tanong.
+
+**[01:56:32.060] Engr. Jaime G. Adalin**  
+Probably the similarity is the asset value. Yeah, correct.
+
+**[01:56:38.560] Atty. Benjamin Tolosa Jr.**  
+Your
+
+**[01:56:38.960] Atty. Benjamin Tolosa Jr.**  
+Honor, may motion to strike for not being responsive.
+
+**[01:56:41.280] Atty. Lindon Miguel C. Bacquel**  
+That's the answer of the witness, Your Honor.
+
+**[01:56:42.440] Atty. Benjamin Tolosa Jr.**  
+Yes, but if it's not responsive, clearly under the rules, it should be stricken off the record. Sir, no? Simple lang ho ang tanong dito. Ang tinatanong ko lang ho dito, tulad ng sinabi niyo, ang nilalaman lamang na location, Indicated in the SALN is Barangay 74A. As you've confirmed, hindi nakalagay dyan yung mga technical description indicated in the TCT. Hindi man lang nakalagay dyan ang street, hindi din nakalagay ang block number, lot number. Considering wala yung information na yan dito sa SALN at ang nakalagay lang ang barangay, hindi mo pwedeng sabihin dito sa property identification map mo. na iyang property indicated in that SALN as located in Barangay 74A ay ito yung 910 na may narkahan in red. Tama ho
+
+**[01:57:35.360] Atty. Benjamin Tolosa Jr.**  
+ba?
+
+**[01:57:35.520] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. The question is vague, Your Honor. There are numerous factual premises upon which the question is based.
+
+**[01:57:42.180] Atty. Benjamin Tolosa Jr.**  
+That does not make it vague.
+
+**[01:57:43.660] Sen. Francis "Chiz" G. Escudero**  
+I
+
+**[01:57:43.840] Sen. Francis "Chiz" G. Escudero**  
+think the witness counsels, please. It's our first
+
+**[01:57:47.000] Sen. Francis "Chiz" G. Escudero**  
+day.
+
+**[01:57:47.600] Sen. Francis "Chiz" G. Escudero**  
+I think the witness is intelligent enough to be able to answer the question. Engineer Jimmy, yes, Senator Judge Lacson, you might be able to help abbreviate.
+
+**[01:57:57.700] Sen. Panfilo “Ping” M. Lacson**  
+Yes,
+
+**[01:57:58.340] Sen. Panfilo “Ping” M. Lacson**  
+to help
+
+**[01:57:58.500] Sen. Panfilo “Ping” M. Lacson**  
+abbreviate, yes,
+
+**[01:57:59.900] Sen. Panfilo “Ping” M. Lacson**  
+Mr. Presiding Officer. Engineer Jimmy, pakikonvince nyo lang yung court na yung pinag-uusapan property na naka-declare sa SALN ay yung the same property na pinag-uusapan kanina pa. Yun lang pong gusto namin.
+
+**[01:58:15.900] Sen. Panfilo “Ping” M. Lacson**  
+Okay.
+
+**[01:58:16.520] Sen. Panfilo “Ping” M. Lacson**  
+Salamat po.
+
+**[01:58:17.700] Engr. Jaime G. Adalin**  
+If the tax declaration is being attached to the SALN, that could be very easy to identify. Kasi yung date of sale as presented, nakareflect doon yung title, a former title. So, again...
+
+**[01:58:38.130] Engr. Jaime G. Adalin**  
+Itong SALN kasi is a document na hindi kami naman na nag-produce.
+
+**[01:58:43.510] Atty. Benjamin Tolosa Jr.**  
+Yes,
+
+**[01:58:43.870] Atty. Benjamin Tolosa Jr.**  
+tama ho. So tulad nga ng sabi nyo, kung sanang naka-attach ang tax declaration sa SALN, mapipinpoint mo sana yung location. Pero hindi ho naka-attach sa SALN, ano ho?
+
+**[01:58:56.490] Atty. Benjamin Tolosa Jr.**  
+Tama ho?
+
+**[01:58:57.530] Engr. Jaime G. Adalin**  
+Again, um...
+
+**[01:58:58.850] Atty. Benjamin Tolosa Jr.**  
+Sir, napakasimple, huwag po tayo magpaikot-ikot. Napakasimple ho ng tanong ko. Sinabi niyo kung sanang naka-attach ang tax declaration sa SALN, mapipinpoint mo sana yung actual location. Yan ho ang sagot niyo. Ngayon, pinapakonfirm ko lang ho sa inyo. Yung SALN na yan, hindi ho naka-attach ang tax declaration. Tama ho ba?
+
+**[01:59:20.660] Atty. Lindon Miguel C. Bacquel**  
+Asking answer, Your Honor.
+
+**[01:59:21.960] Atty. Benjamin Tolosa Jr.**  
+Not yet answered, Your Honor. Not yet, Attorney Linden.
+
+**[01:59:26.870] Sen. Francis "Chiz" G. Escudero**  
+Allow the chair. Engineer Jimmy.
+
+**[01:59:31.280] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[01:59:33.690] Sen. Francis "Chiz" G. Escudero**  
+Posible po na yung titolo ending in 00775 ay ito po yung binabanggit ng Vice President sa kanyang SALN. Posible po yun.
+
+**[01:59:43.850] Engr. Jaime G. Adalin**  
+Yes, possibly po.
+
+**[01:59:45.970] Sen. Francis "Chiz" G. Escudero**  
+Posible rin hindi.
+
+**[01:59:49.020] Engr. Jaime G. Adalin**  
+I'm not quite sure of that, sir.
+
+**[01:59:51.420] Sen. Francis "Chiz" G. Escudero**  
+Meaning in the realm of possibilities, ang sinasabi kasi ng prosecution, hindi ito yan.
+
+**[02:00:00.000] Sen. Francis "Chiz" G. Escudero**  
+Sabi ng depensa ng respondent, ito yan. So at the very least, can you say posibleng ito yan? Okay, ganito po siguro.
+
+**[02:00:07.520] Sen. Francis "Chiz" G. Escudero**  
+Dahil tumutugma yung assessed value at yung market value. At yung sama pang binabanggit nyo nung titolo ending in 0775. Tama po?
+
+**[02:00:18.560] Engr. Jaime G. Adalin**  
+Yes, your honor.
+
+**[02:00:19.680] Sen. Francis "Chiz" G. Escudero**  
+Ayan, isa pa po ang tanong. Ito pong 82,046 na assessed value. Ito po ba specific sa... Lupang ito na 379 square meters? O meron po bang ibang ari-arian doon na may ganito rin pong assessed value?
+
+**[02:00:37.060] Sen. Francis "Chiz" G. Escudero**  
+Subdivision po ba ito na iisa lang ang sukat?
+
+**[02:00:40.640] Engr. Jaime G. Adalin**  
+Dati po siyang subdivision.
+
+**[02:00:42.560] Sen. Francis "Chiz" G. Escudero**  
+Iisa lang po ba ang sukat? At meron po bang iba pang properties sa inyong talaan na may assessed value na 82,046? Kasi napaka-specific po naman ang 82,046 pesos.
+
+**[02:00:55.600] Engr. Jaime G. Adalin**  
+Not that I'm aware, Your Honor.
+
+**[02:00:58.200] Sen. Francis "Chiz" G. Escudero**  
+Iba-iba po ba yung assessed value? Specific po ba yun sa kada lupa? Kada lote?
+
+**[02:01:03.180] Engr. Jaime G. Adalin**  
+You're correct, Your Honor.
+
+**[02:01:04.580] Sen. Francis "Chiz" G. Escudero**  
+Hindi po siya magkakatugma?
+
+**[02:01:06.600] Engr. Jaime G. Adalin**  
+Possibly po kung magkakaiba po ang area at yung mga adjustment po.
+
+**[02:01:11.350] Sen. Francis "Chiz" G. Escudero**  
+Ganon din po sa fair market value. Iba-iba din po yun at specific din po yan sa lupa?
+
+**[02:01:16.230] Engr. Jaime G. Adalin**  
+You're correct,
+
+**[02:01:16.970] Engr. Jaime G. Adalin**  
+Your
+
+**[02:01:17.090] Engr. Jaime G. Adalin**  
+Honor.
+
+**[02:01:17.450] Sen. Francis "Chiz" G. Escudero**  
+Can you say with certainty na unique po, kakaiba at walang kahalintulad itong 82,046 na assessed value at saka 2,051,000 150 pesos na fair market value.
+
+**[02:01:32.140] Engr. Jaime G. Adalin**  
+Most probably, Your Honor.
+
+**[02:01:33.700] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[02:01:34.460] Sen. Francis "Chiz" G. Escudero**  
+Your witness, Attorney Tolosa.
+
+**[02:01:36.140] Atty. Benjamin Tolosa Jr.**  
+Thank
+
+**[02:01:36.360] Atty. Benjamin Tolosa Jr.**  
+you, Your Honor.
+
+**[02:01:36.720] Atty. Benjamin Tolosa Jr.**  
+Again, going back to my question. Sir, hapaka-simple lang ho nang tinatanong ko sa inyo. Sir, huwag na po tayo magpaikot-ikot. Tinatanong ko lang sa inyo, kung titignan nyo lang yung SALN sa harap nyo at nakalagay lang dyan Barangay 74A, hindi nyo masasabi... na ang property na nakadeklara dyan, yung nasa Barangay 74A, hindi nyo masasabing ito yan, yung property sa property identification map na nakamark ng red, number 910. Tama ho ba?
+
+**[02:02:04.640] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. This question has been answered several times. Your
+
+**[02:02:08.720] Atty. Benjamin Tolosa Jr.**  
+Honor, he has been repeatedly trying to dodge that question. That's why I am asking him to give a categorical... I'm
+
+**[02:02:14.960] Sen. Francis "Chiz" G. Escudero**  
+asked and answered, Counsel. Senator Judge Aquino.
+
+**[02:02:18.680] Sen. Francis "Chiz" G. Escudero**  
+Did you say yes?
+
+**[02:02:22.300] Atty. Benjamin Tolosa Jr.**  
+Your Honor, may we ask what was the answer given please? Respectfully, Your Honor.
+
+**[02:02:26.500] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Aquino, kindly attorney to the law.
+
+**[02:02:30.580] Sen. Paolo Benigno “Bam” Aquino**  
+Maraming salamat, Mr. Presiding Officer. Alam niyo po, magdadalawang oras na po tayo sa one property na ito. Gusto
+
+**[02:02:37.830] Sen. Paolo Benigno “Bam” Aquino**  
+ko lang pong linawin. Engineer, kayo po ang city assessor ng Davao City, correct? Tama po?
+
+**[02:02:45.030] Engr. Jaime G. Adalin**  
+You're correct, Your Honor.
+
+**[02:02:45.950] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. Nung kayo po'y sinupina, chinek niyo po ba? Ang lahat ng ari-arian ni Vice President Sara sa Barangay 74A, na-check nyo po ba yan? Or hindi nyo po, ito lang particular lot ang na-check din nyo o na-check nyo sa Barangay 74A kung ilan talaga yung kanyang properties?
+
+**[02:03:06.450] Engr. Jaime G. Adalin**  
+Hindi ko na po chineck kasi doon na po nakalagay sa subpoena yung specific title ending 0775.
+
+**[02:03:13.630] Sen. Paolo Benigno “Bam” Aquino**  
+So hindi nyo po masasabi, kasi kung na-check nyo po yan, pwede nyo sabihin isa lang yung kanyang property. sa Barangay 74A. Hindi niyo po masasabi yun ngayon.
+
+**[02:03:22.080] Engr. Jaime G. Adalin**  
+Hindi po, but kung ito po kasing eCAR na ito, ang basehan natin to check whether it is provided in this SALN, nakalagay po kasi dyan sa tax declaration, yung previous tax declaration ng DAND.
+
+**[02:03:37.990] Sen. Paolo Benigno “Bam” Aquino**  
+Tama po, engineer. I understand that. At ang sinasabi niyo po ninyo, ito pong property na tinutukoy ninyo ay Posible o malamang ito rin nakalagay sa SALN ni Vice President Sara. Pero yung nais po natin malaman kung ito lang ba ang kanyang property. So, were you able to check? Even just for that barangay, barangay 74A, kung ilan yung kanyang properties po ni Mans Carpio at ni Vice President Sara sa barangay na yan? Hindi niyo po alam.
+
+**[02:04:05.340] Engr. Jaime G. Adalin**  
+Hindi ko po na-check.
+
+**[02:04:06.520] Sen. Paolo Benigno “Bam” Aquino**  
+So,
+
+**[02:04:06.760] Sen. Paolo Benigno “Bam” Aquino**  
+posibleng more than one po o posibleng more than two.
+
+**[02:04:09.490] Engr. Jaime G. Adalin**  
+I'm not quite sure, although if we are required to submit an official document, we will produce as required.
+
+**[02:04:18.770] Sen. Paolo Benigno “Bam” Aquino**  
+Kasi alam niyo po, Mr. Presiding Officer, paikot-ikot po tayo. I think the witness has the capacity to provide all of the properties of Vice President Sara Duterte in Davao City. Pwede hong ibangga yun doon sa kanyang SALN. I don't want to... Do the job of the defense or of the prosecution. Pero kung nais po natin malaman, kung mababangga ba o hindi, this witness has the power and the capacity to actually find out kung ilang properties meron si Vice President Sara at si Mans at ilang properties yung nasa SALN. Mabangga na po natin, maybe we can save the time of this honorable court. Yun lang po, Mr. Presiding Officer. Maraming salamat.
+
+**[02:04:58.650] Sen. Francis "Chiz" G. Escudero**  
+Thank
+
+**[02:04:58.810] Sen. Francis "Chiz" G. Escudero**  
+you, Senator Judge Aquino. To respond to Attorney Tolosa, the witness responded that it is possible that The property he was describing earlier is the property mentioned in the SALN. Not that it is with certainty, but that it is possible. You may proceed with your cross, Atty. Toroso.
+
+**[02:05:16.620] Atty. Benjamin Tolosa Jr.**  
+If
+
+**[02:05:16.880] Atty. Benjamin Tolosa Jr.**  
+that's the case, can you please tell us, just with the information, Barangay 74A, how can you identify it? Again, please understand the question carefully, sir, with all due respect. Kung titignan lang natin itong impormasyon na nasa SALN, At ang nakalagay dyan ay location 74A. Paano niyo masasabi na ito yung nakamark na 900 din?
+
+**[02:05:44.400] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. The question is misleading because it's not only the location which is included in the SALN. It's also the cost of acquisition, assessed value, and market value, Your Honor. So, the premise of the question is misleading, Your Honor.
+
+**[02:06:01.180] Sen. Francis "Chiz" G. Escudero**  
+Let's not belabor the point.
+
+**[02:06:05.000] Sen. Francis "Chiz" G. Escudero**  
+Clearly, both sides will not agree. It is the position of the respondent that this is the property covered by TCT 0775. It is the position of the prosecution that it is not the property covered by TCT 0775 as contained in the 2024 and 2025 SALN of the Vice President.
+
+**[02:06:29.350] Sen. Francis "Chiz" G. Escudero**  
+Now, in the realm of possibilities, it is possible that this is the one referred to by the Vice President. When she made the declaration, the prosecutor is clearly trying to point out that it is not, given some inaccuracies or inconsistencies with respect, for example, to the acquisition cost. Would that be correct, counsel?
+
+**[02:06:49.370] Atty. Benjamin Tolosa Jr.**  
+That's correct.
+
+**[02:06:52.840] Sen. Francis "Chiz" G. Escudero**  
+Leave it at that. We
+
+**[02:06:53.960] Sen. Francis "Chiz" G. Escudero**  
+will never be
+
+**[02:06:54.960] Sen. Francis "Chiz" G. Escudero**  
+able to agree, counsel.
+
+**[02:06:56.100] Atty. Benjamin Tolosa Jr.**  
+We submit.
+
+**[02:06:57.380] Atty. Benjamin Tolosa Jr.**  
+One question
+
+**[02:06:58.820] Atty. Benjamin Tolosa Jr.**  
+with respect to your statement. You've stated that it is possible that this fair market value and assessed value is unique to this property. But you will admit that you cannot say that with 100% certainty. Considering you've admitted, you did not... Look at all of the joining properties, all the properties located in the same area, and check their respective assessed values and fair market values. Correct, sir?
+
+**[02:07:29.220] Engr. Jaime G. Adalin**  
+Pardon, sir. Sorry.
+
+**[02:07:33.240] Atty. Benjamin Tolosa Jr.**  
+Okay, sir. Sinabi niyo ho kanina, maaari na itong assessed value at market value, itong property na nakadeklara sa SALN na nasa barangay.
+
+**[02:07:46.180] Atty. Benjamin Tolosa Jr.**  
+74A. Sinabi nyo maaaring unique ho yan. Yan lang ang property dito sa area na ito na naka-indicate dito sa inyong mga mapa na meron lang ganyang assessed value at fair market value. Ito ho yung tanong, sir. Aaminin nyo ho dahil sinabi nyo nga hindi nyo naman tinignan isa-isa ang tax declaration na lahat ng properties niyan. Wala din yan sa inyong pangangalaga. Hindi nyo pwedeng sabihin. With an 100% certainty na talagang yung property na yan, yan lang ang may assessed value na ganyang halaga at market value na ganyang halaga sa Barangay 74A. Tama ho ba?
+
+**[02:08:25.990] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. The question is vague, compound, and ask and answer, Your Honor.
+
+**[02:08:31.690] Sen. Francis "Chiz" G. Escudero**  
+I would
+
+**[02:08:32.710] Sen. Francis "Chiz" G. Escudero**  
+have been satisfied with long, but...
+
+**[02:08:35.390] Atty. Lindon Miguel C. Bacquel**  
+Precisely, Your Honor.
+
+**[02:08:37.910] Sen. Francis "Chiz" G. Escudero**  
+No, naunawaan ba nyo, Atty. Engineer Jimmy?
+
+**[02:08:41.670] Sen. Francis "Chiz" G. Escudero**  
+Sabi niyo po kanina sa katanungan ko na posibleng unique ito, yung 82,046. Pero hindi po kayo sigurado ng buong buo kung talagang unique nga ba yan. Posibleng may kahalintulad ding property yan maliban dito sa assessed value nilagay dito sa property nito.
+
+**[02:09:05.520] Engr. Jaime G. Adalin**  
+Your Honor, I may agree with Honorable Aquino. We will check on the record and I will submit a document, duly certified, on all properties owned by Atty. Manases and Sara Duterte. Para matapos
+
+**[02:09:24.940] Engr. Jaime G. Adalin**  
+po tayo.
+
+**[02:09:25.620] Sen. Francis "Chiz" G. Escudero**  
+Bago niyo
+
+**[02:09:26.040] Sen. Francis "Chiz" G. Escudero**  
+po gawin yan, nasagutin niyo muna yung tanong ni Atty. Tolosa na pinasimplehan ko. So, hindi po kayo sigurado. Posible, pero hindi kayo nakatitiyak.
+
+**[02:09:38.050] Engr. Jaime G. Adalin**  
+For now kasi nga, Your Honor, wala, ang subvina kasi is specifically on TCT 0775. So yun lang po ang gi-verify namin. Now, if this honorable impeachment court would require us to submit or subvina to submit all properties owned by Atty. Manases on that particular barangay, then
+
+**[02:10:06.590] Sen. Francis "Chiz" G. Escudero**  
+we will submit. We
+
+**[02:10:09.260] Sen. Francis "Chiz" G. Escudero**  
+will cross the bridge when we get there.
+
+**[02:10:13.100] Sen. Francis "Chiz" G. Escudero**  
+Engineer Jimmy. So, ang kasagutan po sa tanong, hindi kayo nakatitiyak, pero kaya niyong tiyakin kung kinakailangan.
+
+**[02:10:20.140] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[02:10:21.340] Sen. Francis "Chiz" G. Escudero**  
+Okay.
+
+**[02:10:21.780] Engr. Jaime G. Adalin**  
+Those are public documents.
+
+**[02:10:23.500] Sen. Francis "Chiz" G. Escudero**  
+Okay. Attorney Tolosa.
+
+**[02:10:24.740] Atty. Benjamin Tolosa Jr.**  
+Okay.
+
+**[02:10:26.440] Atty. Benjamin Tolosa Jr.**  
+Considering itong information na nakita natin kanina na iba ang nakadeclare na purchase price at Acquisition cost, 6 million versus 10 million. At itong mga sinagot mo, nasabi nyo nga, posible na merong ibang property, hindi kayo nakakatiyak, but posible merong ibang property na may same assessed value. Do you still stand by your absolute assertion a while ago that the property indicated in the TCT is the same property indicated in the SALN?
+
+**[02:10:57.670] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. Ask and answer, Your Honor.
+
+**[02:11:00.470] Atty. Benjamin Tolosa Jr.**  
+Probing
+
+**[02:11:00.730] Atty. Benjamin Tolosa Jr.**  
+question, Your Honor. You can only say that if you don't introduce any new factual matters against which you will challenge the earlier question. This
+
+**[02:11:09.330] Atty. Benjamin Tolosa Jr.**  
+is a
+
+**[02:11:09.510] Atty. Benjamin Tolosa Jr.**  
+probing question,
+
+**[02:11:10.370] Atty. Benjamin Tolosa Jr.**  
+Your Honor.
+
+**[02:11:10.650] Atty. Lindon Miguel C. Bacquel**  
+It doesn't
+
+**[02:11:11.650] Atty. Lindon Miguel C. Bacquel**  
+change the fact that the witness already answered that question, Your Honor.
+
+**[02:11:14.530] Atty. Benjamin Tolosa Jr.**  
+It completely
+
+**[02:11:15.190] Atty. Benjamin Tolosa Jr.**  
+changes the fact, Your Honor, because I'm
+
+**[02:11:17.030] Atty. Benjamin Tolosa Jr.**  
+introducing new facts.
+
+**[02:11:18.250] Atty. Lindon Miguel C. Bacquel**  
+That's not.
+
+**[02:11:18.570] Sen. Francis "Chiz" G. Escudero**  
+Kindly, kindly, chill a bit. Attorney Tolosa, are you about to wind up?
+
+**[02:11:23.310] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor.
+
+**[02:11:24.200] Sen. Francis "Chiz" G. Escudero**  
+If you're about to wind up, then I'll allow it, even if the witness has indeed answered it already. But kindly answer, Engineer Jimmy.
+
+**[02:11:32.500] Engr. Jaime G. Adalin**  
+Again, I will insist, Your Honor, that we will submit a list of properties just for us to shorten this discussion. My apologies.
+
+**[02:11:45.620] Sen. Francis "Chiz" G. Escudero**  
+That is the witness' answer, Attorney Tolosa.
+
+**[02:11:47.860] Atty. Benjamin Tolosa Jr.**  
+Okay. A while ago, you... Just one last thing, Your Honor. Please. May we
+
+**[02:11:54.900] Atty. Benjamin Tolosa Jr.**  
+request the tech booth, Your Honor, to reflect
+
+**[02:11:57.520] Atty. Benjamin Tolosa Jr.**  
+on the screen some photos and we will show the witness, Your Honor.
+
+**[02:12:02.920] Sen. Francis "Chiz" G. Escudero**  
+Yes, please.
+
+**[02:12:03.920] Atty. Benjamin Tolosa Jr.**  
+Okay. So, you're aware of the area indicated in the property identification map, sir? The actual area, you're aware of that?
+
+**[02:12:16.940] Engr. Jaime G. Adalin**  
+That one?
+
+**[02:12:17.660] Atty. Benjamin Tolosa Jr.**  
+The property
+
+**[02:12:18.320] Atty. Benjamin Tolosa Jr.**  
+identification map muna, sir.
+
+**[02:12:20.100] Engr. Jaime G. Adalin**  
+Ah, yes.
+
+**[02:12:20.480] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[02:12:21.040] Atty. Benjamin Tolosa Jr.**  
+In fact, That property marked as 910. It's close to a landmark. It is close to a university, correct, sir?
+
+**[02:12:30.960] Engr. Jaime G. Adalin**  
+You're correct, sir.
+
+**[02:12:32.620] Atty. Benjamin Tolosa Jr.**  
+It's even close to SM City Dabao, correct, sir?
+
+**[02:12:38.640] Engr. Jaime G. Adalin**  
+You're correct,
+
+**[02:12:39.100] Engr. Jaime G. Adalin**  
+sir.
+
+**[02:12:39.240] Atty. Benjamin Tolosa Jr.**  
+So you're familiar with the area. So would you be able to confirm that if you could please kindly
+
+**[02:12:47.820] Atty. Benjamin Tolosa Jr.**  
+zoom in.
+
+**[02:12:50.570] Sen. Francis "Chiz" G. Escudero**  
+Kindly zoom in.
+
+**[02:13:07.080] Atty. Benjamin Tolosa Jr.**  
+Please focus on the area marked with the red pen.
+
+**[02:13:17.590] Sen. Francis "Chiz" G. Escudero**  
+Can you adjust, please?
+
+**[02:13:20.890] Sen. Francis "Chiz" G. Escudero**  
+The
+
+**[02:13:28.250] Sen. Francis "Chiz" G. Escudero**  
+tech is instructed to kindly adjust what is being shown to reflect the red pointer on the map.
+
+**[02:13:41.970] Sen. Francis "Chiz" G. Escudero**  
+And then zoom in.
+
+**[02:13:43.670] Atty. Benjamin Tolosa Jr.**  
+And for reference, Your Honor, we're also handing the witness with the printed copies of these photos.
+
+**[02:13:48.790] Sen. Francis "Chiz" G. Escudero**  
+Kindly zoom in.
+
+**[02:13:51.980] Sen. Francis "Chiz" G. Escudero**  
+Without losing the red pointer.
+
+**[02:14:04.920] Engr. Jaime G. Adalin**  
+Okay, yung pong naka-mark. Champaca. That's correct, sir.
+
+**[02:14:09.220] Atty. Benjamin Tolosa Jr.**  
+Yes. So, if you will compare it to the property located in your property identification map.
+
+**[02:14:20.320] Engr. Jaime G. Adalin**  
+Yeah, that's correct.
+
+**[02:14:21.540] Atty. Benjamin Tolosa Jr.**  
+You admit that they refer to the same property?
+
+**[02:14:24.480] Engr. Jaime G. Adalin**  
+Yes, you're correct,
+
+**[02:14:25.500] Engr. Jaime G. Adalin**  
+sir.
+
+**[02:14:25.720] Atty. Benjamin Tolosa Jr.**  
+Yes, okay. Can we show the second photo, please?
+
+**[02:14:32.410] Sen. Francis "Chiz" G. Escudero**  
+Second photo?
+
+**[02:14:33.550] Atty. Benjamin Tolosa Jr.**  
+Yes, sir.
+
+**[02:14:35.660] Sen. Francis "Chiz" G. Escudero**  
+Can we switch to the second photo?
+
+**[02:14:40.480] Atty. Benjamin Tolosa Jr.**  
+So
+
+**[02:14:41.080] Atty. Benjamin Tolosa Jr.**  
+this is the street view of the same property. So since you're familiar with the area and already confirmed that that property reflected a while ago, it's the same property contained in the TCT that we've been discussing, will you also admit that this photo, this is the property indicated in that TCT?
+
+**[02:15:02.610] Engr. Jaime G. Adalin**  
+I'm not quite sure,
+
+**[02:15:04.050] Engr. Jaime G. Adalin**  
+sir.
+
+**[02:15:04.530] Atty. Benjamin Tolosa Jr.**  
+Okay. Maybe that's understandable. It is not that recent because it's reflected. This is July 2025. Third photo, please. So we could show the more current photo.
+
+**[02:15:21.490] Atty. Benjamin Tolosa Jr.**  
+Yeah, more current photo. Yes. So is this the same property now since you're familiar with the area? Is it the property which is now called the Davao's Prime Bistro?
+
+**[02:15:36.030] Engr. Jaime G. Adalin**  
+Again,
+
+**[02:15:36.750] Engr. Jaime G. Adalin**  
+hindi po ako sure.
+
+**[02:15:38.050] Atty. Benjamin Tolosa Jr.**  
+You're
+
+**[02:15:38.570] Atty. Benjamin Tolosa Jr.**  
+not
+
+**[02:15:38.670] Atty. Benjamin Tolosa Jr.**  
+sure?
+
+**[02:15:39.190] Atty. Benjamin Tolosa Jr.**  
+That's okay. Since you're the assessor, based on your experience and competence as such, would you agree that a property like this, only if you can give an assessment, this is definitely worth more than the fair market value is definitely worth more than 10 million pesos?
+
+**[02:15:56.810] Atty. Lindon Miguel C. Bacquel**  
+Objection, your honor.
+
+**[02:15:59.590] Atty. Lindon Miguel C. Bacquel**  
+No basis and argumentative, your honor. Because the witness already mentioned earlier that He is not sure if that's the property being pertained in the property identification map. The second and third photos presented by the prosecution.
+
+**[02:16:17.250] Sen. Francis "Chiz" G. Escudero**  
+Architect Jimmy can say so.
+
+**[02:16:20.180] Sen. Francis "Chiz" G. Escudero**  
+Alam niyo po ba yung sagot sa talong ni Atty. Tolosa?
+
+**[02:16:23.440] Engr. Jaime G. Adalin**  
+Makakaiba po ang
+
+**[02:16:24.480] Engr. Jaime G. Adalin**  
+value ng property versus sa assessment na ginagawa ng mga assessor. Ang assessor po ay meron siyang schedule of market values na sinusunod. at naayon sa ordinance na in-issue.
+
+**[02:16:40.170] Atty. Benjamin Tolosa Jr.**  
+Okay. But based on your assessment, if you were to assess this property, you would say it is not a residential property, correct?
+
+**[02:16:47.250] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor. Relevance, Your Honor. The prosecution has yet to establish kung ano ba itong pinapakita nila, Your Honor. Because the witness
+
+**[02:16:56.070] Atty. Lindon Miguel C. Bacquel**  
+did not...
+
+**[02:16:56.390] Sen. Francis "Chiz" G. Escudero**  
+The witness already answered he doesn't know what this property is, Counsel.
+
+**[02:16:59.150] Atty. Benjamin Tolosa Jr.**  
+But
+
+**[02:16:59.370] Atty. Benjamin Tolosa Jr.**  
+only if
+
+**[02:16:59.810] Atty. Benjamin Tolosa Jr.**  
+he knows, Your Honor, and to test the credibility of the witness considering that he's been dodging questions left and right.
+
+**[02:17:05.970] Engr. Jaime G. Adalin**  
+Again, I am not sure with that.
+
+**[02:17:07.690] Atty. Benjamin Tolosa Jr.**  
+Not value, sir, if it is, you will not qualify this as a residential property.
+
+**[02:17:13.510] Engr. Jaime G. Adalin**  
+On
+
+**[02:17:13.950] Engr. Jaime G. Adalin**  
+the first
+
+**[02:17:14.010] Engr. Jaime G. Adalin**  
+place, sabi ko nga.
+
+**[02:17:15.850] Sen. Francis "Chiz" G. Escudero**  
+Ah, yes. Engineer Jimmy, please answer.
+
+**[02:17:19.450] Engr. Jaime G. Adalin**  
+Tulad nga ang sinabi ko, hindi ko naman alam kung yan ba yung subject property.
+
+**[02:17:24.160] Sen. Francis "Chiz" G. Escudero**  
+Pero sa pananaw ninyo, bilang assessor, residential po ba ito o hindi?
+
+**[02:17:31.860] Sen. Francis "Chiz" G. Escudero**  
+We're not talking of the same property, Engineer Jimmy. Pag may nakita po kayong ganitong uri ng building, ang tingin niyo po ba dito ay residential o commercial?
+
+**[02:17:41.280] Engr. Jaime G. Adalin**  
+Depende po yan kung ano yung gamit. Again, our basis is the actual use after inspection of the building. There are times na commercial ang building pero ang gamit is residential. So magkakaiba po yan.
+
+**[02:17:53.240] Sen. Francis "Chiz" G. Escudero**  
+So use ang basis at hindi itsura?
+
+**[02:17:57.080] Engr. Jaime G. Adalin**  
+You're correct, Your Honor.
+
+**[02:18:00.040] Atty. Benjamin Tolosa Jr.**  
+Just a very few questions. Please, when I beg your indulgence, I'm going to wrap this up. Because your answers have been very evasive, sir, I have to ask this. Can you confirm when you became the city assessor of Davao?
+
+**[02:18:13.900] Engr. Jaime G. Adalin**  
+I was appointed 2017.
+
+**[02:18:16.840] Atty. Benjamin Tolosa Jr.**  
+2017. Who was the local chief executive at that time?
+
+**[02:18:20.360] Engr. Jaime G. Adalin**  
+At the time, it was the former city mayor, Sarah Duterte.
+
+**[02:18:24.800] Atty. Benjamin Tolosa Jr.**  
+Okay. And
+
+**[02:18:25.380] Atty. Benjamin Tolosa Jr.**  
+it's the city executive which appoints the city assessors, correct?
+
+**[02:18:30.360] Engr. Jaime G. Adalin**  
+You're correct sir.
+
+**[02:18:31.380] Atty. Benjamin Tolosa Jr.**  
+At that time you were just acting city assessor?
+
+**[02:18:36.590] Engr. Jaime G. Adalin**  
+In 2016. Acting
+
+**[02:18:39.230] Engr. Jaime G. Adalin**  
+and was appointed in 2017.
+
+**[02:18:42.250] Atty. Benjamin Tolosa Jr.**  
+So he gave you the permanent position. Okay. You would also admit that sometime in November 2025, you're one of the LGU officials of Davao who went to China in an all-expense paid tour sponsored by the Chinese consulate. Is that correct?
+
+**[02:18:59.560] Atty. Lindon Miguel C. Bacquel**  
+Objection, Your Honor.
+
+**[02:19:00.580] Atty. Lindon Miguel C. Bacquel**  
+Relevance, Your Honor.
+
+**[02:19:01.500] Atty. Benjamin Tolosa Jr.**  
+Do you want to check his credibility, Your Honor, if he'll admit this or not?
+
+**[02:19:07.500] Sen. Francis "Chiz" G. Escudero**  
+You're in
+
+**[02:19:08.020] Sen. Francis "Chiz" G. Escudero**  
+a short leash, Counsel.
+
+**[02:19:09.080] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor. This is the final question, Your Honor.
+
+**[02:19:12.640] Sen. Francis "Chiz" G. Escudero**  
+Kindly answer, Engineer Jimmy.
+
+**[02:19:14.520] Engr. Jaime G. Adalin**  
+I think that's irrelevant.
+
+**[02:19:15.960] Atty. Benjamin Tolosa Jr.**  
+Your Honor, may the witness...
+
+**[02:19:18.620] Sen. Francis "Chiz" G. Escudero**  
+Funny ka doon, ha? Funny ka doon, Engineer Jimmy, ha? Pero... Funny ka doon.
+
+**[02:19:29.870] Engr. Jaime G. Adalin**  
+Actually, hindi ko talaga ma-recall.
+
+**[02:19:31.700] Atty. Benjamin Tolosa Jr.**  
+You cannot recall sir, if in November 2025, you went to China last year, you cannot recall that.
+
+**[02:19:40.160] Atty. Lindon Miguel C. Bacquel**  
+Argumentative, Your Honor.
+
+**[02:19:41.380] Sen. Francis "Chiz" G. Escudero**  
+I've already answered,
+
+**[02:19:43.060] Sen. Francis "Chiz" G. Escudero**  
+counsel.
+
+**[02:19:44.500] Atty. Benjamin Tolosa Jr.**  
+Your Honor, this is a probing question. I think it's been clear how evasive this witness has been. So I have to ask you, I'm on cross-examination, I'm allowed to ask probing questions. Sir, are you telling me, you cannot say for sure if in 2025, just last year, one year ago, if you were in China, you cannot recall that?
+
+**[02:20:07.760] Atty. Lindon Miguel C. Bacquel**  
+Your Honor, before the witness answers, we just move to strike the manifestation of the counsel for the prosecution regarding the statement that the answer of the witness were evasive. Because only this honorable court can make that conclusion, Your Honor.
+
+**[02:20:25.120] Atty. Benjamin Tolosa Jr.**  
+No need to belabor the point. May
+
+**[02:20:26.860] Atty. Lindon Miguel C. Bacquel**  
+we get an answer from the witness now? We
+
+**[02:20:28.740] Atty. Lindon Miguel C. Bacquel**  
+ask for a ruling, Your Honor.
+
+**[02:20:30.380] Sen. Francis "Chiz" G. Escudero**  
+Let it remain in the records.
+
+**[02:20:32.060] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[02:20:32.580] Sen. Francis "Chiz" G. Escudero**  
+But before that, Senator Judge Sotto.
+
+**[02:20:34.740] Sen. Vicente C. Sotto III**  
+Thank you.
+
+**[02:20:37.420] Sen. Vicente C. Sotto III**  
+I believe that that question is important to gauge the credibility of the witness. He doesn't want to answer. We can always ask the Bureau of Immigration. Simple.
+
+**[02:20:52.640] Sen. Vicente C. Sotto III**  
+Then
+
+**[02:20:53.360] Sen. Vicente C. Sotto III**  
+the credibility is proven.
+
+**[02:20:58.040] Sen. Francis "Chiz" G. Escudero**  
+We
+
+**[02:20:58.950] Sen. Francis "Chiz" G. Escudero**  
+already allowed it. The witness already answered. The chair will allow the question.
+
+**[02:21:07.760] Sen. Francis "Chiz" G. Escudero**  
+Sorry if I keep on mistaking you. Engineer Jimmy, ang tanong po ay simple. So, ano po hindi nyo naaalala? Yung pecha o yung biyahe?
+
+**[02:21:18.060] Engr. Jaime G. Adalin**  
+Siguro ang pecha, sir.
+
+**[02:21:20.750] Sen. Francis "Chiz" G. Escudero**  
+Pero nagbiyahe po kayo? Sa China, mga ganong pecha? Mga ganong panahon?
+
+**[02:21:28.000] Engr. Jaime G. Adalin**  
+Siguro.
+
+**[02:21:30.340] Engr. Jaime G. Adalin**  
+Again, I don't have the record. Hindi po naman ma-memorize yung mga lakad mo, no?
+
+**[02:21:36.130] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Erwin?
+
+**[02:21:40.530] Sen. Erwin Tulfo**  
+Mr. Presiding Officer, para ho tayo niluloko na testigo na ito. Sir, may I remind you that you're under oath.
+
+**[02:21:48.510] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[02:21:49.370] Sen. Erwin Tulfo**  
+Yung ginagawa ninyong, ginagawa ninyong kinkoy yung inyong testimonya, bawal po yan. We can cite you for contempt.
+
+**[02:21:57.750] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[02:21:58.330] Sen. Erwin Tulfo**  
+Just to remind you, sir. Just to remind you, okay? We're serious here.
+
+**[02:22:02.290] Engr. Jaime G. Adalin**  
+Okay, sir.
+
+**[02:22:02.650] Sen. Erwin Tulfo**  
+Tinatanong ko kayo, nakapunta ba kayo? Ayon sabihin. Yung pecha, hindi nyo rin malaman. So, just, just... Kung talaga hindi niyo alam, hindi niyo alam. Pero, I mean, just remind this witness na under oath po siya. Yung pagsisinungaling po, nasa kanya po yan. May consequences po yan. Thank you, sir.
+
+**[02:22:24.790] Sen. Francis "Chiz" G. Escudero**  
+Duly noted. Witness already answered your question.
+
+**[02:22:28.870] Atty. Benjamin Tolosa Jr.**  
+No more.
+
+**[02:22:30.650] Atty. Benjamin Tolosa Jr.**  
+We've heard enough from this witness, Your Honor. No more questions.
+
+**[02:22:34.060] Sen. Francis "Chiz" G. Escudero**  
+Do you have a long redirect, counsel, so that we can pause for lunch? Or do
+
+**[02:22:37.980] Sen. Francis "Chiz" G. Escudero**  
+you have a brief redirect?
+
+**[02:22:39.600] Atty. Lindon Miguel C. Bacquel**  
+We can pause for lunch, Your Honor.
+
+**[02:22:43.580] Sen. Francis "Chiz" G. Escudero**  
+Senator Judge Imee is raising her hand.
+
+**[02:22:47.640] Sen. Francis "Chiz" G. Escudero**  
+After na lang? Okay. No, but he will do his redirect after lunch, according to him. Senator Judge Raffy, no, we will not make interjections yet. Unless you have a point on this. Senator Judge Raffy, we are not going to make interjections yet at this point. But Senator Judge Raffy is recognized. What is your pleasure, sir?
+
+**[02:23:07.560] Sen. Raffy T. Tulfo**  
+Mr. President Officer, ito sa follow-up sa sinabi ni Sen. Erwin. Natawa ko kanina, Mr. President Officer, nakalagyan na nga yung prime bistro commercial yun pag sinabing prime bistro. And yan sabi niya, commercial pero ginagamit residential. He's lying to his teeth, lumilitaw. Na para bang pinagluloko tayo, Mr. President Officer. Nakalagyan na nga prime bistro, prime kumbaga, yun ay negosyo. Dining. Okay? Sabi niya, commercial, pero ginagamit na residential. So, naglagay ka ng dining, naglagay ka kratula, para tutulogan mo lang. Parang, yun ang pinapalabas nitong witness, Mr. Presiding Officer.
+
+**[02:23:50.460] Sen. Francis "Chiz" G. Escudero**  
+That is for the appreciation of the Senator Judges. Chair agrees. Yes, what is the pleasure of Senator Judge Villanueva?
+
+**[02:23:58.950] Sen. Joel Villanueva**  
+Mr. Presiding Officer, this is in connection with what happened today. We, I've been sitting and listening for more than two hours. And then the next witness would be the city assessor of Samal, Mr. Presiding Officer. And what we had experienced a while ago is that the witness himself is not aware of or doesn't have any records of the entire barangay that we were talking about. Baka ganun din po yung mangyari sa susunod. That's one, Mr. Presiding Officer. Baka po pwede ngayon pa lang, malaman na natin dun sa susunod na witness kung ano rin yung dala niya at meron po ba siya na the same na hinahanap natin dito sa witness natin na sabi niya, dadalin po niya sa susunod. Ikalawag, Mr. Presiding Officer, during the break, we were waiting sana, Mr. Presiding Officer, dun sa mga hiniling po. During the previous hearings, for example, Mr. Presiding Officer, noong October 9, may mga hiningi po tayo and the Presiding Officer actually instructed the Clerk of Court to call it from the submitted exhibits. Gusto ko lang kung sabihin, Mr. Presiding Officer, wala pa po tayong nakukuha. Hanggang ngayon, and specifically, yung pong hiningi ng representasyon na ito doon po sa Cale Foods Corporation BIR Alphalist and payroll records, pati po yung document on its sources of Financing. I just want to put that on record, Mr. Presiding Officer. Maraming po'ng salamat.
+
+**[02:25:51.830] Sen. Francis "Chiz" G. Escudero**  
+Chair reminds the Clerk of Court to kindly comply with the request of Senator Judge Villanueva. We shall pause for lunch and convene for the redirect of the Counsel for the Respondent at 1.30 p.m. Trial is in recess.
+
+**[03:41:08.140] Sen. Francis "Chiz" G. Escudero**  
+Upon agreement of the parties during the break, we shall adjourn today's session at 2.30 and call the session for the information of the senator judges at 3 p.m. And we will just try to finish what we can finish by that time. May I ask Engineer Jimmy to kindly be situated once again to the witness stand for
+
+**[03:41:35.320] Sen. Francis "Chiz" G. Escudero**  
+the redirect of Attorney Lindon.
+
+**[03:41:52.850] Sen. Francis "Chiz" G. Escudero**  
+Engineer Jimmy, nasa patuloy po kayo magbibigay na inyong testimonyo sa ilalim na naunan niyong panunumpa kanina umaga. Naunawa niyo po yan?
+
+**[03:42:01.990] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[03:42:03.170] Sen. Francis "Chiz" G. Escudero**  
+Salamat po. Attorney Lindon, you may continue, rather you may begin with your redirect examination if any.
+
+**[03:42:09.730] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor. Good afternoon, sir.
+
+**[03:42:13.240] Engr. Jaime G. Adalin**  
+Good afternoon, sir.
+
+**[03:42:14.580] Atty. Lindon Miguel C. Bacquel**  
+Sir, kanina po on cross-examination, tinanong po kayo ng counsel for the prosecution. Regarding cost of acquisition and purchase price. Naalala niyo po yan, sir?
+
+**[03:42:27.570] Engr. Jaime G. Adalin**  
+Yes, sir.
+
+**[03:42:30.610] Atty. Lindon Miguel C. Bacquel**  
+Ano po yung concept ng purchase price, sir? Paano niyo po ito naiintindihan, sir?
+
+**[03:42:39.790] Engr. Jaime G. Adalin**  
+Pardon, sir?
+
+**[03:42:40.810] Atty. Lindon Miguel C. Bacquel**  
+Ano po itong purchase price? Anong ibig sabihin nun, sir?
+
+**[03:42:46.560] Engr. Jaime G. Adalin**  
+The purchase price I may say is the
+
+**[03:42:55.080] Engr. Jaime G. Adalin**  
+Amount of money as indicated in the deed of sale.
+
+**[03:43:00.080] Atty. Lindon Miguel C. Bacquel**  
+Ano naman po yung pagkakaitindi nyo dun sa cost of acquisition, sir?
+
+**[03:43:05.220] Atty. Benjamin Tolosa Jr.**  
+Your Honor, objection. This is with regards to the SALN. Now, he's not being asked to just merely identify what were indicated in the face of the SALN but to give his opinion on this technical matter indicating that SALN. He's not competent to testify on that as he stated. They don't have any custody over this. He's not a lawyer, Your Honor, and that's outside his competence.
+
+**[03:43:32.840] Sen. Francis "Chiz" G. Escudero**  
+If
+
+**[03:43:33.100] Sen. Francis "Chiz" G. Escudero**  
+he knows only, and not as to his opinion, but as to his own personal experience, if any, in filling out his own SALN, alam niyo po ba yung kasagutan sa tanong ni Atty. Lindon? Base po sa inyong pag-fill up ng sarili niya ng pong SALN. Kung may ganun po kayong karanasan o wala.
+
+**[03:43:48.880] Engr. Jaime G. Adalin**  
+Sa akin pong pagkaintindi, yung cost of acquisition is at that time it was acquired or purchased, Your Honor.
+
+**[03:43:59.880] Sen. Francis "Chiz" G. Escudero**  
+That's his answer, counsel.
+
+**[03:44:01.640] Atty. Lindon Miguel C. Bacquel**  
+Thank you, sir. So, sir, kung alam nyo lang po, ano pa po ba yung pinabayaran na tax kung meron man sa sale involving real property?
+
+**[03:44:18.060] Engr. Jaime G. Adalin**  
+Sa aking pagkakaintindi ay yun po yung state tax na binabayaran sa BIR.
+
+**[03:44:25.560] Atty. Lindon Miguel C. Bacquel**  
+Binabayaran po sa BIR?
+
+**[03:44:27.240] Engr. Jaime G. Adalin**  
+Yes sir.
+
+**[03:44:28.480] Atty. Lindon Miguel C. Bacquel**  
+May alam pa po ba kayong ibang binabayaran kapag may transaction regarding real property?
+
+**[03:44:35.990] Engr. Jaime G. Adalin**  
+Sa aking pagkakaintindi ay yung transfer tax.
+
+**[03:44:39.610] Atty. Lindon Miguel C. Bacquel**  
+Yung transfer tax po?
+
+**[03:44:41.450] Engr. Jaime G. Adalin**  
+Yes sir.
+
+**[03:44:42.250] Atty. Lindon Miguel C. Bacquel**  
+Okay. So would you confirm sir na ang... Purchase price, as you have defined earlier, and yung pagkakaintindi niyo po sa cost of acquisition, magkapareho lang po ba sila o magkaibang concept po?
+
+**[03:45:03.630] Atty. Benjamin Tolosa Jr.**  
+First of all, the opinion of the witness in this matter, it's not only objectionable for being violative of the opinion rule. Second, it is irrelevant. The witness has no knowledge. on how the Vice President understood it, what were her considerations when she indicated the acquisition cost in the SALN. So whatever opinion he has on this matter will be entirely relevant.
+
+**[03:45:32.580] Sen. Francis "Chiz" G. Escudero**  
+The only answer I guess the witness can give would be with respect to the local transfer taxes, which you should know, Engineer Jimmy. Magkano po ang local transfer tax sa Davao City ng mga ari-arian o real property?
+
+**[03:45:49.760] Engr. Jaime G. Adalin**  
+Hindi po ako sure, no? Kasi ang pag-compute po ng transfer tax ay nasa City Treasurer's Office po.
+
+**[03:45:56.860] Sen. Francis "Chiz" G. Escudero**  
+It is provided in the...
+
+**[03:45:58.060] Sen. Francis "Chiz" G. Escudero**  
+Porosyento po yan ng fair market value or assessed value, whichever is higher, hindi po ba?
+
+**[03:46:03.920] Engr. Jaime G. Adalin**  
+That's what I understand, sir. Your Honor.
+
+**[03:46:06.180] Sen. Francis "Chiz" G. Escudero**  
+Hindi niyo po alam yung porosyentong pinag-e-e-roll sa Davao City?
+
+**[03:46:09.610] Engr. Jaime G. Adalin**  
+Hindi po dahil ang nag-accompute po ng transfer tax ay ang City Treasurer's Office.
+
+**[03:46:15.110] Sen. Francis "Chiz" G. Escudero**  
+For the record, the court takes judicial notice that the capital gains tax is at 6% and the documentary stamp tax is at 1.5% of the purchase price contained in the deed of sale. Kindly continue, Atty. Lindon.
+
+**[03:46:39.270] Atty. Lindon Miguel C. Bacquel**  
+Thank you, Your Honor.
+
+**[03:46:40.530] Atty. Lindon Miguel C. Bacquel**  
+Sir, doon po sa SALN na pinakita sa inyo kanina, ano po yung mga values na nakalagay with respect to real property na naka-disclose doon?
+
+**[03:46:57.100] Engr. Jaime G. Adalin**  
+Wala po akong kopya nung SALN.
+
+**[03:47:00.680] Atty. Lindon Miguel C. Bacquel**  
+May we confront the witness with the SALN of the respondent?
+
+**[03:47:06.460] Sen. Francis "Chiz" G. Escudero**  
+Assisting counsels may approach. Continuing authority actually has been given already to assisting counsels to approach the witness.
+
+**[03:47:20.650] Atty. Lindon Miguel C. Bacquel**  
+Just to repeat the question para lang po malinaw, sir. Ang question ko po, anong mga values po yung nakalagay sa SALN with respect to real property?
+
+**[03:47:34.620] Engr. Jaime G. Adalin**  
+Ang nakalagay po dito sa SALN is the assessed value and the current... Fair market value as found in the tax declaration of real property.
+
+**[03:47:44.730] Atty. Lindon Miguel C. Bacquel**  
+Ano pa po kung meron man?
+
+**[03:47:47.830] Atty. Lindon Miguel C. Bacquel**  
+Ano pa pong value yung nandyan?
+
+**[03:47:51.510] Engr. Jaime G. Adalin**  
+Nakalagay po, acquisition, cost.
+
+**[03:47:53.810] Atty. Lindon Miguel C. Bacquel**  
+Cost of acquisition po? May
+
+**[03:47:55.430] Atty. Lindon Miguel C. Bacquel**  
+nakalagay po ba na purchase price?
+
+**[03:47:59.840] Engr. Jaime G. Adalin**  
+Parang wala po. Okay.
+
+**[03:48:01.400] Atty. Lindon Miguel C. Bacquel**  
+No further questions, Your Honor.
+
+**[03:48:03.830] Sen. Francis "Chiz" G. Escudero**  
+Re-cross if any, Attorney Tolosa?
+
+**[03:48:06.470] Atty. Benjamin Tolosa Jr.**  
+No re-cross, Your Honor.
+
+**[03:48:08.890] Sen. Francis "Chiz" G. Escudero**  
+Interjections from Senator Judges?
+
+**[03:48:15.040] Sen. Francis "Chiz" G. Escudero**  
+The chair had earlier recognized Senator Judge Raffy Tulfo for his interjections. Thereafter, Senator Marcos, Senator Villanueva, Senator Erwin Tulfo, and Senator Ontiveros. Senator Raffy Tulfo, you are recognized, sir. You may proceed.
+
+**[03:48:31.200] Sen. Raffy T. Tulfo**  
+Engineer, under oath ka, tama?
+
+**[03:48:33.520] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[03:48:34.420] Sen. Raffy T. Tulfo**  
+And you know the consequence kapag ikaw ay nagsinungaling if you're under oath?
+
+**[03:48:37.780] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[03:48:39.450] Sen. Raffy T. Tulfo**  
+January 25, 2026, saan ka bumiyahe?
+
+**[03:48:43.200] Engr. Jaime G. Adalin**  
+Yeah, after i-confirm ko po sa opisina, indeed, nag-travel po kami sa China.
+
+**[03:48:50.340] Sen. Raffy T. Tulfo**  
+Correct.
+
+**[03:48:51.860] Sen. Raffy T. Tulfo**  
+November 12, 2018, saan ka nagbiyahe?
+
+**[03:48:56.090] Engr. Jaime G. Adalin**  
+Parang wala po akong record ng November 12.
+
+**[03:48:58.830] Sen. Raffy T. Tulfo**  
+Gusto mo pati CCTV footage, kaya ko ibigay sa'yo eh. November 12, 2018, PR356, China. At two days ka lang sa China. At ang dami mong biyahe
+
+**[03:49:11.110] Sen. Raffy T. Tulfo**  
+eh. Engineer, meron kang Hong Kong, meron kang Thailand, Australia. Hindi kita nilalakit ha, pero magkano bang sweldo mo para ikaw ay palagi nag-abroad? Nakakapag-abroad?
+
+**[03:49:22.710] Engr. Jaime G. Adalin**  
+Ang sweldo po ng department is nasa 120,000, something like that, sir.
+
+**[03:49:28.530] Sen. Raffy T. Tulfo**  
+20,000 a month?
+
+**[03:49:29.610] Engr. Jaime G. Adalin**  
+120,000.
+
+**[03:49:30.670] Sen. Raffy T. Tulfo**  
+And yet, noong 2023, pumunta ka ng Australia, nagbiyahe ka doon at tumagal ka ng konti. Palagi ka nang bibiyahe.
+
+**[03:49:38.840] Engr. Jaime G. Adalin**  
+You're correct, Your Honor.
+
+**[03:49:40.780] Sen. Raffy T. Tulfo**  
+Okay. Siguro baka may nagregalo sa iyo, nag-sponsor, kaya ka nagpagbiyahe abroad. Otherwise, with 20,000 sa pamasahe papuntang Australia, papuntang China, hindi na enough yun, tama ba? And then I've heard na kasama mo po misis mo. I mean, may kasama kang relative na lang, relative.
+
+**[03:50:00.100] Engr. Jaime G. Adalin**  
+Pardon, sir?
+
+**[03:50:00.920] Sen. Raffy T. Tulfo**  
+May kasama kang relative pa ata, nung nagbibiyahe ka sa abroad.
+
+**[03:50:06.030] Engr. Jaime G. Adalin**  
+Again, Your Honor, pakialit.
+
+**[03:50:07.980] Sen. Raffy T. Tulfo**  
+You've heard me once. I'm not going to repeat myself anymore. Nag-iisip ka habang nagsasalita ako. But anyway, sige, nagmaang-maangan ka na lang. So, inadmit mo na na ikaw ay nagbyahe ng China?
+
+**[03:50:18.620] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[03:50:19.660] Sen. Raffy T. Tulfo**  
+Very good.
+
+**[03:50:23.830] Sen. Raffy T. Tulfo**  
+Now, kanina sabi mo, commercial property, yung pinakita sa slides, prime bistro restaurant. That's commercial, right? Pero why did you say... Meron mga commercial ginagamit na residential. So magtatayo ka ng restaurant and then hindi ka magtatanggap ng mga customer pero yun ang magiging tulugan mo, yun yung tirahan mo. Is that what you meant?
+
+**[03:50:53.820] Engr. Jaime G. Adalin**  
+If I can recall it right, Your Honor, yung picture po na pinakita, hindi ko po i-confirm kung yan ba ay yung subject ng property. At yung sinabi ko po na may possibility, Again, hindi po ako sigurado ko yun yung subject ng discussion. But ang sinasabi ko po na may possibility na kahit po commercial building ang design, but pag ginamit po siya as residential, ang aming pong actual use will be residential.
+
+**[03:51:30.270] Sen. Raffy T. Tulfo**  
+Pakiulit. Magpapatayo ka ng commercial building for commercial purposes and yet... Gagawin mo residential dahil doon ka titira at hindi mo gagamitin para sa negosyo? Is that what you're saying?
+
+**[03:51:43.740] Engr. Jaime G. Adalin**  
+Meron pong pagkakataon ganun, Your Honor.
+
+**[03:51:46.180] Sen. Raffy T. Tulfo**  
+And who are these stupid people that would do that? Na magpapatayo ka ng commercial establishments and then hindi mo restaurant, that is, and then titirahan mo as residential. You're not making sense. Anyway, let's continue.
+
+**[03:52:02.260] Sen. Raffy T. Tulfo**  
+Doon sa pinag-usapan natin na... Property. Ano ba yung declared? Commercial or residential?
+
+**[03:52:12.210] Engr. Jaime G. Adalin**  
+Ang land po?
+
+**[03:52:13.470] Sen. Raffy T. Tulfo**  
+Yes, land.
+
+**[03:52:14.570] Engr. Jaime G. Adalin**  
+The land is classified now as residential.
+
+**[03:52:19.200] Sen. Raffy T. Tulfo**  
+Classified as residential?
+
+**[03:52:20.660] Engr. Jaime G. Adalin**  
+Yes.
+
+**[03:52:21.160] Sen. Raffy T. Tulfo**  
+So kung classified that as residential, bakit nakapagpatayo ng commercial building doon? So for me, hindi magkapareho yung property na yun. Sa inyo, sabi mo, declared as commercial, sa inyo, assessed as commercial. However, dineclare ni Vice President Roduterte sa kanyang SALN as presidential. So hindi magkakatugma. So those are two different animals.
+
+**[03:52:49.000] Engr. Jaime G. Adalin**  
+Magkaiba po ang land classification for real property taxation versus the land use zoning classification.
+
+**[03:53:00.500] Engr. Jaime G. Adalin**  
+Meron pagkakataon na magkaiba yung zoning classification. Versus dun sa ginagawang land classification ng city assessor. Because ang base yan po ng land classification for taxation purposes is the predominant use of the land while the zoning classification meron siyang anticipation. Meron siyang sinasabing in this area ang future development niya will be commercial.
+
+**[03:53:29.160] Sen. Raffy T. Tulfo**  
+Okay. Last na naman and I will address this to the Presiding Officer.
+
+**[03:53:33.780] Sen. Francis "Chiz" G. Escudero**  
+It's okay, Senator Judge Raffy. You can wind up with your question.
+
+**[03:53:36.700] Sen. Raffy T. Tulfo**  
+The best way para magkaalamanan, hindi na magkakalituan, and then para sa mga prosecution also. Tutal, digitalized naman ngayon ang LRA. So pwede man tayong pumunta sa LRA at tatanungin ano-ano mga properties meron under this person. At lalabas at lalabas yun. Kaysa naman nagdilibati pa tayo rito, we're going back and forth. para alamin kung ano yung mga properties na sa kanya at sinasabing hindi naman daw sa kanya at iba yun. Pero if we go to the LRA and have the LRA pull up all the properties under the name of a certain person, under the name of B. Pizarro, under the name of Max Carpio, then it will be a lot easier. Yun lang. Maraming salamat po.
+
+**[03:54:17.420] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Raffy. Senator Judge Aimee, you're recognized, ma'am. You may proceed when you're ready.
+
+**[03:54:28.270] Sen. Imee Marcos**  
+Just a few questions, Presiding Judge. Maraming salamat po. Yes, Engineer po. The prosecution has already pointed out na yung deed of sale covering the subject property reflects a consideration of 6 million. Yun ang nakasulat doon, 6 million. At pinagdidiskitahan na nasa SALN naman ni VP Sara na yung property na yun covered by a deed of sale has an acquisition cost that's declared in the SALN na 10 million. Parang may discrepancy dun sa 6 million sa deed of sale at 10 million na dineklara sa SALN. Is it correct that the consideration stated in the deed of sale does not necessarily reflect, hindi kinakailangan na identical yun dun sa total acquisition cost ng property dahil may iba pang expenses na pwedeng ginastos para mabili yun? Tama ba yun?
+
+**[03:55:24.060] Engr. Jaime G. Adalin**  
+I'm not actually... Over here, Your Honor. The requirement that we require from the real property owners is just to provide the date of sale. However, the valuation shall be based on our approved ordinance prescribing the schedule of market values, Your Honor.
+
+**[03:55:48.140] Sen. Imee Marcos**  
+Oo, tinatanong ko lang kasi dahil alam naman natin yung reflection dun sa deed of sale, minsan may kasunduan yung buyer at saka seller, di ba? Na i-absorb yung sinasabi ni presiding officer na capital gains na 6%, yung 1.5 na dock stamp tax, tapos may local transfer taxes, baka tapos nun marami pa, di ba, may legal fees pa kasi magta-title search ka pa kung ano-ano pang mga gastusin. At syempre yung commission ng broker, alam na natin yun, di ba, kung sino mag-aabsorb nun. So ang sinasabi po ninyo yung deed of sale not necessarily na yun talaga yung complete total lahat na pasok na acquisition cost. Maaring mangyari yung dagdag.
+
+**[03:56:31.470] Engr. Jaime G. Adalin**  
+That probably will happen Your Honor.
+
+**[03:56:35.930] Sen. Imee Marcos**  
+Okay, so if that's the case, hindi tayo magtataka, halimbawa binayad sa developer, may VAT pa yun, 12% kaagad yun, so talagang maaring mangyari na mas malaki yung acquisition cost stated sa SALN kesa sa deed of sale po.
+
+**[03:56:54.610] Engr. Jaime G. Adalin**  
+Yes, that's probably what you will happen, Your Honor.
+
+**[03:56:57.200] Sen. Imee Marcos**  
+I see. So final, medyo makulit lang to, no? Pero based on the official assessment records and the identifying particulars dun sa SALN ni VP Sara, can you just tell the impeachment court whether the Matina Crossing property was already included among her declared real properties? Sinabi na ninyo kanina na pwede.
+
+**[03:57:20.230] Engr. Jaime G. Adalin**  
+Most likely yan po siya, Your Honor.
+
+**[03:57:22.690] Sen. Imee Marcos**  
+Most likely. Pero babalikan ninyo kami at dadalhin yung actual ng mga TCT para masigurado natin
+
+**[03:57:28.650] Sen. Imee Marcos**  
+na totoo nga yun. Yes, Your Honor. Yes, thank you very much, Engineer. At maraming salamat sa presiding judge. Linilinaw ko lang yung presyo na 6 versus 10 million. Salamat po.
+
+**[03:57:40.730] Sen. Imee Marcos**  
+Thank you, Your Honor.
+
+**[03:57:41.390] Sen. Francis "Chiz" G. Escudero**  
+Thank you very much, Senator Judge Imee.
+
+**[03:57:42.770] Atty. Benjamin Tolosa Jr.**  
+Your Honor.
+
+**[03:57:44.000] Sen. Francis "Chiz" G. Escudero**  
+Yes, what is your pleasure?
+
+**[03:57:46.290] Atty. Benjamin Tolosa Jr.**  
+May I be allowed to make a quick manifestation, Your Honor?
+
+**[03:57:49.890] Sen. Francis "Chiz" G. Escudero**  
+In relation to what, counsel?
+
+**[03:57:51.590] Atty. Benjamin Tolosa Jr.**  
+Acquisition cost, Your Honor, as defined under Memorandum Circular No. 02, Series of 2013, which governs the filing of SALN.
+
+**[03:58:03.010] Sen. Francis "Chiz" G. Escudero**  
+Counsel, let the court take care of that. The court can take judicial notice of the law as well as the Memorandum Circular concerning the interpretation of the SALN. And I think it was discussed also before already.
+
+**[03:58:12.510] Atty. Benjamin Tolosa Jr.**  
+We submit yun.
+
+**[03:58:13.450] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Atty. Tolosa. Senator Judge Villanueva is not here yet. So, Senator Judge Erwin is recognized.
+
+**[03:58:28.280] Sen. Erwin Tulfo**  
+Thank you, Mr. Presiding Officer. Actually, natanong na po ni Sen. Imee yung gusto ko po itanong sa testigo. May dadaglag lang po ako. Mr. Witness,
+
+**[03:58:40.630] Sen. Erwin Tulfo**  
+I'll just try to check kung medyo kumakakalimutin na kayo. Anyway, papano po kayo napasok sa Davao City Hall, sir?
+
+**[03:58:50.890] Engr. Jaime G. Adalin**  
+I transferred sometime in 2002.
+
+**[03:58:57.990] Engr. Jaime G. Adalin**  
+Okay. From Cotabato City to Davao City, sir. Okay.
+
+**[03:59:01.750] Sen. Erwin Tulfo**  
+So, papano po kayo napuntaroon? Did you apply?
+
+**[03:59:06.270] Engr. Jaime G. Adalin**  
+Yes, I did apply, Your Honor.
+
+**[03:59:08.650] Sen. Erwin Tulfo**  
+Anong posisyon po?
+
+**[03:59:11.320] Engr. Jaime G. Adalin**  
+I applied for the position equivalent to my position in the City Assessor of Davao which is Assistant Department Head. And I was appointed as the Assistant City Cooperative Development Officer.
+
+**[03:59:26.220] Sen. Erwin Tulfo**  
+Anong kanina pong term ho yun? Sino po yung mayor ng mga panahon po na yun?
+
+**[03:59:30.680] Engr. Jaime G. Adalin**  
+Ang mayor po at the time ang ating former president na Rodrigo Duterte.
+
+**[03:59:35.300] Sen. Erwin Tulfo**  
+Okay. Paano po kayo naging city assessor? Anong year po ito?
+
+**[03:59:40.800] Engr. Jaime G. Adalin**  
+That was in 2017.
+
+**[03:59:45.440] Sen. Erwin Tulfo**  
+Sino po ang mayor nga po ulit?
+
+**[03:59:47.980] Engr. Jaime G. Adalin**  
+Si former mayor Sara Duterte, Your Honor.
+
+**[03:59:53.470] Sen. Erwin Tulfo**  
+Ano pong pwesto ninyo bago po kayo na i-promote niya as city assessor?
+
+**[04:00:00.000] Engr. Jaime G. Adalin**  
+At this time, assistant city cooperative officer ako.
+
+**[04:00:06.290] Engr. Jaime G. Adalin**  
+I was also designated as the acting building official sometime 2011 and 2013.
+
+**[04:00:14.730] Sen. Erwin Tulfo**  
+So panahon po ni former mayor, now vice president, Sara Duterte, nung ma-promote po kayo as city assessor?
+
+**[04:00:23.730] Engr. Jaime G. Adalin**  
+You're correct, Your Honor.
+
+**[04:00:25.310] Sen. Erwin Tulfo**  
+Hanggang sa mga panahon po nito, hanggang ngayong araw, kayo pa rin po as city assessor ng Davao?
+
+**[04:00:30.400] Engr. Jaime G. Adalin**  
+You're correct, Your Honor.
+
+**[04:00:31.340] Sen. Erwin Tulfo**  
+No further questions, presiding officer, sir.
+
+**[04:00:34.480] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Erwin. Senator Judge Hontiveros is recognized. You may proceed, ma'am, when you're ready. You have two minutes.
+
+**[04:00:48.170] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Maing hapon, Engineer Adalin.
+
+**[04:00:52.880] Engr. Jaime G. Adalin**  
+Good afternoon, ma'am.
+
+**[04:00:53.660] Sen. Risa Hontiveros**  
+Good afternoon, sir. So, ilang mga tanong po. So, ngayon po, pagkatapos ng lunch break, naaalala niyo na po ba kung kailan kayo pumunta ng China?
+
+**[04:01:05.900] Engr. Jaime G. Adalin**  
+Yun nga po, as per records, January.
+
+**[04:01:10.220] Engr. Jaime G. Adalin**  
+Actually, nag-inquire po ako dun sa aming admin. Parang January 25 onwards.
+
+**[04:01:15.470] Sen. Risa Hontiveros**  
+Itong taon po?
+
+**[04:01:16.610] Engr. Jaime G. Adalin**  
+Yes. 2026.
+
+**[04:01:18.110] Sen. Risa Hontiveros**  
+Sino-sino po yung mga kasama? Oh, bago yun. Saan-saan po sa China kayo pumunta ngayong January 2026?
+
+**[04:01:26.130] Engr. Jaime G. Adalin**  
+Hindi ko po ma-memorize pero kasama po namin mga department head and others na gustong sumama.
+
+**[04:01:32.630] Sen. Risa Hontiveros**  
+Okay. Pupuntahan ko po yun kung sino-sino yung mga kasama nyo. Pero, posible bang pumunta kayo? Nobyembre pa lang ngayon, pumunta po kayo January. Kahit top 3 places sa China na naalala niyong pinuntahan nyo nitong taon lamang?
+
+**[04:01:50.510] Engr. Jaime G. Adalin**  
+Hindi ko na po talaga ma-remember.
+
+**[04:01:52.510] Sen. Risa Hontiveros**  
+Pumunta ba kayong Beijing?
+
+**[04:01:56.630] Engr. Jaime G. Adalin**  
+Parang. Parang nakapunta po kami.
+
+**[04:01:58.470] Sen. Risa Hontiveros**  
+Parang.
+
+**[04:01:59.800] Sen. Risa Hontiveros**  
+Pumunta ba kayong Shanghai? Sir, I'm sorry po. Hindi po talaga nakakatawa. Kasi hindi po naka—hindi po kapani-paniwala na isang inhinyero, isang city assessor, na di umano alam yung mga mapang pinepresenta ng defense at ng prosecution, ay hindi po maalala kung saan sa isang malaking bansa pumunta. So pumunta kayong Beijing, pumunta ba kayong Shanghai?
+
+**[04:02:26.010] Engr. Jaime G. Adalin**  
+My apologies, Your Honor.
+
+**[04:02:33.640] Sen. Risa Hontiveros**  
+Pumunta ba kayong Fujian?
+
+**[04:02:36.840] Engr. Jaime G. Adalin**  
+Actually, I'm not keen on traveling. Kaya hindi ko na minememorize yung pinupuntahan.
+
+**[04:02:42.900] Sen. Risa Hontiveros**  
+You're not keen on traveling. Pero nag-travel po kayo. Sabi po ni Sen. Erwin kanina marami po kayong nilakbayang mga bansa. And paano po talaga makadalaw sa ibang bansa at makapunta sa higit sa isang lugar na hindi nyo maalala 10 months later? Binline fold po ba kayo?
+
+**[04:03:01.640] Engr. Jaime G. Adalin**  
+Hindi naman po.
+
+**[04:03:03.560] Sen. Risa Hontiveros**  
+Nabanggit po ninyo may kasama kayong mga department heads. Sino
+
+**[04:03:08.000] Sen. Risa Hontiveros**  
+-sino pong mga kasama nyo sa biyahing ito?
+
+**[04:03:12.240] Engr. Jaime G. Adalin**  
+If I can recall, yung aming city engineer, yung city treasurer, ano
+
+**[04:03:29.750] Engr. Jaime G. Adalin**  
+po ba yan?
+
+**[04:03:30.780] Sen. Risa Hontiveros**  
+At sino pong nagsama sa inyo, sa city treasurer, sa city engineer dito sa ibang lugar sa China? Sino pong nagdala sa inyo doon?
+
+**[04:03:41.270] Engr. Jaime G. Adalin**  
+It is a group travel.
+
+**[04:03:44.470] Engr. Jaime G. Adalin**  
+Hindi po ako ang nag-organize kung saan.
+
+**[04:03:48.290] Sen. Risa Hontiveros**  
+Sino pong nag-organize ng group travel na ito?
+
+**[04:03:50.750] Engr. Jaime G. Adalin**  
+Hindi ko na rin po ma-recall kung sino talaga nag-organize.
+
+**[04:03:54.710] Sen. Risa Hontiveros**  
+Sir, lalo na kung official visit ito.
+
+**[04:03:59.540] Sen. Risa Hontiveros**  
+Formal visit. Siguro kayo bilang government worker, maalala nyo sino nag-organize ng trip na ito.
+
+**[04:04:09.110] Engr. Jaime G. Adalin**  
+It is actually a personal travel, Your Honor.
+
+**[04:04:12.570] Sen. Risa Hontiveros**  
+Hindi ito official visit? Personal travel lang? Magkabarkada ba kayo ng city engineer at city treasurer na sama-sama kayong bumabiyahin?
+
+**[04:04:21.050] Engr. Jaime G. Adalin**  
+Usually po. Nagsasama-sama po kami.
+
+**[04:04:23.390] Sen. Risa Hontiveros**  
+Usually. So bumabalik din ako sa tanong ni Senator Erwin.
+
+**[04:04:29.650] Sen. Risa Hontiveros**  
+Sweldo sa gobyerno. You're telling us po na lahat ng mga biyahe niyo sa China at sa Australia, sa iba pang mga bansa, sari-sarili niyong gastos ito?
+
+**[04:04:41.030] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[04:04:42.210] Sen. Risa Hontiveros**  
+Okay, that's something for us to check po. Okay, dako po ako dun sa mga discrepancies, hindi na lang po dun sa recollection niyo sa mga biyahe. Dito po sa halaga ng lupa. So, magkano po ulit yung nakalagay na acquisition cost dun sa deed of sale na dala ninyo?
+
+**[04:05:01.950] Engr. Jaime G. Adalin**  
+Wala po akong dalang deed of sale, Your Honor. Tax declaration lang po.
+
+**[04:05:06.510] Sen. Risa Hontiveros**  
+Sa tax deck po na dala nyo, magkano po yung nakalagay na acquisition cost?
+
+**[04:05:11.930] Engr. Jaime G. Adalin**  
+Hindi po nakalagay ang acquisition cost but the market value as indicated.
+
+**[04:05:16.010] Sen. Risa Hontiveros**  
+Magkano ang market value na nakalagay sa tax deck na iyan?
+
+**[04:05:20.300] Engr. Jaime G. Adalin**  
+Yung pong tax declaration na nakalagay dito is 1,864,680.
+
+**[04:05:27.260] Sen. Risa Hontiveros**  
+1,864,000 pesos. Market value sa tax debt.
+
+**[04:05:33.280] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[04:05:34.240] Sen. Risa Hontiveros**  
+Okay po. Meron din pong zonal value na 6.177 million pesos. Tama po ba?
+
+**[04:05:44.720] Engr. Jaime G. Adalin**  
+Zonal value?
+
+**[04:05:46.300] Sen. Risa Hontiveros**  
+Yes.
+
+**[04:05:49.420] Engr. Jaime G. Adalin**  
+Wala po yan sa aming tax declaration.
+
+**[04:05:52.000] Sen. Risa Hontiveros**  
+Wala sa inyong tax deck. Okay, labas po tayo sa tax deck. Nung pong nakaraang buwan, pinresenta po ng prosecution ang forensic report ni Atty. Cabrera kung saan naman nakalagay na 16.2 million pesos ang selling price base sa home loan document galing sa PS Bank. So just wrapping up this particular question, Mr. Presiding Officer. Samantala dun naman po sa 2024 SALN at 2025 SALN ng vicepresidente, 10 million pesos ang nakadeklarang acquisition cost. Aware po ba kayo dito?
+
+**[04:06:32.600] Engr. Jaime G. Adalin**  
+Pag-ating po sa SALN, hindi po ako masyado talaga pamilyar kasi nasa yung tax declaration lang po talaga yung aming concern. Pero
+
+**[04:06:43.140] Sen. Risa Hontiveros**  
+yung sarili nyo pong karanasan sa pag... Accomplish at pagsumite ng SALN taon-taon kung meron kayong dinedeklarang real property dyan. Karaniwan po ba na may ganitong mga discrepancies sa amount among zonal value, selling price base, acquisition cost, market value? Karaniwan po ba yung ganitong pagkakaiba-iba sa mga sinasite na amounts in relation to isang particular na piraso lamang po ng lupa?
+
+**[04:07:18.650] Engr. Jaime G. Adalin**  
+Sa akin pong pagkakaalam, talagang meron po talagang discrepancy.
+
+**[04:07:22.300] Sen. Risa Hontiveros**  
+So meron talagang discrepancies. At lastly for this round, ano kaya yung posibleng dahilan kung bakit iba-iba ang mga ito?
+
+**[04:07:35.350] Engr. Jaime G. Adalin**  
+Depende po kasi yun sa mutual agreement ng seller and buyer. Sila po kasi talaga ang kumaga. Magkakaroon ng willing seller and willing buyer na agreement. So hindi na po namin alam kung ano yung naging agreement doon.
+
+**[04:07:56.430] Sen. Risa Hontiveros**  
+Bukod sa personal agreement, for tax purposes din po kaya? Kaya iba-iba yung mga amounts na sinusumite?
+
+**[04:08:05.290] Engr. Jaime G. Adalin**  
+I'm not aware of that, Your Honor.
+
+**[04:08:08.990] Sen. Risa Hontiveros**  
+You're not aware, sir. Huling follow up lang dun sa unang mga tanong ko po tungkol sa biyahe nyo sa China. Kahit port of entry po ba? Hindi nyo alam? Saang syudad sa China? Una kayong pumasok sa China?
+
+**[04:08:22.540] Engr. Jaime G. Adalin**  
+Hindi ko lang talaga ma-memorize.
+
+**[04:08:24.260] Sen. Risa Hontiveros**  
+Really?
+
+**[04:08:24.960] Sen. Risa Hontiveros**  
+I'm sorry sir. With all due respect, unbelievable po talaga. Kumuha ba kayo ng travel authority para makabiyahe?
+
+**[04:08:32.620] Engr. Jaime G. Adalin**  
+Yes.
+
+**[04:08:33.260] Sen. Risa Hontiveros**  
+You did? So hindi po... Ah okay, kumuha kayo ng travel authority. So kung gusto nyo... Iwas to lang yung sagot kanina. So sino nagdala sa inyo sa trip na iyan?
+
+**[04:08:44.550] Engr. Jaime G. Adalin**  
+Grupo po kami.
+
+**[04:08:48.070] Engr. Jaime G. Adalin**  
+Parang yung aming, sino ba yung na-assign doon? Na department head din na nag-guide sa aming...
+
+**[04:08:56.150] Sen. Risa Hontiveros**  
+Department head ng aling department po?
+
+**[04:09:00.140] Engr. Jaime G. Adalin**  
+Parang sa administrator's office ata yan.
+
+**[04:09:03.410] Sen. Risa Hontiveros**  
+Kasama po ba si dating Mayor Sara Duterte sa inyo sa biyaheng ito noong Enerong 2026?
+
+**[04:09:10.490] Engr. Jaime G. Adalin**  
+Wala po. Hindi po namin kasama.
+
+**[04:09:12.370] Sen. Risa Hontiveros**  
+Laging salamat, Engineer. I'll just come back for a second round. Salamat, Mr. Presiding Officer.
+
+**[04:09:18.630] Sen. Francis "Chiz" G. Escudero**  
+The Senate President is recognized.
+
+**[04:09:21.460] Sen. Sherwin T. Gatchalian**  
+Thank you, Mr. Presiding Officer. Engineer, with all due respect, mali ho yung sinabi niyong actual use. Ang actual use, kung ano yung actual na pinaggamitan ng property, yun ang dapat i-classify nyo. So kahit na residential ang zoning, pero ang pinaggamitan ay restaurant, eh dapat i-classify yan as komersyal. So hinihubaligtad. Tama po ba?
+
+**[04:09:51.020] Engr. Jaime G. Adalin**  
+Your correct honor. Vice versa po siya.
+
+**[04:09:53.560] Sen. Sherwin T. Gatchalian**  
+Vice versa rin siya. Pero nakita naman natin kanina, eh kainan ho yan. So dapat i-classify ho yan as komersyal. So, kukorek ko lang kayo doon. So, pupunta na po ako sa aking katanungan. Yung property na ipinakita ko kanina, yan po ba ay pagmamayari po ni Atty. Manases at Vice President Sara?
+
+**[04:10:18.960] Engr. Jaime G. Adalin**  
+That is correct, Your Honor.
+
+**[04:10:21.000] Sen. Sherwin T. Gatchalian**  
+At yan po ay napuntahan niyo personally?
+
+**[04:10:25.120] Engr. Jaime G. Adalin**  
+Pinainspeko po doon sa aming technical staff just to confirm. kung talagang yan yung subject property. And they confirmed it, Your Honor.
+
+**[04:10:37.450] Sen. Sherwin T. Gatchalian**  
+Hindi ito, hindi ito, hindi itong, hindi itong... Showing what's appearing in the screen.
+
+**[04:10:46.910] Sen. Francis "Chiz" G. Escudero**  
+I don't believe that's the basis of the Senate President's questions. Kindly turn the screen off. Tech.
+
+**[04:10:58.650] Sen. Sherwin T. Gatchalian**  
+In building, in building po yung pinapointa ko. So pinapuntahan niyo po sa inspector at yun po yung... Yung po yung building at property na pinag-uusapan ngayon.
+
+**[04:11:13.970] Engr. Jaime G. Adalin**  
+Hindi ko po napansin yung pangalan na ano yan? Dabaw...
+
+**[04:11:20.060] Engr. Jaime G. Adalin**  
+Ano po yan? Dabaw
+
+**[04:11:24.140] Sen. Sherwin T. Gatchalian**  
+Prime.
+
+**[04:11:25.510] Engr. Jaime G. Adalin**  
+Ang nakita ko po doon sa picture is yung building lang itself.
+
+**[04:11:31.750] Sen. Sherwin T. Gatchalian**  
+Ito?
+
+**[04:11:32.070] Engr. Jaime G. Adalin**  
+Yan, yan po.
+
+**[04:11:35.260] Sen. Sherwin T. Gatchalian**  
+Ito ho, itong building na ito, pagmamayari po ni Atty. Manases. At
+
+**[04:11:39.300] Sen. Sherwin T. Gatchalian**  
+ito rin po yung title ending 0775.
+
+**[04:11:44.980] Engr. Jaime G. Adalin**  
+Yes, Your Honor. Diyan po naka-construct.
+
+**[04:11:47.380] Sen. Sherwin T. Gatchalian**  
+Dito po naka-construct. At ito po yung naka-connect sa inyong tax declaration na pinakita kanina ng defense.
+
+**[04:11:55.760] Engr. Jaime G. Adalin**  
+You're correct, Your Honor.
+
+**[04:11:57.160] Sen. Sherwin T. Gatchalian**  
+Ngayon, tinitignan ko ho yung SALN. Gusto ko rin ho malaman kung paano ho, kasi kanina nung nasabi nyo, Itong property na ito at yung sa SALN, yung Barangay 74A is one and the same. Pero tinitignan ko dito sa SALN, wala naman pong nakasulat na title number. Wala rin pong nakasulat na tax declaration number. So paano nyo nasabi na yan na yan ang property na nakadeclare dito?
+
+**[04:12:26.600] Engr. Jaime G. Adalin**  
+Nag-base pa ako doon sa access value na nakalagay na...
+
+**[04:12:35.370] Engr. Jaime G. Adalin**  
+82,046, Your Honor.
+
+**[04:12:38.130] Sen. Sherwin T. Gatchalian**  
+Yung assessed value ang ginamitan niyong basehan. Tapos ginamitan niyo rin basehan, I guess, yung market value.
+
+**[04:12:47.510] Engr. Jaime G. Adalin**  
+Yes. At saka po yung pinakitang e-card kanina that nakareflect po yung previous tax declaration na nakalagay din po dito sa baba.
+
+**[04:12:57.750] Sen. Sherwin T. Gatchalian**  
+Pero iba po pagdating naman po doon sa purchase value.
+
+**[04:13:02.410] Engr. Jaime G. Adalin**  
+Yes, probably. Kasi purchase, it's again, it's beyond our jurisdiction to determine the purchase price.
+
+**[04:13:11.610] Sen. Sherwin T. Gatchalian**  
+Tinitignan ko ho rin kanina, ipakibalik ho yung kaninang thin lash, yung site, yung vicinity map, or yung yan, ipakizoom out. Kasi pag titignan niyo ho yung lupa nito, halos magkakaparehas po yung cut.
+
+**[04:13:32.740] Sen. Sherwin T. Gatchalian**  
+Halos magkakapareha swing cut. So, ibig sabihin na ho, yung kanilang assessed value at yung kanilang fair market value, current market value, pwede ho pare-pareho, di ba ho? Kasi tingnan niyo ho, subdivision ho sila eh.
+
+**[04:13:52.300] Engr. Jaime G. Adalin**  
+In that case, Your Honor, yan pong subject property was subdivided. I just can't recall kung kailan. Na-subdivide po yan, kaya pansin niyo po ninyo, yung pula, merong maliit na katabi. Dahil hinati po siya, Your Honor.
+
+**[04:14:14.620] Engr. Jaime G. Adalin**  
+Ayan po.
+
+**[04:14:16.660] Sen. Sherwin T. Gatchalian**  
+Yan bang pula? Yan ba ho yung property na tinutukoy?
+
+**[04:14:20.040] Engr. Jaime G. Adalin**  
+Yes. Yan pong maliit is another property na sinubdivide po.
+
+**[04:14:24.440] Sen. Sherwin T. Gatchalian**  
+Okay. Yung mga ibang property, nakita ko, pare-pareho yung hugis eh. So, ibig sabihin, pwede ho magkaroon ng tax declaration. Na halos pare-parehas ang assessed value at market value dahil pag makikita ho na, tinitignan ko lang ho sa picture ha, wala akong sukat ha. At
+
+**[04:14:42.370] Sen. Sherwin T. Gatchalian**  
+pag titignan ho natin yan by visual observation, pwede ho magkaroon ng maraming pare-parehong hugis ng lupa. Tama po ba?
+
+**[04:14:52.270] Engr. Jaime G. Adalin**  
+Yes, most probably, Your Honor.
+
+**[04:14:54.730] Sen. Sherwin T. Gatchalian**  
+Thank you. Thank you, Mr. Presiding Officer.
+
+**[04:14:57.010] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Senator Judge Villanueva is recognized. You may proceed, sir. You have two minutes.
+
+**[04:15:03.250] Sen. Joel Villanueva**  
+Thank you, Mr. President.
+
+**[04:15:06.130] Sen. Joel Villanueva**  
+Sir Witness, magandang hapon po.
+
+**[04:15:07.990] Engr. Jaime G. Adalin**  
+Magandang hapon po.
+
+**[04:15:10.150] Sen. Joel Villanueva**  
+Unang tanong ko, may masama ko ba pag kayo'y nagpunta ng China o wala naman?
+
+**[04:15:17.610] Engr. Jaime G. Adalin**  
+Wala naman po siguro, wala na na kung personal na ang travel.
+
+**[04:15:20.910] Sen. Joel Villanueva**  
+Naniniwala din po ako doon, kaya maganda na malinaw po na wala namang masama kung pumunta ko kay China.
+
+**[04:15:27.790] Sen. Joel Villanueva**  
+Gusto kong pag-usapan itong... Property na pinag-uusapan kanina pa. If we can flash in the screen yung sale ng 2024. Engineer, ano po yung pinagkaiba ba as an assessor, city assessor, ng assessed value, fair market value sa tax declaration at actual acquisition cost or consideration paid for a property?
+
+**[04:15:56.190] Engr. Jaime G. Adalin**  
+Ang assessed value po ay
+
+**[04:16:00.300] Engr. Jaime G. Adalin**  
+Doon po yan binabase sa tax declaration na naming na issue. Yung acquisition cost, in my understanding, is kung magkano po yung sabihin natin na actual na bintahan or nakalagay sa deduct sale. Kami po is doon lang po sa assessed value.
+
+**[04:16:20.540] Sen. Joel Villanueva**  
+So ang city assessor po ba, kagaya po ninyo, independently verify what the buyer? Actually paid or rely on or you just rely on documents and assessment schedules?
+
+**[04:16:39.530] Engr. Jaime G. Adalin**  
+Independent po yung appraisal na ginagawa ng assessor. It is always based on the approved schedule of market values with the appropriate ordinance.
+
+**[04:16:52.910] Sen. Joel Villanueva**  
+And you verify what the buyer actually paid?
+
+**[04:16:57.500] Engr. Jaime G. Adalin**  
+Hindi na po. Ang pagkaalam ko po yan sa BAR.
+
+**[04:17:02.980] Sen. Joel Villanueva**  
+Sige po, hindi ko na babanggitin itong maraming batas tungkol po dyan. 6713, Section 199 ng Local Government Code. At dito po kasi sa Impeachment Court ay nareceive namin yung LRA deed entitled as recorded property conveyance evidence but Reserved po whether any material SALN omission was actually proved. What can be proved? Ang gusto ko lang ipunto ay magkakahiwalay po yung tatlong halaga na hinihingi sa SALN. Linawin po natin kung aling halaga talaga ang galing po sa CT assessment at kung alin ang makikita sa deed o sa ibang transaction record.
+
+**[04:17:51.080] Engr. Jaime G. Adalin**  
+You're correctly honored.
+
+**[04:17:53.300] Sen. Joel Villanueva**  
+Last question. Before the July 2024 sale, magkano po yung assessed value ng lot under the seller's tax declaration?
+
+**[04:18:05.850] Engr. Jaime G. Adalin**  
+Before the July
+
+**[04:18:08.230] Sen. Joel Villanueva**  
+2024 sale.
+
+**[04:18:10.590] Engr. Jaime G. Adalin**  
+In the name of the previous owner, your honor. As indicated in our tax declaration, the market value is 2 million. 51,150 pesos.
+
+**[04:18:23.330] Sen. Joel Villanueva**  
+Assessed value po yun.
+
+**[04:18:24.150] Engr. Jaime G. Adalin**  
+Assessed value is 82,046.
+
+**[04:18:26.630] Sen. Joel Villanueva**  
+Now, when your office transferred the declaration to Atty. Carpio, did you carry over the 82,046 or compute a new value?
+
+**[04:18:39.140] Engr. Jaime G. Adalin**  
+It is carry over.
+
+**[04:18:40.660] Sen. Joel Villanueva**  
+Carry over po. Maaari po ba na ipakita yung previous and replacement declarations? And identify which one was on file as of 31st of December 2024.
+
+**[04:19:00.240] Sen. Joel Villanueva**  
+Pwede po ba yun? Mapapakita po natin yun.
+
+**[04:19:03.680] Engr. Jaime G. Adalin**  
+Sa pangalan po ng previous owner?
+
+**[04:19:06.320] Sen. Joel Villanueva**  
+Opo, tsaka yung previous and replacement declarations.
+
+**[04:19:10.860] Engr. Jaime G. Adalin**  
+Yes, actually nasubmit po namin yan.
+
+**[04:19:15.470] Engr. Jaime G. Adalin**  
+At tingin ko na-present kanina yung tax declaration sa previous owner.
+
+**[04:19:25.270] Engr. Jaime G. Adalin**  
+Efectiva 2019.
+
+**[04:19:26.950] Sen. Joel Villanueva**  
+Kasi ho, Mr. Witness, yung Korte can check, hindi ho ba, when the figure first appeared and which declaration contained it at the year end. Tama po ba?
+
+**[04:19:41.870] Engr. Jaime G. Adalin**  
+You're correct.
+
+**[04:19:42.950] Sen. Joel Villanueva**  
+Ano ho ba yung nakalagay doon? Yung huling tanong ko. Nagtutugma po ba?
+
+**[04:19:47.710] Engr. Jaime G. Adalin**  
+Yes, nagtutugma po. Yung previous na... Assess value is 82,046 pesos. At yung na-transfer na po kay Atty. Manases Carpio, ganun din po, 82,046.
+
+**[04:20:03.940] Sen. Joel Villanueva**  
+Yun po yung assess, no? Pero yung market value, ang laki.
+
+**[04:20:07.780] Engr. Jaime G. Adalin**  
+Yes.
+
+**[04:20:08.700] Sen. Joel Villanueva**  
+Which is about 10 million. Ang laki ho nung difference. Ganun po talaga, no?
+
+**[04:20:13.520] Engr. Jaime G. Adalin**  
+Ganun po talaga.
+
+**[04:20:14.480] Sen. Joel Villanueva**  
+Para po kukunti na lang yung buwis na bayaran. Lahat
+
+**[04:20:18.040] Sen. Joel Villanueva**  
+naman po, ganun. Would you agree?
+
+**[04:20:21.010] Engr. Jaime G. Adalin**  
+Ang base yan po kasi ng assessed value is yung certain percentage applied doon sa aming market value computed based on the schedule of market values approved.
+
+**[04:20:33.230] Sen. Joel Villanueva**  
+Which is again, huge difference. Thank you,
+
+**[04:20:37.170] Sen. Joel Villanueva**  
+Mr. Wittes. Thank you, Mr. Presiding Officer.
+
+**[04:20:39.330] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Villanueva. To avail of the second round, Senator Judge Hontiveros.
+
+**[04:20:57.200] Sen. Risa Hontiveros**  
+Salamat po, Mr. Presiding Officer. Magandang hapon po muli, Engineer.
+
+**[04:21:01.380] Engr. Jaime G. Adalin**  
+Good afternoon, Your Honor.
+
+**[04:21:03.900] Sen. Risa Hontiveros**  
+Naalala niyo na po ba kung saan kayo sa China pumunta nung January 2026?
+
+**[04:21:13.030] Engr. Jaime G. Adalin**  
+Pwede ko kaya kayo, parang gusto ko sanang i-inquire doon sa aming admin ba?
+
+**[04:21:20.310] Sen. Risa Hontiveros**  
+Pwede rin naman po, pero to confirm na lang kasi dahil hindi niyo sinasagot kanina, nag-humingi po ako ng yung mga datos na yun. And so may information po ako na January 25 sa flight BR358, lumipad kayo mula Manila hanggang Beijing.
+
+**[04:21:39.500] Engr. Jaime G. Adalin**  
+You're correct.
+
+**[04:21:40.620] Sen. Risa Hontiveros**  
+I'm correct pala po eh. Sir?
+
+**[04:21:44.500] Engr. Jaime G. Adalin**  
+Na-verify na po kasi ninyo siguro.
+
+**[04:21:46.800] Sen. Risa Hontiveros**  
+Ano sir?
+
+**[04:21:47.740] Engr. Jaime G. Adalin**  
+Na-verify na po ba?
+
+**[04:21:49.420] Sen. Risa Hontiveros**  
+Hindi pa nga verified. Wala kayong sinabi sa akin eh na pwede kong i-verify. Ito po ay impormasyon na niresearch na lang po namin. January 30 naman po. Lumipad kayo PR339 mula Shanghai, pabalik dito sa Manila. So, naalala nyo na po ba na pumunta kayong Beijing at Shanghai noong January ngayong taon?
+
+**[04:22:12.310] Engr. Jaime G. Adalin**  
+Most probably, Your Honor.
+
+**[04:22:14.460] Sen. Risa Hontiveros**  
+Sir, kanina, I mean, pumansin din na lagi yung ginagamit yung salitang most probably. Unbelievable na makarating sa isang great capital tulad ng Beijing at isang magandang sudad tulad ng Shanghai at di nyo maalala. Just for the record. So, sino po ang nagdala sa inyo sa Beijing at sino po ang naghatid sa inyo pa uwi galing Shanghai?
+
+**[04:22:41.080] Engr. Jaime G. Adalin**  
+Honestly,
+
+**[04:22:43.920] Engr. Jaime G. Adalin**  
+I'm very sure, Your Honor, na pumunta kami. But on sino po ang nag-facilitate, sino ang nag-guide, hindi ko na po ma-recall. But what I am sure is that is a personal travel, Your Honor.
+
+**[04:23:01.850] Sen. Risa Hontiveros**  
+Sir, kung alam ng travel authorities natin na tumating kayong Beijing and then mula Shanghai bumalik kayong Manila, you must have. Unless may doppelganger po kayo dito sa Pilipinas hanggang sa China. Si Mayor Baste, Tuterte ba ang nagsama sa inyo sa engineering head nyo, sa treasury head nyo dito sa Beijing at saka Shanghai noong January?
+
+**[04:23:31.770] Engr. Jaime G. Adalin**  
+Hindi po kasama ang aming mayor.
+
+**[04:23:34.910] Sen. Risa Hontiveros**  
+Sino yung highest ranking na official na kasama nyo sa trip na iyon?
+
+**[04:23:40.910] Engr. Jaime G. Adalin**  
+Ang marikol ko po ang aming city administrator.
+
+**[04:23:44.150] Sen. Risa Hontiveros**  
+City administrator ang highest ranking and then the rest ay kayo pong mga department heads. Kasama na po kayo. Sige po, ilang huling mga tanong lamang.
+
+**[04:23:56.960] Sen. Risa Hontiveros**  
+Tungkos sa i-request ko pong dokumentong ma-isumite nyo sa Korte sa pamamagitan ng presiding officer. Kanina po sinabi nyo naman na computerized na po ang sistema sa Davao City, tama po?
+
+**[04:24:08.900] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[04:24:09.860] Sen. Risa Hontiveros**  
+Alright. Kung ganun, since computerized naman din po, siguro naman madaling i-check kung may iba pang mga properties si Atty. Man Scarpio sa Davao City. Kaya nyo pong i-check within today or even within the hour, tama po ba?
+
+**[04:24:26.930] Engr. Jaime G. Adalin**  
+Pwede naman po siguro, i-request namin yung aming records officer.
+
+**[04:24:31.570] Sen. Risa Hontiveros**  
+Yes. Pakirequest at engineer ang inyong records office or records officer, i-furnish ang impeachment court nitong mga impormasyon kung ano po lahat ang mga properties ni Atty. Carpio sa Davao City. Maari po ba, engineer?
+
+**[04:24:48.850] Engr. Jaime G. Adalin**  
+Yes, I will request.
+
+**[04:24:50.690] Sen. Risa Hontiveros**  
+Yes, and please ask them to submit to the court within this hour at the latest within the day. Laging salamat, Engineer.
+
+**[04:24:57.790] Engr. Jaime G. Adalin**  
+Thank you, Your Honor.
+
+**[04:24:58.690] Sen. Risa Hontiveros**  
+Laging salamat po, Mr. Presiding Officer.
+
+**[04:25:00.410] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Riza. What is the pleasure of Senator Judge Kiko?
+
+**[04:25:04.490] Sen. Francis "Chiz" G. Escudero**  
+You may proceed, sir.
+
+**[04:25:05.750] Sen. Francis “Kiko” Pangilinan**  
+Thank you. Magandang hapon, Engineer.
+
+**[04:25:08.940] Engr. Jaime G. Adalin**  
+Magandang hapon po.
+
+**[04:25:09.970] Sen. Francis “Kiko” Pangilinan**  
+Kanina, nung ikaw ay nag-testify, tinanong sa'yo tungkol dito sa titulo o yung property na nasa SALN at yung property description na nasa deed of sale. At sinabi mo, one and the same. Tama?
+
+**[04:25:28.810] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[04:25:30.970] Sen. Francis “Kiko” Pangilinan**  
+Sabi mo, one and the same. Sinabi mo, nakakatiyak ka na yung lupa na nakalagay doon sa SALN, yun din yung lupa na nakalagay doon sa deed of sale, tama?
+
+**[04:25:42.590] Engr. Jaime G. Adalin**  
+Yes, Your Honor, based on the eCAR.
+
+**[04:25:44.450] Sen. Francis “Kiko” Pangilinan**  
+Yes. Ngayon, nung ipinakita sa iyo yung picture ng prime dining, sabi mo hindi mo alam kung yun ba, tama?
+
+**[04:25:58.360] Sen. Francis “Kiko” Pangilinan**  
+So paano mo masasabing tiyaka na yun yung property nung ipinakita sa iyo ay hindi mo alam?
+
+**[04:26:07.840] Engr. Jaime G. Adalin**  
+Yun po kasing picture, parang may pangalan. Kasi yung signage or yung business name, hindi po ako pamilyar doon. So
+
+**[04:26:15.960] Sen. Francis “Kiko” Pangilinan**  
+in other words...
+
+**[04:26:18.350] Sen. Francis “Kiko” Pangilinan**  
+Yung sinabi mong tiyak ka na yung nasa SALN at yung nasa DDoS sale ay iisa, hindi mo pala alam. Kasi nung pinakita sa'yo, hindi mo alam eh. Pero nung pagkatapos ng lunch, tinanong sa'yo, sabi mo, kinausap mo yung tao mo, yun pala. So bakit pabago-bago? Tiyak ka, hindi ka tiyak. Tapos ngayon tiyak ka na naman dahil nagtanong ka dun sa mga tao mo. So ano yung totoo? Ano yung hindi totoo? Ano yung tiyak? Ano yung hindi tiyak?
+
+**[04:26:56.430] Engr. Jaime G. Adalin**  
+Yan po kasi yung picture kanina na pinakita na merong name ng business.
+
+**[04:27:05.110] Engr. Jaime G. Adalin**  
+Doon pa ako hindi sure.
+
+**[04:27:07.790] Engr. Jaime G. Adalin**  
+Kasi normally...
+
+**[04:27:09.090] Sen. Francis “Kiko” Pangilinan**  
+Kasi kung tiyak ka, di dapat nung nakita mo, alam mo. Sabi mo yun yung iisan... Iisa yun eh, di ba? Iisa yung nasa SALN na description, iisa rin yung nandun sa deed of sale. So sabi mo, tiyak. Pero nung nakita yung property, sabi mo, hindi mo alam. Tapos nung nagtanong ka, yun pala. Alam mo pala. Alam mo na.
+
+**[04:27:34.820] Engr. Jaime G. Adalin**  
+Kasi po, yung picture na pinakita lately na walang nakalagay na business name, Ayun din po nakita ko doon sa picture na sinambit sa amin ng aming mga appraiser. Usually take pictures eh. Pero kung nakalagay yung signage na yun ang business niya, doon ako hindi sure. Kasi ang picture po namin, wala namang ganun nakalagay na bistro. Ano ba yun nakalagay doon?
+
+**[04:28:00.100] Sen. Francis “Kiko” Pangilinan**  
+So ano yung totoo? Sure, hindi sure?
+
+**[04:28:02.680] Engr. Jaime G. Adalin**  
+Pardon? Pardon sir?
+
+**[04:28:04.160] Sen. Francis “Kiko” Pangilinan**  
+So what is, ano talaga ang totoo? Sure ka dahil sinabi mong tiya ka tapos hindi ka sure? Tapos ngayon, sure ka na ulit. Ano ba?
+
+**[04:28:13.460] Engr. Jaime G. Adalin**  
+Yung picture po na pinakita na walang name ng business, doon ako sure na talagang yun siya.
+
+**[04:28:23.160] Engr. Jaime G. Adalin**  
+Magkaiba kasi sila eh.
+
+**[04:28:28.770] Sen. Francis “Kiko” Pangilinan**  
+Pero ngayon, magtanong ka, di mo alam, ngayon alam
+
+**[04:28:29.080] Sen. Francis “Kiko” Pangilinan**  
+mo na. Anyway, I have no further questions. Just a observation that clearly, there are inconsistencies in your testimony. Forgive me, Engineer, but you say one thing and then you say another thing. So we are wondering, ano ba talaga ang totoo sa sinasabi mo? Just for the record, Mr. President.
+
+**[04:28:55.200] Sen. Francis "Chiz" G. Escudero**  
+Thank you. Finally, Senator Judge Erwin Tulfo for his... Raffy?
+
+**[04:29:02.420] Sen. Francis "Chiz" G. Escudero**  
+Senator Raffy Tulfo, rather, for his second round. Apologies, Senator Judge Raffy. You may proceed, sir. You have two minutes.
+
+**[04:29:17.420] Sen. Raffy T. Tulfo**  
+Just like what Senator...
+
+**[04:29:24.270] Sen. Raffy T. Tulfo**  
+There's nothing wrong for anybody to go to China. Pero kung nang-sponsor is Chinese government, then may problema. Kaya yun ang tinatanong ko ngayon.
+
+**[04:29:39.760] Sen. Raffy T. Tulfo**  
+Sino po ang nag-sponsor ng trip niya sa China? Would you know?
+
+**[04:29:43.920] Engr. Jaime G. Adalin**  
+Personal travel po namin yan, Your Honor.
+
+**[04:29:46.440] Sen. Raffy T. Tulfo**  
+Personal travel. Ilan kayo?
+
+**[04:29:51.120] Engr. Jaime G. Adalin**  
+Para mga 6 ato o 7?
+
+**[04:29:55.350] Sen. Raffy T. Tulfo**  
+6-7. So pinag-usapan nyo 7 kayo na mag-travel sa channel. On a personal matter, is that what it is?
+
+**[04:30:05.430] Engr. Jaime G. Adalin**  
+Yes, correct, Your Honor.
+
+**[04:30:07.150] Sen. Raffy T. Tulfo**  
+And then, same thing noong November 2018? Kasi noong November 2018, two days lang. And then noong January 25, 26, five days lang. So all of these are personal money ninyo?
+
+**[04:30:26.740] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[04:30:27.880] Sen. Raffy T. Tulfo**  
+Sino-sino po ulit ang mga kasama nyo?
+
+**[04:30:31.180] Engr. Jaime G. Adalin**  
+If I can recall, yung January, nakasama po namin yung aming administrator and city engineer and city treasurer.
+
+**[04:30:41.200] Sen. Raffy T. Tulfo**  
+So naka-declare to sa inyong travel authority?
+
+**[04:30:44.900] Engr. Jaime G. Adalin**  
+Yes.
+
+**[04:30:45.820] Sen. Raffy T. Tulfo**  
+Na you are using personal funds?
+
+**[04:30:48.920] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[04:30:50.220] Sen. Raffy T. Tulfo**  
+Sa plane ticket and all? At kayo po mismo ang bumili ng plane ticket?
+
+**[04:30:54.580] Engr. Jaime G. Adalin**  
+Yes, Your Honor.
+
+**[04:30:55.660] Sen. Raffy T. Tulfo**  
+At which travel agency ito?
+
+**[04:30:59.690] Sen. Raffy T. Tulfo**  
+Yes. Kasi kayo mismo pumunta sa travel agency? para bumili ng ticket. Or somebody bought your tickets through the travel agency or the travel agency bought the tickets for you guys?
+
+**[04:31:13.250] Engr. Jaime G. Adalin**  
+What I can recall is...
+
+**[04:31:15.490] Sen. Raffy T. Tulfo**  
+Anong pangalan ng travel agency at the same time follow-up ko?
+
+**[04:31:18.310] Engr. Jaime G. Adalin**  
+Pardon sir?
+
+**[04:31:20.310] Sen. Raffy T. Tulfo**  
+Kasi ikaw ba mismo pumunta sa PAL para bumili ng ticket o gumamit ka ng travel agency?
+
+**[04:31:28.520] Engr. Jaime G. Adalin**  
+If I can recall, nag-assign kami ng isang tao to facilitate the procurement of the ticket, Your Honor.
+
+**[04:31:40.040] Sen. Raffy T. Tulfo**  
+So meron kayong tao ang kinausap para mag-facilitate ng tickets ninyo?
+
+**[04:31:47.580] Engr. Jaime G. Adalin**  
+As a group, Your Honor.
+
+**[04:31:49.540] Sen. Raffy T. Tulfo**  
+So group to rito?
+
+**[04:31:50.920] Engr. Jaime G. Adalin**  
+Yes.
+
+**[04:31:51.580] Sen. Raffy T. Tulfo**  
+So ibig sabihin dumaan kayo sa travel agency? Kasi kung group to, travel agency yan eh. Most probably yun.
+
+**[04:31:59.180] Sen. Raffy T. Tulfo**  
+Anong pangalan po ng travel agency?
+
+**[04:32:01.790] Engr. Jaime G. Adalin**  
+Hindi ko talaga ma-memorize.
+
+**[04:32:03.410] Sen. Raffy T. Tulfo**  
+Diyan ka na naman. Nagkakaroon ka ng amnesia. Of
+
+**[04:32:05.770] Sen. Raffy T. Tulfo**  
+course, you should know that. Kasi sabi mo, group kayo. Siyempre, kung pera ninyo yan, alamin nyo kung anong pangalan ng travel agency para makatipid kayo. Mahal ba yan? O kilala ba yung travel agency na yan? O dati pa, palpak na yan. Marami na ginagawa ang kalukuan. E maghanap tayo ng magandang travel agency. Ganon dapat. Engineer ka pa man din. Kung baga, kung ano nang sabihin ng mga kasama mo, bahala na.
+
+**[04:32:25.250] Engr. Jaime G. Adalin**  
+Am I allowed to... Kung baga to furnish officially kung after checking, pwede po ba yan?
+
+**[04:32:33.130] Sen. Raffy T. Tulfo**  
+Yes, pwede po yan. Siguro. Mr. Presiding Officer, pwede ba mag-furnish na siya after checking yung pangalan travel agency?
+
+**[04:32:39.070] Engr. Jaime G. Adalin**  
+Para sigurado lang po.
+
+**[04:32:42.570] Sen. Francis "Chiz" G. Escudero**  
+When, Engineer Jimmy?
+
+**[04:32:45.270] Engr. Jaime G. Adalin**  
+Upon going back to the office, Your Honor.
+
+**[04:32:49.960] Sen. Francis "Chiz" G. Escudero**  
+With the permission of Senator Judge Raffy, he can just simply inform the Clerk of Court if that is okay with him.
+
+**[04:32:57.450] Sen. Raffy T. Tulfo**  
+That's okay with me. Okay.
+
+**[04:32:59.950] Sen. Francis "Chiz" G. Escudero**  
+Kindly, the clerk is directed to kindly coordinate with Engineer Jimmy for the travel agency, name of the travel agency concerned.
+
+**[04:33:09.070] Engr. Jaime G. Adalin**  
+Yes, Yon.
+
+**[04:33:09.970] Sen. Francis "Chiz" G. Escudero**  
+Thank you.
+
+**[04:33:10.710] Sen. Raffy T. Tulfo**  
+Noong 2018, personal expenses, personal money din ang ginamit nyo, pagpunta ng China din.
+
+**[04:33:21.450] Engr. Jaime G. Adalin**  
+2018?
+
+**[04:33:22.550] Sen. Raffy T. Tulfo**  
+Yes, November 12, 2018, PR356 going to China, personal... Money pa rin nyo yan?
+
+**[04:33:30.200] Engr. Jaime G. Adalin**  
+Yes, I'm very sure it's personal money.
+
+**[04:33:32.840] Sen. Raffy T. Tulfo**  
+So mahilig ka palang pumunta ang China on your personal... Sino kasama mo pala nitong November 2018? At bakit two days lang po?
+
+**[04:33:40.390] Engr. Jaime G. Adalin**  
+Wait, I can't recall. There was a travel in China na parang sister city.
+
+**[04:33:52.000] Engr. Jaime G. Adalin**  
+Mayroon po kaming travel na ganun.
+
+**[04:33:53.620] Sen. Raffy T. Tulfo**  
+Kaya nga po, bakit two days lang? Napakabilis ata. At personal travel lang yun? Kumbaga, magbabakasyon ako pero two days lang.
+
+**[04:34:02.440] Sen. Raffy T. Tulfo**  
+So, again, ulitin ko, personal to o may nag-sponsor?
+
+**[04:34:08.680] Engr. Jaime G. Adalin**  
+Siguro, baka pwedeng, I will submit official document para sigurado lang po tayo.
+
+**[04:34:14.000] Sen. Raffy T. Tulfo**  
+Very good.
+
+**[04:34:15.930] Sen. Francis "Chiz" G. Escudero**  
+Same ruling, Senator Judge Raffy. The Clerk of Court is directed to coordinate with
+
+**[04:34:20.350] Sen. Raffy T. Tulfo**  
+Engineer Jimmy. Alam mo, Engineer,
+
+**[04:34:21.210] Sen. Raffy T. Tulfo**  
+kaya kita tinatanong tungkol sa China travel. Dahil si VP, yung colleague, Cali88 na kung saan partner dito si Tony Carpio na asba ni Sara Duterte at isa
+
+**[04:34:39.360] Sen. Raffy T. Tulfo**  
+sa mga co-owners. Nakatanggap ng 319 million pesos yung Cali88. Inward remittance from China and Hong Kong. So hindi maganda pakinggan. Malaman ng mga Pilipino na tumatanggap ang isang government official, especially napakataas yung katungkulan sa ating gobyerno, tumanggap ng salapi mula sa China na kung saan ay nagkakaroon tayo ng hidwaan sa West Philippine Sea. Gets? Salamat po.
+
+**[04:35:12.660] Sen. Francis "Chiz" G. Escudero**  
+Thank you, Senator Judge Raffy. Senator Judge Bam Aquino is recognized. You have two minutes, sir.
+
+**[04:35:20.050] Sen. Paolo Benigno “Bam” Aquino**  
+Maraming salamat, Mr. Presiding Officer. My question is for the prosecution initially. Magandang araw, Atty. Tolosa.
+
+**[04:35:27.310] Atty. Benjamin Tolosa Jr.**  
+Good afternoon, Your Honor.
+
+**[04:35:28.710] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. Nais ko lang kasing iibalik yung diskusyon dun sa properties. So, can you refresh our memory? From the prosecution's perspective, meron po bang property na pagmamayari ni Vice President? Duterte o ng kanyang asawa na hindi po nakalagay sa SALN. What is the position of the prosecution?
+
+**[04:35:54.310] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor. As testified to by the Register of Deeds of the City of Davao, that is the property covered by TCT No. 146-202401-0775.
+
+**[04:36:07.090] Sen. Paolo Benigno “Bam” Aquino**  
+Ito yung pinag-uusapan natin ngayong araw?
+
+**[04:36:09.010] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor.
+
+**[04:36:09.590] Sen. Paolo Benigno “Bam” Aquino**  
+So isa lang ang isang property ang nakita ninyo na wala sa kanyang SALN?
+
+**[04:36:14.010] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor. That was the property identified by the RD, Your Honor.
+
+**[04:36:16.790] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. One property in Davao City. Meron bang property sa Samal?
+
+**[04:36:21.990] Atty. Benjamin Tolosa Jr.**  
+Yes, Your Honor.
+
+**[04:36:22.710] Sen. Paolo Benigno “Bam” Aquino**  
+So, could you tell us the, in your, sa position po ng prosecution, ilang properties ang hindi na deklara ni Vice President Sara sa kanyang sale?
+
+**[04:36:33.150] Atty. Benjamin Tolosa Jr.**  
+Yes, based on what has been presented by our witnesses, one in the city of Davao and another one, Your Honor, in the...
+
+**[04:36:42.070] Atty. Benjamin Tolosa Jr.**  
+Igakos, or the island garden of Samal, Your Honor.
+
+**[04:36:46.210] Sen. Paolo Benigno “Bam” Aquino**  
+Okay, so we're talking about two properties. Yung susunod na witness, yun yung sa Samal.
+
+**[04:36:51.170] Atty. Benjamin Tolosa Jr.**  
+We believe so, Your Honor.
+
+**[04:36:52.010] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. So right now, ang defense, ang posisyon nila, parehas yung nakalagay na Barangay 74A dito sa pinag-uusapan natin. Ang posisyon nyo, hindi ito magkaparehas.
+
+**[04:37:06.850] Atty. Benjamin Tolosa Jr.**  
+That is correct, Your Honor, because of the glaring discrepancies between the two.
+
+**[04:37:10.230] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. So pag minatch ninyo yung mga properties sa Davao sa Register of Deeds at sa SALN, lampas ba dun sa dami ng nadeklara niyang property o parehas ang numero? Do you understand my question? Kunyari kung 19 yan, 19 rin ba yung Register of Deeds, 19 rin yung sa SALN o 20 yung nasa Register of Deeds at 19 yung sa SALN? For example.
+
+**[04:37:38.880] Atty. Benjamin Tolosa Jr.**  
+Yes. We were not able to check all of the properties with the RD. But because the point is, even if the witness will present that summary of all properties under the name of the spouses,
+
+**[04:37:59.040] Sen. Paolo Benigno “Bam” Aquino**  
+Yes.
+
+**[04:37:59.900] Atty. Benjamin Tolosa Jr.**  
+That will only cover properties which they already transferred under their names. So it will not cover properties which they did not yet transfer under their name. So it is possible that this property indicated in the SALN was not yet transferred under their name. So it will not be reflected. in any summary that he will produce. It's the same thing, Your Honor. For example, even if the Vice President admitted she has financial interest in GenCorp, if you check the GIS, she will not be reflected as a stockholder or director, but still, she admitted that she has interest there.
+
+**[04:38:40.260] Sen. Paolo Benigno “Bam” Aquino**  
+Okay. Sige. Magkaiba yung... Yung Gen Corp. At medyo baka iba to kasi ito mabibilang natin eh. Mabibilang mo yung dami ng lupa, mabibilang mo yung nakarehistro, mabibilang mo yung nasa SALN.
+
+**[04:38:52.820] Sen. Paolo Benigno “Bam” Aquino**  
+So, anyway, again, we're not supposed to do the work of the defense or the prosecution. Pero siguro po, hiningin na rin ni Sen. Risa yung mga detalye ng lahat ng properties sa Davao City ni Mans Carpio, Sara Duterte Carpio, or Joint. Pag na-submit na po yun, magandang mabangga natin yan dun sa SALN, makita natin yung dami ng mga properties para makita natin ano ba yung probability. Kasi sabi ng witness, highly probable, probable, possible. Pero siguro pag nandyan na po yung datos, pag na-submit nyo na po yan sa clerk of court at may presenta po sa amin, mas magiging malinaw kung ano ba itong pinag-uusapan nating loting ito. Kung ito ba'y labis. Doon sa nakarehistro o kulang ba ito sa mga nakalagay sa SALN? Maraming salamat, Mr. President Officer. Thank you.
+
+**[04:39:46.570] Sen. Francis "Chiz" G. Escudero**  
+Thank you very much, Senator Judge Bam Aquino. There being no other Senator Judges who wishes to make interjections, before I excuse Engineer Jimmy, without raising the hopes of some of the Senator Judges, even if Engineer Jimmy submits the list, As pointed out by Attorney Tolosa earlier, and as which we have seen earlier, ang babanggitin sa mga title, technical description lamang naman na kailangan ibangga dun sa pangalan lamang ng barangay na binabanggit sa SALN. So, it'll still be the same position that we will find ourselves in after we get the list because kailangan mo pa rin banggain yung nakalagay sa TCT na technical description lamang, wala namang house and street number, kumpara sa barangay na nakalagay sa SALN.
+
+**[04:40:37.540] Sen. Francis "Chiz" G. Escudero**  
+Anyway,
+
+**[04:40:38.070] Sen. Francis "Chiz" G. Escudero**  
+we would like to thank you, Engineer Jimmy, para po sa inyong oras, panahon at pagsagot sa mga katanungan at pagupo bilang testigo sa hukumang ito. Maraming salamat po. You're excused, sir.
+
+**[04:40:50.310] Engr. Jaime G. Adalin**  
+Maraming salamat po.
+
+**[04:40:52.940] Sen. Francis "Chiz" G. Escudero**  
+As agreed upon by the parties, as stated by the Chair earlier, we shall adjourn at this point and shall resume tomorrow morning at 10 a.m. for the direct examination of
+
+**[04:41:05.580] Sen. Francis "Chiz" G. Escudero**  
+Engineer John Kenneth Enumerables. Thereafter, the City Accountant, Ms. Bahan. And thereafter, the Punong Barangay. Trial is adjourned until tomorrow at 10 a.m.

@@ -1,0 +1,1527 @@
+{
+  "description": "Davao City assessor Jaime G. Adalin's testimony, the disputed SALN-property match, valuation and travel questions, and the next defense witnesses.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Opening",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for November 9, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00039_E2",
+          "start_seconds": 817.78,
+          "clock": "00:13:37",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00080",
+          "start_seconds": 1186.86,
+          "clock": "00:19:46",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00086",
+          "start_seconds": 1220.28,
+          "clock": "00:20:20",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00138",
+          "start_seconds": 1748.63,
+          "clock": "00:29:08",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00238",
+          "start_seconds": 3083.5,
+          "clock": "00:51:23",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00238_E1",
+          "start_seconds": 3098.58,
+          "clock": "00:51:38",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00236_E1",
+          "start_seconds": 3037.6400000000003,
+          "clock": "00:50:37",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00403_E2",
+          "start_seconds": 4417.68,
+          "clock": "01:13:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00404",
+          "start_seconds": 4450.05,
+          "clock": "01:14:10",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00406",
+          "start_seconds": 4454.9,
+          "clock": "01:14:14",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00442",
+          "start_seconds": 4746.17,
+          "clock": "01:19:06",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00732",
+          "start_seconds": 7813.1,
+          "clock": "02:10:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00733",
+          "start_seconds": 7820.14,
+          "clock": "02:10:20",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        }
+      ],
+      "heading": "First defense witness",
+      "id": "P002",
+      "kind": "finding",
+      "text": "Engineer Jaime G. Adalin, Davao City assessor, took the stand as the first defense witness. The central question was whether a disputed Matina Crossing property appeared in the Vice President's 2024 and 2025 statements of assets, liabilities and net worth, or SALNs. Adalin produced five tax declarations, three maps and a barangay certification. He initially identified the properties as the same, then qualified that identification under questioning about the records and other possible holdings."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00061_E1",
+          "start_seconds": 950.52,
+          "clock": "00:15:50",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00063",
+          "start_seconds": 973.38,
+          "clock": "00:16:13",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00167_E1",
+          "start_seconds": 2306.46,
+          "clock": "00:38:26",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00181",
+          "start_seconds": 2494.23,
+          "clock": "00:41:34",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00225",
+          "start_seconds": 2843.85,
+          "clock": "00:47:23",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00227",
+          "start_seconds": 2858.55,
+          "clock": "00:47:38",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00229",
+          "start_seconds": 2870.4300000000003,
+          "clock": "00:47:50",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00231",
+          "start_seconds": 2884.16,
+          "clock": "00:48:04",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00403_E2",
+          "start_seconds": 4417.68,
+          "clock": "01:13:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00404",
+          "start_seconds": 4450.05,
+          "clock": "01:14:10",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00406",
+          "start_seconds": 4454.9,
+          "clock": "01:14:14",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00440",
+          "start_seconds": 4704.3,
+          "clock": "01:18:24",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00442",
+          "start_seconds": 4746.17,
+          "clock": "01:19:06",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00173_E1",
+          "start_seconds": 2420.83,
+          "clock": "00:40:20",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00196_E1",
+          "start_seconds": 2617.94,
+          "clock": "00:43:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00232_E3",
+          "start_seconds": 2993.19,
+          "clock": "00:49:53",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00236_E2",
+          "start_seconds": 3067.8900000000003,
+          "clock": "00:51:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00436",
+          "start_seconds": 4664.45,
+          "clock": "01:17:44",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        }
+      ],
+      "heading": "The defense identification",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Defense counsel Attorney Lindon Miguel C. Bacquel relied on location and monetary particulars to argue that the titled property was disclosed. Adalin used maps to locate it in Talomo District, in Matina Crossing, also called Barangay 74-A, and connect its property index number to the title ending 0775. He linked the SALN's land entry to matching assessment figures and its 2025 commercial-building entry to the building declaration. The maps and barangay certification were marked as defense exhibits."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00264_E1",
+          "start_seconds": 3328.9700000000003,
+          "clock": "00:55:28",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00268",
+          "start_seconds": 3337.63,
+          "clock": "00:55:37",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00270",
+          "start_seconds": 3346.13,
+          "clock": "00:55:46",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00285_E1",
+          "start_seconds": 3474.48,
+          "clock": "00:57:54",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00287",
+          "start_seconds": 3483.5299999999997,
+          "clock": "00:58:03",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00291",
+          "start_seconds": 3504.59,
+          "clock": "00:58:24",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00293",
+          "start_seconds": 3512.5699999999997,
+          "clock": "00:58:32",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00295",
+          "start_seconds": 3523.63,
+          "clock": "00:58:43",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00321",
+          "start_seconds": 3806.42,
+          "clock": "01:03:26",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00327",
+          "start_seconds": 3843.22,
+          "clock": "01:04:03",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00329",
+          "start_seconds": 3849.26,
+          "clock": "01:04:09",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00331",
+          "start_seconds": 3879.09,
+          "clock": "01:04:39",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00334",
+          "start_seconds": 3893.79,
+          "clock": "01:04:53",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00338",
+          "start_seconds": 3929.27,
+          "clock": "01:05:29",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00368",
+          "start_seconds": 4179.49,
+          "clock": "01:09:39",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00370",
+          "start_seconds": 4187.98,
+          "clock": "01:09:47",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01127",
+          "start_seconds": 15506.630000000001,
+          "clock": "04:18:26",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01129",
+          "start_seconds": 15519.14,
+          "clock": "04:18:39",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        }
+      ],
+      "heading": "Different values in different records",
+      "id": "P004",
+      "kind": "finding",
+      "text": "The figures came from several different fields. For the current land declaration, Adalin read an assessed value of 82,046 pesos and a market value of 1,864,680 pesos. For the building, he read roughly 5.24 million pesos assessed value and 6.99 million market value. Earlier and replacement land declarations carried the same 82,046-peso assessed value, alongside 2,051,150 pesos market value. Adalin later explained that the seller's assessed value had been carried over to Manases Carpio."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00527",
+          "start_seconds": 6098.8,
+          "clock": "01:41:38",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00532",
+          "start_seconds": 6142.5599999999995,
+          "clock": "01:42:22",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00565",
+          "start_seconds": 6418.01,
+          "clock": "01:46:58",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00565_M1",
+          "start_seconds": 6426.04,
+          "clock": "01:47:06",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00585",
+          "start_seconds": 6591.21,
+          "clock": "01:49:51",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00586",
+          "start_seconds": 6604.49,
+          "clock": "01:50:04",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00590",
+          "start_seconds": 6635.4,
+          "clock": "01:50:35",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00591",
+          "start_seconds": 6645.05,
+          "clock": "01:50:45",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00627",
+          "start_seconds": 6918.47,
+          "clock": "01:55:18",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00628",
+          "start_seconds": 6926.61,
+          "clock": "01:55:26",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00632",
+          "start_seconds": 6941.07,
+          "clock": "01:55:41",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00635",
+          "start_seconds": 6959.0599999999995,
+          "clock": "01:55:59",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00719",
+          "start_seconds": 7618.82,
+          "clock": "02:06:58",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00722",
+          "start_seconds": 7666.18,
+          "clock": "02:07:46",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00709",
+          "start_seconds": 7544.4,
+          "clock": "02:05:44",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        }
+      ],
+      "heading": "Prosecution challenges the match",
+      "id": "P005",
+      "kind": "finding",
+      "text": "Prosecution counsel Attorney Benjamin Tolosa Jr. challenged the identification through discrepancies. Adalin read ten million pesos acquisition cost in the 2024 SALN, against six million pesos total selling price in the eCAR. He agreed that the eCAR included an improvement while the SALN entry described a residential lot. Tolosa also pressed the absence of exact coordinates and block or lot numbers, and whether matching assessment values could identify one property uniquely. Bacquel emphasized that the SALN supplied several identifying particulars together."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00612",
+          "start_seconds": 6767.18,
+          "clock": "01:52:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00619_GAP_M2",
+          "start_seconds": 6828.54,
+          "clock": "01:53:48",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00620",
+          "start_seconds": 6831.58,
+          "clock": "01:53:51",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00663",
+          "start_seconds": 7166.87,
+          "clock": "01:59:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00684",
+          "start_seconds": 7292.14,
+          "clock": "02:01:32",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00724_M2",
+          "start_seconds": 7717.91,
+          "clock": "02:08:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00730",
+          "start_seconds": 7778.05,
+          "clock": "02:09:38",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00732",
+          "start_seconds": 7813.1,
+          "clock": "02:10:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00733",
+          "start_seconds": 7820.14,
+          "clock": "02:10:20",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00650",
+          "start_seconds": 7067.6,
+          "clock": "01:57:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00654",
+          "start_seconds": 7079.9,
+          "clock": "01:57:59",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00657",
+          "start_seconds": 7097.7,
+          "clock": "01:58:17",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00658",
+          "start_seconds": 7118.13,
+          "clock": "01:58:38",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00659",
+          "start_seconds": 7123.87,
+          "clock": "01:58:43",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        }
+      ],
+      "heading": "Certainty under questioning",
+      "id": "P006",
+      "kind": "finding",
+      "text": "Senator Francis \"Chiz\" G. Escudero pressed how a barangay-only address identified one property among many. Asked whether the assessment figures were unique, Adalin moved from a probable answer to acknowledging uncertainty and offering verification. Senator Panfilo “Ping” M. Lacson also sought a firm link between the SALN and the property. Adalin said an attached tax declaration would ease identification; Tolosa then asked whether one was actually attached. Adalin had checked the subpoenaed title rather than all the spouses' holdings."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00691",
+          "start_seconds": 7334.96,
+          "clock": "02:02:14",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00699",
+          "start_seconds": 7386.45,
+          "clock": "02:03:06",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00703",
+          "start_seconds": 7445.34,
+          "clock": "02:04:05",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00705",
+          "start_seconds": 7449.49,
+          "clock": "02:04:09",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00706",
+          "start_seconds": 7458.77,
+          "clock": "02:04:18",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00726",
+          "start_seconds": 7745.52,
+          "clock": "02:09:05",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01252",
+          "start_seconds": 16512.66,
+          "clock": "04:35:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01256",
+          "start_seconds": 16554.31,
+          "clock": "04:35:54",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S01263_L1",
+          "start_seconds": 16593.15,
+          "clock": "04:36:33",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S01265",
+          "start_seconds": 16602.07,
+          "clock": "04:36:42",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S01267",
+          "start_seconds": 16611.17,
+          "clock": "04:36:51",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S01269",
+          "start_seconds": 16626.85,
+          "clock": "04:37:06",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S01270",
+          "start_seconds": 16630.23,
+          "clock": "04:37:10",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01271",
+          "start_seconds": 16658.88,
+          "clock": "04:37:38",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S01271_L2",
+          "start_seconds": 16679.9,
+          "clock": "04:37:59",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S01272",
+          "start_seconds": 16720.26,
+          "clock": "04:38:40",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01273",
+          "start_seconds": 16732.82,
+          "clock": "04:38:52",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01275",
+          "start_seconds": 16786.57,
+          "clock": "04:39:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Checking other holdings",
+      "id": "P007",
+      "kind": "finding",
+      "text": "Senator Paolo Benigno “Bam” Aquino proposed comparing all Davao properties with the SALN. Adalin agreed to submit a certified list. In Aquino's later round, Tolosa maintained allegations concerning the disputed Davao property and another in Samal. He said the prosecution had not checked every registered holding and argued that title lists would omit interests not yet transferred. Escudero observed that technical title descriptions would still have to be reconciled with the SALN's barangay-only locations."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00880",
+          "start_seconds": 13350.61,
+          "clock": "03:42:30",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00883",
+          "start_seconds": 13375.08,
+          "clock": "03:42:55",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00884",
+          "start_seconds": 13380.08,
+          "clock": "03:43:00",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00889",
+          "start_seconds": 13441.64,
+          "clock": "03:44:01",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00891_L2",
+          "start_seconds": 13468.48,
+          "clock": "03:44:28",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00892",
+          "start_seconds": 13475.99,
+          "clock": "03:44:35",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00911",
+          "start_seconds": 13654.619999999999,
+          "clock": "03:47:34",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00914",
+          "start_seconds": 13671.51,
+          "clock": "03:47:51",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00917",
+          "start_seconds": 13675.43,
+          "clock": "03:47:55",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00918",
+          "start_seconds": 13679.84,
+          "clock": "03:47:59",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00947",
+          "start_seconds": 14057.42,
+          "clock": "03:54:17",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00948",
+          "start_seconds": 14068.27,
+          "clock": "03:54:28",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S00950",
+          "start_seconds": 14148.14,
+          "clock": "03:55:48",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S00952",
+          "start_seconds": 14191.47,
+          "clock": "03:56:31",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01106",
+          "start_seconds": 15297.01,
+          "clock": "04:14:57",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01113",
+          "start_seconds": 15327.79,
+          "clock": "04:15:27",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01115",
+          "start_seconds": 15360.3,
+          "clock": "04:16:00",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01117",
+          "start_seconds": 15399.53,
+          "clock": "04:16:39",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01119",
+          "start_seconds": 15417.5,
+          "clock": "04:16:57",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01120",
+          "start_seconds": 15422.98,
+          "clock": "04:17:02",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01121",
+          "start_seconds": 15471.08,
+          "clock": "04:17:51",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01118",
+          "start_seconds": 15412.91,
+          "clock": "04:16:52",
+          "speaker_name": "Sen. Joel Villanueva"
+        }
+      ],
+      "heading": "Purchase price and acquisition cost",
+      "id": "P008",
+      "kind": "finding",
+      "text": "On redirect, Bacquel explored purchase price, acquisition cost and transaction taxes. Adalin identified a SALN acquisition-cost field but no separate purchase-price field. Senator Imee Marcos asked whether additional expenses could explain the six-million-peso consideration against ten million acquisition cost. Adalin said such additional costs could probably occur. Senator Joel Villanueva distinguished assessed value, fair market value and acquisition cost. Adalin said his office applied ordinance-approved schedules and did not independently verify what a buyer actually paid."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00995",
+          "start_seconds": 14434.48,
+          "clock": "04:00:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01032",
+          "start_seconds": 14701.95,
+          "clock": "04:05:01",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01036",
+          "start_seconds": 14711.93,
+          "clock": "04:05:11",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01038",
+          "start_seconds": 14720.3,
+          "clock": "04:05:20",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01041",
+          "start_seconds": 14734.24,
+          "clock": "04:05:34",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01044",
+          "start_seconds": 14749.42,
+          "clock": "04:05:49",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01045",
+          "start_seconds": 14752.0,
+          "clock": "04:05:52",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01046",
+          "start_seconds": 14792.6,
+          "clock": "04:06:32",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01051",
+          "start_seconds": 14855.35,
+          "clock": "04:07:35",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01147_L1",
+          "start_seconds": 15639.33,
+          "clock": "04:20:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01171",
+          "start_seconds": 15849.86,
+          "clock": "04:24:09",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01172",
+          "start_seconds": 15866.93,
+          "clock": "04:24:26",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01173",
+          "start_seconds": 15871.57,
+          "clock": "04:24:31",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01174",
+          "start_seconds": 15888.85,
+          "clock": "04:24:48",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01175",
+          "start_seconds": 15890.69,
+          "clock": "04:24:50",
+          "speaker_name": "Sen. Risa Hontiveros"
+        }
+      ],
+      "heading": "Further valuation questions",
+      "id": "P009",
+      "kind": "finding",
+      "text": "Senator Risa Hontiveros compared the tax declaration's roughly 1.86-million-peso market value with 6.177 million zonal value, a 16.2-million-peso selling price she attributed to a PSBank home-loan document in Cabrera's forensic report, and ten million acquisition cost in the SALNs. Adalin said he was unfamiliar with the SALN details and did not know the buyer-seller agreement's terms. Hontiveros requested all Manases Carpio's Davao City properties from the computerized records within the hour or day. Adalin agreed to ask the records officer."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01066",
+          "start_seconds": 14958.63,
+          "clock": "04:09:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01067",
+          "start_seconds": 14961.46,
+          "clock": "04:09:21",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01068",
+          "start_seconds": 14991.02,
+          "clock": "04:09:51",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01096",
+          "start_seconds": 15212.74,
+          "clock": "04:13:32",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01101",
+          "start_seconds": 15264.44,
+          "clock": "04:14:24",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01103",
+          "start_seconds": 15282.37,
+          "clock": "04:14:42",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01104",
+          "start_seconds": 15292.27,
+          "clock": "04:14:52",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00866",
+          "start_seconds": 8567.64,
+          "clock": "02:22:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00867",
+          "start_seconds": 8587.56,
+          "clock": "02:23:07",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00922",
+          "start_seconds": 13695.04,
+          "clock": "03:48:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00937",
+          "start_seconds": 13853.82,
+          "clock": "03:50:53",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00946",
+          "start_seconds": 14016.7,
+          "clock": "03:53:36",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        }
+      ],
+      "heading": "Photographs and actual use",
+      "id": "P010",
+      "kind": "finding",
+      "text": "Photographs and classification raised another dispute. Senator Sherwin T. Gatchalian questioned classification by zoning rather than actual use and whether similarly shaped lots could share assessment figures. Adalin agreed restaurant use called for commercial classification. Senator Raffy T. Tulfo challenged his account of Prime Bistro's residential use and proposed a Land Registration Authority property search."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01178",
+          "start_seconds": 15900.41,
+          "clock": "04:25:00",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01179_L3",
+          "start_seconds": 15909.97,
+          "clock": "04:25:09",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01179_L6",
+          "start_seconds": 15942.59,
+          "clock": "04:25:42",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01185",
+          "start_seconds": 15978.35,
+          "clock": "04:26:18",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01183",
+          "start_seconds": 15967.84,
+          "clock": "04:26:07",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01192",
+          "start_seconds": 16054.82,
+          "clock": "04:27:34",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01194",
+          "start_seconds": 16093.46,
+          "clock": "04:28:13",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01199",
+          "start_seconds": 16109.08,
+          "clock": "04:28:29",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        }
+      ],
+      "heading": "Photograph identification and changing certainty",
+      "id": "P011",
+      "kind": "finding",
+      "text": "Senator Francis “Kiko” Pangilinan challenged Adalin's changing certainty about whether the SALN and deed described the same property. Adalin reaffirmed that the match rested on the eCAR. Pangilinan contrasted that assurance with his inability to identify a restaurant photograph and his renewed certainty after consulting staff. Adalin explained that unfamiliar signage caused his uncertainty; a later image without the business name matched the photograph supplied by his appraisers. Pangilinan ended by observing that the witness had given inconsistent testimony."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00846_M2",
+          "start_seconds": 8432.58,
+          "clock": "02:20:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00847",
+          "start_seconds": 8437.42,
+          "clock": "02:20:37",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S00857",
+          "start_seconds": 8496.130000000001,
+          "clock": "02:21:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00858",
+          "start_seconds": 8500.53,
+          "clock": "02:21:40",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00858_L2",
+          "start_seconds": 8509.369999999999,
+          "clock": "02:21:49",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00858_L5",
+          "start_seconds": 8522.29,
+          "clock": "02:22:02",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00858_L6",
+          "start_seconds": 8522.65,
+          "clock": "02:22:02",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00859",
+          "start_seconds": 8544.79,
+          "clock": "02:22:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00971",
+          "start_seconds": 14293.45,
+          "clock": "03:58:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00986",
+          "start_seconds": 14387.98,
+          "clock": "03:59:47",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00991",
+          "start_seconds": 14406.29,
+          "clock": "04:00:06",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00993",
+          "start_seconds": 14423.73,
+          "clock": "04:00:23",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00994_L1",
+          "start_seconds": 14430.4,
+          "clock": "04:00:30",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00922",
+          "start_seconds": 13695.04,
+          "clock": "03:48:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00923_L5",
+          "start_seconds": 13723.2,
+          "clock": "03:48:43",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00995",
+          "start_seconds": 14434.48,
+          "clock": "04:00:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01002",
+          "start_seconds": 14486.13,
+          "clock": "04:01:26",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01016",
+          "start_seconds": 14592.24,
+          "clock": "04:03:12",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01022",
+          "start_seconds": 14630.75,
+          "clock": "04:03:50",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01025",
+          "start_seconds": 14649.11,
+          "clock": "04:04:09",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01030",
+          "start_seconds": 14681.03,
+          "clock": "04:04:41",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01064",
+          "start_seconds": 14950.49,
+          "clock": "04:09:10",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01201",
+          "start_seconds": 16142.42,
+          "clock": "04:29:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01204_L1",
+          "start_seconds": 16183.92,
+          "clock": "04:29:43",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01205",
+          "start_seconds": 16191.119999999999,
+          "clock": "04:29:51",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01210",
+          "start_seconds": 16231.18,
+          "clock": "04:30:31",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01213",
+          "start_seconds": 16248.92,
+          "clock": "04:30:48",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01221",
+          "start_seconds": 16288.52,
+          "clock": "04:31:28",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01227_L1",
+          "start_seconds": 16321.79,
+          "clock": "04:32:01",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S00983",
+          "start_seconds": 14380.8,
+          "clock": "03:59:40",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01063",
+          "start_seconds": 14943.41,
+          "clock": "04:09:03",
+          "speaker_name": "Sen. Risa Hontiveros"
+        }
+      ],
+      "heading": "Travel and credibility",
+      "id": "P012",
+      "kind": "finding",
+      "text": "Questions about China travel also tested Adalin's recollection. Senator Vicente C. Sotto III proposed checking Immigration records. Senator Erwin Tulfo reminded Adalin of his oath and warned about possible contempt; he later elicited Adalin's employment history, including his appointment as city assessor in 2017 under Sara Duterte. Under questions from Raffy Tulfo and Hontiveros, Adalin described personally funded group travel with city officials. He could not name the agency that arranged tickets and denied Sara Duterte accompanied the January trip."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01147_L1",
+          "start_seconds": 15639.33,
+          "clock": "04:20:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01153",
+          "start_seconds": 15680.31,
+          "clock": "04:21:20",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01154",
+          "start_seconds": 15699.5,
+          "clock": "04:21:39",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01159",
+          "start_seconds": 15709.42,
+          "clock": "04:21:49",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01160",
+          "start_seconds": 15732.31,
+          "clock": "04:22:12",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01163",
+          "start_seconds": 15763.92,
+          "clock": "04:22:43",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01201",
+          "start_seconds": 16142.42,
+          "clock": "04:29:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01241_L2",
+          "start_seconds": 16410.2,
+          "clock": "04:33:30",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01242",
+          "start_seconds": 16420.39,
+          "clock": "04:33:40",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01245",
+          "start_seconds": 16448.68,
+          "clock": "04:34:08",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01249",
+          "start_seconds": 16461.21,
+          "clock": "04:34:21",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01251",
+          "start_seconds": 16479.36,
+          "clock": "04:34:39",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        }
+      ],
+      "heading": "Travel follow-ups",
+      "id": "P013",
+      "kind": "finding",
+      "text": "Hontiveros presented researched January flight details, saying they were not yet verified. Adalin accepted the first detail and gave probable answers about Beijing and Shanghai, while still failing to recall the facilitator. Asked again about November 2018, he affirmed personal funding, recalled a sister-city trip and offered documents. Raffy Tulfo closed by alleging 319 million pesos in China and Hong Kong remittances to Cali88, which he associated with Duterte's husband. No substantive response followed that allegation."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00448",
+          "start_seconds": 4798.07,
+          "clock": "01:19:58",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00449",
+          "start_seconds": 4811.37,
+          "clock": "01:20:11",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00450",
+          "start_seconds": 4814.25,
+          "clock": "01:20:14",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00885",
+          "start_seconds": 13385.22,
+          "clock": "03:43:05",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00886",
+          "start_seconds": 13413.1,
+          "clock": "03:43:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00903",
+          "start_seconds": 13575.11,
+          "clock": "03:46:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01237",
+          "start_seconds": 16379.95,
+          "clock": "04:32:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01245",
+          "start_seconds": 16448.68,
+          "clock": "04:34:08",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01246",
+          "start_seconds": 16455.93,
+          "clock": "04:34:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00922",
+          "start_seconds": 13695.04,
+          "clock": "03:48:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00946",
+          "start_seconds": 14016.7,
+          "clock": "03:53:36",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00846_M2",
+          "start_seconds": 8432.58,
+          "clock": "02:20:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00847",
+          "start_seconds": 8437.42,
+          "clock": "02:20:37",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S00869",
+          "start_seconds": 8638.95,
+          "clock": "02:23:58",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00870",
+          "start_seconds": 8751.83,
+          "clock": "02:25:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "What the court directed",
+      "id": "P014",
+      "kind": "finding",
+      "text": "Presiding Officer Escudero sustained the objection when Bacquel asked whether the prosecution had no basis for alleging nondisclosure. On redirect, he limited Adalin's initial acquisition-cost answer to his experience completing his own SALN and took judicial notice of specified transaction-tax rates. He directed clerk coordination on travel records. Raffy Tulfo's proposed property search and Sotto's proposed Immigration check remained proposals in those exchanges. Separately, Villanueva reported missing Cale Foods records, and Escudero reminded the Clerk to comply."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00450_M1",
+          "start_seconds": 4817.27,
+          "clock": "01:20:17",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00451",
+          "start_seconds": 4817.75,
+          "clock": "01:20:17",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00452",
+          "start_seconds": 4818.15,
+          "clock": "01:20:18",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00497_M1",
+          "start_seconds": 5206.86,
+          "clock": "01:26:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00498",
+          "start_seconds": 5841.58,
+          "clock": "01:37:21",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00875",
+          "start_seconds": 13323.17,
+          "clock": "03:42:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00919",
+          "start_seconds": 13681.4,
+          "clock": "03:48:01",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00919_L2",
+          "start_seconds": 13686.47,
+          "clock": "03:48:06",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S01171",
+          "start_seconds": 15849.86,
+          "clock": "04:24:09",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01172",
+          "start_seconds": 15866.93,
+          "clock": "04:24:26",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01173",
+          "start_seconds": 15871.57,
+          "clock": "04:24:31",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01174",
+          "start_seconds": 15888.85,
+          "clock": "04:24:48",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01175",
+          "start_seconds": 15890.69,
+          "clock": "04:24:50",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01234",
+          "start_seconds": 16365.27,
+          "clock": "04:32:45",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01235",
+          "start_seconds": 16369.96,
+          "clock": "04:32:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01237",
+          "start_seconds": 16379.95,
+          "clock": "04:32:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01245",
+          "start_seconds": 16448.68,
+          "clock": "04:34:08",
+          "speaker_name": "Engr. Jaime G. Adalin"
+        },
+        {
+          "segment_id": "S01246",
+          "start_seconds": 16455.93,
+          "clock": "04:34:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01277",
+          "start_seconds": 16838.07,
+          "clock": "04:40:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01279",
+          "start_seconds": 16852.94,
+          "clock": "04:40:52",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01280",
+          "start_seconds": 16865.58,
+          "clock": "04:41:05",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Next sitting",
+      "id": "P015",
+      "kind": "finding",
+      "text": "Adalin completed direct examination, cross-examination and redirect; the prosecution declined re-cross. The court excused him and adjourned until ten a.m. the next day, beginning with Engineer John Kenneth Enumerables, followed by the city accountant and punong barangay. The requested property list, travel-agency name and 2018 travel documentation remained follow-ups as the defense presentation moved to its next witnesses."
+    },
+    {
+      "citations": [],
+      "heading": "Closing",
+      "id": "P016",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the November 9, 2026 audio overview."
+    }
+  ],
+  "source_digest_id": 103,
+  "source_digest_sha256": "5b6b000c29c3c608f0e4b3db1454bd5fb67341e01a71a6c58ca787fff9bc41c4",
+  "title": "November 9, 2026: First defense witness faces property-identification questions"
+}

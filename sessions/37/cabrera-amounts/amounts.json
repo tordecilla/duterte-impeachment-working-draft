@@ -1,0 +1,2258 @@
+{
+  "session_id": 37,
+  "revision_id": 113,
+  "state": "approved",
+  "title": "Amounts stated by Atty. Alexander B. Cabrera — October 9, 2026",
+  "intro": "Atty. Alexander B. Cabrera, a lawyer and CPA appearing as the prosecution’s financial expert, discussed bank balances, income reconciliation, corporate-interest estimates, policies, property and historical transactions during his direct examination in the Senate impeachment trial of Vice President Sara Zimmerman Duterte on October 9, 2026.",
+  "scope": "Material monetary amounts stated or explicitly confirmed by Cabrera in the reviewed Session 37 transcript. Figures stated solely by counsel, senator-judges or the BIR witness are excluded.",
+  "source_digest_id": 100,
+  "source_digest_sha256": "e67867c62ee5a292d1eac2629985618cf984e32745f469c25bf485e19d471efb",
+  "source_url": "https://www.youtube.com/watch?v=fiqfrZTZ1tE",
+  "hearing_title": "Impeachment Trial of Vice President Sara Zimmerman Duterte (Oct. 9, 2026- 1:30 PM)",
+  "hearing_description": "On October 9, 2026, Atty. Alexander B. Cabrera, lawyer and CPA appearing as the prosecution financial expert witness in the Senate impeachment trial of Vice President Sara Zimmerman Duterte, presented his Article II financial review. The rows distinguish year-end balances, annual flows, report components and totals, estimated ownership interests, policy coverage and premiums, exclusions and historical transactions. Components overlap their totals, and successive stages can describe the same funds; the rows must not be added together.",
+  "witness": {
+    "name": "Atty. Alexander B. Cabrera",
+    "role": "Lawyer and CPA; prosecution financial expert witness"
+  },
+  "rows": [
+    {
+      "id": "cash-component-2022",
+      "institution": "Cross-bank reconciliation",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "60214776",
+      "measure": "Total undeclared cash — annual Table 39 component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert calculation based on year-end balances",
+      "summary": "Annual undeclared-cash component in Table 39, derived from year-end balances of the spouses' individual, joint and 888 Bistro accounts compared with the SALN. Cabrera said his combined report eliminated repeat counting of assets.",
+      "citations": [
+        {
+          "segment_id": "S00890",
+          "start_seconds": 9717.24
+        },
+        {
+          "segment_id": "S00891",
+          "start_seconds": 9730.96
+        },
+        {
+          "segment_id": "S00895",
+          "start_seconds": 9762.81
+        },
+        {
+          "segment_id": "S00973",
+          "start_seconds": 10398.81
+        },
+        {
+          "segment_id": "S01639C",
+          "start_seconds": 17153.26
+        }
+      ]
+    },
+    {
+      "id": "cash-component-2023",
+      "institution": "Cross-bank reconciliation",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "80701151",
+      "measure": "Total undeclared cash — annual Table 39 component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert calculation based on year-end balances",
+      "summary": "Annual undeclared-cash component in Table 39, derived from year-end balances of the spouses' individual, joint and 888 Bistro accounts compared with the SALN. Cabrera said his combined report eliminated repeat counting of assets.",
+      "citations": [
+        {
+          "segment_id": "S00890",
+          "start_seconds": 9717.24
+        },
+        {
+          "segment_id": "S00891",
+          "start_seconds": 9730.96
+        },
+        {
+          "segment_id": "S00906",
+          "start_seconds": 9873.78
+        },
+        {
+          "segment_id": "S00973",
+          "start_seconds": 10398.81
+        },
+        {
+          "segment_id": "S01639C",
+          "start_seconds": 17153.26
+        }
+      ]
+    },
+    {
+      "id": "cash-component-2024",
+      "institution": "Cross-bank reconciliation",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "23169077",
+      "measure": "Total undeclared cash — annual Table 39 component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert calculation based on year-end balances",
+      "summary": "Annual undeclared-cash component in Table 39, derived from year-end balances of the spouses' individual, joint and 888 Bistro accounts compared with the SALN. Cabrera said his combined report eliminated repeat counting of assets.",
+      "citations": [
+        {
+          "segment_id": "S00890",
+          "start_seconds": 9717.24
+        },
+        {
+          "segment_id": "S00891",
+          "start_seconds": 9730.96
+        },
+        {
+          "segment_id": "S00908",
+          "start_seconds": 9880.54
+        },
+        {
+          "segment_id": "S00973",
+          "start_seconds": 10398.81
+        },
+        {
+          "segment_id": "S01639C",
+          "start_seconds": 17153.26
+        }
+      ]
+    },
+    {
+      "id": "cash-component-2025",
+      "institution": "Cross-bank reconciliation",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "43611929",
+      "measure": "Total undeclared cash — annual Table 39 component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert calculation based on year-end balances",
+      "summary": "Annual undeclared-cash component in Table 39, derived from year-end balances of the spouses' individual, joint and 888 Bistro accounts compared with the SALN. Cabrera said his combined report eliminated repeat counting of assets.",
+      "citations": [
+        {
+          "segment_id": "S00890",
+          "start_seconds": 9717.24
+        },
+        {
+          "segment_id": "S00891",
+          "start_seconds": 9730.96
+        },
+        {
+          "segment_id": "S00910",
+          "start_seconds": 9886.38
+        },
+        {
+          "segment_id": "S00973",
+          "start_seconds": 10398.81
+        },
+        {
+          "segment_id": "S01639C",
+          "start_seconds": 17153.26
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-carpio-2022",
+      "institution": "Multiple banks in Table 2",
+      "owner": "Atty. Manases R. Carpio",
+      "period": "December 31, 2022",
+      "currency": "PHP",
+      "amount": "41554818",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of Carpio's personal accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00935",
+          "start_seconds": 10102.08
+        },
+        {
+          "segment_id": "S00945",
+          "start_seconds": 10153.23
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-carpio-2023",
+      "institution": "Multiple banks in Table 2",
+      "owner": "Atty. Manases R. Carpio",
+      "period": "December 31, 2023",
+      "currency": "PHP",
+      "amount": "49203148",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of Carpio's personal accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00935",
+          "start_seconds": 10102.08
+        },
+        {
+          "segment_id": "S00945",
+          "start_seconds": 10153.23
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-carpio-2024",
+      "institution": "Multiple banks in Table 2",
+      "owner": "Atty. Manases R. Carpio",
+      "period": "December 31, 2024",
+      "currency": "PHP",
+      "amount": "13433698",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of Carpio's personal accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00935",
+          "start_seconds": 10102.08
+        },
+        {
+          "segment_id": "S00945",
+          "start_seconds": 10153.23
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-carpio-2025",
+      "institution": "Multiple banks in Table 2",
+      "owner": "Atty. Manases R. Carpio",
+      "period": "December 31, 2025",
+      "currency": "PHP",
+      "amount": "28412950",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of Carpio's personal accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00935",
+          "start_seconds": 10102.08
+        },
+        {
+          "segment_id": "S00945",
+          "start_seconds": 10153.23
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-bistro-2022",
+      "institution": "Multiple banks in Table 4",
+      "owner": "Atty. Manases R. Carpio — 888 Bistro sole proprietorship",
+      "period": "December 31, 2022",
+      "currency": "PHP",
+      "amount": "1133177",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of Carpio's 888 Bistro sole-proprietorship accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00950",
+          "start_seconds": 10213.75
+        },
+        {
+          "segment_id": "S00954",
+          "start_seconds": 10237.15
+        },
+        {
+          "segment_id": "S00956",
+          "start_seconds": 10256.44
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-bistro-2023",
+      "institution": "Multiple banks in Table 4",
+      "owner": "Atty. Manases R. Carpio — 888 Bistro sole proprietorship",
+      "period": "December 31, 2023",
+      "currency": "PHP",
+      "amount": "4668077",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of Carpio's 888 Bistro sole-proprietorship accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00950",
+          "start_seconds": 10213.75
+        },
+        {
+          "segment_id": "S00954",
+          "start_seconds": 10237.15
+        },
+        {
+          "segment_id": "S00956",
+          "start_seconds": 10256.44
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-bistro-2024",
+      "institution": "Multiple banks in Table 4",
+      "owner": "Atty. Manases R. Carpio — 888 Bistro sole proprietorship",
+      "period": "December 31, 2024",
+      "currency": "PHP",
+      "amount": "179929",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of Carpio's 888 Bistro sole-proprietorship accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00950",
+          "start_seconds": 10213.75
+        },
+        {
+          "segment_id": "S00954",
+          "start_seconds": 10237.15
+        },
+        {
+          "segment_id": "S00956",
+          "start_seconds": 10256.44
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-bistro-2025",
+      "institution": "Multiple banks in Table 4",
+      "owner": "Atty. Manases R. Carpio — 888 Bistro sole proprietorship",
+      "period": "December 31, 2025",
+      "currency": "PHP",
+      "amount": "1194702",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of Carpio's 888 Bistro sole-proprietorship accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00950",
+          "start_seconds": 10213.75
+        },
+        {
+          "segment_id": "S00954",
+          "start_seconds": 10237.15
+        },
+        {
+          "segment_id": "S00956",
+          "start_seconds": 10256.44
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-joint-2022",
+      "institution": "Multiple banks in Table 3",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio — joint accounts",
+      "period": "December 31, 2022",
+      "currency": "PHP",
+      "amount": "8797891",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of the spouses' joint accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00966",
+          "start_seconds": 10315.92
+        },
+        {
+          "segment_id": "S00968",
+          "start_seconds": 10332.78
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-joint-2023",
+      "institution": "Multiple banks in Table 3",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio — joint accounts",
+      "period": "December 31, 2023",
+      "currency": "PHP",
+      "amount": "9861224",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of the spouses' joint accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00966",
+          "start_seconds": 10315.92
+        },
+        {
+          "segment_id": "S00968",
+          "start_seconds": 10332.78
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-joint-2024",
+      "institution": "Multiple banks in Table 3",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio — joint accounts",
+      "period": "December 31, 2024",
+      "currency": "PHP",
+      "amount": "1021919",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of the spouses' joint accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00966",
+          "start_seconds": 10315.92
+        },
+        {
+          "segment_id": "S00968",
+          "start_seconds": 10332.78
+        }
+      ]
+    },
+    {
+      "id": "bank-balance-joint-2025",
+      "institution": "Multiple banks in Table 3",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio — joint accounts",
+      "period": "December 31, 2025",
+      "currency": "PHP",
+      "amount": "1819046",
+      "measure": "Year-end bank-account balance total",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Bank-record total read by expert",
+      "summary": "Year-end snapshot of the spouses' joint accounts; these balances feed the cash reconciliation and are not additional annual inflows.",
+      "citations": [
+        {
+          "segment_id": "S00966",
+          "start_seconds": 10315.92
+        },
+        {
+          "segment_id": "S00968",
+          "start_seconds": 10332.78
+        }
+      ]
+    },
+    {
+      "id": "other-assets-component-2023",
+      "institution": "Financial report — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "3934560",
+      "measure": "Undeclared other personal and real properties — annual component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert asset calculation",
+      "summary": "Other-property component for the specified report year.",
+      "citations": [
+        {
+          "segment_id": "S00984",
+          "start_seconds": 10527.25
+        },
+        {
+          "segment_id": "S01030",
+          "start_seconds": 10976.05
+        },
+        {
+          "segment_id": "S01041",
+          "start_seconds": 11070.83
+        },
+        {
+          "segment_id": "S01057",
+          "start_seconds": 11300.22
+        },
+        {
+          "segment_id": "S01227",
+          "start_seconds": 13093.16
+        },
+        {
+          "segment_id": "S01664",
+          "start_seconds": 17367.34
+        }
+      ]
+    },
+    {
+      "id": "other-assets-component-2024",
+      "institution": "Financial report — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "52016994",
+      "measure": "Undeclared other personal and real properties — annual component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert asset calculation",
+      "summary": "Other-property component for the specified report year.",
+      "citations": [
+        {
+          "segment_id": "S00984",
+          "start_seconds": 10527.25
+        },
+        {
+          "segment_id": "S01030",
+          "start_seconds": 10976.05
+        },
+        {
+          "segment_id": "S01041",
+          "start_seconds": 11070.83
+        },
+        {
+          "segment_id": "S01057",
+          "start_seconds": 11300.22
+        },
+        {
+          "segment_id": "S01229",
+          "start_seconds": 13106.6
+        },
+        {
+          "segment_id": "S01664",
+          "start_seconds": 17367.34
+        }
+      ]
+    },
+    {
+      "id": "other-assets-component-2025",
+      "institution": "Financial report — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "11397893",
+      "measure": "Undeclared other personal and real properties — annual component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert asset calculation",
+      "summary": "Other-property component for the specified report year.",
+      "citations": [
+        {
+          "segment_id": "S00984",
+          "start_seconds": 10527.25
+        },
+        {
+          "segment_id": "S01030",
+          "start_seconds": 10976.05
+        },
+        {
+          "segment_id": "S01041",
+          "start_seconds": 11070.83
+        },
+        {
+          "segment_id": "S01057",
+          "start_seconds": 11300.22
+        },
+        {
+          "segment_id": "S01231",
+          "start_seconds": 13120.86
+        },
+        {
+          "segment_id": "S01664",
+          "start_seconds": 17367.34
+        }
+      ]
+    },
+    {
+      "id": "personal-itr-2022",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "9601770",
+      "measure": "Combined declared income per income-tax returns",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01286",
+          "start_seconds": 13658.53
+        }
+      ]
+    },
+    {
+      "id": "personal-itr-2023",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "16920708",
+      "measure": "Combined declared income per income-tax returns",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01286",
+          "start_seconds": 13658.53
+        }
+      ]
+    },
+    {
+      "id": "personal-itr-2024",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "15210548",
+      "measure": "Combined declared income per income-tax returns",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01286",
+          "start_seconds": 13658.53
+        }
+      ]
+    },
+    {
+      "id": "personal-itr-2025",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "21373860",
+      "measure": "Combined declared income per income-tax returns",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01286",
+          "start_seconds": 13658.53
+        }
+      ]
+    },
+    {
+      "id": "personal-itr-total",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2022–2025",
+      "currency": "PHP",
+      "amount": "63106886",
+      "measure": "Four-year total — Combined declared income per income-tax returns",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Four-year total explicitly read by expert",
+      "summary": "Cumulative four-year amount explicitly stated by Cabrera. This expressly stated four-year total covers the same annual reconciliation rows.",
+      "citations": [
+        {
+          "segment_id": "S01272",
+          "start_seconds": 13569.17
+        },
+        {
+          "segment_id": "S01288",
+          "start_seconds": 13682.3
+        }
+      ]
+    },
+    {
+      "id": "personal-inflow-2022",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "60076281",
+      "measure": "Identified bank inflows treated as income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01291",
+          "start_seconds": 13698.58
+        }
+      ]
+    },
+    {
+      "id": "personal-inflow-2023",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "29118943",
+      "measure": "Identified bank inflows treated as income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01291",
+          "start_seconds": 13698.58
+        }
+      ]
+    },
+    {
+      "id": "personal-inflow-2024",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "43240751",
+      "measure": "Identified bank inflows treated as income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01291",
+          "start_seconds": 13698.58
+        }
+      ]
+    },
+    {
+      "id": "personal-inflow-2025",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "42523260",
+      "measure": "Identified bank inflows treated as income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01291",
+          "start_seconds": 13698.58
+        }
+      ]
+    },
+    {
+      "id": "personal-inflow-total",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2022–2025",
+      "currency": "PHP",
+      "amount": "174959235",
+      "measure": "Four-year total — Identified bank inflows treated as income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Four-year total explicitly read by expert",
+      "summary": "Cumulative four-year amount explicitly stated by Cabrera. This expressly stated four-year total covers the same annual reconciliation rows.",
+      "citations": [
+        {
+          "segment_id": "S01272",
+          "start_seconds": 13569.17
+        },
+        {
+          "segment_id": "S01291",
+          "start_seconds": 13698.58
+        }
+      ]
+    },
+    {
+      "id": "personal-personal-gap-2022",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "50474511",
+      "measure": "Calculated undeclared income of the couple",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01293",
+          "start_seconds": 13749.22
+        }
+      ]
+    },
+    {
+      "id": "personal-personal-gap-2023",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "12198235",
+      "measure": "Calculated undeclared income of the couple",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01293",
+          "start_seconds": 13749.22
+        }
+      ]
+    },
+    {
+      "id": "personal-personal-gap-2024",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "28030203",
+      "measure": "Calculated undeclared income of the couple",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01293",
+          "start_seconds": 13749.22
+        }
+      ]
+    },
+    {
+      "id": "personal-personal-gap-2025",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "21149400",
+      "measure": "Calculated undeclared income of the couple",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Annual flow or income figure read by expert",
+      "summary": "Annual amount in the spouses’ personal-income reconciliation. Combined personal and joint accounts of Duterte and Carpio, including 888 Bistro; an annual flow rather than a year-end balance.",
+      "citations": [
+        {
+          "segment_id": "S01246",
+          "start_seconds": 13237.53
+        },
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01282",
+          "start_seconds": 13620.23
+        },
+        {
+          "segment_id": "S01293",
+          "start_seconds": 13749.22
+        }
+      ]
+    },
+    {
+      "id": "personal-personal-gap-total",
+      "institution": "Personal income reconciliation — Table 23",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2022–2025",
+      "currency": "PHP",
+      "amount": "111852349",
+      "measure": "Four-year total — Calculated undeclared income of the couple",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Four-year total explicitly read by expert",
+      "summary": "Cumulative four-year amount explicitly stated by Cabrera. This expressly stated four-year total covers the same annual reconciliation rows.",
+      "citations": [
+        {
+          "segment_id": "S01272",
+          "start_seconds": 13569.17
+        },
+        {
+          "segment_id": "S01293",
+          "start_seconds": 13749.22
+        }
+      ]
+    },
+    {
+      "id": "excluded-loan",
+      "institution": "PSBank",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "Reconciliation for 2022–2025; transaction dates not specified",
+      "currency": "PHP",
+      "amount": "8000000",
+      "measure": "Loan proceeds excluded from income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Excluded transaction explicitly identified by expert",
+      "summary": "P8 million PSBank loan proceeds excluded from income; the same loan was discussed with the Matina Crossing mortgage.",
+      "citations": [
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01264",
+          "start_seconds": 13496.16
+        },
+        {
+          "segment_id": "S01041",
+          "start_seconds": 11070.83
+        }
+      ]
+    },
+    {
+      "id": "excluded-rolling-deposits",
+      "institution": "PSBank",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "Reconciliation for 2022–2025; transaction dates not specified",
+      "currency": "PHP",
+      "amount": "102000000",
+      "measure": "Redundant rolling-time-deposit inflows excluded from income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Excluded transaction explicitly identified by expert",
+      "summary": "Redundant inflows from rolling time deposits removed from the income calculation, not an additional wealth balance.",
+      "citations": [
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01264",
+          "start_seconds": 13496.16
+        }
+      ]
+    },
+    {
+      "id": "excluded-bdo-investment",
+      "institution": "BDO",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "Reconciliation for 2022–2025; transaction dates not specified",
+      "currency": "PHP",
+      "amount": "10290000",
+      "measure": "Investment proceeds excluded from income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Excluded transaction explicitly identified by expert",
+      "summary": "Amount removed from the inflows treated as income.",
+      "citations": [
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01264",
+          "start_seconds": 13496.16
+        }
+      ]
+    },
+    {
+      "id": "excluded-security-investment",
+      "institution": "Security Bank",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "Reconciliation for 2022–2025; transaction dates not specified",
+      "currency": "PHP",
+      "amount": "5000000",
+      "measure": "Investment proceeds excluded from income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Excluded transaction explicitly identified by expert",
+      "summary": "Amount removed from the inflows treated as income.",
+      "citations": [
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01264",
+          "start_seconds": 13496.16
+        }
+      ]
+    },
+    {
+      "id": "excluded-savings-checking",
+      "institution": "BDO",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "Reconciliation for 2022–2025; transaction dates not specified",
+      "currency": "PHP",
+      "amount": "72180000",
+      "measure": "Savings-to-checking transfers excluded from income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Excluded transaction explicitly identified by expert",
+      "summary": "Internal savings-to-checking transfers removed from income to prevent repeat counting.",
+      "citations": [
+        {
+          "segment_id": "S01262",
+          "start_seconds": 13447.69
+        },
+        {
+          "segment_id": "S01264",
+          "start_seconds": 13496.16
+        }
+      ]
+    },
+    {
+      "id": "fwd-coverage",
+      "institution": "FWD",
+      "owner": "Atty. Manases R. Carpio",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "13250000",
+      "measure": "Insurance policy coverage",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Policy benefit amount stated and confirmed by expert",
+      "summary": "Coverage under the policy, distinct from its premium.",
+      "citations": [
+        {
+          "segment_id": "S01007",
+          "start_seconds": 10768.73
+        },
+        {
+          "segment_id": "S01011",
+          "start_seconds": 10812.41
+        },
+        {
+          "segment_id": "S01012",
+          "start_seconds": 10818.92
+        },
+        {
+          "segment_id": "S01013",
+          "start_seconds": 10833.58
+        }
+      ]
+    },
+    {
+      "id": "fwd-premium",
+      "institution": "FWD",
+      "owner": "Atty. Manases R. Carpio",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "10600000",
+      "measure": "Single insurance premium paid",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Counsel amount explicitly confirmed by expert",
+      "summary": "One-time premium paid for the FWD policy.",
+      "citations": [
+        {
+          "segment_id": "S01007",
+          "start_seconds": 10768.73
+        },
+        {
+          "segment_id": "S01012",
+          "start_seconds": 10818.92
+        },
+        {
+          "segment_id": "S01013",
+          "start_seconds": 10833.58
+        }
+      ]
+    },
+    {
+      "id": "dollar-policy-premium",
+      "institution": "Insurance provider not named in cited exchange",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio — individual policyholder not named in cited exchange",
+      "period": "Single-payment policy discussed in Table 11; date not independently stated by witness",
+      "currency": "USD",
+      "amount": "100000",
+      "measure": "Single insurance premium paid",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Dollar-denominated policy amount stated by expert",
+      "summary": "US-dollar premium, not a peso conversion.",
+      "citations": [
+        {
+          "segment_id": "S01018",
+          "start_seconds": 10857.33
+        },
+        {
+          "segment_id": "S01020",
+          "start_seconds": 10890.16
+        },
+        {
+          "segment_id": "S01021",
+          "start_seconds": 10904.01
+        },
+        {
+          "segment_id": "S01026",
+          "start_seconds": 10929.19
+        }
+      ]
+    },
+    {
+      "id": "matina-saln",
+      "institution": "Matina Crossing property records",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "Property discussion; document dates not stated",
+      "currency": "PHP",
+      "amount": "10000000",
+      "measure": "Matina Crossing amount declared in SALN",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Document amount discussed by expert; excluded from his aggregate",
+      "summary": "A separate document value for the same Matina Crossing property, which Cabrera excluded from his monetary aggregate.",
+      "citations": [
+        {
+          "segment_id": "S01038",
+          "start_seconds": 11034.52
+        },
+        {
+          "segment_id": "S01039",
+          "start_seconds": 11058.99
+        },
+        {
+          "segment_id": "S01041",
+          "start_seconds": 11070.83
+        }
+      ]
+    },
+    {
+      "id": "matina-sale",
+      "institution": "Matina Crossing property records",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "Property discussion; document dates not stated",
+      "currency": "PHP",
+      "amount": "6000000",
+      "measure": "Matina Crossing amount in deed of sale",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Document amount discussed by expert; excluded from his aggregate",
+      "summary": "A separate document value for the same Matina Crossing property, which Cabrera excluded from his monetary aggregate.",
+      "citations": [
+        {
+          "segment_id": "S01038",
+          "start_seconds": 11034.52
+        },
+        {
+          "segment_id": "S01039",
+          "start_seconds": 11058.99
+        },
+        {
+          "segment_id": "S01041",
+          "start_seconds": 11070.83
+        }
+      ]
+    },
+    {
+      "id": "matina-application",
+      "institution": "Matina Crossing property records",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "Property discussion; document dates not stated",
+      "currency": "PHP",
+      "amount": "16500000",
+      "measure": "Matina Crossing value declared in loan application",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Document amount discussed by expert; excluded from his aggregate",
+      "summary": "A separate document value for the same Matina Crossing property, which Cabrera excluded from his monetary aggregate.",
+      "citations": [
+        {
+          "segment_id": "S01038",
+          "start_seconds": 11034.52
+        },
+        {
+          "segment_id": "S01039",
+          "start_seconds": 11058.99
+        },
+        {
+          "segment_id": "S01041",
+          "start_seconds": 11070.83
+        }
+      ]
+    },
+    {
+      "id": "ppe-addition",
+      "institution": "Joint financial statements",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2025 financial statements referring to an omitted 2024 addition",
+      "currency": "PHP",
+      "amount": "45000000",
+      "measure": "Property, plant and equipment addition appearing in financial statements",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Financial-statement amount described by expert",
+      "summary": "PPE addition discussed before deductions for declared property. Cabrera said P45 million in additions appeared in the 2025 financial statements as not declared in 2024; he then deducted declared 2024 and 2025 real-property additions in his calculation.",
+      "citations": [
+        {
+          "segment_id": "S01041",
+          "start_seconds": 11070.83
+        },
+        {
+          "segment_id": "S01048",
+          "start_seconds": 11228.01
+        },
+        {
+          "segment_id": "S01049",
+          "start_seconds": 11244.23
+        }
+      ]
+    },
+    {
+      "id": "ppe-net-estimate",
+      "institution": "Financial-report property reconciliation",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "After deducting declared 2024–2025 real-property additions",
+      "currency": "PHP",
+      "amount": "25000000",
+      "measure": "Approximate remaining real-property component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Approximate expert calculation",
+      "summary": "Approximately P25 million after the stated deductions. Cabrera said “mga 25 million” after reducing the figure by amounts declared in the SALN. The row retains its approximate status and does not invent a subtraction formula.",
+      "citations": [
+        {
+          "segment_id": "S01041",
+          "start_seconds": 11070.83
+        }
+      ]
+    },
+    {
+      "id": "gencorp-franchise-low",
+      "institution": "GenCorp / Jollibee franchise-cost discussion",
+      "owner": "GenCorp Industries",
+      "period": "Benchmark discussed at October 9 hearing; valuation date not specified",
+      "currency": "PHP",
+      "amount": "35000000",
+      "measure": "Low endpoint of reported cost range per Jollibee franchise",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert benchmark or corporate capital figure",
+      "summary": "Capital/franchise comparison in Cabrera’s explanation. Cabrera said he used P35 million per branch, the low end of a P35–50 million online-information range, in discussing GenCorp’s five branches. No five-branch aggregate is calculated here.",
+      "citations": [
+        {
+          "segment_id": "S01176",
+          "start_seconds": 12616.43
+        },
+        {
+          "segment_id": "S01221",
+          "start_seconds": 12935.63
+        }
+      ]
+    },
+    {
+      "id": "gencorp-franchise-high",
+      "institution": "GenCorp / Jollibee franchise-cost discussion",
+      "owner": "GenCorp Industries",
+      "period": "Benchmark discussed at October 9 hearing; valuation date not specified",
+      "currency": "PHP",
+      "amount": "50000000",
+      "measure": "High endpoint of reported cost range per Jollibee franchise",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert benchmark or corporate capital figure",
+      "summary": "Capital/franchise comparison in Cabrera’s explanation. Cabrera stated P50 million as the high end of the range and said he did not use it in his conservative calculation.",
+      "citations": [
+        {
+          "segment_id": "S01176",
+          "start_seconds": 12616.43
+        },
+        {
+          "segment_id": "S01221",
+          "start_seconds": 12935.63
+        }
+      ]
+    },
+    {
+      "id": "gencorp-capital",
+      "institution": "GenCorp / Jollibee franchise-cost discussion",
+      "owner": "GenCorp Industries",
+      "period": "Benchmark discussed at October 9 hearing; valuation date not specified",
+      "currency": "PHP",
+      "amount": "1250000",
+      "measure": "GenCorp capital amount stated by expert",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert benchmark or corporate capital figure",
+      "summary": "Capital/franchise comparison in Cabrera’s explanation. Cabrera contrasted P1,250,000 in GenCorp capital with the franchise-cost benchmark; he did not label this as authorized capital in this answer.",
+      "citations": [
+        {
+          "segment_id": "S01176",
+          "start_seconds": 12616.43
+        },
+        {
+          "segment_id": "S01221",
+          "start_seconds": 12935.63
+        }
+      ]
+    },
+    {
+      "id": "lebosada-checks",
+      "institution": "BDO checks",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio — checks payable to Lourdes Lebosada",
+      "period": "Check series; transaction dates not specified",
+      "currency": "PHP",
+      "amount": "11350000",
+      "measure": "Total checks payable to Lourdes Lebosada",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Historical payment total described by expert",
+      "summary": "Cabrera’s total for checks naming Lebosada as payee. Cabrera identified Lebosada as Carpio’s Cale88 business partner. This is a payee-total claim from his report, not an additional asset balance.",
+      "citations": [
+        {
+          "segment_id": "S01318",
+          "start_seconds": 14056.54
+        },
+        {
+          "segment_id": "S01356",
+          "start_seconds": 14320.98
+        },
+        {
+          "segment_id": "S01373",
+          "start_seconds": 14427.68
+        }
+      ]
+    },
+    {
+      "id": "cash-check",
+      "institution": "BDO",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "Same-day cash transactions; date not stated in cited exchange",
+      "currency": "PHP",
+      "amount": "23000000",
+      "measure": "Check payable to cash",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Transaction amount described by expert",
+      "summary": "Cash-payee check included in the larger same-day total. Cabrera described a P23 million check alongside other cash withdrawals; it is part of the P41 million same-day aggregate, not an additional transaction to add to that total.",
+      "citations": [
+        {
+          "segment_id": "S01377",
+          "start_seconds": 14485.96
+        },
+        {
+          "segment_id": "S01378",
+          "start_seconds": 14494.15
+        },
+        {
+          "segment_id": "S01382",
+          "start_seconds": 14539.1
+        }
+      ]
+    },
+    {
+      "id": "cash-withdrawal-total",
+      "institution": "BDO and PNB",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "One day, within approximately one hour; date not stated",
+      "currency": "PHP",
+      "amount": "41000000",
+      "measure": "Combined same-day encashments and cash withdrawals",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Transaction aggregate described by expert",
+      "summary": "Same-day cash total Cabrera flagged for further investigation. The aggregate includes the P23 million cash-payee check and other withdrawals. Cabrera referred to checks and withdrawal slips and their timestamps.",
+      "citations": [
+        {
+          "segment_id": "S01378",
+          "start_seconds": 14494.15
+        },
+        {
+          "segment_id": "S01382",
+          "start_seconds": 14539.1
+        },
+        {
+          "segment_id": "S01383",
+          "start_seconds": 14545.76
+        },
+        {
+          "segment_id": "S01384",
+          "start_seconds": 14592.91
+        }
+      ]
+    },
+    {
+      "id": "historical-first",
+      "institution": "BPI records cited during examination",
+      "owner": "Vice President Sara Zimmerman Duterte and former President Rodrigo Duterte — joint account",
+      "period": "2010 time deposits and 2011–2014 manager’s-check sequence, as recalled by witness",
+      "currency": "PHP",
+      "amount": "41000000",
+      "measure": "First historical time-deposit / manager’s-check amount",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Historical transaction amount described by expert",
+      "summary": "Same historical funds discussed through repeated banking stages. This concerns the earlier Sara Duterte-Rodrigo Duterte joint-account sequence, separate from the 2022-2025 spouses' reconciliation. The P41 million and P55 million portions comprise the stated P96 million total.",
+      "citations": [
+        {
+          "segment_id": "S01386",
+          "start_seconds": 14638.58
+        },
+        {
+          "segment_id": "S01389",
+          "start_seconds": 14672.74
+        },
+        {
+          "segment_id": "S01390",
+          "start_seconds": 14704.08
+        },
+        {
+          "segment_id": "S01392",
+          "start_seconds": 14759.24
+        },
+        {
+          "segment_id": "S01456",
+          "start_seconds": 15273.38
+        }
+      ]
+    },
+    {
+      "id": "historical-second",
+      "institution": "BPI records cited during examination",
+      "owner": "Vice President Sara Zimmerman Duterte and former President Rodrigo Duterte — joint account",
+      "period": "2010 time deposits and 2011–2014 manager’s-check sequence, as recalled by witness",
+      "currency": "PHP",
+      "amount": "55000000",
+      "measure": "Second historical time-deposit / manager’s-check amount",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Historical transaction amount described by expert",
+      "summary": "Same historical funds discussed through repeated banking stages. This concerns the earlier Sara Duterte-Rodrigo Duterte joint-account sequence, separate from the 2022-2025 spouses' reconciliation. The P41 million and P55 million portions comprise the stated P96 million total.",
+      "citations": [
+        {
+          "segment_id": "S01386",
+          "start_seconds": 14638.58
+        },
+        {
+          "segment_id": "S01389",
+          "start_seconds": 14672.74
+        },
+        {
+          "segment_id": "S01390",
+          "start_seconds": 14704.08
+        },
+        {
+          "segment_id": "S01392",
+          "start_seconds": 14759.24
+        },
+        {
+          "segment_id": "S01456",
+          "start_seconds": 15273.38
+        }
+      ]
+    },
+    {
+      "id": "historical-total",
+      "institution": "BPI records cited during examination",
+      "owner": "Vice President Sara Zimmerman Duterte and former President Rodrigo Duterte — joint account",
+      "period": "2010 time deposits and 2011–2014 manager’s-check sequence, as recalled by witness",
+      "currency": "PHP",
+      "amount": "96000000",
+      "measure": "Combined historical amount traced through manager’s checks",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Historical transaction amount described by expert",
+      "summary": "Same historical funds discussed through repeated banking stages. This concerns the earlier Sara Duterte-Rodrigo Duterte joint-account sequence, separate from the 2022-2025 spouses' reconciliation. The P41 million and P55 million portions comprise the stated P96 million total.",
+      "citations": [
+        {
+          "segment_id": "S01386",
+          "start_seconds": 14638.58
+        },
+        {
+          "segment_id": "S01389",
+          "start_seconds": 14672.74
+        },
+        {
+          "segment_id": "S01390",
+          "start_seconds": 14704.08
+        },
+        {
+          "segment_id": "S01392",
+          "start_seconds": 14759.24
+        },
+        {
+          "segment_id": "S01456",
+          "start_seconds": 15273.38
+        }
+      ]
+    },
+    {
+      "id": "historical-policy-payment",
+      "institution": "Insurance policies discussed in historical BPI account tracing",
+      "owner": "Vice President Sara Zimmerman Duterte and children — allocation recalled by witness",
+      "period": "2014, as recalled by witness",
+      "currency": "PHP",
+      "amount": "20000000",
+      "measure": "Amount of each of four insurance payments",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Per-payment figure stated by expert",
+      "summary": "Four payments of P20 million each. This concerns the earlier Sara Duterte-Rodrigo Duterte joint-account sequence, separate from the 2022-2025 spouses' reconciliation. These insurance payments are a later use of the same traced funds, not an additional P80 million on top of them.",
+      "citations": [
+        {
+          "segment_id": "S01432",
+          "start_seconds": 15029.89
+        },
+        {
+          "segment_id": "S01453",
+          "start_seconds": 15241.06
+        }
+      ]
+    },
+    {
+      "id": "historical-policy-total",
+      "institution": "Insurance policies discussed in historical BPI account tracing",
+      "owner": "Vice President Sara Zimmerman Duterte and children — allocation recalled by witness",
+      "period": "2014, as recalled by witness",
+      "currency": "PHP",
+      "amount": "80000000",
+      "measure": "Total of four insurance payments",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Payment total explicitly stated by expert",
+      "summary": "Aggregate of the four P20 million payments. This concerns the earlier Sara Duterte-Rodrigo Duterte joint-account sequence, separate from the 2022-2025 spouses' reconciliation. These insurance payments are a later use of the same traced funds, not an additional P80 million on top of them.",
+      "citations": [
+        {
+          "segment_id": "S01432",
+          "start_seconds": 15029.89
+        },
+        {
+          "segment_id": "S01453",
+          "start_seconds": 15241.06
+        }
+      ]
+    },
+    {
+      "id": "samuel-uy-check",
+      "institution": "BPI records cited during examination",
+      "owner": "Vice President Sara Zimmerman Duterte and former President Rodrigo Duterte — joint account; Samuel Uy as payee",
+      "period": "After about one and a half further years of the sequence; exact date not stated",
+      "currency": "PHP",
+      "amount": "16000000",
+      "measure": "Check to Samuel Uy closing the historical account",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Rounded historical check amount stated by expert",
+      "summary": "P16 million check described as ending the account sequence. This concerns the earlier Sara Duterte-Rodrigo Duterte joint-account sequence, separate from the 2022-2025 spouses' reconciliation.",
+      "citations": [
+        {
+          "segment_id": "S01455",
+          "start_seconds": 15256.3
+        },
+        {
+          "segment_id": "S01456",
+          "start_seconds": 15273.38
+        }
+      ]
+    },
+    {
+      "id": "spending-tokyo",
+      "institution": "Ginza / Inakaya, Tokyo",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio — individual purchaser not named in cited exchange",
+      "period": "Table 25 transaction discussion; dates not stated",
+      "currency": "PHP",
+      "amount": "205000",
+      "measure": "One transaction described as a possible restaurant payment",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Possible purpose attributed by expert",
+      "summary": "P205,000 transaction; witness suggested a restaurant meal.",
+      "citations": [
+        {
+          "segment_id": "S01466",
+          "start_seconds": 15398.57
+        }
+      ]
+    },
+    {
+      "id": "spending-nike-davao",
+      "institution": "Nike SM Davao",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio — individual purchaser not named in cited exchange",
+      "period": "Table 25 transaction discussion; dates not stated",
+      "currency": "PHP",
+      "amount": "300000",
+      "measure": "Lower threshold for combined same-day purchases",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Greater-than threshold, not an exact total",
+      "summary": "More than P300,000 for two purchases in one day.",
+      "citations": [
+        {
+          "segment_id": "S01468",
+          "start_seconds": 15424.45
+        }
+      ]
+    },
+    {
+      "id": "spending-nike-kl",
+      "institution": "Nike Pavilion, Kuala Lumpur",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio — individual purchaser not named in cited exchange",
+      "period": "Table 25 transaction discussion; dates not stated",
+      "currency": "PHP",
+      "amount": "256882.50",
+      "measure": "Single purchase transaction",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Transaction amount stated by expert",
+      "summary": "P256,882.50 in one purchase.",
+      "citations": [
+        {
+          "segment_id": "S01470",
+          "start_seconds": 15439.22
+        },
+        {
+          "segment_id": "S01471",
+          "start_seconds": 15448.14
+        }
+      ]
+    },
+    {
+      "id": "cale-china-remittances",
+      "institution": "Cale88 remittance schedule — Table 36",
+      "owner": "Cale88 Foods Corporation",
+      "period": "Table 36 covered remittances; exact date range not read",
+      "currency": "PHP",
+      "amount": "193951442",
+      "measure": "Total remittances from listed Chinese companies",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Corporate remittance total read by expert",
+      "summary": "Exact China-remitter total read by Cabrera.",
+      "citations": [
+        {
+          "segment_id": "S01529",
+          "start_seconds": 16039.75
+        },
+        {
+          "segment_id": "S01531",
+          "start_seconds": 16056.28
+        },
+        {
+          "segment_id": "S01538",
+          "start_seconds": 16109.27
+        },
+        {
+          "segment_id": "S01540",
+          "start_seconds": 16162.8
+        }
+      ]
+    },
+    {
+      "id": "cale-remittance-total-rounded",
+      "institution": "Cale88 remittance schedule — Table 36",
+      "owner": "Cale88 Foods Corporation",
+      "period": "Table 36 covered remittances; exact date range not read",
+      "currency": "PHP",
+      "amount": "222000000",
+      "measure": "Approximate total foreign remittances cited in comparison",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Rounded corporate remittance total stated by expert",
+      "summary": "Roughly P222 million used as the denominator in his China comparison.",
+      "citations": [
+        {
+          "segment_id": "S01531",
+          "start_seconds": 16056.28
+        }
+      ]
+    },
+    {
+      "id": "corporate-cale-metro-2022",
+      "institution": "Cale88 and Metro City Chow — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "3790995",
+      "measure": "Computed undeclared corporate income attributed to the couple",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert attribution using ownership percentages",
+      "summary": "Combined Metro City Chow and Cale88 undeclared-income component attributed to Duterte and Carpio after applying ownership percentages to company inflows; part of the annual report total.",
+      "citations": [
+        {
+          "segment_id": "S01473",
+          "start_seconds": 15501.32
+        },
+        {
+          "segment_id": "S01475",
+          "start_seconds": 15546.66
+        },
+        {
+          "segment_id": "S01476",
+          "start_seconds": 15566.22
+        },
+        {
+          "segment_id": "S01478",
+          "start_seconds": 15585.16
+        },
+        {
+          "segment_id": "S01482",
+          "start_seconds": 15619.369999999999
+        },
+        {
+          "segment_id": "S01517",
+          "start_seconds": 15935.99
+        },
+        {
+          "segment_id": "S01547",
+          "start_seconds": 16234.12
+        }
+      ]
+    },
+    {
+      "id": "corporate-cale-metro-2023",
+      "institution": "Cale88 and Metro City Chow — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "14788989",
+      "measure": "Computed undeclared corporate income attributed to the couple",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert attribution using ownership percentages",
+      "summary": "Combined Metro City Chow and Cale88 undeclared-income component attributed to Duterte and Carpio after applying ownership percentages to company inflows; part of the annual report total.",
+      "citations": [
+        {
+          "segment_id": "S01473",
+          "start_seconds": 15501.32
+        },
+        {
+          "segment_id": "S01475",
+          "start_seconds": 15546.66
+        },
+        {
+          "segment_id": "S01476",
+          "start_seconds": 15566.22
+        },
+        {
+          "segment_id": "S01478",
+          "start_seconds": 15585.16
+        },
+        {
+          "segment_id": "S01482",
+          "start_seconds": 15619.369999999999
+        },
+        {
+          "segment_id": "S01517",
+          "start_seconds": 15935.99
+        },
+        {
+          "segment_id": "S01549",
+          "start_seconds": 16247.62
+        }
+      ]
+    },
+    {
+      "id": "corporate-cale-metro-2024",
+      "institution": "Cale88 and Metro City Chow — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "86944369",
+      "measure": "Computed undeclared corporate income attributed to the couple",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert attribution using ownership percentages",
+      "summary": "Combined Metro City Chow and Cale88 undeclared-income component attributed to Duterte and Carpio after applying ownership percentages to company inflows; part of the annual report total.",
+      "citations": [
+        {
+          "segment_id": "S01473",
+          "start_seconds": 15501.32
+        },
+        {
+          "segment_id": "S01475",
+          "start_seconds": 15546.66
+        },
+        {
+          "segment_id": "S01476",
+          "start_seconds": 15566.22
+        },
+        {
+          "segment_id": "S01478",
+          "start_seconds": 15585.16
+        },
+        {
+          "segment_id": "S01482",
+          "start_seconds": 15619.369999999999
+        },
+        {
+          "segment_id": "S01517",
+          "start_seconds": 15935.99
+        },
+        {
+          "segment_id": "S01551",
+          "start_seconds": 16260.6
+        }
+      ]
+    },
+    {
+      "id": "corporate-cale-metro-2025",
+      "institution": "Cale88 and Metro City Chow — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "36674337",
+      "measure": "Computed undeclared corporate income attributed to the couple",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert attribution using ownership percentages",
+      "summary": "Combined Metro City Chow and Cale88 undeclared-income component attributed to Duterte and Carpio after applying ownership percentages to company inflows; part of the annual report total.",
+      "citations": [
+        {
+          "segment_id": "S01473",
+          "start_seconds": 15501.32
+        },
+        {
+          "segment_id": "S01475",
+          "start_seconds": 15546.66
+        },
+        {
+          "segment_id": "S01476",
+          "start_seconds": 15566.22
+        },
+        {
+          "segment_id": "S01478",
+          "start_seconds": 15585.16
+        },
+        {
+          "segment_id": "S01482",
+          "start_seconds": 15619.369999999999
+        },
+        {
+          "segment_id": "S01517",
+          "start_seconds": 15935.99
+        },
+        {
+          "segment_id": "S01553",
+          "start_seconds": 16276.26
+        }
+      ]
+    },
+    {
+      "id": "gencorp-company-inflows-2023",
+      "institution": "GenCorp Industries",
+      "owner": "GenCorp Industries",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "279300000",
+      "measure": "Company undeclared bank inflows in report narrative",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Corporate-flow figure read by expert",
+      "summary": "Company-level undeclared bank-inflow figure read from the report, distinct from the estimated amount attributed to Duterte. The stated precision is retained.",
+      "citations": [
+        {
+          "segment_id": "S01562",
+          "start_seconds": 16354.22
+        },
+        {
+          "segment_id": "S01568",
+          "start_seconds": 16406.3
+        }
+      ]
+    },
+    {
+      "id": "gencorp-company-inflows-2024",
+      "institution": "GenCorp Industries",
+      "owner": "GenCorp Industries",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "370300000",
+      "measure": "Company undeclared bank inflows in report narrative",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Corporate-flow figure read by expert",
+      "summary": "Company-level undeclared bank-inflow figure read from the report, distinct from the estimated amount attributed to Duterte. The stated precision is retained.",
+      "citations": [
+        {
+          "segment_id": "S01562",
+          "start_seconds": 16354.22
+        },
+        {
+          "segment_id": "S01568",
+          "start_seconds": 16406.3
+        }
+      ]
+    },
+    {
+      "id": "gencorp-company-inflows-2025",
+      "institution": "GenCorp Industries",
+      "owner": "GenCorp Industries",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "414300000",
+      "measure": "Company undeclared bank inflows in report narrative",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Corporate-flow figure read by expert",
+      "summary": "Company-level undeclared bank-inflow figure read from the report, distinct from the estimated amount attributed to Duterte. The stated precision is retained.",
+      "citations": [
+        {
+          "segment_id": "S01562",
+          "start_seconds": 16354.22
+        },
+        {
+          "segment_id": "S01568",
+          "start_seconds": 16406.3
+        }
+      ]
+    },
+    {
+      "id": "gencorp-estimated-interest-2023",
+      "institution": "GenCorp — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "55714292",
+      "measure": "Computed undeclared GenCorp income attributed through estimated interest",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert sensitivity estimate using 20% interest",
+      "summary": "Amount attributed to Duterte using Cabrera's inferred 20% economic-interest estimate; GenCorp's GIS did not name her, although her SALN listed a stockholding. The precise Table 39 reading was P55,714,292; his earlier narrative gave P55.9 million.",
+      "citations": [
+        {
+          "segment_id": "S01114",
+          "start_seconds": 11924.89
+        },
+        {
+          "segment_id": "S01118",
+          "start_seconds": 11999.14
+        },
+        {
+          "segment_id": "S01120",
+          "start_seconds": 12014.74
+        },
+        {
+          "segment_id": "S01121",
+          "start_seconds": 12055.56
+        },
+        {
+          "segment_id": "S01564",
+          "start_seconds": 16370.14
+        },
+        {
+          "segment_id": "S01583",
+          "start_seconds": 16557.91
+        },
+        {
+          "segment_id": "S01584",
+          "start_seconds": 16586.61
+        },
+        {
+          "segment_id": "S01611",
+          "start_seconds": 16887.17
+        }
+      ]
+    },
+    {
+      "id": "gencorp-estimated-interest-2024",
+      "institution": "GenCorp — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "74056480",
+      "measure": "Computed undeclared GenCorp income attributed through estimated interest",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert sensitivity estimate using 20% interest",
+      "summary": "Amount attributed to Duterte using Cabrera's inferred 20% economic-interest estimate; GenCorp's GIS did not name her, although her SALN listed a stockholding.",
+      "citations": [
+        {
+          "segment_id": "S01114",
+          "start_seconds": 11924.89
+        },
+        {
+          "segment_id": "S01118",
+          "start_seconds": 11999.14
+        },
+        {
+          "segment_id": "S01120",
+          "start_seconds": 12014.74
+        },
+        {
+          "segment_id": "S01121",
+          "start_seconds": 12055.56
+        },
+        {
+          "segment_id": "S01564",
+          "start_seconds": 16370.14
+        },
+        {
+          "segment_id": "S01583",
+          "start_seconds": 16557.91
+        },
+        {
+          "segment_id": "S01584",
+          "start_seconds": 16586.61
+        },
+        {
+          "segment_id": "S01613",
+          "start_seconds": 16898.7
+        }
+      ]
+    },
+    {
+      "id": "gencorp-estimated-interest-2025",
+      "institution": "GenCorp — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "82858946",
+      "measure": "Computed undeclared GenCorp income attributed through estimated interest",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert sensitivity estimate using 20% interest",
+      "summary": "Amount attributed to Duterte using Cabrera's inferred 20% economic-interest estimate; GenCorp's GIS did not name her, although her SALN listed a stockholding.",
+      "citations": [
+        {
+          "segment_id": "S01114",
+          "start_seconds": 11924.89
+        },
+        {
+          "segment_id": "S01118",
+          "start_seconds": 11999.14
+        },
+        {
+          "segment_id": "S01120",
+          "start_seconds": 12014.74
+        },
+        {
+          "segment_id": "S01121",
+          "start_seconds": 12055.56
+        },
+        {
+          "segment_id": "S01564",
+          "start_seconds": 16370.14
+        },
+        {
+          "segment_id": "S01583",
+          "start_seconds": 16557.91
+        },
+        {
+          "segment_id": "S01584",
+          "start_seconds": 16586.61
+        },
+        {
+          "segment_id": "S01615",
+          "start_seconds": 16910.28
+        }
+      ]
+    },
+    {
+      "id": "combined-annual-2022",
+      "institution": "Financial report — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2022",
+      "currency": "PHP",
+      "amount": "190628012",
+      "measure": "Total undeclared assets and income — annual report component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert combined annual calculation",
+      "summary": "Annual component of Cabrera's P817,874,867 aggregate; he said repeat carryovers of the same assets were eliminated. It overlaps the component rows.",
+      "citations": [
+        {
+          "segment_id": "S01619",
+          "start_seconds": 16960.02
+        },
+        {
+          "segment_id": "S01629",
+          "start_seconds": 17024.69
+        },
+        {
+          "segment_id": "S01639C",
+          "start_seconds": 17153.26
+        },
+        {
+          "segment_id": "S01664",
+          "start_seconds": 17367.34
+        }
+      ]
+    },
+    {
+      "id": "combined-annual-2023",
+      "institution": "Financial report — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2023",
+      "currency": "PHP",
+      "amount": "167337227",
+      "measure": "Total undeclared assets and income — annual report component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert combined annual calculation",
+      "summary": "Annual component of Cabrera's P817,874,867 aggregate; he said repeat carryovers of the same assets were eliminated. It overlaps the component rows.",
+      "citations": [
+        {
+          "segment_id": "S01621",
+          "start_seconds": 16972.92
+        },
+        {
+          "segment_id": "S01629",
+          "start_seconds": 17024.69
+        },
+        {
+          "segment_id": "S01639C",
+          "start_seconds": 17153.26
+        },
+        {
+          "segment_id": "S01664",
+          "start_seconds": 17367.34
+        }
+      ]
+    },
+    {
+      "id": "combined-annual-2024",
+      "institution": "Financial report — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2024",
+      "currency": "PHP",
+      "amount": "264217123",
+      "measure": "Total undeclared assets and income — annual report component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert combined annual calculation",
+      "summary": "Annual component of Cabrera's P817,874,867 aggregate; he said repeat carryovers of the same assets were eliminated. It overlaps the component rows.",
+      "citations": [
+        {
+          "segment_id": "S01623",
+          "start_seconds": 16986.25
+        },
+        {
+          "segment_id": "S01629",
+          "start_seconds": 17024.69
+        },
+        {
+          "segment_id": "S01639C",
+          "start_seconds": 17153.26
+        },
+        {
+          "segment_id": "S01664",
+          "start_seconds": 17367.34
+        }
+      ]
+    },
+    {
+      "id": "combined-annual-2025",
+      "institution": "Financial report — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2025",
+      "currency": "PHP",
+      "amount": "195692505",
+      "measure": "Total undeclared assets and income — annual report component",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert combined annual calculation",
+      "summary": "Annual component of Cabrera's P817,874,867 aggregate; he said repeat carryovers of the same assets were eliminated. It overlaps the component rows.",
+      "citations": [
+        {
+          "segment_id": "S01625",
+          "start_seconds": 16998.88
+        },
+        {
+          "segment_id": "S01629",
+          "start_seconds": 17024.69
+        },
+        {
+          "segment_id": "S01639C",
+          "start_seconds": 17153.26
+        },
+        {
+          "segment_id": "S01664",
+          "start_seconds": 17367.34
+        }
+      ]
+    },
+    {
+      "id": "combined-aggregate",
+      "institution": "Financial report — Table 39",
+      "owner": "Vice President Sara Zimmerman Duterte and Atty. Manases R. Carpio",
+      "period": "2022–2025; total discussed as undeclared wealth as of 2025",
+      "currency": "PHP",
+      "amount": "817874867",
+      "measure": "Aggregate undeclared assets and income",
+      "asserted_by": "Atty. Alexander B. Cabrera",
+      "status": "Expert four-year aggregate explicitly stated",
+      "summary": "Cabrera’s stated P817,874,867 aggregate. Cabrera explicitly read the aggregate and said assets were counted only once. In the final clarification he agreed that the undeclared amount should be added to the amount declared in the 2025 SALN under his report. His conclusion abbreviated it to P817.87 million; this row retains the exact reading and consolidates repeated references.",
+      "citations": [
+        {
+          "segment_id": "S01627",
+          "start_seconds": 17015.72
+        },
+        {
+          "segment_id": "S01629",
+          "start_seconds": 17024.69
+        },
+        {
+          "segment_id": "S01639C",
+          "start_seconds": 17153.26
+        },
+        {
+          "segment_id": "S01662",
+          "start_seconds": 17351.75
+        },
+        {
+          "segment_id": "S01664",
+          "start_seconds": 17367.34
+        },
+        {
+          "segment_id": "S01665C",
+          "start_seconds": 17403.52
+        },
+        {
+          "segment_id": "S01666",
+          "start_seconds": 17411.1
+        },
+        {
+          "segment_id": "S01683",
+          "start_seconds": 17516.84
+        }
+      ]
+    }
+  ],
+  "table_sha256": "63efe01f2cbd2f50e9f94c28c4d0d82b77f1b5a3910ea32c76a41a802d95adf3"
+}
