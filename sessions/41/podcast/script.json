@@ -1,0 +1,2165 @@
+{
+  "description": "Two defense witnesses face questions about a Samal SALN entry, delayed mayoral salary differentials and an earlier accounting partnership.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Opening",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for November 10, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00054",
+          "start_seconds": 1070.12,
+          "clock": "00:17:50",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00060",
+          "start_seconds": 1153.82,
+          "clock": "00:19:13",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00079",
+          "start_seconds": 1342.28,
+          "clock": "00:22:22",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00083",
+          "start_seconds": 1353.86,
+          "clock": "00:22:33",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00089",
+          "start_seconds": 1385.37,
+          "clock": "00:23:05",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00905",
+          "start_seconds": 11214.09,
+          "clock": "03:06:54",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00908",
+          "start_seconds": 11259.06,
+          "clock": "03:07:39",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00953",
+          "start_seconds": 11511.84,
+          "clock": "03:11:51",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S00968",
+          "start_seconds": 11606.95,
+          "clock": "03:13:26",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01155",
+          "start_seconds": 12960.74,
+          "clock": "03:36:00",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01217_M02",
+          "start_seconds": 13927.86,
+          "clock": "03:52:07",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01457",
+          "start_seconds": 15955.369999999999,
+          "clock": "04:25:55",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        }
+      ],
+      "heading": "Two defense witnesses",
+      "id": "P002",
+      "kind": "finding",
+      "text": "The defense presentation centered on two witnesses: Engr. John Kenneth D. Enumerables, Island Garden City of Samal City Assessor, and Vingeline A. Bahan, Davao City Accountant. Enumerables addressed whether a titled Samal property matched an entry in the Vice President's statement of assets, liabilities and net worth, or SALN. Bahan explained a payment made in 2023 as salary differentials for Sara Duterte's earlier service as Davao mayor. Prosecutors challenged the property match and the payment records. Extensive senator-judge questioning also examined Bahan's former private accounting partnership and her independence."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00325",
+          "start_seconds": 3206.63,
+          "clock": "00:53:26",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00329",
+          "start_seconds": 3240.2,
+          "clock": "00:54:00",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00331",
+          "start_seconds": 3253.6400000000003,
+          "clock": "00:54:13",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00333",
+          "start_seconds": 3261.45,
+          "clock": "00:54:21",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00335",
+          "start_seconds": 3274.0,
+          "clock": "00:54:34",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00337",
+          "start_seconds": 3283.0699999999997,
+          "clock": "00:54:43",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00352",
+          "start_seconds": 3376.77,
+          "clock": "00:56:16",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00356",
+          "start_seconds": 3391.76,
+          "clock": "00:56:31",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00357",
+          "start_seconds": 3403.3199999999997,
+          "clock": "00:56:43",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00318",
+          "start_seconds": 3125.7200000000003,
+          "clock": "00:52:05",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00284",
+          "start_seconds": 2895.4,
+          "clock": "00:48:15",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00272",
+          "start_seconds": 2767.34,
+          "clock": "00:46:07",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00399",
+          "start_seconds": 3804.88,
+          "clock": "01:03:24",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        }
+      ],
+      "heading": "What the Samal records showed",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Enumerables identified Manases Reyes Carpio as the declared owner of the parcel under title number 142-2019-013134. His office placed it in Barangay San Isidro, Kaputian, in the Island Garden City of Samal. He presented tax declarations, appraisal records, maps and the title. The earlier declaration carried assessed value of 270,360 pesos and market value of 2,703,600 pesos. The replacement after the 2023 general revision carried assessed value of 346,960 pesos and market value of 4,956,600 pesos. The defense relied on those values to connect the parcel to the SALN entry."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00399",
+          "start_seconds": 3804.88,
+          "clock": "01:03:24",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00403",
+          "start_seconds": 3828.76,
+          "clock": "01:03:48",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00409",
+          "start_seconds": 3871.12,
+          "clock": "01:04:31",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00413",
+          "start_seconds": 3891.89,
+          "clock": "01:04:51",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00415",
+          "start_seconds": 3898.81,
+          "clock": "01:04:58",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00420_E2",
+          "start_seconds": 3916.87,
+          "clock": "01:05:16",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00507_E3",
+          "start_seconds": 4637.89,
+          "clock": "01:17:17",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00507_E4",
+          "start_seconds": 4647.09,
+          "clock": "01:17:27",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00728",
+          "start_seconds": 6188.15,
+          "clock": "01:43:08",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00729",
+          "start_seconds": 6223.37,
+          "clock": "01:43:43",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        }
+      ],
+      "heading": "The changing identification answer",
+      "id": "P004",
+      "kind": "finding",
+      "text": "That connection was tested closely. Enumerables initially said matching assessed and market values were his basis; the SALN did not give a title number or property-record number. On cross-examination, when asked whether the titled property was the same property in the SALN, he said he was not certain. Later, Sen. Joel Villanueva asked whether, based on his professional experience and his office's records, the tax declaration and SALN referred to one parcel. Enumerables answered that there was only one. Both stages of his answer shaped the competing arguments that followed."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00544",
+          "start_seconds": 4787.6,
+          "clock": "01:19:47",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00546",
+          "start_seconds": 4810.2,
+          "clock": "01:20:10",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00548",
+          "start_seconds": 4834.36,
+          "clock": "01:20:34",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00555",
+          "start_seconds": 4878.01,
+          "clock": "01:21:18",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00673",
+          "start_seconds": 5803.24,
+          "clock": "01:36:43",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00677",
+          "start_seconds": 5816.1,
+          "clock": "01:36:56",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00731",
+          "start_seconds": 6230.18,
+          "clock": "01:43:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00603",
+          "start_seconds": 5309.88,
+          "clock": "01:28:29",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00604_E2",
+          "start_seconds": 5315.12,
+          "clock": "01:28:35",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00604_E3",
+          "start_seconds": 5320.26,
+          "clock": "01:28:40",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00604_E4",
+          "start_seconds": 5322.49,
+          "clock": "01:28:42",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00604_E5",
+          "start_seconds": 5325.1900000000005,
+          "clock": "01:28:45",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00605",
+          "start_seconds": 5325.59,
+          "clock": "01:28:45",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00606",
+          "start_seconds": 5326.29,
+          "clock": "01:28:46",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00607",
+          "start_seconds": 5328.47,
+          "clock": "01:28:48",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00608",
+          "start_seconds": 5329.71,
+          "clock": "01:28:49",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00609",
+          "start_seconds": 5340.45,
+          "clock": "01:29:00",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00609_E2",
+          "start_seconds": 5361.64,
+          "clock": "01:29:21",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00610",
+          "start_seconds": 5362.1,
+          "clock": "01:29:22",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00612_E2",
+          "start_seconds": 5366.32,
+          "clock": "01:29:26",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00613",
+          "start_seconds": 5366.62,
+          "clock": "01:29:26",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00657",
+          "start_seconds": 5664.65,
+          "clock": "01:34:24",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00657_E2",
+          "start_seconds": 5684.37,
+          "clock": "01:34:44",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00658",
+          "start_seconds": 5689.18,
+          "clock": "01:34:49",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00659",
+          "start_seconds": 5693.98,
+          "clock": "01:34:53",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00844",
+          "start_seconds": 7656.02,
+          "clock": "02:07:36",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        }
+      ],
+      "heading": "San Isidro and Matanos",
+      "id": "P005",
+      "kind": "finding",
+      "text": "The location descriptions remained central. Enumerables said Samal had no Barangay Matanos, while titles for Kembali Coast used that name and assessor mapping placed the development in San Isidro. On redirect, he traced the deed's earlier title to the title cancelled by the current one. Presiding Officer Sen. Francis \"Chiz\" G. Escudero consulted earlier testimony by Acting Register of Deeds Marco Pineda and reported that the Matanos description had been carried forward from the mother title, with tax mapping needed to locate the physical parcel. Sen. Panfilo \"Ping\" M. Lacson placed Matanos in Pangubatan and urged the assessor to correct the confused records. Sen. Erwin Tulfo urged coordination with the Register of Deeds or Land Registration Authority; Enumerables said he had not contacted the Register of Deeds because its work was outside his scope."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00472",
+          "start_seconds": 4382.04,
+          "clock": "01:13:02",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00473",
+          "start_seconds": 4395.47,
+          "clock": "01:13:15",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00490_E2",
+          "start_seconds": 4485.78,
+          "clock": "01:14:45",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00491",
+          "start_seconds": 4504.6,
+          "clock": "01:15:04",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00497",
+          "start_seconds": 4531.88,
+          "clock": "01:15:31",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00502",
+          "start_seconds": 4578.29,
+          "clock": "01:16:18",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00504",
+          "start_seconds": 4601.36,
+          "clock": "01:16:41",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00506",
+          "start_seconds": 4609.03,
+          "clock": "01:16:49",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00696",
+          "start_seconds": 5905.04,
+          "clock": "01:38:25",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00698",
+          "start_seconds": 5922.84,
+          "clock": "01:38:42",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00705",
+          "start_seconds": 5966.17,
+          "clock": "01:39:26",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00756",
+          "start_seconds": 6583.92,
+          "clock": "01:49:43",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00773",
+          "start_seconds": 6803.71,
+          "clock": "01:53:23",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00779",
+          "start_seconds": 6866.12,
+          "clock": "01:54:26",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00791",
+          "start_seconds": 7068.3,
+          "clock": "01:57:48",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        }
+      ],
+      "heading": "Different dates and amounts",
+      "id": "P006",
+      "kind": "finding",
+      "text": "The prosecution emphasized another set of differences. The SALN stated acquisition in 2013 at 4,041,000 pesos. The deed was dated March 15, 2018 and gave a price of 3,453,849 pesos. Enumerables agreed that the titles had no annotated contract to sell. Prosecutor Atty. Benjamin Tolosa Jr. argued that the date and price differences supported separate properties, and invoked Civil Service Commission guidelines to argue that acquisition cost excluded taxes and transfer fees. Defense counsel Atty. Lindon Miguel C. Bacquel maintained that acquisition cost included transaction expenses and that the property had been disclosed. Enumerables said transfer expenses could possibly explain the higher amount. Asked about an alternative explanation involving the actual price paid, Bacquel declined to speculate."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00662",
+          "start_seconds": 5735.88,
+          "clock": "01:35:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00666",
+          "start_seconds": 5749.6,
+          "clock": "01:35:49",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00709",
+          "start_seconds": 5994.65,
+          "clock": "01:39:54",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00638",
+          "start_seconds": 5507.13,
+          "clock": "01:31:47",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00713",
+          "start_seconds": 5999.49,
+          "clock": "01:39:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00715",
+          "start_seconds": 6011.8,
+          "clock": "01:40:11",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00718",
+          "start_seconds": 6042.47,
+          "clock": "01:40:42",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00719",
+          "start_seconds": 6053.41,
+          "clock": "01:40:53",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00721",
+          "start_seconds": 6109.93,
+          "clock": "01:41:49",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00723_E2",
+          "start_seconds": 6118.58,
+          "clock": "01:41:58",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00724",
+          "start_seconds": 6128.1,
+          "clock": "01:42:08",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00727",
+          "start_seconds": 6182.53,
+          "clock": "01:43:02",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00786",
+          "start_seconds": 6921.35,
+          "clock": "01:55:21",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00788",
+          "start_seconds": 6942.25,
+          "clock": "01:55:42",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00789",
+          "start_seconds": 6982.62,
+          "clock": "01:56:22",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00791",
+          "start_seconds": 7068.3,
+          "clock": "01:57:48",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00793",
+          "start_seconds": 7113.54,
+          "clock": "01:58:33",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00794",
+          "start_seconds": 7127.0,
+          "clock": "01:58:47",
+          "speaker_name": "Atty. Benjamin Tolosa Jr."
+        },
+        {
+          "segment_id": "S00795",
+          "start_seconds": 7148.86,
+          "clock": "01:59:08",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00812",
+          "start_seconds": 7273.77,
+          "clock": "02:01:13",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00817",
+          "start_seconds": 7402.73,
+          "clock": "02:03:22",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00818",
+          "start_seconds": 7458.54,
+          "clock": "02:04:18",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00819",
+          "start_seconds": 7459.5,
+          "clock": "02:04:19",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00819_E2",
+          "start_seconds": 7487.06,
+          "clock": "02:04:47",
+          "speaker_name": "Engr. John Kenneth D. Enumerables"
+        },
+        {
+          "segment_id": "S00630",
+          "start_seconds": 5465.74,
+          "clock": "01:31:05",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        }
+      ],
+      "heading": "The parties retained their positions",
+      "id": "P007",
+      "kind": "finding",
+      "text": "Sen. Sherwin T. Gatchalian explored buyer-paid taxes, transfer expenses and possible broker fees as additions to the purchase price. Sen. Paolo Benigno \"Bam\" Aquino highlighted the differing acquisition years and proposed leaving the property's identity to the judges after the extended discussion. When Sen. Joel Villanueva sought the strongest evidence for separate parcels, Atty. Benjamin Tolosa Jr. returned to the witness's earlier uncertainty and the date and price differences. Defense counsel Atty. Sheila C. Sison responded that prosecutors had not produced a separate documentary set for another property. The parties retained those competing positions as the defense presentation continued."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00905",
+          "start_seconds": 11214.09,
+          "clock": "03:06:54",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00908",
+          "start_seconds": 11259.06,
+          "clock": "03:07:39",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S00919_M03",
+          "start_seconds": 11334.35,
+          "clock": "03:08:54",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S00953",
+          "start_seconds": 11511.84,
+          "clock": "03:11:51",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S00968",
+          "start_seconds": 11606.95,
+          "clock": "03:13:26",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01155",
+          "start_seconds": 12960.74,
+          "clock": "03:36:00",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01156_M02",
+          "start_seconds": 12965.06,
+          "clock": "03:36:05",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01159",
+          "start_seconds": 12975.54,
+          "clock": "03:36:15",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S00981",
+          "start_seconds": 11714.75,
+          "clock": "03:15:14",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01003",
+          "start_seconds": 11873.82,
+          "clock": "03:17:53",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01008",
+          "start_seconds": 11921.99,
+          "clock": "03:18:41",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01014",
+          "start_seconds": 11961.61,
+          "clock": "03:19:21",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01020",
+          "start_seconds": 11999.369999999999,
+          "clock": "03:19:59",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S01022",
+          "start_seconds": 12023.34,
+          "clock": "03:20:23",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S01023",
+          "start_seconds": 12029.51,
+          "clock": "03:20:29",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01036",
+          "start_seconds": 12115.77,
+          "clock": "03:21:55",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01055",
+          "start_seconds": 12194.16,
+          "clock": "03:23:14",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S01058",
+          "start_seconds": 12268.36,
+          "clock": "03:24:28",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S01120",
+          "start_seconds": 12746.51,
+          "clock": "03:32:26",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01122",
+          "start_seconds": 12761.94,
+          "clock": "03:32:41",
+          "speaker_name": "Vingeline A. Bahan"
+        }
+      ],
+      "heading": "The Davao salary explanation",
+      "id": "P008",
+      "kind": "finding",
+      "text": "Bahan's testimony moved the hearing to the double-compensation allegation. She identified net salary differentials of 31,718 pesos and 64 centavos for 2020 and 32,476 pesos and eight centavos for 2021, totaling 64,194 pesos and 72 centavos. She identified payroll registers, notices of salary adjustment, a disbursement voucher, a payroll summary and a Land Bank receipt. She said the cheque was issued on January 10, 2023 after supporting documents were completed. Her explanation distinguished payment in 2023 from compensation for service in 2023: she said the money related to the earlier mayoral service, rather than services or professional practice while Vice President."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01061",
+          "start_seconds": 12336.92,
+          "clock": "03:25:36",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01078",
+          "start_seconds": 12504.57,
+          "clock": "03:28:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01079",
+          "start_seconds": 12523.15,
+          "clock": "03:28:43",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01083",
+          "start_seconds": 12544.48,
+          "clock": "03:29:04",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01090",
+          "start_seconds": 12559.61,
+          "clock": "03:29:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01091",
+          "start_seconds": 12563.53,
+          "clock": "03:29:23",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01104",
+          "start_seconds": 12594.74,
+          "clock": "03:29:54",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01106",
+          "start_seconds": 12600.0,
+          "clock": "03:30:00",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01911",
+          "start_seconds": 19443.18,
+          "clock": "05:24:03",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01893",
+          "start_seconds": 19290.34,
+          "clock": "05:21:30",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01899",
+          "start_seconds": 19340.57,
+          "clock": "05:22:20",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01908",
+          "start_seconds": 19419.32,
+          "clock": "05:23:39",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01073",
+          "start_seconds": 12382.91,
+          "clock": "03:26:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01074",
+          "start_seconds": 12391.25,
+          "clock": "03:26:31",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01076",
+          "start_seconds": 12413.09,
+          "clock": "03:26:53",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01089",
+          "start_seconds": 12555.35,
+          "clock": "03:29:15",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01877",
+          "start_seconds": 19202.45,
+          "clock": "05:20:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01880",
+          "start_seconds": 19224.97,
+          "clock": "05:20:24",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01881",
+          "start_seconds": 19239.09,
+          "clock": "05:20:39",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01884",
+          "start_seconds": 19247.49,
+          "clock": "05:20:47",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01885",
+          "start_seconds": 19254.97,
+          "clock": "05:20:54",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01888",
+          "start_seconds": 19257.83,
+          "clock": "05:20:57",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01889",
+          "start_seconds": 19260.65,
+          "clock": "05:21:00",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01891",
+          "start_seconds": 19284.1,
+          "clock": "05:21:24",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01892",
+          "start_seconds": 19286.24,
+          "clock": "05:21:26",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01894",
+          "start_seconds": 19299.42,
+          "clock": "05:21:39",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01895",
+          "start_seconds": 19322.58,
+          "clock": "05:22:02",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01897",
+          "start_seconds": 19327.17,
+          "clock": "05:22:07",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01902",
+          "start_seconds": 19361.67,
+          "clock": "05:22:41",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01903",
+          "start_seconds": 19366.55,
+          "clock": "05:22:46",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01904",
+          "start_seconds": 19399.77,
+          "clock": "05:23:19",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01906",
+          "start_seconds": 19407.8,
+          "clock": "05:23:27",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01907",
+          "start_seconds": 19410.52,
+          "clock": "05:23:30",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01910",
+          "start_seconds": 19431.86,
+          "clock": "05:23:51",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01912",
+          "start_seconds": 19479.05,
+          "clock": "05:24:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01915",
+          "start_seconds": 19490.25,
+          "clock": "05:24:50",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S01918",
+          "start_seconds": 19516.39,
+          "clock": "05:25:16",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01920",
+          "start_seconds": 19534.55,
+          "clock": "05:25:34",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01922",
+          "start_seconds": 19548.43,
+          "clock": "05:25:48",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S01923",
+          "start_seconds": 19548.91,
+          "clock": "05:25:48",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S41L_holiday_overtime",
+          "start_seconds": 19550.82,
+          "clock": "05:25:50",
+          "speaker_name": "Vingeline A. Bahan"
+        }
+      ],
+      "heading": "The corrected voucher and the delay",
+      "id": "P009",
+      "kind": "finding",
+      "text": "Handwritten voucher changes drew challenges. Bahan attributed the corrections and countersignatures to Assistant City Accountant Janice Antoinette G. Calza. She said an incorrect typed 2022 period was corrected to 2020 and 2021 during accounting evaluation on December 30, 2022 to match the supporting papers. Sen. Raffy T. Tulfo questioned whether changes could have been made later and challenged payment during the vice-presidency. Bahan maintained her account of the correction. Asked why payment had taken years, she attributed the delay to the City Mayor's Office and said staff evaluated the papers, so she could not identify the particular missing document. Sen. Vicente C. Sotto III asked about processing on the December 30 holiday; she said her office worked overtime, including holidays and Sundays, for yearend closing."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01506",
+          "start_seconds": 16490.15,
+          "clock": "04:34:50",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01556",
+          "start_seconds": 16877.77,
+          "clock": "04:41:17",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01556_M02",
+          "start_seconds": 16894.51,
+          "clock": "04:41:34",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01556_M04",
+          "start_seconds": 16901.75,
+          "clock": "04:41:41",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01558_M02",
+          "start_seconds": 16959.05,
+          "clock": "04:42:39",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01619",
+          "start_seconds": 17281.17,
+          "clock": "04:48:01",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01620",
+          "start_seconds": 17302.27,
+          "clock": "04:48:22",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01691",
+          "start_seconds": 17768.33,
+          "clock": "04:56:08",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01692",
+          "start_seconds": 17781.64,
+          "clock": "04:56:21",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01737",
+          "start_seconds": 18088.72,
+          "clock": "05:01:28",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01737_M02",
+          "start_seconds": 18121.74,
+          "clock": "05:02:01",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02365",
+          "start_seconds": 22185.39,
+          "clock": "06:09:45",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02369",
+          "start_seconds": 22216.2,
+          "clock": "06:10:16",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02371",
+          "start_seconds": 22220.92,
+          "clock": "06:10:20",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02373",
+          "start_seconds": 22226.52,
+          "clock": "06:10:26",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01049",
+          "start_seconds": 12168.2,
+          "clock": "03:22:48",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01051",
+          "start_seconds": 12172.9,
+          "clock": "03:22:52",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01053",
+          "start_seconds": 12183.42,
+          "clock": "03:23:03",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01826",
+          "start_seconds": 18864.18,
+          "clock": "05:14:24",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01829",
+          "start_seconds": 18878.59,
+          "clock": "05:14:38",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01834",
+          "start_seconds": 18908.21,
+          "clock": "05:15:08",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02379",
+          "start_seconds": 22254.14,
+          "clock": "06:10:54",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02384",
+          "start_seconds": 22265.74,
+          "clock": "06:11:05",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02391",
+          "start_seconds": 22294.51,
+          "clock": "06:11:34",
+          "speaker_name": "Vingeline A. Bahan"
+        }
+      ],
+      "heading": "Tax reporting and custody of originals",
+      "id": "P010",
+      "kind": "finding",
+      "text": "Prosecutor Atty. Mae Sancho Divinagracia tested the paper trail. Bahan acknowledged that the 2023 Form 2316 itself did not identify the service period, originating payroll, voucher or salary-differential basis. Divinagracia compared 881,012 pesos reported as paid in 2022 with 938,512 pesos in the city's financial-statement material; Bahan agreed the difference did not match the amount in the 2023 form. Bahan explained that the larger figure came from human resources and represented gross compensation before absences, leave without pay and other deductions. She said original paid vouchers and supporting papers had gone to the Commission on Audit for safekeeping. On cross-examination she had brought no transmittal proof, and the copies lacked a COA receipt stamp. On redirect, she said the salary differential had drawn no audit-observation memorandum, suspension or disallowance."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S41L_imee_recognition_0",
+          "start_seconds": 23286.02,
+          "clock": "06:28:06",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02516",
+          "start_seconds": 23299.9,
+          "clock": "06:28:19",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S02517",
+          "start_seconds": 23332.65,
+          "clock": "06:28:52",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02518_L1",
+          "start_seconds": 23340.83,
+          "clock": "06:29:00",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02518_L2",
+          "start_seconds": 23342.31,
+          "clock": "06:29:02",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S02519",
+          "start_seconds": 23358.73,
+          "clock": "06:29:18",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02520_L3",
+          "start_seconds": 23365.71,
+          "clock": "06:29:25",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S02520_L4",
+          "start_seconds": 23386.15,
+          "clock": "06:29:46",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02522_L1",
+          "start_seconds": 23392.63,
+          "clock": "06:29:52",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02524",
+          "start_seconds": 23392.83,
+          "clock": "06:29:52",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S02524_L1",
+          "start_seconds": 23426.34,
+          "clock": "06:30:26",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02524_L3",
+          "start_seconds": 23428.22,
+          "clock": "06:30:28",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02525",
+          "start_seconds": 23438.36,
+          "clock": "06:30:38",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02526",
+          "start_seconds": 23442.3,
+          "clock": "06:30:42",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S02526_L1",
+          "start_seconds": 23452.74,
+          "clock": "06:30:52",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02526_L3",
+          "start_seconds": 23455.94,
+          "clock": "06:30:55",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S00981",
+          "start_seconds": 11714.75,
+          "clock": "03:15:14",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01003",
+          "start_seconds": 11873.82,
+          "clock": "03:17:53",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01008",
+          "start_seconds": 11921.99,
+          "clock": "03:18:41",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01014",
+          "start_seconds": 11961.61,
+          "clock": "03:19:21",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01020",
+          "start_seconds": 11999.369999999999,
+          "clock": "03:19:59",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S01022",
+          "start_seconds": 12023.34,
+          "clock": "03:20:23",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S01023",
+          "start_seconds": 12029.51,
+          "clock": "03:20:29",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01036",
+          "start_seconds": 12115.77,
+          "clock": "03:21:55",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01055",
+          "start_seconds": 12194.16,
+          "clock": "03:23:14",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S01058",
+          "start_seconds": 12268.36,
+          "clock": "03:24:28",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S01073",
+          "start_seconds": 12382.91,
+          "clock": "03:26:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "A separate amount in questioning",
+      "id": "P011",
+      "kind": "finding",
+      "text": "Sen. Imee Marcos used a different figure in her questions: 82,327 pesos and 45 centavos. Asked whether that amount had been paid in full as salary differential, Bahan agreed and referred to the Land Bank receipt. Bahan also agreed that it covered an obligation from Duterte's earlier mayoral service, rather than additional professional or consultancy work as Vice President. She said city records showed no other compensation for services in 2023 beyond the salary differential. The main payroll testimony had identified 64,194 pesos and 72 centavos as the combined net amount."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01279",
+          "start_seconds": 14355.06,
+          "clock": "03:59:15",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01324",
+          "start_seconds": 14653.51,
+          "clock": "04:04:13",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01370",
+          "start_seconds": 15066.46,
+          "clock": "04:11:06",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01382",
+          "start_seconds": 15109.74,
+          "clock": "04:11:49",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01403",
+          "start_seconds": 15439.73,
+          "clock": "04:17:19",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01416",
+          "start_seconds": 15645.17,
+          "clock": "04:20:45",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01448",
+          "start_seconds": 15906.22,
+          "clock": "04:25:06",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01467",
+          "start_seconds": 16090.44,
+          "clock": "04:28:10",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01470",
+          "start_seconds": 16182.56,
+          "clock": "04:29:42",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01979_L1",
+          "start_seconds": 19800.0,
+          "clock": "05:30:00",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01980",
+          "start_seconds": 19801.24,
+          "clock": "05:30:01",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02165",
+          "start_seconds": 21251.45,
+          "clock": "05:54:11",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02171",
+          "start_seconds": 21309.0,
+          "clock": "05:55:09",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02196",
+          "start_seconds": 21406.48,
+          "clock": "05:56:46",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02208_L1",
+          "start_seconds": 21462.09,
+          "clock": "05:57:42",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02214_L1",
+          "start_seconds": 21500.92,
+          "clock": "05:58:20",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02229",
+          "start_seconds": 21562.53,
+          "clock": "05:59:22",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02234",
+          "start_seconds": 21587.11,
+          "clock": "05:59:47",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02236",
+          "start_seconds": 21616.8,
+          "clock": "06:00:16",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02318",
+          "start_seconds": 21938.76,
+          "clock": "06:05:38",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02320",
+          "start_seconds": 21945.62,
+          "clock": "06:05:45",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02322",
+          "start_seconds": 21955.23,
+          "clock": "06:05:55",
+          "speaker_name": "Vingeline A. Bahan"
+        }
+      ],
+      "heading": "The former accounting partnership",
+      "id": "P012",
+      "kind": "finding",
+      "text": "Much of Bahan's examination concerned her earlier accounting partnership. Prosecutors presented original and amended partnership articles. After difficulty recalling the old records, Bahan identified her signature and tax number and acknowledged that she had been a partner and later withdrawn. The records placed her partnership between 2003 and 2015, overlapping permanent city employment from 2004. Sen. Joel Villanueva read her affidavit recording resignation effective August 1, 2015. Bahan described herself as a partner in name rather than a functioning partner, said she received meeting allowances, and denied introducing the firm to the Dutertes. On redirect, the defense elicited that the capital listed under her name was 1,000 pesos out of 19,000 pesos and described that contribution as nominal."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01217_M02",
+          "start_seconds": 13927.86,
+          "clock": "03:52:07",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01457",
+          "start_seconds": 15955.369999999999,
+          "clock": "04:25:55",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01475",
+          "start_seconds": 16212.45,
+          "clock": "04:30:12",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01477",
+          "start_seconds": 16261.05,
+          "clock": "04:31:01",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01485",
+          "start_seconds": 16347.96,
+          "clock": "04:32:27",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01486",
+          "start_seconds": 16353.64,
+          "clock": "04:32:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01775",
+          "start_seconds": 18444.07,
+          "clock": "05:07:24",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01461",
+          "start_seconds": 16017.99,
+          "clock": "04:26:57",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01481",
+          "start_seconds": 16319.13,
+          "clock": "04:31:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01484_M02",
+          "start_seconds": 16344.75,
+          "clock": "04:32:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01971",
+          "start_seconds": 19768.31,
+          "clock": "05:29:28",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01972",
+          "start_seconds": 19774.81,
+          "clock": "05:29:34",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01979",
+          "start_seconds": 19788.86,
+          "clock": "05:29:48",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01980",
+          "start_seconds": 19801.24,
+          "clock": "05:30:01",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01981",
+          "start_seconds": 19802.34,
+          "clock": "05:30:02",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01984",
+          "start_seconds": 19818.51,
+          "clock": "05:30:18",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01985",
+          "start_seconds": 19823.95,
+          "clock": "05:30:23",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01392",
+          "start_seconds": 15176.25,
+          "clock": "04:12:56",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01394",
+          "start_seconds": 15205.23,
+          "clock": "04:13:25",
+          "speaker_name": "Atty. Mae Sancho Divinagracia"
+        },
+        {
+          "segment_id": "S01398",
+          "start_seconds": 15222.6,
+          "clock": "04:13:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01400",
+          "start_seconds": 15229.19,
+          "clock": "04:13:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01401",
+          "start_seconds": 15403.28,
+          "clock": "04:16:43",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02144",
+          "start_seconds": 21142.02,
+          "clock": "05:52:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02156",
+          "start_seconds": 21183.35,
+          "clock": "05:53:03",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S02159",
+          "start_seconds": 21233.09,
+          "clock": "05:53:53",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02165",
+          "start_seconds": 21251.45,
+          "clock": "05:54:11",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02166",
+          "start_seconds": 21253.39,
+          "clock": "05:54:13",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S02170",
+          "start_seconds": 21291.42,
+          "clock": "05:54:51",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S02171",
+          "start_seconds": 21309.0,
+          "clock": "05:55:09",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02190",
+          "start_seconds": 21370.5,
+          "clock": "05:56:10",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S02192",
+          "start_seconds": 21386.66,
+          "clock": "05:56:26",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02196",
+          "start_seconds": 21406.48,
+          "clock": "05:56:46",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02198",
+          "start_seconds": 21420.3,
+          "clock": "05:57:00",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02203",
+          "start_seconds": 21432.22,
+          "clock": "05:57:12",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02205",
+          "start_seconds": 21439.6,
+          "clock": "05:57:19",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02207",
+          "start_seconds": 21454.03,
+          "clock": "05:57:34",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02208_L1",
+          "start_seconds": 21462.09,
+          "clock": "05:57:42",
+          "speaker_name": "Vingeline A. Bahan"
+        }
+      ],
+      "heading": "Why the partnership mattered",
+      "id": "P013",
+      "kind": "finding",
+      "text": "Atty. Mae Sancho Divinagracia said the partnership questions tested bias and interest, using corporate records to connect former partners with companies discussed in the case. Bahan said she did not know the later client relationships. The chair noted that later-year records postdated her 2015 departure and allowed questions about that work if she knew the answers. Sen. Francis \"Kiko\" Pangilinan questioned the overlap of city employment and partnership and whether she disclosed the interest in her SALNs; Bahan said she would check. He requested a recess so the defense could receive the amended articles, which the chair granted. Sen. Paolo Benigno \"Bam\" Aquino challenged her difficulty recalling partnership compensation and responsibilities compared with her direct salary-differential answers. She continued to describe her role as a partner in name."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01846",
+          "start_seconds": 18991.25,
+          "clock": "05:16:31",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01848",
+          "start_seconds": 19018.14,
+          "clock": "05:16:58",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01849",
+          "start_seconds": 19042.53,
+          "clock": "05:17:22",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01857",
+          "start_seconds": 19068.71,
+          "clock": "05:17:48",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01858",
+          "start_seconds": 19081.39,
+          "clock": "05:18:01",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01859",
+          "start_seconds": 19096.16,
+          "clock": "05:18:16",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01860",
+          "start_seconds": 19101.3,
+          "clock": "05:18:21",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02432",
+          "start_seconds": 22539.6,
+          "clock": "06:15:39",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S02447",
+          "start_seconds": 22712.92,
+          "clock": "06:18:32",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S02448",
+          "start_seconds": 22741.31,
+          "clock": "06:19:01",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02450",
+          "start_seconds": 22753.83,
+          "clock": "06:19:13",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02452",
+          "start_seconds": 22766.45,
+          "clock": "06:19:26",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02455",
+          "start_seconds": 22798.34,
+          "clock": "06:19:58",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02457",
+          "start_seconds": 22812.56,
+          "clock": "06:20:12",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02459",
+          "start_seconds": 22822.33,
+          "clock": "06:20:22",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02036",
+          "start_seconds": 20188.72,
+          "clock": "05:36:28",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02073",
+          "start_seconds": 20643.35,
+          "clock": "05:44:03",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S01345",
+          "start_seconds": 14815.02,
+          "clock": "04:06:55",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01346",
+          "start_seconds": 14819.16,
+          "clock": "04:06:59",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01347",
+          "start_seconds": 14852.18,
+          "clock": "04:07:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02623",
+          "start_seconds": 24245.09,
+          "clock": "06:44:05",
+          "speaker_name": "Sen. Manuel “Lito” M. Lapid"
+        },
+        {
+          "segment_id": "S41L_lapid_opening",
+          "start_seconds": 24189.78,
+          "clock": "06:43:09",
+          "speaker_name": "Sen. Manuel “Lito” M. Lapid"
+        },
+        {
+          "segment_id": "S41L_lapid_used_question",
+          "start_seconds": 24258.58,
+          "clock": "06:44:18",
+          "speaker_name": "Sen. Manuel “Lito” M. Lapid"
+        },
+        {
+          "segment_id": "S41L_lapid_used_reply",
+          "start_seconds": 24261.74,
+          "clock": "06:44:21",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S41L_lapid_not_used_reply",
+          "start_seconds": 24299.04,
+          "clock": "06:44:59",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02040",
+          "start_seconds": 20225.02,
+          "clock": "05:37:05",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02040_L1",
+          "start_seconds": 20228.6,
+          "clock": "05:37:08",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02041",
+          "start_seconds": 20228.86,
+          "clock": "05:37:08",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02043",
+          "start_seconds": 20246.94,
+          "clock": "05:37:26",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02044_L1",
+          "start_seconds": 20254.64,
+          "clock": "05:37:34",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02045",
+          "start_seconds": 20286.89,
+          "clock": "05:38:06",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02001_L6",
+          "start_seconds": 19951.83,
+          "clock": "05:32:31",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02003",
+          "start_seconds": 19956.65,
+          "clock": "05:32:36",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02004",
+          "start_seconds": 19957.75,
+          "clock": "05:32:37",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02005",
+          "start_seconds": 19958.29,
+          "clock": "05:32:38",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02067",
+          "start_seconds": 20553.0,
+          "clock": "05:42:33",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02069",
+          "start_seconds": 20584.63,
+          "clock": "05:43:04",
+          "speaker_name": "Vingeline A. Bahan"
+        },
+        {
+          "segment_id": "S02072",
+          "start_seconds": 20591.11,
+          "clock": "05:43:11",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02076",
+          "start_seconds": 20653.87,
+          "clock": "05:44:13",
+          "speaker_name": "Sen. Risa Hontiveros"
+        }
+      ],
+      "heading": "City payments and credibility",
+      "id": "P014",
+      "kind": "finding",
+      "text": "Senators also pursued the accountant's responsibilities for city transactions. Sen. Erwin Tulfo requested GenCorp and Prime Bistro payment records; Bahan could not recall specific vouchers and said paid records were with COA. The chair directed the Clerk to furnish the requested records. Sen. Joel Villanueva questioned GenCorp contracts and the firm's connections; Bahan described accounting checks for complete supporting documents and available funds after procurement processes. Sen. Risa Hontiveros challenged her inability to recall business payments and her explanation that ownership was absent from supporting documents. Hontiveros also questioned her appointment and China travel. Bahan denied friendship with Duterte, cited her qualifications, and said she and friends funded their trip themselves. Sen. Raffy T. Tulfo proposed contempt over answers he described as evasive; the chair noted the proposal. Sen. Manuel \"Lito\" M. Lapid urged truthful answers and asked whether she was being used. Bahan denied that twice."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02629",
+          "start_seconds": 24315.97,
+          "clock": "06:45:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02632",
+          "start_seconds": 24342.72,
+          "clock": "06:45:42",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S02636",
+          "start_seconds": 24388.27,
+          "clock": "06:46:28",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02642",
+          "start_seconds": 24453.74,
+          "clock": "06:47:33",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S02643",
+          "start_seconds": 24492.98,
+          "clock": "06:48:12",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S02645",
+          "start_seconds": 24613.34,
+          "clock": "06:50:13",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02653",
+          "start_seconds": 24815.3,
+          "clock": "06:53:35",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S02658",
+          "start_seconds": 24838.68,
+          "clock": "06:53:58",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00853",
+          "start_seconds": 7721.4400000000005,
+          "clock": "02:08:41",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00858",
+          "start_seconds": 7838.98,
+          "clock": "02:10:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00866_E2",
+          "start_seconds": 7870.28,
+          "clock": "02:11:10",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00021",
+          "start_seconds": 783.09,
+          "clock": "00:13:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00022",
+          "start_seconds": 796.86,
+          "clock": "00:13:16",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00024",
+          "start_seconds": 879.85,
+          "clock": "00:14:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Reserved testimony and other directions",
+      "id": "P015",
+      "kind": "finding",
+      "text": "Near the close, Sen. Raffy T. Tulfo asked the defense to identify and present the SALN preparer, citing what he described as discrepancies in corporate and asset records and additional property titles. Sison reserved a later manifestation about the preparer or whether Duterte herself would testify. She said the claimed NBI-sourced information was new to the defense, emphasized that the prosecution retained the burden of proof, and said a listed GenCorp witness would address that issue. Separately, Sison complained about Tolosa's press-conference statements under the sub judice rule. The chair took that complaint under advisement, with the prosecution to have an opportunity to respond. The Clerk was also directed to follow up the previous assessor witness's outstanding property and travel information."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02668",
+          "start_seconds": 24944.21,
+          "clock": "06:55:44",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02672_L1",
+          "start_seconds": 24974.67,
+          "clock": "06:56:14",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S41L_judicial_notice_0",
+          "start_seconds": 25008.86,
+          "clock": "06:56:48",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02679",
+          "start_seconds": 25019.99,
+          "clock": "06:56:59",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02680",
+          "start_seconds": 25042.2,
+          "clock": "06:57:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02696",
+          "start_seconds": 25169.9,
+          "clock": "06:59:29",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02681",
+          "start_seconds": 25068.48,
+          "clock": "06:57:48",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02682",
+          "start_seconds": 25071.91,
+          "clock": "06:57:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02683",
+          "start_seconds": 25092.11,
+          "clock": "06:58:12",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S02685",
+          "start_seconds": 25107.21,
+          "clock": "06:58:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02687",
+          "start_seconds": 25107.27,
+          "clock": "06:58:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02689",
+          "start_seconds": 25108.57,
+          "clock": "06:58:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The next sitting",
+      "id": "P016",
+      "kind": "finding",
+      "text": "Bahan was excused after examination. The defense withdrew Cindy Colina, Punong Barangay of Matina Crossing, and the chair recalled her subpoena. Sison reserved a possible motion for judicial notice concerning barangay geographical divisions. The defense was to continue with Atty. Suzette Balucanag Punay, followed by bank representatives in their requested subpoena order. Additional documents for Punay were to be copied for the prosecution and court. Trial was adjourned until ten a.m. the following day."
+    },
+    {
+      "citations": [],
+      "heading": "Closing",
+      "id": "P017",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the November 10, 2026 audio overview."
+    }
+  ],
+  "source_digest_id": 104,
+  "source_digest_sha256": "3250e69161e5906f243c74aa36dd5364dc9d0f1e69915a957f130a4a42807141",
+  "title": "November 10, 2026: Samal property records and Davao salary differentials"
+}
