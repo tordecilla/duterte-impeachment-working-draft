@@ -1,0 +1,3153 @@
+{
+  "description": "Corporate records, disputed investment payments and all fourteen substantive senator-judge contributions from November 11, 2026.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for November 11, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00025",
+          "start_seconds": 610.32,
+          "clock": "00:10:10",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00093",
+          "start_seconds": 1890.1,
+          "clock": "00:31:30",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00097",
+          "start_seconds": 1926.68,
+          "clock": "00:32:06",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00099",
+          "start_seconds": 1939.41,
+          "clock": "00:32:19",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00101",
+          "start_seconds": 1962.59,
+          "clock": "00:32:42",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00922",
+          "start_seconds": 12240.36,
+          "clock": "03:24:00",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00924",
+          "start_seconds": 12251.69,
+          "clock": "03:24:11",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00933",
+          "start_seconds": 12343.9,
+          "clock": "03:25:43",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00703",
+          "start_seconds": 7402.78,
+          "clock": "02:03:22",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00748",
+          "start_seconds": 7694.11,
+          "clock": "02:08:14",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00750",
+          "start_seconds": 7709.17,
+          "clock": "02:08:29",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00754",
+          "start_seconds": 7742.57,
+          "clock": "02:09:02",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00759",
+          "start_seconds": 7793.91,
+          "clock": "02:09:53",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00761",
+          "start_seconds": 7819.97,
+          "clock": "02:10:19",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00763",
+          "start_seconds": 7844.27,
+          "clock": "02:10:44",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00778",
+          "start_seconds": 8014.12,
+          "clock": "02:13:34",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00780",
+          "start_seconds": 8018.6900000000005,
+          "clock": "02:13:38",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00781",
+          "start_seconds": 8022.53,
+          "clock": "02:13:42",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00697",
+          "start_seconds": 7335.19,
+          "clock": "02:02:15",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00698",
+          "start_seconds": 7376.75,
+          "clock": "02:02:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00701",
+          "start_seconds": 7387.38,
+          "clock": "02:03:07",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00751",
+          "start_seconds": 7715.35,
+          "clock": "02:08:35",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00752",
+          "start_seconds": 7739.57,
+          "clock": "02:08:59",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00755",
+          "start_seconds": 7756.57,
+          "clock": "02:09:16",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00756",
+          "start_seconds": 7778.83,
+          "clock": "02:09:38",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00757",
+          "start_seconds": 7788.67,
+          "clock": "02:09:48",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01534",
+          "start_seconds": 17424.98,
+          "clock": "04:50:24",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01543",
+          "start_seconds": 17586.84,
+          "clock": "04:53:06",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01588",
+          "start_seconds": 17973.47,
+          "clock": "04:59:33",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01589",
+          "start_seconds": 17984.64,
+          "clock": "04:59:44",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01600",
+          "start_seconds": 18123.29,
+          "clock": "05:02:03",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01625",
+          "start_seconds": 18291.4,
+          "clock": "05:04:51",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01641",
+          "start_seconds": 18386.55,
+          "clock": "05:06:26",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01650",
+          "start_seconds": 18558.71,
+          "clock": "05:09:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02549",
+          "start_seconds": 27138.51,
+          "clock": "07:32:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02550",
+          "start_seconds": 27190.23,
+          "clock": "07:33:10",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02582",
+          "start_seconds": 27481.9,
+          "clock": "07:38:01",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02746",
+          "start_seconds": 28812.17,
+          "clock": "08:00:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The central dispute",
+      "id": "P002",
+      "kind": "finding",
+      "text": "The day's defense witness was Attorney Suzette Balucanag-Punay, in-house counsel for GenCorp Industries and Metro City Chow Foods. Her testimony challenged the corporate ownership and income calculations in Attorney Alexander Cabrera's forensic report. At the center was a payment summary showing about 2.14 million pesos in disbursements to the Vice President from 2022 through 2025. Punay described those payments as returned capital. The prosecution and several senator-judges challenged that explanation and asked for the investment agreement, actual checks and accounting entries."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00160",
+          "start_seconds": 2627.44,
+          "clock": "00:43:47",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00163",
+          "start_seconds": 2646.85,
+          "clock": "00:44:06",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00203",
+          "start_seconds": 3099.45,
+          "clock": "00:51:39",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00205",
+          "start_seconds": 3111.48,
+          "clock": "00:51:51",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00207",
+          "start_seconds": 3124.5,
+          "clock": "00:52:04",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00247",
+          "start_seconds": 3720.29,
+          "clock": "01:02:00",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00249",
+          "start_seconds": 3734.03,
+          "clock": "01:02:14",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00251",
+          "start_seconds": 3752.08,
+          "clock": "01:02:32",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00256",
+          "start_seconds": 3787.2,
+          "clock": "01:03:07",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00258",
+          "start_seconds": 3803.98,
+          "clock": "01:03:23",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00260",
+          "start_seconds": 3818.04,
+          "clock": "01:03:38",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00306",
+          "start_seconds": 4511.37,
+          "clock": "01:15:11",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00308_E02",
+          "start_seconds": 4554.79,
+          "clock": "01:15:54",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00311",
+          "start_seconds": 4588.75,
+          "clock": "01:16:28",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00322",
+          "start_seconds": 4702.39,
+          "clock": "01:18:22",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00366",
+          "start_seconds": 4969.8,
+          "clock": "01:22:49",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00368",
+          "start_seconds": 4982.39,
+          "clock": "01:23:02",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00443",
+          "start_seconds": 5357.24,
+          "clock": "01:29:17",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00476",
+          "start_seconds": 5592.74,
+          "clock": "01:33:12",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00486",
+          "start_seconds": 5636.28,
+          "clock": "01:33:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02335",
+          "start_seconds": 25016.84,
+          "clock": "06:56:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00609",
+          "start_seconds": 6427.49,
+          "clock": "01:47:07",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00613",
+          "start_seconds": 6481.98,
+          "clock": "01:48:01",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00615",
+          "start_seconds": 6523.15,
+          "clock": "01:48:43",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00665",
+          "start_seconds": 6977.95,
+          "clock": "01:56:17",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00667",
+          "start_seconds": 6999.05,
+          "clock": "01:56:39",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00669",
+          "start_seconds": 7010.63,
+          "clock": "01:56:50",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00671",
+          "start_seconds": 7050.37,
+          "clock": "01:57:30",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00673",
+          "start_seconds": 7084.59,
+          "clock": "01:58:04",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00675",
+          "start_seconds": 7103.75,
+          "clock": "01:58:23",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00678",
+          "start_seconds": 7126.46,
+          "clock": "01:58:46",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "What the witness brought",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Let's begin with the corporate records. Punay said GenCorp's information sheets for 2022 through 2025 accurately listed its shareholders, and that Duterte held neither shares nor a corporate position there. She disputed Cabrera's attribution of a twenty percent stake and 250,000 pesos in paid-up capital. GenCorp operated five Jollibee stores, consolidated gradually from predecessor companies. Punay traced Duterte's investment to Davao Bounty in 2007, then through successor companies to GenCorp, while remaining tied to the Times Square store. She called it a loose investment."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00703",
+          "start_seconds": 7402.78,
+          "clock": "02:03:22",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00748",
+          "start_seconds": 7694.11,
+          "clock": "02:08:14",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00750",
+          "start_seconds": 7709.17,
+          "clock": "02:08:29",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00754",
+          "start_seconds": 7742.57,
+          "clock": "02:09:02",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00759",
+          "start_seconds": 7793.91,
+          "clock": "02:09:53",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00761",
+          "start_seconds": 7819.97,
+          "clock": "02:10:19",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00763",
+          "start_seconds": 7844.27,
+          "clock": "02:10:44",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00778",
+          "start_seconds": 8014.12,
+          "clock": "02:13:34",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00780",
+          "start_seconds": 8018.6900000000005,
+          "clock": "02:13:38",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00781",
+          "start_seconds": 8022.53,
+          "clock": "02:13:42",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00697",
+          "start_seconds": 7335.19,
+          "clock": "02:02:15",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00698",
+          "start_seconds": 7376.75,
+          "clock": "02:02:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00701",
+          "start_seconds": 7387.38,
+          "clock": "02:03:07",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00751",
+          "start_seconds": 7715.35,
+          "clock": "02:08:35",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00752",
+          "start_seconds": 7739.57,
+          "clock": "02:08:59",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00755",
+          "start_seconds": 7756.57,
+          "clock": "02:09:16",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00756",
+          "start_seconds": 7778.83,
+          "clock": "02:09:38",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00757",
+          "start_seconds": 7788.67,
+          "clock": "02:09:48",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00794",
+          "start_seconds": 8096.26,
+          "clock": "02:14:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00805",
+          "start_seconds": 8198.91,
+          "clock": "02:16:38",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01534",
+          "start_seconds": 17424.98,
+          "clock": "04:50:24",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S42M_S01534_1",
+          "start_seconds": 17531.97,
+          "clock": "04:52:11",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01557",
+          "start_seconds": 17688.66,
+          "clock": "04:54:48",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01618",
+          "start_seconds": 18244.4,
+          "clock": "05:04:04",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02007",
+          "start_seconds": 22357.33,
+          "clock": "06:12:37",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02253",
+          "start_seconds": 24411.34,
+          "clock": "06:46:51",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02258",
+          "start_seconds": 24451.04,
+          "clock": "06:47:31",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02314",
+          "start_seconds": 24761.07,
+          "clock": "06:52:41",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02315",
+          "start_seconds": 24767.05,
+          "clock": "06:52:47",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S02316",
+          "start_seconds": 24777.39,
+          "clock": "06:52:57",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02318",
+          "start_seconds": 24805.52,
+          "clock": "06:53:25",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02373",
+          "start_seconds": 25380.46,
+          "clock": "07:03:00",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "Payments and their documentation",
+      "id": "P004",
+      "kind": "finding",
+      "text": "The accountant's summary listed roughly 337,500 pesos in 2022, 555,750 in 2023, 612,419 in 2024 and 636,700 in 2025. Punay said the checks came from the Times Square branch account. She compared that summary with Cabrera's much larger GenCorp undeclared-income figures. But she had no written investment agreement or verifiable record of the full investment amount. She also had no cancelled checks, could not confirm deposits, and did not know the payment formula or journal entries. Those gaps drove much of the later questioning."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00941",
+          "start_seconds": 12407.1,
+          "clock": "03:26:47",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00945",
+          "start_seconds": 12436.48,
+          "clock": "03:27:16",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00957",
+          "start_seconds": 12513.97,
+          "clock": "03:28:33",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42M_S00961_3",
+          "start_seconds": 12552.57,
+          "clock": "03:29:12",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00968",
+          "start_seconds": 12591.64,
+          "clock": "03:29:51",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00969",
+          "start_seconds": 12600.11,
+          "clock": "03:30:00",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00970",
+          "start_seconds": 12607.94,
+          "clock": "03:30:07",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00973",
+          "start_seconds": 12627.36,
+          "clock": "03:30:27",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00975",
+          "start_seconds": 12656.04,
+          "clock": "03:30:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00977",
+          "start_seconds": 12678.09,
+          "clock": "03:31:18",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00983",
+          "start_seconds": 12747.94,
+          "clock": "03:32:27",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01018",
+          "start_seconds": 13047.72,
+          "clock": "03:37:27",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01808",
+          "start_seconds": 20656.58,
+          "clock": "05:44:16",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42M_S01815_2",
+          "start_seconds": 20716.5,
+          "clock": "05:45:16",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42M_S01815_4",
+          "start_seconds": 20727.38,
+          "clock": "05:45:27",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01837",
+          "start_seconds": 20849.2,
+          "clock": "05:47:29",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42M_S01838_3",
+          "start_seconds": 20866.34,
+          "clock": "05:47:46",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01823",
+          "start_seconds": 20790.22,
+          "clock": "05:46:30",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02279",
+          "start_seconds": 24558.1,
+          "clock": "06:49:18",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02281",
+          "start_seconds": 24560.26,
+          "clock": "06:49:20",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01750",
+          "start_seconds": 19549.44,
+          "clock": "05:25:49",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01752",
+          "start_seconds": 19579.93,
+          "clock": "05:26:19",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01758",
+          "start_seconds": 19651.29,
+          "clock": "05:27:31",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01785",
+          "start_seconds": 19945.86,
+          "clock": "05:32:25",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01787",
+          "start_seconds": 19965.61,
+          "clock": "05:32:45",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01789",
+          "start_seconds": 19975.91,
+          "clock": "05:32:55",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42M_S01318_3",
+          "start_seconds": 15166.89,
+          "clock": "04:12:46",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42M_S01323_1",
+          "start_seconds": 15177.78,
+          "clock": "04:12:57",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01327",
+          "start_seconds": 15178.64,
+          "clock": "04:12:58",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01328",
+          "start_seconds": 15197.15,
+          "clock": "04:13:17",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01330",
+          "start_seconds": 15205.71,
+          "clock": "04:13:25",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S01867_X4",
+          "start_seconds": 21168.55,
+          "clock": "05:52:48",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01886",
+          "start_seconds": 21331.24,
+          "clock": "05:55:31",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01888",
+          "start_seconds": 21344.27,
+          "clock": "05:55:44",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01895",
+          "start_seconds": 21391.18,
+          "clock": "05:56:31",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02639",
+          "start_seconds": 27800.94,
+          "clock": "07:43:20",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S02640",
+          "start_seconds": 27821.14,
+          "clock": "07:43:41",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02642",
+          "start_seconds": 27824.22,
+          "clock": "07:43:44",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "A different corporate interest",
+      "id": "P005",
+      "kind": "finding",
+      "text": "Metro City Chow presented a different picture. Punay identified Duterte as a twenty percent shareholder, with 12,500 pesos paid up, and as a listed director and compensation-committee member. Punay said she had not seen Duterte at the board meetings she attended, while acknowledging she could not speak for every meeting. She called the committee entry an accounting-staff error and said Metro City Chow paid Duterte nothing. She also acknowledged a GenCorp beneficial-ownership error naming JTC Group of Companies rather than an individual, and an amendment she had advised remained undone."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01399",
+          "start_seconds": 15954.26,
+          "clock": "04:25:54",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01412",
+          "start_seconds": 16122.99,
+          "clock": "04:28:42",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01416",
+          "start_seconds": 16170.2,
+          "clock": "04:29:30",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01444",
+          "start_seconds": 16475.18,
+          "clock": "04:34:35",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01446",
+          "start_seconds": 16557.82,
+          "clock": "04:35:57",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01534",
+          "start_seconds": 17424.98,
+          "clock": "04:50:24",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01543",
+          "start_seconds": 17586.84,
+          "clock": "04:53:06",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01588",
+          "start_seconds": 17973.47,
+          "clock": "04:59:33",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01589",
+          "start_seconds": 17984.64,
+          "clock": "04:59:44",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01600",
+          "start_seconds": 18123.29,
+          "clock": "05:02:03",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01625",
+          "start_seconds": 18291.4,
+          "clock": "05:04:51",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01641",
+          "start_seconds": 18386.55,
+          "clock": "05:06:26",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01650",
+          "start_seconds": 18558.71,
+          "clock": "05:09:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00034",
+          "start_seconds": 683.88,
+          "clock": "00:11:23",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00035",
+          "start_seconds": 740.5,
+          "clock": "00:12:20",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00037",
+          "start_seconds": 781.72,
+          "clock": "00:13:01",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S42E_offer6",
+          "start_seconds": 843.92,
+          "clock": "00:14:03",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00038",
+          "start_seconds": 853.3,
+          "clock": "00:14:13",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00217",
+          "start_seconds": 3261.02,
+          "clock": "00:54:21",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00295",
+          "start_seconds": 4216.51,
+          "clock": "01:10:16",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00301",
+          "start_seconds": 4366.0599999999995,
+          "clock": "01:12:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00535",
+          "start_seconds": 5926.88,
+          "clock": "01:38:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00536",
+          "start_seconds": 5966.9,
+          "clock": "01:39:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00636",
+          "start_seconds": 6808.54,
+          "clock": "01:53:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01424",
+          "start_seconds": 16314.65,
+          "clock": "04:31:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01427",
+          "start_seconds": 16363.16,
+          "clock": "04:32:43",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01431",
+          "start_seconds": 16375.47,
+          "clock": "04:32:55",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01435",
+          "start_seconds": 16389.18,
+          "clock": "04:33:09",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01441",
+          "start_seconds": 16420.82,
+          "clock": "04:33:40",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S01442",
+          "start_seconds": 16434.97,
+          "clock": "04:33:54",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S01443",
+          "start_seconds": 16463.8,
+          "clock": "04:34:23",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02427",
+          "start_seconds": 25830.49,
+          "clock": "07:10:30",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02434",
+          "start_seconds": 25857.53,
+          "clock": "07:10:57",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02438",
+          "start_seconds": 25871.19,
+          "clock": "07:11:11",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02441",
+          "start_seconds": 25908.21,
+          "clock": "07:11:48",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02451",
+          "start_seconds": 25966.01,
+          "clock": "07:12:46",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02458",
+          "start_seconds": 26005.93,
+          "clock": "07:13:25",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02460",
+          "start_seconds": 26019.13,
+          "clock": "07:13:39",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02467",
+          "start_seconds": 26054.41,
+          "clock": "07:14:14",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02473",
+          "start_seconds": 26070.87,
+          "clock": "07:14:30",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02476",
+          "start_seconds": 26093.14,
+          "clock": "07:14:53",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02477",
+          "start_seconds": 26106.95,
+          "clock": "07:15:06",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02478",
+          "start_seconds": 26114.31,
+          "clock": "07:15:14",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02484",
+          "start_seconds": 26153.01,
+          "clock": "07:15:53",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02489",
+          "start_seconds": 26170.47,
+          "clock": "07:16:10",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02494",
+          "start_seconds": 26181.55,
+          "clock": "07:16:21",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02495",
+          "start_seconds": 26183.11,
+          "clock": "07:16:23",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02496",
+          "start_seconds": 26203.0,
+          "clock": "07:16:43",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        }
+      ],
+      "heading": "The parties and the court",
+      "id": "P006",
+      "kind": "finding",
+      "text": "How did the parties frame the dispute? Prosecution counsel Lorna Patajo-Kapunan argued that Duterte's sworn declaration of a GenCorp interest in her SALN carried greater weight than the corporate information sheet. She challenged the returned-capital explanation by comparing the payments with the 46,875-peso paid-up amount in Davao Bounty's articles. Defense counsel Justin Nicol Gular said Punay was challenging the factual premises of the forensic report through corporate records and personal knowledge. Presiding Officer Francis \"Chiz\" G. Escudero allowed that testimony, recorded the prosecution's continuing objection, and left evidentiary weight for the senator-judges."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00062",
+          "start_seconds": 1553.49,
+          "clock": "00:25:53",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00067_E01",
+          "start_seconds": 1686.59,
+          "clock": "00:28:06",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02045",
+          "start_seconds": 22687.59,
+          "clock": "06:18:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02059",
+          "start_seconds": 22784.42,
+          "clock": "06:19:44",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S02066",
+          "start_seconds": 22850.57,
+          "clock": "06:20:50",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S02080",
+          "start_seconds": 22941.24,
+          "clock": "06:22:21",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02580",
+          "start_seconds": 27470.68,
+          "clock": "07:37:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02582",
+          "start_seconds": 27481.9,
+          "clock": "07:38:01",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02595",
+          "start_seconds": 27550.82,
+          "clock": "07:39:10",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S02611",
+          "start_seconds": 27600.24,
+          "clock": "07:40:00",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02614",
+          "start_seconds": 27628.05,
+          "clock": "07:40:28",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S02617",
+          "start_seconds": 27664.22,
+          "clock": "07:41:04",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S02632",
+          "start_seconds": 27736.93,
+          "clock": "07:42:16",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S02639",
+          "start_seconds": 27800.94,
+          "clock": "07:43:20",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S42L_gap11_4",
+          "start_seconds": 27850.440000000002,
+          "clock": "07:44:10",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S02648",
+          "start_seconds": 27864.28,
+          "clock": "07:44:24",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S02656",
+          "start_seconds": 27917.57,
+          "clock": "07:45:17",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "Pangilinan: disclosure and reliability",
+      "id": "P007",
+      "kind": "finding",
+      "text": "Sen. Francis “Kiko” Pangilinan first sought corporate privilege waivers. The chair presumed authorization and barred selective invocation of corporate privilege, while preserving separate shareholder privilege. Later, Pangilinan questioned Punay's categorical assurances about Duterte's nonparticipation when she received investment disbursements. He pressed the mismatch between GenCorp's records and the SALN declarations, including the disclosure gap he identified for 2022 and 2023. He supported obtaining underlying payment documents and questioned why Punay had not investigated management restrictions behind the auditors' inability to verify cash and observe inventory counting."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00434_E02",
+          "start_seconds": 5321.3,
+          "clock": "01:28:41",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00457",
+          "start_seconds": 5432.82,
+          "clock": "01:30:32",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00459",
+          "start_seconds": 5440.88,
+          "clock": "01:30:40",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00631_E01",
+          "start_seconds": 6749.14,
+          "clock": "01:52:29",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00707",
+          "start_seconds": 7425.15,
+          "clock": "02:03:45",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S42E_return_books",
+          "start_seconds": 7443.95,
+          "clock": "02:04:03",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00791",
+          "start_seconds": 8068.51,
+          "clock": "02:14:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00805",
+          "start_seconds": 8198.91,
+          "clock": "02:16:38",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S00815",
+          "start_seconds": 8252.27,
+          "clock": "02:17:32",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01424",
+          "start_seconds": 16314.65,
+          "clock": "04:31:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01445",
+          "start_seconds": 16528.53,
+          "clock": "04:35:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01578",
+          "start_seconds": 17833.07,
+          "clock": "04:57:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01579",
+          "start_seconds": 17842.08,
+          "clock": "04:57:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01581",
+          "start_seconds": 17865.61,
+          "clock": "04:57:45",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01585",
+          "start_seconds": 17949.18,
+          "clock": "04:59:09",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01674",
+          "start_seconds": 18765.17,
+          "clock": "05:12:45",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01678",
+          "start_seconds": 18807.44,
+          "clock": "05:13:27",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42M_S01779_1",
+          "start_seconds": 19902.12,
+          "clock": "05:31:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01787",
+          "start_seconds": 19965.61,
+          "clock": "05:32:45",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02680",
+          "start_seconds": 28227.16,
+          "clock": "07:50:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02689",
+          "start_seconds": 28327.25,
+          "clock": "07:52:07",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02695",
+          "start_seconds": 28358.34,
+          "clock": "07:52:38",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02699",
+          "start_seconds": 28376.2,
+          "clock": "07:52:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02701",
+          "start_seconds": 28380.99,
+          "clock": "07:53:00",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02703",
+          "start_seconds": 28384.7,
+          "clock": "07:53:04",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02705",
+          "start_seconds": 28403.7,
+          "clock": "07:53:23",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02718",
+          "start_seconds": 28512.58,
+          "clock": "07:55:12",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02728",
+          "start_seconds": 28574.09,
+          "clock": "07:56:14",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02736",
+          "start_seconds": 28660.25,
+          "clock": "07:57:40",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02739",
+          "start_seconds": 28751.89,
+          "clock": "07:59:11",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "Escudero: follow the investment",
+      "id": "P008",
+      "kind": "finding",
+      "text": "Sen. Francis \"Chiz\" G. Escudero repeatedly returned to the chain connecting the original contribution with GenCorp's payments. He asked how the branches had transferred, what Duterte had contributed, and what obligation the successor companies were repaying. Punay had not seen the transfer documents or a written investment agreement and could not verify the amount. Escudero distinguished repayment of capital from earnings on it. In his final round, he established that GenCorp itself bid for and received government contracts, regardless of the supplying branch, and sought a documentary explanation for its payments to Duterte."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00789",
+          "start_seconds": 8050.11,
+          "clock": "02:14:10",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00790",
+          "start_seconds": 8056.1900000000005,
+          "clock": "02:14:16",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02120",
+          "start_seconds": 23252.01,
+          "clock": "06:27:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02124",
+          "start_seconds": 23277.87,
+          "clock": "06:27:57",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02126",
+          "start_seconds": 23322.41,
+          "clock": "06:28:42",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02129",
+          "start_seconds": 23346.01,
+          "clock": "06:29:06",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02133",
+          "start_seconds": 23383.88,
+          "clock": "06:29:43",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S42L_S02137_2",
+          "start_seconds": 23442.9,
+          "clock": "06:30:42",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02140_2",
+          "start_seconds": 23453.9,
+          "clock": "06:30:53",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02144",
+          "start_seconds": 23507.38,
+          "clock": "06:31:47",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02149",
+          "start_seconds": 23535.62,
+          "clock": "06:32:15",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02152",
+          "start_seconds": 23555.9,
+          "clock": "06:32:35",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02658",
+          "start_seconds": 27931.98,
+          "clock": "07:45:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S42L_S02659_2",
+          "start_seconds": 27970.32,
+          "clock": "07:46:10",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02662_2",
+          "start_seconds": 27993.73,
+          "clock": "07:46:33",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02665",
+          "start_seconds": 28016.09,
+          "clock": "07:46:56",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S02668",
+          "start_seconds": 28094.47,
+          "clock": "07:48:14",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02669_2",
+          "start_seconds": 28110.54,
+          "clock": "07:48:30",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02672",
+          "start_seconds": 28149.51,
+          "clock": "07:49:09",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02674_X2",
+          "start_seconds": 28181.68,
+          "clock": "07:49:41",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02674_X4",
+          "start_seconds": 28205.2,
+          "clock": "07:50:05",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02676_2",
+          "start_seconds": 28215.62,
+          "clock": "07:50:15",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "Hontiveros: continuing financial interests",
+      "id": "P009",
+      "kind": "finding",
+      "text": "Sen. Risa Hontiveros focused on a continuing financial interest. Punay agreed the loose investment carried through to GenCorp and yielded the payments in the summary. Hontiveros characterized the monthly payments as profits and raised the constitutional prohibition on direct or indirect business participation. She also questioned Duterte's continuing Metro City Chow directorship, her shareholding alongside Jaime Cruz, and family business connections. Punay confirmed nineteen GenCorp contracts under Sebastian Duterte's administration and agreed corporate counsel should flag potential conflicts to management and work to ensure compliance."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01424",
+          "start_seconds": 16314.65,
+          "clock": "04:31:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01427",
+          "start_seconds": 16363.16,
+          "clock": "04:32:43",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01431",
+          "start_seconds": 16375.47,
+          "clock": "04:32:55",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01435",
+          "start_seconds": 16389.18,
+          "clock": "04:33:09",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01441",
+          "start_seconds": 16420.82,
+          "clock": "04:33:40",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S01442",
+          "start_seconds": 16434.97,
+          "clock": "04:33:54",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S01443",
+          "start_seconds": 16463.8,
+          "clock": "04:34:23",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02427",
+          "start_seconds": 25830.49,
+          "clock": "07:10:30",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02434",
+          "start_seconds": 25857.53,
+          "clock": "07:10:57",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02438",
+          "start_seconds": 25871.19,
+          "clock": "07:11:11",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02441",
+          "start_seconds": 25908.21,
+          "clock": "07:11:48",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02451",
+          "start_seconds": 25966.01,
+          "clock": "07:12:46",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02458",
+          "start_seconds": 26005.93,
+          "clock": "07:13:25",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02460",
+          "start_seconds": 26019.13,
+          "clock": "07:13:39",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02467",
+          "start_seconds": 26054.41,
+          "clock": "07:14:14",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02473",
+          "start_seconds": 26070.87,
+          "clock": "07:14:30",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02476",
+          "start_seconds": 26093.14,
+          "clock": "07:14:53",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02477",
+          "start_seconds": 26106.95,
+          "clock": "07:15:06",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02478",
+          "start_seconds": 26114.31,
+          "clock": "07:15:14",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02484",
+          "start_seconds": 26153.01,
+          "clock": "07:15:53",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02489",
+          "start_seconds": 26170.47,
+          "clock": "07:16:10",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02494",
+          "start_seconds": 26181.55,
+          "clock": "07:16:21",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02495",
+          "start_seconds": 26183.11,
+          "clock": "07:16:23",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S02496",
+          "start_seconds": 26203.0,
+          "clock": "07:16:43",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        }
+      ],
+      "heading": "Lacson: records and financial scale",
+      "id": "P010",
+      "kind": "finding",
+      "text": "Sen. Panfilo “Ping” M. Lacson asked why a notarized SALN admission should carry less weight than SEC records. Gular answered that the admissions rule concerned a hearsay exception rather than comparative weight; the chair left appreciation to individual judges. Lacson also questioned franchise-acquisition costs and GenCorp's sales, tax and net-income figures. Punay explained that existing franchises transferred gradually and were renewed at lower cost, but could not supply new-franchise costs or explain tax treatment. Lacson said he would weigh her testimony against Cabrera's and the rest of the evidence."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01590",
+          "start_seconds": 17991.26,
+          "clock": "04:59:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01595",
+          "start_seconds": 18069.3,
+          "clock": "05:01:09",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01980",
+          "start_seconds": 22147.28,
+          "clock": "06:09:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01990",
+          "start_seconds": 22208.67,
+          "clock": "06:10:08",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01994",
+          "start_seconds": 22240.32,
+          "clock": "06:10:40",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02002",
+          "start_seconds": 22302.62,
+          "clock": "06:11:42",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02010",
+          "start_seconds": 22377.86,
+          "clock": "06:12:57",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02012",
+          "start_seconds": 22412.26,
+          "clock": "06:13:32",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02016",
+          "start_seconds": 22418.02,
+          "clock": "06:13:38",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02025",
+          "start_seconds": 22501.66,
+          "clock": "06:15:01",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02029",
+          "start_seconds": 22580.01,
+          "clock": "06:16:20",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02031",
+          "start_seconds": 22592.22,
+          "clock": "06:16:32",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02033",
+          "start_seconds": 22616.28,
+          "clock": "06:16:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02035_2",
+          "start_seconds": 22622.09,
+          "clock": "06:17:02",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02037",
+          "start_seconds": 22625.99,
+          "clock": "06:17:05",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02041",
+          "start_seconds": 22635.27,
+          "clock": "06:17:15",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "Raffy Tulfo: obtain the checks",
+      "id": "P011",
+      "kind": "finding",
+      "text": "Sen. Raffy T. Tulfo challenged Punay's preparedness. Why call more than two million pesos returned capital without the cancelled checks, contracts or verification of additional investments? Punay said the small amount in Davao Bounty's articles did not establish whether other investments existed, but she had found no verifiable document. She had not requested cancelled-check copies and said data extraction was the fastest way to supply information. Tulfo urged further inquiry and suggested an unwritten arrangement. Punay declined to speculate."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01609",
+          "start_seconds": 18176.19,
+          "clock": "05:02:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01611",
+          "start_seconds": 18191.69,
+          "clock": "05:03:11",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S01618",
+          "start_seconds": 18244.4,
+          "clock": "05:04:04",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02260",
+          "start_seconds": 24459.05,
+          "clock": "06:47:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02269",
+          "start_seconds": 24526.9,
+          "clock": "06:48:46",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02277",
+          "start_seconds": 24546.06,
+          "clock": "06:49:06",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02283",
+          "start_seconds": 24565.52,
+          "clock": "06:49:25",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02293",
+          "start_seconds": 24617.79,
+          "clock": "06:50:17",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02295",
+          "start_seconds": 24626.82,
+          "clock": "06:50:26",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02303",
+          "start_seconds": 24672.32,
+          "clock": "06:51:12",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S02307",
+          "start_seconds": 24725.84,
+          "clock": "06:52:05",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02314",
+          "start_seconds": 24761.07,
+          "clock": "06:52:41",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02318",
+          "start_seconds": 24805.52,
+          "clock": "06:53:25",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02321",
+          "start_seconds": 24834.77,
+          "clock": "06:53:54",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S42L_S02325_2",
+          "start_seconds": 24896.04,
+          "clock": "06:54:56",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        }
+      ],
+      "heading": "Aquino: explain the formula",
+      "id": "P012",
+      "kind": "finding",
+      "text": "Sen. Paolo Benigno “Bam” Aquino asked how the varying monthly payments were computed, whether they continued in 2026, and whether the checks were actually deposited. Punay could not establish those points. She had requested only 2022-through-2025 data and was outside accounting. Aquino suggested December spikes indicated profit-linked payments and sought a complete sworn account of the amounts, receipt and formula before the trial ended. Defense counsel Michael Wesley Poa promised a proper witness to address the gaps before the defense closed its evidence-in-chief."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01941",
+          "start_seconds": 21817.72,
+          "clock": "06:03:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01948",
+          "start_seconds": 21854.56,
+          "clock": "06:04:14",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01953",
+          "start_seconds": 21878.81,
+          "clock": "06:04:38",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01958",
+          "start_seconds": 21902.99,
+          "clock": "06:05:02",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01963",
+          "start_seconds": 21926.97,
+          "clock": "06:05:26",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01964",
+          "start_seconds": 21962.38,
+          "clock": "06:06:02",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01966",
+          "start_seconds": 21973.44,
+          "clock": "06:06:13",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01967",
+          "start_seconds": 21980.67,
+          "clock": "06:06:20",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01968",
+          "start_seconds": 21982.43,
+          "clock": "06:06:22",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01969",
+          "start_seconds": 22000.13,
+          "clock": "06:06:40",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S01974_2",
+          "start_seconds": 22027.89,
+          "clock": "06:07:07",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01975",
+          "start_seconds": 22084.15,
+          "clock": "06:08:04",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01976",
+          "start_seconds": 22112.86,
+          "clock": "06:08:32",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S01977",
+          "start_seconds": 22133.02,
+          "clock": "06:08:53",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02542",
+          "start_seconds": 27063.41,
+          "clock": "07:31:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02544",
+          "start_seconds": 27087.5,
+          "clock": "07:31:27",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S02546",
+          "start_seconds": 27115.73,
+          "clock": "07:31:55",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02553_2",
+          "start_seconds": 27196.43,
+          "clock": "07:33:16",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S02554",
+          "start_seconds": 27205.17,
+          "clock": "07:33:25",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02558",
+          "start_seconds": 27239.54,
+          "clock": "07:33:59",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02559",
+          "start_seconds": 27242.24,
+          "clock": "07:34:02",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S02560",
+          "start_seconds": 27260.13,
+          "clock": "07:34:20",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S02561",
+          "start_seconds": 27283.69,
+          "clock": "07:34:43",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02566",
+          "start_seconds": 27309.75,
+          "clock": "07:35:09",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S02567",
+          "start_seconds": 27321.49,
+          "clock": "07:35:21",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02568",
+          "start_seconds": 27324.51,
+          "clock": "07:35:24",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S02569",
+          "start_seconds": 27332.81,
+          "clock": "07:35:32",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02574",
+          "start_seconds": 27356.74,
+          "clock": "07:35:56",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S02575",
+          "start_seconds": 27383.41,
+          "clock": "07:36:23",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S02576",
+          "start_seconds": 27419.47,
+          "clock": "07:36:59",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S02577",
+          "start_seconds": 27464.14,
+          "clock": "07:37:44",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        }
+      ],
+      "heading": "Erwin Tulfo: trace and classify",
+      "id": "P013",
+      "kind": "finding",
+      "text": "Sen. Erwin Tulfo questioned how an investment could pass through several companies without stockholding, despite the SALN declarations. Punay distinguished investment in a branch from subscription to corporate shares. He also sought cancelled checks, vouchers and tax information, and challenged the relationship between sales and net income. Punay relied on audited statements, could not explain the annual repayments, and agreed to check whether tax had been deducted. When Tulfo pressed the SALN discrepancy, Gular said further witnesses and evidence would address it."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S42L_gap03_2",
+          "start_seconds": 23007.960000000003,
+          "clock": "06:23:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02088",
+          "start_seconds": 23036.92,
+          "clock": "06:23:56",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02089",
+          "start_seconds": 23046.11,
+          "clock": "06:24:06",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02096",
+          "start_seconds": 23075.76,
+          "clock": "06:24:35",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02098",
+          "start_seconds": 23091.14,
+          "clock": "06:24:51",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02100",
+          "start_seconds": 23099.99,
+          "clock": "06:24:59",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02102",
+          "start_seconds": 23105.12,
+          "clock": "06:25:05",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02104",
+          "start_seconds": 23134.2,
+          "clock": "06:25:34",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02106",
+          "start_seconds": 23156.15,
+          "clock": "06:25:56",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S02107",
+          "start_seconds": 23181.15,
+          "clock": "06:26:21",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S42L_S02107_3",
+          "start_seconds": 23187.37,
+          "clock": "06:26:27",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S42L_S02109_2",
+          "start_seconds": 23190.97,
+          "clock": "06:26:30",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02110",
+          "start_seconds": 23197.95,
+          "clock": "06:26:37",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02111",
+          "start_seconds": 23216.66,
+          "clock": "06:26:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02113",
+          "start_seconds": 23225.32,
+          "clock": "06:27:05",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02114",
+          "start_seconds": 23226.54,
+          "clock": "06:27:06",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S42L_S02115_2",
+          "start_seconds": 23231.4,
+          "clock": "06:27:11",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02116",
+          "start_seconds": 23232.38,
+          "clock": "06:27:12",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S02119",
+          "start_seconds": 23250.73,
+          "clock": "06:27:30",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "Sotto: who keeps the records",
+      "id": "P014",
+      "kind": "finding",
+      "text": "Sen. Vicente C. Sotto III asked why the defense had called in-house counsel rather than the corporate secretary, whose duties included meeting minutes and corporate records. Gular said the defense assessed Punay as the person with the most knowledge of these matters. Sotto also explored connections between the companies. Punay confirmed interlocking directors, shared counsel and corporate secretary, and common contact details, auditors and chief financial officer. That exchange examined both the choice of witness and the companies' shared administrative arrangements."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02154",
+          "start_seconds": 23587.59,
+          "clock": "06:33:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02160",
+          "start_seconds": 23622.39,
+          "clock": "06:33:42",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S02175",
+          "start_seconds": 23688.97,
+          "clock": "06:34:48",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02178",
+          "start_seconds": 23715.01,
+          "clock": "06:35:15",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02181",
+          "start_seconds": 23719.46,
+          "clock": "06:35:19",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S02188",
+          "start_seconds": 23777.85,
+          "clock": "06:36:17",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02190",
+          "start_seconds": 23791.75,
+          "clock": "06:36:31",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02192",
+          "start_seconds": 23808.8,
+          "clock": "06:36:48",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02197",
+          "start_seconds": 23836.25,
+          "clock": "06:37:16",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S02198",
+          "start_seconds": 23876.86,
+          "clock": "06:37:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02201",
+          "start_seconds": 23894.82,
+          "clock": "06:38:14",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02203_2",
+          "start_seconds": 23931.45,
+          "clock": "06:38:51",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02204",
+          "start_seconds": 23971.36,
+          "clock": "06:39:31",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S02205",
+          "start_seconds": 24022.4,
+          "clock": "06:40:22",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02524",
+          "start_seconds": 26516.16,
+          "clock": "07:21:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02526",
+          "start_seconds": 26544.04,
+          "clock": "07:22:24",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S02527",
+          "start_seconds": 26621.43,
+          "clock": "07:23:41",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02530",
+          "start_seconds": 26656.81,
+          "clock": "07:24:16",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02531_2",
+          "start_seconds": 26667.75,
+          "clock": "07:24:27",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02532_2",
+          "start_seconds": 26685.11,
+          "clock": "07:24:45",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02533",
+          "start_seconds": 26696.89,
+          "clock": "07:24:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02534_2",
+          "start_seconds": 26718.51,
+          "clock": "07:25:18",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "Villanueva: books and staffing",
+      "id": "P015",
+      "kind": "finding",
+      "text": "Sen. Joel Villanueva sought written evidence of Duterte's corporate participation and asked how the payments appeared in the books. Punay knew no journal entries and described the papers as disbursement summaries. He also challenged employee counts in GenCorp's information sheets: two employees, then zero in 2025, despite its assets and operating branches. Punay agreed the business could not run with two employees and acknowledged errors. Villanueva asked whether the shareholder list might also be inaccurate. She maintained that list was correct and that Duterte was absent from it."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02207",
+          "start_seconds": 24069.96,
+          "clock": "06:41:09",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S42L_gap06",
+          "start_seconds": 24085.35,
+          "clock": "06:41:25",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02210",
+          "start_seconds": 24103.8,
+          "clock": "06:41:43",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02220",
+          "start_seconds": 24140.49,
+          "clock": "06:42:20",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02221",
+          "start_seconds": 24160.58,
+          "clock": "06:42:40",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02223",
+          "start_seconds": 24192.23,
+          "clock": "06:43:12",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02224",
+          "start_seconds": 24197.94,
+          "clock": "06:43:17",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02225",
+          "start_seconds": 24216.6,
+          "clock": "06:43:36",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02228_2",
+          "start_seconds": 24233.62,
+          "clock": "06:43:53",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02229",
+          "start_seconds": 24238.68,
+          "clock": "06:43:58",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02231",
+          "start_seconds": 24247.12,
+          "clock": "06:44:07",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02234",
+          "start_seconds": 24255.24,
+          "clock": "06:44:15",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02237",
+          "start_seconds": 24259.74,
+          "clock": "06:44:19",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02241",
+          "start_seconds": 24278.13,
+          "clock": "06:44:38",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02242",
+          "start_seconds": 24286.91,
+          "clock": "06:44:46",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02243",
+          "start_seconds": 24294.77,
+          "clock": "06:44:54",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02244",
+          "start_seconds": 24296.37,
+          "clock": "06:44:56",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02246",
+          "start_seconds": 24344.39,
+          "clock": "06:45:44",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02248",
+          "start_seconds": 24389.42,
+          "clock": "06:46:29",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02251",
+          "start_seconds": 24395.77,
+          "clock": "06:46:35",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02252",
+          "start_seconds": 24398.01,
+          "clock": "06:46:38",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S02253",
+          "start_seconds": 24411.34,
+          "clock": "06:46:51",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02255",
+          "start_seconds": 24424.05,
+          "clock": "06:47:04",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02258",
+          "start_seconds": 24451.04,
+          "clock": "06:47:31",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "Gatchalian: payer and supplier",
+      "id": "P016",
+      "kind": "finding",
+      "text": "Sen. Sherwin T. Gatchalian asked why the predecessor operators had not returned the investment themselves. Punay did not know. He characterized GenCorp's payments as investment income and raised a conflict involving its nineteen Davao City contracts. Punay distinguished Bolton's government supplies from Times Square's payments and separate branch accounts, but acknowledged GenCorp owned both branches and remained the payer and supplier. Gatchalian also asked for the varying payments' formula and accounting entries. Punay said she did not keep the books and could not identify the entries."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02327",
+          "start_seconds": 24919.36,
+          "clock": "06:55:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02331",
+          "start_seconds": 24959.02,
+          "clock": "06:55:59",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02335",
+          "start_seconds": 25016.84,
+          "clock": "06:56:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02338",
+          "start_seconds": 25041.34,
+          "clock": "06:57:21",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02343",
+          "start_seconds": 25095.87,
+          "clock": "06:58:15",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S42L_S02345_2",
+          "start_seconds": 25168.34,
+          "clock": "06:59:28",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02345_3",
+          "start_seconds": 25169.0,
+          "clock": "06:59:29",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S02350",
+          "start_seconds": 25200.0,
+          "clock": "07:00:00",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02354",
+          "start_seconds": 25230.23,
+          "clock": "07:00:30",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02355_2",
+          "start_seconds": 25240.75,
+          "clock": "07:00:40",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02357",
+          "start_seconds": 25248.61,
+          "clock": "07:00:48",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02360_2",
+          "start_seconds": 25271.74,
+          "clock": "07:01:11",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        }
+      ],
+      "heading": "Villar: sales and expenses",
+      "id": "P017",
+      "kind": "finding",
+      "text": "Sen. Camille Villar explored how added branches increased sales, from 28.1 million pesos in 2021 to 394 million in 2024. Punay described the gradual additions. Villar distinguished sales from income remaining after labor, goods and other costs, and cited the much smaller annual net-income figures. Punay agreed high sales could yield low or negative income. Villar also asked about counsel's duties, eliciting that Punay handled legal inquiries, contract review and discipline, while remaining outside accounting and operations."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02363",
+          "start_seconds": 25276.18,
+          "clock": "07:01:16",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02367",
+          "start_seconds": 25322.56,
+          "clock": "07:02:02",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02368",
+          "start_seconds": 25330.72,
+          "clock": "07:02:10",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S02370",
+          "start_seconds": 25356.62,
+          "clock": "07:02:36",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S02373",
+          "start_seconds": 25380.46,
+          "clock": "07:03:00",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02374",
+          "start_seconds": 25383.86,
+          "clock": "07:03:03",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S02375",
+          "start_seconds": 25423.21,
+          "clock": "07:03:43",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02376",
+          "start_seconds": 25429.1,
+          "clock": "07:03:49",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S42L_S02376_3",
+          "start_seconds": 25443.02,
+          "clock": "07:04:03",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S02378",
+          "start_seconds": 25467.13,
+          "clock": "07:04:27",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S02382",
+          "start_seconds": 25480.39,
+          "clock": "07:04:40",
+          "speaker_name": "Sen. Imee Marcos"
+        }
+      ],
+      "heading": "Marcos: capital or return on capital",
+      "id": "P018",
+      "kind": "finding",
+      "text": "Sen. Imee Marcos directly contrasted return of capital with return on capital. Punay maintained that the payments restored the investor's money and were not income, agreeing with Marcos's distinction between returned capital and taxable investment returns. Marcos asked about the years between the 2007 investment and the summary beginning in 2022. Punay could confirm only the summary's four-year period. Asked for other payment or transfer records in her custody, she said there were none beyond the roughly 2.1 million pesos discussed."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02385",
+          "start_seconds": 25499.19,
+          "clock": "07:04:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02387",
+          "start_seconds": 25519.41,
+          "clock": "07:05:19",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S02389",
+          "start_seconds": 25566.86,
+          "clock": "07:06:06",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02391",
+          "start_seconds": 25578.91,
+          "clock": "07:06:18",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02393",
+          "start_seconds": 25591.27,
+          "clock": "07:06:31",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02399",
+          "start_seconds": 25634.29,
+          "clock": "07:07:14",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S02398",
+          "start_seconds": 25625.41,
+          "clock": "07:07:05",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02400",
+          "start_seconds": 25657.52,
+          "clock": "07:07:37",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02400_3",
+          "start_seconds": 25666.22,
+          "clock": "07:07:46",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02403",
+          "start_seconds": 25684.26,
+          "clock": "07:08:04",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S02405",
+          "start_seconds": 25704.48,
+          "clock": "07:08:24",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S02407",
+          "start_seconds": 25718.2,
+          "clock": "07:08:38",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S42L_S02409_2",
+          "start_seconds": 25723.46,
+          "clock": "07:08:43",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S02411",
+          "start_seconds": 25733.71,
+          "clock": "07:08:53",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S42L_S02411_2",
+          "start_seconds": 25749.07,
+          "clock": "07:09:09",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S02413",
+          "start_seconds": 25759.62,
+          "clock": "07:09:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02414",
+          "start_seconds": 25764.7,
+          "clock": "07:09:24",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S02418",
+          "start_seconds": 25795.81,
+          "clock": "07:09:55",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02425",
+          "start_seconds": 25820.71,
+          "clock": "07:10:20",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42L_S02425_2",
+          "start_seconds": 25821.49,
+          "clock": "07:10:21",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        }
+      ],
+      "heading": "Padilla: access to the evidence",
+      "id": "P019",
+      "kind": "finding",
+      "text": "Sen. Robinhood “Robin” Padilla compared the witnesses' access to company records. He questioned the checks and bank or SEC support behind Cabrera's estimate. Punay had brought no returned checks and did not know Cabrera's full documentary basis. Gular said Cabrera relied on subpoenaed material including bank records. Escudero clarified that Cabrera likewise had presented no corresponding check for the roughly 212.6-million-peso figure. Padilla emphasized Punay's in-house access to accounting records and ended by calling Cabrera's account gossip."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02499",
+          "start_seconds": 26235.39,
+          "clock": "07:17:15",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02502",
+          "start_seconds": 26247.02,
+          "clock": "07:17:27",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S02503",
+          "start_seconds": 26269.32,
+          "clock": "07:17:49",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02507",
+          "start_seconds": 26288.3,
+          "clock": "07:18:08",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02513",
+          "start_seconds": 26331.98,
+          "clock": "07:18:51",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02515",
+          "start_seconds": 26341.16,
+          "clock": "07:19:01",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02517",
+          "start_seconds": 26366.49,
+          "clock": "07:19:26",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02518",
+          "start_seconds": 26367.89,
+          "clock": "07:19:27",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S02519",
+          "start_seconds": 26437.38,
+          "clock": "07:20:37",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S02523",
+          "start_seconds": 26457.59,
+          "clock": "07:20:57",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        }
+      ],
+      "heading": "Zubiri: document the characterization",
+      "id": "P020",
+      "kind": "finding",
+      "text": "Sen. Juan Miguel “Migz” F. Zubiri sought dissolution, SEC and BIR records to support the returned-capital account. Punay said repayment did not necessarily require dissolution and did not know whether Davao Bounty had been dissolved. Zubiri contrasted varying monthly amounts with lump-sum repayments from his business experience. He asked whether Duterte might instead have been an industrial partner receiving profits or allowances. Punay did not know. He requested documentation establishing whether the payments represented capital repayment, income, an allowance or dividends."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00190",
+          "start_seconds": 2951.6099999999997,
+          "clock": "00:49:11",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00198_E01",
+          "start_seconds": 3034.16,
+          "clock": "00:50:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00228",
+          "start_seconds": 3558.71,
+          "clock": "00:59:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00229",
+          "start_seconds": 3593.1,
+          "clock": "00:59:53",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00241",
+          "start_seconds": 3658.72,
+          "clock": "01:00:58",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00243",
+          "start_seconds": 3684.75,
+          "clock": "01:01:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01921",
+          "start_seconds": 21596.13,
+          "clock": "05:59:56",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S01922",
+          "start_seconds": 21653.02,
+          "clock": "06:00:53",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S01924",
+          "start_seconds": 21680.48,
+          "clock": "06:01:20",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S01073",
+          "start_seconds": 13511.92,
+          "clock": "03:45:11",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S01077",
+          "start_seconds": 13523.17,
+          "clock": "03:45:23",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01327",
+          "start_seconds": 15178.64,
+          "clock": "04:12:58",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01340",
+          "start_seconds": 15296.4,
+          "clock": "04:14:56",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01534",
+          "start_seconds": 17424.98,
+          "clock": "04:50:24",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01750",
+          "start_seconds": 19549.44,
+          "clock": "05:25:49",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S42M_S01815_3",
+          "start_seconds": 20717.38,
+          "clock": "05:45:17",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01895",
+          "start_seconds": 21391.18,
+          "clock": "05:56:31",
+          "speaker_name": "Atty. Suzette Balucanag-Punay"
+        },
+        {
+          "segment_id": "S01921",
+          "start_seconds": 21596.13,
+          "clock": "05:59:56",
+          "speaker_name": "Atty. Erwin G. Matib"
+        },
+        {
+          "segment_id": "S01922",
+          "start_seconds": 21653.02,
+          "clock": "06:00:53",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S01925",
+          "start_seconds": 21686.86,
+          "clock": "06:01:26",
+          "speaker_name": "Atty. Lorna Patajo-Kapunan"
+        },
+        {
+          "segment_id": "S01927",
+          "start_seconds": 21700.59,
+          "clock": "06:01:40",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01928",
+          "start_seconds": 21733.12,
+          "clock": "06:02:13",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01930",
+          "start_seconds": 21751.4,
+          "clock": "06:02:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Procedural boundaries",
+      "id": "P021",
+      "kind": "finding",
+      "text": "Two other rulings shaped how the documents were used. Escudero said the parties' stipulation to authenticity and execution removed the need for further signature identification, while the purpose for which documents would be admitted remained for formal offer. He required Punay's copies to match the subpoenaed records and directed that copies without her notes be marked. In the dispute over a supposed sixth franchise, prosecution counsel read a BIR entry for a Quezon City restaurant branch. The defense distinguished a tax branch code from proof of another Jollibee franchise. The chair left the dispute for the judges' appreciation and any further examination."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02549",
+          "start_seconds": 27138.51,
+          "clock": "07:32:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02550",
+          "start_seconds": 27190.23,
+          "clock": "07:33:10",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02582",
+          "start_seconds": 27481.9,
+          "clock": "07:38:01",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02746",
+          "start_seconds": 28812.17,
+          "clock": "08:00:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S42L_S02325_2",
+          "start_seconds": 24896.04,
+          "clock": "06:54:56",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S02575",
+          "start_seconds": 27383.41,
+          "clock": "07:36:23",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S02577",
+          "start_seconds": 27464.14,
+          "clock": "07:37:44",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S42L_gap13_1",
+          "start_seconds": 28800.18,
+          "clock": "08:00:00",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S42L_S02755_3",
+          "start_seconds": 28946.78,
+          "clock": "08:02:26",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S02760",
+          "start_seconds": 29025.97,
+          "clock": "08:03:45",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S02769",
+          "start_seconds": 29076.01,
+          "clock": "08:04:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Records still to come",
+      "id": "P022",
+      "kind": "finding",
+      "text": "The immediate follow-up was concrete. Escudero directed Punay to consult GenCorp about voluntarily supplying returned checks and explaining how the payments were booked. The court would issue a subpoena if needed, and both parties would receive copies. Punay was excused. The defense planned to keep BPI testimony and present three further witnesses at the next sitting, scheduled for November 12, 2026, at ten in the morning. The payment computation and SALN discrepancy remained subjects for the defense's continuing presentation."
+    },
+    {
+      "citations": [],
+      "heading": "Closing",
+      "id": "P023",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the November 11, 2026 audio overview."
+    }
+  ],
+  "title": "Audio overview — November 11, 2026"
+}
