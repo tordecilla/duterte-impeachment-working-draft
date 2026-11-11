@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:43:02+08:00",
+  "generated_at": "2026-11-12T04:30:59+08:00",
   "complete_artifacts_only": true,
   "partner": null,
   "through_date": "20261111",
@@ -424,9 +424,9 @@
   ],
   "document_releases": {
     "repository": "tordecilla/duterte-impeachment-working-draft",
-    "asset_count": 256,
-    "rewritten_links": 521,
-    "pdf_payloads_removed": 259,
-    "bytes_hosted_outside_pages": 396120146
+    "asset_count": 258,
+    "rewritten_links": 533,
+    "pdf_payloads_removed": 261,
+    "bytes_hosted_outside_pages": 400514493
   }
 }
