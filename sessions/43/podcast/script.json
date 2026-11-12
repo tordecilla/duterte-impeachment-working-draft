@@ -1,0 +1,1507 @@
+{
+  "description": "Two defense witnesses explain a Tokyo dinner and a Kuala Lumpur shoe purchase, as prosecutors test their accounts and senator-judges debate the focus of the case.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Introduction",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for November 12, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00118",
+          "start_seconds": 1830.09,
+          "clock": "00:30:30",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00154",
+          "start_seconds": 2059.02,
+          "clock": "00:34:19",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00354",
+          "start_seconds": 3775.23,
+          "clock": "01:02:55",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00354E1",
+          "start_seconds": 3785.29,
+          "clock": "01:03:05",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00467",
+          "start_seconds": 4722.25,
+          "clock": "01:18:42",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00844",
+          "start_seconds": 6954.38,
+          "clock": "01:55:54",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00373_M3",
+          "start_seconds": 3940.55,
+          "clock": "01:05:40",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00972",
+          "start_seconds": 8148.6900000000005,
+          "clock": "02:15:48",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S01016",
+          "start_seconds": 8720.61,
+          "clock": "02:25:20",
+          "speaker_name": "Atty. Sheila C. Sison"
+        }
+      ],
+      "heading": "Two transactions at the center",
+      "id": "P002",
+      "kind": "finding",
+      "text": "Two defense witnesses gave the court different explanations for credit-card spending by Attorney Manases R. Carpio, the spouse of Vice President Sara Zimmerman Duterte. Lawyer Anel Martin S. Antero described a shared dinner in Tokyo, with friends reimbursing Carpio. Businessman Chadrin S. Parian described shoes bought for young basketball players and some accompanying adults after a championship in Malaysia. Prosecutors challenged the supporting proof and asked whether the spending met modest-living obligations. Several senator-judges questioned that emphasis and urged the parties to move to other issues. The defense presentation remained underway."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00003",
+          "start_seconds": 312.91,
+          "clock": "00:05:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00008",
+          "start_seconds": 404.14,
+          "clock": "00:06:44",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00009",
+          "start_seconds": 419.63,
+          "clock": "00:06:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00010",
+          "start_seconds": 483.86,
+          "clock": "00:08:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00013",
+          "start_seconds": 624.05,
+          "clock": "00:10:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00014",
+          "start_seconds": 627.09,
+          "clock": "00:10:27",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00015E1",
+          "start_seconds": 647.16,
+          "clock": "00:10:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Witness rights before testimony",
+      "id": "P003",
+      "kind": "finding",
+      "text": "The day began with Presiding Officer Senator Francis “Chiz” G. Escudero correcting the previous day's announcement: the trial had been suspended, rather than adjourned. He set roll call for eleven in the morning and reminded counsel and senator-judges to respect witness rights. An unsatisfactory answer, he said, was not inherently contemptible. Senator Panfilo “Ping” M. Lacson, noting that a quorum had not yet assembled, proposed circulating those remarks in writing. Escudero agreed to circulate them and include them in the transcript of stenographic notes. That exchange set an expectation of restraint before the examinations began."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00015E1",
+          "start_seconds": 647.16,
+          "clock": "00:10:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00024",
+          "start_seconds": 803.15,
+          "clock": "00:13:23",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S00024E1",
+          "start_seconds": 828.9,
+          "clock": "00:13:48",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00025E1",
+          "start_seconds": 841.05,
+          "clock": "00:14:01",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00032",
+          "start_seconds": 903.6,
+          "clock": "00:15:03",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00034",
+          "start_seconds": 918.94,
+          "clock": "00:15:18",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00036",
+          "start_seconds": 938.85,
+          "clock": "00:15:38",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00038",
+          "start_seconds": 953.64,
+          "clock": "00:15:53",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00046E1",
+          "start_seconds": 1003.6,
+          "clock": "00:16:43",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00048",
+          "start_seconds": 1039.28,
+          "clock": "00:17:19",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00050",
+          "start_seconds": 1098.47,
+          "clock": "00:18:18",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00052E1",
+          "start_seconds": 1111.07,
+          "clock": "00:18:31",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00055",
+          "start_seconds": 1131.82,
+          "clock": "00:18:51",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00060",
+          "start_seconds": 1176.13,
+          "clock": "00:19:36",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00064E1",
+          "start_seconds": 1219.21,
+          "clock": "00:20:19",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00066",
+          "start_seconds": 1239.1,
+          "clock": "00:20:39",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00070",
+          "start_seconds": 1302.66,
+          "clock": "00:21:42",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00079",
+          "start_seconds": 1363.7,
+          "clock": "00:22:43",
+          "speaker_name": "Rep. Terry L. Ridon"
+        },
+        {
+          "segment_id": "S00084",
+          "start_seconds": 1373.42,
+          "clock": "00:22:53",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S00059",
+          "start_seconds": 1159.21,
+          "clock": "00:19:19",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S00059E1",
+          "start_seconds": 1168.41,
+          "clock": "00:19:28",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00059E2",
+          "start_seconds": 1169.89,
+          "clock": "00:19:29",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S00046",
+          "start_seconds": 992.15,
+          "clock": "00:16:32",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        }
+      ],
+      "heading": "Padilla revisits earlier evidence",
+      "id": "P004",
+      "kind": "finding",
+      "text": "Senator Robinhood “Robin” Padilla first questioned counsel about earlier property and accounting witnesses. Defense counsel Attorney Michael Wesley Poa maintained that matching values supported the defense's view that Matina Crossing and Barangay seventy-four A referred to one property. Public prosecutor Representative Terry L. Ridon said the prosecution had rested, would submit no separate title, and regarded the assessor's answer as equivocal. On Samal land, Poa said the land existed and its tax value matched the asset declaration. He explained the Matanos address as inherited from the mother title and said changing the title required court proceedings. Padilla also revisited the city accountant's conflict question and the sixty-four-thousand-one-hundred-ninety-four-peso issue. Poa said there had been no Commission on Audit disallowance. Asked about the assessor's China trip, Ridon said the question tested candor. Padilla urged respect for a witness's failure to recall."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00089",
+          "start_seconds": 1401.23,
+          "clock": "00:23:21",
+          "speaker_name": "Atty. Michael Wesley Poa"
+        },
+        {
+          "segment_id": "S00090",
+          "start_seconds": 1444.18,
+          "clock": "00:24:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00095",
+          "start_seconds": 1480.5,
+          "clock": "00:24:40",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00096",
+          "start_seconds": 1539.83,
+          "clock": "00:25:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00097",
+          "start_seconds": 1572.42,
+          "clock": "00:26:12",
+          "speaker_name": "Atty. James Bryan Ibrahim A. Alih"
+        },
+        {
+          "segment_id": "S00098",
+          "start_seconds": 1603.56,
+          "clock": "00:26:43",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The BPI request is deferred",
+      "id": "P005",
+      "kind": "finding",
+      "text": "Before the first witness, Poa dispensed with BPI lawyer Attorney Paul Roderick Ismael, whose intended task was to authenticate a bank letter Poa had already acknowledged and marked. Prosecution counsel Attorney James Bryan Ibrahim A. Alih asked to highlight subpoenaed BPI material, including a letter he said confirmed dollar accounts. Presiding Officer Sen. Francis “Chiz” G. Escudero declined to allow that presentation at this stage. He pointed to later opportunities through a tender, memoranda, closing remarks, or possible rebuttal after the defense rested."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00118",
+          "start_seconds": 1830.09,
+          "clock": "00:30:30",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00139",
+          "start_seconds": 1962.77,
+          "clock": "00:32:42",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00144E1",
+          "start_seconds": 1993.34,
+          "clock": "00:33:13",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00152",
+          "start_seconds": 2034.37,
+          "clock": "00:33:54",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00154",
+          "start_seconds": 2059.02,
+          "clock": "00:34:19",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00156",
+          "start_seconds": 2074.93,
+          "clock": "00:34:34",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00157E1",
+          "start_seconds": 2094.19,
+          "clock": "00:34:54",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00159",
+          "start_seconds": 2106.7799999999997,
+          "clock": "00:35:06",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00340E1",
+          "start_seconds": 3591.74,
+          "clock": "00:59:51",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00354",
+          "start_seconds": 3775.23,
+          "clock": "01:02:55",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00354E1",
+          "start_seconds": 3785.29,
+          "clock": "01:03:05",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00357",
+          "start_seconds": 3833.68,
+          "clock": "01:03:53",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        }
+      ],
+      "heading": "The Tokyo dinner account",
+      "id": "P006",
+      "kind": "finding",
+      "text": "Antero's testimony concerned a Ginza-Inakaya charge dated May nineteenth, twenty twenty-three: two hundred five thousand seven pesos and twenty-nine centavos. Defense counsel Attorney Lindon Miguel C. Bacquel offered the account to rebut Article Two allegations. Antero said eleven friends traveled together and ate the dinner. The bill exceeded two hundred thousand pesos, and some companions lacked enough cash for their shares. The group used Carpio's card with repayment expected. Antero recalled contributing forty thousand yen, and on cross-examination expressly affirmed that the diners reimbursed Carpio. But when prosecutors asked for corroboration, he had brought no photograph of the dinner and had no document proving repayment."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00215",
+          "start_seconds": 2490.84,
+          "clock": "00:41:30",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00217",
+          "start_seconds": 2501.96,
+          "clock": "00:41:41",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00226",
+          "start_seconds": 2553.7200000000003,
+          "clock": "00:42:33",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00256",
+          "start_seconds": 2871.41,
+          "clock": "00:47:51",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00266",
+          "start_seconds": 3002.1,
+          "clock": "00:50:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00287",
+          "start_seconds": 3101.42,
+          "clock": "00:51:41",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00289",
+          "start_seconds": 3121.91,
+          "clock": "00:52:01",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00290E1",
+          "start_seconds": 3137.84,
+          "clock": "00:52:17",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00292",
+          "start_seconds": 3171.91,
+          "clock": "00:52:51",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00373_M2",
+          "start_seconds": 3912.79,
+          "clock": "01:05:12",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00373_M3",
+          "start_seconds": 3940.55,
+          "clock": "01:05:40",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00404",
+          "start_seconds": 4321.67,
+          "clock": "01:12:01",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00405_M2",
+          "start_seconds": 4330.09,
+          "clock": "01:12:10",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        }
+      ],
+      "heading": "Credibility and modest living",
+      "id": "P007",
+      "kind": "finding",
+      "text": "Prosecution counsel Attorney Amando Virgil D. Ligutan explored Antero's longstanding friendship with Duterte and Carpio, his role on the Vice President's legal team, and professional compensation from Carpio's firm. Asked about a five-hundred-eighty-thousand-peso transaction in July twenty twenty from an Anti-Money Laundering Council report, Antero said he did not recall it. Ligutan argued that modest-living requirements covered the spouse too. Bacquel objected that the witness had a limited purpose and was being asked for legal conclusions. Presiding Officer Sen. Francis “Chiz” G. Escudero allowed credibility questions, but rejected a misleading question interpreting a Facebook post and directed reformulation. On redirect, Antero said he would not lie for either spouse."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00386",
+          "start_seconds": 4135.49,
+          "clock": "01:08:55",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00394",
+          "start_seconds": 4241.22,
+          "clock": "01:10:41",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00395",
+          "start_seconds": 4259.14,
+          "clock": "01:10:59",
+          "speaker_name": "Atty. Lindon Miguel C. Bacquel"
+        },
+        {
+          "segment_id": "S00396",
+          "start_seconds": 4262.08,
+          "clock": "01:11:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00417",
+          "start_seconds": 4357.8099999999995,
+          "clock": "01:12:37",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00423",
+          "start_seconds": 4388.86,
+          "clock": "01:13:08",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00423_M2",
+          "start_seconds": 4398.72,
+          "clock": "01:13:18",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S00427",
+          "start_seconds": 4403.84,
+          "clock": "01:13:23",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00429",
+          "start_seconds": 4411.08,
+          "clock": "01:13:31",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00433",
+          "start_seconds": 4449.2,
+          "clock": "01:14:09",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00435",
+          "start_seconds": 4474.5,
+          "clock": "01:14:34",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00438",
+          "start_seconds": 4491.53,
+          "clock": "01:14:51",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00439_M3",
+          "start_seconds": 4505.11,
+          "clock": "01:15:05",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S00440",
+          "start_seconds": 4509.48,
+          "clock": "01:15:09",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00442",
+          "start_seconds": 4519.65,
+          "clock": "01:15:19",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        },
+        {
+          "segment_id": "S00444",
+          "start_seconds": 4532.48,
+          "clock": "01:15:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Escudero and Marcos on the dinner",
+      "id": "P008",
+      "kind": "finding",
+      "text": "Speaking as a senator-judge, Sen. Francis “Chiz” G. Escudero observed that the roughly two-hundred-five-thousand-peso expense was within the couple's means, recalling an eighty-eight-million-peso asset declaration. Ligutan maintained his modest-living argument; Bacquel said the court could draw the conclusion. As presiding officer, Escudero directed counsel to focus on the transaction and left legal interpretation to the judges' appreciation. Senator Imee Marcos then explored friendship, trust and Masonic fellowship. Antero said he was a fellow-craft Mason in a different lodge, had known Carpio since law school, and said Carpio volunteered his card for reward points. He agreed that they had shared bills before. Duterte was absent from the dinner, he said, and he did not know whether she knew of the transaction. Antero was excused."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00447",
+          "start_seconds": 4558.3,
+          "clock": "01:15:58",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00449",
+          "start_seconds": 4608.68,
+          "clock": "01:16:48",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S00467",
+          "start_seconds": 4722.25,
+          "clock": "01:18:42",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00484",
+          "start_seconds": 4864.26,
+          "clock": "01:21:04",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00486",
+          "start_seconds": 4876.23,
+          "clock": "01:21:16",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00517",
+          "start_seconds": 5090.15,
+          "clock": "01:24:50",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00528",
+          "start_seconds": 5138.03,
+          "clock": "01:25:38",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00545",
+          "start_seconds": 5238.3,
+          "clock": "01:27:18",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00550_M3",
+          "start_seconds": 5265.72,
+          "clock": "01:27:45",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00551_M2",
+          "start_seconds": 5274.8,
+          "clock": "01:27:54",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00688",
+          "start_seconds": 6027.9,
+          "clock": "01:40:27",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00354",
+          "start_seconds": 3775.23,
+          "clock": "01:02:55",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S00354E1",
+          "start_seconds": 3785.29,
+          "clock": "01:03:05",
+          "speaker_name": "Atty. Anel Martin S. Antero"
+        }
+      ],
+      "heading": "The Kuala Lumpur purchase",
+      "id": "P009",
+      "kind": "finding",
+      "text": "After roll call established eighteen senator-judges present, the defense called Parian, a parent of an Elite Philippines basketball player. Attorney Justin Nicol B. Gular offered his testimony about a Nike Pavilion Kuala Lumpur charge of two hundred fifty-six thousand eight hundred eighty-two pesos and fifty centavos. Parian said the children's team had won a championship in Malaysia. He saw the children choose shoes, saw Carpio pay near the counter, and photographed the purchase."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00494",
+          "start_seconds": 4911.49,
+          "clock": "01:21:51",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S43_MR052",
+          "start_seconds": 4962.28,
+          "clock": "01:22:42",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00588",
+          "start_seconds": 5546.87,
+          "clock": "01:32:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00590",
+          "start_seconds": 5554.2,
+          "clock": "01:32:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00590_M2",
+          "start_seconds": 5557.18,
+          "clock": "01:32:37",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00594",
+          "start_seconds": 5574.86,
+          "clock": "01:32:54",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S43_MR013",
+          "start_seconds": 5645.28,
+          "clock": "01:34:05",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00614",
+          "start_seconds": 5701.32,
+          "clock": "01:35:01",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00620_M2",
+          "start_seconds": 5736.27,
+          "clock": "01:35:36",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00623",
+          "start_seconds": 5738.47,
+          "clock": "01:35:38",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00624",
+          "start_seconds": 5746.53,
+          "clock": "01:35:46",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00706",
+          "start_seconds": 6089.68,
+          "clock": "01:41:29",
+          "speaker_name": "Atty. Justin Nicol B. Gular"
+        },
+        {
+          "segment_id": "S00712",
+          "start_seconds": 6122.14,
+          "clock": "01:42:02",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00722",
+          "start_seconds": 6152.51,
+          "clock": "01:42:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Documents and the limits of the account",
+      "id": "P010",
+      "kind": "finding",
+      "text": "Parian supplied travel records, tickets, photographs and a tournament invitation. Prosecution counsel Attorney Reynaldo Robles stipulated to the travel documents' authenticity and due execution, the team's and Carpio's presence, and authentication of the photographs and documents. He also agreed to the invitation after clarification. The material was identified for later marking. In his own questioning, Senator Francis “Chiz” G. Escudero asked where the team photograph was taken. Parian said they were already in Kuala Lumpur. Parian explained that he blurred the children's faces on his lawyer's advice because they were minors. Later, on the defense's privacy objection, Presiding Officer Escudero stopped questions about the children's schools, saying it was sufficient that coaches recruited them from different schools."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00783",
+          "start_seconds": 6548.7,
+          "clock": "01:49:08",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00792",
+          "start_seconds": 6640.65,
+          "clock": "01:50:40",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00793",
+          "start_seconds": 6654.92,
+          "clock": "01:50:54",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00794",
+          "start_seconds": 6662.09,
+          "clock": "01:51:02",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00797",
+          "start_seconds": 6675.82,
+          "clock": "01:51:15",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00803L1",
+          "start_seconds": 6725.35,
+          "clock": "01:52:05",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00803L3",
+          "start_seconds": 6730.57,
+          "clock": "01:52:10",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00809",
+          "start_seconds": 6751.49,
+          "clock": "01:52:31",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00844",
+          "start_seconds": 6954.38,
+          "clock": "01:55:54",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00845",
+          "start_seconds": 6968.5599999999995,
+          "clock": "01:56:08",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00847",
+          "start_seconds": 6999.68,
+          "clock": "01:56:39",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00852",
+          "start_seconds": 7018.89,
+          "clock": "01:56:58",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00859",
+          "start_seconds": 7131.72,
+          "clock": "01:58:51",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00860",
+          "start_seconds": 7141.46,
+          "clock": "01:59:01",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00865",
+          "start_seconds": 7187.33,
+          "clock": "01:59:47",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "L43_late_recross_recovery_0",
+          "start_seconds": 7203.22,
+          "clock": "02:00:03",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "L43_late_recross_recovery_2",
+          "start_seconds": 7213.32,
+          "clock": "02:00:13",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "L43_late_recross_recovery_4",
+          "start_seconds": 7215.78,
+          "clock": "02:00:15",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00831",
+          "start_seconds": 6873.33,
+          "clock": "01:54:33",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00834",
+          "start_seconds": 6882.36,
+          "clock": "01:54:42",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00836",
+          "start_seconds": 6901.88,
+          "clock": "01:55:01",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00827",
+          "start_seconds": 6859.75,
+          "clock": "01:54:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00829",
+          "start_seconds": 6865.49,
+          "clock": "01:54:25",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00839",
+          "start_seconds": 6926.73,
+          "clock": "01:55:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Who received the shoes",
+      "id": "P011",
+      "kind": "finding",
+      "text": "Cross-examination established that adults as well as eleven children received shoes. Parian rejected the suggested calculation of twenty-three thousand pesos per child. He said he could not afford a two-hundred-fifty-six-thousand-peso purchase himself. On redirect, he identified other recipients as parents and guardians and said not every companion chose shoes. He described families with different means and parents taking turns helping. He had contributed to an earlier discounted group purchase; on recross, he said the number of shoes was similar but could not compare the amounts, and acknowledged contributions from several people. Asked about Carpio's modest living, he said he could not answer for Carpio or know his thinking, but thought the recipients deserved the shoes. Presiding Officer Sen. Francis “Chiz” G. Escudero allowed that opinion question, then stopped repetition after his answer."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00867",
+          "start_seconds": 7221.27,
+          "clock": "02:00:21",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00870",
+          "start_seconds": 7269.37,
+          "clock": "02:01:09",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00874C4",
+          "start_seconds": 7309.08,
+          "clock": "02:01:49",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00872",
+          "start_seconds": 7283.43,
+          "clock": "02:01:23",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00873",
+          "start_seconds": 7284.91,
+          "clock": "02:01:24",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00873C1",
+          "start_seconds": 7285.01,
+          "clock": "02:01:25",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00873C2",
+          "start_seconds": 7290.46,
+          "clock": "02:01:30",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00876",
+          "start_seconds": 7325.24,
+          "clock": "02:02:05",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00877",
+          "start_seconds": 7332.65,
+          "clock": "02:02:12",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00879",
+          "start_seconds": 7348.9,
+          "clock": "02:02:28",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00880",
+          "start_seconds": 7351.28,
+          "clock": "02:02:31",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00883C5",
+          "start_seconds": 7367.23,
+          "clock": "02:02:47",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00884C1",
+          "start_seconds": 7372.76,
+          "clock": "02:02:52",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00881C1",
+          "start_seconds": 7352.91,
+          "clock": "02:02:32",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00881C2",
+          "start_seconds": 7361.45,
+          "clock": "02:02:41",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00882",
+          "start_seconds": 7361.93,
+          "clock": "02:02:41",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00885",
+          "start_seconds": 7379.5,
+          "clock": "02:02:59",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00885C2",
+          "start_seconds": 7389.76,
+          "clock": "02:03:09",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S00885C3",
+          "start_seconds": 7395.14,
+          "clock": "02:03:15",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00885C4",
+          "start_seconds": 7396.82,
+          "clock": "02:03:16",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        }
+      ],
+      "heading": "Pangilinan tests travel knowledge",
+      "id": "P012",
+      "kind": "finding",
+      "text": "Senator Francis “Kiko” Pangilinan asked who paid the overseas team's tickets and hotels. Parian clarified that he and his son had not joined the Shanghai trip. He paid for his accompanying family's tickets; the team paid the player's ticket. He thought there were sponsors, and said international organizers usually arranged hotel packages. But he did not know whether Carpio paid team tickets, or whether a manager role meant Carpio paid. Pangilinan acknowledged both possibilities."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00888C1",
+          "start_seconds": 7415.57,
+          "clock": "02:03:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00906",
+          "start_seconds": 7508.66,
+          "clock": "02:05:08",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00917",
+          "start_seconds": 7584.03,
+          "clock": "02:06:24",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00918",
+          "start_seconds": 7631.61,
+          "clock": "02:07:11",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00921",
+          "start_seconds": 7665.65,
+          "clock": "02:07:45",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00923C1",
+          "start_seconds": 7679.99,
+          "clock": "02:07:59",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00925",
+          "start_seconds": 7688.97,
+          "clock": "02:08:08",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00941",
+          "start_seconds": 7762.52,
+          "clock": "02:09:22",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00936",
+          "start_seconds": 7753.6,
+          "clock": "02:09:13",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00942",
+          "start_seconds": 7793.91,
+          "clock": "02:09:53",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "L43_late_sports_recovery_4",
+          "start_seconds": 7813.0,
+          "clock": "02:10:13",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00944",
+          "start_seconds": 7823.73,
+          "clock": "02:10:23",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00945",
+          "start_seconds": 7835.77,
+          "clock": "02:10:35",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S00954",
+          "start_seconds": 7963.24,
+          "clock": "02:12:43",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00955",
+          "start_seconds": 7975.67,
+          "clock": "02:12:55",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00956",
+          "start_seconds": 7984.42,
+          "clock": "02:13:04",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00958",
+          "start_seconds": 7988.66,
+          "clock": "02:13:08",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00967",
+          "start_seconds": 8078.7,
+          "clock": "02:14:38",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00968",
+          "start_seconds": 8092.32,
+          "clock": "02:14:52",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        }
+      ],
+      "heading": "Cayetano challenges the emphasis",
+      "id": "P013",
+      "kind": "finding",
+      "text": "Senator Pia S. Cayetano warned that the questioning could discourage parents and officials from supporting young athletes. She invoked constitutional support for sports and parental duties. Asked about government assistance, Parian initially said none, then clarified that his son had received help through Palarong Pambansa. Robles agreed athletes needed support and said the prosecution had no quarrel with parental help; its concern was legally appropriate conduct by public officials. He also agreed that unbranded shoes were not required. Cayetano recounted buying shoes for her daughters' teammates and supporting overseas sports trips, including taking the University of the Philippines football team to Japan. She criticized questions revealing a child's school and warned that scrutiny could deter supporters. Her closing criticism received no further substantive prosecution response."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00971",
+          "start_seconds": 8136.37,
+          "clock": "02:15:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00972",
+          "start_seconds": 8148.6900000000005,
+          "clock": "02:15:48",
+          "speaker_name": "Sen. Juan Miguel “Migz” F. Zubiri"
+        },
+        {
+          "segment_id": "S00973",
+          "start_seconds": 8231.36,
+          "clock": "02:17:11",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Escudero and Zubiri on sports support",
+      "id": "P014",
+      "kind": "finding",
+      "text": "Senator Francis “Chiz” G. Escudero added his own manifestation: he too had contributed after the University of the Philippines won a championship following decades without one. He sought no answer. Senator Juan Miguel “Migz” F. Zubiri then agreed that the shoe issue had been belabored and urged moving to more substantive evidence. He acknowledged the prosecution’s ostentation point and referred to reimbursement as the defense’s position. He wanted answers about three hundred million pesos in foreign deposits and Cale eighty-eight: the source, destination and use of the money, along with tax-payment and dividend-stock documentation. He described his own support for arnis athletes abroad, at Batang Pinoy and the Philippine National Games. His foreign-fund and documentation questions received no substantive answer in that exchange. Presiding Officer Escudero urged moving on."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00973",
+          "start_seconds": 8231.36,
+          "clock": "02:17:11",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00977",
+          "start_seconds": 8256.880000000001,
+          "clock": "02:17:36",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00977L1",
+          "start_seconds": 8307.03,
+          "clock": "02:18:27",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00977L2",
+          "start_seconds": 8308.99,
+          "clock": "02:18:28",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00977L3",
+          "start_seconds": 8314.53,
+          "clock": "02:18:34",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00977L4",
+          "start_seconds": 8315.69,
+          "clock": "02:18:35",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00977L5",
+          "start_seconds": 8319.65,
+          "clock": "02:18:39",
+          "speaker_name": "Chadrin S. Parian"
+        },
+        {
+          "segment_id": "S00977L6",
+          "start_seconds": 8320.41,
+          "clock": "02:18:40",
+          "speaker_name": "Sen. Joel Villanueva"
+        }
+      ],
+      "heading": "Villanueva separates family and team costs",
+      "id": "P015",
+      "kind": "finding",
+      "text": "Senator Joel Villanueva returned to what Parian actually knew. Had Carpio paid all the team's travel, hotel and airline expenses? Parian did not know. Had Carpio covered Parian's own family? Parian said no and confirmed that he paid their hotel and airline costs himself. Villanueva joined the call to move to more substantial matters, questioning the focus on shoes for children who had won internationally. He described giving shoes to University of Santo Tomas players and Senate teammates, joking that he too might be considered guilty for giving Nike shoes."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01019",
+          "start_seconds": 8754.59,
+          "clock": "02:25:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01029",
+          "start_seconds": 8803.82,
+          "clock": "02:26:43",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01030",
+          "start_seconds": 8822.78,
+          "clock": "02:27:02",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S01032",
+          "start_seconds": 8836.25,
+          "clock": "02:27:16",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01034",
+          "start_seconds": 8845.95,
+          "clock": "02:27:25",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01033",
+          "start_seconds": 8843.41,
+          "clock": "02:27:23",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S01035",
+          "start_seconds": 8856.56,
+          "clock": "02:27:36",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S01036",
+          "start_seconds": 8857.94,
+          "clock": "02:27:37",
+          "speaker_name": "Atty. Reynaldo Robles"
+        },
+        {
+          "segment_id": "S01038",
+          "start_seconds": 8858.48,
+          "clock": "02:27:38",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01040",
+          "start_seconds": 8878.69,
+          "clock": "02:27:58",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01041",
+          "start_seconds": 8906.05,
+          "clock": "02:28:26",
+          "speaker_name": "Sen. Robinhood “Robin” Padilla"
+        },
+        {
+          "segment_id": "S01042",
+          "start_seconds": 8945.62,
+          "clock": "02:29:05",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "Padilla returns to modest living",
+      "id": "P016",
+      "kind": "finding",
+      "text": "In a second round, Senator Robinhood “Robin” Padilla challenged the prosecution's simple-living argument with questions about lawmakers' expensive cars, including vehicles costing sixteen to twenty-two million pesos and a Mercedes-Benz. Robles affirmed the legal obligation and said he knew of none of the vehicles Padilla raised. Padilla urged scrutiny of other politicians' wealth and progress on Freedom of Information legislation. He contrasted the spending under discussion with his own nine-hundred-thousand-peso spending and cited assistance of three hundred thousand and three hundred forty thousand pesos to shooting victims. His concluding proposals and invitation to investigate his spending received no substantive answer."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00981",
+          "start_seconds": 8393.91,
+          "clock": "02:19:53",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00988",
+          "start_seconds": 8452.130000000001,
+          "clock": "02:20:52",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00991",
+          "start_seconds": 8489.6,
+          "clock": "02:21:29",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01002",
+          "start_seconds": 8596.06,
+          "clock": "02:23:16",
+          "speaker_name": "Atty. Amando Virgil D. Ligutan"
+        },
+        {
+          "segment_id": "S01003",
+          "start_seconds": 8604.18,
+          "clock": "02:23:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01005",
+          "start_seconds": 8625.79,
+          "clock": "02:23:45",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01006",
+          "start_seconds": 8652.89,
+          "clock": "02:24:12",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01008",
+          "start_seconds": 8659.130000000001,
+          "clock": "02:24:19",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01012",
+          "start_seconds": 8667.81,
+          "clock": "02:24:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01016",
+          "start_seconds": 8720.61,
+          "clock": "02:25:20",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S00444",
+          "start_seconds": 4532.48,
+          "clock": "01:15:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "A planned witness is withdrawn",
+      "id": "P017",
+      "kind": "finding",
+      "text": "The defense also dispensed with another planned authentication witness. Attorney Sheila C. Sison proposed replacing Quezon City prosecutor Vimar Barceliano's testimony about certified copies with a stipulation. Ligutan stipulated concerning public documents, and Presiding Officer Sen. Francis “Chiz” G. Escudero granted withdrawal of the witness and directed later marking of documents from that office. Barceliano did not testify. The formal offer and the prosecution's opportunity to comment would follow at the appropriate time. Document marking remained scheduled for the afternoon. Both Antero and Parian had been excused, while the defense estimated eight to ten further witnesses."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01013",
+          "start_seconds": 8671.369999999999,
+          "clock": "02:24:31",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01014",
+          "start_seconds": 8694.380000000001,
+          "clock": "02:24:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01017",
+          "start_seconds": 8734.93,
+          "clock": "02:25:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01044C1",
+          "start_seconds": 8964.130000000001,
+          "clock": "02:29:24",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01046",
+          "start_seconds": 8974.22,
+          "clock": "02:29:34",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01050",
+          "start_seconds": 8986.3,
+          "clock": "02:29:46",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01055L1",
+          "start_seconds": 9018.94,
+          "clock": "02:30:18",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01058",
+          "start_seconds": 9028.21,
+          "clock": "02:30:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01060",
+          "start_seconds": 9092.51,
+          "clock": "02:31:32",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01068",
+          "start_seconds": 9129.1,
+          "clock": "02:32:09",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01072",
+          "start_seconds": 9154.46,
+          "clock": "02:32:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01073",
+          "start_seconds": 9164.7,
+          "clock": "02:32:44",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01078",
+          "start_seconds": 9183.05,
+          "clock": "02:33:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01079",
+          "start_seconds": 9194.65,
+          "clock": "02:33:14",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01080",
+          "start_seconds": 9207.08,
+          "clock": "02:33:27",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The next trial dates",
+      "id": "P018",
+      "kind": "finding",
+      "text": "Sison requested cancellation of the next day's setting and accepted its deduction from the defense's requested trial dates. She undertook written witness notice under the five-day rule and would provide email addresses for electronic subpoenas. Presiding Officer Sen. Francis “Chiz” G. Escudero directed the defense to prepare enough witnesses for two full days, November nineteenth and twentieth. There would be no trial November sixteenth through eighteenth because of ASEAN, or November twenty-third through twenty-seventh because of Senate budget deliberations. The December calendar would follow the next week. The trial was adjourned to November nineteenth, twenty twenty-six, at ten in the morning."
+    },
+    {
+      "citations": [],
+      "heading": "Closing",
+      "id": "P019",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official Senate video. This has been the November 12, 2026 audio overview."
+    }
+  ],
+  "title": "Audio overview — November 12, 2026"
+}
