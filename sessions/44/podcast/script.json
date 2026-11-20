@@ -1,0 +1,1845 @@
+{
+  "description": "Financial testimony, the challenge to opinions offered without reviewing the case records, all thirteen substantive senator accounts, and the next sitting.",
+  "language": "en",
+  "segments": [
+    {
+      "citations": [],
+      "heading": "Working Draft — November 19, 2026",
+      "id": "P001",
+      "kind": "intro",
+      "text": "This is Working Draft's audio overview of the Impeachment Trial of Vice President Sara Duterte for November 19, 2026. This is a working reference, not an official Senate record."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00042",
+          "start_seconds": 1228.8,
+          "clock": "00:20:28",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S02031",
+          "start_seconds": 1919.95,
+          "clock": "00:31:59",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00855",
+          "start_seconds": 16850.98,
+          "clock": "04:40:50",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00857",
+          "start_seconds": 16871.85,
+          "clock": "04:41:11",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00860",
+          "start_seconds": 16878.11,
+          "clock": "04:41:18",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01026",
+          "start_seconds": 19563.96,
+          "clock": "05:26:03",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S03055",
+          "start_seconds": 19574.34,
+          "clock": "05:26:14",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S03057",
+          "start_seconds": 19584.22,
+          "clock": "05:26:24",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S03059",
+          "start_seconds": 19595.64,
+          "clock": "05:26:35",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01410",
+          "start_seconds": 23315.5,
+          "clock": "06:28:35",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01414",
+          "start_seconds": 23353.58,
+          "clock": "06:29:13",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01421",
+          "start_seconds": 23399.01,
+          "clock": "06:29:59",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "The witness and the central challenge",
+      "id": "P002",
+      "kind": "finding",
+      "text": "The defense presented Atty. Rainer P. Dela Fuente, a certified public accountant, lawyer and former Anti-Money Laundering Council financial investigator. His testimony on financial analysis raised a central challenge: he had not reviewed the complete prosecution forensic report or its underlying case records. Prosecutor Rep. Jose Manuel “Chel” I. Diokno and senator-judges questioned how far Dela Fuente’s opinions could go without that foundation. Dela Fuente cited confidentiality and his lack of authority to access the records. He said his answers addressed displayed excerpts and hypothetical questions, rather than a complete case analysis."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00028",
+          "start_seconds": 1153.86,
+          "clock": "00:19:13",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00042",
+          "start_seconds": 1228.8,
+          "clock": "00:20:28",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S02027",
+          "start_seconds": 1821.64,
+          "clock": "00:30:21",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02099",
+          "start_seconds": 1830.34,
+          "clock": "00:30:30",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S02100",
+          "start_seconds": 1839.76,
+          "clock": "00:30:39",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00182",
+          "start_seconds": 2946.49,
+          "clock": "00:49:06",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00184",
+          "start_seconds": 2973.5,
+          "clock": "00:49:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00192",
+          "start_seconds": 3124.79,
+          "clock": "00:52:04",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00227",
+          "start_seconds": 3827.74,
+          "clock": "01:03:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00246",
+          "start_seconds": 4416.65,
+          "clock": "01:13:36",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00321",
+          "start_seconds": 5384.41,
+          "clock": "01:29:44",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S00326",
+          "start_seconds": 5400.18,
+          "clock": "01:30:00",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02121",
+          "start_seconds": 5450.16,
+          "clock": "01:30:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00339",
+          "start_seconds": 5809.14,
+          "clock": "01:36:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00343",
+          "start_seconds": 5876.4,
+          "clock": "01:37:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00360",
+          "start_seconds": 6275.15,
+          "clock": "01:44:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02126",
+          "start_seconds": 6419.88,
+          "clock": "01:46:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00373",
+          "start_seconds": 6438.92,
+          "clock": "01:47:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00417",
+          "start_seconds": 6831.86,
+          "clock": "01:53:51",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00510",
+          "start_seconds": 7808.55,
+          "clock": "02:10:08",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00805",
+          "start_seconds": 16048.46,
+          "clock": "04:27:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01259",
+          "start_seconds": 21848.79,
+          "clock": "06:04:08",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S04010",
+          "start_seconds": 21885.12,
+          "clock": "06:04:45",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S04011",
+          "start_seconds": 21896.96,
+          "clock": "06:04:56",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S04013",
+          "start_seconds": 21907.48,
+          "clock": "06:05:07",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        }
+      ],
+      "heading": "The scope of the testimony",
+      "id": "P003",
+      "kind": "finding",
+      "text": "Defense counsel Atty. Mark C. Vinluan called the witness to discuss anti-money-laundering concepts and unexplained-wealth methodology. Presiding Officer Sen. Francis “Chiz” G. Escudero allowed opinion testimony, with qualifications and conclusions open to cross-examination; the prosecution did not stipulate to Dela Fuente’s expertise. Diokno emphasized that Article 2 concerned unexplained wealth, asset-declaration omissions and prohibited business participation, rather than a separate money-laundering offense. Escudero allowed the defense to challenge the financial-intelligence evidence supporting that article, while limiting the detour into other issues."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00304",
+          "start_seconds": 5262.26,
+          "clock": "01:27:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00312",
+          "start_seconds": 5281.72,
+          "clock": "01:28:01",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00313",
+          "start_seconds": 5302.68,
+          "clock": "01:28:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00314",
+          "start_seconds": 5328.35,
+          "clock": "01:28:48",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00317",
+          "start_seconds": 5350.08,
+          "clock": "01:29:10",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00474",
+          "start_seconds": 7355.04,
+          "clock": "02:02:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00490",
+          "start_seconds": 7662.24,
+          "clock": "02:07:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00493",
+          "start_seconds": 7718.35,
+          "clock": "02:08:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00513",
+          "start_seconds": 7847.23,
+          "clock": "02:10:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00519",
+          "start_seconds": 7882.34,
+          "clock": "02:11:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00520",
+          "start_seconds": 7894.97,
+          "clock": "02:11:34",
+          "speaker_name": "Sen. Risa Hontiveros"
+        }
+      ],
+      "heading": "Archival videos and relevance",
+      "id": "P004",
+      "kind": "finding",
+      "text": "The morning included archival impeachment videos and disputes over their relevance. Sen. Erwin Tulfo questioned the first video's usefulness, and Sen. Panfilo “Ping” M. Lacson challenged the relevance of an opinion from an earlier trial. Escudero directed counsel to move on, but later permitted further clips and questions within the witness's knowledge. Sen. Risa Hontiveros criticized the fairness of presenting speakers who were deceased or absent and could not be questioned."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S02121",
+          "start_seconds": 5450.16,
+          "clock": "01:30:50",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02122",
+          "start_seconds": 5480.74,
+          "clock": "01:31:20",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00331",
+          "start_seconds": 5614.02,
+          "clock": "01:33:34",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00334",
+          "start_seconds": 5706.95,
+          "clock": "01:35:06",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00338",
+          "start_seconds": 5710.51,
+          "clock": "01:35:10",
+          "speaker_name": "Sen. Alan Peter Cayetano"
+        },
+        {
+          "segment_id": "S00339",
+          "start_seconds": 5809.14,
+          "clock": "01:36:49",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00362",
+          "start_seconds": 6288.25,
+          "clock": "01:44:48",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00363",
+          "start_seconds": 6292.63,
+          "clock": "01:44:52",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        }
+      ],
+      "heading": "Latitude for the defense",
+      "id": "P005",
+      "kind": "finding",
+      "text": "Sen. Alan Peter Cayetano urged latitude for a defense rebuttal, citing the proceeding's political and reputational consequences and public acceptance of its eventual judgment. He accepted that money laundering was not a separate charge, but urged less technical treatment of that distinction. Escudero identified the formal offer, a tender of excluded evidence and closing arguments as opportunities to address withdrawn articles. Sen. Francis “Kiko” Pangilinan, meanwhile, said challenges to the earlier disclosure ruling belonged before the Supreme Court and supported limited further questioning."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00042",
+          "start_seconds": 1228.8,
+          "clock": "00:20:28",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00242",
+          "start_seconds": 4174.55,
+          "clock": "01:09:34",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S02067",
+          "start_seconds": 5858.49,
+          "clock": "01:37:38",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00528",
+          "start_seconds": 11798.46,
+          "clock": "03:16:38",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00533",
+          "start_seconds": 11876.23,
+          "clock": "03:17:56",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00534",
+          "start_seconds": 11900.03,
+          "clock": "03:18:20",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00558",
+          "start_seconds": 12185.39,
+          "clock": "03:23:05",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S03089",
+          "start_seconds": 20214.76,
+          "clock": "05:36:54",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01174",
+          "start_seconds": 21059.81,
+          "clock": "05:50:59",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S01175",
+          "start_seconds": 21091.08,
+          "clock": "05:51:31",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01285",
+          "start_seconds": 22156.02,
+          "clock": "06:09:16",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S01288",
+          "start_seconds": 22238.62,
+          "clock": "06:10:38",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01675",
+          "start_seconds": 25924.83,
+          "clock": "07:12:04",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01685",
+          "start_seconds": 25984.44,
+          "clock": "07:13:04",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01699",
+          "start_seconds": 26057.75,
+          "clock": "07:14:17",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01701",
+          "start_seconds": 26086.19,
+          "clock": "07:14:46",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S04065",
+          "start_seconds": 26112.0,
+          "clock": "07:15:12",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S04066",
+          "start_seconds": 26123.03,
+          "clock": "07:15:23",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "Confidentiality and court authority",
+      "id": "P006",
+      "kind": "finding",
+      "text": "Confidentiality remained a major defense theme. Vinluan questioned sharing council material with a private analyst, public disclosure and onward dissemination. Dela Fuente said confidentiality followed the information and authorized disclosure required safeguards. Under later questioning, however, he agreed that an impeachment-court order allowing review or compelling production would authorize disclosure. Pangilinan tested how the court could receive evidence through witnesses under the end-user theory. Dela Fuente denied accusing the court of breaking the law, while maintaining the council's processing role."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00313",
+          "start_seconds": 5302.68,
+          "clock": "01:28:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00314",
+          "start_seconds": 5328.35,
+          "clock": "01:28:48",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S00317",
+          "start_seconds": 5350.08,
+          "clock": "01:29:10",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00378",
+          "start_seconds": 6540.23,
+          "clock": "01:49:00",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00380",
+          "start_seconds": 6555.45,
+          "clock": "01:49:15",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S02146",
+          "start_seconds": 6684.18,
+          "clock": "01:51:24",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00389",
+          "start_seconds": 6702.1900000000005,
+          "clock": "01:51:42",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00390",
+          "start_seconds": 6720.3,
+          "clock": "01:52:00",
+          "speaker_name": "Sen. Pia S. Cayetano"
+        },
+        {
+          "segment_id": "S00391",
+          "start_seconds": 6746.92,
+          "clock": "01:52:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00392",
+          "start_seconds": 6753.95,
+          "clock": "01:52:33",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00402",
+          "start_seconds": 6777.0,
+          "clock": "01:52:57",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00406",
+          "start_seconds": 6783.66,
+          "clock": "01:53:03",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00452",
+          "start_seconds": 7203.58,
+          "clock": "02:00:03",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S02132",
+          "start_seconds": 7207.22,
+          "clock": "02:00:07",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01209",
+          "start_seconds": 21358.35,
+          "clock": "05:55:58",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01211",
+          "start_seconds": 21398.31,
+          "clock": "05:56:38",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01213",
+          "start_seconds": 21412.63,
+          "clock": "05:56:52",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01218",
+          "start_seconds": 21441.3,
+          "clock": "05:57:21",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01222",
+          "start_seconds": 21487.18,
+          "clock": "05:58:07",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        }
+      ],
+      "heading": "Bank secrecy and investigative procedure",
+      "id": "P007",
+      "kind": "finding",
+      "text": "Sen. Raffy T. Tulfo questioned confidentiality testimony in light of the impeachment exception to bank secrecy. Sen. Pia S. Cayetano clarified that this exception was in the bank secrecy law, rather than the Anti-Money Laundering Act. Raffy Tulfo also raised asset declarations, saying former Chief Justice Renato Corona had still been impeached over his SALN. On freeze orders, Dela Fuente described investigation followed by an ex parte application with prior council authority or approval. Later, Lacson argued that the anti-political-harassment provision's legislative history addressed election candidates and contributors, rather than general protection in impeachment. Dela Fuente said he was unfamiliar with that history."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00617",
+          "start_seconds": 13059.73,
+          "clock": "03:37:39",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00621",
+          "start_seconds": 13144.24,
+          "clock": "03:39:04",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00688",
+          "start_seconds": 14247.41,
+          "clock": "03:57:27",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00703",
+          "start_seconds": 14431.07,
+          "clock": "04:00:31",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00706",
+          "start_seconds": 14452.59,
+          "clock": "04:00:52",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00737",
+          "start_seconds": 14823.01,
+          "clock": "04:07:03",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00741",
+          "start_seconds": 14887.74,
+          "clock": "04:08:07",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00747",
+          "start_seconds": 15090.16,
+          "clock": "04:11:30",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00752",
+          "start_seconds": 15233.66,
+          "clock": "04:13:53",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00753",
+          "start_seconds": 15268.52,
+          "clock": "04:14:28",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00755",
+          "start_seconds": 15296.61,
+          "clock": "04:14:56",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00756",
+          "start_seconds": 15303.5,
+          "clock": "04:15:03",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00762",
+          "start_seconds": 15394.85,
+          "clock": "04:16:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00820",
+          "start_seconds": 16411.56,
+          "clock": "04:33:31",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S03019",
+          "start_seconds": 16433.67,
+          "clock": "04:33:53",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S01024",
+          "start_seconds": 19548.03,
+          "clock": "05:25:48",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01026",
+          "start_seconds": 19563.96,
+          "clock": "05:26:03",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01031",
+          "start_seconds": 19647.49,
+          "clock": "05:27:27",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01033",
+          "start_seconds": 19667.35,
+          "clock": "05:27:47",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S03080",
+          "start_seconds": 20091.31,
+          "clock": "05:34:51",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S03082",
+          "start_seconds": 20117.03,
+          "clock": "05:35:17",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01101",
+          "start_seconds": 20382.64,
+          "clock": "05:39:42",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S03099",
+          "start_seconds": 20398.68,
+          "clock": "05:39:58",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S03100",
+          "start_seconds": 20409.26,
+          "clock": "05:40:09",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01115",
+          "start_seconds": 20485.68,
+          "clock": "05:41:25",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01117",
+          "start_seconds": 20508.2,
+          "clock": "05:41:48",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01129",
+          "start_seconds": 20565.64,
+          "clock": "05:42:45",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01290",
+          "start_seconds": 22298.06,
+          "clock": "06:11:38",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S01293",
+          "start_seconds": 22338.4,
+          "clock": "06:12:18",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "Financial indicators and analytical methods",
+      "id": "P008",
+      "kind": "finding",
+      "text": "The witness distinguished financial signals from completed findings. Covered and suspicious transaction reports, he said, require verification; bank inquiries supply the underlying records. Inflows are not necessarily income, returned capital is not necessarily earnings, and corporate receipts are not automatically a shareholder's income. Vinluan challenged the attribution of corporate revenue, estimated franchise capital and insurance value to Duterte, as well as desktop research and calculations in the forensic report. On cross-examination, Dela Fuente accepted sensitivity analysis as an accounting method and corporate-veil analysis as professional work, while distinguishing that work from judicial action."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00837",
+          "start_seconds": 16598.86,
+          "clock": "04:36:38",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00839",
+          "start_seconds": 16610.2,
+          "clock": "04:36:50",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S03020",
+          "start_seconds": 16615.52,
+          "clock": "04:36:55",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00840",
+          "start_seconds": 16617.46,
+          "clock": "04:36:57",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00842",
+          "start_seconds": 16636.47,
+          "clock": "04:37:16",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00844",
+          "start_seconds": 16645.61,
+          "clock": "04:37:25",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00845",
+          "start_seconds": 16660.23,
+          "clock": "04:37:40",
+          "speaker_name": "Sen. Paolo Benigno “Bam” Aquino"
+        },
+        {
+          "segment_id": "S00846",
+          "start_seconds": 16713.89,
+          "clock": "04:38:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00847",
+          "start_seconds": 16720.78,
+          "clock": "04:38:40",
+          "speaker_name": "Sen. Erwin Tulfo"
+        },
+        {
+          "segment_id": "S00849",
+          "start_seconds": 16815.2,
+          "clock": "04:40:15",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00852",
+          "start_seconds": 16818.18,
+          "clock": "04:40:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00857",
+          "start_seconds": 16871.85,
+          "clock": "04:41:11",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00861",
+          "start_seconds": 16900.07,
+          "clock": "04:41:40",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00863",
+          "start_seconds": 16950.46,
+          "clock": "04:42:30",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S03026",
+          "start_seconds": 17029.99,
+          "clock": "04:43:49",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "Opinions without the case records",
+      "id": "P009",
+      "kind": "finding",
+      "text": "Several senators returned to the missing factual foundation. Sen. Paolo Benigno “Bam” Aquino asked whether Dela Fuente had received bank statements, insurance records or corporate information sheets before appearing. Dela Fuente answered that none had been shown to him. Vinluan said selected parts of the fifty-page report were being presented in court to test concepts. Aquino asked for direct answers about specifics. Erwin Tulfo likewise questioned testimony without reviewed records. Hontiveros challenged criticism of an unread report; Dela Fuente invoked confidentiality and comparing excerpts with the law, while affirming respect for prosecution witness Atty. Alexander B. Cabrera's qualifications."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S03014",
+          "start_seconds": 16098.82,
+          "clock": "04:28:18",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00809",
+          "start_seconds": 16104.72,
+          "clock": "04:28:24",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00818",
+          "start_seconds": 16385.42,
+          "clock": "04:33:05",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00820",
+          "start_seconds": 16411.56,
+          "clock": "04:33:31",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00871",
+          "start_seconds": 17034.41,
+          "clock": "04:43:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00872",
+          "start_seconds": 17038.77,
+          "clock": "04:43:58",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S00873",
+          "start_seconds": 17066.22,
+          "clock": "04:44:26",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00874",
+          "start_seconds": 17074.28,
+          "clock": "04:44:34",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S00875",
+          "start_seconds": 17132.86,
+          "clock": "04:45:32",
+          "speaker_name": "Sen. Camille Villar"
+        },
+        {
+          "segment_id": "S00878",
+          "start_seconds": 17195.96,
+          "clock": "04:46:35",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00879",
+          "start_seconds": 17270.6,
+          "clock": "04:47:50",
+          "speaker_name": "Sen. Joel Villanueva"
+        }
+      ],
+      "heading": "Room for general principles",
+      "id": "P010",
+      "kind": "finding",
+      "text": "Other senators defended room for general principles. Sen. Imee Marcos invoked Lady Justice's blindfold in arguing for equal legal treatment without making personalities, or reading every document, the decisive test. Sen. Camille Villar urged time for the witness to explain universal accounting principles without the specific records. She compared Dela Fuente’s treatment with Cabrera’s, criticizing what she described as internet research and limited support in Cabrera’s report. Sen. Joel Villanueva accepted leeway but opposed unlimited scope, again questioning the breadth of testimony without prior review. Vinluan reiterated that he was presenting selected excerpts in court."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S03013",
+          "start_seconds": 15994.81,
+          "clock": "04:26:34",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00804",
+          "start_seconds": 16001.29,
+          "clock": "04:26:41",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00805",
+          "start_seconds": 16048.46,
+          "clock": "04:27:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00826",
+          "start_seconds": 16470.8,
+          "clock": "04:34:30",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00829",
+          "start_seconds": 16482.78,
+          "clock": "04:34:42",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S00880",
+          "start_seconds": 17327.55,
+          "clock": "04:48:47",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00888",
+          "start_seconds": 17385.94,
+          "clock": "04:49:45",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S03030",
+          "start_seconds": 17391.34,
+          "clock": "04:49:51",
+          "speaker_name": "Sen. Raffy T. Tulfo"
+        },
+        {
+          "segment_id": "S01347",
+          "start_seconds": 22868.72,
+          "clock": "06:21:08",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01358",
+          "start_seconds": 22937.15,
+          "clock": "06:22:17",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01371",
+          "start_seconds": 23004.95,
+          "clock": "06:23:24",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S04029",
+          "start_seconds": 23071.46,
+          "clock": "06:24:31",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01383",
+          "start_seconds": 23109.11,
+          "clock": "06:25:09",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01405",
+          "start_seconds": 23268.99,
+          "clock": "06:27:48",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01414",
+          "start_seconds": 23353.58,
+          "clock": "06:29:13",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S04032",
+          "start_seconds": 23394.25,
+          "clock": "06:29:54",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "Raffy Tulfo tests the witness’s experience",
+      "id": "P011",
+      "kind": "finding",
+      "text": "Raffy Tulfo pressed the witness across repeated rounds: the breadth of his opinions, his ability to rebut an unread report, his agency rank, promotion history, completed cases and role as investigator or team signatory. Raffy Tulfo warned that contrary evidence could expose the witness to contempt. Dela Fuente stood by his account, saying he had declined a promotion as he was leaving, participated in roughly eighty to ninety cases and led some investigations. A full analysis took time, he said; these were limited answers to excerpts and hypotheticals. Escudero reminded counsel that Dela Fuente was not qualified as a constitutional-law expert."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01196",
+          "start_seconds": 21265.12,
+          "clock": "05:54:25",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01199",
+          "start_seconds": 21287.06,
+          "clock": "05:54:47",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S01200",
+          "start_seconds": 21295.58,
+          "clock": "05:54:55",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01201",
+          "start_seconds": 21305.87,
+          "clock": "05:55:05",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S01202",
+          "start_seconds": 21313.11,
+          "clock": "05:55:13",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S03116",
+          "start_seconds": 21333.04,
+          "clock": "05:55:33",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01207",
+          "start_seconds": 21338.94,
+          "clock": "05:55:38",
+          "speaker_name": "Sen. Vicente C. Sotto III"
+        },
+        {
+          "segment_id": "S03117",
+          "start_seconds": 21342.92,
+          "clock": "05:55:42",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01425",
+          "start_seconds": 23423.95,
+          "clock": "06:30:23",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S04038",
+          "start_seconds": 23461.1,
+          "clock": "06:31:01",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01429",
+          "start_seconds": 23491.79,
+          "clock": "06:31:31",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01449",
+          "start_seconds": 23588.7,
+          "clock": "06:33:08",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01455",
+          "start_seconds": 23610.17,
+          "clock": "06:33:30",
+          "speaker_name": "Sen. Francis “Kiko” Pangilinan"
+        },
+        {
+          "segment_id": "S01465",
+          "start_seconds": 23688.81,
+          "clock": "06:34:48",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "Background and independence",
+      "id": "P012",
+      "kind": "finding",
+      "text": "The senators also tested experience and independence. Sen. Vicente C. Sotto III asked about Dela Fuente's background. Dela Fuente said he served in the council from 2015 to 2018, was in private practice in January 2021, and published his handbook in July 2025 after work begun in 2024. Sotto noted the law's January 2021 amendment came after Dela Fuente’s agency service. Pangilinan questioned political nonaffiliation through Dela Fuente’s former partner Atty. Edward Gialogo’s alleged connections. Dela Fuente denied personal knowledge and could not recall whether he voted in 2016. Pangilinan also contrasted two-week report preparation with immediate criticism of excerpts; the witness again confined his answers to hypotheticals."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00519",
+          "start_seconds": 7882.34,
+          "clock": "02:11:22",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00520",
+          "start_seconds": 7894.97,
+          "clock": "02:11:34",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S00852",
+          "start_seconds": 16818.18,
+          "clock": "04:40:18",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00857",
+          "start_seconds": 16871.85,
+          "clock": "04:41:11",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00861",
+          "start_seconds": 16900.07,
+          "clock": "04:41:40",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S00863",
+          "start_seconds": 16950.46,
+          "clock": "04:42:30",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S03026",
+          "start_seconds": 17029.99,
+          "clock": "04:43:49",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01477",
+          "start_seconds": 23803.48,
+          "clock": "06:36:43",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01485",
+          "start_seconds": 23872.91,
+          "clock": "06:37:52",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01492",
+          "start_seconds": 23953.64,
+          "clock": "06:39:13",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01498",
+          "start_seconds": 23996.94,
+          "clock": "06:39:56",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01502",
+          "start_seconds": 24023.97,
+          "clock": "06:40:23",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01522",
+          "start_seconds": 24147.39,
+          "clock": "06:42:27",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01532",
+          "start_seconds": 24188.86,
+          "clock": "06:43:08",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01542",
+          "start_seconds": 24216.44,
+          "clock": "06:43:36",
+          "speaker_name": "Sen. Risa Hontiveros"
+        },
+        {
+          "segment_id": "S01543",
+          "start_seconds": 24253.09,
+          "clock": "06:44:13",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "Hontiveros examines Cale88 red flags",
+      "id": "P013",
+      "kind": "finding",
+      "text": "Hontiveros examined Dela Fuente's Cagayan Economic Zone Authority consultancy, casino-sector training and online-gambling clients. Dela Fuente described compliance work and cooperation with investigations, not evasion, and said private practice did not let him determine criminality in this case. She pressed Cale88's 757 transaction reports, totaling about 1.25 billion pesos, and its reported losses and two employees against much larger inflows. Dela Fuente estimated that roughly thirty percent of his past cases had more reports and said large corporate volumes could be normal. She cited 208 million pesos in sales, 776 million in inflows, 319 million from China and year-end balances below 400,000 pesos. Dela Fuente agreed these were red flags for scrutiny, while distinguishing them from direct proof of wrongdoing."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01139",
+          "start_seconds": 20699.15,
+          "clock": "05:44:59",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01145",
+          "start_seconds": 20750.58,
+          "clock": "05:45:50",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01147",
+          "start_seconds": 20768.7,
+          "clock": "05:46:08",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01545",
+          "start_seconds": 24268.33,
+          "clock": "06:44:28",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01554",
+          "start_seconds": 24360.12,
+          "clock": "06:46:00",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01559",
+          "start_seconds": 24420.39,
+          "clock": "06:47:00",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01561",
+          "start_seconds": 24427.81,
+          "clock": "06:47:07",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01563",
+          "start_seconds": 24488.54,
+          "clock": "06:48:08",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01706",
+          "start_seconds": 26133.84,
+          "clock": "07:15:33",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01740",
+          "start_seconds": 26291.3,
+          "clock": "07:18:11",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01747",
+          "start_seconds": 26355.42,
+          "clock": "07:19:15",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01751",
+          "start_seconds": 26445.65,
+          "clock": "07:20:45",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "Business restrictions and government service",
+      "id": "P014",
+      "kind": "finding",
+      "text": "Erwin Tulfo asked about constitutional business restrictions and a discrepancy between corporate records and asset declarations. Dela Fuente offered his personal interpretation that business ownership was prohibited, called for neutral investigation and left the constitutional-violation question to the court. Erwin Tulfo also questioned short government tenures. The witness cited law-school demands, a coterminous appointment, and family and private-practice choices, saying he remained on good terms with former colleagues. Diokno separately challenged treating outside professional earnings as legitimate income in light of restrictions on the Vice President."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S03014",
+          "start_seconds": 16098.82,
+          "clock": "04:28:18",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00809",
+          "start_seconds": 16104.72,
+          "clock": "04:28:24",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00818",
+          "start_seconds": 16385.42,
+          "clock": "04:33:05",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00820",
+          "start_seconds": 16411.56,
+          "clock": "04:33:31",
+          "speaker_name": "Atty. Mark C. Vinluan"
+        },
+        {
+          "segment_id": "S00878",
+          "start_seconds": 17195.96,
+          "clock": "04:46:35",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S00879",
+          "start_seconds": 17270.6,
+          "clock": "04:47:50",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S04095",
+          "start_seconds": 24501.42,
+          "clock": "06:48:21",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01578",
+          "start_seconds": 24676.89,
+          "clock": "06:51:16",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01580",
+          "start_seconds": 24690.59,
+          "clock": "06:51:30",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01581",
+          "start_seconds": 24694.73,
+          "clock": "06:51:34",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01583",
+          "start_seconds": 24717.81,
+          "clock": "06:51:57",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S04052",
+          "start_seconds": 24733.41,
+          "clock": "06:52:13",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01584",
+          "start_seconds": 24736.84,
+          "clock": "06:52:16",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01586",
+          "start_seconds": 24785.62,
+          "clock": "06:53:05",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01650",
+          "start_seconds": 25543.81,
+          "clock": "07:05:43",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01655",
+          "start_seconds": 25611.63,
+          "clock": "07:06:51",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01659",
+          "start_seconds": 25650.49,
+          "clock": "07:07:30",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01663",
+          "start_seconds": 25748.01,
+          "clock": "07:09:08",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01666",
+          "start_seconds": 25818.88,
+          "clock": "07:10:18",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01667",
+          "start_seconds": 25853.06,
+          "clock": "07:10:53",
+          "speaker_name": "Sen. Joel Villanueva"
+        },
+        {
+          "segment_id": "S01669",
+          "start_seconds": 25870.47,
+          "clock": "07:11:10",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "Villanueva tests payments and remittances",
+      "id": "P015",
+      "kind": "finding",
+      "text": "Villanueva tested payments exceeding recorded capital and ways to verify exports. Dela Fuente suggested dividends or compensation as possibilities requiring examination, and identified contracts, invoices and shipment records. He agreed an owner could also be an employee. Villanueva's follow-up asking whether compensation became income received no separate answer before he moved on. On foreign remittances, the witness called for documentary support and agreed credible information about a foreign criminal investigation could justify enhanced due diligence and suspicious-transaction reporting without a conviction. Dela Fuente also described risk-based account closure."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01231",
+          "start_seconds": 21615.22,
+          "clock": "06:00:15",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S04002",
+          "start_seconds": 21625.14,
+          "clock": "06:00:25",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01232",
+          "start_seconds": 21631.23,
+          "clock": "06:00:31",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01233",
+          "start_seconds": 21637.45,
+          "clock": "06:00:37",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01234",
+          "start_seconds": 21638.33,
+          "clock": "06:00:38",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01235",
+          "start_seconds": 21646.23,
+          "clock": "06:00:46",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01243",
+          "start_seconds": 21708.29,
+          "clock": "06:01:48",
+          "speaker_name": "Rep. Jose Manuel “Chel” I. Diokno"
+        },
+        {
+          "segment_id": "S01247",
+          "start_seconds": 21747.79,
+          "clock": "06:02:27",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01593",
+          "start_seconds": 24875.46,
+          "clock": "06:54:35",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01595",
+          "start_seconds": 24890.08,
+          "clock": "06:54:50",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01596",
+          "start_seconds": 24934.38,
+          "clock": "06:55:34",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01597",
+          "start_seconds": 24963.33,
+          "clock": "06:56:03",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01598",
+          "start_seconds": 24978.48,
+          "clock": "06:56:18",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01601",
+          "start_seconds": 25016.1,
+          "clock": "06:56:56",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01602",
+          "start_seconds": 25024.04,
+          "clock": "06:57:04",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01605",
+          "start_seconds": 25057.89,
+          "clock": "06:57:37",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01606",
+          "start_seconds": 25095.89,
+          "clock": "06:58:15",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01609",
+          "start_seconds": 25123.15,
+          "clock": "06:58:43",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01612",
+          "start_seconds": 25147.39,
+          "clock": "06:59:07",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01613",
+          "start_seconds": 25157.88,
+          "clock": "06:59:17",
+          "speaker_name": "Sen. Sherwin T. Gatchalian"
+        },
+        {
+          "segment_id": "S01614",
+          "start_seconds": 25182.8,
+          "clock": "06:59:42",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "Bank transactions and income figures",
+      "id": "P016",
+      "kind": "finding",
+      "text": "Sen. Sherwin T. Gatchalian contrasted 2.7 billion pesos in bank transactions during 2009 through 2013 with much smaller declared tax income. He asked about investigation, freeze orders, red flags, amounts outside asset declarations and impeachability. Dela Fuente said further investigation and the normal freeze-order and bank-inquiry processes were warranted. Investigators needed source records to trace money beyond transaction-report snapshots, he explained; covered persons flag suspicious activity. Dela Fuente left impeachability to the court. His broader concession was that an unexplained-wealth case could proceed without a money-laundering finding, and he was not alleging that government or bank records were false."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00871",
+          "start_seconds": 17034.41,
+          "clock": "04:43:54",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S00872",
+          "start_seconds": 17038.77,
+          "clock": "04:43:58",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S04074",
+          "start_seconds": 25197.58,
+          "clock": "06:59:57",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01618",
+          "start_seconds": 25265.71,
+          "clock": "07:01:05",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01622",
+          "start_seconds": 25300.13,
+          "clock": "07:01:40",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01624",
+          "start_seconds": 25311.15,
+          "clock": "07:01:51",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01625",
+          "start_seconds": 25313.49,
+          "clock": "07:01:53",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S01628",
+          "start_seconds": 25402.88,
+          "clock": "07:03:22",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01634",
+          "start_seconds": 25434.23,
+          "clock": "07:03:54",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01636",
+          "start_seconds": 25463.23,
+          "clock": "07:04:23",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S01643",
+          "start_seconds": 25490.36,
+          "clock": "07:04:50",
+          "speaker_name": "Sen. Imee Marcos"
+        },
+        {
+          "segment_id": "S04080",
+          "start_seconds": 25520.26,
+          "clock": "07:05:20",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        },
+        {
+          "segment_id": "S04057",
+          "start_seconds": 25539.07,
+          "clock": "07:05:39",
+          "speaker_name": "Atty. Rainer P. Dela Fuente"
+        }
+      ],
+      "heading": "Marcos questions intelligence and aggregate flows",
+      "id": "P017",
+      "kind": "finding",
+      "text": "Marcos returned to intelligence reports, media sources and retrospective transaction flags. Dela Fuente said intelligence reports carried weight as leads to evidence, while news was second-hand information. Asked about linking 2019 insurance transactions to later flood-control reporting, he said new information could prompt review of old records. A suspicious flag meant checking, not automatic freezing or criminality. Marcos also questioned whether 4.4 billion pesos in inflows, outflows and rollovers represented accumulated wealth. Dela Fuente said a full investigation was needed; simply adding everything entering and leaving accounts was insufficient."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S01763",
+          "start_seconds": 26500.94,
+          "clock": "07:21:40",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01771",
+          "start_seconds": 26566.73,
+          "clock": "07:22:46",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01775",
+          "start_seconds": 26628.14,
+          "clock": "07:23:48",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01783",
+          "start_seconds": 26841.19,
+          "clock": "07:27:21",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01784",
+          "start_seconds": 26882.0,
+          "clock": "07:28:02",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01785",
+          "start_seconds": 26939.96,
+          "clock": "07:28:59",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01788",
+          "start_seconds": 26950.37,
+          "clock": "07:29:10",
+          "speaker_name": "Rep. Terry L. Ridon"
+        }
+      ],
+      "heading": "Conflict of interest and divestment",
+      "id": "P018",
+      "kind": "finding",
+      "text": "After Escudero excused Dela Fuente, lead defense counsel Atty. Sheila C. Sison argued that mandatory divestment under Republic Act 6713 required the specified conflict-of-interest conditions to concur. Citing court decisions, she emphasized actual intervention in a transaction involving financial interest. Escudero took judicial notice of the cited laws and decisions. Prosecutor Rep. Terry L. Ridon declined an oral response, saying the issue belonged in a written memorandum or closing arguments."
+    },
+    {
+      "citations": [
+        {
+          "segment_id": "S00522",
+          "start_seconds": 11616.78,
+          "clock": "03:13:36",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01765",
+          "start_seconds": 26518.54,
+          "clock": "07:21:58",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01794",
+          "start_seconds": 26969.51,
+          "clock": "07:29:29",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01795",
+          "start_seconds": 26977.83,
+          "clock": "07:29:37",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01803",
+          "start_seconds": 27025.19,
+          "clock": "07:30:25",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01804",
+          "start_seconds": 27055.72,
+          "clock": "07:30:55",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01809",
+          "start_seconds": 27067.98,
+          "clock": "07:31:07",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01813",
+          "start_seconds": 27100.93,
+          "clock": "07:31:40",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01814",
+          "start_seconds": 27103.49,
+          "clock": "07:31:43",
+          "speaker_name": "Sen. Panfilo “Ping” M. Lacson"
+        },
+        {
+          "segment_id": "S01815",
+          "start_seconds": 27111.1,
+          "clock": "07:31:51",
+          "speaker_name": "Atty. Sheila C. Sison"
+        },
+        {
+          "segment_id": "S01817",
+          "start_seconds": 27116.98,
+          "clock": "07:31:56",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        },
+        {
+          "segment_id": "S01820",
+          "start_seconds": 27144.78,
+          "clock": "07:32:24",
+          "speaker_name": "Sen. Francis \"Chiz\" G. Escudero"
+        }
+      ],
+      "heading": "The next sitting",
+      "id": "P019",
+      "kind": "finding",
+      "text": "The court set further defense testimony for November 20 at ten in the morning. Scheduled were Dr. Ceferino S. Rodolfo, Pilar Marilyn M. Pagayunan and CITEM representative Atty. Eva Marie Mariquina, replacing Rowena G. Mendoza. Escudero directed that both parties receive the subpoenaed documents. In answer to Lacson's scheduling question, Sison clarified that these were the last witnesses for that week, rather than announcing the end of the entire defense presentation. Later hearing dates were to be announced at the next sitting."
+    },
+    {
+      "citations": [],
+      "heading": "Closing — November 19, 2026",
+      "id": "P020",
+      "kind": "outro",
+      "text": "Each substantive point in this overview links to the reviewed transcript and the official hearing video. This has been the November 19, 2026 audio overview."
+    }
+  ],
+  "title": "November 19, 2026 — Defense financial witness and the limits of his opinions"
+}
